@@ -11,11 +11,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('assignments', nargs='+')
     parser.add_argument('--write', action='store_true')
+    parser.add_argument('--manifest', type=Path, default=PATH)
     parser.add_argument('--agent', help='Actual reused agent task name; requires one assignment')
     args = parser.parse_args()
     if args.agent and (len(args.assignments) != 1 or not args.agent.startswith('/root/')):
         raise ValueError('Explicit actual agent requires one assignment and a root child task name')
-    data = json.loads(PATH.read_text(encoding='utf-8'))
+    data = json.loads(args.manifest.read_text(encoding='utf-8'))
     preview = []
     for assignment in args.assignments:
         stage, packet, worker = map(int, assignment.split(':'))
@@ -34,7 +35,7 @@ def main():
             target['status'] = 'running'
     print(json.dumps(preview, indent=1))
     if args.write:
-        PATH.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding='utf-8')
+        args.manifest.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding='utf-8')
 
 
 if __name__ == '__main__':

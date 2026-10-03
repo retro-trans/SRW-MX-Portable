@@ -70,9 +70,14 @@ def check_full(rows):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--write', action='store_true')
+    parser.add_argument('--manifest', type=Path, default=MANIFEST)
     args = parser.parse_args()
-    manifest = read(MANIFEST)
+    manifest = read(args.manifest)
     available = {}
+    for seed in manifest.get('seed_sources', []):
+        if seed.endswith('prologue_merged.json'):
+            continue  # The legacy reconciliation below handles this source.
+        available[seed] = {r['id']: r for r in read(ROOT/seed)['rows']}
     validation = []
     total = 0
     context_overrides = campaign_context_overrides.load_overrides()
@@ -169,7 +174,7 @@ def main():
     if args.write:
         write(ROOT/'work/output/campaign_reuse_meaning_reconciliation.json',reuse_edits)
     assembled = []
-    context_reviews_path = ROOT/'work/output/campaign_context_reviews.json'
+    context_reviews_path = ROOT / manifest.get('context_reviews', 'work/output/campaign_context_reviews.json')
     context_reviews = read(context_reviews_path)['stages'] if context_reviews_path.exists() else {}
     for stage in manifest['stages']:
         all_path = ROOT/'work/translation/en/script'/(stage['base']+'_all_source.json')
@@ -212,8 +217,8 @@ def main():
                    assembled_stages=assembled)
     print(json.dumps(summary,ensure_ascii=False))
     if args.write:
-        write(MANIFEST, manifest)
-        write(ROOT/'work/output/stages01_30_sol_medium_status.json',summary)
+        write(args.manifest, manifest)
+        write(args.manifest.with_name(args.manifest.stem.replace('_manifest', '_status')+'.json'),summary)
 
 
 if __name__ == '__main__':

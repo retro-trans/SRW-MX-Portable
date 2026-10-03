@@ -16,17 +16,25 @@ def read(path):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--through', type=int, default=30, choices=range(1, 31))
+    parser.add_argument('--through', type=int, default=30, choices=range(1, 59))
+    parser.add_argument('--first', type=int, default=1, choices=range(1, 59))
+    parser.add_argument('--manifest', type=Path, default=ROOT/'work/output/stages01_30_sol_medium_manifest.json')
+    parser.add_argument('--output', type=Path, default=ROOT/'work/output/campaign_completion_audit.json')
     parser.add_argument('--write', action='store_true')
     args = parser.parse_args()
-    manifest = read(ROOT / 'work/output/stages01_30_sol_medium_manifest.json')
+    manifest = read(args.manifest)
+    if args.first > args.through:
+        parser.error('First stage exceeds last stage.')
+    expected_stages = set(range(args.first, args.through+1))
+    if not expected_stages <= {s['stage'] for s in manifest['stages']}:
+        parser.error('Requested stages are absent from manifest.')
     problems, stages = [], []
     if (manifest['model'], manifest['effort'], manifest['workers_per_stage']) != ('gpt-6.1-sol', 'medium', 6):
         problems.append('Campaign model/effort/worker settings differ')
     for name, expected in manifest['snapshots'].items():
         if hashlib.sha256((SCRIPT / name).read_bytes()).hexdigest() != expected:
             problems.append('Binding snapshot changed: ' + name)
-    for n in range(1, args.through + 1):
+    for n in range(args.first, args.through + 1):
         packets = [p for p in manifest['packets'] if p['stage'] == n]
         agents = {p.get('agent') for p in packets}
         if None in agents or len(agents) != 6:
@@ -63,7 +71,7 @@ def main():
                            packets=len(packets), actual_agents=sorted(a for a in agents if a),
                            fingerprint=review.get('fingerprint')))
     font_path = Path(os.environ.get('SRW_STATIC2', str(ROOT / 'work/build/STATIC2_ADD.BIN'))).resolve()
-    result = dict(through=args.through, model=manifest['model'], effort=manifest['effort'],
+    result = dict(first=args.first, through=args.through, model=manifest['model'], effort=manifest['effort'],
                   font_source=str(font_path),
                   font_sha256=hashlib.sha256(font_path.read_bytes()).hexdigest(),
                   fresh_rows=sum(s['fresh_rows'] for s in stages),
@@ -71,7 +79,7 @@ def main():
                   packets=sum(s['packets'] for s in stages), problems=problems, stages=stages)
     print(json.dumps({k: v for k, v in result.items() if k != 'stages'}, indent=1))
     if args.write:
-        (ROOT / 'work/output/campaign_completion_audit.json').write_text(json.dumps(result, indent=1), encoding='utf-8')
+        args.output.write_text(json.dumps(result, indent=1), encoding='utf-8')
     if problems:
         raise SystemExit(1)
 

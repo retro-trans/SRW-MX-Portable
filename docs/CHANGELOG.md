@@ -1,6 +1,17 @@
 # Changelog
 
-## 0.4.2 — 2026-10-04 (`work/output/SRWMX_EN_0.4.2.iso`)
+## Translation work — 2026-10-04 (not yet inserted into a build)
+
+- Prepared all remaining routes, final/ending, hidden stage, unused scenes and
+  save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
+- Completed and reviewed stages 31–32: 1,304 fresh rows and 1,652 full rows.
+  All initial drafts fit; full drafts, decisions and measured widths remain.
+- Extended campaign validation and context-review tools to separate manifests;
+  completed stages 1–30 remain intact. Stage 33 translation is ongoing.
+- Recorded source-backed speaker aliases and supplemental terminology. Further
+  GitHub releases require the user's explicit instruction for that build.
+
+## 0.4.2 — 2026-10-04 (unpublished local build, `work/output/SRWMX_EN_0.4.2.iso`)
 
 - Translated every chapter-card title, covering all 67 scenarios, both starting
   routes, route branches, later stages, the hidden stage and the final stage.
@@ -16,6 +27,8 @@
   and physical PSP playtesting remain pending. Story coverage remains 1–30.
 - Full patch from the original Japanese ULJS-00041 ISO uses Retro Trans
   manifests, whole-image round-trip validation and release checksums.
+- GitHub release returned to draft and removed from the active catalog at the
+  user's request. Further releases require explicit permission.
 
 ## 0.4.1 — 2026-10-04 (`work/output/SRWMX_EN_0.4.1.iso`)
 

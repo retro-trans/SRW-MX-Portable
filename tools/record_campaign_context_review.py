@@ -20,8 +20,9 @@ def main():
     parser.add_argument('--note', required=True)
     parser.add_argument('--append-note', action='store_true')
     parser.add_argument('--write', action='store_true')
+    parser.add_argument('--reviews', type=Path, default=PATH)
     args = parser.parse_args()
-    data = json.loads(PATH.read_text(encoding='utf-8')) if PATH.exists() else {'stages': {}}
+    data = json.loads(args.reviews.read_text(encoding='utf-8')) if args.reviews.exists() else {'stages': {}}
     updates = {}
     for n in args.stages:
         source = 'work/translation/en/script/stage{:02d}_campaign.json'.format(n)
@@ -39,7 +40,7 @@ def main():
     print(json.dumps(preview, ensure_ascii=False, indent=1))
     if args.write:
         data['stages'].update(updates)
-        PATH.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding='utf-8')
+        args.reviews.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding='utf-8')
 
 
 if __name__ == '__main__':

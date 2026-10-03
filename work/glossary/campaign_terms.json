@@ -2175,7 +2175,7 @@
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Flow_Chart",
     "work/translation/en/script/stage24_campaign.json"
    ],
-   "notes": "Stage24 row132 operation name, Akurasu MXP space-route chapter heading corroborates English. Do not add Bond reference or operation details not in source."
+   "notes": "Stage24 row132 operation name, Akurasu MXP space-route chapter heading corroborates English. Do not add Bond reference or operation details not in source. Remaining-campaign confirmation: Confirmed part6 Space route heading. Stage31 source row58 names the operation."
   },
   {
    "jp": "アナハイム",
@@ -3287,6 +3287,67 @@
     "https://akurasu.net/wiki/Super_Robot_Wars/MX"
    ],
    "notes": "Part name in STATIC2_ADD.BIN (Part section). akurasu has no entry. Gravity Wave Beam as in the glossary"
+  },
+  {
+   "jp": "バイオフィードバックシステム",
+   "en": "Biofeedback System",
+   "sources": [
+    "work/translation/en/script/stage31_campaign.json"
+   ],
+   "notes": "Source lexical rendering of the system name in rows12-16; no exact Akurasu entry found. Not a claim of independently verified licensed terminology."
+  },
+  {
+   "jp": "河口湖",
+   "en": "Lake Kawaguchi",
+   "sources": [
+    "https://www.japan.travel/en/spot/1329/"
+   ],
+   "notes": "Official Japan National Tourism Organization spelling; no Akurasu location entry found. Stage31 row157."
+  },
+  {
+   "jp": "ア・バオア・クー",
+   "en": "A Baoa Qu",
+   "sources": [
+    "https://akurasu.net/wiki/Bright_Noa",
+    "https://en.gundam.info/about-gundam/gundam-school/62952p.html"
+   ],
+   "notes": "Akurasu and official Gundam.info confirm the location spelling; MX flow chart exact location search had no hit. Stage32 row242."
+  },
+  {
+   "jp": "思考コントロールシステム",
+   "en": "thought-control system",
+   "sources": [
+    "work/translation/en/script/stage31_campaign.json"
+   ],
+   "notes": "Source-literal fictional system description in rows334-335; no exact Akurasu entry found. Generic phrase, not independently licensed terminology."
+  },
+  {
+   "jp": "超電磁ネット",
+   "en": "super-electromagnetic net",
+   "sources": [
+    "work/translation/en/script/stage31_campaign.json"
+   ],
+   "notes": "Source-literal device description in rows375/399; no exact Akurasu entry found. Existing unhyphenated equivalent in other rows retains the same meaning."
+  },
+  {
+   "jp": "境界震",
+   "en": "boundary quake",
+   "sources": [
+    "work/translation/en/script/stage32_campaign.json:471-473"
+   ],
+   "notes": "Source-literal project convention: Hari reports the phenomenon above the base and explicitly distinguishes it from Boson Jump. Exact Akurasu and external searches found no established licensed English name. Keep provenance uncertainty; do not conflate with Dai-Guard kaishin or SRW Z dimensional quake."
+  },
+  {
+   "jp": "角力灘",
+   "en": "Sumonada Sea",
+   "aliases_jp": [
+    "スモウナダ"
+   ],
+   "sources": [
+    "https://www.city.nagasaki.lg.jp/page/5336.html",
+    "https://en.at-nagasaki.jp/barrierfree/64187"
+   ],
+   "notes": "Official Nagasaki City and tourism spelling for waters west of Nagasaki, matching stage33 rows103-105. No Akurasu location entry found. Source-short repeated question may say Sumonada without adding Sea."
   }
  ],
  "characters": [
@@ -3396,9 +3457,11 @@
    "sources": [
     "https://akurasu.net/wiki/Master_Characters_List",
     "https://www.akurasu.net/wiki/Super_Robot_Wars/A/Pilot_Database",
-    "https://gundam.fandom.com/wiki/Schwarz_Bruder"
+    "https://gundam.fandom.com/wiki/Schwarz_Bruder",
+    "https://akurasu.net/wiki/Super_Robot_Wars/A_Portable/Pilot_Database",
+    "https://gundam.wiki.cre.jp/wiki/%E3%82%B7%E3%83%A5%E3%83%90%E3%83%AB%E3%83%84%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC"
    ],
-   "notes": "Exact Akurasu full/short spelling. Gender/role/personality explicitly supported by Gundam Wiki, not inferred from name. Do not add an identity revelation before source reveals it."
+   "notes": "Exact Akurasu full/short spelling. Gender/role/personality explicitly supported by Gundam Wiki, not inferred from name. Do not add an identity revelation before source reveals it. Remaining-campaign confirmation: MX character list has no entry. Akurasu master list and A Portable confirm the English name. Preserve source-short Schwarz; do not expose the hidden identity in dialogue."
   },
   {
    "jp_full": "流竜馬",
@@ -3545,6 +3608,73 @@
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
    ],
    "notes": "Stage16 i03s2b:36 appears between Dr. Kasshu's lines31 and38 about Domon/Rain. Context resolves the shortened source label as Dr. Kasshu; do not map Domon's name to his father."
+  },
+  {
+   "jp": "ベガ兵士",
+   "en": "Vegan Soldier",
+   "canonical_jp": "ベガ兵",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegan_Soldiers"
+   ],
+   "notes": "Stage38 label variant of existing Vegan Soldier; no gender inferred."
+  },
+  {
+   "jp": "電子音声",
+   "en": "Electronic Voice",
+   "canonical_jp": "電子音声",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json"
+   ],
+   "notes": "Generic source label for automated warnings, not a named person; no gender inferred."
+  },
+  {
+   "jp": "渋谷",
+   "en": "Shibuya",
+   "canonical_jp": "渋谷長官",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage43_campaign.json"
+   ],
+   "notes": "Short source surname at s0840:423; retain surname without adding Chief."
+  },
+  {
+   "jp": "トレース",
+   "en": "Torres",
+   "canonical_jp": "トーレス",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List",
+    "work/translation/en/script/stage45_campaign.json"
+   ],
+   "notes": "Source typo in s0910:216,219; surrounding scene labels correctly name Torres."
+  },
+  {
+   "jp": "ワカバ",
+   "en": "Wakaba",
+   "canonical_jp": "アオイ・ワカバ",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage45_campaign.json"
+   ],
+   "notes": "i091b:403 source surname label; prior line402 explicitly identifies Aoi Wakaba. Keep surname in label; do not confuse with Kaine."
+  },
+  {
+   "jp": "遥",
+   "en": "Haruka",
+   "canonical_jp": "遙",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage45_campaign.json"
+   ],
+   "notes": "Variant kanji for existing Haruka Shitow; s0910:381 bridge context confirms identity."
+  },
+  {
+   "jp": "#男愛称ゴ",
+   "en": "#男愛称",
+   "canonical_jp": "#男愛称",
+   "sources": [
+    "work/translation/en/script/stage56_campaign.json"
+   ],
+   "notes": "Original s0570:350 has stray katakana Go after the male nickname placeholder. Adjacent343-356 use the normal male-lead label throughout the same confession. Preserve runtime nickname token and correct stray suffix in English speaker label; original Japanese remains untouched."
   }
  ]
 }

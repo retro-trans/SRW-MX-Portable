@@ -8,23 +8,23 @@ Bug reports, proofreading and playtesting are welcome. Include your build versio
 
 ## Play it
 
-The latest build is [v0.4.2](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.2). This is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. All 67 chapter titles are in English, including route variants and the hidden and final stages. Later story stages and many closing messages remain Japanese.
+The latest public release is [v0.4.1](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1). The complete chapter-card update is available locally as build 0.4.2 and is awaiting release approval. This is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. Local build 0.4.2 has all 67 chapter titles in English, including route variants and the hidden and final stages. The public 0.4.1 patch has only the Stage 1 Super card translated. Later story stages and many closing messages remain Japanese.
 
-You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.2.xdelta` from the release page.
+You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.1.xdelta` from the release page.
 
 ### Apply
 
-**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic**: select the source ISO, wait for analysis, then click **Patch**. v0.4.2 is registered in the verified catalog. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
+**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic**: select the source ISO, wait for analysis, then click **Patch**. v0.4.1 is registered in the verified catalog. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) accepts the same `.xdelta` file. Select your Japanese ISO as the original file and the patch as the delta.
 
 **Command line:** Get [xdelta3](https://github.com/jmacd/xdelta), then run:
 
 ```sh
-xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.2.xdelta "SRWMX English v0.4.2.iso"
+xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.1.xdelta "SRWMX English v0.4.1.iso"
 ```
 
-The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.2.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier local English test builds as its source.
+The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.1.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier local English test builds as its source.
 
 Use an in-game save when switching builds and restart the game. Emulator save states retain the old executable and resources. The font and translated artwork are native game patches; no emulator texture replacement is required.
 

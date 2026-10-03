@@ -28,10 +28,10 @@ def main():
             path = owner['source']
             if path not in owners:
                 candidate = ROOT / path
-                if not path.endswith('prologue_merged.json'):
+                if not path.endswith(('prologue_merged.json', '_full_merged.json')):
                     candidate = candidate.with_name(candidate.stem+'_sol61medium_merged.json')
                 owners[path] = {r['id']:r for r in json.loads(candidate.read_text(encoding='utf-8'))['rows']} if candidate.exists() else {}
-                if not path.endswith('prologue_merged.json'):
+                if not path.endswith(('prologue_merged.json', '_full_merged.json')):
                     # Pending stages have no merged file yet. Read finished local
                     # packets for advisory context only; status validation is separate.
                     packet_pattern = Path(path).stem+'_sol61medium_slice_*.json'

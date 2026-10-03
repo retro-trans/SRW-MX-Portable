@@ -14,7 +14,22 @@ Metadata: `work/translation/en/ui/all_chapter_cards.json`; report:
 `work/output/chapter_cards_0.4.2_verification.json`. English preview sheets and
 native test captures are in `work/ui/`. See `docs/chapter_cards.md` for layout,
 palette handling and the scope of renderer probes. Story coverage is unchanged.
-Release packaging/publishing and catalog registration status is updated below.
+0.4.2 briefly became public before the user instructed that releases must wait
+for explicit permission. It is now an unpublished GitHub draft and withdrawn
+from the active Retro Trans catalog; 0.4.1 remains the public release. The tagged
+source is `036a619be3c23b3abdfe8ee18182a47523ddeedf`, the verified full patch is
+1,574,947 bytes and local assets are `work/output/release-v0.4.2/`. All eight
+uploaded assets were downloaded and checked before withdrawal. A future
+approved release should use a new version because the catalog withdrawal is
+permanent. Do not publish any further release without the user's instruction.
+
+Active task: translate dialogue after stage 30 through the ending, using
+Sol 6.1 Medium sub-agents. Keep source Japanese local and preserve initial
+drafts, context decisions, measured fit checks and every route/scene use.
+Stages 31–32 are translated and reviewed: 1,304 fresh rows and 1,652 full rows.
+Stage 33 translation is in progress. Queue:
+`work/output/stages31_end_sol_medium_manifest.json`; review notes and tooling:
+`docs/stages31_end_sol_medium.md`. These later translations are not yet in an ISO.
 
 **Earlier released build: 0.4.1.** Published at
 https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1 in the now-public
