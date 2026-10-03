@@ -4272,6 +4272,189 @@
     "work/translation/en/script/stage40_campaign.json:492"
    ],
    "notes": "JNTO English supports island spelling. Source says D1 appears offshore and apparently heads toward Nirai Kanai; no sightseeing description or coordinates added."
+  },
+  {
+   "jp": "ＭＯＤＥＬ－Ｘ",
+   "en": "MODEL-X",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:6"
+   ],
+   "notes": "Explicit source code; preserve letters and hyphen, no future machine identity or model expansion."
+  },
+  {
+   "jp": "ＴＥアブゾーバー試作１０号機",
+   "en": "TE Absorber prototype No. 10",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage41_campaign.json:6"
+   ],
+   "notes": "Existing TE Absorber stem plus source prototype number. Exact licensed whole designation unverified; not silently identified as a later unit."
+  },
+  {
+   "jp": "エイドロン",
+   "en": "Eidolon",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Watch_the_Year_Hand",
+    "work/translation/en/script/stage41_campaign.json:72,93"
+   ],
+   "notes": "No exact Akurasu entry found; series wiki corroborates unmanned aircraft spelling. Exact primary licensed English label unverified. Do not invent pilots or acronym expansion."
+  },
+  {
+   "jp": "エイドロン第１２小隊",
+   "en": "Eidolon 12th Platoon",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:72"
+   ],
+   "notes": "Literal source tactical organization; exact licensed formation designation unverified. Do not infer human pilots or larger formation size."
+  },
+  {
+   "jp": "功刀一尉",
+   "en": "Captain Kunugi",
+   "sources": [
+    "https://www.mod.go.jp/asdf/special/uploads/docs/2025panfu.pdf",
+    "https://srw.wiki.cre.jp/wiki/九鬼正義",
+    "work/translation/en/script/stage41_campaign.json:104"
+   ],
+   "notes": "Historical source-ranked address, distinguished from current Commander Kunugi in following row. Captain is provisional ground/air first-class JSDF officer rank equivalence; JASDF primary table supports Captain, not First Lieutenant, for first-class rank. Exact fictional branch and licensed address unverified; retain flag. No generic rank mapping."
+  },
+  {
+   "jp": "ビルベルビント迎撃ミサイル",
+   "en": "Wirbelwind interceptor missiles",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:108"
+   ],
+   "notes": "Provisional source katakana/name transliteration plus explicit interception missiles. No exact Akurasu or primary licensed whole weapon designation verified. Do not import historical German tank capabilities or missile specifications."
+  },
+  {
+   "jp": "戦術融合弾",
+   "en": "tactical fusion warhead",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:113"
+   ],
+   "notes": "Literal source fictional munition name; exact licensed whole label unverified. Source launch order and daughter consequence retained without external yield, mechanism or weapon specifications."
+  },
+  {
+   "jp": "ＭＵ大戦",
+   "en": "Mu War",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:113"
+   ],
+   "notes": "Unnumbered source war label. Do not add First from outside series chronology; translate the source fifteen-years-ago timeframe only."
+  },
+  {
+   "jp": "カマボコ野郎",
+   "en": "fish-cake bastard",
+   "sources": [
+    "https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/nerimono.html",
+    "work/translation/en/script/stage41_campaign.json:128"
+   ],
+   "notes": "MAFF primary food source confirms kamaboko/fish-cake meaning. Literal source insult aimed at D1; shape connection remains a contextual interpretation and licensed localization unverified. No food lore added."
+  },
+  {
+   "jp": "九鬼一佐",
+   "en": "Colonel Kuki",
+   "sources": [
+    "https://www.mod.go.jp/asdf/special/uploads/docs/2025panfu.pdf",
+    "work/translation/en/script/stage41_campaign.json:349,359"
+   ],
+   "notes": "Source-ranked address in Kunugi/Kuki exchange only. Colonel is provisional ground/air first-class field-officer equivalence; exact fictional branch and licensed address unverified. No generic rank mapping; preserve local uncertainty, distinct from historical Captain Kunugi."
+  },
+  {
+   "jp": "ジュピター・システム",
+   "en": "Jupiter System",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:351,352"
+   ],
+   "notes": "Explicit source system name, literal katakana rendering; no exact Akurasu or primary licensed English label found. Do not add mechanism/specifications or identify all other Jupiter phenomena as this system."
+  },
+  {
+   "jp": "十文字猛",
+   "en": "Takeshi Jumonji",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters",
+    "https://srw.wiki.cre.jp/wiki/弐神譲二",
+    "work/translation/en/script/stage41_campaign.json:380"
+   ],
+   "notes": "No exact Akurasu alternative-name entry found. Secondary series character reference corroborates spelling and Japanese SRWwiki source identity. Exact primary licensed English spelling unverified; only reveal where original source reveals it."
+  },
+  {
+   "jp": "連邦政府統括部",
+   "en": "Federation Government Administrative Department",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:380"
+   ],
+   "notes": "Literal source organization label; exact licensed English designation unverified. Do not import original-series United Nations/Section6 organization into this game source."
+  },
+  {
+   "jp": "カルン・ムティアラ島",
+   "en": "Karun Mutiara Island",
+   "sources": [
+    "work/translation/en/script/stage41_campaign.json:394"
+   ],
+   "notes": "Provisional source katakana romanization. Exact Akurasu/primary licensed name unverified. Actual source uses ラ/Mutiara; old unsupported glossary カルン・ムティアナ島/Mutiana is a different spelling, retained separately, not silently substituted."
+  },
+  {
+   "jp": "ヒラニプラ",
+   "en": "Hiranipra",
+   "sources": [
+    "https://www.khantazi.org/Rec/Anime/RahIntro.html",
+    "work/translation/en/script/stage41_campaign.json:397"
+   ],
+   "notes": "Source katakana transliteration corroborated by secondary series reference. No exact Akurasu/primary licensed label found; retain licensed-provenance flag, no Sanskrit/geography/identity expansion."
+  },
+  {
+   "jp": "宮崎",
+   "en": "Miyazaki",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kansai/osaka/",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "高知",
+   "en": "Kochi",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kansai/osaka/",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "名古屋",
+   "en": "Nagoya",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kansai/osaka/",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "神戸",
+   "en": "Kobe",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kansai/osaka/",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "大阪",
+   "en": "Osaka",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kansai/osaka/",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "水戸",
+   "en": "Mito",
+   "sources": [
+    "https://www.city.mito.lg.jp/site/kankouinfo/1671.html",
+    "work/translation/en/script/stage41_campaign.json:447"
+   ],
+   "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
   }
  ],
  "characters": [

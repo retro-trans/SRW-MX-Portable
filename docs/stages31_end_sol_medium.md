@@ -42,6 +42,9 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
+Stages 31–41 now total 6,503 reviewed fresh rows, 8,439 full rows and 90 packets.
+Stage 42 is in progress. No later dialogue has yet been inserted into an ISO.
+
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
 drafts and measured final translations. All initial drafts fit without shortening.
@@ -143,6 +146,18 @@ source-short acronyms, unfinished commands and barrier-restoration doubts remain
 Exact review fingerprint:
 `63e7cafe9cf5b9d256b767b7e2029bb47d590f68f1f98816fff52a94030bf703`.
 
-Stages 31–40 now total 6,049 fresh and 7,811 full rows, with 84 validated packets.
-Stage 41 is underway. Full-game local insertion and playtesting remain pending.
+Stage 41 is complete: 454 fresh rows in six packets, 628 full rows and 709
+original uses. All 56 fresh flags and every use of the 31 non-template reused
+rows were reviewed, including repeated silences in separate scenes. The 143
+defeat-template rows have 205 registered uses and no ordinary uses. All full
+initial drafts and finals fit without compression. Three final ranked Bright
+addresses follow the established Captain rule; Amuro's destruction question
+retains the achieved result rather than becoming a purpose clause. Historical
+Kunugi/Kuki ranks retain fictional-branch uncertainty. Source-short acronyms,
+unfinished clauses, the unnamed medicine recipient, singing syllable counts
+and Eldy's reveal order remain. Mutiara follows the actual source spelling,
+distinct from the unsupported old Mutiana entry. Exact review fingerprint:
+`b1911bb7b01cd324f8c40720aee8189165289ca8cd5c70940793603c9256ec52`.
+
+Stage 42 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

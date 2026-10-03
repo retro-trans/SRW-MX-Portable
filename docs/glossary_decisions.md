@@ -625,3 +625,30 @@ Neriya's black egg and Rah's poetic compounds retain unverified licensed wording
 Brother of Naacal follows the existing stem and secondary epithet corroboration;
 no family relationship, hidden identity or mechanism is imported. All supporting
 links and scoped decisions are recorded in `work/glossary/campaign_terms.json`.
+
+## Stage 41 terminology scope (2026-10-04)
+
+MODEL-X and TE Absorber prototype No. 10 preserve source letters and number,
+without revealing a future machine identity. Eidolon has secondary series
+spelling support; its numbered formation and the Wirbelwind interception
+missile remain provisional licensed labels. Tactical fusion warhead keeps
+the fictional source name without added yield or mechanism. Mu War remains
+unnumbered. MAFF supports the fish-cake food stem, not its insulting adaptation.
+
+The JASDF primary rank table supports Captain for its first-class lieutenant
+grade and Colonel for its first-class field-officer grade. The fictional
+branch and exact licensed addresses remain unverified, so Captain Kunugi and
+Colonel Kuki retain flags and apply only to their explicit source-ranked
+addresses. Current Commander Kunugi stays distinct. Bright's established
+Akurasu naval Captain rule applies to three further final rows; other
+characters' Colonel ranks are unaffected.
+
+Jupiter System and the Federation Government Administrative Department are
+literal source labels. Takeshi Jumonji has secondary character-name support;
+his name appears only at the source reveal. Hiranipra has secondary spelling
+corroboration. Mutiara follows the actual katakana source and stays distinct
+from the older unsupported Mutiana glossary spelling. These records retain
+unverified licensed-English provenance. T.J. Buster and WP stay unexpanded.
+JNTO's major-city list and Mito municipality support the six city spellings
+only; the original list order and fictional military report remain unchanged.
+All links, source locations and limits are recorded in campaign terms.
