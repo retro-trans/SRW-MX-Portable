@@ -5,7 +5,21 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
-**Current test build: 0.4.1.** Incrementally patched the latest 0.4.0 ISO, which
+**Current released build: 0.4.1.** Published at
+https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1 in the now-public
+repository. The 1,396,947-byte full xdelta patch is built against the original
+Japanese ULJS-00041 ISO and reproduces the complete output SHA-256
+`cf4af0243dadd37718866d7ee1a6f1f8d8974d5f55dd827644227f4e58d1c7d5`.
+All uploaded assets were downloaded and verified before publication. Retro
+Trans's scoped catalog refresh passed and the live catalog includes v0.4.1,
+so Automatic mode can discover it. Release source tag pins commit
+`db7bde279f8785a04e72bbc9617bd70cb73a1f03`; later documentation commits do not
+change that tag. Final assets: `work/output/release-v0.4.1-optimized/`. The older
+`release-v0.4.1/` directory contains an unpublished oversized encoder trial;
+do not use it. `tools/build_release.py` now uses the whole source image as its
+xdelta source window to handle ISO file relocation efficiently.
+
+Incrementally patched the latest 0.4.0 ISO, which
 already contains the prologue and stages 1–30 plus the 0.3.3 battle/UI/font work.
 Added the requested Kaine closing line in its three `end_mes` uses and the stage
 1 Super title-card lettering, **Visitors from the Beyond**. The title-card atlas

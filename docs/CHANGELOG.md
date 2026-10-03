@@ -26,6 +26,9 @@
 - Added source restoration from scene/string locations, release-building tools,
   translation instructions and font license notices. Only final English dialogue
   copies are committed; Japanese script and game images stay local.
+- Published the 1,396,947-byte patch after full ISO round-trip verification and
+  verification of downloaded GitHub assets. Registered v0.4.1 in the live
+  Retro Trans catalog; the scoped refresh completed successfully.
 
 ## 0.4.0 — 2026-10-03 (test build, `work/output/SRWMX_EN_0.4.0.iso`)
 
