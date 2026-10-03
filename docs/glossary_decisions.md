@@ -599,3 +599,29 @@ Stage 39 Zero Barrier is the source loanword for Spiral Castle's interception
 limit. The next source line supplies the atmospheric-fall context. No exact
 Akurasu or licensed English label was verified; this is not a new forcefield
 or mech ability. Interception limit stays descriptive, with no added physics.
+
+## Stage 40 terminology scope (2026-10-04)
+
+Goemon bath follows official Hokkaido tourism; Ishikawa Goemon follows the
+National Theatre cultural library. Only the source's brief cauldron-bath and
+thief explanation is translated. The original English translation of
+Maeterlinck's play supports Tyltyl and Mytyl for the paired literary allusion;
+the bird and daughter retain Michiru. The lost phonetic link remains flagged.
+KINCHO's primary advertising corroborates the summer slogan; the tension
+homophone remains a documented English limitation.
+
+Captain Shitow preserves Haruka's source-ranked surname and existing profile.
+Official municipal, Tokyo, JNTO and MLIT sources establish the geographical
+spellings in the five-site list; the source's radius claim is preserved.
+Akurasu supports Downfall spelling, and US Navy history supports the historical
+planned invasion that the dialogue explicitly describes. No extra dates,
+operation phases or historical explanation are added.
+
+CERN supports Feynman diagram spelling only. Fictional dimensional claims remain
+attributed beliefs. Stochastic resonance field uses the established scientific
+stem and remains distinct from boundary. TDD and JBB-1 stay unexpanded.
+PropSat, T.J. Buster, department names, linear field, time differential effect,
+Neriya's black egg and Rah's poetic compounds retain unverified licensed wording.
+Brother of Naacal follows the existing stem and secondary epithet corroboration;
+no family relationship, hidden identity or mechanism is imported. All supporting
+links and scoped decisions are recorded in `work/glossary/campaign_terms.json`.

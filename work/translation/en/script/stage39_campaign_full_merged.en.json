@@ -1,0 +1,6176 @@
+{
+ "scenes": [
+  "s0750",
+  "i075a"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "Spiral Staircase Towards the End",
+   "scenes": [
+    "s0750",
+    "i075a"
+   ],
+   "map_scene": "s0750"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "s0750:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 1,
+   "uses": [
+    "s0750:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 2,
+   "uses": [
+    "s0750:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "s0750:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 4,
+   "uses": [
+    "s0750:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 5,
+   "uses": [
+    "s0750:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 6,
+   "uses": [
+    "s0750:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 7,
+   "uses": [
+    "s0750:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 8,
+   "uses": [
+    "s0750:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 9,
+   "uses": [
+    "s0750:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "s0750:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "s0750:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 12,
+   "uses": [
+    "s0750:12",
+    "s0750:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "s0750:13",
+    "s0750:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 14,
+   "uses": [
+    "s0750:14",
+    "s0750:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "s0750:15",
+    "s0750:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "s0750:16",
+    "s0750:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "s0750:17",
+    "s0750:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 18,
+   "uses": [
+    "s0750:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "s0750:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "s0750:20",
+    "s0750:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 21,
+   "uses": [
+    "s0750:21",
+    "s0750:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 22,
+   "uses": [
+    "s0750:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "s0750:24",
+    "s0750:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "s0750:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "s0750:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 26,
+   "uses": [
+    "s0750:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 27,
+   "uses": [
+    "s0750:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "s0750:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "s0750:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 30,
+   "uses": [
+    "s0750:32",
+    "s0750:33",
+    "s0750:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 31,
+   "uses": [
+    "s0750:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "s0750:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 33,
+   "uses": [
+    "s0750:36",
+    "s0750:37",
+    "s0750:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "s0750:39",
+    "s0750:40",
+    "s0750:174",
+    "s0750:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 35,
+   "uses": [
+    "s0750:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 36,
+   "uses": [
+    "s0750:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 37,
+   "uses": [
+    "s0750:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "s0750:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "s0750:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 40,
+   "uses": [
+    "s0750:46",
+    "s0750:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "s0750:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 42,
+   "uses": [
+    "s0750:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "s0750:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 44,
+   "uses": [
+    "s0750:50",
+    "s0750:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "s0750:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 46,
+   "uses": [
+    "s0750:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 47,
+   "uses": [
+    "s0750:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "s0750:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 49,
+   "uses": [
+    "s0750:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 50,
+   "uses": [
+    "s0750:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 51,
+   "uses": [
+    "s0750:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "s0750:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 53,
+   "uses": [
+    "s0750:59",
+    "s0750:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "s0750:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 55,
+   "uses": [
+    "s0750:61",
+    "s0750:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "s0750:62",
+    "s0750:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 57,
+   "uses": [
+    "s0750:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 58,
+   "uses": [
+    "s0750:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "s0750:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 60,
+   "uses": [
+    "s0750:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "s0750:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "s0750:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 63,
+   "uses": [
+    "s0750:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "s0750:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "s0750:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "s0750:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "s0750:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "s0750:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 69,
+   "uses": [
+    "s0750:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 70,
+   "uses": [
+    "s0750:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 71,
+   "uses": [
+    "s0750:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 72,
+   "uses": [
+    "s0750:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "s0750:79",
+    "s0750:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 74,
+   "uses": [
+    "s0750:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 75,
+   "uses": [
+    "s0750:81",
+    "s0750:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0750:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0750:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0750:84",
+    "s0750:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0750:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0750:86",
+    "s0750:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0750:87",
+    "s0750:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0750:88",
+    "s0750:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0750:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0750:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0750:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0750:92",
+    "s0750:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0750:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0750:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0750:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0750:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0750:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0750:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0750:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0750:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0750:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0750:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0750:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0750:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0750:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0750:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0750:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0750:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0750:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0750:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0750:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0750:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0750:113",
+    "s0750:114",
+    "s0750:115",
+    "s0750:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0750:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0750:117",
+    "s0750:161",
+    "s0750:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0750:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0750:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0750:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0750:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0750:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0750:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0750:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0750:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0750:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0750:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0750:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0750:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0750:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0750:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0750:132",
+    "s0750:133",
+    "s0750:134",
+    "s0750:156",
+    "s0750:188",
+    "s0750:189",
+    "s0750:190",
+    "s0750:191",
+    "s0750:192",
+    "s0750:193",
+    "s0750:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0750:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0750:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0750:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0750:138",
+    "s0750:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0750:139",
+    "s0750:148",
+    "s0750:152",
+    "s0750:154",
+    "s0750:164",
+    "s0750:165",
+    "s0750:198",
+    "s0750:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0750:140",
+    "s0750:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0750:141",
+    "s0750:142",
+    "s0750:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0750:143",
+    "s0750:149",
+    "s0750:153",
+    "s0750:155",
+    "s0750:162",
+    "s0750:163",
+    "s0750:199",
+    "s0750:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0750:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0750:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0750:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0750:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0750:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0750:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0750:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0750:160",
+    "s0750:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0750:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0750:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0750:206"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign_full_merged.json",
+    "id": 221
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0750:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. GEAR Fighter Dendoh or Knight GEAR Ogre lost@2. Allied mothership shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage34_campaign.json",
+    "id": 423
+   },
+   "notes": "Loss conditions; preserve two fixed plain lines and either unit lost. Draft first line measured 363px; shot down -> lost yields 320px, retaining both full unit names and either-unit loss.",
+   "uncertain": []
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0750:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "恵",
+   "speaker_en": "Megumi",
+   "en": "We've successfully entered the space around Spiral Castle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 0
+   },
+   "notes": "Megumi reports arrival to the bridge; entry succeeded, no landing implied.",
+   "uncertain": []
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0750:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Match our velocity to the target's!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 1
+   },
+   "notes": "Bright orders the bridge to match relative velocity; Saegusa's omitted fresh acknowledgment follows in full147.",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0750:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サエグサ",
+   "speaker_en": "Saegusa",
+   "en": "Roger!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage02_campaign_full_merged.json",
+    "id": 510
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0750:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "How is the battle going in the other sectors!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 2
+   },
+   "notes": "Bright asks bridge staff for the other space sectors' situation.",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0750:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リンダ",
+   "speaker_en": "Linda",
+   "en": "Our allies are under some enemy pressure, but they've cut the enemy off from Spiral Castle's sector!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 3
+   },
+   "notes": "Linda reports other allied forces holding the enemy apart from the castle sector; full150 confirms preventing a pincer. Root final clarification explicitly names allies and enemy to prevent repeated they/them pronouns reversing the report. Original adjacent Bright question and pincer inference settle direction.",
+   "uncertain": [
+    "The two omitted subjects in the report are resolved as other allied forces and the enemy from Bright's question and pincer inference."
+   ]
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0750:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Then there's little chance of us being caught in a pincer attack...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 4
+   },
+   "notes": "Bright draws a tactical conclusion from Linda's report; little chance remains less than certainty.",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0750:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "But this is the enemy's headquarters... They'll clearly try to overwhelm us with numbers.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 5
+   },
+   "notes": "Misato cautions Bright about superior enemy numbers at their stronghold.",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0750:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "I know. ...Major Katsuragi, we're moving to Phase 3 of Operation Screw Nail.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 6
+   },
+   "notes": "Bright addresses Misato by surname and sourced Major rank; full153 acknowledges this order.",
+   "uncertain": [
+    "Operation Screw Nail is the glossary's source-backed provisional title; exact licensed wording unverified."
+   ]
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0750:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Understood.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage33_campaign.json",
+    "id": 160
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0750:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All units... Launch immediately!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 7
+   },
+   "notes": "Bright orders the pilots to deploy immediately.",
+   "uncertain": []
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0750:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Hari, how long until Spiral Castle reaches the interception limit... the Zero Barrier?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 8
+   },
+   "notes": "Ruri asks Hari for time to the named interception limit. Root confirmed source-backed literal terms; no forcefield, ability or orbital-physics inference.",
+   "uncertain": [
+    "Zero Barrier and interception limit are source-backed literal terms; exact licensed wording unverified."
+   ]
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0750:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Twenty-eight minutes left! After that, Spiral Castle will fall into the atmosphere!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 9
+   },
+   "notes": "Hari answers Ruri with the remaining time and consequence after that threshold.",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0750:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "It feels like we have time, but we don't... It's kind of an awkward amount.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 10
+   },
+   "notes": "Hikaru comments to the team on the neither-long-nor-short time remaining.",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0750:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "No, fighting the Vegan Empire delayed our arrival beyond schedule... We'd better assume we have no time or room to spare.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 11
+   },
+   "notes": "Kamille corrects Hikaru; the battle delayed arrival and the team should act without time or margin.",
+   "uncertain": []
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0750:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Yeah. If that thing hits Earth, it'll do as much damage as a colony drop... No, even more...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 12
+   },
+   "notes": "Judau agrees with Kamille; preserves escalation from colony-drop equivalence to worse.",
+   "uncertain": []
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0750:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "What's more, it can change where it lands to some extent, of its own will...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 13
+   },
+   "notes": "Amuro identifies the castle's limited ability to choose its impact point; uses neutral it for machine.",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0750:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "If it falls on the Japan area, where TOKYO JUPITER and NERV Headquarters are, there's no telling what else might happen.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 14
+   },
+   "notes": "Amuro warns of additional unknown consequences if it hits Japan, naming both locations.",
+   "uncertain": []
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0750:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Damn...! If we had the mass driver at a time like this, it might make things a little easier.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 15
+   },
+   "notes": "Tapp wishes they still had the mass driver, with limited and hypothetical benefit.",
+   "uncertain": []
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0750:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Don't say things like that. Do you know how much trouble we went through going to destroy it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 16
+   },
+   "notes": "Roux scolds Tapp about their effort getting to the mass driver, not a claim that they destroyed it themselves.",
+   "uncertain": []
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0750:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "S-sorry...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 17
+   },
+   "notes": "Tapp gives Roux a stammered apology; intentional conversational fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0750:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Well, actually, it was already destroyed by the time we got to the Giganos base.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 18
+   },
+   "notes": "Drill corrects the technical detail of the mass driver's destruction, prompting Roux's rebuke.",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0750:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "That's not what I'm talking about!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 19
+   },
+   "notes": "Roux tells Drill the literal destruction detail misses her point; restores speaker subject and verb.",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0750:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "S-sorry...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 20
+   },
+   "notes": "Drill echoes Tapp's stammered apology; intentional conversational fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0750:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "...Everyone, listen. Once you're inside Spiral Castle, find the reactor and destroy it right away.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 21
+   },
+   "notes": "Misato addresses all pilots with the immediate interior mission; reactor does not add nuclear or power-core lore.",
+   "uncertain": []
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0750:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Roger!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage26_campaign_full_merged.json",
+    "id": 199
+   },
+   "notes": "Kamille acknowledges the order; conventional response retained.",
+   "uncertain": []
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0750:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "...Let's go, Ginga. Are you ready?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 22
+   },
+   "notes": "Hokuto checks Ginga's readiness after the orders; explicit listener.",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0750:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah! Let's give it our all for Altair, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 23
+   },
+   "notes": "Ginga answers Hokuto; also preserves the additional motive of fighting for Altair.",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0750:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Right! With my Ogre and your Dendoh... Let's stop Spiral Castle together with everyone!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 24
+   },
+   "notes": "Hokuto names each pilot's machine ownership and includes the rest of the team.",
+   "uncertain": []
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0750:236"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Brother, please watch over us. I'll protect Earth from Spiral Castle together with those children...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 25
+   },
+   "notes": "Vega's private thought addresses her brother Altair. Keeps Brother rather than injecting a name; thought brackets measured.",
+   "uncertain": []
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0750:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Heh, my blood is boiling... It reminds me of our final battle against the Devil Gundam.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 26
+   },
+   "notes": "Kyral reflects to Argo on battle excitement and their previous final battle, not a new Devil Gundam here.",
+   "uncertain": []
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0750:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "Yeah, it certainly does.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 27
+   },
+   "notes": "Argo agrees with Kyral's battle recollection; complete conversational answer.",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0750:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Let's go, everyone! Let's save our Earth from Gulfer's clutches!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 28
+   },
+   "notes": "Duke rallies the whole team; canonical Gulfer organization spelling.",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0750:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Yeah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 29
+   },
+   "notes": "Kazuya answers the rally with a loud affirmative.",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0750:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Then... Phase 3 of Operation Screw Nail begins now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 30
+   },
+   "notes": "Misato formally starts the phase, echoing Bright's order.",
+   "uncertain": [
+    "Operation Screw Nail is the glossary's source-backed provisional title; exact licensed wording unverified."
+   ]
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0750:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Just you wait, Spiral Castle! We're coming for you right now!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 31
+   },
+   "notes": "Ginga challenges the castle; collective subject follows Hokuto and the team's launch.",
+   "uncertain": []
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0750:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "D-damn you! How dare mere humans do this to me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 32
+   },
+   "notes": "Battle defeat speech attacks humans' lowly status and maintains the insult. Leaves the unspecified injury as this; does not reveal a mechanism.",
+   "uncertain": [
+    "Retains source omission of exactly what humans did, using this; paired full181 repeats the outraged object."
+   ]
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0750:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "To meeee! Gwaaaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 33
+   },
+   "notes": "Continuation of prior defeat row repeats me before the death cry; intentional fragment and matching reveal order.",
+   "uncertain": [
+    "Intentional repeated object fragment continues fresh32 rather than adding a guessed verb."
+   ]
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0750:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "I-impossible! Feeble humans, defeating me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 34
+   },
+   "notes": "Witter defeat event; shocked arrogance, weakness insult retained.",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0750:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Gwaaaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 35
+   },
+   "notes": "Witter death cry follows defeat; nonlexical shout retained.",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0750:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "...Cannot... grasp... Cannot grasp... What... must be protected...? What must be protected? What... must hu...mans pro...tect...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 36
+   },
+   "notes": "Castle defeat event; glitching questions about what humans protect; repeated query and machine failure retained. Measured four-line draft compressed only comprehend to grasp; all three questions, both inability assertions, and deliberate glitches retained.",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0750:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Everyone has a different answer, but I'll tell you what Hokuto and I think.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 37
+   },
+   "notes": "Ginga answers Castle, introducing his and Hokuto's individual answer without claiming universality.",
+   "uncertain": []
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0750:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "What... is it... that you... must pro...tect...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 38
+   },
+   "notes": "Castle asks both boys; deliberate glitches retained.",
+   "uncertain": []
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0750:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "...Our promises.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 39
+   },
+   "notes": "Hokuto answers Castle's query; deliberate short answer noun fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0750:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "...Pro...mises...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 40
+   },
+   "notes": "Castle echoes Hokuto's answer; deliberate question fragment and glitch.",
+   "uncertain": []
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0750:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I promised Mom... that I'd come home, no matter what.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 41
+   },
+   "notes": "Ginga answers with promise to his own mother; return commitment is unconditional.",
+   "uncertain": []
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0750:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I promised my mom, too... that I'd protect the Earth.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 42
+   },
+   "notes": "Hokuto adds promise to his own mother; Earth protection stated, no mother identity reveal added.",
+   "uncertain": []
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0750:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Hokuto... Ginga...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 43
+   },
+   "notes": "Vega reacts to boys; deliberate vocative fragment, source honorific dropped.",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0750:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "It's not just Mom. I've made important promises to everyone else, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 44
+   },
+   "notes": "Ginga broadens promises to other people; important retained.",
+   "uncertain": []
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0750:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "That's why we'll keep them. For everyone... and for ourselves.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 45
+   },
+   "notes": "Hokuto refers to promises; keep protects the promise sense, both beneficiaries retained.",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0750:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Absurd... Protecting something without physical form... Cannot comprehend... Cannot comprehend...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 46
+   },
+   "notes": "Castle rejects intangible things; physical form meaning and repeated failure retained.",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0750:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Cannot... comprehend...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 47
+   },
+   "notes": "Castle final failure; deliberate broken machine fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0750:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "If you wish to stop Spiral Castle, you must defeat me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 48
+   },
+   "notes": "Witter battle conversation addresses attacker; explicit condition retained.",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0750:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Assuming you can, of course!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 49
+   },
+   "notes": "Witter continues previous taunt; deliberate dependent fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0750:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We can! That's what we came here for!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 50
+   },
+   "notes": "Hokuto answers Witter's taunt with confidence and purpose.",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0750:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah! We believe in our own strength... Strength that'll never lose!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 51
+   },
+   "notes": "Ginga supports Hokuto; strength and invincibility assertion retained.",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0750:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "You humans! I won't let you through here!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 52
+   },
+   "notes": "Absolute challenges attackers; prohibition restored as first-person intention.",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0750:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "You think saying that will make us turn around and go home?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 53
+   },
+   "notes": "Ginga rejects Absolute's demand; turn-around-and-leave image retained.",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0750:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "If that's how you want it, we'll just force our way through!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 54
+   },
+   "notes": "Hokuto threatens forcing passage through Absolute's blockade.",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0750:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Here we come, big boss!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 55
+   },
+   "notes": "Ginga initiates battle against Castle's master; source-short generic boss, no named lore expansion.",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0750:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We'll defeat you and stop Spiral Castle, no matter what!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 56
+   },
+   "notes": "Hokuto follows Ginga; defeat Castle master to stop castle, emphatic certainty.",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0750:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "I cannot comprehend... Why do you keep fighting when you know you will lose...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 57
+   },
+   "notes": "Castle questions boys' continued fighting; its assumed foreknowledge of defeat is retained.",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0750:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your annihilation was already determined when Gulfer arrived here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 58
+   },
+   "notes": "Castle continues fatalistic claim; Gulfer arrival and preordained annihilation.",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0750:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "That's an ending you decided on all by yourselves!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 59
+   },
+   "notes": "Hokuto rejects enemies' unilateral conclusion, referring to prior fatalistic assertion.",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0750:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "We won't lose... No, we can't afford to lose!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 60
+   },
+   "notes": "Ginga corrects won't lose to cannot afford to lose, source self-correction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0750:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "For everyone fighting alongside us to defeat you...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 61
+   },
+   "notes": "Hokuto begins reason for not losing, completed by Ginga in next row; deliberate fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0750:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "And for the people on Earth who believe we'll win!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 62
+   },
+   "notes": "Ginga completes reason across speaker change; supporters on Earth believe in victory.",
+   "uncertain": []
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0750:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Oyakata-sama or a damn kettle, I don't care! Once we beat you, it's all over! Get ready!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 63
+   },
+   "notes": "Koji taunts Castle master. Fixed Oyakata-sama retained; source o-yakan/kettle sound joke rendered literally as kettle insult. Defeat ends everything, threat preserved.",
+   "uncertain": [
+    "Japanese Oyakata/o-yakan sound pun has no equivalent with fixed Oyakata-sama; kettle joke is a literal adaptation."
+   ]
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0750:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Such a reckless charge... Why do humans fight with no regard for themselves...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 64
+   },
+   "notes": "Castle responds to Koji's charge; self-regard means own wellbeing, not moral introspection.",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0750:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'll tell you! This is what we call human courage!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 65
+   },
+   "notes": "Koji answers Castle with courage assertion.",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0750:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Why... Why do humans fight when they know they will lose...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 66
+   },
+   "notes": "Castle repeats central question to Tetsuya in a separate battle exchange.",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0750:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "I'll tell you, you mechanical bastard! It's for our pride!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 67
+   },
+   "notes": "Tetsuya answers Castle with pride and crude machine-directed insult; next row adds certainty of victory.",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0750:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "And here's one more thing! We haven't even considered the possibility of losing!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 68
+   },
+   "notes": "Tetsuya to Spiral Castle; continues his pride answer from fresh 67. Explicit we and absolute rejection of defeat restored.",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0750:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "So you want to know what people fight for!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 69
+   },
+   "notes": "Duke to Spiral Castle; begins his battle exchange. Restores second-person question from the asserted desire to know.",
+   "uncertain": []
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0750:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Do you know the answer, prince of Planet Fleed?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 70
+   },
+   "notes": "Spiral Castle answers Duke. Planet Fleed and princely address retained.",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0750:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "For love! You would never understand... the human heart that fights for those it loves!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 71
+   },
+   "notes": "Duke answers fresh 70; love motivates people fighting for loved ones. Explicit subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0750:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Humans, you recklessly challenge me to battle. Learn just how powerless you are!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 72
+   },
+   "notes": "Spiral Castle challenges Getter team; labels their attack reckless and threatens humiliation.",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0750:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "That machine boss sure says whatever it pleases!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 73
+   },
+   "notes": "Hayato responds to Spiral Castle threat; dismissive machine-boss insult retained.",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0750:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Ryo, Hayato! Let's show it where our strength comes from!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 74
+   },
+   "notes": "Benkei addresses Ryo and Hayato; invites showing the enemy their shared source of strength. Source nickname Ryo retained.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0750:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Let's go! I'll make you, a machine, feel the power born of the bonds between the three of us... between people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 75
+   },
+   "notes": "Ryoma addresses Spiral Castle; three-person bond expands to interpersonal bonds. Ellipsis retained at that expansion.",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0750:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "You want to know what we fight for? A machine like you will probably never understand!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 76
+   },
+   "notes": "Akira addresses Spiral Castle; rhetorical question followed by probable eternal incomprehension.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0750:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "What is that answer?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 77
+   },
+   "notes": "Spiral Castle asks Akira to identify his answer; complete question restored.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0750:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "There are people waiting for us on Earth... Their trust gives us the strength to fight!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 78
+   },
+   "notes": "Akira answers fresh 77; Earth people wait for the team and their trust powers its fight.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0750:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "You would never understand what it means to fight for what we must protect... for what we must love!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 79
+   },
+   "notes": "Kazuya addresses Spiral Castle; things to protect and love retained without narrowing them to an identified person.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0750:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Those you love...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 80
+   },
+   "notes": "Spiral Castle echoes unfamiliar love concept; purposeful question fragment retained.",
+   "uncertain": [
+    "Source echo-question fragment preserved."
+   ]
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0750:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "That's right! My fists exist to protect those I love! Now you can feel their power, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 81
+   },
+   "notes": "Kazuya answers fresh 80; fists protect loved ones, and enemy will experience their strength.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0750:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Do you understand why we're coming at you, Lord of Spiral Castle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 82
+   },
+   "notes": "Domon addresses Lord of Spiral Castle; complete rhetorical question restores why the team challenges it.",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0750:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Unable to comprehend... This man... why does he come at me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 83
+   },
+   "notes": "Spiral Castle considers Domon; machine comprehension fragment and trailing question retained. Source explicitly calls Domon a man.",
+   "uncertain": [
+    "Source machine-comprehension fragment and trailing question preserved."
+   ]
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0750:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Then I'll teach you! My fists hold friendship, trust... and the hope of living for the future!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 84
+   },
+   "notes": "Domon answers fresh 83; fists embody friendship, trust and hope to live into the future. Copular structure restored; no item omitted.",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0750:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "We may both be mechanical life forms, but there's a great difference between you and us...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 85
+   },
+   "notes": "Rom to Spiral Castle; both are mechanical life forms, but fundamentally differ. Plural us maintained.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0750:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Is that the thing you call a... heart...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 86
+   },
+   "notes": "Spiral Castle to Rom; unfamiliar heart concept echoed without adding a soul claim.",
+   "uncertain": [
+    "Source unfamiliar-concept echo with trailing ellipsis preserved."
+   ]
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0750:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "That's right!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 87
+   },
+   "notes": "Rom confirms fresh 86. Complete affirmation.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0750:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Foolish... What use could that possibly be in battle...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 88
+   },
+   "notes": "Spiral Castle dismisses Rom; questions practical utility of heart in battle, trailing contemplation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0750:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "You still don't understand, Spiral Castle! Fighting without ever giving up... That's the strength of our hearts!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 89
+   },
+   "notes": "Rom answers fresh 88; fighting without ever giving up manifests heart strength.",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0750:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "And the power those hearts create will surely strike you down!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 90
+   },
+   "notes": "Rom continues fresh 89; power generated by hearts is guaranteed to defeat the enemy.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0750:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "You should understand. Even if you destroy me, that will not be the end.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 91
+   },
+   "notes": "Spiral Castle addresses Vega, whose next response settles direction; destruction will not end the conflict. No later army reveal introduced.",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0750:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Even if that's true, we won't give up...! We believe that's what makes humans strong!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 92
+   },
+   "notes": "Vega answers fresh 91; refusing to give up is believed to be human strength. Explicit we restored.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0750:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "A machine could never understand the power the human heart creates!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 93
+   },
+   "notes": "Male protagonist to Spiral Castle; human heart power contrasted with machines. Placeholder prefix retained.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0750:305"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "The power of the heart?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 94
+   },
+   "notes": "Spiral Castle echoes fresh 93; purposeful questioning fragment.",
+   "uncertain": [
+    "Source echo-question fragment preserved."
+   ]
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0750:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Love, courage, hatred, ambition... The human heart is the source of limitless power...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 95
+   },
+   "notes": "Female protagonist to Spiral Castle; all four emotions and limitless generating power retained. Trailing ellipsis preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0750:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "And the hearts within us that will never forgive you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 96
+   },
+   "notes": "Male protagonist begins subject phrase whose predicate arrives in fresh 97. Intentionally unfinished across speakers.",
+   "uncertain": [
+    "Source unfinished subject phrase preserved; shared predicate is supplied by fresh row 97."
+   ]
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0750:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "The hearts that want to protect Earth will surely seize victory!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 97
+   },
+   "notes": "Female protagonist completes paired subjects from fresh 96; Earth-protecting hearts will certainly win.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0750:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "恵",
+   "speaker_en": "Megumi",
+   "en": "Captain! Our units have successfully entered Spiral Castle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 98
+   },
+   "notes": "Megumi reports to Bright; tactical trigger changes to successful allied entry.",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0750:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Relay the video from inside to us and every unit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 99
+   },
+   "notes": "Bright orders Megumi/bridge to relay interior images to bridge and each unit. No guessed hardware added.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0750:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Just as we figured, it's an ambush!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 100
+   },
+   "notes": "Koji reacts to interior ambush; confirms expected enemy response.",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0750:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Well, it's only to be expected, really.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 101
+   },
+   "notes": "Saburota answers Koji; casual agreement that the ambush is natural.",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0750:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "But there aren't many of them for an ambush... Are there more enemy units inside?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 102
+   },
+   "notes": "Context: Masato questions the unexpectedly small ambush, answering Koji/Saburota. Decision: restore units referent without specifying unseen enemies.",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0750:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Yes, it looks like there are several high-energy readings on the other side of the wall.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 103
+   },
+   "notes": "Context: Miku answers Masato with sensor information. Decision: retain several readings and tentative appearance.",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0750:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "...Hokuto, Ginga, do you know the way to the reactor?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 104
+   },
+   "notes": "Context: Ple Two asks both boys for the reactor route. Decision: use explicit English question without claiming either knows.",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0750:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "N-no, not really...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 105
+   },
+   "notes": "Context: Ginga answers Ple Two sheepishly. Decision: retain stutter and purposeful trailing answer.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0750:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "When we went inside Spiral Castle before, we were so caught up in everything...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 106
+   },
+   "notes": "Context: Hokuto explains the boys previous visit. Decision: restore shared we, retain unfinished explanation and absorption rather than invent panic.",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0750:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Don't worry about it. If we don't know the way, we can just smash through the walls and go straight to the center.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 107
+   },
+   "notes": "Context: Sai Saici reassures the boys, then proposes a direct route. Decision: restore shared we; retain conditional, smashing walls and exact center.",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0750:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Heh, you got that right. Besides, that's more our style.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 108
+   },
+   "notes": "Context: Ryoko agrees with Sai Saici. Decision: restore our group subject and casual tone.",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0750:320"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "But don't let your guard down. There should still be two enemy Machine Generals left.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 109
+   },
+   "notes": "Context: Vega warns allies despite their confidence. Decision: retain expected two remaining generals, not certainty.",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0750:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I know! Machine Generals or any other bastards, I'll take them all on at once!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 110
+   },
+   "notes": "Context: Ginga answers Vega with bravado. Decision: convey kishou/konchikishou title-insult soundplay through Machine Generals/bastards pairing; no guessed new title.",
+   "uncertain": [
+    "The Machine General/konchikishou soundplay has no direct English sound equivalent; title and insult meaning preserved."
+   ]
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0750:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "All units! We're finally at the final phase of Operation Screw Nail!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 111
+   },
+   "notes": "Context: Misato addresses all deployed units. Decision: final phase announcement retains operation title and anticipation.",
+   "uncertain": [
+    "Operation Screw Nail is the glossary-approved source-English loanword title; exact licensed English wording remains unverified."
+   ]
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0750:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Break through the walls inside Spiral Castle and find the reactor as quickly as you can!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 112
+   },
+   "notes": "Context: Misato orders allies onward. Decision: keep wall destruction, castle interior, reactor and urgency.",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0750:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "So you've shown yourselves, you humans.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 113
+   },
+   "notes": "Context: Giga Absolute confronts arriving humans. Decision: retain contempt without gendering machine.",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0750:325",
+    "s0750:346"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "That's...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 114
+   },
+   "notes": "Context: Hokuto recognizes Absolute in first use and Witter in second. Decision: deliberate unfinished recognition preserved without name or pronoun gender; source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0750:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "It's pompous guy number three!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 115
+   },
+   "notes": "Context: Ginga recognizes Absolute using his own dismissive numbering. Decision: retain pompous nickname and number three.",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0750:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "I won't let you reach Oyakata-sama...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 116
+   },
+   "notes": "Context: Absolute blocks allies access to the lord. Decision: preserve glossary fixed title and threat.",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0750:328"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "Despair here as you plummet to your home planet!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 117
+   },
+   "notes": "Context: Absolute threatens allies with despair and a fall to Earth. Decision: retain source home-planet description, not an invented destination or mechanism.",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0750:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Shut up! We should be saying that to you!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 118
+   },
+   "notes": "Context: Ginga tries to turn Absolutes threat back. Decision: retain reversal so Asukas correction still makes sense.",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0750:330"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Hey, what are you saying?! We can't let Spiral Castle fall!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 119
+   },
+   "notes": "Context: Asuka catches Gingas mistaken reversal. Decision: explicit we cannot let castle fall; preserve her incredulity.",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0750:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Oh, right...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 120
+   },
+   "notes": "Context: Ginga realizes Asuka is right. Decision: preserve sudden realization and ellipsis.",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0750:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Anyway, we don't have time to stand around! We're going for a quick strike, a quick strike!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 121
+   },
+   "notes": "Context: Asuka urges immediate action. Decision: retain no time to dawdle and repeated quick-strike emphasis.",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0750:333"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Y-yeah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 122
+   },
+   "notes": "Context: Ginga obeys Asuka. Decision: retain stutter and force.",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0750:334",
+    "s0750:354"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Heh heh heh, it's futile. As long as we're here protecting Oyakata-sama, you cannot stop this Spiral Castle.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 123
+   },
+   "notes": "Context: Witter explains obstacle in both approach branches. Decision: preserve guarding Oyakata-sama as condition, no premature identity reveal.",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0750:335",
+    "s0750:355"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "What did you say!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage23_campaign_full_merged.json",
+    "id": 452
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0750:336",
+    "s0750:356"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Hey! We know we just have to smash the reactor! We're ignoring the likes of you, ignoring you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 124
+   },
+   "notes": "Context: Kaine dismisses generals after Witter speaks. Decision: restore we and keep reactor knowledge plus repeated ignoring taunt.",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0750:337",
+    "s0750:357"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "You fools. Unless you defeat us, that will be impossible.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 125
+   },
+   "notes": "Context: Absolute contradicts Kaines plan. Decision: keep defeat of both generals prerequisite and contempt.",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0750:338"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "What the hell does that mean?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 126
+   },
+   "notes": "Context: Kaine demands explanation. Decision: full question with rough register.",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0750:339",
+    "s0750:359"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Could those Machine Generals be responsible for keeping the reactor sealed...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 127
+   },
+   "notes": "Context: Rain hypothesizes reactor sealing role. Decision: keep conjecture and trailing uncertainty; no physical force field invented.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0750:340",
+    "s0750:360"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Then we can't reach the reactor unless we defeat them?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 128
+   },
+   "notes": "Context: Hokuto confirms implications with Rain. Decision: full conditional question with we subject.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0750:341",
+    "s0750:361"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes, most likely...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 129
+   },
+   "notes": "Context: Rain answers Hokuto. Decision: preserve likelihood rather than confirmation as fact.",
+   "uncertain": []
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0750:342",
+    "s0750:362"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Then we'll just have to break that seal ourselves!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 130
+   },
+   "notes": "Context: Domon resolves to remove obstruction. Decision: ourselves restores source own hands; full English clause.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0750:343",
+    "s0750:363"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Ginga, Hokuto! This is where the real test begins!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 131
+   },
+   "notes": "Context: Domon addresses both boys before combat. Decision: keep turning-point challenge; no unspecified task omitted.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0750:344",
+    "s0750:364"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Y-yes!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign_full_merged.json",
+    "id": 874
+   },
+   "notes": "Hokuto responds enthusiastically with a stutter.",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0750:345"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Hmph... You humans have done well to make it this far.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 132
+   },
+   "notes": "Context: Witter greets allies in alternate first-contact branch. Decision: retain grudging recognition and contempt.",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0750:347"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "It's pompous guy number two!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 133
+   },
+   "notes": "Context: Ginga misnumbers Witter. Decision: deliberately keep wrong number two before Hokutos correction.",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0750:348"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Huh?! We beat that one the other day!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 134
+   },
+   "notes": "Context: Hokuto corrects Ginga, referring to prior defeat. Decision: keep that one neutral and shared we; no name substituted.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0750:349"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "O-oh, right! Then number one!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 135
+   },
+   "notes": "Context: Ginga corrects his nickname number. Decision: retain stutter and deliberate number-only fragment; source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0750:350"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "You dare mock me...! I will make this castle your grave!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 136
+   },
+   "notes": "Context: Witter responds to Ginga mocking its numbered nickname. Decision: preserve threat and irritated register.",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0750:351"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Hey, hey... Isn't this a little too big for a human grave?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 137
+   },
+   "notes": "Context: Saburota answers Witter's castle-as-grave threat. Decision: sarcastic size comparison remains a question.",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0750:352"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Indeed. It could hardly be more of a nuisance to everyone else.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 138
+   },
+   "notes": "Context: George joins Saburota's sarcasm. Decision: restore complete clause and retain polite register; nuisance concerns others.",
+   "uncertain": []
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0750:353"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "So let's hurry up and smash it to pieces. With them still in it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 139
+   },
+   "notes": "Context: Saburota proposes smashing the castle and enemies within. Decision: colloquial deliberate afterthought retains both destruction targets.",
+   "uncertain": []
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0750:358"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "W-what do you mean!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 140
+   },
+   "notes": "Context: alternate Witter encounter, after Giga Absolute says destroying the reactor is impossible until generals are defeated. Decision: Kaine asks for explanation; stutter kept.",
+   "uncertain": []
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0750:365"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Enemy Machine General confirmed down!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 141
+   },
+   "notes": "Context: bridge confirms general destroyed. Decision: source does not identify which general; no added identity.",
+   "uncertain": []
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0750:366"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "That should open the way to the reactor. How long until we reach the interception limit?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 142
+   },
+   "notes": "Context: Ruri concludes the seal is gone and asks Hari for time remaining. Decision: source-short interception limit remains descriptive, without adding Zero Barrier.",
+   "uncertain": [
+    "Provisional licensed wording: interception limit is descriptive source terminology; exact licensed English is unverified."
+   ]
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0750:367"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Another two...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 143
+   },
+   "notes": "Context: Hari begins countdown, interrupted by shaking and separate reused !? row. Decision: preserve two as unfinished number; no guessed completion or unit.",
+   "uncertain": [
+    "Purposeful source omission: interrupted countdown stays two...; continuation/unit not supplied."
+   ]
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0750:368"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage17_campaign_full_merged.json",
+    "id": 718
+   },
+   "notes": "Source punctuation-only surprise retained.",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0750:369"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "W-what's that!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 144
+   },
+   "notes": "Context: Ginga reacts to shaking. Decision: full startled question.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0750:370"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Spiral Castle is shaking!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 145
+   },
+   "notes": "Context: Hokuto identifies shaking castle. Decision: statement remains surprised question.",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0750:371"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "But we haven't destroyed the reactor yet!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 146
+   },
+   "notes": "Context: Vega reacts to premature shaking. Decision: restore we for allies tasked with destroying reactor.",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0750:372"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Ngh...! Absolute and Witter have been defeated...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 147
+   },
+   "notes": "Context: Castle learns both guardians defeated. Decision: source-short Absolute/Witter retained; neutral passive avoids machine gender.",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0750:373"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "!! #男愛称, everyone! I've pinpointed the reactor's location!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 148
+   },
+   "notes": "Context: heroine sensor report to protagonist and team. Decision: preserve nickname placeholder and exact location claim.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0750:374"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Really?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage09_campaign_full_merged.json",
+    "id": 263
+   },
+   "notes": "Male lead asks whether recognition is genuine.",
+   "uncertain": []
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0750:375"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Yes, it looks like the seal has been broken! There's no mistaking this energy reading!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 149
+   },
+   "notes": "Context: heroine answers reused protagonist confirmation question. Decision: seal is apparent but reading certain; both preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0750:376"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I'm sending you the coordinates now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 150
+   },
+   "notes": "Context: heroine sends team coordinates. Decision: restore I and you from speaker/task context.",
+   "uncertain": []
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0750:377"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Th-that's...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 151
+   },
+   "notes": "Context: Ginga spots final enemy. Decision: keep deliberate interrupted recognition without prematurely naming identity.",
+   "uncertain": [
+    "Purposeful source fragment: recognition trails off before enemy identity is revealed."
+   ]
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0750:378"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "So this is...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 152
+   },
+   "notes": "Context: Ginga starts identity phrase, completed by Hokuto. Decision: preserve matching cross-row fragment.",
+   "uncertain": [
+    "Purposeful source fragment: Hokuto completes the identity phrase in the next row."
+   ]
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0750:379"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "The boss of those pompous jerks!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 153
+   },
+   "notes": "Context: Hokuto completes Ginga's preceding fragment. Decision: source mocking nickname describes boss; no lore expansion.",
+   "uncertain": [
+    "Purposeful source fragment: noun phrase completes Ginga's preceding row."
+   ]
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0750:380"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "That's... the Lord of Spiral Castle!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 154
+   },
+   "notes": "Context: Kirakuni names the revealed enemy. Decision: use canonical Lord of Spiral Castle.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0750:381"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Is that thing the castle's reactor itself!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 155
+   },
+   "notes": "Context: protagonist asks whether enemy is reactor itself. Decision: neutral that thing/it; no machine gender.",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0750:382"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Then, if we beat it...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 156
+   },
+   "notes": "Context: Ginga infers reactor defeat outcome, completed by Hokuto next row. Decision: keep unfinished conditional.",
+   "uncertain": [
+    "Purposeful source fragment: conditional is completed by Hokuto in the next row."
+   ]
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0750:383"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We can stop Spiral Castle!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 157
+   },
+   "notes": "Context: Hokuto completes Ginga's conditional. Decision: restore we and retain question.",
+   "uncertain": []
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0750:384"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Dendoh, Ogre...! If I must die, this planet will die with me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 158
+   },
+   "notes": "Context: Castle addresses Dendoh and Ogre, vows shared destruction. Decision: restore self as dying subject; planet dies with it. Canonical Ogre.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0750:385"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "!? The reactor's energy level...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 159
+   },
+   "notes": "Context: heroine notices energy spike before bridge reports acceleration. Decision: keep alarmed energy-level fragment; no explicit rise before source reveals result.",
+   "uncertain": [
+    "Purposeful source fragment: energy-level alarm has no predicate, preserved before acceleration is reported."
+   ]
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0750:386"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "What's happening?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage33_campaign.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0750:387"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "恵",
+   "speaker_en": "Megumi",
+   "en": "Spiral Castle has accelerated! At this rate, it'll reach the interception limit in four minutes!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 160
+   },
+   "notes": "Context: Megumi reports acceleration and revised deadline. Decision: descriptive interception limit only, exact four minutes.",
+   "uncertain": [
+    "Provisional licensed wording: interception limit is descriptive source terminology; exact licensed English is unverified."
+   ]
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0750:388"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Wha...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 161
+   },
+   "notes": "Context: Haruka's interrupted shock. Decision: unfinished interjection retained.",
+   "uncertain": [
+    "Purposeful source fragment: interrupted surprised interjection retained."
+   ]
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0750:389"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "What did you say?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign_full_merged.json",
+    "id": 575
+   },
+   "notes": "Misato demands clarification, also reused at the energy report.",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0750:390"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "I will not let you destroy me so easily...! I will not, humans...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 162
+   },
+   "notes": "Context: Castle refuses effortless defeat. Decision: source restarts negated predicate for emphasis; second repetition remains purposeful ellipsis.",
+   "uncertain": [
+    "Purposeful source omission: repeated second predicate remains unfinished for emphasis."
+   ]
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0750:391"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "W-we have to beat that thing in just four more minutes!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 163
+   },
+   "notes": "Context: Ple asks about new four-minute requirement. Decision: restore we; startled stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0750:392"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "W-we can't! We had enough trouble just getting this far!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 164
+   },
+   "notes": "Context: Mondo doubts feasibility after difficult journey. Decision: restore we and keep all earlier difficulty.",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0750:393"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "But these four minutes could decide Earth's fate. We cannot back down now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 165
+   },
+   "notes": "Context: Quattro answers despair with necessity to continue. Decision: modal could preserves source uncertainty about outcome, exact interval.",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0750:394"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "But how on earth are we supposed to beat something that big...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 166
+   },
+   "notes": "Context: Nana doubts how to destroy huge enemy. Decision: restore we and defeat from preceding task; preserve trailing alarm.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0750:395"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "...Strength comes from the heart. That's the only way we can do this.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 167
+   },
+   "notes": "Context: Ginga invokes mother's maxim to answer Nana. Decision: existing central maxim exactly, followed by necessity.",
+   "uncertain": [
+    "Provisional quotation: Strength comes from the heart follows central source-based glossary, not a verified licensed quotation."
+   ]
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0750:396"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "Huh...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 168
+   },
+   "notes": "Context: Nana asks for explanation of maxim. Decision: surprised interjection.",
+   "uncertain": []
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0750:397"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "That's what my mom taught me. At times like this, you can find a way through if you have the right attitude.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 169
+   },
+   "notes": "Context: Ginga explains mother's maxim; Nana next confirms mental defeat must be avoided. Decision: right attitude, not physical mechanism or guaranteed easy victory.",
+   "uncertain": []
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0750:398"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "Yeah, I think I get it... We can't let ourselves lose heart, right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 170
+   },
+   "notes": "Nana answers Ginga about mindset; restored shared we.",
+   "uncertain": []
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0750:399"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah. Otherwise, we'll lose even a fight we could've won.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 171
+   },
+   "notes": "Ginga explains why morale matters; restored we.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0750:400"
+   ],
+   "kind": "thought",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "That's right, Ginga... Strength of heart is true strength.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 172
+   },
+   "notes": "Kazuya privately affirms Ginga; thought syntax.",
+   "uncertain": []
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0750:401"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "...You humans, what do you fight for?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 173
+   },
+   "notes": "Castle interrogates the human attackers; contempt retained in humans.",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0750:402"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "What...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 174
+   },
+   "notes": "Context established from original event and neighboring uses; natural source-faithful speech.",
+   "uncertain": []
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0750:403"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Even if you destroy me here, His Majesty the Emperor will surely send a new army to Earth at once...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 175
+   },
+   "notes": "Castle threatens human attackers; source-short Emperor with honorific His Majesty, no expanded name.",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0750:404"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Yes... Until you are defeated, until you are wiped out, our Gulfer offensive will never cease...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 176
+   },
+   "notes": "Defeat and extinction both retained; canonical Gulfer.",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0750:405"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "You humans... The more you fight, the further you plunge into despair...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 177
+   },
+   "notes": "Human attackers are explicit you; despair retained.",
+   "uncertain": []
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0750:406"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "You are descending a spiral staircase toward the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 178
+   },
+   "notes": "Continues Castle metaphor; source-short end kept ambiguous rather than predicting a specific event.",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0750:407"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "And yet... Why do you fight? What do you fight for?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 179
+   },
+   "notes": "Context established from original event and neighboring uses; natural source-faithful speech.",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0750:408"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Isn't it obvious?! Because we've got something to protect!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 180
+   },
+   "notes": "Ginga answers motive but does not reveal the protected thing.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0750:409"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "What is it that you protect?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 181
+   },
+   "notes": "Context established from original event and neighboring uses; natural source-faithful speech.",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0750:410"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "It attacked us without even understanding that...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 182
+   },
+   "notes": "Hokuto refers to the genderless Castle; it, not a guessed gender.",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0750:411"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "It's just a machine... It only carries out the orders it's given... It could never understand the human heart.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 183
+   },
+   "notes": "Jet explains the machine limitation without contradicting his own machine identity; only executes commands.",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0750:412"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Answer me... What is it that you protect?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 184
+   },
+   "notes": "Context established from original event and neighboring uses; natural source-faithful speech.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0750:413"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "That's...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 185
+   },
+   "notes": "Purposeful suspended answer retained.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0750:414"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I'll tell you after I beat the hell out of you!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 186
+   },
+   "notes": "Ginga postpones answer until victory; reveal not imported from earlier listed battle event.",
+   "uncertain": []
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0750:415"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Shoot down Lord of Spiral Castle within the turn limit",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 187
+   },
+   "notes": "Victory condition; full Lord of Spiral Castle unit title.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0750:416"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Lord of Spiral Castle not down by turn limit@2. GEAR Fighter Dendoh/Knight GEAR Ogre shot down@3. An allied mothership shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 188
+   },
+   "notes": "Failure conditions; either named unit and an allied mothership. Measured draft lines 1/2 at 388/363 px; compressed only overflowing fixed lines to not down by turn limit and slash for either-unit alternatives, preserving identities and either-unit failure.",
+   "uncertain": []
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0750:417"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Three minutes until Spiral Castle reaches the interception limit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 189
+   },
+   "notes": "Countdown, three minutes, descriptive interception limit.",
+   "uncertain": [
+    "Exact licensed wording of descriptive interception limit unverified; central campaign term retained."
+   ]
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0750:418"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リンダ",
+   "speaker_en": "Linda",
+   "en": "Two minutes until Spiral Castle reaches the interception limit! Please hurry!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 190
+   },
+   "notes": "Countdown, two minutes and urgent request.",
+   "uncertain": [
+    "Exact licensed wording of descriptive interception limit unverified; central campaign term retained."
+   ]
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0750:419"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Everyone! There's only one minute until Spiral Castle reaches the interception limit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 191
+   },
+   "notes": "Countdown, only one minute, addresses all.",
+   "uncertain": [
+    "Exact licensed wording of descriptive interception limit unverified; central campaign term retained."
+   ]
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0750:420"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "N-no...! Did we run out of time!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 192
+   },
+   "notes": "Timeout failure branch; stutter retained, not blended with subsequent victory branch.",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0750:421"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "恵",
+   "speaker_en": "Megumi",
+   "en": "Captain, we've successfully destroyed the target!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 193
+   },
+   "notes": "Success branch; Megumi reports to captain.",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0750:422"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Good! All units, withdraw from Spiral Castle immediately!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 194
+   },
+   "notes": "Bright orders all units out immediately.",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0750:423"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Everyone, hurry! You'll get caught in the explosion!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 195
+   },
+   "notes": "Misato warns allied pilots of explosion.",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s0750:424"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Distortion Field, maximum output.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 196
+   },
+   "notes": "Ruri issues terse technical bridge command; intentional command syntax retained.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s0750:425"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "We'll make a rapid withdrawal from this sector while shielding Nahel Argama and our allied units.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 197
+   },
+   "notes": "Ruri states Nadesico withdrawal and shielding both allies; we for ship and crew.",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "i075a:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "愛子",
+   "speaker_en": "Aiko",
+   "en": "Commander, an incoming transmission from #部隊名!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 198
+   },
+   "notes": "Aiko addresses commander Shibuya; runtime squad placeholder preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "i075a:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "愛子",
+   "speaker_en": "Aiko",
+   "en": "Operation Screw Nail was a success! Spiral Castle has been destroyed!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 199
+   },
+   "notes": "Aiko reports operation success and Castle destruction.",
+   "uncertain": [
+    "Operation Screw Nail licensed English title unverified; central source-loanword term retained."
+   ]
+  },
+  {
+   "id": 354,
+   "uses": [
+    "i075a:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "Oh...! They did it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 200
+   },
+   "notes": "Shibuya responds to report; they is squad, not guessed individual.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "i075a:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "井上博士",
+   "speaker_en": "Dr. Inoue",
+   "en": "Hokuto... Ginga...! And everyone in #部隊名...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 201
+   },
+   "notes": "Purposeful emotional vocative fragment retained; no invented thanks or praise.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "i075a:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "西園寺",
+   "speaker_en": "Saionji",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage34_campaign.json",
+    "id": 30
+   },
+   "notes": "GEAR HQ reacts anxiously to descent; Aiko and Meteo report to Chief Shibuya. Source silence retained. Preserved source fragment, silence, vocative or interjection; no missing English grammatical subject was introduced.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "i075a:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "Gozen...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 202
+   },
+   "notes": "Shibuya addresses Saionji by source fixed contextual title after reused silence; no name expansion.",
+   "uncertain": [
+    "Gozen fixed contextual title canonical licensed English unestablished; central alias retained."
+   ]
+  },
+  {
+   "id": 358,
+   "uses": [
+    "i075a:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "西園寺",
+   "speaker_en": "Saionji",
+   "en": "Yes. So Earth is safe for the time being...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage39_campaign.json",
+    "id": 203
+   },
+   "notes": "Saionji acknowledges temporary safety, not final war victory.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 39,
+  "fingerprint": "9e50bd9cdb1c3c02cc1b4db1d373a5777f5de9a7f6eb053b5048f634da08c652",
+  "reviewed_reused_ids": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   147,
+   153,
+   169,
+   272,
+   281,
+   294,
+   300,
+   312,
+   315,
+   356
+  ],
+  "reviewed_reused_rows": 155,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Reviewed all 204 fresh English rows and all 30 fresh flags against original scene neighbors. All 155 reused rows checked: 143 exact defeat templates across 205 actual registration uses and no ordinary uses; the other 12 reused IDs compared in every original use. Source fragments, Oyakata/kettle and Machine General insult soundplay, heart maxim and provisional Operation Screw Nail, Zero Barrier and interception limit wording retained. Fresh row 3 explicitly resolves allied/enemy actors from the preceding question and following pincer inference in final only, preserving the first draft. Only actual draft overflows at fresh 36 (dialogue) and 188 (fixed condition) shortened; all questions, failure conditions and unit alternatives retained. Countdown 3/2/1 and timeout/victory branches remain separate. Six distinct actual Sol 6.1 Medium translators and original source hashes preserved."
+ },
+ "full_checks": {
+  "rows": 359,
+  "uses": 432,
+  "problems": []
+ }
+}

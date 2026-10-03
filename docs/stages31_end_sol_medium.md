@@ -121,6 +121,17 @@ provisional fictional labels and separate alternate battle outcomes are explicit
 Exact review fingerprint:
 `205e098987e2efc3817568e24a8aa96e1c4d90683bb47a62b9c4404aa1c56cb4`.
 
-Stages 31–38 now total 5,351 fresh and 6,776 full rows, with 71 validated packets.
-Stage 39 is underway. Full-game local insertion and playtesting remain pending.
+Stage 39 is complete: 204 fresh rows in six packets, 359 full rows and 432
+original uses. All 30 fresh flags and every use of the 12 non-template reused
+rows were reviewed. The 143 defeat-template rows have 205 registered uses and
+no ordinary uses. Two actual overflows required shortening: one dialogue row
+and one fixed defeat-condition row. Every question and defeat alternative remains.
+The allied/enemy actors in an omitted-subject report are clarified from the
+adjacent question and pincer inference in final only. Countdown order, interrupted
+clauses and separate timeout/victory branches remain; licensed wording and
+soundplay limits are documented. Exact review fingerprint:
+`9e50bd9cdb1c3c02cc1b4db1d373a5777f5de9a7f6eb053b5048f634da08c652`.
+
+Stages 31–39 now total 5,555 fresh and 7,135 full rows, with 77 validated packets.
+Stage 40 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

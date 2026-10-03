@@ -3999,6 +3999,230 @@
     "work/translation/en/script/stage39_campaign.json:8"
    ],
    "notes": "Descriptive source stopping cutoff for falling Spiral Castle, explicitly appositional Zero Barrier at initial use. No orbital mechanism or real-world aerospace term claimed. Repeated later source-short references stay descriptive; exact licensed English wording unverified."
+  },
+  {
+   "jp": "ダウンフォール作戦",
+   "en": "Operation Downfall",
+   "sources": [
+    "https://akurasu.net/wiki/RahXephon",
+    "work/translation/en/script/stage40_campaign.json:22",
+    "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/bombardment-japan/bombs-atomic.html",
+    "work/translation/en/script/stage40_campaign.json:152,153"
+   ],
+   "notes": "Source English loanword for TERRA fictional operation. Akurasu RahXephon episode22 corroborates spelling. Fresh152-153 explicitly explain the historical American planned invasion of Japan during the Pacific War; US Navy primary history confirms that name. Only source-provided history translated, no dates, phases or casualties imported. Exact licensed fictional operation wording unverified."
+  },
+  {
+   "jp": "ナーカルの兄弟",
+   "en": "Brother of Naacal",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://en.wikipedia.org/wiki/Naacal",
+    "work/translation/en/script/stage40_campaign.json:20"
+   ],
+   "notes": "Existing Naacal stem retained. Exact epithet absent in Akurasu search; secondary Wikipedia RahXephon mention corroborates Brother of Naacal. Original Quon vocative is authoritative; no family relationship or outside biography added. Exact primary licensed English wording unverified."
+  },
+  {
+   "jp": "熊本",
+   "en": "Kumamoto",
+   "sources": [
+    "https://kumamoto.guide/en/",
+    "work/translation/en/script/stage40_campaign.json:32"
+   ],
+   "notes": "Official Kumamoto Prefecture English tourism site supports location spelling. Source says watermelon from Kumamoto; no particular farm, variety or cuisine claim added."
+  },
+  {
+   "jp": "T・Jバスター",
+   "en": "T.J. Buster",
+   "aliases": [
+    "Ｔ・Ｊバスター"
+   ],
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ひびき一郎"
+   ],
+   "notes": "Source letters and Buster loanword retained; Japanese SRWwiki corroborates MX apparatus only. No exact Akurasu/primary licensed English label verified. Not expanded to Tokyo Jupiter in source-short uses; no mechanism or capability imported."
+  },
+  {
+   "jp": "五右衛門風呂",
+   "en": "Goemon bath",
+   "sources": [
+    "https://www.visit-hokkaido.jp/en/spot/detail_13138.html",
+    "work/translation/en/script/stage40_campaign.json:88,90"
+   ],
+   "notes": "Official Hokkaido tourism English supports spelling and wood-fired bath. Source explanation is a cauldron bath named after Ishikawa Goemon; do not add execution details or a bathing ritual. No Akurasu entry found."
+  },
+  {
+   "jp": "石川五右衛門",
+   "en": "Ishikawa Goemon",
+   "sources": [
+    "https://www2.ntj.jac.go.jp/dglib/contents/learn/edc25/en/100-kabuki-characters/index.html",
+    "work/translation/en/script/stage40_campaign.json:90"
+   ],
+   "notes": "National Theatre cultural library supports conventional name and thief/bandit identity. Translate only source medieval-Japan thief explanation; no outside biography, ninja identity or execution description. No Akurasu entry found."
+  },
+  {
+   "jp": "チルチル、ミチル",
+   "en": "Tyltyl and Mytyl",
+   "sources": [
+    "https://www.gutenberg.org/cache/epub/8606/pg8606.html",
+    "work/translation/en/script/stage40_campaign.json:125"
+   ],
+   "notes": "Original English translation of Maeterlinck play supports literary allusion names. This pair only: bird and daughter named Michiru stay Michiru; no global Mytyl substitution. Japanese phonetic connection to Michiru is lost in English and flagged; do not add play title into dialogue."
+  },
+  {
+   "jp": "紫東大尉",
+   "en": "Captain Shitow",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage40_campaign.json:127"
+   ],
+   "notes": "Source-ranked surname address to Haruka; main profile gives Captain rank. Preserve canonical Shitow surname and explicit rank, without adding given name. No generic rank replacement."
+  },
+  {
+   "jp": "次元間不連続面",
+   "en": "interdimensional discontinuity surface",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:158"
+   ],
+   "notes": "Provisional literal fictional compound. Source frames TOKYO JUPITER as believed/estimated to be this surface; retain uncertainty and no invented mechanism. Exact Akurasu or licensed English label unverified."
+  },
+  {
+   "jp": "ファインマン・ダイヤグラム",
+   "en": "Feynman diagram",
+   "sources": [
+    "https://home.cern/lhcb-investigates-rare-s-pmm-decay/",
+    "work/translation/en/script/stage40_campaign.json:159"
+   ],
+   "notes": "CERN primary physics source supports term spelling only. Source fictional alternate-dimension evolution claim remains a reported belief; not claimed as established real physics and not silently corrected."
+  },
+  {
+   "jp": "確率共鳴場",
+   "en": "stochastic resonance field",
+   "sources": [
+    "work/glossary/campaign_terms.json",
+    "work/translation/en/script/stage40_campaign.json:160,173,291"
+   ],
+   "notes": "Consistent approved stochastic resonance scientific stem; whole fictional field term remains provisional. No exact Akurasu or licensed label verified. Do not replace with resonance boundary; source distinguishes field from boundary."
+  },
+  {
+   "jp": "リニアフィールド",
+   "en": "linear field",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:173"
+   ],
+   "notes": "Literal source loanword. Exact Akurasu or licensed technical label unverified; preserve source claim of six projected directions without importing a field mechanism."
+  },
+  {
+   "jp": "ＴＤＤシステム",
+   "en": "TDD system",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:160"
+   ],
+   "notes": "Explicit source-short acronym with system; do not expand to TDDU or invent a full designation."
+  },
+  {
+   "jp": "ＪＢＢ－１",
+   "en": "JBB-1",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:173"
+   ],
+   "notes": "Source alphanumeric special-service ship designation; no acronym expansion, class or licensed full name verified."
+  },
+  {
+   "jp": "ネリヤの黒い卵",
+   "en": "Neriya's black egg",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage40_campaign.json:201"
+   ],
+   "notes": "Existing Neriya stem and source literal egg phrase; exact licensed compound unverified. Preserve contrast with sleeping princess and omit outside identity/mechanism."
+  },
+  {
+   "jp": "プロップサット",
+   "en": "PropSat",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:280"
+   ],
+   "notes": "Provisional source katakana transliteration; exact Akurasu or primary licensed English spelling unverified. Source formation is overhead; do not invent satellite acronym expansion, model or capabilities."
+  },
+  {
+   "jp": "タイムディファレンシャルエフェクト",
+   "en": "time differential effect",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:303"
+   ],
+   "notes": "Literal source English loanword; exact Akurasu or licensed whole term unverified. Retain reported maximum effect without invented physics."
+  },
+  {
+   "jp": "科学調査部",
+   "en": "Scientific Research Division",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:248"
+   ],
+   "notes": "Literal source department name; exact Akurasu or licensed organization label unverified. No department hierarchy or clinical role invented."
+  },
+  {
+   "jp": "ラーの歌",
+   "en": "song of Rah",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage40_campaign.json:315"
+   ],
+   "notes": "Existing Room of Rah supports Rah stem; source poem literal. Whole licensed phrase unverified; keep source speaker hidden and no added identity or mythology."
+  },
+  {
+   "jp": "正しき音の階",
+   "en": "scale of true tones",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:319"
+   ],
+   "notes": "Provisional musical/poetic rendering of source step/scale phrase. Exact licensed wording and precise metaphor unverified; retain flag and no invented tuning mechanism."
+  },
+  {
+   "jp": "大島",
+   "en": "Oshima",
+   "sources": [
+    "https://global.shima.metro.tokyo.lg.jp/areas/oshima/",
+    "work/translation/en/script/stage40_campaign.json:172"
+   ],
+   "notes": "Tokyo Metropolitan Government English supports location spelling. Source lists five sites on a 97-kilometer radius; no map-derived factual repair or expansion to Izu in dialogue."
+  },
+  {
+   "jp": "富士吉田",
+   "en": "Fujiyoshida",
+   "sources": [
+    "https://www.city.fujiyoshida.yamanashi.jp/site/english/1328.html",
+    "work/translation/en/script/stage40_campaign.json:172"
+   ],
+   "notes": "Official municipal English spelling; source site list retained without added geography."
+  },
+  {
+   "jp": "本庄",
+   "en": "Honjo",
+   "sources": [
+    "https://www.city.honjo.lg.jp/material/files/group/10/eigo.pdf",
+    "work/translation/en/script/stage40_campaign.json:172"
+   ],
+   "notes": "Official municipal English spelling without macron; source site list retained without added geography."
+  },
+  {
+   "jp": "笠間",
+   "en": "Kasama",
+   "sources": [
+    "https://www.city.kasama.lg.jp/sp/page/dir011654.html",
+    "work/translation/en/script/stage40_campaign.json:172"
+   ],
+   "notes": "Official municipal English spelling; source site list retained without added geography."
+  },
+  {
+   "jp": "犬吠埼",
+   "en": "Inubosaki",
+   "sources": [
+    "https://www.japan.travel/en/spot/1547/",
+    "https://www.mlit.go.jp/sogoseisaku/region/infratourism/en/infralist/chiba/index03.html",
+    "work/translation/en/script/stage40_campaign.json:172"
+   ],
+   "notes": "JNTO and MLIT English support name; source-short location retained. No lighthouse or attraction explanation added."
   }
  ],
  "characters": [
