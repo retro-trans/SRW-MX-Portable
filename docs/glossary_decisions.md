@@ -726,3 +726,22 @@ their separate insult counts. Gades's alternate-world account is translated
 as his claim; hidden voices and unfinished clauses retain reveal order. The
 Altair human-fear clause remains explicitly ambiguous after adjacent-scene
 review. These are documented translation decisions, not added story facts.
+
+## Stage 45 terminology review — 2026-10-04
+
+Akurasu remains the primary source; none of these decisions override an
+Akurasu entry. Twelve supplemental records are in `campaign_terms.json`.
+
+- **Ululun** preserves the source-short magazine name: [Akurasu V Parts](https://akurasu.net/wiki/Super_Robot_Wars/V/Parts) lists Shojo Comics Ululun. No part mechanics or category are added to dialogue.
+- **Nadesico Q&A** follows the explicit English title in [Akurasu W BGM](https://akurasu.net/wiki/Super_Robot_Wars/W/BGM); retain the source’s MX Edition qualifier.
+- **Captain Misumaru** is scoped to Yurika, explicitly named in the preceding scene, and follows her existing full-rank record. Other Colonels retain their own ranks.
+- **Chichibu mountains** is a general destination, corroborated by the [primary Chichibu Geopark](https://www.chichibu-geo.com/en/about/); no named peak added.
+- **Supreme Leader Dorchenov** is a provisional title: no exact Akurasu entry was located; the [Japanese SRW profile](https://srw.wiki.cre.jp/wiki/ドルチェノフ) distinguishes the earlier military rank from the later title. Independently licensed English remains unverified.
+- **Plan A**, **Earth Federation Charter** and **space-time transfer** are source-derived fictional compounds without exact Akurasu entries. No mechanism, legal provision or unrelated setting detail added; licensed wording remains flagged.
+- **shoal zone** has English stem support from [official Gundam.info](https://it.gundam.info/news/info/news_info_20160615_108492p.html). This does not establish exact MX wording or permit importing another story’s sector or history.
+- **Shorinken** and **Silver Wolf Squad** remain provisional romanization/literal forms after exact Akurasu and related-series lookups found no relevant entries. No connection to real restaurants or unrelated squads asserted.
+- **Lieutenant Commander Tsukiomi** uses a naval convention for his explicit source rank. [Akurasu’s character list](https://akurasu.net/wiki/Master_Characters_List) establishes the name, while the existing profile establishes Jovian service; exact licensed English rank is unverified. Do not import a different-era rank or globally convert other Majors.
+
+The quoted archaic admonition retains its literal wording and uncertain literary
+provenance without attribution. Source-short Pros and Hari follow existing
+records; the main nickname Megu-tan is retained. Initial drafts remain unchanged.

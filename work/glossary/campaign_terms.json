@@ -4612,6 +4612,116 @@
     "work/translation/en/script/stage44_campaign.json:372"
    ],
    "notes": "No exact Akurasu entry found in refreshed MX tables or targeted exact lookup. Descriptive literal device phrase in Leina unfinished account; not System XN or any other named device, no mechanism or licensed English term established."
+  },
+  {
+   "jp": "うるるん",
+   "en": "Ululun",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/V/Parts",
+    "work/translation/en/script/stage45_campaign.json:114,115,135"
+   ],
+   "notes": "Akurasu V names the same Nadesico fictional manga magazine Shojo Comics Ululun. Preserve source-short Ululun without adding category, part mechanics, or claiming independently licensed MX wording."
+  },
+  {
+   "jp": "なぜなにナデシコ",
+   "en": "Nadesico Q&A",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/W/BGM",
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/BX/BGM_List",
+    "work/translation/en/script/stage45_campaign.json:734"
+   ],
+   "notes": "Akurasu W BGM explicitly translates Naze Nani Nadesico as Nadesico Q&A; BX corroborates transliteration. Source MX版 is MX Edition. Do not use unsourced Why? What? title or invent program details."
+  },
+  {
+   "jp": "ミスマル大佐",
+   "en": "Captain Misumaru",
+   "canonical_jp": "ミスマル・ユリカ",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/glossary/campaign_terms.json:ミスマル・ユリカ大佐",
+    "work/translation/en/script/stage45_campaign.json:128,132"
+   ],
+   "notes": "Scoped specifically to Yurika Misumaru, named explicitly in source128. Established full rank Captain Yurika Misumaru governs short form. Do not globally convert unrelated Colonels or confuse her with Koichiro Misumaru."
+  },
+  {
+   "jp": "秩父山中",
+   "en": "Chichibu mountains",
+   "sources": [
+    "https://www.chichibu-geo.com/en/about/",
+    "https://www.chichibu-geo.com/wp-content/themes/geo/images/publication/pamphlet/EN-4-5.pdf",
+    "work/translation/en/script/stage45_campaign.json:144,145"
+   ],
+   "notes": "No exact Akurasu entry located. Primary Chichibu Geopark geography supports Chichibu mountains. General destination in the mountains; do not invent a named individual mountain or add regional geography."
+  },
+  {
+   "jp": "ドルチェノフ総統",
+   "en": "Supreme Leader Dorchenov",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ドルチェノフ",
+    "work/translation/en/script/stage45_campaign.json:499,504"
+   ],
+   "notes": "No exact Akurasu title entry located. Secondary Japanese SRW profile explicitly distinguishes Lieutenant Colonel from later 総統 and corroborates MX title quotation. Provisional English title, not independently licensed. Do not import further plot, historical title or alter earlier military rank."
+  },
+  {
+   "jp": "プラン甲",
+   "en": "Plan A",
+   "sources": [
+    "work/translation/en/script/stage45_campaign.json:311,584"
+   ],
+   "notes": "No exact Akurasu or independently licensed English term found. Provisional literal first plan designation 甲, paired designation convention, no added mission detail."
+  },
+  {
+   "jp": "地球連合憲章",
+   "en": "Earth Federation Charter",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage45_campaign.json:605"
+   ],
+   "notes": "No exact Akurasu charter entry located. Descriptive fictional compound using established Earth Federation organization name. No current real-world law or imported charter provisions; licensed exact wording unverified."
+  },
+  {
+   "jp": "時空転移",
+   "en": "space-time transfer",
+   "sources": [
+    "work/translation/en/script/stage45_campaign.json:606"
+   ],
+   "notes": "No relevant exact Akurasu entry located. Provisional literal fictional process in Kusakabe claim. Do not conflate with a Boson Jump or ordinary time travel mechanism or import unrelated games."
+  },
+  {
+   "jp": "暗礁宙域",
+   "en": "shoal zone",
+   "sources": [
+    "https://it.gundam.info/news/info/news_info_20160615_108492p.html",
+    "work/translation/en/script/stage45_campaign.json:631"
+   ],
+   "notes": "No exact MX Akurasu entry located. Official Gundam.info English story uses shoal zone for the sci-fi term. Supports English stem only; do not add Thunderbolt Sector, Side 4, debris history or other setting facts. Exact licensed MX wording unverified."
+  },
+  {
+   "jp": "少林軒",
+   "en": "Shorinken",
+   "sources": [
+    "work/translation/en/script/stage45_campaign.json:696"
+   ],
+   "notes": "Exact Akurasu and targeted related-series searches found no relevant entry. Provisional Japanese romanization for Sai Saici restaurant-delivery joke; do not connect to real restaurants, assert ownership/history or claim licensed English spelling."
+  },
+  {
+   "jp": "シルバーウルフ隊",
+   "en": "Silver Wolf Squad",
+   "sources": [
+    "work/translation/en/script/stage45_campaign.json:390"
+   ],
+   "notes": "No relevant exact Akurasu or related Dragonar entry found. Literal provisional unit designation from source, independently licensed wording unverified. Do not conflate with unrelated games or real organizations."
+  },
+  {
+   "jp": "月臣少佐",
+   "en": "Lieutenant Commander Tsukiomi",
+   "canonical_jp": "月臣元一朗",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "work/translation/en/script/stage45_campaign.json:807"
+   ],
+   "notes": "Akurasu establishes name but no exact English rank. Source explicitly says 少佐, main profile is former Jovian officer; provisional naval convention Lieutenant Commander scoped to this rank, independently licensed English unverified. Do not import different-era BX Lieutenant Colonel or globally convert other Majors."
   }
  ],
  "characters": [

@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–44 now total 7,846 reviewed fresh rows, 10,273 full rows and 109 packets.
-Stage 45 is in progress. No later dialogue has yet been inserted into an ISO.
+Stages 31–45 now total 8,680 reviewed fresh rows, 11,292 full rows and 120 packets.
+Stage 46 is next in the queue. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -203,5 +203,25 @@ epithet retain licensed-provenance limits; Altair's human-fear clause retains
 its bounded grammatical ambiguity. Exact review fingerprint:
 `f98b15cd5bcfee3ea8dac49998fbb988dc9915c32fa4d89dd8d3a00fe62a0eef`.
 
-Stage 45 is underway. Full-game local insertion and playtesting remain pending.
+Stage 46 is next. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
+
+Stage 45, **Dearest**, is complete: 834 fresh rows, 1,019 full rows and 1,130
+original uses in eleven packets from six actual Sol 6.1 Medium translators.
+Coordinator reviewed all fresh rows, all 101 fresh flags and all 42 non-template
+reused rows at every occurrence. The 143 generic defeat rows have 205 original
+registrations and no ordinary uses. Three initial overflows (136, 440, 642)
+were shortened only after measuring; full drafts and every change remain local.
+All final rows fit the actual font. An independent translator checked the
+explicit enemy scope in objective 440; both exclusions and the 30% threshold
+remain, with the first line measuring 347 px.
+
+Review preserves the hidden voice until Aoi Wakaba is named, Inez’s false death
+report and second-anniversary memorial, Akito’s sensory injury, Subaru’s lifelong
+indoctrination distinct from Altair’s mind control, and the concert deception.
+Ululun and Nadesico Q&A follow Akurasu; source-short Pros and Hari remain
+consistent. Source-specific naval titles, uncertain licensed compounds and
+literary allusions have explicit provenance notes. Exact review fingerprint:
+`26e8b21007de48c055dbbd5f7e9d45fc0581431c0dc812115e110331b74d123b`.
+Completion audit through 45 has no problems. No later dialogue is inserted into
+an ISO, and no GitHub release was created.
