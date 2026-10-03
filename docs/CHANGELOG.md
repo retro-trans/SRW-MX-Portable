@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–34: 2,926 fresh rows and 3,645 full rows.
+- Completed and reviewed stages 31–35: 3,548 fresh rows and 4,446 full rows.
   All final lines fit; three stage 33 and two stage 34 drafts required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  completed stages 1–30 remain intact. Stage 35 translation is ongoing.
+  completed stages 1–30 remain intact. Stage 36 translation is ongoing.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

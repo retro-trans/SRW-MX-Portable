@@ -3572,6 +3572,124 @@
     "work/translation/en/script/stage35_campaign.json:103"
    ],
    "notes": "Literal fictional blood-test term; Akurasu exact-term search found no entry and independent licensed English compound remains unverified. Preserve phase and MU without adding transformation explanation absent source."
+  },
+  {
+   "jp": "量子回廊",
+   "en": "quantum corridor",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/BGM",
+    "https://akurasu.net/wiki/RahXephon",
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh384/389. Akurasu supports Quantum Corridor only as music title; dialogue compound remains literal with licensed technical naming unverified."
+  },
+  {
+   "jp": "蒼き森の鳥人",
+   "en": "bird-man of the blue forest",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh387. Descriptive source imagery; no exact Akurasu title found. Raideen referent follows fresh324-326. Do not invent deity titles or identify both Mu civilizations."
+  },
+  {
+   "jp": "ピアサー・シークェンス",
+   "en": "Piercer Sequence",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh408/421 and later packet7. Direct rendering of source English loanwords. No exact Akurasu entry or verified licensed English compound found."
+  },
+  {
+   "jp": "ピアサー・フィールド・リゾナンス",
+   "en": "Piercer Field Resonance",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh422. Direct rendering of source loanwords; exact licensed English naming unverified."
+  },
+  {
+   "jp": "確率共鳴境界",
+   "en": "stochastic resonance boundary",
+   "sources": [
+    "https://nagoya.repo.nii.ac.jp/records/21747",
+    "https://nagoya.repo.nii.ac.jp/records/24187",
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh423. Primary academic Japanese/English abstracts establish stochastic resonance for the scientific stem. Fictional boundary compound remains provisional; no licensed localization or claim of real-world physical mechanism."
+  },
+  {
+   "jp": "ナイム・メマ・ネクパ",
+   "en": "Naim mema nekpa",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh467. Mulian utterance retained as provisional romanization; exact licensed spelling and semantic meaning unverified. Do not translate it into guessed meaning."
+  },
+  {
+   "jp": "エスパ・マサ",
+   "en": "Espa masa",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 fresh468. Mulian utterance retained as provisional romanization; exact licensed spelling and semantic meaning unverified."
+  },
+  {
+   "jp": "次元卵",
+   "en": "dimensional egg",
+   "sources": [
+    "https://www.b-ch.com/titles/140/023",
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 packet7. No exact Akurasu entry found. Official Japanese episode23 synopsis confirms concept; literal English is provisional, not verified licensed localization."
+  },
+  {
+   "jp": "フィールドジェネレーター",
+   "en": "field generator",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json"
+   ],
+   "notes": "Stage35 generic English loanword device name; lowercase descriptive rendering. Source also uses middle dot フィールド・ジェネレーター.",
+   "aliases_jp": [
+    "フィールド・ジェネレーター"
+   ]
+  },
+  {
+   "jp": "エヴァンゲリオン４号機",
+   "en": "EVA-04",
+   "aliases_jp": [
+    "エヴァンゲリオン4号機",
+    "ＥＶＡ４号機",
+    "ＥＶＡ4号機",
+    "エヴァ４号機",
+    "エヴァ4号機"
+   ],
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json",
+    "work/translation/en/script/stage36_campaign.json",
+    "https://www.evangelion.jp/sp/3_0/news/det_11186.html"
+   ],
+   "notes": "Source35/36 numbered EVA unit rendered following project EVA-01/02/03 convention. No exact Akurasu EVA-04 entry found. Official Rebuild page confirms Japanese designation only, different continuity; not a source of MX plot details or licensed EVA-04 spelling. Do not globally map bare 4号機."
+  },
+  {
+   "jp": "第２支部",
+   "en": "Second Branch",
+   "aliases_jp": [
+    "第2支部"
+   ],
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json",
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Context-specific NERV branch, ordinary literal ordinal rendering. Do not add North American or headquarters unless source supplies it."
+  },
+  {
+   "jp": "エヴァンゲリオン",
+   "en": "Evangelion",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Series",
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Source full machine-category loanword. EVA is acceptable where source abbreviates; franchise title separately remains Neon Genesis Evangelion. No franchise title expansion in ordinary unit dialogue."
   }
  ],
  "characters": [

@@ -79,6 +79,16 @@ provenance limits. Buddhist cultural terms are sourced without adding a sect.
 Exact review fingerprint:
 `3822fb8b42430653a043d3ae382ef485c20370c58fa0a40509eae8dcb5414755`.
 
-Stages 31–34 now total 2,926 fresh and 3,645 full rows, with 39 validated packets.
-Stage 35 is underway. Full-game local insertion and playtesting remain pending.
+Stage 35 is complete: 622 fresh rows in eight packets, 801 full rows and 921
+original uses. All initial and final rows fit without compression. All 25 fresh
+flags and the 36 non-template reused rows were reviewed in every scene context.
+The 143 defeat-template rows have 205 registered uses and no ordinary uses.
+RahXephon technical compounds and alien utterances retain provisional licensed
+wording; the scientific stem stochastic resonance follows primary academic
+sources. Unfinished actions, poetic fragments and the address contrast remain
+explicitly documented. Exact review fingerprint:
+`dc347ddcb1a65906cd6c740ebddbb220669f4f229d2c785272b06362cfaefb50`.
+
+Stages 31–35 now total 3,548 fresh and 4,446 full rows, with 47 validated packets.
+Stage 36 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
