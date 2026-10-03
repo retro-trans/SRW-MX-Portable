@@ -132,6 +132,17 @@ clauses and separate timeout/victory branches remain; licensed wording and
 soundplay limits are documented. Exact review fingerprint:
 `9e50bd9cdb1c3c02cc1b4db1d373a5777f5de9a7f6eb053b5048f634da08c652`.
 
-Stages 31–39 now total 5,555 fresh and 7,135 full rows, with 77 validated packets.
-Stage 40 is underway. Full-game local insertion and playtesting remain pending.
+Stage 40 is complete: 494 fresh rows in seven packets, 676 full rows and 765
+original uses. All 65 fresh flags and every use of the 39 non-template reused
+rows were reviewed. The 143 defeat-template rows have 205 registered uses and
+no ordinary uses. Only one actual four-line draft overflow required shortening;
+the fortress, institute, amplifier and action order remain. Cultural names and
+geography are sourced, while fictional physics and poetic compounds retain
+provenance limits. Far East Command follows the existing glossary; hidden labels,
+source-short acronyms, unfinished commands and barrier-restoration doubts remain.
+Exact review fingerprint:
+`63e7cafe9cf5b9d256b767b7e2029bb47d590f68f1f98816fff52a94030bf703`.
+
+Stages 31–40 now total 6,049 fresh and 7,811 full rows, with 84 validated packets.
+Stage 41 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

@@ -4223,6 +4223,55 @@
     "work/translation/en/script/stage40_campaign.json:172"
    ],
    "notes": "JNTO and MLIT English support name; source-short location retained. No lighthouse or attraction explanation added."
+  },
+  {
+   "jp": "ＳＡＭ",
+   "en": "SAM",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:410"
+   ],
+   "notes": "Explicit source acronym, retained without expansion. Urgent launch-lock instruction has omitted action; do not guess lock or release. No exact Akurasu MX entry verified; other-game acronym records do not establish this apparatus."
+  },
+  {
+   "jp": "ライオンちゃん",
+   "en": "little Lion",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:435"
+   ],
+   "notes": "Affectionate source child nickname retained literally. Exact referent and licensed English nickname unverified; no named Data Weapon expansion. Plural others remains outside the name."
+  },
+  {
+   "jp": "対消滅",
+   "en": "mutual annihilation",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:471"
+   ],
+   "notes": "Fictional outcome: the two worlds annihilate each other. Do not add matter-antimatter or real particle physics. Licensed full explanation unverified; source prediction retained."
+  },
+  {
+   "jp": "ＭＵ総督府の防衛軍",
+   "en": "MU Government-General Defense Force",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:379"
+   ],
+   "notes": "Literal source institutional compound; exact Akurasu or licensed label unverified. Defense-force commander role is explicit; no further hierarchy imported."
+  },
+  {
+   "jp": "ジュピター現象",
+   "en": "Jupiter phenomenon",
+   "sources": [
+    "work/translation/en/script/stage40_campaign.json:487"
+   ],
+   "notes": "Source loanword compound for the planned barrier restoration. Whole licensed label unverified; not Hokuto dog Jupiter. Source doubts all six apparatus units can generate enough energy; preserve conditional uncertainty and no added mechanism."
+  },
+  {
+   "jp": "屋久島",
+   "en": "Yakushima",
+   "sources": [
+    "https://www.japan.travel/en/world-heritage/yakushima-island/",
+    "work/translation/en/script/stage40_campaign.json:492"
+   ],
+   "notes": "JNTO English supports island spelling. Source says D1 appears offshore and apparently heads toward Nirai Kanai; no sightseeing description or coordinates added."
   }
  ],
  "characters": [
