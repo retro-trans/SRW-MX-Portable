@@ -3973,6 +3973,32 @@
     "https://www.goldorakgo.com/wiki/index.php/Le_vocabulaire_technique"
    ],
    "notes": "Stage38 fresh94 fictional mineral distinct from Vegatron. No exact Akurasu entry found; specialist secondary Grendizer wiki corroborates French Veganium spelling, not an independently verified licensed English ore term. Source literal and provenance flag retained."
+  },
+  {
+   "jp": "ズリル長官",
+   "en": "Chief Zuril",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage38_campaign.json"
+   ],
+   "notes": "Source-short ranked address. Main Zuril profile explicitly describes science chief; Chief preserves clipped 長官 without adding Science or switching immutable canonical speaker Zuril. Applies only where original source supplies this ranked address; no generic Minister/Chief replacement."
+  },
+  {
+   "jp": "ゼロバリア",
+   "en": "Zero Barrier",
+   "sources": [
+    "work/translation/en/script/stage39_campaign.json:8",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+   ],
+   "notes": "Source English loanword names Spiral Castle interception limit in FULL155, followed by28minutes to atmospheric fall in FULL156. No exact Akurasu or primary licensed label verified; not a forcefield or mech ability. Akurasu link is checked absence/context only, not positive wording evidence. Preserve licensed-provenance flag."
+  },
+  {
+   "jp": "阻止限界点",
+   "en": "interception limit",
+   "sources": [
+    "work/translation/en/script/stage39_campaign.json:8"
+   ],
+   "notes": "Descriptive source stopping cutoff for falling Spiral Castle, explicitly appositional Zero Barrier at initial use. No orbital mechanism or real-world aerospace term claimed. Repeated later source-short references stay descriptive; exact licensed English wording unverified."
   }
  ],
  "characters": [

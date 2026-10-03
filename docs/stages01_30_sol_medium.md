@@ -171,4 +171,4 @@ initial font measurements; current font checks pass, and historical measurements
 and full drafts remain retained. Getter activation/timings, political arguments,
 threats, and closing virus scenes preserve source meaning. Names and technical
 labels are centrally sourced with explicit provenance limits. Fingerprint
-fbea801962973b4cd17812fd97c6f901e635e1f342aae9691302ff06db792430 matches.
+47834df1a02439dd971ee5db22e62c1bdc09798e5c94688dd73b276e0c896507 matches.

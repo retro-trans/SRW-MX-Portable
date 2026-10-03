@@ -5666,12 +5666,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "What do you mean, Minister Zuril? Guest from the Vegan Empire or not, I will not tolerate your insolence!",
+   "en": "What do you mean, Chief Zuril? Guest from the Vegan Empire or not, I will not tolerate your insolence!",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 179
    },
-   "notes": "Zuril source rank translated Minister; Vegan Empire glossary organization.",
+   "notes": "Zuril source rank translated Minister; Vegan Empire glossary organization. Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -5762,12 +5762,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "Minister Zuril, let us hear your plan.",
+   "en": "Chief Zuril, let us hear your plan.",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 185
    },
-   "notes": "",
+   "notes": "Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -20750,7 +20750,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 33,
-  "fingerprint": "6983857f91839c2af139cdb0cee98b114453f7996e9b692b40551fa1c336a077",
+  "fingerprint": "3d680ebedf91874372d6e4cc5723b95d5b51170ebd38246b85e0b71d426f0a98",
   "reviewed_reused_ids": [
    16,
    17,
@@ -20950,7 +20950,7 @@
   "reviewed_reused_rows": 194,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified."
+  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified. 2026-10-04 ranked-address delta: root scanned original Zuril title uses and reviewed full328/334 with original neighboring dialogue. Final fresh179/185 now Chief Zuril per main science-chief profile and clipped source-rank alias; actual final widths349/290/91 and267 pixels FITS. Immutable drafts and original sources unchanged; this supersedes Minister wording only, prior whole-stage review preserved."
  },
  "full_checks": {
   "rows": 1264,

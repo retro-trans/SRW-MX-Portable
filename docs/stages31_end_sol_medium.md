@@ -70,7 +70,7 @@ Three measured draft overflows were shortened without losing meaning. One
 proven source address typo is corrected in final only, as documented in
 `docs/glossary_decisions.md`; deliberate contract and mask fragments remain.
 Exact review fingerprint:
-`6983857f91839c2af139cdb0cee98b114453f7996e9b692b40551fa1c336a077`.
+`3d680ebedf91874372d6e4cc5723b95d5b51170ebd38246b85e0b71d426f0a98`.
 
 Stage 34 is complete: 552 fresh rows in seven packets and 729 full rows. All
 11 fresh flags and every use of the 34 non-template reused rows were reviewed.
@@ -112,6 +112,15 @@ Geographical names and pond smelt are sourced; provisional EVA compounds retain
 licensed-provenance limits. Exact review fingerprint:
 `d3b7cf31bc87fdd627fef921029e2d15bd76a1132a9e702b46ccd6e4bdbcff0b`.
 
-Stages 31–37 now total 4,822 fresh and 6,085 full rows, with 64 validated packets.
-Stage 38 is underway. Full-game local insertion and playtesting remain pending.
+Stage 38 is complete: 529 fresh rows in seven packets, 691 full rows and 774
+original uses. All 45 fresh flags and every use of the 19 non-template reused
+rows were reviewed. The 143 defeat-template rows have 205 registered uses and
+no ordinary uses. Only one fixed condition line required measured shortening,
+retaining all four defeat triggers. Haiku, nickname and proverb imagery remain;
+provisional fictional labels and separate alternate battle outcomes are explicit.
+Exact review fingerprint:
+`205e098987e2efc3817568e24a8aa96e1c4d90683bb47a62b9c4404aa1c56cb4`.
+
+Stages 31–38 now total 5,351 fresh and 6,776 full rows, with 71 validated packets.
+Stage 39 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

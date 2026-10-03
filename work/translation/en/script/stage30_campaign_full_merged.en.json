@@ -4200,12 +4200,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "That's right, Minister Zuril. We've attacked it countless times, but...",
+   "en": "That's right, Chief Zuril. We've attacked it countless times, but...",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 91
    },
-   "notes": "Minister preserves explicit title; source-short Zuril.",
+   "notes": "Minister preserves explicit title; source-short Zuril. Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -4552,12 +4552,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "Wait, Minister Zuril! We must fight to the bitter end!",
+   "en": "Wait, Chief Zuril! We must fight to the bitter end!",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 113
    },
-   "notes": "",
+   "notes": "Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -7455,12 +7455,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "Zuril! What was the meaning of that battle just now!?",
+   "en": "Chief Zuril! What was the meaning of that battle just now!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 290
    },
-   "notes": "Enemy alliance aftermath. Fixed glossary body form Zuril used for ranked source address.",
+   "notes": "Enemy alliance aftermath. Fixed glossary body form Zuril used for ranked source address. Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -7567,12 +7567,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "Enough, Hidler. ...But Zuril, a failure is a failure.",
+   "en": "Enough, Hidler. ...But Chief Zuril, a failure is a failure.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 297
    },
-   "notes": "Enemy alliance aftermath. Burai checks Hidler then rebukes Zuril; fixed name body form.",
+   "notes": "Enemy alliance aftermath. Burai checks Hidler then rebukes Zuril; fixed name body form. Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -7775,12 +7775,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "General Hidler... Work with Zuril to plan our next operation without delay.",
+   "en": "General Hidler... Work with Chief Zuril to plan our next operation without delay.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 310
    },
-   "notes": "Enemy alliance aftermath. Burai orders Hidler to cooperate with Zuril.",
+   "notes": "Enemy alliance aftermath. Burai orders Hidler to cooperate with Zuril. Root final-only ranked-address correction: Chief Zuril follows source-short rank and central alias.",
    "uncertain": []
   },
   {
@@ -13858,7 +13858,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 30,
-  "fingerprint": "e2659af0000f515a2beb883c1b7aadbcfe6ab4e0145b652ac96e0c1a2064ac4e",
+  "fingerprint": "47834df1a02439dd971ee5db22e62c1bdc09798e5c94688dd73b276e0c896507",
   "reviewed_reused_ids": [
    65,
    90,
@@ -14023,7 +14023,7 @@
   "reviewed_reused_rows": 159,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-04 ranked-address delta: root scanned all original source-ranked Zuril uses and reviewed their original neighbors. Source-short title follows Chief Zuril per main science-chief profile; final fresh91/113 Minister changed to Chief, and missing titles restored in290/297/310. All five new final rows measured FITS; immutable drafts and original sources remain unchanged. Prior whole-stage review remains valid, delta fingerprint updated."
  },
  "full_checks": {
   "rows": 839,

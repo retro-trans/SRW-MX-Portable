@@ -4,13 +4,17 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–36: 4,095 fresh rows and 5,169 full rows.
-  All final lines fit; three stage 33 and two stage 34 drafts required shortening.
+- Completed and reviewed stages 31–38: 5,351 fresh rows and 6,776 full rows.
+  All final lines fit; measured overflows in stages 33, 34, 36 and 38 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  completed stages 1–30 remain intact. Stage 37 translation is ongoing.
+  stages 1–30 remain reviewed. Stage 39 translation is ongoing.
+- Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
+  restored missing titles, preserved initial drafts and rechecked actual font fit.
+- Added reusable original-command defeat-template audit; it records ordinary
+  uses separately for individual review and never approves translations.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

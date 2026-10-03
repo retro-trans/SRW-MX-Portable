@@ -577,3 +577,25 @@ Methuselah stays the source epithet without revealing its referent. Blue-blooded
 people stays descriptive. Human specimen follows Akurasu RahXephon episode
 wording, but its MX definition and chronology come only from the source. The
 earlier M-type designation remains unexpanded. All entries retain these limits.
+
+
+## Stage 38 terms and Zuril ranked addresses (2026-10-04)
+
+Operation Bagration and its historical general follow the US Army historical
+study and Columbia Encyclopedia already recorded in campaign terms. The poem
+keeps its insect/bug/Bagration pun with the lost Japanese meter documented.
+Zeta 4 preserves the source Arabic number; Veganium ore stays distinct from
+Vegatron. Planet Mole, Operation Screw Nail, the maxim and nickname retain
+unverified licensed-English provenance. No fictional mechanism is imported.
+
+The existing Zuril profile describes a science chief. Source-short ranked
+addresses use Chief Zuril without adding Science; the canonical speaker remains
+Zuril. Root reviewed all such source uses across the completed campaign.
+Five final rows in stage 30, two in stage 33 and two in stage 38 reconcile
+Minister wording or restore omitted title. All fit; drafts and sources remain.
+Earlier Minister claims are superseded only for this exact source address.
+
+Stage 39 Zero Barrier is the source loanword for Spiral Castle's interception
+limit. The next source line supplies the atmospheric-fall context. No exact
+Akurasu or licensed English label was verified; this is not a new forcefield
+or mech ability. Interception limit stays descriptive, with no added physics.
