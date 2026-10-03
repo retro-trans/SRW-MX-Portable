@@ -5754,12 +5754,12 @@
    "kind": "dialogue",
    "speaker_jp": "沖",
    "speaker_en": "Oki",
-   "en": "Colonel Bright, just like GEAR, we too are working to defend the Earth Sphere.",
+   "en": "Captain Bright, just like GEAR, we too are working to defend the Earth Sphere.",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 177
    },
-   "notes": "Oki formally assures Bright of Last Guardian's defensive mission; GEAR is the organization.",
+   "notes": "Oki formally assures Bright of Last Guardian's defensive mission; GEAR is the organization. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -7165,7 +7165,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 21,
-  "fingerprint": "84d7a7dce41bc24221053c66dcd0ee67f4967b4d4e3fc38245cd70b2862ad34d",
+  "fingerprint": "33f85c0f2a2170f98a2677343571ae5ab94ae561fd733ffcdb7db232358d0250",
   "reviewed_reused_ids": [
    0,
    1,
@@ -7344,7 +7344,7 @@
   "reviewed_reused_rows": 173,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear."
+  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 434,

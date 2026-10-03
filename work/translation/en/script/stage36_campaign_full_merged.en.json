@@ -11769,12 +11769,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "He did it to protect you, Ayato... and Colonel Bright and the others too.",
+   "en": "He did it to protect you, Ayato... and Captain Bright and the others too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage36_campaign.json",
     "id": 543
    },
-   "notes": "Context: continuation542 explains protection motive. Decision: he refers Kunugi; Captain Bright follows sourced ship captain profile, source others retained. Coordinator rank reconciliation: source explicitly says 大佐 (Colonel), not 艦長 (Captain). Final only corrected; fits337/192px.",
+   "notes": "Context: continuation542 explains protection motive. Decision: he refers Kunugi; Captain Bright follows sourced ship captain profile, source others retained. Coordinator rank reconciliation: source explicitly says 大佐 (Colonel), not 艦長 (Captain). Final only corrected; fits337/192px. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -11830,7 +11830,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 36,
-  "fingerprint": "7858c6d16d0dd37675892ed59a69f1dd04c03048c48a7e57a704cfb28b4c7f5c",
+  "fingerprint": "eb83c024508af3a8880df1b4c7bdbd6654570d68f15d7f4e34ce5621a0d2e439",
   "reviewed_reused_ids": [
    2,
    36,
@@ -12012,7 +12012,7 @@
   "reviewed_reused_rows": 176,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 15 fresh flags, all 176 reused rows and every original use. 143 generic defeat templates have 205 registered opcode0x7D uses and no ordinary uses; all33 other reused rows reviewed in original and completed English context. 547 fresh/723 full rows/825 uses. One real draft overflow113 shortened4lines to3 retaining all branch/workplace details. Four packet1 drafts86/98/137/148 restored because actual dialogue limit3lines permits them; source line count applies only to plain text. Final543 rank corrected to source Colonel, immutable drafts preserved. Technical NERV/Mu compounds retain licensed-provenance limits, snake proverb/source fragments retained, Toji confession referent reviewed and documented."
+  "note": "Reviewed all 15 fresh flags, all 176 reused rows and every original use. 143 generic defeat templates have 205 registered opcode0x7D uses and no ordinary uses; all33 other reused rows reviewed in original and completed English context. 547 fresh/723 full rows/825 uses. One real draft overflow113 shortened4lines to3 retaining all branch/workplace details. Four packet1 drafts86/98/137/148 restored because actual dialogue limit3lines permits them; source line count applies only to plain text. Final543 rank corrected to source Colonel, immutable drafts preserved. Technical NERV/Mu compounds retain licensed-provenance limits, snake proverb/source fragments retained, Toji confession referent reviewed and documented. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable."
  },
  "full_checks": {
   "rows": 723,

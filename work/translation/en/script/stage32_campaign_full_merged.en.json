@@ -6378,12 +6378,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "Colonel Bright Noa... I have a request for you and your people.",
+   "en": "Captain Bright Noa... I have a request for you and your people.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 220
    },
-   "notes": "Full named address with source army colonel rank retained.",
+   "notes": "Full named address with source army colonel rank retained. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -12524,7 +12524,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 32,
-  "fingerprint": "7bce06e4d52b61270584d0da13bb0f050f44446488cf1b9a3ddf7f77410b8755",
+  "fingerprint": "06b43971793b807040780329c4c1fe5c0fff8b4b995d1faece37c6bb2743a486",
   "reviewed_reused_ids": [
    24,
    25,
@@ -12705,7 +12705,7 @@
   "reviewed_reused_rows": 175,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 26 fresh uncertainty rows against original source and neighbors in both Earth and Super routes; retained intentional omissions, symbolic bird-man imagery, second-rematch wording, Buddhist invocations, chamber block and calendar provenance. Chicken crest/anger and Mandala jokes retain their spoken effect with explicit localization notes. Boundary quake remains a source-literal provisional term and is distinguished from Boson Jump without equating unrelated series terminology. Reviewed all 32 non-template reused rows and every actual scene use, including Bright silence in two scenes, Ruri replies, Akito withdrawal, Altair reactions and silent Data Weapons. Verified all 143 inherited defeat-template rows across 410 scene uses are opcode0x7D registrations using argument2. Full initial drafts retained; all 578 fit without compression; minor final semantic/calendar/canonical corrections recorded by workers."
+  "note": "Reviewed all 26 fresh uncertainty rows against original source and neighbors in both Earth and Super routes; retained intentional omissions, symbolic bird-man imagery, second-rematch wording, Buddhist invocations, chamber block and calendar provenance. Chicken crest/anger and Mandala jokes retain their spoken effect with explicit localization notes. Boundary quake remains a source-literal provisional term and is distinguished from Boson Jump without equating unrelated series terminology. Reviewed all 32 non-template reused rows and every actual scene use, including Bright silence in two scenes, Ruri replies, Akito withdrawal, Altair reactions and silent Data Weapons. Verified all 143 inherited defeat-template rows across 410 scene uses are opcode0x7D registrations using argument2. Full initial drafts retained; all 578 fit without compression; minor final semantic/calendar/canonical corrections recorded by workers. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable."
  },
  "full_checks": {
   "rows": 753,

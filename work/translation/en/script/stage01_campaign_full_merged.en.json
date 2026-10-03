@@ -5276,12 +5276,12 @@
    "kind": "dialogue",
    "speaker_jp": "カール",
    "speaker_en": "Karl",
-   "en": "Just what I'd expect from Colonel Bright Noa, the renowned captain. You won't let us have our way so easily!",
+   "en": "Just what I'd expect from Captain Bright Noa, the renowned captain. You won't let us have our way so easily!",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 78
    },
-   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -14565,7 +14565,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 1,
-  "fingerprint": "a00d97f38909519c545e8cc1685b095c097b6109b38900e552656140a8af0b30",
+  "fingerprint": "2bd177d0c7777359699bc4bd40b58cd337aba221a848e2a3488448ab086149d7",
   "reviewed_reused_ids": [
    0,
    1,
@@ -14869,7 +14869,7 @@
   "reviewed_reused_rows": 298,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 873,

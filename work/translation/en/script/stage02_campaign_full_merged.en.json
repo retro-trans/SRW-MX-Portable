@@ -1181,12 +1181,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "...Colonel Bright. First the postwar cleanup after the Baam war, and now this mission...",
+   "en": "...Captain Bright. First the postwar cleanup after the Baam war, and now this mission...",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 70
    },
-   "notes": "Bright and Misumaru discuss changed transport orders and Japanese operations; formal command exchange, then personal apology and thanks. Deliberate setup carries into apology row71.",
+   "notes": "Bright and Misumaru discuss changed transport orders and Japanese operations; formal command exchange, then personal apology and thanks. Deliberate setup carries into apology row71. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -1464,12 +1464,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "Well then, Colonel Bright. I'm counting on you to take good care of things.",
+   "en": "Well then, Captain Bright. I'm counting on you to take good care of things.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 86
    },
-   "notes": "Misumaru asks Bright for care and cooperation; request direction preserved.",
+   "notes": "Misumaru asks Bright for care and cooperation; request direction preserved. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -9086,12 +9086,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Thank you for going to all this trouble, Colonel Bright Noa.",
+   "en": "Thank you for going to all this trouble, Captain Bright Noa.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 390
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -15361,12 +15361,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "...Colonel Bright, I see you've safely joined up with the D-Weapons transport force.",
+   "en": "...Captain Bright, I see you've safely joined up with the D-Weapons transport force.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 776
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -17617,7 +17617,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 2,
-  "fingerprint": "3249bbb60a476be9166fc138f9cf3c66fa391dcb3fae9ebb62cf66436a85069e",
+  "fingerprint": "1f62ce1e4f0f489849d612ecc76fd49bbd91b8cdea439309d9cfd01840686961",
   "reviewed_reused_ids": [
    21,
    87,
@@ -17774,7 +17774,7 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained."
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 1068,

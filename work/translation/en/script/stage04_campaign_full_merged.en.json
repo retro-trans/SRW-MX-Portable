@@ -7953,12 +7953,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "Colonel Bright Noa, captain of the Nahel Argama, reporting, sir.",
+   "en": "Captain Bright Noa, captain of the Nahel Argama, reporting, sir.",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 338
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -9816,12 +9816,12 @@
    "kind": "dialogue",
    "speaker_jp": "渋谷長官",
    "speaker_en": "Chief Shibuya",
-   "en": "Now, Colonel Bright... There's something I'd like to ask of you.",
+   "en": "Now, Captain Bright... There's something I'd like to ask of you.",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 453
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -12504,7 +12504,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 4,
-  "fingerprint": "fd97263e6824a38a4f82c83fc26973037c7d8a91da46664833fff7acdf24beef",
+  "fingerprint": "0d7af2d61c1e566d28cb9ef0113b532829583971992b7d542e8a8e16e122959c",
   "reviewed_reused_ids": [
    74,
    75,
@@ -12657,7 +12657,7 @@
   "reviewed_reused_rows": 147,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator compared all147 reused rows against the reviewed prior-stage defeat template and exact source; additional uses are silences and Bright acknowledgment. Checked original interlocutor window for acknowledgment and actual thought kinds. Reviewed four fresh uncertainties: literal Operation D, Vega source fragment, mistaken fixed-title joke and bald/shadow idiom adaptation; retained explicit limitations. No context-sensitive reuse rewrite required. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Coordinator compared all147 reused rows against the reviewed prior-stage defeat template and exact source; additional uses are silences and Bright acknowledgment. Checked original interlocutor window for acknowledgment and actual thought kinds. Reviewed four fresh uncertainties: literal Operation D, Vega source fragment, mistaken fixed-title joke and bald/shadow idiom adaptation; retained explicit limitations. No context-sensitive reuse rewrite required. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 765,

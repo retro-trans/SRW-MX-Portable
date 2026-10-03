@@ -59,7 +59,7 @@ across 410 registered uses. Symbolic bird-man references, unfinished warnings,
 Buddhist invocations and provisional boundary-quake/calendar terminology retain
 their documented uncertainty. Chicken and Mandala puns are localized with notes.
 Exact review fingerprint:
-`7bce06e4d52b61270584d0da13bb0f050f44446488cf1b9a3ddf7f77410b8755`.
+`06b43971793b807040780329c4c1fe5c0fff8b4b995d1faece37c6bb2743a486`.
 
 Stage 33 is complete: 1,070 fresh rows in fourteen packets, 1,264 full rows and
 1,593 original scene uses. All 26 fresh flagged rows and all 194 reused rows
@@ -89,7 +89,7 @@ RahXephon technical compounds and alien utterances retain provisional licensed
 wording; the scientific stem stochastic resonance follows primary academic
 sources. Unfinished actions, poetic fragments and the address contrast remain
 explicitly documented. Exact review fingerprint:
-`dc347ddcb1a65906cd6c740ebddbb220669f4f229d2c785272b06362cfaefb50`.
+`cd858f826660230cfa5dcd91b1dabcfc92fed7e807f6723ee1fd797122031cb1`.
 
 Stage 36 is complete: 547 fresh rows in seven packets, 723 full rows and 825
 original uses. All 15 fresh flags and all 33 non-template reused rows were
@@ -97,11 +97,21 @@ reviewed in every scene context. The 143 defeat-template rows have 205 registere
 uses and no ordinary uses. One real four-line draft overflow was shortened to
 three lines without losing branch/workplace details. Four fitting drafts were
 restored after correcting an artificial source dialogue-line ceiling; explicit
-hospital context survives. Final rank Colonel Bright follows the source.
+hospital context survives. Bright's naval rank follows Akurasu Captain;
+the earlier generic Colonel interpretation is corrected in final only.
 Provisional NERV compounds, Toji's confession referent and intentional fragments
 remain documented. Exact review fingerprint:
-`7858c6d16d0dd37675892ed59a69f1dd04c03048c48a7e57a704cfb28b4c7f5c`.
+`eb83c024508af3a8880df1b4c7bdbd6654570d68f15d7f4e34ce5621a0d2e439`.
 
-Stages 31–36 now total 4,095 fresh and 5,169 full rows, with 54 validated packets.
-Stage 37 is underway. Full-game local insertion and playtesting remain pending.
+Stage 37 is complete: 727 fresh rows in ten packets, 916 full rows and 1,043
+original uses. All initial and final rows fit without compression. All 21 fresh
+flags and every use of the 46 non-template reused rows were reviewed. The 143
+defeat-template rows have 205 registered uses and no ordinary uses. Hidden
+identities, unfinished refusal/confession and technical wording remain explicit.
+Geographical names and pond smelt are sourced; provisional EVA compounds retain
+licensed-provenance limits. Exact review fingerprint:
+`d3b7cf31bc87fdd627fef921029e2d15bd76a1132a9e702b46ccd6e4bdbcff0b`.
+
+Stages 31–37 now total 4,822 fresh and 6,085 full rows, with 64 validated packets.
+Stage 38 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

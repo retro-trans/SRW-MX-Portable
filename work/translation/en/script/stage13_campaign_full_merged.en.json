@@ -7605,12 +7605,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "Then contact Colonel Bright Noa aboard Nahel Argama and ask him to come here.",
+   "en": "Then contact Captain Bright Noa aboard Nahel Argama and ask him to come here.",
    "translation_owner": {
     "source": "work/translation/en/script/stage13_campaign.json",
     "id": 301
    },
-   "notes": "Kunugi asks Kim to contact Colonel Bright Noa and request his presence; caller/addressee direction explicit.",
+   "notes": "Kunugi asks Kim to contact Colonel Bright Noa and request his presence; caller/addressee direction explicit. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -8822,7 +8822,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 13,
-  "fingerprint": "eb27a708423622dbc21491a8b66050ef0f5411c272c409e861574377a25ce219",
+  "fingerprint": "241235f4552c3e3a4f3e22bc6203e1202b2d946f70a595bf4f9e39e8eb036235",
   "reviewed_reused_ids": [
    28,
    29,
@@ -8989,7 +8989,7 @@
   "reviewed_reused_rows": 161,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 161 reused rows: 143 generic defeat rows match reviewed Stage 12 exactly, and eighteen special rows checked across every original numeric-use window including twelve Ayato silences and shared reactions. Read all 375 final fresh lines and fourteen uncertainty flags in original context. Retained poetic Quon imagery, inferred travel/target references and provisional literal terminology; transmission141 compressed only after measurement. Names reconciled after meaning edits; initial drafts retained."
+  "note": "Reviewed all 161 reused rows: 143 generic defeat rows match reviewed Stage 12 exactly, and eighteen special rows checked across every original numeric-use window including twelve Ayato silences and shared reactions. Read all 375 final fresh lines and fourteen uncertainty flags in original context. Retained poetic Quon imagery, inferred travel/target references and provisional literal terminology; transmission141 compressed only after measurement. Names reconciled after meaning edits; initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 536,

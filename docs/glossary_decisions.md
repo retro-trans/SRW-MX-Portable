@@ -127,7 +127,8 @@ Ruri's source Hoshino rank follows the main Lieutenant Commander profile in both
 routes; Major Hoshino was found in Stage 18 only and returned to the translators
 for correction. Yurika's full ranked name uses Captain, explicitly listed in her
 [Nadesico profile](https://nadesico.fandom.com/wiki/Yurika_Misumaru). These are specific
-character mappings, without changing Colonel Bright or other series. Initial
+character mappings; Bright's rank was subsequently reconciled to Captain using
+Akurasu on 2026-10-04, as documented below. Other series are unaffected. Initial
 drafts retain the original calls. Burr-head preserves the haircut tease and
 Ginga's rejection, with English texture uncertainty; the dictionary supports the
 Japanese metaphor. The short emotional energy system stays short. Zabi family
@@ -544,3 +545,35 @@ remain intact. This correction is scoped to this line, not a name replacement.
 Stage 33's later truncated **Frank Naga...** reference also supports the earlier
 blank/long sound joke interpretation, without supplying the missing syllables.
 The sound connection remains documented as a translation limitation.
+
+
+## Bright naval rank correction (2026-10-04)
+
+[Akurasu Bright Noa](https://akurasu.net/wiki/Bright_Noa) explicitly lists Captain
+for his Char's Counterattack rank. The earlier generic army-rank rendering
+Colonel was incorrect for this character. Thirty final fresh rows across
+stages 1–36 are corrected to Captain Bright or Captain Bright Noa after checking
+their original ranked names and measuring every final with the actual font.
+All fit in the existing dialogue limit. Immutable full drafts, source hashes,
+scene uses and other characters' ranks are preserved. Packet reports record
+the correction and supersede earlier rank claims. Existing released images
+are unchanged; this reconciliation will enter a future local build. This is
+adherence to Akurasu, not a glossary override.
+
+
+## Stage 37 terminology scope (2026-10-04)
+
+Gora and Komagatake use the official Hakone visitor guide. Pond smelt follows
+the Japan Tourism Agency-authored Lake Ashi guide. EVA startup and salvage
+compounds are literal where no exact Akurasu or primary licensed label is
+verified. APA corroborates the stems ego boundary and cathexis, not the
+fictional apparatus. The unusual LCL electrical-process spelling is retained
+in source and rendered as electrification; no electrolysis chemistry is added.
+Klein space and base section 3 remain provisional with no invented dimensions
+or basement floor. Central Dogma is a source English loanword and official
+Japanese broadcaster place label; no geography beyond MX is imported.
+
+Methuselah stays the source epithet without revealing its referent. Blue-blooded
+people stays descriptive. Human specimen follows Akurasu RahXephon episode
+wording, but its MX definition and chronology come only from the source. The
+earlier M-type designation remains unexpanded. All entries retain these limits.

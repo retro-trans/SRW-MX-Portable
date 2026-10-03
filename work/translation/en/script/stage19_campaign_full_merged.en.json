@@ -593,12 +593,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "...I've also heard from GEAR's Chief Shibuya. You've been through a great deal, Colonel Bright... Ruri.",
+   "en": "...I've also heard from GEAR's Chief Shibuya. You've been through a great deal, Captain Bright... Ruri.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 33
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -977,12 +977,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "#部隊名, eh...? Colonel Bright, what do you think?",
+   "en": "#部隊名, eh...? Captain Bright, what do you think?",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 56
    },
-   "notes": "Runtime placeholder preserved exactly.",
+   "notes": "Runtime placeholder preserved exactly. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -11199,7 +11199,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 19,
-  "fingerprint": "29dcaa28ae89650052a9c8a18af497a5c466c9e90468594e6f28aa86f0189b84",
+  "fingerprint": "061310a35b9c13ae7ff4ecc3e5d5b7da2a8f0006c65ac3ec5bbba1d60576d109",
   "reviewed_reused_ids": [
    7,
    32,
@@ -11359,7 +11359,7 @@
   "reviewed_reused_rows": 154,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks."
+  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 686,

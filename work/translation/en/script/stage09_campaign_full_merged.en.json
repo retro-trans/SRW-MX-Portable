@@ -5539,12 +5539,12 @@
    "kind": "dialogue",
    "speaker_jp": "東山所長",
    "speaker_en": "Director Higashiyama",
-   "en": "Thank you, Colonel Bright Noa. You saved us.",
+   "en": "Thank you, Captain Bright Noa. You saved us.",
    "translation_owner": {
     "source": "work/translation/en/script/stage09_campaign.json",
     "id": 184
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -6818,7 +6818,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 9,
-  "fingerprint": "a6c5404d4a6616ba8e65f81f4555e61ae5261edb3bec6043de42fca48bb93649",
+  "fingerprint": "7e1cb21580ac65747dde3871b1fce3a603989e52c6da4aeff13a1e65329407be",
   "reviewed_reused_ids": [
    11,
    23,
@@ -6975,7 +6975,7 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all151 reused rows:143 generic prologue battle rows match previously reviewed exact bodies/speakers; remaining8 original numeric-use neighborhoods checked, including newly owned Stage8 Shinji silence. Reviewed all fresh flags: hidden male identity retained,5A/outside unexpanded, Asuka warning direction, unnamed partial resemblance/backers, unfinished callback and Vega comparison. Exact Star of Ra Mu applied after meaning decisions; all initial/final rows fit without compression. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Reviewed all151 reused rows:143 generic prologue battle rows match previously reviewed exact bodies/speakers; remaining8 original numeric-use neighborhoods checked, including newly owned Stage8 Shinji silence. Reviewed all fresh flags: hidden male identity retained,5A/outside unexpanded, Asuka warning direction, unnamed partial resemblance/backers, unfinished callback and Vega comparison. Exact Star of Ra Mu applied after meaning decisions; all initial/final rows fit without compression. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 413,

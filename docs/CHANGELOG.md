@@ -896,3 +896,25 @@
 ### 2026-10-02 — ISO analysis
 - Analysed the ISO for Japanese text; report in `docs/japanese_text_report.md`.
 - Added tools: `tools/sjis_scan.py`, `tools/srwl_dump.py`, `tools/tx48_dump.py`.
+
+
+### Translation terminology correction (2026-10-04, unpublished)
+
+- Corrected thirty final fresh ranked Bright addresses across stages 1–36
+  to Akurasu Captain Bright/Captain Bright Noa. Every corrected line fits;
+  full initial drafts and source records are preserved. Previous Colonel
+  assertions in packet reports are explicitly superseded.
+- Added character-specific rank guidance and refreshed affected exact review
+  fingerprints. Existing release tags and game images remain unchanged.
+
+
+### Translation progress: stage 37 (2026-10-04, unpublished)
+
+- Completed and reviewed all 727 fresh rows / 916 full rows / 1,043 scene uses
+  with six distinct Sol 6.1 Medium translators and ten preserved packets.
+- All drafts and final lines fit without compression; all 21 fresh flags
+  and every reused scene context reviewed, including defeat registrations.
+- Added scoped EVA/Geofront compounds and source geography with explicit
+  provenance limits. Corrected one final Toji spelling, retaining full draft.
+- Stages 31–37 total 4,822 fresh / 6,085 full rows. These later translations
+  are not yet inserted in a local ISO. Stage 38 translation has started.

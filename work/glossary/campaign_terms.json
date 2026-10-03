@@ -3782,6 +3782,197 @@
     "work/translation/en/script/stage36_campaign.json"
    ],
    "notes": "Stage36 fresh465. Literal provisional NERV technical compound; no exact Akurasu entry found. No licensed English confirmation, no mechanism explanation inferred."
+  },
+  {
+   "jp": "強羅",
+   "en": "Gora",
+   "sources": [
+    "https://www.hakone.or.jp/files/w007_2017121203410665757.pdf",
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "No exact Akurasu entry found. Official Hakone tourism English guide confirms Gora place spelling. Stage37 fresh198 defenses context; no added battle name."
+  },
+  {
+   "jp": "駒ヶ岳",
+   "en": "Komagatake",
+   "sources": [
+    "https://hakone-japan.com/discover/national-park/area-information/mt-komagatake-mototsumiya-shrine/",
+    "https://hakone-japan.com/pre/wp/wp-content/uploads/Mt.Fuji_Map_2023.pdf",
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Official Hakone tourism map confirms mountain spelling. No exact Akurasu entry found. Source-short Komagatake in fresh271 defensive-line report; retain source defensive-line qualifier."
+  },
+  {
+   "jp": "ブライト大佐",
+   "en": "Captain Bright",
+   "aliases_jp": [
+    "ブライト・ノア大佐"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/Bright_Noa"
+   ],
+   "notes": "Character-specific naval rank: Akurasu explicitly maps Bright Noa's Char's Counterattack rank 大佐 to Captain. Use Captain Bright Noa when source gives full name. Also Captain for 艦長; never globally replace other characters' Colonel ranks. This follows Akurasu, not an override."
+  },
+  {
+   "jp": "探査針",
+   "en": "probe",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh379 EVA startup apparatus: ordinary literal probe inserted during startup. No exact Akurasu or licensed English label verified; mechanism is not expanded. Preserve provenance uncertainty if treated as a fictional named component."
+  },
+  {
+   "jp": "セントラルドグマ",
+   "en": "Central Dogma",
+   "sources": [
+    "https://www.ktv.jp/evangelion/"
+   ],
+   "notes": "Stage37 fresh498, NERV place. Source is English loanword; official broadcaster confirms Japanese place name, not licensed English phrasing."
+  },
+  {
+   "jp": "メトセラ",
+   "en": "Methuselah",
+   "sources": [
+    "https://imidas.jp/katakana/detail/Z-34-4-0336.html"
+   ],
+   "notes": "Stage37 fresh541 source epithet. Standard biblical name; dictionary corroborates allusion. Do not reveal unnamed referent or import RahXephon outside plot; no exact Akurasu entry found."
+  },
+  {
+   "jp": "自我境界線",
+   "en": "ego boundary",
+   "sources": [
+    "https://dictionary.apa.org/ego-boundary"
+   ],
+   "notes": "Stage37 fresh530. APA supports scientific stem; EVA quantum-state fictional compound/mechanism and licensed English not verified. Preserve source tentative hypothesis."
+  },
+  {
+   "jp": "擬似信号",
+   "en": "simulated signals",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh511 startup command, ordinary literal wording. Do not expand signal generation method; no exact Akurasu/verified licensed label."
+  },
+  {
+   "jp": "青き血の民",
+   "en": "blue-blooded people",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh540 descriptive group address. Do not replace with Mu or import unspoken lineage; avoid aristocratic idiom by scene context."
+  },
+  {
+   "jp": "電磁波形ゼロ・マイナス３",
+   "en": "electromagnetic waveform zero-minus-three",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh625 startup operational value; preserve source code literally with no numeric/mechanistic expansion or licensed claim."
+  },
+  {
+   "jp": "自我境界パルス",
+   "en": "ego-boundary pulse",
+   "sources": [
+    "https://dictionary.apa.org/ego-boundary"
+   ],
+   "notes": "Stage37 fresh626 fictional startup compound. Scientific stem corroborated by APA only; full licensed label and mechanism unverified."
+  },
+  {
+   "jp": "対象カテクシス",
+   "en": "target cathexis",
+   "sources": [
+    "https://dictionary.apa.org/cathexis"
+   ],
+   "notes": "Stage37 fresh631 startup compound. Psychology stem cathexis corroborated by APA only, no invented target or device mechanism; full licensed term unverified."
+  },
+  {
+   "jp": "ＬＣＬ電過",
+   "en": "LCL electrification",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh407 unusual original spelling 電過. Startup context supports electrical charging, not invented electrolysis. Acronym unexpanded; licensed process wording/source spelling remains flagged."
+  },
+  {
+   "jp": "第３基部",
+   "en": "base section 3",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh314 provisional architecture wording; source does not specify third basement floor. Full licensed label unverified."
+  },
+  {
+   "jp": "クライン空間",
+   "en": "Klein space",
+   "sources": [
+    "work/translation/en/script/stage37_campaign.json"
+   ],
+   "notes": "Stage37 fresh647 fictional salvage label. Literal name/space, no exact Akurasu or primary licensed wording verified. Do not add physics/dimensions or substitute Klein bottle."
+  },
+  {
+   "jp": "人間標本",
+   "en": "human specimen",
+   "sources": [
+    "https://akurasu.net/wiki/RahXephon"
+   ],
+   "notes": "Stage37 fresh721, defined in source following722 as humans taken from TOKYO JUPITER. Akurasu RahXephon episode13 Human Specimen #1 supports term wording, not imported identity or chronology. Source number1 and >20 years before Mu preserved. Distinct source M-type Specimen No.1 in stage35 stays unexpanded."
+  },
+  {
+   "jp": "バグラチオン作戦",
+   "en": "Operation Bagration",
+   "sources": [
+    "https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/connor.pdf"
+   ],
+   "notes": "Stage38 fresh5/6 historical borrowed operation name; Army study corroborates Soviet WWII operation only. Do not add realworld date/targets absent from MX source. Bug-word poem pun13 documented separately."
+  },
+  {
+   "jp": "ピョートル・イワノヴィッチ・バグラチオン",
+   "en": "Pyotr Ivanovich Bagration",
+   "sources": [
+    "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/bagration-piotr-ivanovich-prince"
+   ],
+   "notes": "Stage38 fresh7 source full historical general name. Columbia Encyclopedia has Piotr romanization variant; Pyotr is standard transliteration matching Japanese. No invented shortened patronymic or chronology."
+  },
+  {
+   "jp": "スクリューネイル作戦",
+   "en": "Operation Screw Nail",
+   "sources": [
+    "work/translation/en/script/stage38_campaign.json"
+   ],
+   "notes": "Stage38 fresh44 source-English loanword operation title, linked to screw-nail tip metaphor. Exact licensed wording unverified; preserve metaphor with no new strategy details."
+  },
+  {
+   "jp": "力は心なり",
+   "en": "Strength comes from the heart",
+   "sources": [
+    "work/translation/en/script/stage38_campaign.json"
+   ],
+   "notes": "Stage38 fresh75/76 identical Midori/Ginga maxim. Natural literal meaning rendered consistently, not a verified licensed quotation or expanded martial-arts doctrine."
+  },
+  {
+   "jp": "イノブタちゃん",
+   "en": "Piggy-Boar",
+   "sources": [
+    "work/translation/en/script/stage38_campaign.json"
+   ],
+   "notes": "Stage38 fresh69 Otome playful boar/pig hybrid nickname for Data Weapon. Preserve affectionate joke beside lion address; provisional localization, not invented canonical name."
+  },
+  {
+   "jp": "ゼータ４号",
+   "en": "Zeta 4",
+   "sources": [
+    "work/translation/en/script/stage38_campaign.json"
+   ],
+   "notes": "Stage38 source93 Vega satellite. Exact Akurasu/primary licensed English naming unverified; preserve Arabic source number4 instead of asserting a Roman naming convention. No external plot expansion."
+  },
+  {
+   "jp": "ベガニウム鉱",
+   "en": "Veganium ore",
+   "sources": [
+    "work/translation/en/script/stage38_campaign.json",
+    "https://www.goldorakgo.com/wiki/index.php/Le_vocabulaire_technique"
+   ],
+   "notes": "Stage38 fresh94 fictional mineral distinct from Vegatron. No exact Akurasu entry found; specialist secondary Grendizer wiki corroborates French Veganium spelling, not an independently verified licensed English ore term. Source literal and provenance flag retained."
   }
  ],
  "characters": [

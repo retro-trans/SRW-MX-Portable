@@ -5171,12 +5171,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイン",
    "speaker_en": "Rain",
-   "en": "It has been a while, Colonel Bright Noa.",
+   "en": "It has been a while, Captain Bright Noa.",
    "translation_owner": {
     "source": "work/translation/en/script/stage05_campaign.json",
     "id": 161
    },
-   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -7985,7 +7985,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 5,
-  "fingerprint": "f9884b9e6c2b1f07e71bdf16c3f2b0df8240df665ed92adfb1843d4ab370317f",
+  "fingerprint": "988392c4f9d166778f0819578e3faac9a21d796f4d7b3210631e7a2243651896",
   "reviewed_reused_ids": [
    32,
    53,
@@ -8158,7 +8158,7 @@
   "reviewed_reused_rows": 167,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 167 reused rows: unchanged generic battle defeat template and mission objectives; protagonist silences/reactions checked at every original use; Ginga and Rain autograph sequence matches stage4 context with unchanged listener/referents. Reviewed fresh terminology and Aqua open-ended thought455 against adjacent scenes; retained source ambiguities. All final rows pass structural/font/name checks. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Reviewed all 167 reused rows: unchanged generic battle defeat template and mission objectives; protagonist silences/reactions checked at every original use; Ginga and Rain autograph sequence matches stage4 context with unchanged listener/referents. Reviewed fresh terminology and Aqua open-ended thought455 against adjacent scenes; retained source ambiguities. All final rows pass structural/font/name checks. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 482,

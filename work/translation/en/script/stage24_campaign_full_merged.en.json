@@ -2107,12 +2107,12 @@
    "kind": "dialogue",
    "speaker_jp": "渋谷長官",
    "speaker_en": "Chief Shibuya",
-   "en": "...It sounds like you had a hard time in Tokyo-3, Colonel Bright.",
+   "en": "...It sounds like you had a hard time in Tokyo-3, Captain Bright.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 126
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -10432,7 +10432,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 24,
-  "fingerprint": "2f4f19b41449e3e6ad705bf37a7a38a6dc28f68f5be50e3a351f796f090f72dc",
+  "fingerprint": "65377597e47578f78283783f34309e1a76b66b29fddbc1c12a8ad107f181c33c",
   "reviewed_reused_ids": [
    40,
    59,
@@ -10602,7 +10602,7 @@
   "reviewed_reused_rows": 164,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed every fresh packet, all fresh uncertainties in original event context, and all164 reused rows in every actual use with final English neighbors. Three measured overflows33/70/448 alone compressed; ritual astronomy, cryptic Heaven/Hakke, placeholder420, ranks and command direction preserved. Initial drafts retained; name reconciliation and whole-campaign nickname previews require no changes."
+  "note": "Coordinator reviewed every fresh packet, all fresh uncertainties in original event context, and all164 reused rows in every actual use with final English neighbors. Three measured overflows33/70/448 alone compressed; ritual astronomy, cryptic Heaven/Hakke, placeholder420, ranks and command direction preserved. Initial drafts retained; name reconciliation and whole-campaign nickname previews require no changes. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 637,

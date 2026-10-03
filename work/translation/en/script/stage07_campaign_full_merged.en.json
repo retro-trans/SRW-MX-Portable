@@ -1506,12 +1506,12 @@
    "kind": "dialogue",
    "speaker_jp": "渋谷長官",
    "speaker_en": "Chief Shibuya",
-   "en": "I see... We have Colonel Bright and the others to thank for that. And what about the things we discussed?",
+   "en": "I see... We have Captain Bright and the others to thank for that. And what about the things we discussed?",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 92
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -12798,7 +12798,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 7,
-  "fingerprint": "00d0be0ca44a4a4c73f8ee3a04da28b80987dc30c662affd22e602e4ed926169",
+  "fingerprint": "9252d294612b2cc01a79ae000132d82c55856cac8185aee63835d877d10846ba",
   "reviewed_reused_ids": [
    125,
    144,
@@ -12961,7 +12961,7 @@
   "reviewed_reused_rows": 157,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all fresh uncertainty/context callbacks and all 157 reused rows; 143 prologue battle-template rows match the previously reviewed table. Confirmed remaining 14 in original numeric-use neighbors, including Hokuto reply now assembled, hidden speaker Yes, and mission conditions. Retained Gozen alias, Vega self-correction, source-cutoff MA..., unresolved Committee action and exact Star Era4085. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Reviewed all fresh uncertainty/context callbacks and all 157 reused rows; 143 prologue battle-template rows match the previously reviewed table. Confirmed remaining 14 in original numeric-use neighbors, including Hokuto reply now assembled, hidden speaker Yes, and mission conditions. Retained Gozen alias, Vega self-correction, source-cutoff MA..., unresolved Committee action and exact Star Era4085. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 785,

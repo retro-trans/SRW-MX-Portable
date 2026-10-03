@@ -6729,12 +6729,12 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "Of course, Colonel Bright. I want you to sortie immediately... and make certain you recover the RahXephon and Quon Kisaragi.",
+   "en": "Of course, Captain Bright. I want you to sortie immediately... and make certain you recover the RahXephon and Quon Kisaragi.",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 246
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -13118,7 +13118,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 35,
-  "fingerprint": "dc347ddcb1a65906cd6c740ebddbb220669f4f229d2c785272b06362cfaefb50",
+  "fingerprint": "cd858f826660230cfa5dcd91b1dabcfc92fed7e807f6723ee1fd797122031cb1",
   "reviewed_reused_ids": [
    2,
    8,
@@ -13303,7 +13303,7 @@
   "reviewed_reused_rows": 179,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified."
+  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable."
  },
  "full_checks": {
   "rows": 801,

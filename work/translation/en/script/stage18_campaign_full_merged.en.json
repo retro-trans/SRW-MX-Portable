@@ -38,12 +38,12 @@
    "kind": "dialogue",
    "speaker_jp": "プラート博士",
    "speaker_en": "Dr. Plato",
-   "en": "Colonel Bright, Lieutenant Douglas... Thank you for your work transporting the D-Weapons.",
+   "en": "Captain Bright, Lieutenant Douglas... Thank you for your work transporting the D-Weapons.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 0
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -14734,12 +14734,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベン",
    "speaker_en": "Ben",
-   "en": "If I may say so, I agree with Colonel Bright as well.",
+   "en": "If I may say so, I agree with Captain Bright as well.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 726
    },
-   "notes": "",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -25379,12 +25379,12 @@
    "kind": "dialogue",
    "speaker_jp": "一矢",
    "speaker_en": "Kazuya",
-   "en": "Lieutenant Commander Hoshino, I have a request. Please let us join your unit and Colonel Bright Noa's.",
+   "en": "Lieutenant Commander Hoshino, I have a request. Please let us join your unit and Captain Bright Noa's.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1377
    },
-   "notes": "Request direction Kazuya asks Ruri to let all three join Ruri/Bright forces. Root sourced series-specific rank: Lieutenant Commander Hoshino.",
+   "notes": "Request direction Kazuya asks Ruri to let all three join Ruri/Bright forces. Root sourced series-specific rank: Lieutenant Commander Hoshino. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -28070,7 +28070,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 18,
-  "fingerprint": "c9dc9f78bb4ab671667cdf42736494f8685c86f57e57638d26e2df4f7f6a7cc7",
+  "fingerprint": "bd3d71063a7bc93718a403149b8ad29831d80352b02b412ad6230101ffeae5db",
   "reviewed_reused_ids": [
    83,
    106,
@@ -28247,7 +28247,7 @@
   "reviewed_reused_rows": 171,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all1544 fresh English rows and twenty reports, reviewed35 fresh flags against original Japanese, all171 shared rows/every use (143 identical generic defeat templates and28 special contexts), both routes and dedup boundaries. Six actual Sol6.1Medium workers verified. Agent meaning fixes precede source-backed name script; all initial drafts retained. Corrected Ruri/Yurika ranks, source-short Dr.Plato, Mars-area scope, monopolization likelihood and Richter death. Six measured dialogue overflows555/559/601/878/886/957 compressed preserving meaning; full1715 retains uses and passes structural/character/placeholder/prefill/spelling/font checks. Literal slogans, uncertain intermediate ranks, short labels, proverbs, verse/allusions and haircut nickname provenance remain flagged; hidden speakers and genuine source insults preserved."
+  "note": "Coordinator read all1544 fresh English rows and twenty reports, reviewed35 fresh flags against original Japanese, all171 shared rows/every use (143 identical generic defeat templates and28 special contexts), both routes and dedup boundaries. Six actual Sol6.1Medium workers verified. Agent meaning fixes precede source-backed name script; all initial drafts retained. Corrected Ruri/Yurika ranks, source-short Dr.Plato, Mars-area scope, monopolization likelihood and Richter death. Six measured dialogue overflows555/559/601/878/886/957 compressed preserving meaning; full1715 retains uses and passes structural/character/placeholder/prefill/spelling/font checks. Literal slogans, uncertain intermediate ranks, short labels, proverbs, verse/allusions and haircut nickname provenance remain flagged; hidden speakers and genuine source insults preserved. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 1715,

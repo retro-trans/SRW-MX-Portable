@@ -7327,12 +7327,12 @@
    "kind": "dialogue",
    "speaker_jp": "早乙女博士",
    "speaker_en": "Dr. Saotome",
-   "en": "Colonel Bright, you and your people have saved us again.",
+   "en": "Captain Bright, you and your people have saved us again.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 283
    },
-   "notes": "Getter battle. Context-settled subject/action and spoken tone preserved.",
+   "notes": "Getter battle. Context-settled subject/action and spoken tone preserved. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -13858,7 +13858,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 30,
-  "fingerprint": "fbea801962973b4cd17812fd97c6f901e635e1f342aae9691302ff06db792430",
+  "fingerprint": "e2659af0000f515a2beb883c1b7aadbcfe6ab4e0145b652ac96e0c1a2064ac4e",
   "reviewed_reused_ids": [
    65,
    90,
@@ -14023,7 +14023,7 @@
   "reviewed_reused_rows": 159,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained."
+  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
  },
  "full_checks": {
   "rows": 839,
