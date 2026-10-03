@@ -1,0 +1,172 @@
+{
+ "about": "English for the BOOT.BIN narration, intermission location list and save messages (docs/text_inventory.md items 2-4). Narration: each table is a fixed list of line pointers (opening 32 lines at 0x285DEC, ending 24 lines at 0x28631C); tools/check_boot_text.py wraps the paragraphs into those lines (each paragraph starts a new line) and pads the rest with empty lines. Locations and save messages are keyed by vaddr (hex). raw = true: shown by the PSP system (save data list, system dialog), not the game font, so the text is written as plain ASCII bytes instead of the game's full-width letters.",
+ "narration": {
+  "opening": [
+   "Over 70 years into the Space Era, events shook mankind's fate.",
+   "\"MU\" suddenly appeared over Tokyo from another world, and the Earth Federation Forces attacked. All-out war seemed certain, but MU formed a mysterious sphere around Tokyo Bay and shut itself in.",
+   "Soon after, a huge meteorite struck the South Pole. Mankind suffered terribly in the disaster later called the \"Second Impact\", and the Earth Sphere fell into chaos.",
+   "The Earth Sphere survived the great wars, the \"One Year War\" and the \"Lizard War\" and seemed ready for peace at last, but the \"Gryps Conflict\" and the \"Devil Gundam Incident\" broke out almost at once.",
+   "On top of that, the Baam, aliens seeking to settle on Earth, launched a war of invasion. On the ground, the \"Mycenae Empire\", the \"Demon Empire\" and the \"Dinosaur Empire\" began their attacks.",
+   "The Earth Sphere faced an unprecedented crisis, but the Federation, the AEUG, the super robots, the Nadesico B and the new Shuffle Alliance drove back every enemy force.",
+   "Peace was made with the Baam, and even the \"Neo Zeon\" army, active since the end of the Gryps Conflict, was defeated. Yet the fires of war still did not die out.",
+   "The Giganos Empire on the Moon declared war; mysterious enemies called \"Angels\" attacked; unidentified flying objects kept appearing; and shadows flickered behind the Hisago Plan...",
+   "Now mankind was about to take its first step toward the end..."
+  ],
+  "ending": [
+   "And so the battles of the Nahel Argama, the Federation's independent strike force, and the Nadesico C came to an end.",
+   "Every organization hostile to the Earth Federation Forces was destroyed, and peace came to mankind, if only for a while.",
+   "Special agencies like NERV, GEAR and TERRA were dismantled, and parts of them were absorbed into the Federation forces.",
+   "The Last Guardian was all but dissolved. Masato and Miku left Zeorymer with Oki, who had joined the military, and now live quietly in a small, remote village.",
+   "Kazuya Ryuzaki and Erika have begun settling Mars again, and are working hard to secure new homes for the Baam.",
+   "Duke Fleed, having defeated the Vegan Empire, said farewell to the people of Earth and returned to Planet Fleed with Grace Maria Fleed to rebuild it.",
+   "Rom Stol and his Machine Robo legion, too, saw peace come to Earth and then went home to the planet Chronos.",
+   "Domon Kasshu and the other Gundam Fighters set off on training journeys for the Gundam Fight soon to come.",
+   "With the war over, some stayed in the military and some left it for a new world. Each of them set out on a new path of their own."
+  ]
+ },
+ "narration_tables": {
+  "opening": [
+   "285DEC",
+   32
+  ],
+  "ending": [
+   "28631C",
+   24
+  ]
+ },
+ "locations": {
+  "28C5C0": "Near Earth",
+  "28C5CC": "Institute of Space Science",
+  "28C5DC": "Science Fortress Laboratory",
+  "28C5EC": "Photon Power Laboratory",
+  "28C5FC": "Saotome Institute",
+  "28C60C": "GEAR HQ",
+  "28C61C": "Hoshimi Town",
+  "28C624": "NERV HQ",
+  "28C630": "TERRA HQ",
+  "28C640": "Nirai Kanai",
+  "28C650": "TOKYO JUPITER",
+  "28C66C": "MU Tokyo Government-General",
+  "28C67C": "Hiranipura",
+  "28C688": "Tokyo-3",
+  "28C698": "Near Tokyo-3",
+  "28C6AC": "Kyoto",
+  "28C6B4": "Spiral Castle",
+  "28C6BC": "La Vie en Rose",
+  "28C6CC": "Federation Chongqing Base",
+  "28C6DC": "Shaolin Temple",
+  "28C6E4": "Tekkoryu Fortress",
+  "28C6F0": "Skull Moon Base",
+  "28C704": "Giganos Empire",
+  "28C714": "Heavenly Demon Castle",
+  "28C720": "Hyakki Fortress Island",
+  "28C72C": "Karun Mutiara Island",
+  "28C744": "Mutropolis",
+  "28C754": "Last Guardian Base",
+  "28C76C": "Giganos Forward Base",
+  "28C780": "Ooiso City",
+  "28C790": "Mars Polar Ruins Iwato",
+  "28C7A4": "Nergal Heavy Industries",
+  "28C7B4": "Giganos Mobile Fortress",
+  "28C7C8": "Tokyo"
+ },
+ "save": {
+  "282B58": {
+   "en": "Saving. Do not remove the Memory Stick㌣."
+  },
+  "282B90": {
+   "en": "Save the data. Are you sure?"
+  },
+  "282BB8": {
+   "en": "Overwrite the data?"
+  },
+  "282BD4": {
+   "en": "Quit the game?"
+  },
+  "282BEC": {
+   "en": "Please insert a Memory Stick㌣."
+  },
+  "282C14": {
+   "en": "The save failed."
+  },
+  "282C2C": {
+   "en": "Not enough free space on the Memory Stick㌣."
+  },
+  "282C60": {
+   "en": "To save, at least "
+  },
+  "282C80": {
+   "en": " KB more free space is needed."
+  },
+  "282C94": {
+   "en": "The Memory Stick㌣ was removed."
+  },
+  "282CBC": {
+   "en": "The Memory Stick㌣ is write-protected."
+  },
+  "282CEC": {
+   "en": "Saving complete."
+  },
+  "299200": {
+   "en": "Super Robot Wars MX Portable",
+   "raw": true
+  },
+  "299240": {
+   "en": " Hero %s  Lv %d\n",
+   "raw": true
+  },
+  "299258": {
+   "en": " Clears %d  Date %4d/%02d/%02d %02d:%02d:%02d\n",
+   "raw": true
+  },
+  "29928C": {
+   "en": " Turns %d  Funds %d\n",
+   "raw": true
+  },
+  "2992A4": {
+   "en": "[Clear Data]",
+   "raw": true
+  },
+  "2992B8": {
+   "en": " Scene %2d  \"%s\"",
+   "raw": true
+  },
+  "2992DC": {
+   "en": " SRW MX Scenario Data",
+   "raw": true
+  },
+  "2992F4": {
+   "en": " SRW MX System Data",
+   "raw": true
+  },
+  "29930C": {
+   "en": "Return to the main command menu?"
+  },
+  "299328": {
+   "en": "Next, the system data will be updated."
+  },
+  "299354": {
+   "en": "System data update canceled."
+  },
+  "299380": {
+   "en": "Going to the screen for deleting any save data."
+  },
+  "2993B8": {
+   "en": "Leave the save screen?"
+  },
+  "2993D4": {
+   "en": "Memory Stick",
+   "raw": true
+  },
+  "2993E8": {
+   "en": " was not found.\nTo save this game's data, at least 740 KB of free space is needed.",
+   "raw": true
+  }
+ },
+ "uncertain": [
+  "282C60 + number + 282C80 is assumed to print 'To save, at least [n] KB more free space is needed.'.",
+  "The save-list strings (raw) are assumed to go to the PSP save data / system dialog; if any of them is drawn with the game font instead, it needs the full-width encoding.",
+  "The opening lines at 0x285DEC are assumed to be shown before the first stage (the line table may also need its end marker checked when it is rebuilt).",
+  "ヒラニプラ (Hiranipura) and カルン・ムティアラ島 (Karun Mutiara Island) are not in the glossary; romanized."
+ ]
+}

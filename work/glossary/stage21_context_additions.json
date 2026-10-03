@@ -1,0 +1,8 @@
+{
+ "terms": [
+  {"jp":"月光","en":"moonlight","sources":["work/translation/en/script/stage21_campaign.json","https://srw.wiki.cre.jp/wiki/月のローズセラヴィー"],"notes":"Source literal elemental taunt in Stage21 row116. No exact Akurasu named-attack entry located. Secondary Japanese weapon list names Luna Flash, Luna Beam and J Kaiser, not this phrase; it does not establish 月光 as a named weapon. Retain lowercase moonlight, without substituting a weapon or importing mechanics. Independent licensed wording unestablished."},
+  {"jp":"葛城博士","en":"Dr. Katsuragi","sources":["work/translation/en/script/stage21_campaign.json","https://www.evaotaku.com/html/dr2-terminology.html"],"notes":"Source-short surname and title of Misato's father. Exact Akurasu entry not located; English terminology translation corroborates this spelling. No invented given name or imported history. Secondary fan translation, not proof of licensed English wording."},
+  {"jp":"スーパーソレノイド理論","en":"Super Solenoid theory","sources":["work/translation/en/script/stage21_campaign.json","https://www.evaotaku.com/html/dr2-terminology.html"],"notes":"Source theory label, explicitly abbreviated S2 theory in Stage21 row237. Exact Akurasu theory entry not located; secondary terminology translation corroborates Super Solenoid. Do not substitute engine or import energy mechanisms. Independent licensed wording unestablished."},
+  {"jp":"Ｓ２理論","en":"S2 theory","sources":["work/translation/en/script/stage21_campaign.json","https://www.evaotaku.com/html/dr2-terminology.html"],"notes":"Exact source ASCII-compatible abbreviation for Super Solenoid theory. Preserve theory rather than naming an engine. Secondary fan translation supports abbreviation; exact licensed label unestablished."}
+ ]
+}

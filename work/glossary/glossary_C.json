@@ -1,0 +1,5011 @@
+{
+ "group": "C",
+ "series": [
+  {
+   "jp": "新世紀エヴァンゲリオン",
+   "en": "Neon Genesis Evangelion",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion",
+    "https://superrobotwars.fandom.com/wiki/Neon_Genesis_Evangelion"
+   ]
+  },
+  {
+   "jp": "ＴＨＥ　ＥＮＤ　ＯＦ　ＥＶＡＮＧＥＬＩＯＮ",
+   "en": "The End of Evangelion",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Neon_Genesis_Evangelion",
+    "https://evangelion.fandom.com/wiki/Mass_Production_Evangelion"
+   ]
+  },
+  {
+   "jp": "ラーゼフォン",
+   "en": "RahXephon",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Characters"
+   ]
+  },
+  {
+   "jp": "バンプレストオリジナル",
+   "en": "Banpresto Originals",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_MX",
+    "https://superrobotwars.fandom.com/wiki/Banpresto_Original/Characters"
+   ]
+  },
+  {
+   "jp": "機動戦士Ζガンダム",
+   "en": "Mobile Suit Zeta Gundam",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mobile_Suit_Zeta_Gundam"
+   ]
+  },
+  {
+   "jp": "機動戦士ガンダムΖΖ",
+   "en": "Mobile Suit Gundam ZZ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mobile_Suit_Gundam_ZZ"
+   ]
+  },
+  {
+   "jp": "機動戦士ガンダム　逆襲のシャア",
+   "en": "Mobile Suit Gundam: Char's Counterattack",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mobile_Suit_Gundam:_Char's_Counterattack"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "jp_full": "アクア・ケントルム",
+   "jp_short": "アクア",
+   "reading": "アクア",
+   "en_full": "Aqua Centrum",
+   "en_short": "Aqua",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, spirited, gullible; raised in a wealthy family",
+   "position": "operator / co-pilot (female protagonist of MX); Ensign, age 23 per the game library; later primary pilot of Form S",
+   "affiliation": "Earth Federation Army, Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Aqua_Centrum",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Female protagonist; wears the DFC suit. Pilot of Cerberus/Garmraid. Father is Senator Taylor Centrum (SRW wiki)."
+  },
+  {
+   "jp_full": "アルベロ・エスト",
+   "jp_short": "アルベロ",
+   "reading": "アルベロ",
+   "en_full": "Albero Esto",
+   "en_short": "Albero",
+   "nicknames": [
+    "Black Wolf",
+    "Wolf 1"
+   ],
+   "gender": "male",
+   "personality": "bold and resolute; a skilled pilot, mentor and father figure to Hugo",
+   "position": "former Federation soldier, ex-leader of the Cry Wolves; Major",
+   "affiliation": "Cry Wolves (formerly Earth Federation), later Medius Locus thief",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Albero_Esto",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX",
+    "https://lparchive.org/Super-Robot-Wars-MX/Update%20100/"
+   ],
+   "notes": "Spelling: SRW wiki 'Albero Esto'; TV Tropes, Wikipedia-style sources and the LP translation use 'Albero Est'. Game library gives age 46 (SRW wiki says 43)."
+  },
+  {
+   "jp_full": "エルデ・ミッテ",
+   "jp_short": "エルデ",
+   "reading": "エルデ",
+   "en_full": "Eldy Middi",
+   "en_short": "Eldy",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cold, obsessive about her research; strict mentor, treats AI1 like her own child",
+   "position": "scientist (combat AI researcher); operator of Medius Locus; Aqua's former mentor",
+   "affiliation": "Tsentr Project (defected)",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Eldy_Middi",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Spelling: SRW wiki 'Eldy Middi'; TV Tropes and the English LP use 'Eldy Mitte'/'Elde Mitte'. Age 30 in game library."
+  },
+  {
+   "jp_full": "ヒューゴ・メディオ",
+   "jp_short": "ヒューゴ",
+   "reading": "ヒューゴ",
+   "en_full": "Hugo Medio",
+   "en_short": "Hugo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, taciturn, strongly attached to survival after a poor childhood",
+   "position": "test pilot of the Tsentr Project prototypes (male protagonist of MX); Ensign, age 20",
+   "affiliation": "Earth Federation Army; ex-Cry Wolves; Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Hugo_Medio",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Male protagonist; a cyborg after being wounded (TV Tropes)."
+  },
+  {
+   "jp_full": "ミタール・ザパト",
+   "jp_short": "ミタール",
+   "reading": "ミタール",
+   "en_full": "Mitar Zapat",
+   "en_short": "Mitar",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calculating; uses the military for his own research",
+   "position": "director of the Tsentr Project; developer of the TE Engine and Lasmunanium; Professor/General",
+   "affiliation": "Earth Federation Army, Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mitar_Zapat",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Spelling: SRW wiki page 'Mitar Zapat' (a list on the wiki shows 'Mitarl Zapad'); the English LP uses 'Mitall Zapato'. Age 56."
+  },
+  {
+   "jp_full": "ＡＩ１",
+   "jp_short": "ＡＩ１",
+   "reading": "エイアイワン",
+   "en_full": "AI1",
+   "en_short": "AI1",
+   "nicknames": [
+    "All In 1",
+    "AI-1"
+   ],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "artificial intelligence that develops a will of its own",
+   "position": "combat AI of the Medius Locus; final boss form 'All In 1'",
+   "affiliation": "Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Developed by Eldy Middi. Gender: AI (n/a). The pilot-name entry 'AI1' (kana エイアイワン) is the final-form boss."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "Artificial Intelligence",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "generic unmanned AI pilot",
+   "position": "AI-controlled unit pilot",
+   "affiliation": "none",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Generic pilot label for unmanned units (Banpresto Originals)."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "Artificial Intelligence",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "generic unmanned AI pilot",
+   "position": "AI-controlled unit pilot",
+   "affiliation": "none",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Generic pilot label for unmanned units (RahXephon series slot)."
+  },
+  {
+   "jp_full": "研究員",
+   "jp_short": "研究員",
+   "reading": "ケンキュウイン",
+   "en_full": "Researcher",
+   "en_short": "Researcher",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "generic",
+   "position": "research staff (generic NPC)",
+   "affiliation": "Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Generic NPC label. No source gives its gender."
+  },
+  {
+   "jp_full": "破壊可能地形",
+   "jp_short": "破壊可能地形",
+   "reading": "ハカイカノウチケイ",
+   "en_full": "Destructible Terrain",
+   "en_short": "Destructible Terrain",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "map object",
+   "position": "map object (not a character)",
+   "affiliation": "none",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_MX"
+   ],
+   "notes": "Map object label."
+  },
+  {
+   "jp_full": "ダミー",
+   "jp_short": "ダミー",
+   "reading": "ダミー",
+   "en_full": "Dummy",
+   "en_short": "Dummy",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "placeholder",
+   "position": "placeholder pilot slot (library entry text is 'none')",
+   "affiliation": "none",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_MX"
+   ],
+   "notes": "Placeholder/dummy pilot entry."
+  },
+  {
+   "jp_full": "？？？",
+   "jp_short": "？？？",
+   "reading": "アルベロ",
+   "en_full": "???",
+   "en_short": "???",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hidden-identity label",
+   "position": "name shown before the identity is revealed; the reading is Albero",
+   "affiliation": "Cry Wolves",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Albero_Esto"
+   ],
+   "notes": "Referent: Albero Esto (reading アルベロ). Gender follows the referent."
+  },
+  {
+   "jp_full": "？？？",
+   "jp_short": "？？？",
+   "reading": "エルデ",
+   "en_full": "???",
+   "en_short": "???",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "hidden-identity label",
+   "position": "name shown before the identity is revealed; the reading is Eldy",
+   "affiliation": "Tsentr Project",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Eldy_Middi"
+   ],
+   "notes": "Referent: Eldy Middi (reading エルデ). Gender follows the referent."
+  },
+  {
+   "jp_full": "碇シンジ",
+   "jp_short": "シンジ",
+   "reading": "シンジ",
+   "en_full": "Shinji Ikari",
+   "en_short": "Shinji",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "introverted, uncertain, poor at communicating; grows through battle",
+   "position": "Third Child; pilot of Evangelion Unit-01",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Shinji_Ikari"
+   ],
+   "notes": "Skilled at the cello (game library)."
+  },
+  {
+   "jp_full": "綾波レイ",
+   "jp_short": "レイ",
+   "reading": "レイ",
+   "en_full": "Rei Ayanami",
+   "en_short": "Rei",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "quiet, emotionless, mysterious; bonds with Gendo",
+   "position": "First Child; pilot of Evangelion Unit-00",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Rei_Ayanami"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "惣流・アスカ・ラングレー",
+   "jp_short": "アスカ",
+   "reading": "アスカ",
+   "en_full": "Asuka Langley Soryu",
+   "en_short": "Asuka",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "proud, self-confident, looks down on boys her age",
+   "position": "Second Child; pilot of Evangelion Unit-02",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Asuka_Langley_Soryu"
+   ],
+   "notes": "Wiki page title 'Asuka Langley Soryu' (the page notes the Rebuild spelling 'Shikinami'; older dubs used 'Sohryu')."
+  },
+  {
+   "jp_full": "葛城ミサト",
+   "jp_short": "ミサト",
+   "reading": "ミサト",
+   "en_full": "Misato Katsuragi",
+   "en_short": "Misato",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, easygoing and sloppy on the surface; carries old wounds",
+   "position": "Captain (later Major); operations director at NERV",
+   "affiliation": "NERV (Tactical Operations Department)",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Misato_Katsuragi"
+   ],
+   "notes": "Rank: game library says 一尉 (later 三佐), i.e. Captain, later Major (eva wiki: Captain, later Major)."
+  },
+  {
+   "jp_full": "赤木リツコ",
+   "jp_short": "リツコ",
+   "reading": "リツコ",
+   "en_full": "Ritsuko Akagi",
+   "en_short": "Ritsuko",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cool, rational; collects cat goods",
+   "position": "head of Project E (Evangelion development); NERV chief scientist",
+   "affiliation": "NERV (Technology Development Department)",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ritsuko_Akagi"
+   ],
+   "notes": "Daughter of Dr. Naoko Akagi, who built the MAGI."
+  },
+  {
+   "jp_full": "碇ゲンドウ",
+   "jp_short": "ゲンドウ",
+   "reading": "ゲンドウ",
+   "en_full": "Gendo Ikari",
+   "en_short": "Gendo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cold, domineering, ruthless toward everyone but Rei",
+   "position": "Supreme Commander of NERV",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Gendo_Ikari"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "冬月コウゾウ",
+   "jp_short": "冬月",
+   "reading": "フユツキ",
+   "en_full": "Kozo Fuyutsuki",
+   "en_short": "Fuyutsuki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calm, composed, a bit sarcastic",
+   "position": "NERV Deputy Commander",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Kozo_Fuyutsuki"
+   ],
+   "notes": "Game reads 冬月コウゾウ; short name Fuyutsuki."
+  },
+  {
+   "jp_full": "加持リョウジ",
+   "jp_short": "加持",
+   "reading": "カジ",
+   "en_full": "Ryoji Kaji",
+   "en_short": "Kaji",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "seemingly frivolous but caring older-brother type",
+   "position": "Special Inspector (Special Inspection Department) at NERV; triple agent",
+   "affiliation": "NERV / SEELE / Japanese Ministry of the Interior",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ryoji_Kaji"
+   ],
+   "notes": "Grows watermelons (game library)."
+  },
+  {
+   "jp_full": "伊吹マヤ",
+   "jp_short": "マヤ",
+   "reading": "マヤ",
+   "en_full": "Maya Ibuki",
+   "en_short": "Maya",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "fastidious, devoted to Ritsuko",
+   "position": "NERV operator; Ritsuko's subordinate; First Lieutenant",
+   "affiliation": "NERV (Technology Department)",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Maya_Ibuki"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "日向マコト",
+   "jp_short": "マコト",
+   "reading": "マコト",
+   "en_full": "Makoto Hyuga",
+   "en_short": "Makoto",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "earnest; holds feelings for Misato",
+   "position": "NERV operator (Central Command Room); First Lieutenant",
+   "affiliation": "NERV (Operations Department)",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Makoto_Hyuga"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "青葉シゲル",
+   "jp_short": "シゲル",
+   "reading": "シゲル",
+   "en_full": "Shigeru Aoba",
+   "en_short": "Shigeru",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "easygoing speech but brave; plays guitar",
+   "position": "NERV operator (communications and information analysis); First Lieutenant",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Shigeru_Aoba"
+   ],
+   "notes": "Game stores the short name as シゲル (given name); surname Aoba."
+  },
+  {
+   "jp_full": "鈴原トウジ",
+   "jp_short": "トウジ",
+   "reading": "トウジ",
+   "en_full": "Toji Suzuhara",
+   "en_short": "Toji",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, Kansai dialect, caring older brother",
+   "position": "Fourth Child; pilot of Evangelion Unit-03; Shinji's classmate",
+   "affiliation": "NERV (pilot) / Tokyo-3 Junior High",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Toji_Suzuhara"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "相田ケンスケ",
+   "jp_short": "ケンスケ",
+   "reading": "ケンスケ",
+   "en_full": "Kensuke Aida",
+   "en_short": "Kensuke",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "military otaku, always carries a video camera",
+   "position": "Shinji's classmate",
+   "affiliation": "Tokyo-3 Junior High",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Kensuke_Aida"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "洞木ヒカリ",
+   "jp_short": "ヒカリ",
+   "reading": "ヒカリ",
+   "en_full": "Hikari Horaki",
+   "en_short": "Hikari",
+   "nicknames": [
+    "Class Rep"
+   ],
+   "gender": "female",
+   "personality": "model student; secretly likes Toji",
+   "position": "class representative; Shinji's classmate",
+   "affiliation": "Tokyo-3 Junior High",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Hikari_Horaki"
+   ],
+   "notes": "Her game nickname is 'Iinchou' (class representative)."
+  },
+  {
+   "jp_full": "渚カヲル",
+   "jp_short": "カヲル",
+   "reading": "カヲル",
+   "en_full": "Kaworu Nagisa",
+   "en_short": "Kaworu",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "gentle, mysterious; loves singing",
+   "position": "Fifth Child sent by SEELE; the 17th Angel Tabris",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Kaworu_Nagisa"
+   ],
+   "notes": "Gender per the eva wiki (male pronouns). The game library calls him Tabris."
+  },
+  {
+   "jp_full": "キール・ローレンツ",
+   "jp_short": "キール",
+   "reading": "キール",
+   "en_full": "Keel Lorenz",
+   "en_short": "Keel",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "enigmatic, always wears a visor",
+   "position": "Chairman of the Human Instrumentality Committee and leader of SEELE",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Keel_Lorenz"
+   ],
+   "notes": "Official spelling 'Keel Lorenz'."
+  },
+  {
+   "jp_full": "ゼーレ",
+   "jp_short": "ゼーレ",
+   "reading": "ゼーレ",
+   "en_full": "SEELE",
+   "en_short": "SEELE",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "secret organization",
+   "position": "secret organization behind the Human Instrumentality Project",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE"
+   ],
+   "notes": "Organization, not a person."
+  },
+  {
+   "jp_full": "委員Ａ",
+   "jp_short": "委員Ａ",
+   "reading": "イインＡ",
+   "en_full": "Committee Member A",
+   "en_short": "Member A",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "anonymous",
+   "position": "member of SEELE (Human Instrumentality Committee)",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE",
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Committee"
+   ],
+   "notes": "Anonymous committee members; no source settles gender."
+  },
+  {
+   "jp_full": "委員Ｂ",
+   "jp_short": "委員Ｂ",
+   "reading": "イインＢ",
+   "en_full": "Committee Member B",
+   "en_short": "Member B",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "anonymous",
+   "position": "member of SEELE (Human Instrumentality Committee)",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE",
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Committee"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "委員Ｃ",
+   "jp_short": "委員Ｃ",
+   "reading": "イインＣ",
+   "en_full": "Committee Member C",
+   "en_short": "Member C",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "anonymous",
+   "position": "member of SEELE (Human Instrumentality Committee)",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE",
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Committee"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "委員Ｄ",
+   "jp_short": "委員Ｄ",
+   "reading": "イインＤ",
+   "en_full": "Committee Member D",
+   "en_short": "Member D",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "anonymous",
+   "position": "member of SEELE (Human Instrumentality Committee)",
+   "affiliation": "SEELE",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE",
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Committee"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ダミープラグ",
+   "jp_short": "ダミープラグ",
+   "reading": "ダミープラグ",
+   "en_full": "Dummy Plug",
+   "en_short": "Dummy Plug",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "artificial pilot system",
+   "position": "entry plug that lets an Evangelion operate without a pilot",
+   "affiliation": "NERV",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Dummy_Plug"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "第５使徒ラミエル",
+   "jp_short": "ラミエル",
+   "reading": "ラミエル",
+   "en_full": "Fifth Angel Ramiel",
+   "en_short": "Ramiel",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "hostile Angel",
+   "position": "the 5th Angel, an octahedron with a charged particle cannon",
+   "affiliation": "Angels",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ramiel"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "第１３使徒バルディエル",
+   "jp_short": "バルディエル",
+   "reading": "バルディエル",
+   "en_full": "Thirteenth Angel Bardiel",
+   "en_short": "Bardiel",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "hostile Angel",
+   "position": "the 13th Angel; takes over Evangelion Unit-03",
+   "affiliation": "Angels",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Bardiel"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "第１４使徒ゼルエル",
+   "jp_short": "ゼルエル",
+   "reading": "ゼルエル",
+   "en_full": "Fourteenth Angel Zeruel",
+   "en_short": "Zeruel",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "hostile Angel",
+   "position": "the 14th Angel; the strongest attacker among the Angels",
+   "affiliation": "Angels",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Zeruel"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ＥＶＡ量産機",
+   "jp_short": "ＥＶＡ量産機",
+   "reading": "エヴァリョウサンキ",
+   "en_full": "Mass Production Evangelion",
+   "en_short": "Mass Production Evangelion",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "hostile",
+   "position": "mass-production Evangelion series; nine units",
+   "affiliation": "SEELE",
+   "series": "ＴＨＥ　ＥＮＤ　ＯＦ　ＥＶＡＮＧＥＬＩＯＮ",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Mass_Production_Evangelion"
+   ],
+   "notes": "Pilot-slot entry for the mass-production Evangelions (The End of Evangelion)."
+  },
+  {
+   "jp_full": "碇ユイ",
+   "jp_short": "ユイ",
+   "reading": "ユイ",
+   "en_full": "Yui Ikari",
+   "en_short": "Yui",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "brilliant bioengineer (deceased)",
+   "position": "Shinji's mother and Gendo's wife; absorbed into Unit-01",
+   "affiliation": "Gehirn / NERV",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Yui_Ikari"
+   ],
+   "notes": "The game stores Yui under the Banpresto Originals series (likely a placeholder pilot for Unit-01); she is the Evangelion character."
+  },
+  {
+   "jp_full": "神名綾人",
+   "jp_short": "綾人",
+   "reading": "アヤト",
+   "en_full": "Ayato Kamina",
+   "en_short": "Ayato",
+   "nicknames": [
+    "Ollin"
+   ],
+   "gender": "male",
+   "personality": "emotional and impressionable but resolute when it counts; an artist",
+   "position": "pilot (instrumentalist) of the RahXephon",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ayato_Kamina",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Age 17."
+  },
+  {
+   "jp_full": "紫東遙",
+   "jp_short": "遙",
+   "reading": "ハルカ",
+   "en_full": "Haruka Shitow",
+   "en_short": "Haruka",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "capable, easygoing professional with a motherly side",
+   "position": "Special Captain, intelligence officer, TERRA Operations",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Haruka_Shitow",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Spelling: rahxephon.fandom and the main Wikipedia article use 'Shitow'; the Wikipedia character list and the English LP use 'Shitou'. Age 29."
+  },
+  {
+   "jp_full": "紫東恵",
+   "jp_short": "恵",
+   "reading": "メグミ",
+   "en_full": "Megumi Shitow",
+   "en_short": "Megumi",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "bright, energetic, carefully considerate; complex about her sister",
+   "position": "trainee operator, TERRA Operations; age 14",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Megumi_Shitow",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Haruka's younger sister (half-sister per the wiki). Variant: Shitou."
+  },
+  {
+   "jp_full": "如月久遠",
+   "jp_short": "久遠",
+   "reading": "クオン",
+   "en_full": "Quon Kisaragi",
+   "en_short": "Quon",
+   "nicknames": [
+    "Sleeping Beauty"
+   ],
+   "gender": "female",
+   "personality": "mysterious, poetic, easygoing; says 'Ra-ra'",
+   "position": "Itsuki's 'sister'; an instrumentalist candidate (a Mulian)",
+   "affiliation": "TERRA (civilian guest)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Quon_Kisaragi",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "如月樹",
+   "jp_short": "樹",
+   "reading": "イツキ",
+   "en_full": "Itsuki Kisaragi",
+   "en_short": "Itsuki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "urbane, self-controlled, always cheerful on the surface",
+   "position": "chief of TERRA's analysis section (science research); age 29",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Itsuki_Kisaragi",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "美嶋玲香",
+   "jp_short": "玲香",
+   "reading": "レイカ",
+   "en_full": "Reika Mishima",
+   "en_short": "Reika",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "enigmatic; sings the RahXephon awake",
+   "position": "Ixtli, the soul of the RahXephon, in the appearance of a girl",
+   "affiliation": "none (guide of Ayato)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Reika_Mishima",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Appearance modeled on Ayato's memory of a young Haruka."
+  },
+  {
+   "jp_full": "神名麻弥",
+   "jp_short": "麻弥",
+   "reading": "マヤ",
+   "en_full": "Maya Kamina",
+   "en_short": "Maya",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "calm, composed, imposing",
+   "position": "Mulian leader; holds full authority over the MU Tokyo Government-General; Ayato's (adoptive) mother",
+   "affiliation": "Mu / Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Maya_Kamina",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Note: the game's reading is マヤ, same as Maya Ibuki of Evangelion."
+  },
+  {
+   "jp_full": "朝比奈浩子",
+   "jp_short": "浩子",
+   "reading": "ヒロコ",
+   "en_full": "Hiroko Asahina",
+   "en_short": "Hiroko",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, hides her true feelings",
+   "position": "Ayato's classmate; later host of the Dolem Vibrato",
+   "affiliation": "Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Hiroko_Asahina",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "鳥飼守",
+   "jp_short": "鳥飼",
+   "reading": "トリガイ",
+   "en_full": "Mamoru Torigai",
+   "en_short": "Mamoru",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "light-hearted jokester",
+   "position": "Ayato's classmate and friend; actually a Mulian; Dolem host of Obbligato",
+   "affiliation": "Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mamoru_Torigai",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Variant: 'Torugai' appears once in Wikipedia; 'Torigai' used by the wiki and in the heading."
+  },
+  {
+   "jp_full": "功刀仁",
+   "jp_short": "功刀",
+   "reading": "クヌギ",
+   "en_full": "Jin Kunugi",
+   "en_short": "Kunugi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "stern, quiet, disciplined; trusted by subordinates",
+   "position": "TERRA Commander (military operations); age 43",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Jin_Kunugi",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Keeps a blue bird named Michiru (game library)."
+  },
+  {
+   "jp_full": "八雲総一",
+   "jp_short": "総一",
+   "reading": "ソウイチ",
+   "en_full": "Soichi Yakumo",
+   "en_short": "Soichi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "affable, attentive, popular; cautious inside",
+   "position": "TERRA Deputy Commander; Major; age 22",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Soichi_Yakumo",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Spelling: rahxephon.fandom 'Soichi Yakumo'; Wikipedia list 'Souichi Yakumo'."
+  },
+  {
+   "jp_full": "亘理士郎",
+   "jp_short": "亘理",
+   "reading": "ワタリ",
+   "en_full": "Shirow Watari",
+   "en_short": "Watari",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "affable, jokey beneath a stern public face; buys souvenirs",
+   "position": "Director of TERRA; age 60",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Shirow_Watari",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Spelling: rahxephon.fandom 'Shirow'; Wikipedia list 'Shirou'."
+  },
+  {
+   "jp_full": "六道翔吾",
+   "jp_short": "六道",
+   "reading": "リクドウ",
+   "en_full": "Shougo Rikudo",
+   "en_short": "Rikudo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "soft-spoken, wise, sensible",
+   "position": "retired archaeologist; Haruka and Megumi's uncle; age 62",
+   "affiliation": "Nirai Kanai (civilian)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Professor_Shougo_Rikudo",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Variants: Shogo/Rikudou/Rikudoh."
+  },
+  {
+   "jp_full": "キム・ホタル",
+   "jp_short": "キム",
+   "reading": "キム",
+   "en_full": "Kim Hotal",
+   "en_short": "Kim",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "emotional, warm-hearted",
+   "position": "TERRA operations operator; Second Lieutenant; age 18",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Kim_Hotal",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Chinese-character name 金湖月 per the game library."
+  },
+  {
+   "jp_full": "エルフィ・ハディヤット",
+   "jp_short": "エルフィ",
+   "reading": "エルフィ",
+   "en_full": "Elvy Hadhiyat",
+   "en_short": "Elvy",
+   "nicknames": [
+    "Bunga Mawar"
+   ],
+   "gender": "female",
+   "personality": "bold and tough, loyal to her subordinates; bad drunk",
+   "position": "ace pilot; captain of Alpha Squadron; age 27",
+   "affiliation": "Earth Federation / TERRA (Alpha Squadron)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Elvy_Hadhiyat",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Spelling: both RahXephon wiki and Wikipedia list 'Elvy Hadhiyat'; the kana reads Erufi Hadiyatto. 'Bunga Mawar' = rose in Indonesian."
+  },
+  {
+   "jp_full": "七森小夜子",
+   "jp_short": "小夜子",
+   "reading": "サヨコ",
+   "en_full": "Sayoko Nanamori",
+   "en_short": "Sayoko",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "calm normally but suddenly loses her temper; rival to Haruka",
+   "position": "Itsuki's research assistant; scientist; age 28",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Sayoko_Nanamori",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "一色真",
+   "jp_short": "一色",
+   "reading": "イッシキ",
+   "en_full": "Makoto Isshiki",
+   "en_short": "Isshiki",
+   "nicknames": [
+    "White Snake"
+   ],
+   "gender": "male",
+   "personality": "ambitious, arrogant, treats people as tools",
+   "position": "Earth Federation inspector sent to TERRA; age 29",
+   "affiliation": "Earth Federation / Bahbem Foundation",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Makoto_Isshiki",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Read 'Isshiki Makoto'."
+  },
+  {
+   "jp_full": "エルンスト・フォン・バーベム",
+   "jp_short": "バーベム",
+   "reading": "バーベム",
+   "en_full": "Ernst von Bahbem",
+   "en_short": "Bahbem",
+   "nicknames": [
+    "Modern Rasputin",
+    "The Designer"
+   ],
+   "gender": "male",
+   "personality": "inscrutable elder; manipulates the world's economy",
+   "position": "head of the Bahbem Foundation (cloned Mulian host body)",
+   "affiliation": "Bahbem Foundation",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ernst_von_B%C3%A4hbem",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Spelling: 'Bähbem' (umlaut) in the sources; ASCII 'Bahbem' here."
+  },
+  {
+   "jp_full": "ヘレナ・バーベム",
+   "jp_short": "ヘレナ",
+   "reading": "ヘレナ",
+   "en_full": "Helena Bahbem",
+   "en_short": "Helena",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "composed, aloof, looks down on others",
+   "position": "Ernst's niece and secretary; age 29",
+   "affiliation": "Bahbem Foundation",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Helena_von_B%C3%A4hbem",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Sources: 'Helena von Bähbem'; the game omits 'von'."
+  },
+  {
+   "jp_full": "弐神譲二",
+   "jp_short": "弐神",
+   "reading": "フタガミ",
+   "en_full": "Johji Futagami",
+   "en_short": "Futagami",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "easygoing reporter with a hidden side",
+   "position": "reporter of Amato News; age 36",
+   "affiliation": "Amato News (actually an Earth Federation intelligence officer)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Johji_Futagami",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "九鬼正義",
+   "jp_short": "九鬼",
+   "reading": "クキ",
+   "en_full": "Masayoshi Kuki",
+   "en_short": "Kuki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "servile toward the strong, arrogant toward the weak",
+   "position": "commander of the MU Tokyo Government-General Defense Force; former defense ministry officer",
+   "affiliation": "Mu / Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Masayoshi_Kuki",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "三輪忍",
+   "jp_short": "三輪",
+   "reading": "ミワ",
+   "en_full": "Shinobu Miwa",
+   "en_short": "Miwa",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "calm and objective in battle",
+   "position": "officer of the MU Tokyo Government-General Defense Force; operates the Dolems",
+   "affiliation": "Mu / Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Shinobu_Miwa",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Gender from the wiki text ('She')."
+  },
+  {
+   "jp_full": "公安",
+   "jp_short": "公安",
+   "reading": "コウアンＡ",
+   "en_full": "Public Security Agent A",
+   "en_short": "Public Security",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "generic",
+   "position": "Tokyo Jupiter public security agent",
+   "affiliation": "Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "No source settles gender."
+  },
+  {
+   "jp_full": "公安",
+   "jp_short": "公安",
+   "reading": "コウアンＢ",
+   "en_full": "Public Security Agent B",
+   "en_short": "Public Security",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "generic",
+   "position": "Tokyo Jupiter public security agent",
+   "affiliation": "Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "No source settles gender."
+  },
+  {
+   "jp_full": "ムーリアン・アレグレット",
+   "jp_short": "アレグレット",
+   "reading": "アレグレット",
+   "en_full": "Mulian Allegretto",
+   "en_short": "Allegretto",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "bound to the Dolem Allegretto",
+   "position": "Mulian controlling the Dolem Allegretto",
+   "affiliation": "Mu",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Allegretto",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Bound to Shinobu Miwa by the end of the series."
+  },
+  {
+   "jp_full": "ムーリアン・グラーベ",
+   "jp_short": "グラーベ",
+   "reading": "グラーベ",
+   "en_full": "Mulian Grave",
+   "en_short": "Grave",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "bound to the Dolem Grave",
+   "position": "Mulian controlling the Dolem Grave",
+   "affiliation": "Mu",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Grave",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ムーリアン・ビバーチェ",
+   "jp_short": "ビバーチェ",
+   "reading": "ビバーチェ",
+   "en_full": "Mulian Vivace",
+   "en_short": "Vivace",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "bound to the Dolem Vivace",
+   "position": "Mulian controlling the Dolem Vivace",
+   "affiliation": "Mu",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vivance",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Wiki page is titled 'Vivance' but lists the Dolem as Vivace."
+  },
+  {
+   "jp_full": "ムーリアン・メトロノーム",
+   "jp_short": "メトロノーム",
+   "reading": "メトロノーム",
+   "en_full": "Mulian Metronome",
+   "en_short": "Metronome",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "bound to the Dotem Metronome",
+   "position": "Mulian controlling a Metronome",
+   "affiliation": "Mu",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Metronomes",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ムーリアン・ヴィブラート",
+   "jp_short": "ヴィブラート",
+   "reading": "ヴィブラート",
+   "en_full": "Mulian Vibrato",
+   "en_short": "Vibrato",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "possesses Hiroko Asahina",
+   "position": "Mulian bound to the Dolem Vibrato; possessing Hiroko",
+   "affiliation": "Mu",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vibrato",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "真聖綾人",
+   "jp_short": "真聖綾人",
+   "reading": "シンセイアヤト",
+   "en_full": "Shinsei Ayato",
+   "en_short": "Shinsei Ayato",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "Ayato who has become the true heart (Yolteotl)",
+   "position": "Ayato after reaching 'Yolteotl'",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ayato_Kamina",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "Game-coined form name. 真聖 (shinsei) is kept romanized; no English source."
+  },
+  {
+   "jp_full": "真聖久遠",
+   "jp_short": "真聖久遠",
+   "reading": "シンセイクオン",
+   "en_full": "Shinsei Quon",
+   "en_short": "Shinsei Quon",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "Quon who has become the true heart (Yolteotl)",
+   "position": "Quon after reaching 'Yolteotl'",
+   "affiliation": "TERRA",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Quon_Kisaragi",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "Game-coined form name; see Shinsei Ayato."
+  },
+  {
+   "jp_full": "？？？",
+   "jp_short": "？？？",
+   "reading": "マモル",
+   "en_full": "???",
+   "en_short": "???",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hidden-identity label",
+   "position": "name shown before the identity is revealed; the reading is Mamoru",
+   "affiliation": "Tokyo Jupiter",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mamoru_Torigai"
+   ],
+   "notes": "Referent: Mamoru Torigai (reading マモル)."
+  },
+  {
+   "jp_full": "カミーユ・ビダン",
+   "jp_short": "カミーユ",
+   "reading": "カミーユ",
+   "en_full": "Kamille Bidan",
+   "en_short": "Kamille",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "sensitive and volatile, brave; hates his feminine-sounding name",
+   "position": "Newtype pilot of Zeta Gundam; Petty Officer / Ensign",
+   "affiliation": "AEUG",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Kamille_Bidan"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "クワトロ・バジーナ",
+   "jp_short": "クワトロ",
+   "reading": "クワトロ",
+   "en_full": "Quattro Bajeena",
+   "en_short": "Quattro",
+   "nicknames": [
+    "Char Aznable",
+    "The Red Comet"
+   ],
+   "gender": "male",
+   "personality": "calm, enigmatic, wears sunglasses",
+   "position": "captain of the AEUG mobile suit team; alias of Char Aznable",
+   "affiliation": "AEUG",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Char_Aznable"
+   ],
+   "notes": "'Quattro' is Italian for four."
+  },
+  {
+   "jp_full": "ファ・ユイリィ",
+   "jp_short": "ファ",
+   "reading": "ファ",
+   "en_full": "Fa Yuiry",
+   "en_short": "Fa",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "kind, caring, anxious",
+   "position": "pilot; Kamille's neighbor and later nurse",
+   "affiliation": "AEUG",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Fa_Yuiry"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "トーレス",
+   "jp_short": "トーレス",
+   "reading": "トーレス",
+   "en_full": "Torres",
+   "en_short": "Torres",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "close in age to Kamille",
+   "position": "Argama bridge crew (deck command, communications, search); later aide to Beecha as acting captain",
+   "affiliation": "AEUG",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Torres"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "サエグサ",
+   "jp_short": "サエグサ",
+   "reading": "サエグサ",
+   "en_full": "Saegusa",
+   "en_short": "Saegusa",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "quiet and unobtrusive",
+   "position": "Argama bridge crew (navigation, helmsman)",
+   "affiliation": "AEUG",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Saegusa"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ジュドー・アーシタ",
+   "jp_short": "ジュドー",
+   "reading": "ジュドー",
+   "en_full": "Judau Ashta",
+   "en_short": "Judau",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "bright, energetic, positive",
+   "position": "junk dealer turned Newtype pilot of ZZ Gundam",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Judau_Ashta"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "リィナ・アーシタ",
+   "jp_short": "リィナ",
+   "reading": "リィナ",
+   "en_full": "Leina Ashta",
+   "en_short": "Leina",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "gentle and responsible; looks after her brother",
+   "position": "Judau's younger sister",
+   "affiliation": "AEUG",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Leina_Ashta"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "エルピー・プル",
+   "jp_short": "プル",
+   "reading": "プル",
+   "en_full": "Elpeo Ple",
+   "en_short": "Ple",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "childlike and willful; trained as a Newtype pilot",
+   "position": "Newtype pilot of Qubeley Mk-II (unit 2)",
+   "affiliation": "Neo Zeon, then AEUG",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Elpeo_Ple",
+    "https://superrobotwars.fandom.com/wiki/Mobile_Suit_Gundam_ZZ/Characters"
+   ],
+   "notes": "Spelling: Gundam wiki and SRW wiki use 'Elpeo Ple'; the English LP uses 'Puru'."
+  },
+  {
+   "jp_full": "プルツー",
+   "jp_short": "プルツー",
+   "reading": "プルツー",
+   "en_full": "Ple Two",
+   "en_short": "Ple Two",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cold and aggressive, heavily mind-controlled",
+   "position": "pilot of Qubeley Mk-II (unit 3)",
+   "affiliation": "Neo Zeon (Glemy faction), later free",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Ple_Two"
+   ],
+   "notes": "Clone sister of Elpeo Ple."
+  },
+  {
+   "jp_full": "ビーチャ・オレーグ",
+   "jp_short": "ビーチャ",
+   "reading": "ビーチャ",
+   "en_full": "Beecha Oleg",
+   "en_short": "Beecha",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "opportunistic, selfish leader type",
+   "position": "junk dealer; pilot of Hyaku Shiki; later captain of Nahel Argama",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Beecha_Oleg"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "モンド・アガケ",
+   "jp_short": "モンド",
+   "reading": "モンド",
+   "en_full": "Mondo Agake",
+   "en_short": "Mondo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "fence-sitting at first; excellent mechanic",
+   "position": "junk dealer; reserve pilot and mechanic",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Mondo_Agake"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "イーノ・アッバーブ",
+   "jp_short": "イーノ",
+   "reading": "イーノ",
+   "en_full": "Iino Abbav",
+   "en_short": "Iino",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "mild-mannered and reserved; good with machines",
+   "position": "junk dealer; pilot and bridge crew",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Iino_Abbav"
+   ],
+   "notes": "Spelling: Gundam wiki 'Iino Abbav'; the game's kana イーノ."
+  },
+  {
+   "jp_full": "エル・ビアンノ",
+   "jp_short": "エル",
+   "reading": "エル",
+   "en_full": "Elle Vianno",
+   "en_short": "Elle",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "lively and strong-willed",
+   "position": "junk dealer; pilot of Gundam Mk-II",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Elle_Vianno"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ルー・ルカ",
+   "jp_short": "ルー",
+   "reading": "ルー",
+   "en_full": "Roux Louka",
+   "en_short": "Roux",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "firm-willed, confident",
+   "position": "volunteer soldier; pilot of Zeta Gundam",
+   "affiliation": "AEUG (Gundam Team)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Roux_Louka"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "エマリー・オンス",
+   "jp_short": "エマリー",
+   "reading": "エマリー",
+   "en_full": "Emary Ounce",
+   "en_short": "Emary",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "capable commander who blushes in front of Bright",
+   "position": "acting captain of the supply ship La Vie en Rose",
+   "affiliation": "Anaheim Electronics",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Emary_Ounce"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "アムロ・レイ",
+   "jp_short": "アムロ",
+   "reading": "アムロ",
+   "en_full": "Amuro Ray",
+   "en_short": "Amuro",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "Newtype, sensitive",
+   "position": "captain; leader of Londo Bell's mobile suit squadron; pilot of Nu Gundam",
+   "affiliation": "Londo Bell (Earth Federation Forces)",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Amuro_Ray"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "チェーン・アギ",
+   "jp_short": "チェーン",
+   "reading": "チェーン",
+   "en_full": "Chan Agi",
+   "en_short": "Chan",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "devoted, determined",
+   "position": "technical officer of Londo Bell; pilot of Re-GZ",
+   "affiliation": "Londo Bell (Earth Federation Forces)",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Chan_Agi"
+   ],
+   "notes": "Spelling: Gundam wiki 'Chan Agi' (the game's kana チェーン). "
+  },
+  {
+   "jp_full": "ブライト・ノア",
+   "jp_short": "ブライト",
+   "reading": "ブライト",
+   "en_full": "Bright Noa",
+   "en_short": "Bright",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "decisive, experienced captain",
+   "position": "captain of the Argama and of Londo Bell's flagship Ra Cailum",
+   "affiliation": "Londo Bell (Earth Federation Forces)",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Bright_Noa"
+   ],
+   "notes": ""
+  }
+ ],
+ "units": [
+  {
+   "jp": "ＥＶＡ零号機",
+   "en": "Evangelion Unit-00",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-00"
+   ],
+   "notes": "Prototype, piloted by Rei Ayanami. Library text appears on two entries (prototype, then the refitted blue Unit-00)."
+  },
+  {
+   "jp": "ＥＶＡ初号機",
+   "en": "Evangelion Unit-01",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-01"
+   ],
+   "notes": "Test type, piloted by Shinji Ikari."
+  },
+  {
+   "jp": "ＥＶＡ初号機（暴走）",
+   "en": "Evangelion Unit-01 (Berserk)",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-01"
+   ],
+   "notes": "暴走 = berserk/rampage state."
+  },
+  {
+   "jp": "ＥＶＡ弐号機",
+   "en": "Evangelion Unit-02",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-02"
+   ],
+   "notes": "Piloted by Asuka."
+  },
+  {
+   "jp": "ＥＶＡ３号機",
+   "en": "Evangelion Unit-03",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-03"
+   ],
+   "notes": "Written 3号機 rather than 参号機 because it was built in the US; romanized 'Unit-03'."
+  },
+  {
+   "jp": "ＥＶＡ量産機",
+   "en": "Mass Production Evangelion",
+   "series": "ＴＨＥ　ＥＮＤ　ＯＦ　ＥＶＡＮＧＥＬＩＯＮ",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Mass_Production_Evangelion"
+   ],
+   "notes": "The End of Evangelion; nine units."
+  },
+  {
+   "jp": "第５使徒ラミエル",
+   "en": "Fifth Angel Ramiel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ramiel"
+   ],
+   "notes": "Angel (enemy unit). Note: the library entries labelled with Angel unit names in batch C were mislabelled (see fix_C); the Angel pilot entries 42-44 are the real Angel library texts."
+  },
+  {
+   "jp": "第１３使徒バルディエル",
+   "en": "Thirteenth Angel Bardiel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Bardiel"
+   ],
+   "notes": "Angel (enemy unit). Note: the library entries labelled with Angel unit names in batch C were mislabelled (see fix_C); the Angel pilot entries 42-44 are the real Angel library texts."
+  },
+  {
+   "jp": "第１４使徒ゼルエル",
+   "en": "Fourteenth Angel Zeruel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Zeruel"
+   ],
+   "notes": "Angel (enemy unit). Note: the library entries labelled with Angel unit names in batch C were mislabelled (see fix_C); the Angel pilot entries 42-44 are the real Angel library texts."
+  },
+  {
+   "jp": "第１７使徒タブリス",
+   "en": "Seventeenth Angel Tabris",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Tabris"
+   ],
+   "notes": "Angel (enemy unit). Note: the library entries labelled with Angel unit names in batch C were mislabelled (see fix_C); the Angel pilot entries 42-44 are the real Angel library texts."
+  },
+  {
+   "jp": "ラーゼフォン",
+   "en": "RahXephon",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Two library entries (normal and awakened)."
+  },
+  {
+   "jp": "真聖ラーゼフォン＜アヤト＞",
+   "en": "Shinsei RahXephon <Ayato>",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": "Game-coined form (真聖). Romanized."
+  },
+  {
+   "jp": "真聖ラーゼフォン＜クオン＞",
+   "en": "Shinsei RahXephon <Quon>",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": "Game-coined form (真聖). Romanized."
+  },
+  {
+   "jp": "ヴァーミリオン（エルフィ機）",
+   "en": "Vermillion (Elvy's Unit)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vermillion"
+   ],
+   "notes": "Spelling 'Vermillion' per rahxephon.fandom (Wikipedia: Vermilion)."
+  },
+  {
+   "jp": "ヴァーミリオン（緑）",
+   "en": "Vermillion (Green)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vermillion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アレグレット",
+   "en": "Allegretto",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Allegretto",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem."
+  },
+  {
+   "jp": "グラーベ",
+   "en": "Grave",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Grave",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem."
+  },
+  {
+   "jp": "ビバーチェ",
+   "en": "Vivace",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vivance",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem; rahxephon.fandom page title 'Vivance'."
+  },
+  {
+   "jp": "ヴィブラート",
+   "en": "Vibrato",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vibrato",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem."
+  },
+  {
+   "jp": "オブリガード",
+   "en": "Obbligato",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Obligato",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem; wiki 'Obligato', Wikipedia 'Obbligato'."
+  },
+  {
+   "jp": "ラルゴ",
+   "en": "Largo",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Largo",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "Dolem bound to Kuki."
+  },
+  {
+   "jp": "ドーテム",
+   "en": "Dotem",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Dolem",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": "D2 class (smaller than Dolems)."
+  },
+  {
+   "jp": "メトロノーム（赤）",
+   "en": "Metronome (Red)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Metronomes",
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "晨星Ⅱ型",
+   "en": "Shinsei Type II",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Federation_fighters"
+   ],
+   "notes": "Anti-D fighter of the Earth Federation air force. The Vermillion library text calls it シンセイ (Shinsei), confirming the reading. No English source for the name; 晨星 = 'morning star', romanized as shinsei. Not the same word as 真聖."
+  },
+  {
+   "jp": "ＡＬＩＥＬ",
+   "en": "ALIEL",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Federation_fighters"
+   ],
+   "notes": "VTOL used by Haruka on Operation Overlord. Spelling kept as the game prints it; likely 'Ariel'. Unverified."
+  },
+  {
+   "jp": "サーベラス",
+   "en": "Cerberus",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": "Experimental Unit No. 6, YTA-06BW."
+  },
+  {
+   "jp": "サーベラス・イグナイト（Ｇ）",
+   "en": "Cerberus Ignite (Form G)",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": "YTA-08BW."
+  },
+  {
+   "jp": "サーベラス・イグナイト（Ｓ）",
+   "en": "Cerberus Ignite (Form S)",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガルムレイド",
+   "en": "Garmraid",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid"
+   ],
+   "notes": "Experimental Unit No. 7, YTA-07RB."
+  },
+  {
+   "jp": "ガルムレイド・ブレイズ（Ｇ）",
+   "en": "Garmraid Blaze (Form G)",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "YTA-09RB."
+  },
+  {
+   "jp": "ガルムレイド・ブレイズ（Ｓ）",
+   "en": "Garmraid Blaze (Form S)",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メディウス・ロクス",
+   "en": "Medius Locus",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Stored twice (readings メディウスロクス / メディウス・ロクス)."
+  },
+  {
+   "jp": "メディウス・ロクス",
+   "en": "Medius Locus",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Duplicate entry (second form / different reading)."
+  },
+  {
+   "jp": "テルグム",
+   "en": "Tergum",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://lparchive.org/Super-Robot-Wars-MX/Update%20100/"
+   ],
+   "notes": "SRW wiki romanizes it 'Telgum' (Y?-01); the Latin 'tergum' (back) fits the Latin naming of the Medius Locus family and the English LP uses 'Tergum'. Chosen: Tergum. Flag for orchestrator."
+  },
+  {
+   "jp": "フロンス",
+   "en": "Frons",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://lparchive.org/Super-Robot-Wars-MX/Update%20100/"
+   ],
+   "notes": "SRW wiki romanizes it 'Flonnes' (Y?-02); Latin 'frons' (front) and the English LP use 'Frons'. Chosen: Frons. Flag."
+  },
+  {
+   "jp": "デクステラ",
+   "en": "Dextera",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Latin 'dextera' (right). Unit spawned by AI1/Medius Locus. Spelling is a Latin-based reading; wiki page lists no entry. Unverified."
+  },
+  {
+   "jp": "シニストラ",
+   "en": "Sinistra",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Latin 'sinistra' (left); counterpart of Dextera. Unverified."
+  },
+  {
+   "jp": "ＡＩ１",
+   "en": "AI1",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Final boss form (All In 1)."
+  },
+  {
+   "jp": "ゲシュペンストＭｋ－Ⅱ",
+   "en": "Gespenst Mk-II",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Gespenst_Mk-II"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラグーン",
+   "en": "Dragoon",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Listed under Banpresto Originals in the game but it is the MBD-1A Dragoon of Metal Armor Dragonar (SRW wiki: Aqua's unit list)."
+  },
+  {
+   "jp": "バリア",
+   "en": "Barrier",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object."
+  },
+  {
+   "jp": "マスドライバー",
+   "en": "Mass Driver",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Map object (Giganos mass driver)."
+  },
+  {
+   "jp": "デビルマスドライバー",
+   "en": "Devil Mass Driver",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Map object; no English source."
+  },
+  {
+   "jp": "メテオ",
+   "en": "Meteor",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object."
+  },
+  {
+   "jp": "土台",
+   "en": "Platform",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object (土台, reading ドダイ). Not a named unit."
+  },
+  {
+   "jp": "壁",
+   "en": "Wall",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object."
+  },
+  {
+   "jp": "扉",
+   "en": "Door",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object."
+  },
+  {
+   "jp": "施設",
+   "en": "Facility",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object."
+  },
+  {
+   "jp": "宇宙科学研究所",
+   "en": "Institute of Space Science",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Map object / building from Grendizer."
+  },
+  {
+   "jp": "早乙女研究所",
+   "en": "Saotome Institute",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Shin_Getter_Robo_(Manga)"
+   ],
+   "notes": "Map object / building from Getter Robo."
+  },
+  {
+   "jp": "百鬼要塞島",
+   "en": "Hyakki Fortress Island",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object from Getter Robo (Hyakki Empire). No English source for the exact name."
+  },
+  {
+   "jp": "無限軌道砲",
+   "en": "Infinite Orbital Cannon",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Map object; no English source (literal reading)."
+  },
+  {
+   "jp": "Ｚガンダム",
+   "en": "Zeta Gundam",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": "MSZ-006."
+  },
+  {
+   "jp": "ウェイブライダー",
+   "en": "Waverider",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Waverider"
+   ],
+   "notes": "Zeta Gundam's flight mode."
+  },
+  {
+   "jp": "スーパーガンダム",
+   "en": "Super Gundam",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RX-178%2BFXA-05D_Super_Gundam"
+   ],
+   "notes": "Gundam Mk-II + G-Defenser."
+  },
+  {
+   "jp": "百式",
+   "en": "Hyaku Shiki",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": "MSN-00100."
+  },
+  {
+   "jp": "フルアーマー百式改",
+   "en": "Full Armor Hyaku Shiki Kai",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FA-100S_Full_Armor_Hyaku_Shiki_Kai"
+   ],
+   "notes": "FA-100S."
+  },
+  {
+   "jp": "ディジェＳＥ－Ｒ",
+   "en": "Dijeh SE-R",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/SE.DJ-1R_Dijeh_SE-R"
+   ],
+   "notes": "Model number SE.DJ-1R."
+  },
+  {
+   "jp": "ＺＺガンダム",
+   "en": "ZZ Gundam",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": "MSZ-010."
+  },
+  {
+   "jp": "Ｇフォートレス",
+   "en": "G-Fortress",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FX-010A_G-Fortress_Improved_Armament_Plan_%22Super_G-Fortress%22"
+   ],
+   "notes": "ZZ's heavy fighter-bomber form."
+  },
+  {
+   "jp": "キュベレイＭｋ－Ⅱ",
+   "en": "Qubeley Mk-II",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II"
+   ],
+   "notes": "AMX-004. Stored twice in library (Ple's unit / Ple Two's unit)."
+  },
+  {
+   "jp": "ネェル・アーガマ",
+   "en": "Nahel Argama",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/SCVA-76_Nahel_Argama",
+    "https://superrobotwars.fandom.com/wiki/Mobile_Suit_Gundam_ZZ/Mecha"
+   ],
+   "notes": "SCVA-76."
+  },
+  {
+   "jp": "メガライダー",
+   "en": "Mega Rider",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FXA-08R_Mega_Rider"
+   ],
+   "notes": "FXA-08R."
+  },
+  {
+   "jp": "νガンダム",
+   "en": "Nu Gundam",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam"
+   ],
+   "notes": "RX-93 (the nu is a Greek letter; ASCII 'Nu')."
+  },
+  {
+   "jp": "リ・ガズィ（ＢＷＳ）",
+   "en": "Re-GZ (BWS)",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ"
+   ],
+   "notes": "BWS = Back Weapon System."
+  },
+  {
+   "jp": "リ・ガズィ（ＭＳ）",
+   "en": "Re-GZ (MS)",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RGZ-91_Re-GZ"
+   ],
+   "notes": ""
+  }
+ ],
+ "weapons": [
+  {
+   "jp": "イグナイト・パイク",
+   "en": "Ignite Pike",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "インクルシオー",
+   "en": "Inclusio",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified: a romanization of the katakana; no English source found. Attack name used by the Medius Locus family (Latin-style naming)."
+  },
+  {
+   "jp": "インラージメントＭＸ",
+   "en": "Enlargement MX",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified literal English from the katakana (インラージメント = enlargement). Likely an AI1 / Medius Locus form attack."
+  },
+  {
+   "jp": "ランページＭＸ",
+   "en": "Rampage MX",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified literal English from the katakana (ランページ = rampage). Likely an AI1 / Medius Locus form attack."
+  },
+  {
+   "jp": "ウメルス・フラッシャー",
+   "en": "Humerus Flasher",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified. Latin anatomical term 'humerus' fits the Medius Locus family naming (Caput, Brachium...); no English source found."
+  },
+  {
+   "jp": "エグゼキューション・レイド",
+   "en": "Execution Raid",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Garmraid Blaze Form G chest attack per TV Tropes."
+  },
+  {
+   "jp": "オーヴァル・ミサイル",
+   "en": "Oval Missile",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Literal; no source found."
+  },
+  {
+   "jp": "カプト・ブラスター",
+   "en": "Caput Blaster",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified. Latin 'caput' (head); no English source found."
+  },
+  {
+   "jp": "クレイ・バズーカ",
+   "en": "Clay Bazooka",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": "Hyaku Shiki / Dijeh weapon (300 mm Clay Bazooka)."
+  },
+  {
+   "jp": "クロス・メディウス・ロクス",
+   "en": "Cross Medius Locus",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Medius Locus attack."
+  },
+  {
+   "jp": "ケルベレイド・バスター",
+   "en": "Kerberaid Buster",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": "SRW wiki spelling 'Kerberaid Buster' (TV Tropes: 'Cerberaid Buster')."
+  },
+  {
+   "jp": "ケルベロス・ファング",
+   "en": "Cerberus Fang",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": "Literal; no source found for this exact name."
+  },
+  {
+   "jp": "コーティグ・ソード",
+   "en": "Coating Sword",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": "Typo variant of コーティング・ソード in the game data."
+  },
+  {
+   "jp": "コーティング・ソード",
+   "en": "Coating Sword",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus",
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コーティング・ソードＴｅＸ",
+   "en": "Coating Sword TeX",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サンダー・スピンエッジ",
+   "en": "Thunder Spin Edge",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid",
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ライトニング・スピンエッジ",
+   "en": "Lightning Spin Edge",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid"
+   ],
+   "notes": "Literal; no source found for this exact name."
+  },
+  {
+   "jp": "スティング・アクセレレイション",
+   "en": "Sting Acceleration",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Literal; no source found."
+  },
+  {
+   "jp": "ヘブン・アクセレレイション",
+   "en": "Heaven Acceleration",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Literal; no source found."
+  },
+  {
+   "jp": "スパイラル・ファング",
+   "en": "Spiral Fang",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナス・キャノン",
+   "en": "Terminus Cannon",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus",
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナス・スマッシャー",
+   "en": "Terminus Smasher",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナス・ブラスター",
+   "en": "Terminus Blaster",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナス・ブレイザー",
+   "en": "Terminus Blazer",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＴＥスフィア・ブレイザー",
+   "en": "TE Sphere Blazer",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブル・キャノン",
+   "en": "Double Cannon",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FX-010A_G-Fortress_Improved_Armament_Plan_%22Super_G-Fortress%22"
+   ],
+   "notes": "G-Fortress."
+  },
+  {
+   "jp": "ダブル・ビーム・ライフル",
+   "en": "Double Beam Rifle",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブル・メガ・ランチャー",
+   "en": "Double Mega Launcher",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [],
+   "notes": "Literal; no source found (probably a ZZ-series or Hyaku Shiki-line weapon)."
+  },
+  {
+   "jp": "ダヴァンティーザー",
+   "en": "Davantizer",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified romanization of the katakana; probably Italian 'davanti' (front). No source found."
+  },
+  {
+   "jp": "ディエトローラー",
+   "en": "Dietroller",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified romanization of the katakana; probably Italian 'dietro' (behind). No source found."
+  },
+  {
+   "jp": "ディバイデッド・ライフル",
+   "en": "Divided Rifle",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "トリニティ・デッドエンド",
+   "en": "Trinity Dead End",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Garmraid Blaze Form S finisher."
+  },
+  {
+   "jp": "ブースト・ブラッキウム",
+   "en": "Boost Brachium",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Unverified. Latin 'brachium' (arm); no source found."
+  },
+  {
+   "jp": "ブラッディ・レイ",
+   "en": "Bloody Ray",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファング・ナックル",
+   "en": "Fang Knuckle",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid",
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バーニング・ブレイカー",
+   "en": "Burning Breaker",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ロウガ・クラッシャー",
+   "en": "Rouga Crusher",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "TV Tropes spells 'Rouga Crasher'; SRW wiki 'Rouga Crusher'."
+  },
+  {
+   "jp": "ラディカル・レールガン",
+   "en": "Radical Railgun",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus",
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マシンガン・ポッド",
+   "en": "Machinegun Pods",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レイガン・ポッド",
+   "en": "Ray Gun Pods",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｈｏミサイル・ランチャー",
+   "en": "HO Missile Launcher",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "TV Tropes spells 'HO Missile Launcher'."
+  },
+  {
+   "jp": "ミサイルランチャー",
+   "en": "Missile Launcher",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ライアット・ブーメラン",
+   "en": "Riot Boomerang",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マシン・アニマリートレイド",
+   "en": "Machine Animaloid Raid",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "SRW wiki calls Hiou/Rouga 'Machine Animaloids'."
+  },
+  {
+   "jp": "Ａｌｌ　Ｉｎ　１",
+   "en": "All In 1",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "AI1's final attack / form name."
+  },
+  {
+   "jp": "暴走",
+   "en": "Berserk",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-01"
+   ],
+   "notes": "暴走 (bousou): Unit-01's berserk state; also used as a generic attack label for Medius Locus forms."
+  },
+  {
+   "jp": "Ａ．Ｔ．フィールド",
+   "en": "A.T. Field",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Angel"
+   ],
+   "notes": "Absolute Terror Field."
+  },
+  {
+   "jp": "Ｎ２爆雷",
+   "en": "N2 Depth Charge",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/N%C2%B2_Weapons"
+   ],
+   "notes": "Eva wiki: 'N2 mine'/'N2 bomb'; 爆雷 = depth charge. Flag."
+  },
+  {
+   "jp": "パレットライフル",
+   "en": "Pallet Rifle",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "プログレッシブナイフ",
+   "en": "Progressive Knife",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ポジトロンライフル",
+   "en": "Positron Rifle",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ポジトロンスナイパーライフル",
+   "en": "Positron Sniper Rifle",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マゴロク・Ｅ・ソード",
+   "en": "Magoroku-E Sword",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": "Magoroku Exterminate Sword; designed but never used in the anime."
+  },
+  {
+   "jp": "ユニゾンキック",
+   "en": "Unison Kick",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-02"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "加粒子砲",
+   "en": "Charged Particle Cannon",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ramiel"
+   ],
+   "notes": "Ramiel's attack (加粒子砲)."
+  },
+  {
+   "jp": "白兵戦用レーザーソード",
+   "en": "Close-Combat Laser Sword",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [],
+   "notes": "Library text: laser swords of the Dragonar-1 Custom (a Dragonar unit)."
+  },
+  {
+   "jp": "ボイス",
+   "en": "Voice",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "RahXephon attacks with its voice / song (Wikipedia)."
+  },
+  {
+   "jp": "ボイス攻撃",
+   "en": "Voice Attack",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "調律の歌",
+   "en": "Song of Tuning",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "光の剣",
+   "en": "Sword of Light",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": "Energy blades from the forearms."
+  },
+  {
+   "jp": "弓状光",
+   "en": "Bow of Light",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": "Literally 'bow-shaped light'; the RahXephon has an energy bow."
+  },
+  {
+   "jp": "貫通光",
+   "en": "Piercing Light",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "諸刃の剣",
+   "en": "Double-Edged Sword",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal."
+  },
+  {
+   "jp": "音波攻撃",
+   "en": "Sonic Attack",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "プラズマ破光",
+   "en": "Plasma Burst Light",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Unverified literal rendering of 破光."
+  },
+  {
+   "jp": "バウスガザル（Ｌ）",
+   "en": "Bausgazal (L)",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Vermillion weapon (rail gun / wave light bullet); no English source found. Unverified romanization."
+  },
+  {
+   "jp": "バウスガザル（Ｒ）",
+   "en": "Bausgazal (R)",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Vermillion weapon; see (L)."
+  },
+  {
+   "jp": "触手",
+   "en": "Tentacle",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "爪攻撃",
+   "en": "Claw Attack",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://wikipedia2006.classicistranieri.com/en/d/o/l/Dolem.html"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ニードル攻撃",
+   "en": "Needle Attack",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "下部レーザー",
+   "en": "Lower Laser",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Largo"
+   ],
+   "notes": "Largo's underside missile/beam battery."
+  },
+  {
+   "jp": "側部レーザー",
+   "en": "Side Laser",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Largo"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "対空レーザー砲",
+   "en": "Anti-Air Laser Cannon",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "連続砲火",
+   "en": "Continuous Fire",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "連装ミサイルランチャー",
+   "en": "Multiple Missile Launcher",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "４６０ｍｍレールキャノン",
+   "en": "460 mm Rail Cannon",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Weapons"
+   ],
+   "notes": "Possibly relates to the 460 mm positron/rail cannon of the Evangelion lineup; unverified."
+  },
+  {
+   "jp": "５５．６ｍｍハンドレールガン",
+   "en": "55.6 mm Hand Rail Gun",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "６０ｍｍバルカン砲",
+   "en": "60 mm Vulcan Gun",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "１０連デュアルミサイルポッド",
+   "en": "10-Tube Dual Missile Pod",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "ファイナル",
+   "en": "Final",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Literal; context unknown (a finishing-attack label)."
+  },
+  {
+   "jp": "ビーム・ガン",
+   "en": "Beam Gun",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II"
+   ],
+   "notes": "Qubeley Mk-II beam gun/saber."
+  },
+  {
+   "jp": "ビーム・サーベル",
+   "en": "Beam Saber",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビーム・ライフル",
+   "en": "Beam Rifle",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビーム・キャノン",
+   "en": "Beam Cannon",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バルカン",
+   "en": "Vulcan",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": "Generic vulcan gun."
+  },
+  {
+   "jp": "ミサイル",
+   "en": "Missile",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "グレネードランチャー",
+   "en": "Grenade Launcher",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レーザー",
+   "en": "Laser",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "エネルギー波",
+   "en": "Energy Wave",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "光線",
+   "en": "Light Beam",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "投てき",
+   "en": "Throw",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "格闘",
+   "en": "Melee",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "体当たり",
+   "en": "Ramming",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": "体当たり: body-slam / ram attack."
+  },
+  {
+   "jp": "ウェイブライダー突撃",
+   "en": "Waverider Charge",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Waverider"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパー・メガ・ランチャー",
+   "en": "Hyper Mega Launcher",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メガ・バズーカ・ランチャー",
+   "en": "Mega Bazooka Launcher",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メガ・ビーム・キャノン",
+   "en": "Mega Beam Cannon",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FA-100S_Full_Armor_Hyaku_Shiki_Kai"
+   ],
+   "notes": "Full Armor Hyaku Shiki Kai: Mega Particle Cannon / Beam Cannon; exact name unverified."
+  },
+  {
+   "jp": "ロング・ビーム・サーベル",
+   "en": "Long Beam Saber",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ロングライフル",
+   "en": "Long Rifle",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FXA-05D_G-Defenser"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパー・ビーム・サーベル",
+   "en": "Hyper Beam Saber",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイ・メガ・キャノン",
+   "en": "High Mega Cannon",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": "Gundam wiki 'high mega cannon' (also 'Hi-Mega Cannon')."
+  },
+  {
+   "jp": "ハイ・メガ・キャノン・フルパワー",
+   "en": "High Mega Cannon (Full Power)",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパー・メガ粒子砲",
+   "en": "Hyper Mega Particle Cannon",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/SCVA-76_Nahel_Argama"
+   ],
+   "notes": "Nahel Argama main gun."
+  },
+  {
+   "jp": "大型メガ粒子砲",
+   "en": "Large Mega Particle Cannon",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/SCVA-76_Nahel_Argama"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファンネル",
+   "en": "Funnel",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/AMX-004_Qubeley_Mk-II"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ツイン・ファンネル",
+   "en": "Twin Funnel",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [],
+   "notes": "Literal; no source found."
+  },
+  {
+   "jp": "フィン・ファンネル",
+   "en": "Fin Funnel",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパー・バズーカ",
+   "en": "Hyper Bazooka",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ニュー・ハイパー・バズーカ",
+   "en": "New Hyper Bazooka",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/RX-93_%CE%BD_Gundam"
+   ],
+   "notes": "Wiki: the nu Gundam's improved Hyper Bazooka."
+  },
+  {
+   "jp": "拡散バズーカ",
+   "en": "Spread Bazooka",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [],
+   "notes": "Literal; Re-GZ BWS or nu Gundam weapon; unverified."
+  }
+ ],
+ "terms": [
+  {
+   "jp": "ネルフ",
+   "en": "NERV",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/NERV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "特務機関ネルフ",
+   "en": "Special Agency NERV",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/NERV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネルフ本部",
+   "en": "NERV Headquarters",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/NERV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネルフ第１支部",
+   "en": "NERV Branch 1 (US Branch)",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/NERV"
+   ],
+   "notes": "The first (US) branch where Unit-03 was built."
+  },
+  {
+   "jp": "ゼーレ",
+   "en": "SEELE",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/SEELE"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲヒルン",
+   "en": "Gehirn",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Gehirn"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "人工進化研究所",
+   "en": "Artificial Evolution Laboratory",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Gehirn"
+   ],
+   "notes": "Gendo's earlier post; name literal, no English source seen."
+  },
+  {
+   "jp": "マルドゥック機関",
+   "en": "Marduk Institute",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Marduk_Institute"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "人類補完委員会",
+   "en": "Human Instrumentality Committee",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Committee"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "人類補完計画",
+   "en": "Human Instrumentality Project",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Human_Instrumentality_Project"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "セカンドインパクト",
+   "en": "Second Impact",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Second_Impact"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "戦略自衛隊",
+   "en": "Strategic Self-Defense Force",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Japanese_Strategic_Self_Defense_Force"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "内務省",
+   "en": "Ministry of the Interior",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [],
+   "notes": "Japanese government ministry; Kaji's third employer."
+  },
+  {
+   "jp": "第３新東京市",
+   "en": "Tokyo-3",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Tokyo-3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジオフロント",
+   "en": "Geofront",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Geofront"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナルドグマ",
+   "en": "Terminal Dogma",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Terminal_Dogma"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "松代",
+   "en": "Matsushiro",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/NERV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "第２実験場",
+   "en": "Second Experimental Site",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion_Unit-03"
+   ],
+   "notes": "In Matsushiro; where Unit-03 is tested. Exact English name not verified."
+  },
+  {
+   "jp": "ヤシマ作戦",
+   "en": "Operation Yashima",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Operation_Yashima"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "使徒",
+   "en": "Angel",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Angel"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "チルドレン",
+   "en": "Children",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Shinji_Ikari"
+   ],
+   "notes": "Chosen pilots: First Child (Rei), Second (Asuka), Third (Shinji), Fourth (Toji), Fifth (Kaworu)."
+  },
+  {
+   "jp": "ファーストチルドレン",
+   "en": "First Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Rei_Ayanami"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "セカンドチルドレン",
+   "en": "Second Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Asuka_Langley_Soryu"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サードチルドレン",
+   "en": "Third Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Shinji_Ikari"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フォースチルドレン",
+   "en": "Fourth Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Toji_Suzuhara"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フィフスチルドレン",
+   "en": "Fifth Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Kaworu_Nagisa"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エントリープラグ",
+   "en": "entry plug",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Entry_Plug"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アンビリカルケーブル",
+   "en": "umbilical cable",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｓ２機関",
+   "en": "S2 Engine",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/S%C2%B2_Engine"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＭＡＧＩ",
+   "en": "MAGI",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/MAGI"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｅ計画",
+   "en": "Project E",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ritsuko_Akagi"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダミーシステム",
+   "en": "Dummy System",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Dummy_System"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アダム",
+   "en": "Adam",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Adam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コア",
+   "en": "Core",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Angel"
+   ],
+   "notes": "The red sphere found in Evangelions and Angels."
+  },
+  {
+   "jp": "ベークライト",
+   "en": "Bakelite",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Entry_Plug"
+   ],
+   "notes": "Used to freeze Unit-00 (special Bakelite)."
+  },
+  {
+   "jp": "ペンペン",
+   "en": "Pen Pen",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Pen_Pen"
+   ],
+   "notes": "Misato's pet hot-spring penguin."
+  },
+  {
+   "jp": "洞木コダマ",
+   "en": "Kodama Horaki",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Hikari_Horaki"
+   ],
+   "notes": "Hikari's older sister (library names her as コダマ)."
+  },
+  {
+   "jp": "洞木ノゾミ",
+   "en": "Nozomi Horaki",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Hikari_Horaki"
+   ],
+   "notes": "Hikari's younger sister (library names her as ノゾミ)."
+  },
+  {
+   "jp": "赤木ナオコ",
+   "en": "Naoko Akagi",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ritsuko_Akagi"
+   ],
+   "notes": "Ritsuko's mother, who built the MAGI."
+  },
+  {
+   "jp": "三バカトリオ",
+   "en": "Three Idiots Trio",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Kensuke_Aida"
+   ],
+   "notes": "Nickname for Shinji, Toji and Kensuke. Literal."
+  },
+  {
+   "jp": "ＴＥＲＲＡ",
+   "en": "TERRA",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/TERRA",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "Tereno Empireo Rapidmova Reakcii Armeo (broken Esperanto). The game prints 'Eepireo', apparently a typo."
+  },
+  {
+   "jp": "ムー",
+   "en": "Mu",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mu",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "The Mulian people/civilization (also written ＭＵ)."
+  },
+  {
+   "jp": "ムーリアン",
+   "en": "Mulian",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mulian"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドーレム",
+   "en": "Dolem",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドーテム",
+   "en": "Dotem",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＴＯＫＹＯ　ＪＵＰＩＴＥＲ",
+   "en": "TOKYO JUPITER",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Tokyo_Jupiter"
+   ],
+   "notes": "Kept in capitals as the game prints it."
+  },
+  {
+   "jp": "ニライカナイ",
+   "en": "Nirai Kanai",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Nirai-Kanai"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＭＵ東京総督府",
+   "en": "MU Tokyo Government-General",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Masayoshi_Kuki"
+   ],
+   "notes": "Rah wiki: 'Mu Tokyo Government General'."
+  },
+  {
+   "jp": "ラーの間",
+   "en": "Room of Rah",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Over_Lord",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "Wikipedia/Rah wiki: 'Room of Rah'."
+  },
+  {
+   "jp": "世音神殿",
+   "en": "Seon Temple",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon"
+   ],
+   "notes": "Unverified rendering (世音 'seon' appears in the wiki as part of the RahXephon's Chinese name)."
+  },
+  {
+   "jp": "神託の泉",
+   "en": "Spring of Oracles",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal; no English source."
+  },
+  {
+   "jp": "奏者",
+   "en": "instrumentalist",
+   "category": "title",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/The_RahXephon",
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "奏者の座",
+   "en": "Instrumentalist's Seat",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal: the RahXephon's cockpit."
+  },
+  {
+   "jp": "調律",
+   "en": "tuning",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": "'tune the world' / 're-tune' per Wikipedia."
+  },
+  {
+   "jp": "真理の目",
+   "en": "Eye of Truth",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal."
+  },
+  {
+   "jp": "ムーリアン・アーティファクト・クラス５Ａ",
+   "en": "Mulian Artifact Class 5A",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mulian"
+   ],
+   "notes": "Wikipedia: 'Mulian Artifact Class 5 A (MA-C5A)'."
+  },
+  {
+   "jp": "ＴＤＤＵ",
+   "en": "TDDU",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vermillion"
+   ],
+   "notes": "Absolute-barrier penetration system; the wiki calls it a 'Trans Dimension Drive'. Expansion of the acronym not confirmed."
+  },
+  {
+   "jp": "バーベム財団",
+   "en": "Bahbem Foundation",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ernst_von_B%C3%A4hbem"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "α小隊",
+   "en": "Alpha Squadron",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Alpha_Squadron",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "オーバーロード作戦",
+   "en": "Operation Overlord",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Alpha_Squadron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "第一次ＭＵ大戦",
+   "en": "First Mu War",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Masayoshi_Kuki"
+   ],
+   "notes": "Wiki: 'First Great Mu War'/'Great Mu War'."
+  },
+  {
+   "jp": "地球連合",
+   "en": "Earth Federation",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Elvy_Hadhiyat",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Game text says 地球連合 / 連合 (Earth Alliance/Federation); the wiki uses Earth Federation."
+  },
+  {
+   "jp": "天戸通信",
+   "en": "Amato News",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Johji_Futagami",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ライフ・モジュール",
+   "en": "Life Module",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヨロテオトル",
+   "en": "Yolteotl",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yolteotl"
+   ],
+   "notes": "The true heart. The game once spells it ヨリョトル."
+  },
+  {
+   "jp": "イシュトリ",
+   "en": "Ixtli",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Reika_Mishima",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "The soul of the RahXephon."
+  },
+  {
+   "jp": "ゼフォン",
+   "en": "Xephon",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "オリン",
+   "en": "Ollin",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Nahua 'motion'; Quon's name for Ayato."
+  },
+  {
+   "jp": "亜ムーリアン",
+   "en": "sub-Mulian",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "公安",
+   "en": "Public Security",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネリヤ神殿",
+   "en": "Neriya Temple",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal; no source."
+  },
+  {
+   "jp": "時の祠",
+   "en": "Shrine of Time",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal; no source."
+  },
+  {
+   "jp": "根来島",
+   "en": "Negoro Island",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Literal reading of 根来島; no source."
+  },
+  {
+   "jp": "Ａｎｔｉ－Ｄ",
+   "en": "Anti-D",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Anti-Dolem (fighter class). Literal."
+  },
+  {
+   "jp": "ミチル",
+   "en": "Michiru",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Name of Kunugi's blue bird (library); the wiki also has Michiru Kunugi, his daughter."
+  },
+  {
+   "jp": "真理子",
+   "en": "Mariko",
+   "category": "other",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Kunugi's wife (Mariko Kunugi)."
+  },
+  {
+   "jp": "ラビアンローズ",
+   "en": "La Vie en Rose",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/La_Vie_en_Rose"
+   ],
+   "notes": "Anaheim supply ship (Gundam ZZ)."
+  },
+  {
+   "jp": "ツェントル・プロジェクト",
+   "en": "Tsentr Project",
+   "category": "other",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus",
+    "https://superrobotwars.fandom.com/wiki/Banpresto_Original/Terminology"
+   ],
+   "notes": "SRW wiki 'Tsentr Project'; the English LP uses 'Tsentre Project'."
+  },
+  {
+   "jp": "クライ・ウルブズ",
+   "en": "Cry Wolves",
+   "category": "organization",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Banpresto_Original/Terminology"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "連邦軍",
+   "en": "Earth Federation Army",
+   "category": "organization",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Albero_Esto"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＴＥエンジン",
+   "en": "TE Engine",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": "Terminus Energy Engine."
+  },
+  {
+   "jp": "ターミナス・エナジー",
+   "en": "Terminus Energy",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＴＥアブゾーバー",
+   "en": "TE Absorber",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Terminus Energy Absorber."
+  },
+  {
+   "jp": "ＴＥスフィア",
+   "en": "TE Sphere",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＤＦＣ",
+   "en": "DFC",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": "Direct Feeling Control."
+  },
+  {
+   "jp": "ダイレクト・フィーリング・コントロール",
+   "en": "Direct Feeling Control",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ラズムナニウム",
+   "en": "Lasmunanium",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX"
+   ],
+   "notes": "Alternate spelling 'Lazmunanium' seen in TV Tropes."
+  },
+  {
+   "jp": "マシンアニマリート",
+   "en": "Machine Animaloid",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "Support robots Hiou (bird) and Rouga (wolf)."
+  },
+  {
+   "jp": "ヒオウ",
+   "en": "Hiou",
+   "category": "other",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "Bird-type unmanned fighter."
+  },
+  {
+   "jp": "ロウガ",
+   "en": "Rouga",
+   "category": "other",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": "Wolf-type unmanned unit."
+  },
+  {
+   "jp": "イグナイト・パーツ",
+   "en": "Ignite Parts",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フォームＧ",
+   "en": "Form G",
+   "category": "technique",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フォームＳ",
+   "en": "Form S",
+   "category": "technique",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus_Ignite"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フィギュアＷ",
+   "en": "Figure W",
+   "category": "technique",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Cerberus Ignite's close-combat configuration. Literal."
+  },
+  {
+   "jp": "フィギュアＢ",
+   "en": "Figure B",
+   "category": "technique",
+   "series": "バンプレストオリジナル",
+   "sources": [],
+   "notes": "Cerberus Ignite's long-range configuration. Literal."
+  },
+  {
+   "jp": "ウィング・ブースター",
+   "en": "Wing Booster",
+   "category": "technology",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garmraid_Blaze"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アナハイム・エレクトロニクス",
+   "en": "Anaheim Electronics",
+   "category": "organization",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Anaheim_Electronics"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エゥーゴ",
+   "en": "AEUG",
+   "category": "organization",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Anti_Earth_Union_Group"
+   ],
+   "notes": "Anti Earth Union Group."
+  },
+  {
+   "jp": "ティターンズ",
+   "en": "Titans",
+   "category": "organization",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Titans"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "カラバ",
+   "en": "Karaba",
+   "category": "organization",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Karaba"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ロンド・ベル隊",
+   "en": "Londo Bell",
+   "category": "organization",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Londo_Bell"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオ・ジオン",
+   "en": "Neo Zeon",
+   "category": "organization",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Neo_Zeon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アクシズ",
+   "en": "Axis",
+   "category": "location",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Axis"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "地球連邦軍",
+   "en": "Earth Federation Forces",
+   "category": "organization",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Earth_Federation_Forces"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アーガマ",
+   "en": "Argama",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Argama"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ホワイトベース",
+   "en": "White Base",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/White_Base"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ラー・カイラム",
+   "en": "Ra Cailum",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Ra_Cailum"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グリプス戦役",
+   "en": "Gryps Conflict",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gryps_Conflict"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "第１次ネオ・ジオン抗争",
+   "en": "First Neo Zeon War",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/First_Neo_Zeon_War"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "第２次ネオ・ジオン抗争",
+   "en": "Second Neo Zeon War",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Second_Neo_Zeon_War"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "一年戦争",
+   "en": "One Year War",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/One_Year_War"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジャブロー",
+   "en": "Jaburo",
+   "category": "location",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Jaburo"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダカール",
+   "en": "Dakar",
+   "category": "location",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Dakar"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グリーンノア１",
+   "en": "Green Noa 1",
+   "category": "location",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Kamille_Bidan"
+   ],
+   "notes": "Colony in Side 7; the wiki writes 'Green Noa I'."
+  },
+  {
+   "jp": "サイド７",
+   "en": "Side 7",
+   "category": "location",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Kamille_Bidan"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サイド１",
+   "en": "Side 1",
+   "category": "location",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Moon_Moon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "シャングリラ",
+   "en": "Shangri-La",
+   "category": "location",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Mondo_Agake"
+   ],
+   "notes": "Colony in Side 1."
+  },
+  {
+   "jp": "ムーンムーン",
+   "en": "Moon Moon",
+   "category": "location",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Moon_Moon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コロニーレーザー",
+   "en": "Colony Laser",
+   "category": "technology",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Colony_Laser"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バリュートシステム",
+   "en": "Ballute System",
+   "category": "technology",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Ballute_System"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ムーバブルフレーム",
+   "en": "Movable Frame",
+   "category": "technology",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Mk-II"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バイオセンサー",
+   "en": "Bio-Sensor",
+   "category": "technology",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Psycommu"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サイコフレーム",
+   "en": "Psycho-Frame",
+   "category": "technology",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Psycho-Frame"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サイコミュ",
+   "en": "Psycommu",
+   "category": "technology",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Psycommu"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コアブロック・システム",
+   "en": "Core Block System",
+   "category": "technology",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Core_Block_System"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コアファイター",
+   "en": "Core Fighter",
+   "category": "technology",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Core_Fighter"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｚ計画",
+   "en": "Z Project",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Project_Zeta"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｇディフェンサー",
+   "en": "G-Defenser",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/FXA-05D_G-Defenser"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｇフライヤー",
+   "en": "G-Flyer",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": "Super Gundam's flight configuration (not in the game)."
+  },
+  {
+   "jp": "ガンダムＭｋ－Ⅱ",
+   "en": "Gundam Mk-II",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Mk-II"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "リック・ディアス",
+   "en": "Rick Dias",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Rick_Dias"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メタス",
+   "en": "Methuss",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Methuss"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ニュータイプ",
+   "en": "Newtype",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Newtype"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "木星船団",
+   "en": "Jupiter Energy Fleet",
+   "category": "organization",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Jupiter_Energy_Fleet"
+   ],
+   "notes": "Judau and Roux join it at the end of ZZ."
+  },
+  {
+   "jp": "キャトル",
+   "en": "Catl",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Catl"
+   ],
+   "notes": "Gundam wiki 'Catl' (ZZ, Moon Moon)."
+  },
+  {
+   "jp": "ラサラ",
+   "en": "Rasara",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Rasara_Moon"
+   ],
+   "notes": "Rasara Moon, leader of Moon Moon's Light Tribe."
+  },
+  {
+   "jp": "ホモ・アビス",
+   "en": "Homo Abyss",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [],
+   "notes": "Kamille's one-person small aircraft; spelling unverified (no English source found)."
+  },
+  {
+   "jp": "Ｍ・ナガノ博士",
+   "en": "Dr. M. Nagano",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-00100_Hyaku_Shiki"
+   ],
+   "notes": "Designer of the Hyaku Shiki."
+  },
+  {
+   "jp": "ジェリド",
+   "en": "Jerid",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Jerid_Messa"
+   ],
+   "notes": "Jerid Messa."
+  },
+  {
+   "jp": "フォウ",
+   "en": "Four",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Four_Murasame"
+   ],
+   "notes": "Four Murasame."
+  },
+  {
+   "jp": "ブレックス",
+   "en": "Blex",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Blex_Forer"
+   ],
+   "notes": "Blex Forer."
+  },
+  {
+   "jp": "シロッコ",
+   "en": "Scirocco",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Paptimus_Scirocco"
+   ],
+   "notes": "Paptimus Scirocco."
+  },
+  {
+   "jp": "ハマーン",
+   "en": "Haman",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Haman_Karn"
+   ],
+   "notes": "Haman Karn."
+  },
+  {
+   "jp": "グレミー",
+   "en": "Glemy",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Glemy_Toto"
+   ],
+   "notes": "Glemy Toto."
+  },
+  {
+   "jp": "ヤザン",
+   "en": "Yazan",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Yazan_Gable"
+   ],
+   "notes": "Yazan Gable."
+  },
+  {
+   "jp": "セイラ・マス",
+   "en": "Sayla Mass",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Sayla_Mass"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "シャア・アズナブル",
+   "en": "Char Aznable",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Char_Aznable"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハサウェイ",
+   "en": "Hathaway",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Hathaway_Noa"
+   ],
+   "notes": "Hathaway Noa."
+  },
+  {
+   "jp": "クェス",
+   "en": "Quess",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Quess_Paraya"
+   ],
+   "notes": "Quess Paraya."
+  },
+  {
+   "jp": "サザビー",
+   "en": "Sazabi",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSN-04_Sazabi"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "α・アジール",
+   "en": "Alpha Azieru",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/NZ-333_%CE%B1_Azieru"
+   ],
+   "notes": "Quess's mobile armor (NZ-333 alpha Azieru)."
+  },
+  {
+   "jp": "ＲＸ－７８ガンダム",
+   "en": "RX-78 Gundam",
+   "category": "other",
+   "series": "機動戦士ガンダム　逆襲のシャア",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Amuro_Ray"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｕ．Ｃ．",
+   "en": "U.C.",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Universal_Century_Locations"
+   ],
+   "notes": "Universal Century."
+  },
+  {
+   "jp": "ギガノス",
+   "en": "Giganos",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series (Metal Armor Dragonar); the Lunar Empire of Giganos."
+  },
+  {
+   "jp": "メタルアーマー",
+   "en": "Metal Armor",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダイン",
+   "en": "Dyne",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series. Spelling 'Dyne' follows the orchestrator's correction/Wikipedia; SRW wiki has 'Deins', other 'Dain'. Reconcile with Group A."
+  },
+  {
+   "jp": "スタークダイン",
+   "en": "Stark Dyne",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series. Min's custom Dyne (library entry 210). SRW wiki 'Stark Deis'."
+  },
+  {
+   "jp": "ダウツェン",
+   "en": "Dautzen",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series. SRW wiki 'Dauzehn'; Group A's correction file uses 'Dautzen'. Reconcile with Group A."
+  },
+  {
+   "jp": "スタークダウツェン",
+   "en": "Stark Dautzen",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series (library entry 211)."
+  },
+  {
+   "jp": "ダイン・マッフ",
+   "en": "Dyne Muff",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series (library entry 212). Wikipedia writes the related 'Falguen MAFFU'."
+  },
+  {
+   "jp": "マッフユニット",
+   "en": "Muff unit",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series (flight unit of the Muff series). Spelling follows the orchestrator's 'Dyne Muff'; Wikipedia 'MAFFU'."
+  },
+  {
+   "jp": "ドラウ",
+   "en": "Drau",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series (Giganos recon metal armor; library entry 213). SRW wiki 'Dreu'."
+  },
+  {
+   "jp": "ゲバイ",
+   "en": "Gewei",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series (Dragonar). Wikipedia/SRW wiki 'Gewei'."
+  },
+  {
+   "jp": "ドルチェノフ",
+   "en": "Dorchenov",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series. Wikipedia 'Dorchenov'."
+  },
+  {
+   "jp": "ミン",
+   "en": "Min",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series; Lee Sue Min, pilot of the Stark Dyne."
+  },
+  {
+   "jp": "ジン",
+   "en": "Zin",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series; Wikipedia gives 'Zin'."
+  },
+  {
+   "jp": "プラート博士",
+   "en": "Dr. Plato",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series; Wikipedia gives the family as 'Plato' (Meio/Linda Plato)."
+  },
+  {
+   "jp": "連合軍",
+   "en": "Alliance forces",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series (Dragonar): Earth Alliance, later Earth Federation. Reconcile with Group A."
+  },
+  {
+   "jp": "ドラグナー１型カスタム",
+   "en": "Dragonar-1 Custom",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha"
+   ],
+   "notes": "Cross-series (library entry 214 describes it)."
+  },
+  {
+   "jp": "アイアンサンド",
+   "en": "Iron Sand",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos"
+   ],
+   "notes": "Cross-series (Machine Robo): library entry 156."
+  },
+  {
+   "jp": "妖兵コマンダー",
+   "en": "Youhei Commander",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos"
+   ],
+   "notes": "Cross-series (Machine Robo): Gyandlar's commander class. Reconcile with Group A."
+  },
+  {
+   "jp": "バグ・ニューマン",
+   "en": "Bug Newman",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos"
+   ],
+   "notes": "Cross-series (Machine Robo)."
+  },
+  {
+   "jp": "クイン・マンサ",
+   "en": "Quin Mantha",
+   "category": "other",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Elpeo_Ple"
+   ],
+   "notes": "Ple Two's mobile suit (NZ-000 Quin Mantha)."
+  },
+  {
+   "jp": "第１６使徒アルミサエル",
+   "en": "Sixteenth Angel Armisael",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Armisael"
+   ],
+   "notes": "The Angel that damaged the refitted Unit-00."
+  },
+  {
+   "jp": "ナーカル商会",
+   "en": "Naacal Trading Company",
+   "category": "organization",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ernst_von_B%C3%A4hbem"
+   ],
+   "notes": "Predecessor of the Bahbem Foundation, founded 1576."
+  },
+  {
+   "jp": "オーパーツ",
+   "en": "OOPArts",
+   "category": "technology",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Ernst_von_B%C3%A4hbem"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "カルン・ムティアナ島",
+   "en": "Karun Mutiana Island",
+   "category": "location",
+   "series": "ラーゼフォン",
+   "sources": [],
+   "notes": "Where Ernst von Bahbem lives; romanization of the katakana, no English source found."
+  },
+  {
+   "jp": "Ｚプラス",
+   "en": "Zeta Plus",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006A1_Zeta_Plus_A1"
+   ],
+   "notes": "Zeta Gundam successor (MSZ-006A1 etc.)."
+  },
+  {
+   "jp": "ウェイブシューター",
+   "en": "Wave Shooter",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-006_Zeta_Gundam"
+   ],
+   "notes": "Zeta Gundam variation (Wave Shooter Equipment Type)."
+  },
+  {
+   "jp": "Ｇパーツ",
+   "en": "G-Parts",
+   "category": "technology",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/MSZ-010_%CE%96%CE%96_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コアトップ",
+   "en": "Core Top",
+   "category": "technology",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Core_Block_System"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コアベース",
+   "en": "Core Base",
+   "category": "technology",
+   "series": "機動戦士ガンダムΖΖ",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Core_Block_System"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スペースノイド",
+   "en": "Spacenoid",
+   "category": "other",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Titans"
+   ],
+   "notes": "Person born and living in space colonies."
+  },
+  {
+   "jp": "赤い彗星",
+   "en": "Red Comet",
+   "category": "title",
+   "series": "機動戦士Ζガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Char_Aznable"
+   ],
+   "notes": ""
+  }
+ ]
+}

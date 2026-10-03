@@ -1,0 +1,12 @@
+{
+ "terms": [
+  {"jp":"ニライ島","en":"Nirai Island","sources":["work/translation/en/script/stage13_campaign.json","https://www.kenoki.com/nko/about.html"],"notes":"Source explicitly distinguishes natural Nirai Island from artificial Kanai City. Akurasu RahXephon has no exact place entry; dedicated series reference corroborates the distinction. English island label is a transparent translation, not independently licensed canon."},
+  {"jp":"カナイ市","en":"Kanai City","sources":["work/translation/en/script/stage13_campaign.json","https://www.kenoki.com/nko/about.html"],"notes":"Artificial maritime experimental city constructed for ruin research; distinct from natural Nirai Island. Preserve source city designation. Exact licensed English spelling unestablished; no invented real-world identification."},
+  {"jp":"光子力せんべい","en":"Photon Power rice crackers","sources":["work/glossary/glossary.json","work/translation/en/script/stage13_campaign.json"],"notes":"Fictional Shizuoka souvenir gag: existing Photon Power term plus senbei rice crackers. Subsequent snap and Professor Yumi wry smile retained, without explaining joke in dialogue. Independent canonical English product name unestablished; not a real souvenir recommendation."},
+  {"jp":"ネリヤ神殿","en":"Neriya Temple","sources":["work/glossary/glossary.json","work/translation/en/script/stage13_campaign.json"],"notes":"Existing main literal retained; fictional RahXephon temple contains the machine. Independently canonical English label unestablished. Do not identify a real shrine or replace temple with another location category."},
+  {"jp":"第二要撃システム","en":"Second Interception System","sources":["work/translation/en/script/stage13_campaign.json"],"notes":"Literal fictional defensive system report; preserve ordinal and function. Independent canonical English label unestablished; source U08, Contact Red and D2 are operational labels and remain intact."}
+ ],
+ "characters": [
+  {"jp_full":"紫東恵","jp_short":"メグ","en_full":"Megumi Shitow","en_short":"Meg","gender":"female","personality":"bright, energetic, carefully considerate","position":"TERRA trainee operator; Haruka's younger sister","sources":["https://akurasu.net/wiki/RahXephon","work/glossary/glossary.json","work/translation/en/script/stage13_campaign.json"],"notes":"Source-short nickname in rows78/87; preserve Meg instead of expanding to Megumi. Exact full name Akurasu; gender, personality and role from existing sourced main profile, never inferred from name. Source also retains normal Megumi when written 恵."}
+ ]
+}

@@ -1,0 +1,6517 @@
+{
+ "scenes": [
+  "i025b",
+  "s0250",
+  "i025a"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "Blazing Water, Freezing Flame",
+   "scenes": [
+    "i025b",
+    "s0250",
+    "i025a"
+   ],
+   "map_scene": "s0250"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i025b:0",
+    "i025b:7",
+    "i025b:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Hyakki, Buraaai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 0
+   },
+   "notes": "Repeated salute in three original uses; retain elongated cry.",
+   "uncertain": [
+    "Exact established English catchcry spelling unconfirmed."
+   ]
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i025b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Hyakki, Buraaai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 1
+   },
+   "notes": "Same allegiance salute as Hidler.",
+   "uncertain": [
+    "Exact established English catchcry spelling unconfirmed."
+   ]
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i025b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Elite warriors of the Hyakki Empire. We of the Hyakki clan alone are worthy to rule this Earth Sphere...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 2
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i025b:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Yet it is teeming with those incompetent humans.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 3
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i025b:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Rest assured, Emperor Burai! Once we bare our fangs, those humans will be nothing to fear.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 4
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i025b:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "You inspire confidence, General Hidler...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 5
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i025b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Then turn every last human into one of the Hyakki clan... and claim this world for me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 6
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i025b:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Now, Dr. Gura... give me an outline of the plan for world conquest you have devised.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 7
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i025b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Yes, Your Majesty. The Earth Sphere, already troubled by conflicts among humans...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 8
+   },
+   "notes": "Sentence continues into row9; source boundary retained. Meaning/grammar correction: connects the human conflicts to the Earth Sphere before the sentence continues in row9.",
+   "uncertain": []
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i025b:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "...has been thrown into chaos by invaders from space and the appearance of unknown beings.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 9
+   },
+   "notes": "Completes row8 sentence.",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i025b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "We will exploit that opening and launch our invasion all at once... but there is one problem.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 10
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i025b:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "What is it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 11
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i025b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "It is the energy we use on this Hyakki Fortress Island.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 12
+   },
+   "notes": "",
+   "uncertain": [
+    "Hyakki Fortress Island exact English provenance unverified in existing glossary."
+   ]
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i025b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "What do you mean? The fortress island is operating without any problems.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 13
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i025b:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "True... if things remain as they are. However, we must conquer the world in a short span of time.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 14
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i025b:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Hmm... Mighty as my fortress island is, we will be at a disadvantage if the enemy brings superior numbers and resources to bear.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 15
+   },
+   "notes": "Meaning correction: material warfare includes resources as well as sheer numbers.",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i025b:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Yes. That is why we must prepare an overwhelming fighting force.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 16
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i025b:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "And... producing vast numbers of Hyakki Robots and Hyakki soldiers will require an enormous amount of energy.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 17
+   },
+   "notes": "Generic Hyakki robot class follows campaign_terms.json and the existing Hyakki stem; not the named Combined Hyakki Robot unit.",
+   "uncertain": [
+    "Independent canonical English wording for the standalone Hyakki robot class remains unestablished."
+   ]
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i025b:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Then how will we obtain that energy?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 18
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i025b:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "We shall obtain the Getter Ray amplifier developed at the Saotome Institute.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 19
+   },
+   "notes": "Ignore stray closing wrapper and trailing break per brief. Getter Ray amplifier follows newly sourced campaign_terms.json: SRW Wiki equates amplification reactor/device, and Akurasu uses Getter Ray amplifier. Coordinator name correction retained after meaning review; initial draft preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i025b:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Then, once we improve and mass-produce it, installing those reactors on this fortress island should solve our energy problem in one stroke.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 20
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i025b:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Very well... General Hidler, send Hyakki Robots to the Saotome Institute immediately.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 21
+   },
+   "notes": "Generic Hyakki robot class follows campaign_terms.json and the existing Hyakki stem; not the named Combined Hyakki Robot unit.",
+   "uncertain": [
+    "Independent canonical English wording for the standalone Hyakki robot class remains unestablished."
+   ]
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i025b:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "And raise the Hyakki Empire's signal of war for all the world to see.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 22
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i025b:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "幽羅帝",
+   "speaker_en": "Yuratei",
+   "en": "You wish to offer me your opinion... What is it, Saiga?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 23
+   },
+   "notes": "Scene changes from Hyakki command to Yuratei and Saiga.",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i025b:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Tekkoryu.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 24
+   },
+   "notes": "Tekkoryu organization; no explanatory alias appended.",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i025b:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "幽羅帝",
+   "speaker_en": "Yuratei",
+   "en": "Besides Zeorymer, you say...? Who are these people?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 25
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i025b:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "I believe Your Majesty has already heard of them...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 26
+   },
+   "notes": "Polite lead-in trails into row27.",
+   "uncertain": []
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i025b:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "They are the Nahel Argama unit that appeared after the battle between Zeorymer and Lanstar.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 27
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "i025b:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "幽羅帝",
+   "speaker_en": "Yuratei",
+   "en": "I believe I heard they are a unit assembled from super robots... Could they become an obstacle to us?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 28
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "i025b:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "They are not yet... but eventually they will be.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 29
+   },
+   "notes": "Explicit future threat inferred from Yuratei question; subject and verb restored.",
+   "uncertain": []
+  },
+  {
+   "id": 30,
+   "uses": [
+    "i025b:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Besides... Zeorymer may be incorporated into that unit, just as the other super robots were.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 30
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "i025b:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "幽羅帝",
+   "speaker_en": "Yuratei",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage07_campaign.json",
+    "id": 78
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "i025b:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "To fulfill Your Majesty's long-cherished wish, I believe we should nip them in the bud before they can grow.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 31
+   },
+   "notes": "Saiga recommends eliminating unit to achieve Yuratei ambition.",
+   "uncertain": []
+  },
+  {
+   "id": 33,
+   "uses": [
+    "i025b:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "幽羅帝",
+   "speaker_en": "Yuratei",
+   "en": "Very well. I shall send Fire and Water against them at once.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 32
+   },
+   "notes": "Fire and Water refer to Shi sisters and their elemental robots; keep labels.",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "i025b:36"
+   ],
+   "kind": "thought",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Heh heh heh, just as I wanted...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 33
+   },
+   "notes": "Actual thought; private scheming laugh.",
+   "uncertain": []
+  },
+  {
+   "id": 35,
+   "uses": [
+    "i025b:37"
+   ],
+   "kind": "thought",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "I had best reduce the ranks of my potential enemies early... even if they are fellow Hakkeshu.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 34
+   },
+   "notes": "Actual thought; Hakkeshu identifies Saiga fellow elite pilots as rivals.",
+   "uncertain": [
+    "Source abbreviated Hakke interpreted as Hakkeshu elite pilots from Fire/Water and personal-rival context."
+   ]
+  },
+  {
+   "id": 36,
+   "uses": [
+    "i025b:38",
+    "i025b:55",
+    "i025b:68",
+    "s0250:308",
+    "s0250:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 35
+   },
+   "notes": "Silence checked at all five original uses.",
+   "uncertain": []
+  },
+  {
+   "id": 37,
+   "uses": [
+    "i025b:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "What you see in this footage is you, Masato Akitsu...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 36
+   },
+   "notes": "New scene: Oki shows Masato footage of laboratory cultivation.",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "i025b:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "That's me...? That's me inside the test tube...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 37
+   },
+   "notes": "Masato recoils at image of himself inside test tube. Meaning correction: repeated demonstrative expresses shocked self-recognition; do not add dehumanizing disdain with thing.",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "i025b:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "That is correct.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 38
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 40,
+   "uses": [
+    "i025b:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "What do you mean...!? Are you saying... I was a test-tube baby!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 39
+   },
+   "notes": "Masato addresses Oki about his image in a test tube; preserves incredulous double question.",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "i025b:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "You were grown in pure culture for a certain purpose... You are the only specimen of your kind on Earth.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 40
+   },
+   "notes": "Oki explains deliberate pure-culture creation and unique individual status on Earth.",
+   "uncertain": []
+  },
+  {
+   "id": 42,
+   "uses": [
+    "i025b:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 41
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "i025b:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Yes... You were made to pilot Zeorymer.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 42
+   },
+   "notes": "Miku confirms Oki and explicitly restores Masato as the person created for piloting.",
+   "uncertain": []
+  },
+  {
+   "id": 44,
+   "uses": [
+    "i025b:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "N-no...! Th-that's a lie...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 43
+   },
+   "notes": "Retains both stutters and denial.",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "i025b:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "It's reality. Accept it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 44
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 46,
+   "uses": [
+    "i025b:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "So... so that's why you're telling me to fight Hau Dragon in Zeorymer!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 45
+   },
+   "notes": "Masato asks whether Oki is commanding him to fight; request direction is Oki to Masato.",
+   "uncertain": []
+  },
+  {
+   "id": 47,
+   "uses": [
+    "i025b:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "Yes. That is your destiny.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 46
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "i025b:50"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm... a human created to pilot Zeorymer...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 47
+   },
+   "notes": "Actual thought; restores first-person copula while preserving trailing realization.",
+   "uncertain": []
+  },
+  {
+   "id": 49,
+   "uses": [
+    "i025b:51"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "And Miku Himuro was, too...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 48
+   },
+   "notes": "Actual thought; completes the context-settled parallel claim about Miku while retaining the trailing ellipsis.",
+   "uncertain": []
+  },
+  {
+   "id": 50,
+   "uses": [
+    "i025b:52"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "But even a test-tube baby... must have people who supplied the sperm and egg.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 49
+   },
+   "notes": "Actual thought; sperm and egg donor detail retained.",
+   "uncertain": []
+  },
+  {
+   "id": 51,
+   "uses": [
+    "i025b:53"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "And if we had the same donors... does that mean Miku and I are brother and sister...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 50
+   },
+   "notes": "Actual thought; shared donors refers to Masato and Miku having the same origins, not one person supplying both gametes.",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "i025b:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Masato.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 51
+   },
+   "notes": "Vocative only, as in source.",
+   "uncertain": []
+  },
+  {
+   "id": 53,
+   "uses": [
+    "i025b:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Oki told you about Tekkoryu... Hau Dragon, didn't he?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 52
+   },
+   "notes": "Source speaks both Tekkoryu and its Hau Dragon reading/name; both retained.",
+   "uncertain": []
+  },
+  {
+   "id": 54,
+   "uses": [
+    "i025b:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "He did. An army of robots plotting to rule the world, right? Fine by me. It's nothing to do with me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 53
+   },
+   "notes": "Masato dismisses Hau Dragon as irrelevant to him; army, robots and world-rule plot retained.",
+   "uncertain": []
+  },
+  {
+   "id": 55,
+   "uses": [
+    "i025b:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Heh heh heh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 54
+   },
+   "notes": "Quiet laugh, contrasting with Masato anxiety.",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "i025b:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "What's so funny?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 55
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 57,
+   "uses": [
+    "i025b:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "You'll fight them in Zeorymer. That is your fate.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 56
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 58,
+   "uses": [
+    "i025b:61"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Why!? How can you be so calm about this!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 57
+   },
+   "notes": "Masato challenges Miku calmness; this is not a question about his own composure.",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "i025b:62"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 58
+   },
+   "notes": "Intentional silence.",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "i025b:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "How can you accept being a human created solely to pilot that robot...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 59
+   },
+   "notes": "Masato challenges Miku acceptance of being made solely to pilot; context-settled second person.",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "i025b:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Being human means... well, you know... all sorts of things...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 60
+   },
+   "notes": "Deliberately stumbling unfinished explanation; no clear further predicate exists in source.",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "i025b:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Does it? Don't all humans live with some destiny laid out for them from the start?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 61
+   },
+   "notes": "Miku questions Masato objection, then proposes inborn destiny for everyone.",
+   "uncertain": []
+  },
+  {
+   "id": 63,
+   "uses": [
+    "i025b:66",
+    "i025b:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 62
+   },
+   "notes": "Same exclamation serves i025b:66 after destiny question and i025b:73 after two Hakke robots report.",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "i025b:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "And for us, that destiny was Zeorymer... That's what I think, Masato.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 63
+   },
+   "notes": "Miku includes both herself and Masato; explicit personal belief ending retained.",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "i025b:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage07_campaign.json",
+    "id": 24
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "i025b:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Oki, what's happened!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 64
+   },
+   "notes": "Natural complete response; no source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "i025b:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "The Saotome Institute on Mount Asama is under attack by a mysterious force of mobile weapons...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 65
+   },
+   "notes": "Oki reports ongoing attack; Mount Asama and generic mobile weapons retained. Mount Asama confirmed by centralized campaign_terms entry (Akurasu Getter Robo; official JNTO).",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "i025b:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "And... we've had a report that two Hakke robots are heading there.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 66
+   },
+   "notes": "Oki reports two Hakke robots en route to the institute.",
+   "uncertain": []
+  },
+  {
+   "id": 69,
+   "uses": [
+    "i025b:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "The Hakke robots are heading to Saotome Institute instead of here...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 67
+   },
+   "notes": "Miku contrasts the institute with their current location; restores heading verb.",
+   "uncertain": []
+  },
+  {
+   "id": 70,
+   "uses": [
+    "i025b:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "We don't know why. Federation troops are fighting back, but it's only a matter of time before they're overrun...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 68
+   },
+   "notes": "Overrun refers to the defending Federation troops; uncertainty concerns enemy motive.",
+   "uncertain": []
+  },
+  {
+   "id": 71,
+   "uses": [
+    "i025b:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "The Nahel Argama unit is heading toward Mount Asama to help, but we'll deploy Zeorymer as well.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 69
+   },
+   "notes": "Both Nahel Argama relief movement and Oki decision to deploy Zeorymer retained. Mount Asama confirmed by centralized campaign_terms entry (Akurasu Getter Robo; official JNTO).",
+   "uncertain": []
+  },
+  {
+   "id": 72,
+   "uses": [
+    "i025b:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Is that all right? Making contact with that unit...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 70
+   },
+   "notes": "Miku asks permission with concern about contact; second clause deliberately trails off.",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "i025b:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "沖",
+   "speaker_en": "Oki",
+   "en": "If we're facing Hakke robots, that's a different matter. Launch at once.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 71
+   },
+   "notes": "Oki orders Miku and Masato to launch; opposing Hakke robots overrides contact concern.",
+   "uncertain": []
+  },
+  {
+   "id": 74,
+   "uses": [
+    "i025b:79"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Understood. ...We're going, Masato.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 72
+   },
+   "notes": "Miku acknowledges Oki, then addresses Masato.",
+   "uncertain": []
+  },
+  {
+   "id": 75,
+   "uses": [
+    "i025b:80"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Do I... have no choice but to pilot that thing...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 73
+   },
+   "notes": "Actual thought; Masato doubts whether he has any alternative to piloting.",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0250:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0250:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0250:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0250:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0250:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0250:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0250:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0250:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0250:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0250:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0250:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0250:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0250:12",
+    "s0250:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0250:13",
+    "s0250:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0250:14",
+    "s0250:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0250:15",
+    "s0250:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0250:16",
+    "s0250:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0250:17",
+    "s0250:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0250:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0250:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0250:20",
+    "s0250:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0250:21",
+    "s0250:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0250:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0250:24",
+    "s0250:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0250:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0250:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0250:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0250:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0250:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0250:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0250:32",
+    "s0250:33",
+    "s0250:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0250:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0250:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0250:36",
+    "s0250:37",
+    "s0250:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0250:39",
+    "s0250:40",
+    "s0250:174",
+    "s0250:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0250:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0250:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0250:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0250:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0250:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0250:46",
+    "s0250:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0250:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0250:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0250:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0250:50",
+    "s0250:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0250:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0250:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0250:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0250:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0250:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0250:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0250:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0250:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0250:59",
+    "s0250:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0250:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0250:61",
+    "s0250:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0250:62",
+    "s0250:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0250:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0250:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0250:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0250:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0250:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0250:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0250:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0250:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0250:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0250:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0250:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0250:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0250:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0250:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0250:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0250:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0250:79",
+    "s0250:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0250:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0250:81",
+    "s0250:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0250:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0250:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0250:84",
+    "s0250:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0250:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0250:86",
+    "s0250:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0250:87",
+    "s0250:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0250:88",
+    "s0250:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0250:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0250:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0250:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0250:92",
+    "s0250:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0250:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0250:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0250:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0250:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0250:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0250:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0250:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0250:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0250:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0250:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0250:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0250:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0250:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0250:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0250:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0250:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0250:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0250:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0250:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0250:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0250:113",
+    "s0250:114",
+    "s0250:115",
+    "s0250:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0250:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0250:117",
+    "s0250:161",
+    "s0250:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0250:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0250:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0250:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0250:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0250:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0250:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0250:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0250:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0250:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0250:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0250:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0250:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0250:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0250:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0250:132",
+    "s0250:133",
+    "s0250:134",
+    "s0250:156",
+    "s0250:188",
+    "s0250:189",
+    "s0250:190",
+    "s0250:191",
+    "s0250:192",
+    "s0250:193",
+    "s0250:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0250:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0250:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0250:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0250:138",
+    "s0250:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0250:139",
+    "s0250:148",
+    "s0250:152",
+    "s0250:154",
+    "s0250:164",
+    "s0250:165",
+    "s0250:198",
+    "s0250:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0250:140",
+    "s0250:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0250:141",
+    "s0250:142",
+    "s0250:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0250:143",
+    "s0250:149",
+    "s0250:153",
+    "s0250:155",
+    "s0250:162",
+    "s0250:163",
+    "s0250:199",
+    "s0250:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0250:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0250:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0250:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0250:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0250:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0250:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0250:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0250:160",
+    "s0250:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0250:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0250:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0250:206",
+    "s0250:330"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 0
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0250:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. An enemy unit reaches Saotome Institute@2. An allied mothership is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 74
+   },
+   "notes": "Plain defeat-condition list; exactly one @ retained and no speaker added.",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0250:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Those aren't Mechasauruses...! Who on earth are they!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 75
+   },
+   "notes": "Saotome recognizes the attackers are not Dinosaur Empire machines, before Hidler identifies himself. Generic Mechasaurus and plural Mechasauruses confirmed by centralized campaign_terms entry (Akurasu Getter Robo episode2 / Mech List).",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0250:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Heh heh heh... I am General Hidler of the Hyakki Empire.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 76
+   },
+   "notes": "Hidler introduces himself to Saotome; source rank maps to locked General Hidler.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0250:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "The Hyakki Empire...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 77
+   },
+   "notes": "Saotome repeats unfamiliar organization name in surprise; deliberate echo fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0250:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Indeed. Under Emperor Burai, ours is the empire of the Hyakki clan that will rule the entire world in place of you foolish humans.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 78
+   },
+   "notes": "Hidler addresses Dr. Saotome; racial supremacy and replacing human rule preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0250:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "You mean to rule the entire world...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 79
+   },
+   "notes": "Saotome responds in alarm; subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0250:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "The Hyakki are the finest clan in this world... So it is only natural that the entire world should be ruled by us!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 80
+   },
+   "notes": "Hidler asserts supremacy as justification for world rule.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0250:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "And we shall turn every last one of you humans into demons!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 81
+   },
+   "notes": "Hidler promises forced transformation of every human, with no exception.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0250:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "You intend not only to rule the world, but to remake us humans as well...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 82
+   },
+   "notes": "Saotome explicitly includes humanity and forced remaking.",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0250:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "As the first step in our plan for world conquest, we shall seize your Getter Ray amplifier!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 83
+   },
+   "notes": "Amplifier term follows campaign_terms; first step of world-conquest plan retained.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0250:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 84
+   },
+   "notes": "Source shock punctuation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0250:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Now, go! Hyakki robots!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 85
+   },
+   "notes": "Orders addressed to generic Hyakki robots; plural follows the enemy group.",
+   "uncertain": []
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0250:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Stop right there! I won't let you lay a finger on the institute!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 86
+   },
+   "notes": "Ryoma addresses attackers and promises to defend the institute.",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0250:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "What!? Who are they!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 87
+   },
+   "notes": "Hidler notices arriving allies; interrogative restored.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0250:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "The Getter Team... And the Nahel Argama squad! You've made it in time!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 88
+   },
+   "notes": "Saotome recognizes both arriving forces; Getter Team and Nahel Argama squad retained.",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0250:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Father, are you all right!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 89
+   },
+   "notes": "Michiru checks her father, Dr. Saotome.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0250:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Don't worry about me. More importantly, their aim is to seize the institute's Getter Ray amplifier!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 90
+   },
+   "notes": "Saotome redirects Michiru from his safety to enemy objective.",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0250:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "They want the amplifier...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 91
+   },
+   "notes": "Ryoma echoes the seizure objective; subject and verb restored.",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0250:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "They're the exact opposite of the Dinosaur Empire.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 92
+   },
+   "notes": "Hayato contrasts seizure with Dinosaur Empire destruction.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0250:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Yeah... They feared Getter Rays and aimed to destroy the facilities and equipment connected with them.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 93
+   },
+   "notes": "They refers to the Dinosaur Empire, not the current attackers; both facilities and equipment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0250:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "So this lot wants to use Getter Rays to conquer the world, huh?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 94
+   },
+   "notes": "Hayato infers the current enemies intend conquest using Getter Rays.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0250:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Precisely! We of the Hyakki clan are the ones fit to rule this world!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 95
+   },
+   "notes": "Hidler confirms Hayato and asserts Hyakki entitlement.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0250:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "In a way, they're pretty easy to understand.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 96
+   },
+   "notes": "Asuka dryly calls their motives easy to understand; qualification retained.",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0250:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Exactly. They aren't spouting complicated slogans about humanity's evolution or a better world order.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 97
+   },
+   "notes": "Light answers Asuka; ideological slogans are examples, not claims about Hyakki aims. Stray Japanese closing wrapper ignored.",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0250:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Hyakki, hiccups, whatever you are, I won't let you have your way!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 98
+   },
+   "notes": "Benkei deliberately confuses Hyakki with hiccups; exact joke objects retained. Sound play is imperfect in English.",
+   "uncertain": [
+    "Japanese Hyakki/hiccups sound play cannot be reproduced directly; preserved deliberate misnaming."
+   ]
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0250:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "If you stand in our way, we will show no mercy, whoever you are! Hyakki robots, begin your attack!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 99
+   },
+   "notes": "Hidler threatens anyone opposing him, then commands robots.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0250:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Ryo, don't let them get anywhere near the institute!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 100
+   },
+   "notes": "Hayato tells Ryoma to exclude enemies from institute; nickname Ryo preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0250:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Yeah, I know!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 101
+   },
+   "notes": "Ryoma confirms he understands Hayato.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0250:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All units, launch at once! Defend the Saotome Institute!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 102
+   },
+   "notes": "Bright commands all units; shortened institute source expands to fixed Saotome Institute.",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0250:236",
+    "s0250:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Grrr! They have this much power...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 103
+   },
+   "notes": "Repeated defeat-event uses checked; surprise at allied strength and trailing amazement retained.",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0250:238",
+    "s0250:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Grr! If only we could use Twin Lord...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 104
+   },
+   "notes": "Repeated defeat-event uses checked; unrealized conditional deliberately trails off. We refers to twin pilots.",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0250:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Damn it, remember this! I'll make you regret defying the Hyakki Empire!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 105
+   },
+   "notes": "Hidler retreat threat; warning and regret preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0250:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "We will defeat you and make this world the property of the Hyakki clan!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 106
+   },
+   "notes": "Hidler combat boast to Getter Team; explicit we and clan ownership retained.",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0250:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "What the hell are you talking about!? We'll smash your ambitions to pieces!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 107
+   },
+   "notes": "Benkei rebuts Hidler roughly; smash their ambitions retained.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0250:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Yeah...! Those lizards are waiting for you in hell.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 108
+   },
+   "notes": "Hayato refers to fallen Dinosaur Empire enemies as lizards; hell threat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0250:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Hmph! Do not lump us together with those reptilian humans!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 109
+   },
+   "notes": "Hidler rejects comparison to the Dinosaur Empire species; source creature label rendered literally as reptilian humans.",
+   "uncertain": [
+    "Literal reptilian humans for the Dinosaur Empire species label; exact fixed English glossary entry requested from root."
+   ]
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0250:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "We have no choice... I'm going in!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 110
+   },
+   "notes": "Shi-Aen initiates attack on Zeorymer; no-choice rationale retained.",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0250:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "W-why are you attacking me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 111
+   },
+   "notes": "Masato addresses attackers; attacking restored from event context but distressed interruption retained.",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0250:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Zeorymer...! With my own hands alone, I will...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 112
+   },
+   "notes": "Shi-Tau targets Zeorymer and insists on personal action; deliberate unfinished threat retained with subject and verb.",
+   "uncertain": []
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0250:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I-it's coming!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 113
+   },
+   "notes": "Masato warns of the incoming attack after Shi-Tau threatens Zeorymer. Neutral it avoids unsupported plural or gender referent.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0250:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Calm down... Keep your head and deal with them!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 114
+   },
+   "notes": "Miku steadies Masato and tells him to respond calmly.",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0250:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Hyakki Empire! If you threaten the peace, we'll take you on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 115
+   },
+   "notes": "Duke directly challenges Hyakki Empire over threats to peace.",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0250:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Impudent fools! The thought of mere humans challenging us is laughable!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 116
+   },
+   "notes": "Hidler contemptuously dismisses humans daring to fight Hyakki.",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0250:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You demons are a bunch of dirty cowards, attacking the Saotome Institute while Ryo and the rest of us were away!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 117
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0250:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Silence, humans! Even if you all band together, you amount to nothing!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 118
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0250:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Raideen of Mutropolis, is it? In time, we shall claim the power of Mutron as well!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 119
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0250:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Are these guys trying to steal super energy!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 120
+   },
+   "notes": "Explicitly preserves energy theft rather than merely being after energy; no unsupported our.",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0250:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Argh! Stop darting around, you annoying little pest!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 121
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0250:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Heh! Over here, demon! Come toward the sound of my clapping!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 122
+   },
+   "notes": "Preserves the demon-tag clapping taunt.",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0250:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Demons or whatever you are, all you crooks pull the same old tricks!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 123
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0250:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Silence, boy! I won't let the likes of you thwart the Hyakki clan's first step toward world conquest!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 124
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0250:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I thought demons only existed in fairy tales, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 125
+   },
+   "notes": "Retains deliberate trailing but...",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0250:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Come on, you demon bastard! We'll pelt you with beans!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 126
+   },
+   "notes": "Preserves bean-throwing demon joke.",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0250:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Boy! You dare mock the Hyakki clan!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 127
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0250:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "The enemy's a demon... A demon... The enemy isn't human...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 128
+   },
+   "notes": "Shinji reassures himself; subject restored in final nonhuman statement. Source kind remains dialogue.",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0250:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "What are you mumbling about!? Don't lump the Hyakki clan in with you stupid, spineless humans!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 129
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0250:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "The enemy isn't human...! So... so I don't need to hesitate...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 130
+   },
+   "notes": "Restores I as the one who need not hesitate.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0250:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "You've come, fool! I'll crush you beneath this Yousaiki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 131
+   },
+   "notes": "Source-short Yousaiki from glossary Mecha Yousaiki; no added Mecha. Source-short Yousaiki confirmed by main Akurasu mapping and Hidler mothership context; central alias recorded.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0250:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Be careful, #男愛称! That's the enemy's mothership!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 132
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0250:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "We're fighting demons! I'll blast them with my peashooter!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 133
+   },
+   "notes": "Peashooter retains bean-gun/pigeon joke continued at134.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0250:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hold on! Beans are one thing, but you aim a peashooter at pigeons, not demons!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 134
+   },
+   "notes": "Pigeon contrast preserved rather than explaining idiom.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0250:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Don't sweat the details!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 135
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0250:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Have you joined forces with the Hyakki Empire!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 136
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0250:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "What nonsense... Tekkoryu shall rule the world... We have no need of allies!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 137
+   },
+   "notes": "Tekkoryu uses glossary organization root without parenthetical gloss.",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0250:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau, remember to coordinate with me! It's dangerous to underestimate this opponent!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 138
+   },
+   "notes": "Aen asks Tau to coordinate with her; opponent is Ryoma.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0250:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Grr... I know that without you telling me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 139
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0250:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "You fool! You're stupid enough to attack me!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 140
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0250:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Calm down, Tau! We can only show our true strength by working together!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 141
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0250:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "I don't need orders, Sister! I can handle an opponent like this all by myself!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 142
+   },
+   "notes": "Sister preserves elder-sister address.",
+   "uncertain": []
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0250:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "What... The pilots of those red and blue machines are sisters...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 143
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0250:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "That has nothing to do with this battle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 144
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0250:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "Yes, it does! Sisters are strong because they help each other! Just like me and Ple Two!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 145
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0250:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Don't slip up, Hokuto! Those red and blue robots... I bet they're planning something!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 146
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0250:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I know, Ginga! Just make sure you don't charge in too far yourself!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 147
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0250:283"
+   ],
+   "kind": "thought",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "This machine... It has two pilots... And the two are perfectly in sync...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 148
+   },
+   "notes": "Thought: Aen observes Ginga and Hokuto coordinating in their two-seat machine.",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0250:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "You think you're so clever...! Sister, let me take on this blue robot!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 149
+   },
+   "notes": "Tau contemptuously dismisses the two pilots' coordination and asks her elder sister to let her fight the blue robot.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0250:285"
+   ],
+   "kind": "thought",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... We're sisters with the same face, so why are our hearts so far apart...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 150
+   },
+   "notes": "Thought contrasts identical faces and emotional estrangement.",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0250:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I'm going in! #女愛称, keep the power output steady!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 151
+   },
+   "notes": "Hugo orders Aqua to stabilize output; runtime labels retained.",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0250:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I'm already doing that! You don't have to tell me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 152
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0250:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Woman... It seems you're nothing more than that man's assistant.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 153
+   },
+   "notes": "Tau belittles Aqua as support to Hugo.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0250:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 157
+   },
+   "notes": "Wordless shock at the threat of death; retained punctuation-only source.",
+   "uncertain": []
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0250:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Lament your fate: serving someone else until the end, without a chance to show your own strength.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 154
+   },
+   "notes": "Tau attacks Aqua's role; no added gender inference.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0250:291",
+    "s0250:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 155
+   },
+   "notes": "Both uses are Aen admonishing Tau, including event11 after source owner180.",
+   "uncertain": []
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0250:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "#女愛称! Don't fall for the enemy's sweet talk! In a real battle...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 156
+   },
+   "notes": "Hugo interrupts his combat advice when Aqua insists she already understands; keep the trailing clause.",
+   "uncertain": []
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0250:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I know without you telling me every little thing! And I do take pride in my own role, you know!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 157
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0250:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Yeah! That's the spirit, #女愛称!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 158
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0250:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "What!? Who are they!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 159
+   },
+   "notes": "Ryoma sees newly arriving Hakke robots; retain surprise and identification question.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0250:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Could those be Hakke robots...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 160
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0250:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Hmph. So someone besides us is after the Saotome Institute?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 161
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0250:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "So that's the Nahel Argama squad...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 162
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0250:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "It seems some unfamiliar visitors got here before us. Tau, they're...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 163
+   },
+   "notes": "Shi-Aen starts explaining the unfamiliar Hyakki visitors to Tau and is interrupted.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0250:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "I know without you telling me every little thing, Sister.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 164
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0250:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Our target is the Nahel Argama squad. Don't engage those others... That's what you mean, isn't it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 165
+   },
+   "notes": "Tau preempts Aen: their target is the allied squad, not the Hyakki force.",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0250:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "...Yes, that's right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 166
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0250:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Then we, the Shi sisters of the Hakkeshu, masters of Water and Fire...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 167
+   },
+   "notes": "Self-introduction continues into Aen's challenge in168; preserve unfinished sentence.",
+   "uncertain": []
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0250:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Here we come!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 168
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0250:305"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Ignore them! Occupy the institute as quickly as possible!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 169
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0250:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Sister! These readings...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 170
+   },
+   "notes": "Recognition fragment introducing the Zeorymer readings.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0250:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Could it be that thing!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 171
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0250:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Zeorymer...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 172
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0250:310"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "That's Dr. Kihara's...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 173
+   },
+   "notes": "Misato recognizes Zeorymer as Dr. Kihara's machine; deliberately unfinished possessive.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0250:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Damn you, Zeorymer. You detected our signatures and came out?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 174
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0250:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Perfect. If we reclaim it with our own hands right here, the Empress will be pleased.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 175
+   },
+   "notes": "The Empress is Yuratei, whose glossary explicitly records female gender.",
+   "uncertain": []
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0250:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Wait, Tau. Yuratei's orders are strictly to annihilate the Nahel Argama squad...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 176
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0250:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "We shouldn't engage Zeorymer right now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 177
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0250:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "What are you saying, Sister? Taking the Heavens is the Empress's true wish. If we retreat here, we'll disgrace the Hakkeshu name!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 178
+   },
+   "notes": "Heavens is the short elemental designation of Zeorymer, not a literal place.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0250:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Stop acting on your own! Have you forgotten about working together!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 179
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0250:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "That means nothing while we still can't use Twin Lord!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 180
+   },
+   "notes": "That refers to coordinated fighting in179; Twin Lord spelling from glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0250:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "They call Fire and Water a pair of Hakke robots...! They say they share the same fate as us sisters...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 181
+   },
+   "notes": "Indignant quoted comparison: paired Fire/Water robots parallel the two sisters. Preserve repeated hearsay fragments; source wording does not specify the person making the comparison.",
+   "uncertain": [
+    "Source comparison is deliberately fragmentary; paired Fire/Water and the sisters' shared fate are retained as indignant hearsay."
+   ]
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0250:320"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "My Gallowin of the Waters alone is more than enough to take that thing on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 182
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0250:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Masato, are you ready? We're going to stop the Hakke robots.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 183
+   },
+   "notes": "Miku asks Masato to prepare for the fight; no direction reversal.",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0250:322"
+   ],
+   "kind": "thought",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "...This is... Are you saying this is my fate...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 184
+   },
+   "notes": "Masato echoes the pre-battle revelation that piloting Zeorymer is his fate; thought.",
+   "uncertain": []
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0250:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Can you hear me? I'm switching to combat mode.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 185
+   },
+   "notes": "Miku announces her own combat-mode switch, addressing the silent Masato.",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0250:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Masato... If you have no intention of fighting, why did you get into Zeorymer?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 186
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0250:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I can't go back to where I used to be anymore. This is the only place I belong...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 187
+   },
+   "notes": "Masato answers why he boarded: nowhere else to belong after his origin revelation.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0250:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "That's right, isn't it, Miku?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 188
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0250:328"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "...Concentrate on the battle for now. The Hakke robots are going to come after us.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 189
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0250:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "...All right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 190
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0250:331"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. An enemy unit reaches Saotome Institute@2. Zeorymer is shot down@3. An allied mothership is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 191
+   },
+   "notes": "Defeat conditions; preserve three plain segments and their original order.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0250:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Damn...! If only I could have coordinated with Gallowin!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 192
+   },
+   "notes": "Separate defeat event; counterfactual regret about failed coordination, not a promise.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0250:333"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シ・タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Is this all I can do on my own...!? No, that can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 193
+   },
+   "notes": "Separate defeat event; Tau rejects that fighting alone has reached its limit.",
+   "uncertain": []
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0250:334"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "Grr! Should I withdraw for now and rethink our strategy...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 194
+   },
+   "notes": "Hidler's separate retreat event, phrased as his own deliberation.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0250:335"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The enemy signals have disappeared.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 195
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0250:336"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "What about Last Guardian's Zeorymer?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 196
+   },
+   "notes": "Bright asks the status of the same Zeorymer whose communications Torres reports cut in197; restored question predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0250:337"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "They've cut off communications. I doubt there's any point in trying to contact them...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 197
+   },
+   "notes": "Zeorymer crew deliberately cut their link; plural they avoids assuming which pilot acted.",
+   "uncertain": []
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0250:338"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Masato, we're heading back.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 198
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0250:339"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Yeah...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 199
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0250:340"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "That robot's gone off again.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 200
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0250:341"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I wonder what sort of person is piloting it...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 201
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0250:342"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage02_campaign.json",
+    "id": 232
+   },
+   "notes": "Source silence retained; deliberate nonverbal fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "i025a:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Judging by the fact that no place besides this institute has come under attack...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 202
+   },
+   "notes": "Source inference clause deliberately continues into203.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "i025a:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "I believe it will be some time before the Hyakki Empire begins a full-scale invasion.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 203
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "i025a:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "So... you're saying they're building up their forces right now?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 204
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "i025a:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Indeed.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 205
+   },
+   "notes": "Ignored stray closing bracket and trailing source @ as directed by brief.",
+   "uncertain": []
+  },
+  {
+   "id": 354,
+   "uses": [
+    "i025a:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "So they came after the Getter Ray amplifier to mass-produce those weapons they call Hyakki robots...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 206
+   },
+   "notes": "Source calls the enemy weapons those called Hyakki robots; retained this distancing and mass-production purpose.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "i025a:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "That's not all. They'll also seek Photon Power energy, Mutron, photonic energy, Daimolite, and...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 207
+   },
+   "notes": "Energy list and ellipsis continue into208; seek restores the source-settled shared verb.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "i025a:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "even the energy used by that mobile weapon belonging to Last Guardian.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 208
+   },
+   "notes": "Deliberate continuation of207, whose verb seek governs this object; no added Zeorymer name.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "i025a:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "So the Hyakki Empire's immediate goal is to acquire those super energies?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 209
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 358,
+   "uses": [
+    "i025a:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Yes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 210
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 359,
+   "uses": [
+    "i025a:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Then the Nahel Argama unit might become their target.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 211
+   },
+   "notes": "Nahel Argama unit is the task force, not just its carrier. Ignored stray closing bracket/trailing source @.",
+   "uncertain": []
+  },
+  {
+   "id": 360,
+   "uses": [
+    "i025a:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Yeah. Our unit's practically a trade show for special energy sources.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 212
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 361,
+   "uses": [
+    "i025a:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "We'll ask the Earth Federation Army to reinforce our security here. You must all be very careful, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 213
+   },
+   "notes": "Source-backed organization name expanded to exact glossary Earth Federation Army after meaning review.",
+   "uncertain": []
+  },
+  {
+   "id": 362,
+   "uses": [
+    "i025a:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Understood.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 214
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 363,
+   "uses": [
+    "i025a:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Well then, we'll be going...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 215
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 364,
+   "uses": [
+    "i025a:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Misato, could you head back ahead of us? We have something to take care of.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 216
+   },
+   "notes": "Ryoma asks Misato to return ahead while the Getter Team stays to visit Musashi; request direction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 365,
+   "uses": [
+    "i025a:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Yes, of course.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 217
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 366,
+   "uses": [
+    "i025a:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Musashi, another new enemy has appeared before us...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 218
+   },
+   "notes": "Addressed to deceased Musashi, whose identity/death is recorded in campaign_terms.",
+   "uncertain": []
+  },
+  {
+   "id": 367,
+   "uses": [
+    "i025a:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "But you can rest in peace.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 219
+   },
+   "notes": "Musashi is deceased; sleep rendered as peaceful rest, not physical sleep.",
+   "uncertain": []
+  },
+  {
+   "id": 368,
+   "uses": [
+    "i025a:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "We'll protect the peace of the Earth in your place, Musashi.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 220
+   },
+   "notes": "Address continues to Musashi. Decorative senpai dropped; promise and determination retained. Removed draft Count on us because it added a request absent from this promise.",
+   "uncertain": []
+  },
+  {
+   "id": 369,
+   "uses": [
+    "i025a:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "We... probably won't be able to come back to the institute for a while again, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 221
+   },
+   "notes": "Deliberate trailing concession to deceased Musashi; institute return is not a combat retreat.",
+   "uncertain": []
+  },
+  {
+   "id": 370,
+   "uses": [
+    "i025a:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "You're always in our hearts.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 222
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 371,
+   "uses": [
+    "i025a:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "So please wait here with the doctor until we come home...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 223
+   },
+   "notes": "Doctor is Saotome. Ryoma asks Musashi to await their return, keeping memorial conceit.",
+   "uncertain": []
+  },
+  {
+   "id": 372,
+   "uses": [
+    "i025a:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Getter Robo... So you have indeed become an obstacle to us.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 224
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 373,
+   "uses": [
+    "i025a:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "I-I'm terribly sorry, Emperor Burai.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 225
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 374,
+   "uses": [
+    "i025a:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Very well. For now, let us be satisfied that we obtained valuable data.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 226
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 375,
+   "uses": [
+    "i025a:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Dr. Gura, begin mass production of Hyakki robots on Hyakki Fortress Island as it stands now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 227
+   },
+   "notes": "Actual supplied speaker label Dr. Gura retained also in address, per source-backed fixed name.",
+   "uncertain": [
+    "Hyakki Fortress Island is the existing glossary literal, whose canonical English source remains unestablished."
+   ]
+  },
+  {
+   "id": 376,
+   "uses": [
+    "i025a:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "But that will take time to complete...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 228
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 377,
+   "uses": [
+    "i025a:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "No matter. Let us have Getter Robo and its allies work as hard as they can for us.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 229
+   },
+   "notes": "Getter Robo and its allies is the contemptuous collective;230 explains Burai means letting them remove rival obstacles.",
+   "uncertain": []
+  },
+  {
+   "id": 378,
+   "uses": [
+    "i025a:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Then we shall have them eliminate those who stand in our way.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 230
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 379,
+   "uses": [
+    "i025a:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Meanwhile, we shall build up our strength in this fortress... and launch an all-out offensive when the time comes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 231
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 380,
+   "uses": [
+    "i025a:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Yes, Your Majesty!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 232
+   },
+   "notes": "Formal assent to sovereign, not laughter.",
+   "uncertain": []
+  },
+  {
+   "id": 381,
+   "uses": [
+    "i025a:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "However, choose the right moments to keep those humans in check and gather energy. Is that clear?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 233
+   },
+   "notes": "Keep humans in check renders military restraint/harassment; the timing restriction applies to both that action and energy collection.",
+   "uncertain": []
+  },
+  {
+   "id": 382,
+   "uses": [
+    "i025a:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グラー",
+   "speaker_en": "Dr. Gura",
+   "en": "Hyakki, Buraaaaai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage12_campaign.json",
+    "id": 234
+   },
+   "notes": "Salute/catchcry, not attack; one extra source long vowel rendered with extra a beyond campaign term baseline.",
+   "uncertain": [
+    "Hyakki salute has source-backed phonetic project rendering; independently canonical English cry remains unestablished."
+   ]
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 12,
+  "fingerprint": "b59afd9d07778bba9daa047e8fb626d70d73a73ca21170359ea6877a767371d4",
+  "reviewed_reused_ids": [
+   31,
+   65,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   300,
+   349
+  ],
+  "reviewed_reused_rows": 148,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Reviewed all 148 reused rows: 143 generic defeat rows match reviewed Stage 11 exactly, and five special rows checked in every original numeric-use window. Read full fresh English and eleven fresh uncertainty flags against original context, retaining phonetic Hyakki/hiccups, unresolved canonical provenance and the sisters paired-robot fragment. Source-short Yousaiki and Getter Ray amplifier verified; all 235 fresh rows fit without compression."
+ },
+ "full_checks": {
+  "rows": 383,
+  "uses": 456,
+  "problems": []
+ }
+}

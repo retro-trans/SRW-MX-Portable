@@ -1,0 +1,7 @@
+{
+ "terms": [
+  {"jp":"ホシノ少佐","en":"Lieutenant Commander Hoshino","sources":["work/glossary/glossary.json","https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness","work/translation/en/script/stage18_campaign.json"],"notes":"Specific Ruri surname/rank address. Main profile prescribes Lieutenant Commander; retain it for Japanese 少佐, rather than switching to army Major. No global rank mapping across other franchises."},
+  {"jp":"ミスマル・ユリカ大佐","en":"Captain Yurika Misumaru","sources":["work/glossary/glossary.json","https://nadesico.fandom.com/wiki/Yurika_Misumaru","work/translation/en/script/stage18_campaign.json"],"notes":"Specific Yurika full ranked address. No exact Akurasu rank entry found; Nadesico character profile explicitly lists Rank Captain, agreeing with main ship-captain role. Not army Colonel; no global 大佐 mapping."},
+  {"jp":"感情エネルギーシステム","en":"emotional energy system","sources":["work/glossary/glossary.json","work/translation/en/script/stage18_campaign.json"],"notes":"Source-short counterpart of main emotional energy conversion system; do not insert conversion where the Japanese omits it. No new mechanic or independently licensed short label asserted."}
+ ]
+}

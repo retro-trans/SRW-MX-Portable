@@ -1,0 +1,8817 @@
+{
+ "scenes": [
+  "i001b",
+  "i00r0b",
+  "s00r00",
+  "i00r0a",
+  "i00s0b",
+  "s00s00",
+  "i00s0a"
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i001b:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...I've seen your report. It seems things are proceeding according to plan.",
+   "notes": "",
+   "uncertain": [
+    "Speaker ??? (rows 1-30) is hidden; by context (raised AI1, operator of Medius) it is Eldy Middi, kept as ??? per brief. No gendered reference to ??? used."
+   ],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i001b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Yes...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 93
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i001b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "The Medius is ready for launch. And what of the pilot?",
+   "notes": "",
+   "uncertain": [
+    "'Medius' kept as the in-universe short form of Medius Locus (JP uses メディウス here and in rows 54, 83, 88 contrasts both forms). Not in glossary as a separate entry."
+   ],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i001b:3",
+    "i00r0a:32",
+    "i00s0a:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Already waiting at the rendezvous point. As far as getting there goes, AI1 and I can manage on our own.",
+   "notes": "",
+   "uncertain": [
+    "Kept source omission of subject in 'Already waiting...' (the pilot is waiting; referent clear from row 2)."
+   ],
+   "lines": 3,
+   "px": 350
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i001b:4",
+    "i001b:26",
+    "i00r0a:53",
+    "i00s0a:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Mm.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 90
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i001b:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "So, Dr. Zapat. As expected, the pilots of the #機体名 will be...",
+   "notes": "",
+   "uncertain": [
+    "Rows 5-6 form one question split across two boxes; translated as a continuing sentence."
+   ],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i001b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男姓名 and #女姓名... Is it really going to be those two?",
+   "notes": "",
+   "uncertain": [
+    "Placeholders #男姓名 / #女姓名 (full names) are NOT in the brief's placeholder list; kept verbatim. textfit counts them as 4 JP glyphs (64px) each, not their runtime width; row has spare room (2 lines used) so it should still fit, but the width is unverified."
+   ],
+   "lines": 3,
+   "px": 319
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i001b:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Of course. That is precisely what they were chosen for.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 338
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i001b:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "But...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 90
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i001b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Admittedly, their test results so far have been less than satisfactory.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 318
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i001b:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "But most of those failures stem from the TE Engine's insufficient output.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i001b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "It is by no means that their abilities are lacking.",
+   "notes": "",
+   "uncertain": [
+    "Restored subject 'their abilities' (彼らの能力)."
+   ],
+   "lines": 2,
+   "px": 305
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i001b:12",
+    "i001b:34",
+    "i00r0a:61",
+    "i00s0a:61"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 80
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i001b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Or is it that you have a guilty conscience?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 341
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i001b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Especially about #女姓名... She is your...",
+   "notes": "",
+   "uncertain": [
+    "#女姓名 placeholder kept verbatim; width counted as 64px by textfit, runtime width unverified (one line at 344px; would wrap to 2 lines if longer, still fits)."
+   ],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i001b:15",
+    "i00r0a:42",
+    "i00s0a:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "I simply believe they are not a fitting match for that child.",
+   "notes": "",
+   "uncertain": [
+    "相手 read as 'match' (could be partner or opponent for AI1; Mitar's 'handicap' reply in row 20 suggests opponents). 'a fitting match' keeps both readings."
+   ],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i001b:16",
+    "i00r0a:43",
+    "i00s0a:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "That child? You mean AI1?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 235
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i001b:17",
+    "i00r0a:44",
+    "i00s0a:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...I see. After all, one could say you are the one who raised it.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i001b:18",
+    "i00r0a:45",
+    "i00s0a:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "...Why did you give the TE Engine to their unit instead?",
+   "notes": "",
+   "uncertain": [
+    "あちらの機体 rendered 'their unit' = the protagonists' #機体名 (inferred from rows 19-21)."
+   ],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i001b:19",
+    "i00r0a:46",
+    "i00s0a:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "I believe leaving its control to AI1 as well would produce far better results.",
+   "notes": "",
+   "uncertain": [
+    "あれの制御 = control of the TE Engine; rendered 'its control'."
+   ],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i001b:20",
+    "i00r0a:47",
+    "i00s0a:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Call it a handicap. As things stand, the match is too uneven.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i001b:21",
+    "i00r0a:48",
+    "i00s0a:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Besides, AI1 as it is now could never understand the DFC system, could it?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 289
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i001b:22",
+    "i00r0a:49",
+    "i00s0a:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Control by feeling... It's preposterous.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 306
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i001b:23",
+    "i00r0a:50",
+    "i00s0a:50"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Still, #女愛称's data will be valuable to AI1. Though you may not like it.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i001b:24",
+    "i00r0a:51",
+    "i00s0a:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "...No. For AI1 and Lasmunanium to show their true power, a complete TE Engine is essential.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 335
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i001b:25",
+    "i00r0a:52",
+    "i00s0a:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "On that matter, I have no choice but to leave it to them and to you, Doctor.",
+   "notes": "",
+   "uncertain": [
+    "彼ら rendered 'them'; inferred to be the two pilots (rows 6-11), but could be the unnamed group of rows 28/32. Kept neutral."
+   ],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i001b:27",
+    "i00r0a:54",
+    "i00s0a:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "One last thing... The main targets are those two battleships, correct?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 349
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i001b:28",
+    "i00r0a:55",
+    "i00s0a:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Yes. The Nadesico B and the Nahel Argama...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 273
+  },
+  {
+   "id": 28,
+   "uses": [
+    "i001b:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "According to their scenario, the deterrent forces will gather on those two ships.",
+   "notes": "",
+   "uncertain": [
+    "[jp]: 'their' = an unnamed group Mitar works with; referent not settled in scene, kept as 'their'. 抑止力 rendered 'deterrent forces'."
+   ],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 29,
+   "uses": [
+    "i001b:30",
+    "i00r0a:57",
+    "i00s0a:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "If you keep watch on them, you should meet all sorts of subjects to gather data from.",
+   "notes": "",
+   "uncertain": [
+    "Subject restored as 'you' (Eldy is the one going after the ships per rows 26/30). マークする rendered 'keep watch on them'."
+   ],
+   "lines": 2,
+   "px": 335
+  },
+  {
+   "id": 30,
+   "uses": [
+    "i001b:31",
+    "i00r0a:58",
+    "i00s0a:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Understood. I'll start by making contact with the nearest. Well then, Doctor...",
+   "notes": "",
+   "uncertain": [
+    "近い所 rendered 'the nearest' (nearest of the two ships / targets); referent inferred."
+   ],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 31,
+   "uses": [
+    "i001b:32",
+    "i00r0a:59",
+    "i00s0a:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Yes, I hope for good results... No, never mind that. Just prove to me that my theory was correct.",
+   "notes": "",
+   "uncertain": [
+    "Mitar starts a wish then retracts it; 'I hope for good results...' kept as the broken-off clause."
+   ],
+   "lines": 3,
+   "px": 343
+  },
+  {
+   "id": 32,
+   "uses": [
+    "i001b:33",
+    "i00r0a:60",
+    "i00s0a:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "You see, I have no intention of going along with them to the very end.",
+   "notes": "",
+   "uncertain": [
+    "彼ら = same unnamed group as row 28; kept 'them'."
+   ],
+   "lines": 2,
+   "px": 323
+  },
+  {
+   "id": 33,
+   "uses": [
+    "i001b:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...Do you have a moment, #男愛称?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 258
+  },
+  {
+   "id": 34,
+   "uses": [
+    "i001b:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "What do you want?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 235
+  },
+  {
+   "id": 35,
+   "uses": [
+    "i001b:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Don't play dumb. I mean the test just now. Why didn't you follow my instructions?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 36,
+   "uses": [
+    "i001b:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I gave you the predicted counterattack pattern data for the drones, didn't I?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 351
+  },
+  {
+   "id": 37,
+   "uses": [
+    "i001b:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Result: all targets downed. Our time improved by 8 seconds. You have a problem with that?",
+   "notes": "",
+   "uncertain": [
+    "全機撃墜 rendered 'all targets downed' (the targets were drones, row 36). Subject 'Our time' restored."
+   ],
+   "lines": 3,
+   "px": 336
+  },
+  {
+   "id": 38,
+   "uses": [
+    "i001b:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That's not it. I'm asking why you went off on your own... I want to know the reason.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 39,
+   "uses": [
+    "i001b:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Do I need to explain?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 248
+  },
+  {
+   "id": 40,
+   "uses": [
+    "i001b:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Obviously! I can't stand you running tests like this from now on.",
+   "notes": "",
+   "uncertain": [
+    "Subject restored: 'I can't stand you running tests...' (やられちゃ = being done to her by him)."
+   ],
+   "lines": 2,
+   "px": 329
+  },
+  {
+   "id": 41,
+   "uses": [
+    "i001b:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "We have to deliver exactly the results Dr. Zapat wants.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 42,
+   "uses": [
+    "i001b:44"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "The results that man wants, huh...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 331
+  },
+  {
+   "id": 43,
+   "uses": [
+    "i001b:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Anyway, stop ignoring my instructions, okay?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 350
+  },
+  {
+   "id": 44,
+   "uses": [
+    "i001b:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I do take them into account.",
+   "notes": "",
+   "uncertain": [
+    "Subject restored 'I' ([jp])."
+   ],
+   "lines": 1,
+   "px": 292
+  },
+  {
+   "id": 45,
+   "uses": [
+    "i001b:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Oh, I see. Just into account, huh.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 323
+  },
+  {
+   "id": 46,
+   "uses": [
+    "i001b:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "So the ex-special forces pilot doesn't put any stock in what I say.",
+   "notes": "",
+   "uncertain": [
+    "Mocking honorific [jp] conveyed by 'So the ex-special forces pilot...'; gender-neutral."
+   ],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 47,
+   "uses": [
+    "i001b:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "That's not it. It's just...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 261
+  },
+  {
+   "id": 48,
+   "uses": [
+    "i001b:50"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Just... what?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 195
+  },
+  {
+   "id": 49,
+   "uses": [
+    "i001b:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I thought that if it had been real combat, we'd have been shot down.",
+   "notes": "",
+   "uncertain": [
+    "こちら rendered 'we' (both pilots share the unit)."
+   ],
+   "lines": 2,
+   "px": 300
+  },
+  {
+   "id": 50,
+   "uses": [
+    "i001b:52",
+    "s00r00:247",
+    "s00s00:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 128
+  },
+  {
+   "id": 51,
+   "uses": [
+    "i001b:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...All I need is for you to focus on tuning the TE Engine's output.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 315
+  },
+  {
+   "id": 52,
+   "uses": [
+    "i001b:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I'll handle the piloting and fighting of the #機体名.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 53,
+   "uses": [
+    "i001b:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "W-well, excuse me! I don't have any real combat experience anyway!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 329
+  },
+  {
+   "id": 54,
+   "uses": [
+    "i001b:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "But you know, someday I'll become the pilot of the Medius...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 350
+  },
+  {
+   "id": 55,
+   "uses": [
+    "i001b:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Ngh......?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 167
+  },
+  {
+   "id": 56,
+   "uses": [
+    "i001b:58",
+    "s00r00:293",
+    "s00s00:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What's wrong?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 208
+  },
+  {
+   "id": 57,
+   "uses": [
+    "i001b:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "N-nothing. Sorry, but could you go get me some water?",
+   "notes": "",
+   "uncertain": [
+    "Direction: Hugo asking Aqua -> 'could you go get me some water?'."
+   ],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 58,
+   "uses": [
+    "i001b:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "H-hey, now! Why should I have to do that!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 59,
+   "uses": [
+    "i001b:61",
+    "i00r0a:95",
+    "i00s0a:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Please.",
+   "notes": "",
+   "uncertain": [
+    "頼む direction: Hugo asking Aqua -> '...Please.'"
+   ],
+   "lines": 1,
+   "px": 172
+  },
+  {
+   "id": 60,
+   "uses": [
+    "i001b:62"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "F-fine, I get it. Water's what you want, right? Water.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 344
+  },
+  {
+   "id": 61,
+   "uses": [
+    "i001b:63",
+    "i00r0a:99",
+    "i00s0a:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Yeah...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 156
+  },
+  {
+   "id": 62,
+   "uses": [
+    "i001b:64"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Ngh...! And I'd been doing fine for a while now...",
+   "notes": "",
+   "uncertain": [
+    "Subject restored 'I' (thought)."
+   ],
+   "lines": 2,
+   "px": 323
+  },
+  {
+   "id": 63,
+   "uses": [
+    "i001b:65",
+    "i00r0a:101",
+    "i00s0a:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Here, your water.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 226
+  },
+  {
+   "id": 64,
+   "uses": [
+    "i001b:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Sorry for the trouble...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 260
+  },
+  {
+   "id": 65,
+   "uses": [
+    "i001b:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hey, that... What kind of medicine is that?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 66,
+   "uses": [
+    "i001b:68",
+    "i00r0a:106",
+    "i00s0a:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Just...... cold medicine.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 262
+  },
+  {
+   "id": 67,
+   "uses": [
+    "i001b:69",
+    "i00r0a:107",
+    "i00s0a:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hmm. A cold, huh? So you've got a delicate side after all.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 320
+  },
+  {
+   "id": 68,
+   "uses": [
+    "i001b:70",
+    "i00r0a:108",
+    "i00s0a:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "......Is that a problem?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 254
+  },
+  {
+   "id": 69,
+   "uses": [
+    "i001b:71",
+    "i00r0a:109",
+    "i00s0a:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Not really.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 179
+  },
+  {
+   "id": 70,
+   "uses": [
+    "i001b:72",
+    "i00r0a:110",
+    "i00s0a:110"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Somehow... it's finally settling down.",
+   "notes": "",
+   "uncertain": [
+    "Kept omission: subject of [jp] not named in source; rendered 'it' (his condition/symptoms)."
+   ],
+   "lines": 2,
+   "px": 305
+  },
+  {
+   "id": 71,
+   "uses": [
+    "i001b:73",
+    "i00r0a:111",
+    "i00s0a:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hurry up and get better, okay? I couldn't stand it if you gave it to me.",
+   "notes": "",
+   "uncertain": [
+    "Restored: 'if you gave it to me' (うつされたら, the cold)."
+   ],
+   "lines": 2,
+   "px": 304
+  },
+  {
+   "id": 72,
+   "uses": [
+    "i001b:74",
+    "i00r0a:112",
+    "i00s0a:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "What about you? Don't you catch cold, dressed in something like a swimsuit?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 73,
+   "uses": [
+    "i001b:75",
+    "i00r0a:113",
+    "i00s0a:113"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I-it's not a swimsuit! It's a DFC suit, a DFC suit!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 74,
+   "uses": [
+    "i001b:76",
+    "i00r0a:114",
+    "i00s0a:114"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I know.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 158
+  },
+  {
+   "id": 75,
+   "uses": [
+    "i001b:77",
+    "i00r0a:115",
+    "i00s0a:115"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Geez...! It's not like I wear this outfit because I enjoy it, either.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 335
+  },
+  {
+   "id": 76,
+   "uses": [
+    "i001b:78",
+    "i00r0a:116",
+    "i00s0a:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "But you've grown kind of fond of it, haven't you?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 327
+  },
+  {
+   "id": 77,
+   "uses": [
+    "i001b:79",
+    "i00r0a:117",
+    "i00s0a:117"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Yeah, yeah, I can even get in the bath wearing it...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 78,
+   "uses": [
+    "i001b:80",
+    "i00r0a:118",
+    "i00s0a:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hey, that's not it!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 222
+  },
+  {
+   "id": 79,
+   "uses": [
+    "i001b:81",
+    "i00r0a:119",
+    "i00s0a:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "What!? That was an explosion!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 310
+  },
+  {
+   "id": 80,
+   "uses": [
+    "i001b:82",
+    "i00r0a:120",
+    "i00s0a:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "It came from the hangar!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 271
+  },
+  {
+   "id": 81,
+   "uses": [
+    "i001b:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Don't tell me it's the #機体名!?",
+   "notes": "",
+   "uncertain": [
+    "Kept the source's ambiguity: Hugo only asks whether the explosion involves the #機体名 (moving or blown up). Rendered 'Don't tell me it's the #機体名!?'; Aqua's reply in row 82 ('we're not even in it') suggests he means it launched or moved."
+   ],
+   "lines": 2,
+   "px": 226
+  },
+  {
+   "id": 82,
+   "uses": [
+    "i001b:84"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What are you talking about? We're not even in it!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 345
+  },
+  {
+   "id": 83,
+   "uses": [
+    "i001b:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Then is it the Medius Locus...!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 313
+  },
+  {
+   "id": 84,
+   "uses": [
+    "i001b:86"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That's even less possible! A pilot hasn't even been chosen for it yet!",
+   "notes": "Passive 'A pilot hasn't even been chosen' for 決まってない (no subject in the source).",
+   "uncertain": [
+    "Kept omission: who picks the pilot isn't stated, so I used the passive."
+   ],
+   "lines": 2,
+   "px": 315
+  },
+  {
+   "id": 85,
+   "uses": [
+    "i001b:87",
+    "i00r0a:123",
+    "i00s0a:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Anyway, we're going to the Doctor!",
+   "notes": "行くぞ: Hugo is pulling Aqua along, so 'we're going'.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 341
+  },
+  {
+   "id": 86,
+   "uses": [
+    "i001b:88",
+    "i00r0a:124",
+    "i00s0a:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Ngh! So the hangar hatch has been smashed!",
+   "notes": "Mitar is the one behind the theft (see row 101), so his reaction is staged.",
+   "uncertain": [
+    "Kept omission: who smashed the hatch is not said, so I used the passive."
+   ],
+   "lines": 1,
+   "px": 352
+  },
+  {
+   "id": 87,
+   "uses": [
+    "i001b:89",
+    "i00r0a:125",
+    "i00s0a:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Doctor, what happened!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 273
+  },
+  {
+   "id": 88,
+   "uses": [
+    "i001b:90",
+    "i00r0a:126",
+    "i00s0a:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "The Medius... It seems the Medius Locus has been stolen by someone!",
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'stolen by someone' (thief unknown; no gender)."
+   ],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 89,
+   "uses": [
+    "i001b:91",
+    "i00r0a:127",
+    "i00s0a:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "!",
+   "notes": "Speechless reaction; the source body is just '!'.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 116
+  },
+  {
+   "id": 90,
+   "uses": [
+    "i001b:92",
+    "i00r0a:128",
+    "i00s0a:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "N-no way...! Who on earth would do this!?",
+   "notes": "",
+   "uncertain": [
+    "[jp] rendered 'Who on earth would do this!?' (the verb was added, since the source omits it)."
+   ],
+   "lines": 2,
+   "px": 322
+  },
+  {
+   "id": 91,
+   "uses": [
+    "i001b:93",
+    "i00r0a:129",
+    "i00s0a:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I'm sorry, but I need you two to go after the Medius at once.",
+   "notes": "君達 = Hugo and Aqua -> 'you two'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 92,
+   "uses": [
+    "i001b:94",
+    "i00r0a:130",
+    "i00s0a:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "If it falls into enemy hands, the consequences will be dire...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 348
+  },
+  {
+   "id": 93,
+   "uses": [
+    "i001b:95",
+    "i00r0a:131",
+    "i00s0a:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Th-that's right...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 220
+  },
+  {
+   "id": 94,
+   "uses": [
+    "i001b:96",
+    "i00r0a:132",
+    "i00s0a:132"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "If someone misuses the Lasmunanium, something like the Devil Gundam Incident a year ago could happen again...!",
+   "notes": "悪用されたら is a passive with no agent -> 'If someone misuses'.",
+   "uncertain": [
+    "Name: the Devil Gundam incident is written 'Devil Gundam Incident' with a capital I. That's my choice; the glossary only lists 'Devil Gundam'.",
+    "Lasmunanium spelled per the glossary (TV Tropes alt 'Lazmunanium')."
+   ],
+   "lines": 3,
+   "px": 346
+  },
+  {
+   "id": 95,
+   "uses": [
+    "i001b:97",
+    "i00r0a:133",
+    "i00s0a:133"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Devil... Gundam......!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 241
+  },
+  {
+   "id": 96,
+   "uses": [
+    "i001b:98",
+    "i00r0a:134",
+    "i00s0a:134"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Understood, Doctor! We'll get the Medius back with our own hands, no matter what!",
+   "notes": "必ず -> 'no matter what'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 97,
+   "uses": [
+    "i001b:99",
+    "i00r0a:135",
+    "i00s0a:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Good. I'll have the #機体名 readied for launch at once.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 98,
+   "uses": [
+    "i001b:100",
+    "i00r0a:136",
+    "i00s0a:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "If need be, you may destroy the Medius.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 326
+  },
+  {
+   "id": 99,
+   "uses": [
+    "i001b:101",
+    "i00r0a:137",
+    "i00s0a:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Y... Yes!",
+   "notes": "Aqua hesitates after being told she may destroy the Medius.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 166
+  },
+  {
+   "id": 100,
+   "uses": [
+    "i001b:102",
+    "i00r0a:138",
+    "i00s0a:138"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I'm counting on you both.",
+   "notes": "頼むぞ: Mitar is asking the pair -> 'I'm counting on you both'.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 226
+  },
+  {
+   "id": 101,
+   "uses": [
+    "i001b:103",
+    "i00r0a:139",
+    "i00s0a:139"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Yes... I am truly counting on you... Heh heh heh heh...",
+   "notes": "くれぐれもな in a thought. It echoes row 100 with sinister intent.",
+   "uncertain": [
+    "Interpreted くれぐれもな as a repeat of 'I'm counting on you' (Mitar's real plan). Laugh フフフフ rendered as 'Heh heh heh heh...'."
+   ],
+   "lines": 2,
+   "px": 349
+  },
+  {
+   "id": 102,
+   "uses": [
+    "i001b:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Captain, the ship will shortly be on course for atmospheric entry.",
+   "notes": "本艦 -> 'the ship'. The ship is presumably the Nahel Argama (Bright, Torres, the ZZ crew).",
+   "uncertain": [
+    "Ship not named in the line; inferred from the speakers."
+   ],
+   "lines": 2,
+   "px": 335
+  },
+  {
+   "id": 103,
+   "uses": [
+    "i001b:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Understood. All hands, Level 2 battle stations... Keep the mobile suits ready to launch at any time.",
+   "notes": "[jp] -> 'Level 2 battle stations'.",
+   "uncertain": [
+    "Term: [jp] is not in the glossary. Chose 'Level 2 battle stations' (alternatives: 'Condition Two'). Other slices should use the same term."
+   ],
+   "lines": 3,
+   "px": 348
+  },
+  {
+   "id": 104,
+   "uses": [
+    "i001b:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "No way, seriously!? You're gonna send us out!?",
+   "notes": "[jp]: Elle is asking Bright (the one ordering) -> 'You're gonna send us out!?'",
+   "uncertain": [],
+   "lines": 2,
+   "px": 313
+  },
+  {
+   "id": 105,
+   "uses": [
+    "i001b:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "The enemy we're chasing is planning to go down to Earth too, right!?",
+   "notes": "も = the enemy is heading to Earth just like the ship.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 315
+  },
+  {
+   "id": 106,
+   "uses": [
+    "i001b:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "That's right.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 150
+  },
+  {
+   "id": 107,
+   "uses": [
+    "i001b:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Then why now, of all times...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 241
+  },
+  {
+   "id": 108,
+   "uses": [
+    "i001b:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Now is precisely the time.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 240
+  },
+  {
+   "id": 109,
+   "uses": [
+    "i001b:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Yeah, yeah. A moment that feels bad to us feels just as bad to the enemy...",
+   "notes": "[jp] -> a bad moment for us.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 110,
+   "uses": [
+    "i001b:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "So that makes it our chance to strike.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 326
+  },
+  {
+   "id": 111,
+   "uses": [
+    "i001b:113"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Ooh, impressive. Spoken like a true ex-captain.",
+   "notes": "元艦長さん: Beecha was formerly the Argama's acting captain (Gundam ZZ).",
+   "uncertain": [],
+   "lines": 2,
+   "px": 282
+  },
+  {
+   "id": 112,
+   "uses": [
+    "i001b:114"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Don't tease me. I'm just relieved that heavy load is finally off my shoulders.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 348
+  },
+  {
+   "id": 113,
+   "uses": [
+    "i001b:115"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Same goes for you guys, right, Torres?",
+   "notes": "[jp] -> 'you guys, ... Torres' (Torres and the others, including Saegusa who answers in 116).",
+   "uncertain": [],
+   "lines": 1,
+   "px": 339
+  },
+  {
+   "id": 114,
+   "uses": [
+    "i001b:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Honestly, when you were made captain, I wondered how it'd turn out... but we somehow made it out alive.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 326
+  },
+  {
+   "id": 115,
+   "uses": [
+    "i001b:117"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Looking back now, I'm grateful to you.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 326
+  },
+  {
+   "id": 116,
+   "uses": [
+    "i001b:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サエグサ",
+   "speaker_en": "Saegusa",
+   "en": "Yeah. You really did a great job.",
+   "notes": "[jp] -> 'You really did a great job' (addressed to Beecha).",
+   "uncertain": [],
+   "lines": 1,
+   "px": 300
+  },
+  {
+   "id": 117,
+   "uses": [
+    "i001b:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Wh-why, it was nothing, really...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 286
+  },
+  {
+   "id": 118,
+   "uses": [
+    "i001b:120"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "It seems my judgment was not mistaken after all...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 316
+  },
+  {
+   "id": 119,
+   "uses": [
+    "i001b:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "By the way, Bright, does this mean you can stay on as captain full-time now?",
+   "notes": "ブライトさん rendered as plain 'Bright' (no honorific), as is usual in English Gundam translations. Same in rows 132 and 152.",
+   "uncertain": [
+    "Honorific choice: ブライトさん -> 'Bright' (could be 'Captain Bright'/'Mr. Bright'). This should be kept consistent across slices."
+   ],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 120,
+   "uses": [
+    "i001b:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes. The postwar negotiations with the Baam side have settled down for now.",
+   "notes": "バーム側 -> 'the Baam side'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 349
+  },
+  {
+   "id": 121,
+   "uses": [
+    "i001b:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Besides... frankly, I'd rather sit here than deal with the bigwigs.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 324
+  },
+  {
+   "id": 122,
+   "uses": [
+    "i001b:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "So what's going to happen to Little Baam in the end?",
+   "notes": "",
+   "uncertain": [
+    "Name: 小バーム is not in the glossary and not in the local akurasu dump; neo-akurasu was unreachable (502). Used 'Little Baam' (English Wikipedia's Tosho Daimos article). Please add it to the glossary. Same in rows 129 and 142."
+   ],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 123,
+   "uses": [
+    "i001b:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Led by Erika, leader of the Baam peace faction...",
+   "notes": "エリカ君 -> 'Erika' (the glossary says female; no pronoun used).",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 124,
+   "uses": [
+    "i001b:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "...it will move from the Moon to the Mars sphere until things in the Earth Sphere settle down.",
+   "notes": "[jp] -> 'from the Moon to the Mars sphere'. 地球圏 -> 'Earth Sphere'.",
+   "uncertain": [
+    "The subject of row 124 (Little Baam / its people) carries over from rows 122-123."
+   ],
+   "lines": 3,
+   "px": 315
+  },
+  {
+   "id": 125,
+   "uses": [
+    "i001b:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "Move? You mean with a Bison Jump?",
+   "notes": "Mondo garbles [jp] as [jp]; rendered as the English mishearing 'Bison Jump', and Iino corrects him in row 126.",
+   "uncertain": [
+    "Malapropism: 'Bison Jump' is my localisation of [jp] (literally 'Basun')."
+   ],
+   "lines": 1,
+   "px": 311
+  },
+  {
+   "id": 126,
+   "uses": [
+    "i001b:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "It's Boson Jump. Boson Jump.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 248
+  },
+  {
+   "id": 127,
+   "uses": [
+    "i001b:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "Oh, right, that. Are they gonna use that Boson Jump?",
+   "notes": "Implied subject 'they' = Little Baam / the Baam.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 128,
+   "uses": [
+    "i001b:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "What are you talking about? Something that huge can't fit through a Chulip.",
+   "notes": "[jp] = Little Baam. チューリップ = Chulip (glossary/decisions).",
+   "uncertain": [],
+   "lines": 2,
+   "px": 344
+  },
+  {
+   "id": 129,
+   "uses": [
+    "i001b:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Besides, Little Baam has a warp drive built in.",
+   "notes": "ワープ装置 -> 'warp drive'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 130,
+   "uses": [
+    "i001b:132"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "Ahh, I get it. No wonder it suddenly showed up right near the Moon at the start.",
+   "notes": "な～る -> 'Ahh, I get it'.",
+   "uncertain": [
+    "最初に is read as 'at the start' (when Little Baam first appeared in the story)."
+   ],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 131,
+   "uses": [
+    "i001b:133"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "You're only figuring that out now?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 286
+  },
+  {
+   "id": 132,
+   "uses": [
+    "i001b:134"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Bright, the results of Ple and Ple Two's checkups are in.",
+   "notes": "Ple / Ple Two per the glossary (not 'Puru').",
+   "uncertain": [],
+   "lines": 2,
+   "px": 305
+  },
+  {
+   "id": 133,
+   "uses": [
+    "i001b:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "How did they turn out?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 217
+  },
+  {
+   "id": 134,
+   "uses": [
+    "i001b:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Nothing's wrong with them. They say there's no need to move them to the hospital on La Vie en Rose.",
+   "notes": "[jp] -> 'the hospital on La Vie en Rose' (the supply ship).",
+   "uncertain": [
+    "Kept omission: 'They say' stands in for the unnamed source of the medical opinion (～そうです)."
+   ],
+   "lines": 3,
+   "px": 337
+  },
+  {
+   "id": 135,
+   "uses": [
+    "i001b:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "I see... That battle cost us a great deal, but...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 314
+  },
+  {
+   "id": 136,
+   "uses": [
+    "i001b:138"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "At least we were able to save those kids. That's some consolation.",
+   "notes": "あの子達 -> 'those kids' (gender-neutral, true to the source).",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 137,
+   "uses": [
+    "i001b:139"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Yes...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 103
+  },
+  {
+   "id": 138,
+   "uses": [
+    "i001b:140"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "And what about Judau?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 223
+  },
+  {
+   "id": 139,
+   "uses": [
+    "i001b:141"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "He was overjoyed about Ple and Ple Two, but... I guess he's still...",
+   "notes": "[jp]… left trailing.",
+   "uncertain": [
+    "Kept omission: Leina breaks off ('he's still...'), implying Judau still hasn't recovered or is still down. The trailing-off is kept on purpose."
+   ],
+   "lines": 2,
+   "px": 320
+  },
+  {
+   "id": 140,
+   "uses": [
+    "i001b:142"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "No wonder. He's the one who was worn down most by the fight with Haman Karn...",
+   "notes": "無理もない -> 'No wonder'. [jp] -> 'Haman Karn' (full name, as in the source).",
+   "uncertain": [],
+   "lines": 2,
+   "px": 345
+  },
+  {
+   "id": 141,
+   "uses": [
+    "i001b:143"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Yeah...",
+   "notes": "Iino answers Bright's remark.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 99
+  },
+  {
+   "id": 142,
+   "uses": [
+    "i001b:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Before the battle to liberate Little Baam, when the Federation and Neo Zeon called a truce...",
+   "notes": "Leads into row 143, where the subject 'he' = Judau (あいつ).",
+   "uncertain": [
+    "[jp] -> 'the battle to liberate Little Baam' (event name not in the glossary)."
+   ],
+   "lines": 3,
+   "px": 328
+  },
+  {
+   "id": 143,
+   "uses": [
+    "i001b:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "...he was so happy, thinking the fighting might finally be over.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 320
+  },
+  {
+   "id": 144,
+   "uses": [
+    "i001b:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Yeah. But... in the end, Haman and Glemy still came after us...",
+   "notes": "仕掛けてきた -> 'came after us'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 145,
+   "uses": [
+    "i001b:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "And after that, Giganos declares war, right? Anybody would be fed up, not just Judau.",
+   "notes": "[jp] -> 'not just Judau'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 345
+  },
+  {
+   "id": 146,
+   "uses": [
+    "i001b:148"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "It's nothing new, but the Federation brass really do work people to the bone, don't they?",
+   "notes": "[jp] -> 'the Federation brass'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 351
+  },
+  {
+   "id": 147,
+   "uses": [
+    "i001b:149"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Tell me about it. Ordering us down to Earth to escort a new-weapons transport unit...",
+   "notes": "Implied subject 'us' (the crew) for the escort order.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 148,
+   "uses": [
+    "i001b:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "So it's settled. We're definitely getting dragged into the war with Giganos for real now.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 149,
+   "uses": [
+    "i001b:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Don't complain. You must have known it would come to this sooner or later.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 150,
+   "uses": [
+    "i001b:152"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Well, that's true, but...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 210
+  },
+  {
+   "id": 151,
+   "uses": [
+    "i001b:153"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Besides, other Federation units are being thrown into the Giganos war one after another too. We are all in the same boat.",
+   "notes": "[jp] -> 'We are all in the same boat.'",
+   "uncertain": [],
+   "lines": 3,
+   "px": 344
+  },
+  {
+   "id": 152,
+   "uses": [
+    "i001b:154"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Bright, isn't the Nadesico going to help us out?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 153,
+   "uses": [
+    "i001b:155"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "They're away from the Earth Sphere on a separate mission. They likely won't join the Giganos war until later.",
+   "notes": "だろう -> 'likely'.",
+   "uncertain": [],
+   "lines": 3,
+   "px": 322
+  },
+  {
+   "id": 154,
+   "uses": [
+    "i001b:156"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "I see...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 124
+  },
+  {
+   "id": 155,
+   "uses": [
+    "i001b:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "If I remember right, the Nadesico's former captain... passed away, right...?",
+   "notes": "[jp] = the Nadesico's former captain (in canon Yurika Misumaru, presumed dead in Prince of Darkness). Roux does not name them, so I added no name and no pronoun.",
+   "uncertain": [
+    "Gender: the source gives none; I avoided a pronoun. Ending 'passed away, right...?' for ～のよね…"
+   ],
+   "lines": 2,
+   "px": 324
+  },
+  {
+   "id": 156,
+   "uses": [
+    "i001b:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Yeah. For a while there were rumors that it was the Titans' doing.",
+   "notes": "[jp] -> 'the Titans' doing'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 157,
+   "uses": [
+    "i001b:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サエグサ",
+   "speaker_en": "Saegusa",
+   "en": "During the Lizard War, it seems the Nadesico earned quite a grudge from those guys.",
+   "notes": "あいつら = the Titans (row 156). 蜥蜴戦争 -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
+   "uncertain": [
+    "Referent: 'those guys' = the Titans (inferred from row 156)."
+   ],
+   "lines": 3,
+   "px": 301
+  },
+  {
+   "id": 158,
+   "uses": [
+    "i001b:160"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "But then the Titans themselves were wiped out in the Gryps Conflict...",
+   "notes": "",
+   "uncertain": [
+    "Name: the source says グリプス戦争 (Gryps War); the glossary entry is グリプス戦役 = 'Gryps Conflict'. I used 'Gryps Conflict' for consistency. Please confirm."
+   ],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 159,
+   "uses": [
+    "i001b:161"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "So in the end, the word is that the Nadesico captain's death was probably just an accident.",
+   "notes": "という話だ -> 'the word is'.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 160,
+   "uses": [
+    "i001b:162"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "...",
+   "notes": "",
+   "uncertain": [
+    "Rendered the source's long silence as '...'."
+   ],
+   "lines": 1,
+   "px": 83
+  },
+  {
+   "id": 161,
+   "uses": [
+    "i001b:163"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "Still, those Giganos guys... When did they manage to get that much military strength ready?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 326
+  },
+  {
+   "id": 162,
+   "uses": [
+    "i001b:164"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "The lunar cities that preceded the Giganos Empire had a great many Metal Worker plants.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 163,
+   "uses": [
+    "i001b:165"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "They used them to mass-produce Metal Armor while the Baam and Neo Zeon wars were going on.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 324
+  },
+  {
+   "id": 164,
+   "uses": [
+    "i001b:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "So basically, they just sat back and grabbed the best part for themselves?",
+   "notes": "",
+   "uncertain": [
+    "Free rendering of oishii toko-dori (reaping the gains while others fight); Bright's 'No' in 165 confirms the sense."
+   ],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 165,
+   "uses": [
+    "i001b:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "No. Even before declaring independence, Giganos was allied with the Neo Zeon forces and aiding them.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 334
+  },
+  {
+   "id": 166,
+   "uses": [
+    "i001b:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "On top of that, when the Neo Zeon forces descended to Earth a few months ago...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 167,
+   "uses": [
+    "i001b:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "I hear Giganos sent a Metal Armor unit down along with them.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 168,
+   "uses": [
+    "i001b:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "But the bigger problem than that is...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 308
+  },
+  {
+   "id": 169,
+   "uses": [
+    "i001b:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "The mass driver, right?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 218
+  },
+  {
+   "id": 170,
+   "uses": [
+    "i001b:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes. It takes far less effort than a colony drop... and yet it can instill the same level of fear in the Federation.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 339
+  },
+  {
+   "id": 171,
+   "uses": [
+    "i001b:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Furthermore, the leader of Giganos, Marshal Guiltorre...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 172,
+   "uses": [
+    "i001b:174"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "is a man who warned that the Federation's Earth supremacism was destroying Earth's environment.",
+   "notes": "",
+   "uncertain": [
+    "Continues Bright's sentence from 171, so it starts lowercase with no subject restated; 'Earth supremacism' for chikyuu shijou shugi is my own rendering, not in the glossary."
+   ],
+   "lines": 3,
+   "px": 329
+  },
+  {
+   "id": 173,
+   "uses": [
+    "i001b:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "And he sees Earth as a sanctuary that must be protected... He is proclaiming that Ereism is in peril.",
+   "notes": "",
+   "uncertain": [
+    "Name question: エレズム is not in the glossary. Used 'Ereism' (the Gundam UC romanization I found on a wiki via search). Alternative spelling: 'Elezm'. Not checked on akurasu.net."
+   ],
+   "lines": 3,
+   "px": 340
+  },
+  {
+   "id": 174,
+   "uses": [
+    "i001b:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "And if Neo Zeon remnants or the hawks exiled from Mokuren were to side with him...",
+   "notes": "",
+   "uncertain": [
+    "Used 'Mokuren' (short form of the glossary's 'Mokuren (Jovian Federation)'). Inferred that 'him' is Guiltorre (source: 'side with' has no stated object)."
+   ],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 175,
+   "uses": [
+    "i001b:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "this war will be a repeat of the Lizard War and the Gryps Conflict.",
+   "notes": "",
+   "uncertain": [
+    "Continues 174, so it starts lowercase. Source says グリプス戦争 (War); I used the glossary's 'Gryps Conflict' (its entry is for グリプス戦役) to stay consistent. Used 'Lizard War' from the glossary's 'Lizard War (Jovian War)'."
+   ],
+   "lines": 2,
+   "px": 330
+  },
+  {
+   "id": 176,
+   "uses": [
+    "i001b:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 88
+  },
+  {
+   "id": 177,
+   "uses": [
+    "i001b:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Captain, enemy readings ahead on our course!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 309
+  },
+  {
+   "id": 178,
+   "uses": [
+    "i001b:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Good, we've caught up to them! All hands, Level 1 battle stations! Mobile suit teams, launch at once!",
+   "notes": "",
+   "uncertain": [
+    "Read dai-1-shu sentou haichi as 'Level 1 battle stations'. Inferred that 'them' is the enemy reported in 177."
+   ],
+   "lines": 3,
+   "px": 349
+  },
+  {
+   "id": 179,
+   "uses": [
+    "i001b:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Roger!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 123
+  },
+  {
+   "id": 180,
+   "uses": [
+    "i001b:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "...\"Operation Overlord\"... So the Federation is finally going to strike back at them?",
+   "notes": "",
+   "uncertain": [
+    "Restored the subject as 'the Federation' (source has none). Inferred that 'them' is Giganos from the earlier scene; the source only says 彼ら."
+   ],
+   "lines": 3,
+   "px": 303
+  },
+  {
+   "id": 181,
+   "uses": [
+    "i001b:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Yes. And in connection with it, the Federation forces have sent me a request for support.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 315
+  },
+  {
+   "id": 182,
+   "uses": [
+    "i001b:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "By support, you mean... Getter Robo?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 294
+  },
+  {
+   "id": 183,
+   "uses": [
+    "i001b:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "No, not only that.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 220
+  },
+  {
+   "id": 184,
+   "uses": [
+    "i001b:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "My Saotome Institute, your Institute of Space Science, Dr. Umon...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 185,
+   "uses": [
+    "i001b:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "And the Photon Power Laboratory, Mutropolis, the Science Fortress Laboratory and others...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 332
+  },
+  {
+   "id": 186,
+   "uses": [
+    "i001b:188"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "They have asked the institutes involved with super robots to work together more closely than ever and assist the military.",
+   "notes": "",
+   "uncertain": [
+    "Added 'They have asked' to match the source's passive 'a request came'. 特機 is not in the glossary; I used 'super robots'."
+   ],
+   "lines": 3,
+   "px": 341
+  },
+  {
+   "id": 187,
+   "uses": [
+    "i001b:189",
+    "i001b:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "...",
+   "notes": "",
+   "uncertain": [
+    "Rendered the source's long silence as '...'."
+   ],
+   "lines": 1,
+   "px": 122
+  },
+  {
+   "id": 188,
+   "uses": [
+    "i001b:190"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "And the one behind this call is Commander Koichiro Misumaru of the Federation Space Force...",
+   "notes": "",
+   "uncertain": [
+    "司令 rendered as 'Commander'. Federation Space Force (連邦宇宙軍) is not in the glossary."
+   ],
+   "lines": 3,
+   "px": 332
+  },
+  {
+   "id": 189,
+   "uses": [
+    "i001b:191"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Surely you've heard his name too, Doctor?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 318
+  },
+  {
+   "id": 190,
+   "uses": [
+    "i001b:192"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Yes.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 139
+  },
+  {
+   "id": 191,
+   "uses": [
+    "i001b:193"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "To deal with the fight against the Giganos forces and what lies ahead, Operation Overlord included...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 322
+  },
+  {
+   "id": 192,
+   "uses": [
+    "i001b:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Commander Misumaru is planning to form a new super robot unit centered on the Nahel Argama and Nadesico B.",
+   "notes": "",
+   "uncertain": [
+    "特機部隊 rendered as 'super robot unit'."
+   ],
+   "lines": 3,
+   "px": 342
+  },
+  {
+   "id": 193,
+   "uses": [
+    "i001b:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "I see... In the Baam War and the Devil Gundam incident, their teamwork was a major key to resolving things.",
+   "notes": "",
+   "uncertain": [
+    "Inferred referent: 'their teamwork' (彼らの連携) means the cooperation between the super robot groups and ships just named. The source leaves this open."
+   ],
+   "lines": 3,
+   "px": 343
+  },
+  {
+   "id": 194,
+   "uses": [
+    "i001b:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "On my end, too, the battles with the Dinosaur Empire, the Mycenae Empire and the Demon Empire are over...",
+   "notes": "",
+   "uncertain": [
+    "Ends with '...' and runs on into 195, which starts with 'So'."
+   ],
+   "lines": 3,
+   "px": 325
+  },
+  {
+   "id": 195,
+   "uses": [
+    "i001b:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "So I intend to send the Getter Team to that super robot unit as soon as the new Getter Robo is completed.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 343
+  },
+  {
+   "id": 196,
+   "uses": [
+    "i001b:198"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "...Understood. We too will offer you whatever cooperation we can.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 326
+  },
+  {
+   "id": 197,
+   "uses": [
+    "i001b:199"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "I'm grateful. Please do.",
+   "notes": "",
+   "uncertain": [
+    "Direction for お願いします: Saotome is asking Umon to follow through on his offer of help, so I wrote 'I'm grateful. Please do.'"
+   ],
+   "lines": 1,
+   "px": 264
+  },
+  {
+   "id": 198,
+   "uses": [
+    "i001b:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "One more thing... Lately, those UFOs have been appearing more and more often.",
+   "notes": "",
+   "uncertain": [
+    "例のUFO rendered as 'those UFOs' (the ones both scientists already know about)."
+   ],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 199,
+   "uses": [
+    "i001b:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "I think it would be wise for you to stay fully on your guard over there as well.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 200,
+   "uses": [
+    "i001b:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "早乙女博士",
+   "speaker_en": "Dr. Saotome",
+   "en": "Understood. Well then...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 265
+  },
+  {
+   "id": 201,
+   "uses": [
+    "i001b:203"
+   ],
+   "kind": "thought",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "...Operation Overlord, and the founding of a super robot unit...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 202,
+   "uses": [
+    "i001b:204"
+   ],
+   "kind": "thought",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "It's true we must get ourselves ready before they make any concrete move, but...",
+   "notes": "",
+   "uncertain": [
+    "Kept the source's 'they' (彼ら) unresolved. From context it is probably the UFO aliens (or possibly the Federation); Umon's thought does not say."
+   ],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 203,
+   "uses": [
+    "i001b:205"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Hello, Dr. Umon. I'm Koji Kabuto.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 266
+  },
+  {
+   "id": 204,
+   "uses": [
+    "i001b:206"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Oh, I'm glad you came, Koji. Has it been about a year since you were last in Japan?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 351
+  },
+  {
+   "id": 205,
+   "uses": [
+    "i001b:207"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "No... Actually, I came back once about six months ago.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 316
+  },
+  {
+   "id": 206,
+   "uses": [
+    "i001b:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I came to help Ryoma, Akira and the others fight the Dinosaur Empire and the Demon Empire.",
+   "notes": "",
+   "uncertain": [
+    "Restored 'I came' to finish the sentence begun in 205. リョウ君 = Ryoma (glossary en_short) and 洸 = Akira (Hibiki, glossary)."
+   ],
+   "lines": 2,
+   "px": 348
+  },
+  {
+   "id": 207,
+   "uses": [
+    "i001b:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "But your Mazinger Z, if I recall...",
+   "notes": "",
+   "uncertain": [
+    "Kept Umon's trailing-off line as it is in the source."
+   ],
+   "lines": 1,
+   "px": 321
+  },
+  {
+   "id": 208,
+   "uses": [
+    "i001b:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "That time was a special case. It's back in the Robot Museum now.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 338
+  },
+  {
+   "id": 209,
+   "uses": [
+    "i001b:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "I see. By the way, that TFO you flew here in... It's quite well made.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 330
+  },
+  {
+   "id": 210,
+   "uses": [
+    "i001b:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Thank you. That saucer is the fruit of my studies in America.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 310
+  },
+  {
+   "id": 211,
+   "uses": [
+    "i001b:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Because of it, though, the folks at Shirakaba Ranch mistook me for a UFO.",
+   "notes": "",
+   "uncertain": [
+    "The source is passive ('I was mistaken for a UFO'); kept 'mistook me', meaning Koji in his saucer."
+   ],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 212,
+   "uses": [
+    "i001b:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Danbei, eh... He's quite the UFO researcher, you know.",
+   "notes": "",
+   "uncertain": [
+    "団兵衛さん rendered as 'Danbei' (glossary en_short); the honorific was dropped."
+   ],
+   "lines": 2,
+   "px": 295
+  },
+  {
+   "id": 213,
+   "uses": [
+    "i001b:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "He seems a little worked up over all the UFO sightings lately.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 330
+  },
+  {
+   "id": 214,
+   "uses": [
+    "i001b:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "That's just it, Doctor. The reason I came here is...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 215,
+   "uses": [
+    "i001b:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I wanted to hear about the UFOs that have been appearing lately around this Institute of Space Science and TOKYO JUPITER.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 348
+  },
+  {
+   "id": 216,
+   "uses": [
+    "i001b:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "I don't mind, but... What for?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 293
+  },
+  {
+   "id": 217,
+   "uses": [
+    "i001b:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Well... Actually, I'd like to try making contact with them.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 336
+  },
+  {
+   "id": 218,
+   "uses": [
+    "i001b:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Contact...?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 180
+  },
+  {
+   "id": 219,
+   "uses": [
+    "i001b:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yes. Many people on Earth feel prejudice and fear toward aliens.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 220,
+   "uses": [
+    "i001b:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But I want to believe that we can come to understand them through peaceful talks.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 311
+  },
+  {
+   "id": 221,
+   "uses": [
+    "i001b:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "And I think that from now on, Earth should actively engage with other planets.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 222,
+   "uses": [
+    "i001b:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "But that will be a difficult thing, Koji.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 350
+  },
+  {
+   "id": 223,
+   "uses": [
+    "i001b:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I know.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 104
+  },
+  {
+   "id": 224,
+   "uses": [
+    "i001b:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Can humanity, still fighting among itself, deal peacefully with other planets...? Honestly, I have my doubts too.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 335
+  },
+  {
+   "id": 225,
+   "uses": [
+    "i001b:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But we have a wonderful precedent: we succeeded in making peace with the Baam.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 226,
+   "uses": [
+    "i001b:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'm never going to give up.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 230
+  },
+  {
+   "id": 227,
+   "uses": [
+    "i001b:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "I see...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 154
+  },
+  {
+   "id": 228,
+   "uses": [
+    "i001b:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "If only the alien peoples we are going to meet thought the way you do...",
+   "notes": "",
+   "uncertain": [
+    "Restored 'we' as the subject (meaning humanity)."
+   ],
+   "lines": 2,
+   "px": 338
+  },
+  {
+   "id": 229,
+   "uses": [
+    "i001b:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Father!",
+   "notes": "",
+   "uncertain": [
+    "父さん rendered as 'Father' to match Daisuke's polite register."
+   ],
+   "lines": 1,
+   "px": 130
+  },
+  {
+   "id": 230,
+   "uses": [
+    "i001b:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "What is it, Daisuke?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 240
+  },
+  {
+   "id": 231,
+   "uses": [
+    "i001b:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "There's something I need to talk to you about...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 323
+  },
+  {
+   "id": 232,
+   "uses": [
+    "i001b:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Before that, let me introduce you. This is Koji Kabuto...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 233,
+   "uses": [
+    "i001b:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "The pilot of Mazinger Z, who helped bring down Dr. Hell and the Mycenae Empire.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 325
+  },
+  {
+   "id": 234,
+   "uses": [
+    "i001b:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Never mind that. I have something important to tell you.",
+   "notes": "",
+   "uncertain": [
+    "Free rendering of それより ('Never mind that')."
+   ],
+   "lines": 2,
+   "px": 287
+  },
+  {
+   "id": 235,
+   "uses": [
+    "i001b:238"
+   ],
+   "kind": "thought",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Hey, hey, so you're just gonna ignore me!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 335
+  },
+  {
+   "id": 236,
+   "uses": [
+    "i001b:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "Daisuke, you're being rude to Koji.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 337
+  },
+  {
+   "id": 237,
+   "uses": [
+    "i001b:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "This is no time for that. Father... Have you seen the moon?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 238,
+   "uses": [
+    "i001b:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "No... At this hour, it should have only just risen... Wait, Daisuke. Don't tell me the moon's color is...!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 348
+  },
+  {
+   "id": 239,
+   "uses": [
+    "i001b:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Yes. It's glowing a fiery red.",
+   "notes": "",
+   "uncertain": [
+    "The source has no subject; restored 'It' (the moon), which 238 settles."
+   ],
+   "lines": 1,
+   "px": 271
+  },
+  {
+   "id": 240,
+   "uses": [
+    "i001b:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "What...?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 166
+  },
+  {
+   "id": 241,
+   "uses": [
+    "i001b:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "The moon...? What about the moon?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 287
+  },
+  {
+   "id": 242,
+   "uses": [
+    "i001b:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "A red moon... the signal fire for their sortie. ...You should contact the Earth Federation Forces. They will attack, without a doubt.",
+   "notes": "",
+   "uncertain": [
+    "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' (奴ら) is left unnamed as in the source."
+   ],
+   "lines": 3,
+   "px": 335
+  },
+  {
+   "id": 243,
+   "uses": [
+    "i001b:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Them? Attack? What on earth are you talking about?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 336
+  },
+  {
+   "id": 244,
+   "uses": [
+    "i001b:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "...You'd better stay out of this one. If you underestimate them, you'll get hurt.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 245,
+   "uses": [
+    "i001b:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "They're nothing like the enemies you once fought in Mazinger Z.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 342
+  },
+  {
+   "id": 246,
+   "uses": [
+    "i001b:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What...?! What's that supposed to mean?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 322
+  },
+  {
+   "id": 247,
+   "uses": [
+    "i001b:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "That's enough, Daisuke.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 266
+  },
+  {
+   "id": 248,
+   "uses": [
+    "i001b:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "宇門博士",
+   "speaker_en": "Genzo Umon",
+   "en": "...Koji, you must be tired from your long journey. Please, get some rest today.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 324
+  },
+  {
+   "id": 249,
+   "uses": [
+    "i001b:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Y-yes, sir...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 134
+  },
+  {
+   "id": 250,
+   "uses": [
+    "i001b:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": ".........",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 121
+  },
+  {
+   "id": 251,
+   "uses": [
+    "i001b:254"
+   ],
+   "kind": "thought",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Daisuke Umon... Just who is this guy...?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 315
+  },
+  {
+   "id": 252,
+   "uses": [
+    "i001b:255"
+   ],
+   "kind": "thought",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "So the time has finally come... But I don't want to pilot it... not that thing, ever again...",
+   "notes": "",
+   "uncertain": [
+    "あんな物 ('that thing') left unnamed as in the source (it is Grendizer, not yet revealed)."
+   ],
+   "lines": 2,
+   "px": 335
+  },
+  {
+   "id": 253,
+   "uses": [
+    "i001b:256"
+   ],
+   "kind": "thought",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "I don't want to pilot that thing ever again...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 292
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s00r00:0",
+    "s00s00:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s00r00:1",
+    "s00s00:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ],
+   "lines": 2,
+   "px": 280
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s00r00:2",
+    "s00s00:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 112
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s00r00:3",
+    "s00s00:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ],
+   "lines": 1,
+   "px": 276
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s00r00:4",
+    "s00s00:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ],
+   "lines": 2,
+   "px": 330
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s00r00:5",
+    "s00s00:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s00r00:6",
+    "s00s00:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ],
+   "lines": 1,
+   "px": 313
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s00r00:7",
+    "s00s00:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ],
+   "lines": 2,
+   "px": 326
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s00r00:8",
+    "s00s00:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ],
+   "lines": 2,
+   "px": 310
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s00r00:9",
+    "s00s00:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 218
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s00r00:10",
+    "s00s00:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 204
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s00r00:11",
+    "s00s00:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ],
+   "lines": 1,
+   "px": 265
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s00r00:12",
+    "s00r00:167",
+    "s00s00:12",
+    "s00s00:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 236
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s00r00:13",
+    "s00r00:168",
+    "s00s00:13",
+    "s00s00:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ],
+   "lines": 1,
+   "px": 219
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s00r00:14",
+    "s00r00:169",
+    "s00s00:14",
+    "s00s00:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 146
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s00r00:15",
+    "s00r00:170",
+    "s00s00:15",
+    "s00s00:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 289
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s00r00:16",
+    "s00r00:171",
+    "s00s00:16",
+    "s00s00:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s00r00:17",
+    "s00r00:172",
+    "s00s00:17",
+    "s00s00:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s00r00:18",
+    "s00s00:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 135
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s00r00:19",
+    "s00s00:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 298
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s00r00:20",
+    "s00r00:204",
+    "s00s00:20",
+    "s00s00:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ],
+   "lines": 1,
+   "px": 188
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s00r00:21",
+    "s00r00:22",
+    "s00s00:21",
+    "s00s00:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ],
+   "lines": 1,
+   "px": 280
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s00r00:23",
+    "s00s00:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 300
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s00r00:24",
+    "s00r00:25",
+    "s00s00:24",
+    "s00s00:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 256
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s00r00:26",
+    "s00s00:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 223
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s00r00:27",
+    "s00s00:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ],
+   "lines": 1,
+   "px": 98
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s00r00:28",
+    "s00s00:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ],
+   "lines": 1,
+   "px": 255
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s00r00:29",
+    "s00s00:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 256
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s00r00:30",
+    "s00s00:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 333
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s00r00:31",
+    "s00s00:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ],
+   "lines": 1,
+   "px": 283
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s00r00:32",
+    "s00r00:33",
+    "s00r00:173",
+    "s00s00:32",
+    "s00s00:33",
+    "s00s00:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ],
+   "lines": 1,
+   "px": 230
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s00r00:34",
+    "s00s00:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 194
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s00r00:35",
+    "s00s00:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 162
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s00r00:36",
+    "s00r00:37",
+    "s00r00:38",
+    "s00s00:36",
+    "s00s00:37",
+    "s00s00:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 142
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s00r00:39",
+    "s00r00:40",
+    "s00r00:174",
+    "s00r00:175",
+    "s00s00:39",
+    "s00s00:40",
+    "s00s00:174",
+    "s00s00:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ],
+   "lines": 1,
+   "px": 304
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s00r00:41",
+    "s00s00:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ],
+   "lines": 2,
+   "px": 309
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s00r00:42",
+    "s00s00:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s00r00:43",
+    "s00s00:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 339
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s00r00:44",
+    "s00s00:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 259
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s00r00:45",
+    "s00s00:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ],
+   "lines": 2,
+   "px": 290
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s00r00:46",
+    "s00r00:176",
+    "s00s00:46",
+    "s00s00:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 167
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s00r00:47",
+    "s00s00:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s00r00:48",
+    "s00s00:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s00r00:49",
+    "s00s00:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ],
+   "lines": 1,
+   "px": 302
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s00r00:50",
+    "s00r00:177",
+    "s00s00:50",
+    "s00s00:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 309
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s00r00:51",
+    "s00s00:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ],
+   "lines": 1,
+   "px": 192
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s00r00:52",
+    "s00s00:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ],
+   "lines": 2,
+   "px": 325
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s00r00:53",
+    "s00s00:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 154
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s00r00:54",
+    "s00s00:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 149
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s00r00:55",
+    "s00s00:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ],
+   "lines": 1,
+   "px": 277
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s00r00:56",
+    "s00s00:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ],
+   "lines": 1,
+   "px": 124
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s00r00:57",
+    "s00s00:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 159
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s00r00:58",
+    "s00s00:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 248
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s00r00:59",
+    "s00r00:179",
+    "s00s00:59",
+    "s00s00:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ],
+   "lines": 1,
+   "px": 161
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s00r00:60",
+    "s00s00:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ],
+   "lines": 2,
+   "px": 324
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s00r00:61",
+    "s00r00:180",
+    "s00s00:61",
+    "s00s00:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 257
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s00r00:62",
+    "s00r00:181",
+    "s00s00:62",
+    "s00s00:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ],
+   "lines": 1,
+   "px": 211
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s00r00:63",
+    "s00s00:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 248
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s00r00:64",
+    "s00s00:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 210
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s00r00:65",
+    "s00s00:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ],
+   "lines": 1,
+   "px": 220
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s00r00:66",
+    "s00s00:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 103
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s00r00:67",
+    "s00s00:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 211
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s00r00:68",
+    "s00s00:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 187
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s00r00:69",
+    "s00s00:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 129
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s00r00:70",
+    "s00s00:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 267
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s00r00:71",
+    "s00s00:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 220
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s00r00:72",
+    "s00s00:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 203
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s00r00:73",
+    "s00s00:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 228
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s00r00:74",
+    "s00s00:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ],
+   "lines": 1,
+   "px": 155
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s00r00:75",
+    "s00s00:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ],
+   "lines": 2,
+   "px": 288
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s00r00:76",
+    "s00s00:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 230
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s00r00:77",
+    "s00s00:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ],
+   "lines": 1,
+   "px": 309
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s00r00:78",
+    "s00s00:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 294
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s00r00:79",
+    "s00r00:182",
+    "s00s00:79",
+    "s00s00:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ],
+   "lines": 1,
+   "px": 133
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s00r00:80",
+    "s00s00:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 177
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s00r00:81",
+    "s00r00:203",
+    "s00s00:81",
+    "s00s00:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s00r00:82",
+    "s00s00:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 316
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s00r00:83",
+    "s00s00:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 199
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s00r00:84",
+    "s00r00:183",
+    "s00s00:84",
+    "s00s00:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ],
+   "lines": 1,
+   "px": 237
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s00r00:85",
+    "s00s00:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 226
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s00r00:86",
+    "s00r00:184",
+    "s00s00:86",
+    "s00s00:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 288
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s00r00:87",
+    "s00r00:185",
+    "s00s00:87",
+    "s00s00:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 316
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s00r00:88",
+    "s00r00:186",
+    "s00s00:88",
+    "s00s00:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 154
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s00r00:89",
+    "s00s00:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ],
+   "lines": 1,
+   "px": 151
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s00r00:90",
+    "s00s00:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 152
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s00r00:91",
+    "s00s00:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 141
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s00r00:92",
+    "s00r00:157",
+    "s00s00:92",
+    "s00s00:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 328
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s00r00:93",
+    "s00s00:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ],
+   "lines": 1,
+   "px": 186
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s00r00:94",
+    "s00s00:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 175
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s00r00:95",
+    "s00s00:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 162
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s00r00:96",
+    "s00s00:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 149
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s00r00:97",
+    "s00s00:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 210
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s00r00:98",
+    "s00s00:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ],
+   "lines": 2,
+   "px": 325
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s00r00:99",
+    "s00s00:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryoma! Hayato! Benkei!",
+   "notes": "",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ],
+   "lines": 1,
+   "px": 296
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s00r00:100",
+    "s00s00:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 291
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s00r00:101",
+    "s00s00:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 181
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s00r00:102",
+    "s00s00:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ],
+   "lines": 1,
+   "px": 259
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s00r00:103",
+    "s00s00:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ],
+   "lines": 1,
+   "px": 143
+  },
+  {
+   "id": 352,
+   "uses": [
+    "s00r00:104",
+    "s00s00:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ],
+   "lines": 1,
+   "px": 170
+  },
+  {
+   "id": 353,
+   "uses": [
+    "s00r00:105",
+    "s00s00:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 343
+  },
+  {
+   "id": 354,
+   "uses": [
+    "s00r00:106",
+    "s00s00:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 174
+  },
+  {
+   "id": 355,
+   "uses": [
+    "s00r00:107",
+    "s00s00:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 128
+  },
+  {
+   "id": 356,
+   "uses": [
+    "s00r00:108",
+    "s00s00:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 319
+  },
+  {
+   "id": 357,
+   "uses": [
+    "s00r00:109",
+    "s00s00:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ],
+   "lines": 2,
+   "px": 301
+  },
+  {
+   "id": 358,
+   "uses": [
+    "s00r00:110",
+    "s00s00:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ],
+   "lines": 1,
+   "px": 345
+  },
+  {
+   "id": 359,
+   "uses": [
+    "s00r00:111",
+    "s00s00:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ],
+   "lines": 1,
+   "px": 191
+  },
+  {
+   "id": 360,
+   "uses": [
+    "s00r00:112",
+    "s00s00:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 245
+  },
+  {
+   "id": 361,
+   "uses": [
+    "s00r00:113",
+    "s00r00:114",
+    "s00r00:115",
+    "s00r00:187",
+    "s00s00:113",
+    "s00s00:114",
+    "s00s00:115",
+    "s00s00:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 196
+  },
+  {
+   "id": 362,
+   "uses": [
+    "s00r00:116",
+    "s00s00:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 141
+  },
+  {
+   "id": 363,
+   "uses": [
+    "s00r00:117",
+    "s00r00:161",
+    "s00r00:166",
+    "s00s00:117",
+    "s00s00:161",
+    "s00s00:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ],
+   "lines": 1,
+   "px": 303
+  },
+  {
+   "id": 364,
+   "uses": [
+    "s00r00:118",
+    "s00s00:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ],
+   "lines": 1,
+   "px": 302
+  },
+  {
+   "id": 365,
+   "uses": [
+    "s00r00:119",
+    "s00s00:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ],
+   "lines": 1,
+   "px": 326
+  },
+  {
+   "id": 366,
+   "uses": [
+    "s00r00:120",
+    "s00s00:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ],
+   "lines": 1,
+   "px": 258
+  },
+  {
+   "id": 367,
+   "uses": [
+    "s00r00:121",
+    "s00s00:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ],
+   "lines": 1,
+   "px": 158
+  },
+  {
+   "id": 368,
+   "uses": [
+    "s00r00:122",
+    "s00s00:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 142
+  },
+  {
+   "id": 369,
+   "uses": [
+    "s00r00:123",
+    "s00s00:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 283
+  },
+  {
+   "id": 370,
+   "uses": [
+    "s00r00:124",
+    "s00s00:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ],
+   "lines": 1,
+   "px": 228
+  },
+  {
+   "id": 371,
+   "uses": [
+    "s00r00:125",
+    "s00s00:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 336
+  },
+  {
+   "id": 372,
+   "uses": [
+    "s00r00:126",
+    "s00s00:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 207
+  },
+  {
+   "id": 373,
+   "uses": [
+    "s00r00:127",
+    "s00s00:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 175
+  },
+  {
+   "id": 374,
+   "uses": [
+    "s00r00:128",
+    "s00s00:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 124
+  },
+  {
+   "id": 375,
+   "uses": [
+    "s00r00:129",
+    "s00s00:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 221
+  },
+  {
+   "id": 376,
+   "uses": [
+    "s00r00:130",
+    "s00s00:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 195
+  },
+  {
+   "id": 377,
+   "uses": [
+    "s00r00:131",
+    "s00s00:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 187
+  },
+  {
+   "id": 378,
+   "uses": [
+    "s00r00:132",
+    "s00r00:133",
+    "s00r00:134",
+    "s00r00:156",
+    "s00r00:188",
+    "s00r00:189",
+    "s00r00:190",
+    "s00r00:191",
+    "s00r00:192",
+    "s00r00:193",
+    "s00r00:194",
+    "s00s00:132",
+    "s00s00:133",
+    "s00s00:134",
+    "s00s00:156",
+    "s00s00:188",
+    "s00s00:189",
+    "s00s00:190",
+    "s00s00:191",
+    "s00s00:192",
+    "s00s00:193",
+    "s00s00:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 146
+  },
+  {
+   "id": 379,
+   "uses": [
+    "s00r00:135",
+    "s00s00:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 95
+  },
+  {
+   "id": 380,
+   "uses": [
+    "s00r00:136",
+    "s00s00:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 90
+  },
+  {
+   "id": 381,
+   "uses": [
+    "s00r00:137",
+    "s00s00:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 210
+  },
+  {
+   "id": 382,
+   "uses": [
+    "s00r00:138",
+    "s00r00:159",
+    "s00s00:138",
+    "s00s00:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 206
+  },
+  {
+   "id": 383,
+   "uses": [
+    "s00r00:139",
+    "s00r00:148",
+    "s00r00:152",
+    "s00r00:154",
+    "s00r00:164",
+    "s00r00:165",
+    "s00r00:198",
+    "s00r00:200",
+    "s00s00:139",
+    "s00s00:148",
+    "s00s00:152",
+    "s00s00:154",
+    "s00s00:164",
+    "s00s00:165",
+    "s00s00:198",
+    "s00s00:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 168
+  },
+  {
+   "id": 384,
+   "uses": [
+    "s00r00:140",
+    "s00r00:196",
+    "s00s00:140",
+    "s00s00:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 155
+  },
+  {
+   "id": 385,
+   "uses": [
+    "s00r00:141",
+    "s00r00:142",
+    "s00r00:202",
+    "s00s00:141",
+    "s00s00:142",
+    "s00s00:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 116
+  },
+  {
+   "id": 386,
+   "uses": [
+    "s00r00:143",
+    "s00r00:149",
+    "s00r00:153",
+    "s00r00:155",
+    "s00r00:162",
+    "s00r00:163",
+    "s00r00:199",
+    "s00r00:201",
+    "s00s00:143",
+    "s00s00:149",
+    "s00s00:153",
+    "s00s00:155",
+    "s00s00:162",
+    "s00s00:163",
+    "s00s00:199",
+    "s00s00:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 187
+  },
+  {
+   "id": 387,
+   "uses": [
+    "s00r00:144",
+    "s00s00:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 88
+  },
+  {
+   "id": 388,
+   "uses": [
+    "s00r00:145",
+    "s00s00:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ],
+   "lines": 1,
+   "px": 114
+  },
+  {
+   "id": 389,
+   "uses": [
+    "s00r00:146",
+    "s00s00:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 104
+  },
+  {
+   "id": 390,
+   "uses": [
+    "s00r00:147",
+    "s00s00:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 116
+  },
+  {
+   "id": 391,
+   "uses": [
+    "s00r00:150",
+    "s00s00:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 135
+  },
+  {
+   "id": 392,
+   "uses": [
+    "s00r00:151",
+    "s00s00:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 112
+  },
+  {
+   "id": 393,
+   "uses": [
+    "s00r00:158",
+    "s00s00:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 82
+  },
+  {
+   "id": 394,
+   "uses": [
+    "s00r00:160",
+    "s00r00:195",
+    "s00s00:160",
+    "s00s00:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 80
+  },
+  {
+   "id": 395,
+   "uses": [
+    "s00r00:178",
+    "s00s00:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ],
+   "lines": 1,
+   "px": 121
+  },
+  {
+   "id": 396,
+   "uses": [
+    "s00r00:197",
+    "s00s00:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 75
+  },
+  {
+   "id": 397,
+   "uses": [
+    "s00r00:206",
+    "s00s00:206"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Reduce Medius Locus's HP to 70% or less",
+   "notes": "Victory condition list entry.",
+   "uncertain": []
+  },
+  {
+   "id": 398,
+   "uses": [
+    "s00r00:207",
+    "s00s00:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. All allies destroyed",
+   "notes": "Defeat condition list entry.",
+   "uncertain": []
+  },
+  {
+   "id": 399,
+   "uses": [
+    "s00r00:208",
+    "s00s00:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...This is Wolf 1. I've reached the designated position.",
+   "notes": "",
+   "uncertain": [
+    "Callsign 'Wolf 1' (urufu 1) not in glossary; transliterated as 'Wolf 1'."
+   ],
+   "lines": 2,
+   "px": 308
+  },
+  {
+   "id": 400,
+   "uses": [
+    "s00r00:209",
+    "s00s00:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "TMC here, roger. Stand by until the Medius is ready to launch.",
+   "notes": "",
+   "uncertain": [
+    "'TMC' kept as-is: the test control station's callsign, not in the glossary and the expansion is not known. 'Medius' (short form) given the article 'the Medius'; the full name is 'Medius Locus'."
+   ],
+   "lines": 2,
+   "px": 318
+  },
+  {
+   "id": 401,
+   "uses": [
+    "s00r00:210",
+    "s00r00:233",
+    "s00s00:210",
+    "s00s00:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Wolf 1, roger.",
+   "notes": "",
+   "uncertain": [
+    "Hugo's callsign here is 'Wolf 1' (the glossary lists 'Wolf 1' as a nickname of Albero; in this scene it is clearly Hugo's callsign). Reused for both s00r00:210 and :233; it works as a reply to either."
+   ],
+   "lines": 1,
+   "px": 199
+  },
+  {
+   "id": 402,
+   "uses": [
+    "s00r00:211",
+    "s00s00:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Also, adjust the TE Engine's output with the DFC system, not manually.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 403,
+   "uses": [
+    "s00r00:212",
+    "s00s00:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Huh? Nobody said anything like that in the briefing...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 404,
+   "uses": [
+    "s00r00:213",
+    "s00s00:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "This is Dr. Zapat's order.",
+   "notes": "",
+   "uncertain": [
+    "Hakase is rendered 'Dr. Zapat' (glossary: Mitar Zapat; position Professor/General)."
+   ],
+   "lines": 1,
+   "px": 273
+  },
+  {
+   "id": 405,
+   "uses": [
+    "s00r00:214",
+    "s00s00:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Then please give me some time. I'll recalibrate the system.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 325
+  },
+  {
+   "id": 406,
+   "uses": [
+    "s00r00:215",
+    "s00s00:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "I can't allow that. The test will begin at the scheduled time.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 345
+  },
+  {
+   "id": 407,
+   "uses": [
+    "s00r00:216",
+    "s00s00:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "But that's...!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 191
+  },
+  {
+   "id": 408,
+   "uses": [
+    "s00r00:217",
+    "s00s00:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I'd say he wants to see us improvise. If you don't follow instructions, it'll hurt your rating.",
+   "notes": "",
+   "uncertain": [
+    "'he' = Dr. Zapat, the one who gave the order (glossary: male); the JP has no subject. The JP leaves open whose evaluation suffers; I wrote 'your rating' (aimed at Aqua, since the engine output is her job). 'our rating' is also possible."
+   ],
+   "lines": 3,
+   "px": 340
+  },
+  {
+   "id": 409,
+   "uses": [
+    "s00r00:218",
+    "s00s00:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Look who's talking. You don't even care what the doctor thinks of you.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 410,
+   "uses": [
+    "s00r00:219",
+    "s00s00:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...I wouldn't say that.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 248
+  },
+  {
+   "id": 411,
+   "uses": [
+    "s00r00:220",
+    "s00s00:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "It's easy for you. You've got a track record. But me...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 412,
+   "uses": [
+    "s00r00:221",
+    "s00s00:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "If you're worried about your rating, then do your own job properly.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 413,
+   "uses": [
+    "s00r00:222",
+    "s00s00:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That's my line. You're going to follow my instructions, got it?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 414,
+   "uses": [
+    "s00r00:223",
+    "s00s00:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "If they're more accurate than my own judgment.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 415,
+   "uses": [
+    "s00r00:224",
+    "s00s00:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "There you go again! Why do you think I'm riding in this machine with you!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 416,
+   "uses": [
+    "s00r00:225",
+    "s00s00:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "To adjust that troublesome engine's output.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 417,
+   "uses": [
+    "s00r00:226",
+    "s00s00:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Right, right, adjusting the TE Engine is a lot of work, so...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 343
+  },
+  {
+   "id": 418,
+   "uses": [
+    "s00r00:227",
+    "s00s00:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Wait, that's not the only reason!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 318
+  },
+  {
+   "id": 419,
+   "uses": [
+    "s00r00:228",
+    "s00s00:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "You just focus on adjusting the output. Leave everything else to me.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 351
+  },
+  {
+   "id": 420,
+   "uses": [
+    "s00r00:229",
+    "s00s00:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Don't be ridiculous! I'm not just your tagalong!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 421,
+   "uses": [
+    "s00r00:230",
+    "s00s00:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Then prove it. Keep the output in the Blue Zone.",
+   "notes": "",
+   "uncertain": [
+    "'Blue Zone' / 'Yellow Zone' (ブルーゾーン/[jp]) are not in the glossary; capitalised as gauge-zone names."
+   ],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 422,
+   "uses": [
+    "s00r00:231",
+    "s00s00:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I-I know that!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 196
+  },
+  {
+   "id": 423,
+   "uses": [
+    "s00r00:232",
+    "s00s00:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "TMC to Wolf 1. We are now launching the Medius.",
+   "notes": "",
+   "uncertain": [
+    "Uses the same article as row 400 ('the Medius')."
+   ],
+   "lines": 2,
+   "px": 329
+  },
+  {
+   "id": 424,
+   "uses": [
+    "s00r00:234",
+    "s00s00:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Medius Locus... It seems to move fairly well even unmanned.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 313
+  },
+  {
+   "id": 425,
+   "uses": [
+    "s00r00:235",
+    "s00s00:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Yeah.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 148
+  },
+  {
+   "id": 426,
+   "uses": [
+    "s00r00:236",
+    "s00s00:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "If we lose this mock battle, we won't be able to face the doctor.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 336
+  },
+  {
+   "id": 427,
+   "uses": [
+    "s00r00:237",
+    "s00s00:237"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...I'm not doing this for that man's sake.",
+   "notes": "thought",
+   "uncertain": [],
+   "lines": 2,
+   "px": 313
+  },
+  {
+   "id": 428,
+   "uses": [
+    "s00r00:238",
+    "s00s00:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...To Wolf 1. The exercise begins now.",
+   "notes": "",
+   "uncertain": [
+    "[jp]: military 'commence the scenario', written as 'The exercise begins now'."
+   ],
+   "lines": 1,
+   "px": 312
+  },
+  {
+   "id": 429,
+   "uses": [
+    "s00r00:239",
+    "s00s00:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Roger.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 155
+  },
+  {
+   "id": 430,
+   "uses": [
+    "s00r00:240",
+    "s00s00:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "This will also test the Lasmunanium's self-regeneration function. So there's no need to hold back.",
+   "notes": "",
+   "uncertain": [
+    "'Lasmunanium' per the glossary (TV Tropes spells it 'Lazmunanium')."
+   ],
+   "lines": 3,
+   "px": 333
+  },
+  {
+   "id": 431,
+   "uses": [
+    "s00r00:241",
+    "s00s00:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "You're saying it's fine if I shoot down the Medius?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 432,
+   "uses": [
+    "s00r00:242",
+    "s00s00:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "If you're capable of it, that is.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 261
+  },
+  {
+   "id": 433,
+   "uses": [
+    "s00r00:243",
+    "s00s00:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Hmph...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 158
+  },
+  {
+   "id": 434,
+   "uses": [
+    "s00r00:244",
+    "s00s00:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Also, I've made a slight change to the plan. The Medius Locus's weapons are loaded with live ammo too.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 340
+  },
+  {
+   "id": 435,
+   "uses": [
+    "s00r00:245",
+    "s00s00:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What!? Then it's no different from real combat!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 436,
+   "uses": [
+    "s00r00:246",
+    "s00s00:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Correct. One wrong move, and you two will die.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 329
+  },
+  {
+   "id": 437,
+   "uses": [
+    "s00r00:248",
+    "s00s00:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "What's wrong? Are you not confident, #女姓名?",
+   "notes": "",
+   "uncertain": [
+    "The placeholder #女姓名 (female lead's full name) is kept verbatim. It is NOT in the brief's placeholder list or in textfit's PLACEHOLDER_PX, so textfit counted it as 64 px. It sits alone on line 2 (104 px), so even a long full name still fits. Please confirm the build expands it."
+   ],
+   "lines": 2,
+   "px": 294
+  },
+  {
+   "id": 438,
+   "uses": [
+    "s00r00:249",
+    "s00s00:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "No, sir! I'll do it! I'll show you I can!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 340
+  },
+  {
+   "id": 439,
+   "uses": [
+    "s00r00:250",
+    "s00s00:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Then I look forward to good results.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 301
+  },
+  {
+   "id": 440,
+   "uses": [
+    "s00r00:251",
+    "s00s00:251"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...As if I'd get cold feet over something like this...!",
+   "notes": "thought",
+   "uncertain": [],
+   "lines": 2,
+   "px": 352
+  },
+  {
+   "id": 441,
+   "uses": [
+    "s00r00:252",
+    "s00s00:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Let's go, #女愛称!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 256
+  },
+  {
+   "id": 442,
+   "uses": [
+    "s00r00:253",
+    "s00s00:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Got it!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 152
+  },
+  {
+   "id": 443,
+   "uses": [
+    "s00r00:254",
+    "s00s00:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "#女愛称! The output's right at the edge of the Yellow Zone!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 444,
+   "uses": [
+    "s00r00:255",
+    "s00s00:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I've almost got it into the Blue Zone! Put some distance between us and the enemy for now!",
+   "notes": "",
+   "uncertain": [
+    "相手 = the opposing unit (the Medius Locus), written as 'the enemy'."
+   ],
+   "lines": 3,
+   "px": 336
+  },
+  {
+   "id": 445,
+   "uses": [
+    "s00r00:256",
+    "s00s00:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Don't be stupid! If we pull back now, we're the ones who'll get taken down!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 446,
+   "uses": [
+    "s00r00:257",
+    "s00s00:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Just follow my instructions! I'll send you the optimal MP data!",
+   "notes": "",
+   "uncertain": [
+    "'MP data' kept as in the JP (ＭＰデータ); it is not in the glossary, and the expansion is unknown."
+   ],
+   "lines": 2,
+   "px": 333
+  },
+  {
+   "id": 447,
+   "uses": [
+    "s00r00:258",
+    "s00s00:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "No, I'm pressing on!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 239
+  },
+  {
+   "id": 448,
+   "uses": [
+    "s00r00:259",
+    "s00s00:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "H-hey, wait! #男愛称!!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 280
+  },
+  {
+   "id": 449,
+   "uses": [
+    "s00r00:260",
+    "s00s00:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Damage check... This much is nothing to worry about.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 339
+  },
+  {
+   "id": 450,
+   "uses": [
+    "s00r00:261",
+    "s00s00:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "But the engine output is unstable.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 330
+  },
+  {
+   "id": 451,
+   "uses": [
+    "s00r00:262",
+    "s00r00:272",
+    "s00s00:262",
+    "s00s00:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That's because your piloting is so rough! Use the MP data I picked for you!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 319
+  },
+  {
+   "id": 452,
+   "uses": [
+    "s00r00:263",
+    "s00r00:273",
+    "s00s00:263",
+    "s00s00:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "This isn't a simulation. I can't do everything by the textbook.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 307
+  },
+  {
+   "id": 453,
+   "uses": [
+    "s00r00:264",
+    "s00r00:274",
+    "s00s00:264",
+    "s00s00:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What did you say!?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 236
+  },
+  {
+   "id": 454,
+   "uses": [
+    "s00r00:265",
+    "s00r00:275",
+    "s00s00:265",
+    "s00s00:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...Those two never change.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 240
+  },
+  {
+   "id": 455,
+   "uses": [
+    "s00r00:266",
+    "s00r00:276",
+    "s00s00:266",
+    "s00s00:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Perhaps there's a problem with the pairing after all?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 319
+  },
+  {
+   "id": 456,
+   "uses": [
+    "s00r00:267",
+    "s00r00:277",
+    "s00s00:267",
+    "s00s00:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I chose them for their aptitude. I knew from the start that their personalities clash.",
+   "notes": "",
+   "uncertain": [
+    "The source body has a stray '」@　' at the end (a script typo); I ignored it and the en has no bracket."
+   ],
+   "lines": 2,
+   "px": 332
+  },
+  {
+   "id": 457,
+   "uses": [
+    "s00r00:268",
+    "s00r00:278",
+    "s00s00:268",
+    "s00s00:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "But as things stand, they won't be able to beat AI1's results.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 344
+  },
+  {
+   "id": 458,
+   "uses": [
+    "s00r00:269",
+    "s00r00:279",
+    "s00s00:269",
+    "s00s00:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Well... we shall see about that.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 265
+  },
+  {
+   "id": 459,
+   "uses": [
+    "s00r00:270",
+    "s00s00:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "The way this feels, we'll be fine.",
+   "notes": "",
+   "uncertain": [
+    "The subject is inferred as 'we' (the pair in the unit); the JP has none."
+   ],
+   "lines": 1,
+   "px": 325
+  },
+  {
+   "id": 460,
+   "uses": [
+    "s00r00:271",
+    "s00s00:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Don't be stupid. The engine output still isn't stable.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 461,
+   "uses": [
+    "s00r00:280",
+    "s00s00:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "!? #男愛称, the Medius is moving strangely...",
+   "notes": "",
+   "uncertain": [
+    "[jp]… (trailing off) is rendered 'the Medius is moving strangely...'. 'strangely' comes from the next line ('That's odd'); the JP itself breaks off."
+   ],
+   "lines": 2,
+   "px": 336
+  },
+  {
+   "id": 462,
+   "uses": [
+    "s00r00:281",
+    "s00s00:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "That's odd. Machine trouble?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 300
+  },
+  {
+   "id": 463,
+   "uses": [
+    "s00r00:282",
+    "s00s00:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Dr. Zapat, a malfunction has occurred in the Medius Locus's control system.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 464,
+   "uses": [
+    "s00r00:283",
+    "s00s00:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "And the Lasmunanium's self-regeneration function?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 319
+  },
+  {
+   "id": 465,
+   "uses": [
+    "s00r00:284",
+    "s00s00:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "It's barely working.",
+   "notes": "",
+   "uncertain": [
+    "The subject 'It' = the self-regeneration function from row 464."
+   ],
+   "lines": 1,
+   "px": 235
+  },
+  {
+   "id": 466,
+   "uses": [
+    "s00r00:285",
+    "s00s00:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...So only AI1 can fully control that thing after all.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 344
+  },
+  {
+   "id": 467,
+   "uses": [
+    "s00r00:286",
+    "s00s00:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "What should we do?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 238
+  },
+  {
+   "id": 468,
+   "uses": [
+    "s00r00:287",
+    "s00s00:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Stop the battle. Recall the #機体名 and the Medius Locus at once.",
+   "notes": "",
+   "uncertain": [
+    "The #機体名 placeholder is given the article 'the'. If the unit name already reads well without one, drop 'the'."
+   ],
+   "lines": 2,
+   "px": 350
+  },
+  {
+   "id": 469,
+   "uses": [
+    "s00r00:288",
+    "s00s00:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Yes, sir.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 163
+  },
+  {
+   "id": 470,
+   "uses": [
+    "s00r00:289",
+    "s00s00:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Once we're back at the institute, we'll install AI1 in the Medius. Notify her in advance.",
+   "notes": "",
+   "uncertain": [
+    "彼女 'her' is kept from the source. From context it is Eldy (AI1's developer, female per the glossary), but she is not named here."
+   ],
+   "lines": 2,
+   "px": 341
+  },
+  {
+   "id": 471,
+   "uses": [
+    "s00r00:290",
+    "s00s00:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Understood.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 186
+  },
+  {
+   "id": 472,
+   "uses": [
+    "s00r00:291",
+    "s00s00:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...#男愛称, we've been ordered to return. Looks like the Medius really did have machine trouble.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 343
+  },
+  {
+   "id": 473,
+   "uses": [
+    "s00r00:292",
+    "s00s00:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Ngh...!",
+   "notes": "",
+   "uncertain": [
+    "The pained grunt う……！ is written as 'Ngh...!'."
+   ],
+   "lines": 1,
+   "px": 151
+  },
+  {
+   "id": 474,
+   "uses": [
+    "s00r00:294",
+    "s00s00:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...It's nothing.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 199
+  },
+  {
+   "id": 475,
+   "uses": [
+    "s00r00:295",
+    "s00s00:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...",
+   "notes": "",
+   "uncertain": [
+    "Silent ……… rendered '...'."
+   ],
+   "lines": 1,
+   "px": 124
+  },
+  {
+   "id": 476,
+   "uses": [
+    "s00r00:296",
+    "s00s00:296"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Is the medicine wearing off...? No, that can't be...",
+   "notes": "thought",
+   "uncertain": [],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 477,
+   "uses": [
+    "s00r00:297",
+    "i00r0a:3",
+    "i00r0a:16",
+    "i00r0a:62",
+    "i00r0a:97",
+    "s00s00:297",
+    "i00s0a:3",
+    "i00s0a:62",
+    "i00s0a:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...",
+   "notes": "",
+   "uncertain": [
+    "Silent ……… rendered '...'. The line is reused in i00r0a:3/16/62/97 (the interlude), so it is a neutral silence."
+   ],
+   "lines": 1,
+   "px": 124
+  },
+  {
+   "id": 478,
+   "uses": [
+    "s00r00:298",
+    "s00s00:298"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...If the Medius Locus had been in perfect condition...",
+   "notes": "thought",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 479,
+   "uses": [
+    "s00r00:299",
+    "s00s00:299"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "If that thing had a pilot... a skilled \"human\" aboard, we might not have come out of it in one piece...",
+   "notes": "thought",
+   "uncertain": [
+    "[jp] has no subject in the JP. I wrote 'we' (Hugo and Aqua share the machine); 'I' is also possible. 『人間』 is rendered with double quotes as \"human\"."
+   ],
+   "lines": 3,
+   "px": 341
+  },
+  {
+   "id": 480,
+   "uses": [
+    "i00r0a:0",
+    "i00s0a:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Don't overdo the tough act, #男姓名.",
+   "notes": "",
+   "uncertain": [
+    "#男姓名/#女姓名 (full-name placeholders) are not in textfit PLACEHOLDER_PX, so textfit counts them as 64px; re-checked with each expanded to 9 full-width glyphs (144px, length of the JP default full name): still FITS.",
+    "Mitar addresses the male lead by full name here (#男姓名), not the nickname; kept as in source."
+   ],
+   "lines": 2,
+   "px": 225
+  },
+  {
+   "id": 481,
+   "uses": [
+    "i00r0a:1",
+    "i00s0a:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...I'm not taking any more of your treatment.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 311
+  },
+  {
+   "id": 482,
+   "uses": [
+    "i00r0a:2",
+    "i00s0a:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "It isn't treatment. It's an adjustment.",
+   "notes": "",
+   "uncertain": [
+    "調整 rendered 'adjustment' (he is modified/cyborg); 'tune-up/maintenance' also possible."
+   ],
+   "lines": 1,
+   "px": 302
+  },
+  {
+   "id": 483,
+   "uses": [
+    "i00r0a:4",
+    "i00s0a:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I still need you to do a great deal of work as the TE Absorber's test pilot...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 340
+  },
+  {
+   "id": 484,
+   "uses": [
+    "i00r0a:5",
+    "i00s0a:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "That is why you need readjusting. Just suppressing your condition with medicine won't let you handle the unexpected.",
+   "notes": "",
+   "uncertain": [
+    "Object of 抑えている is omitted in JP; supplied 'your condition' (his symptoms) from context."
+   ],
+   "lines": 3,
+   "px": 347
+  },
+  {
+   "id": 485,
+   "uses": [
+    "i00r0a:6",
+    "i00s0a:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I'd much rather keep taking pills than be treated by you.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 337
+  },
+  {
+   "id": 486,
+   "uses": [
+    "i00r0a:7",
+    "i00s0a:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "But that way, you will reach your limit sooner or later.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 487,
+   "uses": [
+    "i00r0a:8",
+    "i00s0a:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Even if I get treated, it's not like I'll stop needing the pills, right?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 327
+  },
+  {
+   "id": 488,
+   "uses": [
+    "i00r0a:9",
+    "i00s0a:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Correct. Your body is not like an ordinary human's, after all.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 320
+  },
+  {
+   "id": 489,
+   "uses": [
+    "i00r0a:10",
+    "i00s0a:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Enough. Just hurry up and give me the pills.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 331
+  },
+  {
+   "id": 490,
+   "uses": [
+    "i00r0a:11",
+    "i00s0a:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Very well.",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 131
+  },
+  {
+   "id": 491,
+   "uses": [
+    "i00r0a:12",
+    "i00s0a:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...This is more than usual, isn't it?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 333
+  },
+  {
+   "id": 492,
+   "uses": [
+    "i00r0a:13",
+    "i00s0a:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Consider it a bonus. I am not a monster, after all. Besides, I would hate to lose a talent like you.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 344
+  },
+  {
+   "id": 493,
+   "uses": [
+    "i00r0a:14",
+    "i00s0a:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "That's rich. You normally hand over only the bare minimum.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 327
+  },
+  {
+   "id": 494,
+   "uses": [
+    "i00r0a:15",
+    "i00s0a:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Stop mouthing off and take your medicine. Before your body stops moving.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 325
+  },
+  {
+   "id": 495,
+   "uses": [
+    "i00r0a:17",
+    "i00s0a:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "...In that state, he could end up hindering the mission.",
+   "notes": "",
+   "uncertain": [
+    "あれ = the male lead (just left); 'he' used because the glossary records the male lead (Hugo) as male and the placeholder is #男."
+   ],
+   "lines": 2,
+   "px": 292
+  },
+  {
+   "id": 496,
+   "uses": [
+    "i00r0a:18",
+    "i00s0a:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Wouldn't it be better to force a readjustment on him?",
+   "notes": "",
+   "uncertain": [
+    "'him' = the male lead, as in row 495."
+   ],
+   "lines": 2,
+   "px": 294
+  },
+  {
+   "id": 497,
+   "uses": [
+    "i00r0a:19",
+    "i00s0a:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "No... For the time being, he can stay as he is.",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [
+    "'he' = the male lead, as in row 495."
+   ],
+   "lines": 2,
+   "px": 319
+  },
+  {
+   "id": 498,
+   "uses": [
+    "i00r0a:20",
+    "i00s0a:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "研究員",
+   "speaker_en": "Researcher",
+   "en": "Because he's easier to tame that way?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [
+    "'he' = the male lead, as in row 495."
+   ],
+   "lines": 2,
+   "px": 308
+  },
+  {
+   "id": 499,
+   "uses": [
+    "i00r0a:21",
+    "i00s0a:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Indeed. That medicine is the shackle on a wounded wolf.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 317
+  },
+  {
+   "id": 500,
+   "uses": [
+    "i00r0a:22",
+    "i00s0a:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "A wolf? Surely you mean a whipped dog?",
+   "notes": "",
+   "uncertain": [
+    "負け犬 (loser, lit. beaten dog) rendered 'whipped dog' to keep the wolf/dog contrast."
+   ],
+   "lines": 1,
+   "px": 326
+  },
+  {
+   "id": 501,
+   "uses": [
+    "i00r0a:23",
+    "i00s0a:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...So you've come. I trust no one saw you?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 342
+  },
+  {
+   "id": 502,
+   "uses": [
+    "i00r0a:24",
+    "i00s0a:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "No one did. You needn't worry.",
+   "notes": "",
+   "uncertain": [
+    "ええ answers 'I trust no one saw you?'; rendered as 'No one did' to keep the sense in English."
+   ],
+   "lines": 1,
+   "px": 254
+  },
+  {
+   "id": 503,
+   "uses": [
+    "i00r0a:25",
+    "i00s0a:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I have seen your report. Things seem to be proceeding as planned.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 329
+  },
+  {
+   "id": 504,
+   "uses": [
+    "i00r0a:26",
+    "i00s0a:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Of course. And on your end?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 243
+  },
+  {
+   "id": 505,
+   "uses": [
+    "i00r0a:27",
+    "i00s0a:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "I tested the Medius, but full control was impossible without AI1. Especially that particular Lasmunanium function.",
+   "notes": "",
+   "uncertain": [
+    "'that particular Lasmunanium function' = 例の機能 (presumably self-regeneration, cf. row 464); not made explicit, as the source keeps it vague."
+   ],
+   "lines": 3,
+   "px": 336
+  },
+  {
+   "id": 506,
+   "uses": [
+    "i00r0a:28",
+    "i00s0a:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Then... you will formally adopt my proposal?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 347
+  },
+  {
+   "id": 507,
+   "uses": [
+    "i00r0a:29",
+    "i00s0a:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "Yes... I will have AI1 installed at once.",
+   "notes": "",
+   "uncertain": [
+    "Subject of [jp] omitted; 'I will have AI1 installed' (Mitar arranging it) inferred."
+   ],
+   "lines": 1,
+   "px": 311
+  },
+  {
+   "id": 508,
+   "uses": [
+    "i00r0a:30",
+    "i00s0a:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Understood.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 134
+  },
+  {
+   "id": 509,
+   "uses": [
+    "i00r0a:31",
+    "i00s0a:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "And that man?",
+   "notes": "",
+   "uncertain": [
+    "あの男 = unnamed man waiting at the rendezvous (row 3 reply); identity not given in this scene."
+   ],
+   "lines": 1,
+   "px": 157
+  },
+  {
+   "id": 510,
+   "uses": [
+    "i00r0a:33",
+    "i00s0a:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "You work quickly.",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [
+    "Speaker ??? is Eldy (hidden), kept ???."
+   ],
+   "lines": 1,
+   "px": 183
+  },
+  {
+   "id": 511,
+   "uses": [
+    "i00r0a:34",
+    "i00s0a:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "I had predicted the test results.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 263
+  },
+  {
+   "id": 512,
+   "uses": [
+    "i00r0a:35",
+    "i00s0a:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 77
+  },
+  {
+   "id": 513,
+   "uses": [
+    "i00r0a:36",
+    "i00s0a:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Now then, Dr. Zapat. About the pilots of the #機体名...",
+   "notes": "",
+   "uncertain": [
+    "搭乗者 rendered 'pilots' (plural: two people named in row 514)."
+   ],
+   "lines": 2,
+   "px": 321
+  },
+  {
+   "id": 514,
+   "uses": [
+    "i00r0a:37",
+    "i00s0a:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男姓名 and #女姓名... Is it settled that those two will pilot it?",
+   "notes": "",
+   "uncertain": [
+    "#男姓名/#女姓名 (full-name placeholders) are not in textfit PLACEHOLDER_PX, so textfit counts them as 64px; re-checked with each expanded to 9 full-width glyphs (144px, length of the JP default full name): still FITS.",
+    "'pilot it' supplied for 決まり (settled as the crew of #機体名, per row 513)."
+   ],
+   "lines": 3,
+   "px": 348
+  },
+  {
+   "id": 515,
+   "uses": [
+    "i00r0a:38",
+    "i00s0a:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "It is.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 94
+  },
+  {
+   "id": 516,
+   "uses": [
+    "i00r0a:39",
+    "i00s0a:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男姓名 is a pilot with a defect...",
+   "notes": "",
+   "uncertain": [
+    "#男姓名/#女姓名 (full-name placeholders) are not in textfit PLACEHOLDER_PX, so textfit counts them as 64px; re-checked with each expanded to 9 full-width glyphs (144px, length of the JP default full name): still FITS."
+   ],
+   "lines": 2,
+   "px": 288
+  },
+  {
+   "id": 517,
+   "uses": [
+    "i00r0a:40",
+    "i00s0a:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "And #女姓名 is...",
+   "notes": "",
+   "uncertain": [
+    "#男姓名/#女姓名 (full-name placeholders) are not in textfit PLACEHOLDER_PX, so textfit counts them as 64px; re-checked with each expanded to 9 full-width glyphs (144px, length of the JP default full name): still FITS."
+   ],
+   "lines": 1,
+   "px": 257
+  },
+  {
+   "id": 518,
+   "uses": [
+    "i00r0a:41",
+    "i00s0a:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "She was your student, wasn't she? Do you feel guilty?",
+   "notes": "",
+   "uncertain": [
+    "彼女 = #女姓名 (female lead, glossary: Aqua, female); 'She' used."
+   ],
+   "lines": 2,
+   "px": 326
+  },
+  {
+   "id": 519,
+   "uses": [
+    "i00r0a:56",
+    "i00s0a:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミタール",
+   "speaker_en": "Mitar",
+   "en": "According to the Committee's scenario, the world's deterrent forces will gather on those two ships.",
+   "notes": "",
+   "uncertain": [
+    "委員会 rendered 'the Committee' (likely the Human Instrumentality Committee of the Eva side, but the source does not say so). 'the world's' added to 抑止力 for readability; その2隻 = Nadesico B and Nahel Argama (row 27)."
+   ],
+   "lines": 3,
+   "px": 338
+  },
+  {
+   "id": 520,
+   "uses": [
+    "i00r0a:63",
+    "i00s0a:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称! What have you been doing all this time?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 314
+  },
+  {
+   "id": 521,
+   "uses": [
+    "i00r0a:64",
+    "i00s0a:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Do I need to answer that?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 278
+  },
+  {
+   "id": 522,
+   "uses": [
+    "i00r0a:65",
+    "i00s0a:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "You certainly do! We agreed we'd hold a debrief together after the test!",
+   "notes": "",
+   "uncertain": [
+    "反省会 rendered 'debrief' (also rows 533)."
+   ],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 523,
+   "uses": [
+    "i00r0a:66",
+    "i00s0a:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Oh... Right, we did.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 233
+  },
+  {
+   "id": 524,
+   "uses": [
+    "i00r0a:67",
+    "i00s0a:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Honestly... I searched all over: the gunroom, the training room, your room...",
+   "notes": "",
+   "uncertain": [
+    "ガンルーム rendered 'gunroom' (naval junior officers' mess); not in glossary."
+   ],
+   "lines": 2,
+   "px": 319
+  },
+  {
+   "id": 525,
+   "uses": [
+    "i00r0a:68",
+    "i00s0a:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "You went inside my room?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 283
+  },
+  {
+   "id": 526,
+   "uses": [
+    "i00r0a:69",
+    "i00s0a:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "A young maiden yet to be wed can't just go into a single man's room alone!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 527,
+   "uses": [
+    "i00r0a:70",
+    "i00s0a:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...You're surprisingly old-fashioned.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 347
+  },
+  {
+   "id": 528,
+   "uses": [
+    "i00r0a:71",
+    "i00s0a:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Well, excuse me. Anyway, where on earth did you go?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 330
+  },
+  {
+   "id": 529,
+   "uses": [
+    "i00r0a:72",
+    "i00s0a:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "To see Dr. Zapat.",
+   "notes": "",
+   "uncertain": [
+    "Answer to 'where did you go?' rendered 'To see Dr. Zapat.' ([jp])."
+   ],
+   "lines": 1,
+   "px": 226
+  },
+  {
+   "id": 530,
+   "uses": [
+    "i00r0a:73",
+    "i00s0a:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "But we already gave our report together?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 302
+  },
+  {
+   "id": 531,
+   "uses": [
+    "i00r0a:74",
+    "i00s0a:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "After that, I had some personal business with the doctor.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 299
+  },
+  {
+   "id": 532,
+   "uses": [
+    "i00r0a:75",
+    "i00s0a:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hmmm...",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 165
+  },
+  {
+   "id": 533,
+   "uses": [
+    "i00r0a:76",
+    "i00s0a:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...We're doing the debrief, right?",
+   "notes": "",
+   "uncertain": [
+    "Subject restored as 'We' (the debrief is the pair's)."
+   ],
+   "lines": 1,
+   "px": 323
+  },
+  {
+   "id": 534,
+   "uses": [
+    "i00r0a:77",
+    "i00s0a:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That's right. Why didn't you use the MP data I chose in that last battle?",
+   "notes": "",
+   "uncertain": [
+    "'MP data' not in glossary; kept literal."
+   ],
+   "lines": 2,
+   "px": 348
+  },
+  {
+   "id": 535,
+   "uses": [
+    "i00r0a:78",
+    "i00s0a:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Because there was no need to.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 313
+  },
+  {
+   "id": 536,
+   "uses": [
+    "i00r0a:79",
+    "i00s0a:79"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Y-you've got some nerve saying that! I believe I made the right choice!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 347
+  },
+  {
+   "id": 537,
+   "uses": [
+    "i00r0a:80",
+    "i00s0a:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "True, it wasn't wrong. But it wasn't the best, either.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 349
+  },
+  {
+   "id": 538,
+   "uses": [
+    "i00r0a:81",
+    "i00s0a:81"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Oh, is that so!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 202
+  },
+  {
+   "id": 539,
+   "uses": [
+    "i00r0a:82",
+    "i00s0a:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "So the elite pilot from special ops won't rely on instructions from a rookie like me!",
+   "notes": "",
+   "uncertain": [
+    "特務部隊出身 rendered 'from special ops'; [jp] sarcasm carried by 'the elite pilot'."
+   ],
+   "lines": 2,
+   "px": 346
+  },
+  {
+   "id": 540,
+   "uses": [
+    "i00r0a:83",
+    "i00s0a:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Let me remind you, I'm the one actually piloting the machine.",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 2,
+   "px": 305
+  },
+  {
+   "id": 541,
+   "uses": [
+    "i00r0a:84",
+    "i00s0a:84"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "So I decide how to fight.",
+   "notes": "",
+   "uncertain": [
+    "どう戦うか: generic 'how to fight' kept (he pilots; the unit is shared)."
+   ],
+   "lines": 1,
+   "px": 270
+  },
+  {
+   "id": 542,
+   "uses": [
+    "i00r0a:85",
+    "i00s0a:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "So you're telling me not to butt in during battle?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 312
+  },
+  {
+   "id": 543,
+   "uses": [
+    "i00r0a:86",
+    "i00s0a:86"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "First, get used to adjusting the engine output with the DFC system. We'll talk after that.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 349
+  },
+  {
+   "id": 544,
+   "uses": [
+    "i00r0a:87",
+    "i00s0a:87"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...Fine. I'll show you I can adjust the engine output and give perfect instructions at the same time.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 3,
+   "px": 339
+  },
+  {
+   "id": 545,
+   "uses": [
+    "i00r0a:88",
+    "i00s0a:88"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "And someday, I'll be the pilot of the Medius...",
+   "notes": "",
+   "uncertain": [
+    "Subject omitted in JP; 'I' (Aqua) inferred: continues her row 544 and her stated goal of piloting the Medius."
+   ],
+   "lines": 2,
+   "px": 327
+  },
+  {
+   "id": 546,
+   "uses": [
+    "i00r0a:89",
+    "i00s0a:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Ngh...?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 155
+  },
+  {
+   "id": 547,
+   "uses": [
+    "i00r0a:90",
+    "i00s0a:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What's wrong?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 208
+  },
+  {
+   "id": 548,
+   "uses": [
+    "i00r0a:91",
+    "i00s0a:91"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "My body...!",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [
+    "Thought row (kind=thought); textfit CLI checks with dialogue brackets, same width."
+   ],
+   "lines": 1,
+   "px": 182
+  },
+  {
+   "id": 549,
+   "uses": [
+    "i00r0a:92",
+    "i00s0a:92"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称?",
+   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "uncertain": [],
+   "lines": 1,
+   "px": 200
+  },
+  {
+   "id": 550,
+   "uses": [
+    "i00r0a:93",
+    "i00s0a:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Sorry... Could you get me some water?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 301
+  },
+  {
+   "id": 551,
+   "uses": [
+    "i00r0a:94",
+    "i00s0a:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "H-hey, now! Why should I have to do that?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 328
+  },
+  {
+   "id": 552,
+   "uses": [
+    "i00r0a:96",
+    "i00s0a:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What is it? Why the serious face?",
+   "notes": "",
+   "uncertain": [
+    "Reacts to the male lead's '...Please' (row id 59) between 551 and 552."
+   ],
+   "lines": 1,
+   "px": 332
+  },
+  {
+   "id": 553,
+   "uses": [
+    "i00r0a:98",
+    "i00s0a:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Oh, honestly, fine. Water, right? Just water.",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 334
+  },
+  {
+   "id": 554,
+   "uses": [
+    "i00r0a:100",
+    "i00s0a:100"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Is the medicine wearing off sooner than before...?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 2,
+   "px": 323
+  },
+  {
+   "id": 555,
+   "uses": [
+    "i00r0a:102",
+    "i00s0a:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Thanks.",
+   "notes": "",
+   "uncertain": [
+    "すまない after receiving the water (row id 63) rendered 'Thanks'."
+   ],
+   "lines": 1,
+   "px": 175
+  },
+  {
+   "id": 556,
+   "uses": [
+    "i00r0a:103",
+    "i00s0a:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Are you thirsty?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 219
+  },
+  {
+   "id": 557,
+   "uses": [
+    "i00r0a:104",
+    "i00s0a:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "No... I need to take some medicine.",
+   "notes": "",
+   "uncertain": [
+    "Kept vague 'some medicine' as in source."
+   ],
+   "lines": 1,
+   "px": 338
+  },
+  {
+   "id": 558,
+   "uses": [
+    "i00r0a:105",
+    "i00s0a:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What medicine?",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 214
+  },
+  {
+   "id": 559,
+   "uses": [
+    "i00r0a:121",
+    "i00s0a:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "An enemy attack?!",
+   "notes": "",
+   "uncertain": [],
+   "lines": 1,
+   "px": 233
+  },
+  {
+   "id": 560,
+   "uses": [
+    "i00r0a:122",
+    "i00s0a:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "M-maybe the TE Absorber is...!",
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: TE[jp]…! (predicate omitted). Speculation that the explosion involves the TE Absorber."
+   ],
+   "lines": 1,
+   "px": 313
+  },
+  {
+   "id": 561,
+   "uses": [
+    "i00s0a:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...I know.",
+   "notes": "",
+   "uncertain": [
+    "Appears only in i00s0a:16, reply to Mitar's 'take your medicine' (row 494); i00r0a uses '.........' (row 477) there."
+   ],
+   "lines": 1,
+   "px": 170
+  }
+ ]
+}

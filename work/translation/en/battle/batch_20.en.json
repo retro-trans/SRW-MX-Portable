@@ -1,0 +1,2537 @@
+{
+ "batch": 20,
+ "rows": [
+  {
+   "id": "q07478",
+   "en": "Leave this to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07479",
+   "en": "I'll take you on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07480",
+   "en": "I'll show you a battle beyond the speed of sound!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07481",
+   "en": "I'll show you the world of 0.01 seconds!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07482",
+   "en": "I'll teach you what a difference in skill looks like!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07483",
+   "en": "Heh... Now it's Liger's turn.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07484",
+   "en": "There's no escaping Getter Liger!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07485",
+   "en": "Emperor Burai, prepare yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07486",
+   "en": "I'm sick of seeing your face, General Hidler!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07487",
+   "en": "Are you ready to die, Hyakki Empire?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07488",
+   "en": "Leave the demon-slaying to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07489",
+   "en": "Hyakki robot, I'll take you on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07490",
+   "en": "Now it's our turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07491",
+   "en": "Here's some payback!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07492",
+   "en": "Tch!! I must be losing my touch!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07493",
+   "en": "What did you say!?",
+   "notes": "Also used by Emperor Burai; generic wording works for both.",
+   "uncertain": []
+  },
+  {
+   "id": "q07494",
+   "en": "Tch!! I slipped up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07495",
+   "en": "Damn! At this rate...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07496",
+   "en": "Kuh!! You're better than I thought.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07497",
+   "en": "Tch!! This is getting a little dicey!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07498",
+   "en": "Whoa! Did that do too much damage!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07499",
+   "en": "Guh! I can't make a sorry show of myself here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07500",
+   "en": "Tch... I never thought I'd get pushed this far.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07501",
+   "en": "I-I'm counting on you, Hayato!",
+   "notes": "Shared Getter Liger set: Ryoma or Benkei speaking to Hayato.",
+   "uncertain": [
+    "Speaker inferred as Ryoma or Benkei (addresses Hayato)."
+   ]
+  },
+  {
+   "id": "q07502",
+   "en": "The next one's coming, stay sharp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07503",
+   "en": "Wh-whoa! We took a hit, Hayato!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei or Ryoma (addresses Hayato)."
+   ]
+  },
+  {
+   "id": "q07504",
+   "en": "Gwah... That's a lot of damage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07505",
+   "en": "Don't worry, I'll manage somehow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07506",
+   "en": "Uagh! The enemy's zeroing in on us for sure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07507",
+   "en": "Wh-what do we do now!?",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei (panicked partner line)."
+   ]
+  },
+  {
+   "id": "q07508",
+   "en": "Then I'll just finish them off with the next one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07509",
+   "en": "Ugh! So they can keep up with Liger!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07510",
+   "en": "Hyakki Empire... Don't think I'll back down after this.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07511",
+   "en": "Whoa there!! Not yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07512",
+   "en": "Like I'd go down from this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07513",
+   "en": "Ugh!! You're pretty good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07514",
+   "en": "Hmph! But I'm not beaten yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07515",
+   "en": "Not a chance! I'm not done yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07516",
+   "en": "Heh!! Not bad!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07517",
+   "en": "Guh!! But I can still handle this much!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07518",
+   "en": "W-we got hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07519",
+   "en": "Tch... Are we at a disadvantage like this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07520",
+   "en": "Then it's time to change, Hayato!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Ryoma or Benkei urging Hayato to change form."
+   ]
+  },
+  {
+   "id": "q07521",
+   "en": "Tch, I got careless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07522",
+   "en": "Don't do anything reckless, Hayato!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07523",
+   "en": "Yeah, Ryo's right!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei agreeing with Ryo."
+   ]
+  },
+  {
+   "id": "q07524",
+   "en": "Th-they're latching onto us!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07525",
+   "en": "Looks like this one's a tough opponent...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07526",
+   "en": "What's wrong, you two... Losing your nerve isn't like you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07527",
+   "en": "Heh... Landing a hit on my Getter? Not bad.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07528",
+   "en": "Liger taking a direct hit... I got careless.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07529",
+   "en": "Hoh... Not bad, Hyakki Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07530",
+   "en": "Not good enough!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07531",
+   "en": "You're doing it all wrong.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07532",
+   "en": "Heh... Is that all?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07533",
+   "en": "Damn! I got hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07534",
+   "en": "Tch! It grazed me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07535",
+   "en": "This damage is nothing!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07536",
+   "en": "Heh... I'm still a softie, huh.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07537",
+   "en": "Hayato, that one grazed us!",
+   "notes": "",
+   "uncertain": [
+    "Partner line to Hayato; speaker inferred."
+   ]
+  },
+  {
+   "id": "q07538",
+   "en": "So you can keep up with my speed!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07539",
+   "en": "I can't let my guard down against this one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07540",
+   "en": "Whoa, you're pretty good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07541",
+   "en": "Is their speed a match for ours!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07542",
+   "en": "Hmph, stop joking around!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07543",
+   "en": "What's wrong, Hayato! This isn't like you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07544",
+   "en": "Want me to take over for you?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07545",
+   "en": "Heh... You two couldn't handle that one.",
+   "notes": "Target of the line kept gender-neutral (that one).",
+   "uncertain": [
+    "Hayato addressing Ryoma and Benkei after they suggest he struggles; referent inferred."
+   ]
+  },
+  {
+   "id": "q07546",
+   "en": "I'll give you credit for hitting my Liger.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07547",
+   "en": "That's a disgrace to the Hyakki Empire name!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07548",
+   "en": "Too naive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07549",
+   "en": "That won't hit me!",
+   "notes": "Also used by Vegan soldiers and Hugo Medio; generic wording.",
+   "uncertain": []
+  },
+  {
+   "id": "q07550",
+   "en": "Don't underestimate Getter's speed!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07551",
+   "en": "Going after my Getter was your mistake.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07552",
+   "en": "Hayato!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07553",
+   "en": "Heh... Targeting my Getter is just reckless.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07554",
+   "en": "Sorry, I don't have time to play with you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07555",
+   "en": "At that speed, you'll never hit me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07556",
+   "en": "If it were me, that might've hit...",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei after Hayato's dodge."
+   ]
+  },
+  {
+   "id": "q07557",
+   "en": "Don't feel bad. You just picked the wrong opponent.",
+   "notes": "",
+   "uncertain": [
+    "Read as Hayato taunting the attacker after a dodge; could alternatively be Hayato reassuring Benkei about the previous line."
+   ]
+  },
+  {
+   "id": "q07558",
+   "en": "Can't be helped, going up against my Liger.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07559",
+   "en": "Heh... They're really looking down on us.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07560",
+   "en": "Hayato, it's too early to relax.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07561",
+   "en": "Impressive, Hayato.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07562",
+   "en": "Dodging something like that is a given.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07563",
+   "en": "That was close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07564",
+   "en": "Nah, I dodged that with room to spare.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07565",
+   "en": "Heh... That doesn't hurt!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07566",
+   "en": "Beams are nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07567",
+   "en": "Heh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07568",
+   "en": "Defense system, activate!",
+   "notes": "Also used by Ryoma Nagare.",
+   "uncertain": []
+  },
+  {
+   "id": "q07569",
+   "en": "This is a battle beyond the speed of sound!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07570",
+   "en": "I'll dodge it with an Open Get!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07571",
+   "en": "Mach Special!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07572",
+   "en": "Damn! Are we too far away!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07573",
+   "en": "Showing me an opening was the end of your luck!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07574",
+   "en": "One more strike with Getter's speed!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07575",
+   "en": "My Getter can still attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07576",
+   "en": "Heh... I'm such a soft touch.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07577",
+   "en": "Throwing the enemy into chaos is my specialty!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07578",
+   "en": "Fine, I'll help you out.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07579",
+   "en": "Liger Missile!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07580",
+   "en": "Drill Arm!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07581",
+   "en": "Raaaaah!! Daisetsuzan Oroshiiii!!",
+   "notes": "Benkei's attack; also used by Ryoma set.",
+   "uncertain": []
+  },
+  {
+   "id": "q07582",
+   "en": "This is Michiru, commencing attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07583",
+   "en": "Here I go!",
+   "notes": "Also used by Ryoma Nagare; neutral wording.",
+   "uncertain": []
+  },
+  {
+   "id": "q07584",
+   "en": "Just watch me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07585",
+   "en": "This is Michiru, commencing counterattack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07586",
+   "en": "Kyaaaaah! Ryo! Hayato! Benkei!",
+   "notes": "Honorific -kun dropped per campaign rule; Ryo nickname per glossary.",
+   "uncertain": []
+  },
+  {
+   "id": "q07587",
+   "en": "I've been taken down. Everyone, the rest is up to you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07588",
+   "en": "Aaaaaah......!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07589",
+   "en": "Kyaaaah! Father!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07590",
+   "en": "Oh no!! At this rate!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07591",
+   "en": "Ugh! It's no use, their power is too much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07592",
+   "en": "Getter Queen can't hold its own!?",
+   "notes": "Glossary: Getter Q = Getter Queen.",
+   "uncertain": []
+  },
+  {
+   "id": "q07593",
+   "en": "Like I'd go down from something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07594",
+   "en": "Kuh! How dare you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07595",
+   "en": "I'm okay! Getter Queen can still fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07596",
+   "en": "Ah!! Geez, I meant to dodge that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07597",
+   "en": "Geez! You got me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07598",
+   "en": "What, that was nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07599",
+   "en": "This? It's just a scratch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07600",
+   "en": "Don't underestimate Getter Queen!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07601",
+   "en": "I'm still fine with this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07602",
+   "en": "You've got to be kidding!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07603",
+   "en": "Knock it off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07604",
+   "en": "Hah!!",
+   "notes": "Also used by Hikaru Makiba.",
+   "uncertain": []
+  },
+  {
+   "id": "q07605",
+   "en": "Like that attack would hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07606",
+   "en": "Hey, that was dangerous!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07607",
+   "en": "That attack won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07608",
+   "en": "Beams won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07609",
+   "en": "Out of energy!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07610",
+   "en": "Oh no! I'm out of energy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07611",
+   "en": "I can't reach it like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07612",
+   "en": "I can't counter with Getter Queen's weapons!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07613",
+   "en": "I can't counterattack......!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07614",
+   "en": "I can't counterattack......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07615",
+   "en": "I won't let you escape!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07616",
+   "en": "Okay, let's do this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07617",
+   "en": "Alright!",
+   "notes": "Also used by Ryoma Nagare.",
+   "uncertain": []
+  },
+  {
+   "id": "q07618",
+   "en": "Getter Beam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07619",
+   "en": "You can't escape this one!",
+   "notes": "",
+   "uncertain": [
+    "Ryoma's line inside Michiru's combo-attack set."
+   ]
+  },
+  {
+   "id": "q07620",
+   "en": "Twin Tomahaaawk!!",
+   "notes": "Twin Tomahawk per glossary (marked unverified there).",
+   "uncertain": [
+    "Twin Tomahawk glossary entry is an unverified literal rendering."
+   ]
+  },
+  {
+   "id": "q07621",
+   "en": "Michiru!",
+   "notes": "Ryoma calling Michiru; honorific -san dropped.",
+   "uncertain": []
+  },
+  {
+   "id": "q07622",
+   "en": "Hyaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07623",
+   "en": "Michiru, believe in the power of Getter...!",
+   "notes": "Ryoma to Michiru; -san dropped.",
+   "uncertain": []
+  },
+  {
+   "id": "q07624",
+   "en": "Double Getter Beeeam!!",
+   "notes": "",
+   "uncertain": [
+    "Double Getter Beam glossary entry is literal and unverified."
+   ]
+  },
+  {
+   "id": "q07625",
+   "en": "I'll use any means necessary!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07626",
+   "en": "The time has come for us, the Hyakki clan, to conquer the world!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07627",
+   "en": "The whole world shall be miiine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07628",
+   "en": "I'll finish you all in one go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07629",
+   "en": "Defeat them at all costs and seize the Getter Ray amplifier!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07630",
+   "en": "Out of my waaay!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07631",
+   "en": "Silence!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07632",
+   "en": "Feel the might of us, the Hyakki clan!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07633",
+   "en": "Curses... I won't forget this grudge even in death!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07634",
+   "en": "I, Burai, king of the Hyakki... Guoooooh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07635",
+   "en": "You won't get off lightly either!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07636",
+   "en": "Don't give up!",
+   "notes": "",
+   "uncertain": [
+    "Read as Burai urging his own side (support/encouragement slot)."
+   ]
+  },
+  {
+   "id": "q07637",
+   "en": "Wh-what an outrage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07638",
+   "en": "You dare make light of us, the Hyakki clan... You'll regret this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07639",
+   "en": "Hmm, a tougher foe than I expected.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07640",
+   "en": "What are you dawdling for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07641",
+   "en": "What a blunder!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07642",
+   "en": "Hm? What's going on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07643",
+   "en": "Buhahahaha! No attack can so much as shake me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07644",
+   "en": "Waahahahahaha! Victory is as good as mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07645",
+   "en": "There's no challenge in this at all.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07646",
+   "en": "Heh heh heh... Not bad, for an enemy.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07647",
+   "en": "I won't let the likes of you lay a finger on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07648",
+   "en": "Do you still not understand!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07649",
+   "en": "Well done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07650",
+   "en": "Can't you see it's useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07651",
+   "en": "Blast it, what a disgrace!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07652",
+   "en": "What's the matter!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07653",
+   "en": "Nonsense! Now is the perfect chance!",
+   "notes": "",
+   "uncertain": [
+    "Read as Burai scolding subordinates who hesitate; opening exclamation rendered as Nonsense."
+   ]
+  },
+  {
+   "id": "q07654",
+   "en": "I'll scatter you all in one sweep!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07655",
+   "en": "You dare underestimate the power of the Hyakki clan!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07656",
+   "en": "Blast it, what are you doing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07657",
+   "en": "Where are you aiming!? Wasn't it me you were after?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07658",
+   "en": "Blast it, fire, fire, keep on firiiing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07659",
+   "en": "Die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07660",
+   "en": "This is the end for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07661",
+   "en": "Foolish humans! Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07662",
+   "en": "Reduce them to scrap!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07663",
+   "en": "Feel the power of the Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07664",
+   "en": "The likes of you are no match for the great Hidler!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07665",
+   "en": "I will crush you without fail!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07666",
+   "en": "Bury them at any cost!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07667",
+   "en": "Show them the terror of the Hyakki!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07668",
+   "en": "Fool, you dare defy the Hyakki Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07669",
+   "en": "I'll snuff the life out of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07670",
+   "en": "Mecha Yousaiki is invincible! Die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07671",
+   "en": "Waaaaaaaaagh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07672",
+   "en": "Remember this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07673",
+   "en": "I won't croak in a place like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07674",
+   "en": "Curses! This isn't over!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07675",
+   "en": "Impossible! To think they had this much power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07676",
+   "en": "Not good! Should I fall back for now...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07677",
+   "en": "What are you dawdling around for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07678",
+   "en": "Blast it! Don't think you've won with this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07679",
+   "en": "I'll make you pay for this with your own hands!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07680",
+   "en": "You'll regret ever wounding the great Hidler!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07681",
+   "en": "Oh! Not bad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07682",
+   "en": "Fuhahahaha! Is that all!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07683",
+   "en": "Coming at me with only that? You fool!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07684",
+   "en": "Just small fry after all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07685",
+   "en": "Wh-what is this?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07686",
+   "en": "As if an attack like that would hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07687",
+   "en": "Good, hold that altitude!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07688",
+   "en": "Hee hee hee hee hee hee, keep it up!",
+   "notes": "Hidler's distinctive giggle kept as Hee hee.",
+   "uncertain": []
+  },
+  {
+   "id": "q07689",
+   "en": "Do you still not understand that it's useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07690",
+   "en": "What a fool!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07691",
+   "en": "I won't let you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07692",
+   "en": "What a fool...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07693",
+   "en": "Curses! You got lucky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07694",
+   "en": "I told you not to waste energy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07695",
+   "en": "Tch! Lucky bastard!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07696",
+   "en": "Damn, from that far away!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07697",
+   "en": "Good, the time for an all-out attack has come!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07698",
+   "en": "Prepare for battle!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07699",
+   "en": "Now I'll finish them off myself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07700",
+   "en": "Well done, fall back for now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07701",
+   "en": "Hyaah!!",
+   "notes": "Also used by Kazuya Ryuzaki.",
+   "uncertain": []
+  },
+  {
+   "id": "q07702",
+   "en": "I'll finish you in one blow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07703",
+   "en": "Here's my trump card!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07704",
+   "en": "Believe in the power of Getter......!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07705",
+   "en": "Take the power of Getter!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07706",
+   "en": "Leave it to Getter!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07707",
+   "en": "Feel the power of the Dragoooon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07708",
+   "en": "This is the end, Emperor Burai!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07709",
+   "en": "Prepare yourself, General Hidler!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07710",
+   "en": "Hyakki Empire, prepare yourselves!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07711",
+   "en": "Here I come, Hyakki robot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07712",
+   "en": "You're up against us, Hyakki scum!",
+   "notes": "Plural derogatory suffix on Hyakki rendered as scum.",
+   "uncertain": []
+  },
+  {
+   "id": "q07713",
+   "en": "How dare you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07714",
+   "en": "Now it's our turn!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07715",
+   "en": "Kuh...!! Is this the end!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07716",
+   "en": "Whoa!! Th-this is bad!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07717",
+   "en": "Kuh! Not good......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07718",
+   "en": "Whoa!! What power!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07719",
+   "en": "D-damn!! At this rate......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07720",
+   "en": "Gwah!! This is bad! At this rate!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07721",
+   "en": "Whoa!! Did we take too much damage!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07722",
+   "en": "Gah! I-I can't go down yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07723",
+   "en": "Not yet! I'll show you what we're made of!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07724",
+   "en": "Gwah! Hayato, Benkei! Are you okay!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07725",
+   "en": "I-I'm fine back here!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei (answers Ryoma's check)."
+   ]
+  },
+  {
+   "id": "q07726",
+   "en": "But there won't be a next time, Ryo!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Hayato."
+   ]
+  },
+  {
+   "id": "q07727",
+   "en": "Ugh! What's wrong, Ryo!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07728",
+   "en": "Come on, I'm begging you, get it together!",
+   "notes": "",
+   "uncertain": [
+    "Partner (Hayato or Benkei) urging Ryoma; speaker inferred."
+   ]
+  },
+  {
+   "id": "q07729",
+   "en": "I know! I won't get hit next time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07730",
+   "en": "Guh... To think they'd push us this far...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07731",
+   "en": "You're not bad, for an enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07732",
+   "en": "But I can't back down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07733",
+   "en": "Th-this is bad! At this rate, even the Dragon...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07734",
+   "en": "Gah! But we can't lose to the Hyakki Empire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07735",
+   "en": "Whoa!! I-I can still go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07736",
+   "en": "Ugh!! I won't let you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07737",
+   "en": "Whoa!! You're good!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07738",
+   "en": "Not yet!! Not from something like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07739",
+   "en": "Whoa! Why, you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07740",
+   "en": "Kuh! You're good! But I'm not done yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07741",
+   "en": "Ngh!! I won't fall from this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07742",
+   "en": "Damn, did they hit the anti-gravity circuit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07743",
+   "en": "!! Getter! Not yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07744",
+   "en": "H-hey, the enemy's moving fast!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei."
+   ]
+  },
+  {
+   "id": "q07745",
+   "en": "Ryo! Let me take over!",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Hayato."
+   ]
+  },
+  {
+   "id": "q07746",
+   "en": "Damn, did we take a direct hit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07747",
+   "en": "What are you doing, Ryo!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07748",
+   "en": "This isn't like you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07749",
+   "en": "Looks like the enemy's a match for us.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07750",
+   "en": "R-really!?",
+   "notes": "",
+   "uncertain": [
+    "Speaker inferred as Benkei."
+   ]
+  },
+  {
+   "id": "q07751",
+   "en": "If the three of us combine our strength, we can't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07752",
+   "en": "Gwah!! Getter's got more than this!!",
+   "notes": "Rendered the trailing 'Getter is not done with just this' as a complete claim.",
+   "uncertain": []
+  },
+  {
+   "id": "q07753",
+   "en": "You don't have the power to beat the Dragon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07754",
+   "en": "Hyakki Empire... Don't get cocky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07755",
+   "en": "Heh, this much is nothing!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07756",
+   "en": "Hah, it only grazed us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07757",
+   "en": "What's wrong, is that all you've got!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07758",
+   "en": "This much damage is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07759",
+   "en": "Hmph! Not yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07760",
+   "en": "What, it hit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07761",
+   "en": "What's wrong, Ryo! Want me to take over!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07762",
+   "en": "There's no need, Hayato!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07763",
+   "en": "Ryo, this is no time to be doing the enemy favors!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07764",
+   "en": "Dodge properly next time, will ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07765",
+   "en": "Yeah, I know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07766",
+   "en": "Damn, did I fail to dodge!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07767",
+   "en": "Were you looking the other way, Ryo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07768",
+   "en": "Heh... I'm not you, you know.",
+   "notes": "",
+   "uncertain": [
+    "Ryoma retort to Hayato's teasing in previous row."
+   ]
+  },
+  {
+   "id": "q07769",
+   "en": "That won't be enough to beat Getter!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07770",
+   "en": "As expected of Getter... This much is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07771",
+   "en": "That won't work on the Dragon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07772",
+   "en": "Do you think you can beat us, Hyakki scum!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07773",
+   "en": "Whoops!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07774",
+   "en": "Too slow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07775",
+   "en": "Too naive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07776",
+   "en": "Hup!",
+   "notes": "Also used by Kazuya Ryuzaki.",
+   "uncertain": []
+  },
+  {
+   "id": "q07777",
+   "en": "Ryo, I'm counting on you to keep that up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07778",
+   "en": "Emergency evasion!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07779",
+   "en": "All right, that's Ryo for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07780",
+   "en": "Once I read your moves, it's nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07781",
+   "en": "What's wrong, you're not stepping in far enough!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07782",
+   "en": "That won't even graze the Dragon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07783",
+   "en": "Like that would ever hit our Getter!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07784",
+   "en": "Heh... Nice one, Ryo.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07785",
+   "en": "Yes! I deflected it completely!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07786",
+   "en": "Open Get! Emergency evasion!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07787",
+   "en": "Whoa! Damn! I can't counterattack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07788",
+   "en": "No good, not at this range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07789",
+   "en": "Damn, not at this range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07790",
+   "en": "I'll lend a hand with Getter Robo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07791",
+   "en": "We'll follow up with an attack too!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07792",
+   "en": "Not yet, one more hit! Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07793",
+   "en": "I'll keep it going! Koji!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07794",
+   "en": "Tetsuya! Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07795",
+   "en": "Michiru, I'll lend you a hand!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07796",
+   "en": "I'll take care of this enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07797",
+   "en": "Leave this to me, and get away while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07798",
+   "en": "I'll protect you with Getter Robo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07799",
+   "en": "Koji, are you okay!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07800",
+   "en": "Tetsuya, now's your chance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07801",
+   "en": "Fall back, Michiru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07802",
+   "en": "Here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07803",
+   "en": "Spin Cutteeer!!",
+   "notes": "Spin Cutter and Getter Shine names from campaign_terms glossary.",
+   "uncertain": []
+  },
+  {
+   "id": "q07804",
+   "en": "Double Tomahaaaawk!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07805",
+   "en": "Double Tomahaawk!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07806",
+   "en": "Double Tomahaawk Boooomerang!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07807",
+   "en": "Double Tomahaawk! Boooomerang!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07808",
+   "en": "Double Tomahawk Boomerang!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07809",
+   "en": "Getter Shiiiine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07810",
+   "en": "Shiiine Spaaaaark!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07811",
+   "en": "You're not good enough to take on Getter!",
+   "notes": "Source uses the commonly misused idiom meaning the opponent is inadequate; translated by intended meaning.",
+   "uncertain": []
+  },
+  {
+   "id": "q07812",
+   "en": "Don't underestimate the power of Getter...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07813",
+   "en": "I'll send you to the depths of Hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07814",
+   "en": "Commence attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07815",
+   "en": "Out of my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07816",
+   "en": "Stop dawdling and attack now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07817",
+   "en": "Plunge headfirst into the depths of Hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07818",
+   "en": "Have you come here to die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07819",
+   "en": "Here I come, Duke Fleed!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07820",
+   "en": "Duke Fleed! I will be the one to defeat you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07821",
+   "en": "Duke Fleed! Today is your last day alive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07822",
+   "en": "Here I come, Grendizer!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07823",
+   "en": "No matter how much you run, it's all the same!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07824",
+   "en": "You'll regret defying us, the Vegan Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07825",
+   "en": "What are you doing! Return fire, now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07826",
+   "en": "Impossible! This can't be happening!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07827",
+   "en": "J-Junioooor!!",
+   "notes": "Zuril crying out for his son Zuril Jr. (glossary).",
+   "uncertain": []
+  },
+  {
+   "id": "q07828",
+   "en": "Kuh... Impossible!? I'm being beaten this badly!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07829",
+   "en": "Guh, unforgivable! I will snuff you out for sure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07830",
+   "en": "This can't be happening! Blast it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07831",
+   "en": "C-curse youuuuu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07832",
+   "en": "Kuh... This is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07833",
+   "en": "To do this much! I'll remember this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07834",
+   "en": "Fufufu-fu, I'm not done yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07835",
+   "en": "So you came all this way just to throw your life away.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07836",
+   "en": "You intend to defy me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07837",
+   "en": "So you came here of your own accord to die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07838",
+   "en": "You call that an attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07839",
+   "en": "Naive! You challenge me, Zuril, with only that!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07840",
+   "en": "This is easy.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07841",
+   "en": "Their power is just as I predicted.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07842",
+   "en": "Fufufu-fu, that won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07843",
+   "en": "Fu fu fu fu fu, it seems you noticed a step too late.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07844",
+   "en": "Stop dawdling and resupply already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07845",
+   "en": "Damn, where are you!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07846",
+   "en": "What!? You've got to be kidding!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07847",
+   "en": "They're within our range! Provide support at once!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07848",
+   "en": "So you took our bait!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07849",
+   "en": "This mothership can take it! Use it to shield our units!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07850",
+   "en": "I'm your opponent! I can't let you have your way here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07851",
+   "en": "In the name of the commander of the Vegan Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07852",
+   "en": "Make a bloody example of them!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07853",
+   "en": "I'll finish you off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07854",
+   "en": "Snuff out their lives!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07855",
+   "en": "Attack! Keep on attacking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07856",
+   "en": "Shoot them down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07857",
+   "en": "I'll show you what true terror is!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07858",
+   "en": "C-curse you! Curse you! Curse youuu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07859",
+   "en": "Silence the enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07860",
+   "en": "Smash them to pieces, whatever it takes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07861",
+   "en": "Strike them down in return!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07862",
+   "en": "Damn, I've been hit!? Blast it, is this the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07863",
+   "en": "Gwaaaah!! My life, the life of Gandal, will soon be at an end......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07864",
+   "en": "Just a little more...... Just a little more and I'd have beaten them......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07865",
+   "en": "O-ohh!? Kuh, kuh... H-how strong!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07866",
+   "en": "Blast it, why can't I win!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07867",
+   "en": "N-no, that's impossible!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07868",
+   "en": "Prepare to evacuate! The escape saucer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07869",
+   "en": "All hands, emergency evacuation, hurry! It's going to explode!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07870",
+   "en": "Guh, but I can't retreat like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07871",
+   "en": "Unthinkable!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07872",
+   "en": "What's wrong!? What happened!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07873",
+   "en": "Failure will not be tolerated!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07874",
+   "en": "Too slow! What are you dawdling for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07875",
+   "en": "What's going on!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07876",
+   "en": "Unforgivable. I'll deliver judgment myself.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07877",
+   "en": "Surrender now while you still can.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07878",
+   "en": "So you've stuck your nose in again!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07879",
+   "en": "What is the matter!",
+   "notes": "Also used by King Vega.",
+   "uncertain": []
+  },
+  {
+   "id": "q07880",
+   "en": "Fools, they've fallen right into our trap.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07881",
+   "en": "What is it, what's all this racket!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07882",
+   "en": "Fu fu fu fu, fools!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07883",
+   "en": "Naturally!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07884",
+   "en": "Impressive, that's quite some power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07885",
+   "en": "The ignorant, incompetent lot are panicking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07886",
+   "en": "Yes! Keep it up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07887",
+   "en": "Well done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07888",
+   "en": "The ignorant, incompetent Earthlings are panicking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07889",
+   "en": "Curses! And we were so close.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07890",
+   "en": "Never mind! Look for a nearby enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07891",
+   "en": "Your life is mine, I, Gandal, shall take it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q07892",
+   "en": "Fool! I am your opponent!!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

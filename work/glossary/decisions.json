@@ -1,0 +1,29 @@
+{
+ "_comment": "Manual picks. Priority: names (here) > akurasu.net (akurasu_terms.json) > same name in a higher section > owner group. Reasons in docs/glossary_decisions.md.",
+ "names": {
+  "東山大三郎": "Daizaburou Higashiyama",
+  "ダイン": "Dein",
+  "ゲバイ": "Gewai",
+  "補給": "Resupply",
+  "少林寺拳法": "Shaolin kung fu",
+  "チューリップ": "Chulip",
+  "ＥＶＡ零号機": "EVA-00",
+  "マッフユニット": "MAFFU unit",
+  "統率": "Leadership",
+  "ガルファ": "Gulfer",
+  "凰牙": "Ogre"
+ },
+ "no_text_fix": [
+  "少林寺拳法"
+ ],
+ "text_fixes": {
+  "Vega Star Union Forces": "Vegan Empire forces",
+  "GMFA1": "GMFA-1",
+  "Tulip": "Chulip",
+  "Maffu": "MAFFU",
+  "Muff": "MAFFU",
+  "Galfa": "Gulfer",
+  "Oger": "Ogre",
+  "Ouga": "Ogre"
+ }
+}

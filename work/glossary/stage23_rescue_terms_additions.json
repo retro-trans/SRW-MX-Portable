@@ -1,0 +1,10 @@
+{
+ "terms": [
+  {"jp":"不可知領域","en":"unknowable realm","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source326/336 provisional literal technical label. No exact Akurasu/independent English entry located; do not substitute a named dream world or imply a known mechanism."},
+  {"jp":"位相空間","en":"phase space","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source357 speculative technical location,358 comic reprise. Literal compound, no exact Akurasu/independent licensed-English phrase located; preserve speculation rather than assert travel mechanics."},
+  {"jp":"マクー空間","en":"Makuu Space","sources":["https://tamashiiweb.com/item/14206/?wovn=en","work/translation/en/script/stage23_campaign.json"],"notes":"Source358 Kaine comic alternative reference. Official Bandai/Tamashii English product corroborates Makuu Space naming; no exact Akurasu entry. Do not append Gavan explanation or claim this is the Dolem's actual space."},
+  {"jp":"補完計画","en":"Instrumentality Project","sources":["work/glossary/glossary.json","https://www.evaotaku.com/html/rcb-glossary.html","work/translation/en/script/stage23_campaign.json"],"notes":"Source458 short form of main Human Instrumentality Project, also corroborated by secondary English terminology. Preserve short form without adding Human or exposing unspecified secrets."},
+  {"jp":"虚数回路","en":"imaginary-number circuit","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source400 literal technical compound. No exact Akurasu/independent licensed English established. Preserve one-thousandth-second interference interval without importing original-series mechanism."},
+  {"jp":"回廊","en":"corridor","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source326/401 literal corridor formed/destroyed in Dolem rescue plan. No exact Akurasu/independent licensed English label located. Do not resolve to a named dimension or supply additional mechanism."}
+ ]
+}

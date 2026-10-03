@@ -1,0 +1,8 @@
+{
+ "terms": [
+  {"jp":"百鬼メカ","en":"Hyakki mechs","sources":["https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List","work/translation/en/script/stage20_campaign.json"],"notes":"Source generic plural/category descriptor based on existing Hyakki faction stem. Akurasu MX uses Hyakki in named units; this does not substitute Combined Hyakki Robot or name a particular mech. Exact independent licensed category wording unestablished."},
+  {"jp":"百鬼兵士","en":"Hyakki soldiers","sources":["https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List","work/translation/en/script/stage20_campaign.json"],"notes":"Source generic personnel descriptor based on existing Hyakki faction stem. No exact Akurasu compound located; retain source category without invented rank or named unit. Exact independently licensed compound unestablished."},
+  {"jp":"光子力反応炉","en":"Photon Power reactor","sources":["https://akurasu.net/wiki/Super_Robot_Wars/W/Playable_Unit_Database","work/translation/en/script/stage20_campaign.json"],"notes":"Source descriptive reactor compound based on main Photon Power spelling, supported by Akurasu terminology. No exact Akurasu reactor-label entry located; no mechanism or modern reactor physics imported. Exact licensed compound unestablished."},
+  {"jp":"光子力ロケットエンジン","en":"Photon Power rocket engine","sources":["https://akurasu.net/wiki/Super_Robot_Wars/W/Playable_Unit_Database","work/translation/en/script/stage20_campaign.json"],"notes":"Source descriptive engine compound based on main Photon Power spelling; rocket engine remains explicit. No exact independently licensed compound located; do not replace with a named engine, reactor or outside-setting mechanism."}
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "terms": [
+  {
+   "jp": "サヨリ",
+   "en": "Sayori",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of terminal colony name; no exact Akurasu or independently established licensed English name found. Do not add mythology/location details."
+  },
+  {
+   "jp": "タギツ",
+   "en": "Tagitsu",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of terminal colony name; no exact Akurasu or independently established licensed English name found. Keep route order intact."
+  },
+  {
+   "jp": "コロニー管理法",
+   "en": "Colony Management Act",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-literal fictional Nadesico statute; no exact Akurasu or independently established licensed English label found. Preserve emergency-inspection provision without adding real-world legal powers."
+  },
+  {
+   "jp": "天の岩戸",
+   "en": "Amano-Iwato",
+   "sources": [
+    "https://www.jinjahoncho.or.jp/en/assets/pdf/pamphlet/soul-of-japan.pdf",
+    "https://en.ise-kanko.jp/iseguide/amanoiwato/",
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Mythological cave name explicitly confirmed by Association of Shinto Shrines English pamphlet, Amano-Iwato, the celestial cave. Source refers to the legend; no location or additional mythology added. No exact Akurasu entry found."
+  }
+ ]
+}

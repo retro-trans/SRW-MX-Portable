@@ -1,0 +1,2217 @@
+{
+ "batch": 16,
+ "rows": [
+  {
+   "id": "q06190",
+   "en": "Have at you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06191",
+   "en": "Fuhahahahaha!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06192",
+   "en": "Fool!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06193",
+   "en": "I can read your every move as if it were in my palm...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06194",
+   "en": "Living any longer means nothing for the likes of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06195",
+   "en": "Savor the Kyral Killing Art to the fullest!!",
+   "notes": "",
+   "uncertain": [
+    "Kyral's technique (Kyral satsuho) rendered 'Kyral Killing Art'; not in glossary (Gundam Wiki romanizes it Kyral Satsuho)."
+   ]
+  },
+  {
+   "id": "q06196",
+   "en": "You monster!! Pass on and rest in peace!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06197",
+   "en": "I'll send you all to the next world together!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06198",
+   "en": "I'll show you too...! The darkness of this world!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06199",
+   "en": "Prey that I target, I always bring down...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06200",
+   "en": "Will you see it too!? The darkness of this world!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06201",
+   "en": "Repent!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06202",
+   "en": "Splendid... Gwoooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06203",
+   "en": "Gwooh! Impossible!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06204",
+   "en": "Nnngh... Surrounded on all sides...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06205",
+   "en": "To think you'd land a blow... on this Grim Reaper...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06206",
+   "en": "My back is to the wall...! I won't die for nothing!!",
+   "notes": "",
+   "uncertain": [
+    "'I won't die for nothing' for the idiom meaning he will take the enemy with him / not die cheaply."
+   ]
+  },
+  {
+   "id": "q06207",
+   "en": "Heh, it seems the Reaper hungers for me instead...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06208",
+   "en": "If it's come to this... it's live or die, one or the other!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06209",
+   "en": "What!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06210",
+   "en": "Nuoooh!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06211",
+   "en": "This is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06212",
+   "en": "This one is skilled...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06213",
+   "en": "This one... went for my cockpit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06214",
+   "en": "Nwaah! I couldn't evade it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06215",
+   "en": "An attack like this is nothing...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06216",
+   "en": "I see. So that is the extent of your skill.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06217",
+   "en": "What of it!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06218",
+   "en": "Was I careless!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06219",
+   "en": "Heh, there is no need to worry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06220",
+   "en": "Don't think you can get past my Mandala Gundam so easily...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06221",
+   "en": "I see it! I see it all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06222",
+   "en": "Hmph, how futile...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06223",
+   "en": "Fuhahahaha! Did you see that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06224",
+   "en": "Not yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06225",
+   "en": "The Mandala Gundam has no blind spots!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06226",
+   "en": "Fuhahahahaha!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06227",
+   "en": "That's how it is! Too bad for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06228",
+   "en": "It is meaningless before the Kyral Killing Art!",
+   "notes": "",
+   "uncertain": [
+    "'Kyral Killing Art' for Kyral satsuho; not in glossary."
+   ]
+  },
+  {
+   "id": "q06229",
+   "en": "I meant to put you out of your misery in one blow...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06230",
+   "en": "Heh, your life... I'll let you keep it for now.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06231",
+   "en": "It's too soon to relax, you know...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06232",
+   "en": "Fuhahaha! Don't think you can escape me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06233",
+   "en": "I must ask you to disappear...!",
+   "notes": "",
+   "uncertain": [
+    "Kyral uses unusually polite speech here; rendered as a cold polite 'I must ask you to disappear'."
+   ]
+  },
+  {
+   "id": "q06234",
+   "en": "I'll lend you my blade, Domon Kasshu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06235",
+   "en": "I'll lend you a hand! Allenby!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06236",
+   "en": "The Mandala Gundam has arrived! Honor bids me lend my blade!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06237",
+   "en": "Fall back! I'll hold them off here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06238",
+   "en": "Blast, it's going to hit! Sharpen your senses!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06239",
+   "en": "I'll handle this with my Mandala Gundam!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06240",
+   "en": "Rest assured!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06241",
+   "en": "Nnh!? Get back, Domon!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06242",
+   "en": "No...! Allenby!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06243",
+   "en": "I can't afford to lose these people yet...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06244",
+   "en": "Behold the Kyral Killing Art! Here I come!!",
+   "notes": "",
+   "uncertain": [
+    "'Kyral Killing Art' for Kyral satsuho; not in glossary."
+   ]
+  },
+  {
+   "id": "q06245",
+   "en": "Nuahahahaha!! Let us show them our power!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06246",
+   "en": "I shall lend my aid to the fullest!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06247",
+   "en": "Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06248",
+   "en": "My blood is dancing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06249",
+   "en": "Nuuuunh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06250",
+   "en": "Darkness means nothing to me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06251",
+   "en": "Can you stop my killing sword!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06252",
+   "en": "You leap into the Reaper's grasp of your own accord!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06253",
+   "en": "Die!",
+   "notes": "",
+   "uncertain": [
+    "Shared with King Vega; 'Die!' works for both."
+   ]
+  },
+  {
+   "id": "q06254",
+   "en": "......There!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06255",
+   "en": "Your head... is mine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06256",
+   "en": "Fall here, and do it with dignity!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06257",
+   "en": "Burn to death where you stand! Purgatory Heat Waaave!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06258",
+   "en": "How about this! Purgatory Heat Waaave!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06259",
+   "en": "Kyral Killing Art, Mandala Formation!! Gokuraku Ojooo!!",
+   "notes": "",
+   "uncertain": [
+    "Glossary weapon is 'Mandala Formation: Gokuraku Ojo'; prefixed with 'Kyral Killing Art' (not in glossary)."
+   ]
+  },
+  {
+   "id": "q06260",
+   "en": "Namu Amida Butsu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06261",
+   "en": "Shuffle Alliance Club Ace, Sai Saici! Let's fight fair and square!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06262",
+   "en": "Your head is mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06263",
+   "en": "Running into me... Tough luck for you, pal!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06264",
+   "en": "Alrighty, I'm going full throttle from the start!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06265",
+   "en": "I don't wear this crest just for show, y'know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06266",
+   "en": "Dragon Gundam, on the scene!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06267",
+   "en": "I'll show you 4000 years of Chinese martial arts!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06268",
+   "en": "Get a good taste of my razor-sharp moves!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06269",
+   "en": "This time... I'm gonna win! Fight me, King of Hearts!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06270",
+   "en": "Big Bro Domon! No holding back on either side!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06271",
+   "en": "Devil Gundam! Time for you to disappear!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06272",
+   "en": "I've finally got you! Time to settle this once and for all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06273",
+   "en": "My crest's been glowing nonstop this whole time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06274",
+   "en": "Four Heavenly Kings or whatever, I'll show you what's what!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06275",
+   "en": "Now it's my turn to pay you back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06276",
+   "en": "You hit me, I hit you right back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06277",
+   "en": "You'd better be ready for this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06278",
+   "en": "Alright then, time for me to cut loose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06279",
+   "en": "Okay, it's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06280",
+   "en": "My winning streak starts right here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06281",
+   "en": "I got off to a slow start, but now it begins!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06282",
+   "en": "Ugh... uuh... I... I lost...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06283",
+   "en": "Dad... Daaaaad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06284",
+   "en": "I can't lose... to something like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06285",
+   "en": "Gruuh... Even if I die, I can't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06286",
+   "en": "Guh! Waaaaagh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06287",
+   "en": "Dragon Gundam! Keep... keep moving for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06288",
+   "en": "As long as I'm alive... I won't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06289",
+   "en": "The real fight... starts now! Don't stop yet, Dragon Gundam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06290",
+   "en": "If I go down here... this thing'll be left running loose...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06291",
+   "en": "Didn't know there was someone this strong... I love it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06292",
+   "en": "Whoa! Heh, looks like an opponent right up my alley!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06293",
+   "en": "Not bad! Now I can finally get serious!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06294",
+   "en": "Dragon Gundam! The real fight starts now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06295",
+   "en": "Tch! This is tougher than I figured.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06296",
+   "en": "A direct hit!? ...Not quite, but that's bad.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06297",
+   "en": "Not yet! I won't lose to some freak Gundam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06298",
+   "en": "You think you can beat me with that?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06299",
+   "en": "Heh heh! That didn't hurt a bit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06300",
+   "en": "Naive, sooo naive~",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06301",
+   "en": "C'mon, are you even trying?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06302",
+   "en": "You scratched my Dragon!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06303",
+   "en": "Aw man, how lame. I got hit.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06304",
+   "en": "What, is this all you've got? The Devil Gundam, huh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06305",
+   "en": "Aaand hup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06306",
+   "en": "Dodged it!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Ayato Kamina; 'Dodged it!' works for both."
+   ]
+  },
+  {
+   "id": "q06307",
+   "en": "You think you can catch me with that!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06308",
+   "en": "Hahahahaha, I'm over here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06309",
+   "en": "Heh heh, can you even see me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06310",
+   "en": "Behold, a trick too quick for the eye!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06311",
+   "en": "Over here, over here! I'm this way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06312",
+   "en": "Whoops, I'll be blocking that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06313",
+   "en": "Whoa-whoa-whoa! That startled me a bit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06314",
+   "en": "Heh heh! That's what you call a barrier!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06315",
+   "en": "Whoops-a-daisy, missiles don't work on me",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06316",
+   "en": "Bring on all the missiles you want!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06317",
+   "en": "Haah! Was that a bit too flashy?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06318",
+   "en": "Haiii! That's how it's done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06319",
+   "en": "My output won't go up!? You're kidding!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06320",
+   "en": "They kept me out of range... Tch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06321",
+   "en": "This one's mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06322",
+   "en": "Heh heh! Don't get scared!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06323",
+   "en": "Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06324",
+   "en": "Bro! I'll take it from here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06325",
+   "en": "Big Bro Chibodee! I'll finish it off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06326",
+   "en": "Well then, guess I'll do it beautifully too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06327",
+   "en": "Old man! Let's do a combo!",
+   "notes": "",
+   "uncertain": [
+    "'Old man' (ossan) assumed to be Argo, as in Sai's other partner lines; the English does not name him."
+   ]
+  },
+  {
+   "id": "q06328",
+   "en": "Sis Rain, you're pretty good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06329",
+   "en": "Guess I'll dance up a flashy storm too!",
+   "notes": "",
+   "uncertain": [
+    "Partner line, likely aimed at Allenby (dancing style); English kept neutral."
+   ]
+  },
+  {
+   "id": "q06330",
+   "en": "Whoa there! Not on my watch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06331",
+   "en": "Okay okay, back up, back up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06332",
+   "en": "This is a job for the Dragon Gundam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06333",
+   "en": "Big Bro Domon! Look out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06334",
+   "en": "Some champion you are! You're being careless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06335",
+   "en": "Elegance is fine and all, but be careful, 'kay?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06336",
+   "en": "Old man! ...Huh, guess you didn't need me.",
+   "notes": "",
+   "uncertain": [
+    "'Old man' assumed to be Argo; unnamed in English."
+   ]
+  },
+  {
+   "id": "q06337",
+   "en": "Sis Rain, I can't bear to watch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06338",
+   "en": "Dancing's fine, but you forgot to dodge!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06339",
+   "en": "Can you see through my combo!? Here goes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06340",
+   "en": "Now! Let's take 'em down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06341",
+   "en": "I'll take that one! I'm counting on your cover!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06342",
+   "en": "First strike wins!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06343",
+   "en": "Leave the vanguard to the Dragon Gundam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06344",
+   "en": "You rang, and out I pop! Here goes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06345",
+   "en": "You got it! Just leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06346",
+   "en": "The fun starts now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06347",
+   "en": "If it's come to this, I'll finish it! Feilong Flaaag!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06348",
+   "en": "Feilong Flag! Go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06349",
+   "en": "Spin, Feilong Flag! Haiiiii!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06350",
+   "en": "Run!! Baopei!!",
+   "notes": "",
+   "uncertain": [
+    "Baopei (the Chinese 'treasure' summoned with the Feilong Flag) is not in the glossary; romanized as Baopei, could also be Paopei."
+   ]
+  },
+  {
+   "id": "q06351",
+   "en": "Toooryaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06352",
+   "en": "Haaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06353",
+   "en": "Dance, Dragon! Bueikyaku!",
+   "notes": "",
+   "uncertain": [
+    "Glossary weapon is 'Bueikyaku (No-Shadow Kick)'; shouted as 'Bueikyaku' only."
+   ]
+  },
+  {
+   "id": "q06354",
+   "en": "See through it if you can! Bueikyaku!",
+   "notes": "",
+   "uncertain": [
+    "Shouted as 'Bueikyaku' (glossary: Bueikyaku (No-Shadow Kick))."
+   ]
+  },
+  {
+   "id": "q06355",
+   "en": "Bueikyakuuu!!",
+   "notes": "",
+   "uncertain": [
+    "Shouted as 'Bueikyaku' (glossary: Bueikyaku (No-Shadow Kick))."
+   ]
+  },
+  {
+   "id": "q06356",
+   "en": "Hoaaaa-chachachachacha!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06357",
+   "en": "Hai-hai-hai-hai-hai-hai-haiiii!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06358",
+   "en": "Dragon! Fiiire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06359",
+   "en": "Burn! Dragon Fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06360",
+   "en": "Bamboo groves in the heavens! Shaolin Temple on the earth!",
+   "notes": "",
+   "uncertain": [
+    "First half of a split line (no closing bracket)."
+   ]
+  },
+  {
+   "id": "q06361",
+   "en": "What I'll show you now is the final secret art!",
+   "notes": "",
+   "uncertain": [
+    "Second half of a split line (no opening bracket); pairs with q06360."
+   ]
+  },
+  {
+   "id": "q06362",
+   "en": "Shin! Ryusei Kochokeeeeen!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06363",
+   "en": "Uuuuuh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06364",
+   "en": "Uwoooooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06365",
+   "en": "Hah, hah-hah",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06366",
+   "en": "Nuoooooooh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06367",
+   "en": "Uh, guh, aah-aaaagh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06368",
+   "en": "Uwaaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06369",
+   "en": "Uwaaaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06370",
+   "en": "Uwoooooooh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06371",
+   "en": "Guoooooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06372",
+   "en": "Hup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06373",
+   "en": "......?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06374",
+   "en": "...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06375",
+   "en": "Diiiie!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06376",
+   "en": "Shuffle Alliance, Jack in Diamond... George DeSand, here I come!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06377",
+   "en": "En garde! Here I come!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06378",
+   "en": "How about this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06379",
+   "en": "I shall see you off with a funeral procession of roses!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06380",
+   "en": "On my honor as a knight... I shall defeat you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06381",
+   "en": "On the pride of House DeSand... I shall win this battle!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06382",
+   "en": "In the name of the Knight of the Rose! En garde!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06383",
+   "en": "Now, shall we have ourselves a duel!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06384",
+   "en": "Defeating you is our mission!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06385",
+   "en": "Those cursed Devil Gundam Cells... I shall destroy them!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06386",
+   "en": "Now, I believe it's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06387",
+   "en": "If that's how you want it, I won't hold back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06388",
+   "en": "Very well, I shall be your opponent!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06389",
+   "en": "I, George DeSand, will neither run nor hide!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06390",
+   "en": "Gundam Rose shall grant you a match!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06391",
+   "en": "You are prepared, I trust?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06392",
+   "en": "I do hope this battle has some meaning!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06393",
+   "en": "I can't afford to sit idle either, you see!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06394",
+   "en": "H-how regrettable... My fate ends here...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06395",
+   "en": "I-impossible, the Gundam Rose...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06396",
+   "en": "Guh! A knight... never turns his back on the enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06397",
+   "en": "What's wrong...! The battle isn't over yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06398",
+   "en": "Ugh! I cannot back down here.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06399",
+   "en": "On my honor as a knight... I cannot lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06400",
+   "en": "Not yet! Gundam Rose!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06401",
+   "en": "If I fall here, the Devil Gundam will...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06402",
+   "en": "That sin deserves ten thousand deaths!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06403",
+   "en": "Heh, impressive.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06404",
+   "en": "That's more like it. Otherwise there'd be no challenge.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06405",
+   "en": "Kh...! It seems I underestimated you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06406",
+   "en": "Gundam Rose... you can still go on, yes?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06407",
+   "en": "I'll thank you not to think this is enough to finish me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06408",
+   "en": "Devil Gundam! The battle is only just beginning!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06409",
+   "en": "Oh? Is that all?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06410",
+   "en": "You still have far to go.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06411",
+   "en": "It seems you lack the skill.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06412",
+   "en": "To think you'd scratch the Gundam Rose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06413",
+   "en": "Oh dear, how careless. How unlike me...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06414",
+   "en": "A mere scratch... I'd say.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06415",
+   "en": "With that little power, you'd call yourself the strongest Gundam?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06416",
+   "en": "Such a technique is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06417",
+   "en": "That's naive thinking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06418",
+   "en": "That won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06419",
+   "en": "I'd ask you to know your place.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06420",
+   "en": "Your attacks have no sense of aesthetics.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06421",
+   "en": "Honestly... You show no refinement at all.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06422",
+   "en": "What's the matter? Is that all?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06423",
+   "en": "Heh... Where were you looking?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06424",
+   "en": "Heh heh... It seems you're no match for the Gundam Rose.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06425",
+   "en": "A fine attack, but... it won't get through like that.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06426",
+   "en": "Beams won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06427",
+   "en": "Not so! Gundam Rose has defenses too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06428",
+   "en": "Heh heh... It's useless.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06429",
+   "en": "Missiles won't work on me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06430",
+   "en": "Haah! Heh... That's how it's done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06431",
+   "en": "Gundam Rose! We're going at full power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06432",
+   "en": "Did I drag this fight out too long...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06433",
+   "en": "I see, that was well thought out...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06434",
+   "en": "That's hardly a fair way to fight...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06435",
+   "en": "I'm going in too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06436",
+   "en": "Pardon me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06437",
+   "en": "Don't forget that I'm here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06438",
+   "en": "As for me, I shall attack with elegance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06439",
+   "en": "Leaping and bounding isn't all there is to beauty, you know.",
+   "notes": "",
+   "uncertain": [
+    "Partner line; target unclear (probably Sai or Allenby). Kept neutral."
+   ]
+  },
+  {
+   "id": "q06440",
+   "en": "Lively as ever, aren't you!",
+   "notes": "",
+   "uncertain": [
+    "Partner line; target unclear (probably Allenby or Sai). Kept neutral."
+   ]
+  },
+  {
+   "id": "q06441",
+   "en": "Why not try fighting with a bit more aesthetic sense?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06442",
+   "en": "Domon! Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06443",
+   "en": "Mademoiselle Rain, leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06444",
+   "en": "Look out! Stand back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06445",
+   "en": "Protecting the weak is a knight's duty!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06446",
+   "en": "Oh, perhaps you had no need of my concern?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06447",
+   "en": "Even for a tomboy, protecting a lady is a knight's duty!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06448",
+   "en": "Even 4000 years of Chinese martial arts seem a bit outmatched!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06449",
+   "en": "This is what happens when you throw punches haphazardly!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06450",
+   "en": "Domon! Don't push too far forward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06451",
+   "en": "Think nothing of it. Protecting ladies is also a knight's duty!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06452",
+   "en": "Now, are you ready? Here we go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06453",
+   "en": "Let us settle this here and now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06454",
+   "en": "Leave this to Gundam Rose!! I'm counting on your support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06455",
+   "en": "Then, let me fulfill my mission!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06456",
+   "en": "It seems you need my help.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06457",
+   "en": "Understood. Then, here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06458",
+   "en": "Can you parry this sword!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06459",
+   "en": "The gleam of my sword... receive it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06460",
+   "en": "This sword is my pride! Chevalier Saber!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06461",
+   "en": "Go! Rose Biiit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06462",
+   "en": "My greatest technique... I shall show you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06463",
+   "en": "Rose! Screamer!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06464",
+   "en": "There's no escaping this vortex of energy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06465",
+   "en": "Rose Hurricane!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06466",
+   "en": "Go, Rose Hurricane!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06467",
+   "en": "This ends it! Rose Hurricane!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06468",
+   "en": "Shuffle Alliance, Queen the Spade... Chibodee Crocket, let's go!",
+   "notes": "",
+   "uncertain": [
+    "'Queen the Spade' from glossary nickname of Chibodee."
+   ]
+  },
+  {
+   "id": "q06469",
+   "en": "The bell's already rung! Let's go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06470",
+   "en": "I'm gonna KO you in round one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06471",
+   "en": "Let's make this an easy title defense!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06472",
+   "en": "Come on, baby!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06473",
+   "en": "Hey, Japanese! No playing around for either of us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06474",
+   "en": "This is your final round, Devil Gundam!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06475",
+   "en": "Don't you get in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06476",
+   "en": "Heh, you satisfied now?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06477",
+   "en": "Hey! It's too early for you to take me on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06478",
+   "en": "I'll pound the basics into you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06479",
+   "en": "Jeeesus! What the hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06480",
+   "en": "Oh my Gooood!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06481",
+   "en": "Ugh... so this is my final round...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06482",
+   "en": "Not yet! Nobody's thrown in the towel!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06483",
+   "en": "Me... on the verge of getting KO'd!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06484",
+   "en": "Guh! Stand up, Maxter!",
+   "notes": "",
+   "uncertain": [
+    "'Maxter' = Gundam Maxter, short form."
+   ]
+  },
+  {
+   "id": "q06485",
+   "en": "NO! Pushing Maxter this far!?",
+   "notes": "",
+   "uncertain": [
+    "'Maxter' = Gundam Maxter, short form."
+   ]
+  },
+  {
+   "id": "q06486",
+   "en": "This is... power!? I won't accept it! I won't!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06487",
+   "en": "Ugh! Guess we're only at mid-match!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06488",
+   "en": "Seems you've got what it takes to trade blows with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06489",
+   "en": "Tch, you're one tough bastard!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06490",
+   "en": "This has turned into a dirty brawl! Goddamn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06491",
+   "en": "Kh! I put on a pretty lame showing there.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06492",
+   "en": "Shit! Is this the Devil Gundam's power!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06493",
+   "en": "Heh... this is gonna get fun.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06494",
+   "en": "Come on! Get serious!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06495",
+   "en": "Shit! How could I let that happen!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06496",
+   "en": "Hmph! What a cheap punk!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06497",
+   "en": "You big lug, you're all show!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06498",
+   "en": "Can't keep up with this footwork, huh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06499",
+   "en": "Bingo! Just like I read it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06500",
+   "en": "There's a line waiting behind you! Next!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06501",
+   "en": "At this rate, the crowd's gonna get bored!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06502",
+   "en": "Looks like we're in different leagues.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06503",
+   "en": "Guess this trick works too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06504",
+   "en": "Hey, you! That doesn't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06505",
+   "en": "Hmph, if I've got it, I might as well use it.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06506",
+   "en": "Whoa there! Too bad.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06507",
+   "en": "Heh! So slow a fly could land on it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06508",
+   "en": "Tch, did I pace myself wrong...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06509",
+   "en": "C'mon! Trade blows with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06510",
+   "en": "That bastard's got some nice footwork...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06511",
+   "en": "Goddamn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06512",
+   "en": "Outta the way! I'll do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06513",
+   "en": "I'm the real main event!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06514",
+   "en": "The undercard's over! I'm the main eventer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06515",
+   "en": "I don't like going after this guy, but... fine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06516",
+   "en": "Outta the way, Chinese! I'll handle this!",
+   "notes": "",
+   "uncertain": [
+    "Chibodee calls Sai 'Chinese' (source: chainiizu); kept at that strength."
+   ]
+  },
+  {
+   "id": "q06517",
+   "en": "Pretentious attacks as usual, geez!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06518",
+   "en": "Old man! Leave the finish to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06519",
+   "en": "You're doing good, Rain. I'll wrap it up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06520",
+   "en": "Your attacks are too light! This is how it's done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06521",
+   "en": "Hey, you! Get back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06522",
+   "en": "I can't stand watching! Butt out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06523",
+   "en": "Next time, block with a peekaboo style!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06524",
+   "en": "I'm the one who gets to land a hit on you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06525",
+   "en": "Quit making me babysit you, Chinese!",
+   "notes": "",
+   "uncertain": [
+    "Chibodee calls Sai 'Chinese'; kept."
+   ]
+  },
+  {
+   "id": "q06526",
+   "en": "Geooorge! You butt out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06527",
+   "en": "Old man! Don't push yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06528",
+   "en": "Hey, girl! Leave this to your knight!",
+   "notes": "",
+   "uncertain": [
+    "Source 'naito' = knight; read as Chibodee posing as the knight to Rain. Could be a jab at George's knight shtick."
+   ]
+  },
+  {
+   "id": "q06529",
+   "en": "Allenby! Your guard's wide open!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06530",
+   "en": "I'm taking the main event! You hear me, guys!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06531",
+   "en": "This sucks! I'm just the semi-main event!?",
+   "notes": "",
+   "uncertain": [
+    "'Semi-final' in the boxing/pro-wrestling card sense (the bout before the main event), rendered 'semi-main event'."
+   ]
+  },
+  {
+   "id": "q06532",
+   "en": "Gigantic Magnuuum!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06533",
+   "en": "Shoot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06534",
+   "en": "I'll treat you to a load of lead!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06535",
+   "en": "Just hit the canvas!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06536",
+   "en": "Ora ora oraaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06537",
+   "en": "Go night-night with my punch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06538",
+   "en": "Cyclone Punch!! Get blown away!!",
+   "notes": "",
+   "uncertain": [
+    "Cyclone Punch is not in the glossary (glossary note on Cyclone Beam mentions Maxter has Cyclone Punch)."
+   ]
+  },
+  {
+   "id": "q06539",
+   "en": "Deeeeyaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06540",
+   "en": "Buuuurning Punch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06541",
+   "en": "Shoooooot!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06542",
+   "en": "Burn, my fist!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06543",
+   "en": "Burning! Puuuunch!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06544",
+   "en": "This is my finishing blow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06545",
+   "en": "Buuurniiing! Machine Guuun! Puuunch!",
+   "notes": "",
+   "uncertain": [
+    "Glossary 'Burning Machine Gun Punch'; stretched as shouted."
+   ]
+  },
+  {
+   "id": "q06546",
+   "en": "Sorry, but I'm calling the KO!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06547",
+   "en": "Burning! Machine Gun Punch...! Fiiinaaal!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q06548",
+   "en": "Take thiiis! My! My Machine Gun Punch!!",
+   "notes": "",
+   "uncertain": [
+    "'Machine Gun Punch' short form of glossary 'Burning Machine Gun Punch'."
+   ]
+  }
+ ]
+}

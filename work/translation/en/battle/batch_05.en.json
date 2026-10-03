@@ -1,0 +1,2389 @@
+{
+ "batch": 5,
+ "rows": [
+  {
+   "id": "q01957",
+   "en": "Looks like I win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01958",
+   "en": "Allow me to finish you off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01959",
+   "en": "I'm the one who will defeat you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01960",
+   "en": "Heh heh... We Three Generals are a cut above those Machine Beasts!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01961",
+   "en": "You too will become a cornerstone of the Gulfer Empire.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01962",
+   "en": "The glory will be mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01963",
+   "en": "All who defy Gulfer will be erased!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01964",
+   "en": "Daaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01965",
+   "en": "Dendoh! At last, the time has come for us to clash!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01966",
+   "en": "I am the one who will defeat Dendoh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01967",
+   "en": "I'll show you no mercy, Knight Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01968",
+   "en": "For Oyakata-sama's sake, I'll finish you all here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01969",
+   "en": "I'll show you no more mercy!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01970",
+   "en": "Don't get clever with me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01971",
+   "en": "I won't stand for any more of this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01972",
+   "en": "You can lament defying us in the afterlife!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01973",
+   "en": "Just lie down and die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01974",
+   "en": "Dendoh! Today I'll finally get you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01975",
+   "en": "Wh-What!? Impossible!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01976",
+   "en": "Nuooooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01977",
+   "en": "O-Oyakata-samaaa!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01978",
+   "en": "Uooh, oooh! M-My body!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01979",
+   "en": "T-To think I'd be beaten this badly!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01980",
+   "en": "Nngh...! Retreating like this would only shame me further!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01981",
+   "en": "Who'd have thought you had this much power...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01982",
+   "en": "Y-You! You got my Core!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01983",
+   "en": "Impossible!? Ogre has this much power without Altair...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01984",
+   "en": "U-Ugh! I never knew Dendoh was this strong!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01985",
+   "en": "You won't get away with this!! Knight Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01986",
+   "en": "Guuuugh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01987",
+   "en": "Curse you! You wretch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01988",
+   "en": "Hmph, I'm far from done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01989",
+   "en": "The Three Generals of Spiral Castle don't fall to the likes of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01990",
+   "en": "Guooh!? Th-This power exceeds the data...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01991",
+   "en": "Curse you, Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01992",
+   "en": "Hm...!? What was that just now?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01993",
+   "en": "Such things don't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01994",
+   "en": "Fool, you dare defy me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01995",
+   "en": "What's wrong? You won't beat me like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01996",
+   "en": "Against one mere GEAR machine, why has Gulfer...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01997",
+   "en": "Hmph! What's the matter, Knight Ogre!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01998",
+   "en": "Heh... How naive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01999",
+   "en": "As if that'd hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02000",
+   "en": "You can't keep up with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02001",
+   "en": "I've seen right through it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02002",
+   "en": "Too bad for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02003",
+   "en": "You're wasting your time...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02004",
+   "en": "I've already studied your weapons!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02005",
+   "en": "Heh! Do you still not get it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02006",
+   "en": "I've prepared for this too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02007",
+   "en": "Don't underestimate Gulfer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02008",
+   "en": "You can't catch me? Hardly surprising...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02009",
+   "en": "What!? My energy's already...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02010",
+   "en": "Tch, I lost track of them...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02011",
+   "en": "What's this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02012",
+   "en": "Seems you're still breathing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02013",
+   "en": "Out of my way! This is how it's done!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02014",
+   "en": "Tch, what a pain...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02015",
+   "en": "Can't you even stop a puny attack like this!?",
+   "notes": "",
+   "uncertain": [
+    "Context guessed as support-defend: the general scolds the ally he is covering for not stopping the attack."
+   ]
+  },
+  {
+   "id": "q02016",
+   "en": "With all of us on you, you're nothing! Fire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02017",
+   "en": "I won't let this chance slip by! Here I come!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02018",
+   "en": "Fufufu... With this many shots, surely!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02019",
+   "en": "You've given me so much trouble...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02020",
+   "en": "I'll swat you down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02021",
+   "en": "How about this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02022",
+   "en": "This is the end!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02023",
+   "en": "Here I gooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02024",
+   "en": "Deeeyaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02025",
+   "en": "I alone am enough for the likes of you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02026",
+   "en": "There's no need to trouble Oyakata-sama with you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02027",
+   "en": "I'll turn you into scrap and offer you to Oyakata-sama!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02028",
+   "en": "Take thiiiis!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02029",
+   "en": "I'll end this now! Dendohhh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02030",
+   "en": "Curse you, Altairrrr!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02031",
+   "en": "You half-dead wretch!! I'll finish you off!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02032",
+   "en": "You should have just vanished as scrap...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02033",
+   "en": "If you won't be ours, I'll destroy you here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02034",
+   "en": "You're a stubborn one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02035",
+   "en": "Don't think you'll get away with this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02036",
+   "en": "Learn the true might of Gulferrr!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02037",
+   "en": "You feeble... humaaaans!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02038",
+   "en": "Will you run out of energy first, or fall to pieces first!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02039",
+   "en": "Nuoaah, is this the end!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02040",
+   "en": "Oyakata-sama...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02041",
+   "en": "Th-This can't be happening...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02042",
+   "en": "Uooh, curse youuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02043",
+   "en": "I, one of Spiral Castle's Three Generals...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02044",
+   "en": "Guoaaaagh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02045",
+   "en": "Nngh...! I must defeat you no matter what...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02046",
+   "en": "Th-This is impossiiible!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02047",
+   "en": "Nuaagh!! I won't forgive you, Dendohhh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02048",
+   "en": "Whyyy!? Where did they get this much power!?",
+   "notes": "",
+   "uncertain": [
+    "'they' = the opponent (referent not settled by the line)."
+   ]
+  },
+  {
+   "id": "q02049",
+   "en": "What!? Damn you, Ogreee!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02050",
+   "en": "Nuoooooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02051",
+   "en": "This is nothing!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02052",
+   "en": "Blast it, quit darting around...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02053",
+   "en": "Nuaah!! A wound on my body!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02054",
+   "en": "Damn humans...! Such cheap tricks...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02055",
+   "en": "Too soft, Dendohhh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02056",
+   "en": "Fuhaha!! What's wrong, Altairrr!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02057",
+   "en": "Tch! Not just Dendoh, but Ogre too...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02058",
+   "en": "This much won't hurt me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02059",
+   "en": "Have you finally gotten desperate!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02060",
+   "en": "And Gulfer has been held back by the likes of these...!!",
+   "notes": "",
+   "uncertain": [
+    "Trailing line kept; implied verb (held back) restored."
+   ]
+  },
+  {
+   "id": "q02061",
+   "en": "Fuhaha! How brave of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02062",
+   "en": "Heh, don't make me laugh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02063",
+   "en": "Such a fine GEAR, wasted on a pilot like that!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02064",
+   "en": "You can't do it! Pilot of Ogre!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02065",
+   "en": "Heh! As I thought, you can barely stand!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02066",
+   "en": "Deiii!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02067",
+   "en": "How naive!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02068",
+   "en": "I won't let youuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02069",
+   "en": "Did you think I couldn't dodge an attack like that!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02070",
+   "en": "An attack like that won't work on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02071",
+   "en": "Deeeeeyaa!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02072",
+   "en": "I've laid plans upon plans!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02073",
+   "en": "This is nothinggg!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02074",
+   "en": "Don't judge me by my size alone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02075",
+   "en": "Did I blunder!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02076",
+   "en": "Nngh... I've worn myself out too much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02077",
+   "en": "Damn, where did they go!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02078",
+   "en": "I can't aim at anything like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02079",
+   "en": "Leave it to me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02080",
+   "en": "I'll make use of this opening!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02081",
+   "en": "Even you still count as fighting strength!",
+   "notes": "",
+   "uncertain": [
+    "Support line to an ally; read as 'even you still count as fighting strength'."
+   ]
+  },
+  {
+   "id": "q02082",
+   "en": "I still have plenty of work for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02083",
+   "en": "Fire! Shoot them down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02084",
+   "en": "We're the ones who'll strike them down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02085",
+   "en": "I'll support you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02086",
+   "en": "Make sure you finish them off!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02087",
+   "en": "Susumu Kirakuni, on the scene!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02088",
+   "en": "No problem! I'll nail this for sure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02089",
+   "en": "Don't underestimate GEAR's machines!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02090",
+   "en": "You villains! Prepare yourselves!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02091",
+   "en": "That's far enough!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02092",
+   "en": "Alright, let's do this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02093",
+   "en": "Now that I'm here...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02094",
+   "en": "Go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02095",
+   "en": "Hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02096",
+   "en": "Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02097",
+   "en": "It's coming, Kirakuni!",
+   "notes": "",
+   "uncertain": [
+    "Female co-pilot voice in Kirakuni's set; speaker not certain (Vega or Eris)."
+   ]
+  },
+  {
+   "id": "q02098",
+   "en": "Roger!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02099",
+   "en": "There! It's right on the firing line!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02100",
+   "en": "Dead ahead! It's coming!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02101",
+   "en": "I've locked on to the enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02102",
+   "en": "I've got it...! Kirakuni!",
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped (Kirakuni-san -> Kirakuni), same for other rows in this set."
+   ]
+  },
+  {
+   "id": "q02103",
+   "en": "Kirakuni, to the right!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02104",
+   "en": "I'm breaking straight through! It'll get bumpy, so bear with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02105",
+   "en": "Huh!? H-Hey, wait, wait!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02106",
+   "en": "Here it comes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02107",
+   "en": "Here it comes! Kirakuni!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02108",
+   "en": "Something's there...! Kirakuni!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02109",
+   "en": "So that's the Lord of Spiral Castle!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02110",
+   "en": "So that's their big boss!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02111",
+   "en": "Here I come! Knight Ogre!",
+   "notes": "",
+   "uncertain": [
+    "Read as an opponent line against Knight Ogre (Ogre was an enemy early in Dendoh); if used when Ogre is an ally, 'Here I come' is off."
+   ]
+  },
+  {
+   "id": "q02112",
+   "en": "Damn you, Gulfer! Prepare yourselves!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02113",
+   "en": "I won't hand the Earth over to you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02114",
+   "en": "Take this, you monster!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02115",
+   "en": "You won't get away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02116",
+   "en": "Now the real fight begins!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02117",
+   "en": "After seeing that, how could I back down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02118",
+   "en": "A hero's big moment always comes in the second half!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02119",
+   "en": "I can still catch up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02120",
+   "en": "You're not escaping!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02121",
+   "en": "You're not getting away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02122",
+   "en": "We can counterattack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02123",
+   "en": "The enemy's still within range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02124",
+   "en": "The radar's still tracking it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02125",
+   "en": "Now! Kirakuni!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02126",
+   "en": "Will it reach!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02127",
+   "en": "I'll make it somehow!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02128",
+   "en": "We can do it...! Kirakuni!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02129",
+   "en": "Can it reach!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02130",
+   "en": "It's no good! I have to bail out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02131",
+   "en": "Knowing when to pull out matters too! Sorry, everyone!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02132",
+   "en": "We've hit our limit...! Withdrawing from the battle...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02133",
+   "en": "I'm sorry, Hokuto, Ginga...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02134",
+   "en": "This is cutting it close...! What do we do!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02135",
+   "en": "Damage over 70%!? The damage is too severe...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02136",
+   "en": "Error in the main system!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02137",
+   "en": "Both the systems and the armor are in critical condition!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02138",
+   "en": "I can't keep the machine balanced!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02139",
+   "en": "Not yet! We can't give up yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02140",
+   "en": "Ugh! I never knew battle could be this brutal...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02141",
+   "en": "Any more damage and... the machine won't hold out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02142",
+   "en": "I'm hanging in there! Kirakuni is hanging in there!",
+   "notes": "",
+   "uncertain": [
+    "Kirakuni referring to himself in third person, kept."
+   ]
+  },
+  {
+   "id": "q02143",
+   "en": "Ow ow ow... Every hero hits a tight spot...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02144",
+   "en": "Kuuh...! Justice won't yield to something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02145",
+   "en": "Kirakuni!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02146",
+   "en": "Haha, they got me pretty good there...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02147",
+   "en": "This won't take us down, don't worry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02148",
+   "en": "Oh no! Engine output is dropping!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02149",
+   "en": "Kuuh...! Justice won't yield to something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02150",
+   "en": "The damage isn't that bad, we can still fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02151",
+   "en": "Only external damage, the systems are unaffected!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02152",
+   "en": "No problem! Don't worry about me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02153",
+   "en": "Did that hit us after all!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02154",
+   "en": "That one wasn't very cool of me...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02155",
+   "en": "You could totally have dodged that one~!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02156",
+   "en": "Haha, sorry, sorry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02157",
+   "en": "Damage is minor, it won't hinder us in combat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02158",
+   "en": "It was just the impact! There's no damage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02159",
+   "en": "All systems green, no problems!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02160",
+   "en": "Systems all green. No problems.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02161",
+   "en": "It's only a scratch. Nothing to worry about.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02162",
+   "en": "Aah!? The back's so heavy today!",
+   "notes": "",
+   "uncertain": [
+    "Kirakuni blames the back-seat co-pilot's weight; rows 206-208 are the co-pilot's angry reply and his apology."
+   ]
+  },
+  {
+   "id": "q02163",
+   "en": "Grrr!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02164",
+   "en": "I am NOT that heavy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02165",
+   "en": "...S-Sorry.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02166",
+   "en": "Now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02167",
+   "en": "Dodge it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02168",
+   "en": "Amazing...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02169",
+   "en": "Alriiight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02170",
+   "en": "This is how a hero should do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02171",
+   "en": "Woo!! Woo-hoo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02172",
+   "en": "That was no fluke or accident!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02173",
+   "en": "Too easy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02174",
+   "en": "I've gotta pull off at least this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02175",
+   "en": "We did it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02176",
+   "en": "How do you like that!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02177",
+   "en": "Whew... I managed somehow.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02178",
+   "en": "Beams don't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02179",
+   "en": "Whoa! Way outside the strike zone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02180",
+   "en": "We've got a Jammer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02181",
+   "en": "How about this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02182",
+   "en": "Take thiiis!! ......Huh?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02183",
+   "en": "It vanished from radar!? That's impossible!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02184",
+   "en": "I didn't lose it, I let it go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02185",
+   "en": "Whaa!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02186",
+   "en": "Sorry to keep you waiting!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02187",
+   "en": "Sorry I'm late!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02188",
+   "en": "Here's one more shot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02189",
+   "en": "Leave the rest to me, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02190",
+   "en": "Hokuto! I'll handle this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02191",
+   "en": "Vice Commander, I'll back you up!",
+   "notes": "",
+   "uncertain": [
+    "Fukushirei (vice commander) referent not settled; translated as title only."
+   ]
+  },
+  {
+   "id": "q02192",
+   "en": "Sorry for the wait! Hokuto! Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02193",
+   "en": "Get back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02194",
+   "en": "Now that I'm here, everything's fine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02195",
+   "en": "Get clear while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02196",
+   "en": "Whoaa!? H-Hey, wait a sec!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02197",
+   "en": "Fall back, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02198",
+   "en": "Hokuto, you're charging in too far!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02199",
+   "en": "That's reckless, Vice Commander!",
+   "notes": "",
+   "uncertain": [
+    "Fukushirei (vice commander) referent not settled; translated as title only."
+   ]
+  },
+  {
+   "id": "q02200",
+   "en": "Are you okay!? Hokuto, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02201",
+   "en": "Let's focus our fire on that one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02202",
+   "en": "All-out attack! I'm counting on you, everyone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02203",
+   "en": "OK! Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02204",
+   "en": "Now this is getting me fired up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02205",
+   "en": "I've been waiting for this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02206",
+   "en": "Why yooou!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02207",
+   "en": "Uryaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02208",
+   "en": "If I fire at max output, even from here...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02209",
+   "en": "Goooooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02210",
+   "en": "Alright, I can do this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02211",
+   "en": "Long-Range Beam Cannon, take thiiis!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02212",
+   "en": "I won't let you escape!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02213",
+   "en": "Maximum output! Fiiire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02214",
+   "en": "One more!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02215",
+   "en": "I'm not done yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02216",
+   "en": "Now try this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02217",
+   "en": "Breaker Swooord!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02218",
+   "en": "Kiba Breaker!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02219",
+   "en": "I'm not giving you a handicap!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02220",
+   "en": "Here it comes! Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02221",
+   "en": "Ginga, let's go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02222",
+   "en": "Now! Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02223",
+   "en": "Got it, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02224",
+   "en": "Yeah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02225",
+   "en": "OK! Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02226",
+   "en": "When you have to fight, you fight...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02227",
+   "en": "I won't let Ginga hog all the glory!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02228",
+   "en": "Go, Ogre!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02229",
+   "en": "The Lord of Spiral Castle...! If we beat this one!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02230",
+   "en": "I won't let Gulfer do as they please any longer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02231",
+   "en": "We won't lose to the likes of Gulfer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02232",
+   "en": "Gulfer! That's enough already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02233",
+   "en": "No way... Having to fight the Data Weapons...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02234",
+   "en": "Watch me...! I can do it too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02235",
+   "en": "I won't let you do as you please!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02236",
+   "en": "Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02237",
+   "en": "Ginga, watch your energy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02238",
+   "en": "OK! Here we go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02239",
+   "en": "Alriiight!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02240",
+   "en": "Ginga's giving it his all too, so...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02241",
+   "en": "I've gotta... bail out...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02242",
+   "en": "I've got no choice but to retreat...! Sorry, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02243",
+   "en": "G-Give up like this...? No way, never!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02244",
+   "en": "Kuuh! If you give up, it's over right there!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02245",
+   "en": "If you think you'll lose, you've lost from the start!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02246",
+   "en": "Whoa! Hokuto, seriously... we're in deep trouble!!",
+   "notes": "",
+   "uncertain": [
+    "Ginga's voice inside Hokuto's set (he addresses Hokuto)."
+   ]
+  },
+  {
+   "id": "q02247",
+   "en": "Uwaaah! Hang in there, Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02248",
+   "en": "Dammit, you got me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02249",
+   "en": "Ugh! Why you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02250",
+   "en": "No way! It can keep up with Ogre's speed...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02251",
+   "en": "It only grazed me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02252",
+   "en": "That won't work on Ogre!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02253",
+   "en": "I've already seen through that attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02254",
+   "en": "Phew... that was close.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02255",
+   "en": "Then the turbine can handle this!",
+   "notes": "",
+   "uncertain": [
+    "'turbine' = Dendoh/Ogre's defensive turbine; not in glossary."
+   ]
+  },
+  {
+   "id": "q02256",
+   "en": "I've thought this through!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02257",
+   "en": "Looks like it worked!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02258",
+   "en": "Hyah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02259",
+   "en": "I said shut up already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02260",
+   "en": "Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02261",
+   "en": "Not good...! My energy's almost...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02262",
+   "en": "I told you, we're closed for today...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02263",
+   "en": "Whoa!? I'm out of ammo already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02264",
+   "en": "Kirakuni, the batteries!!",
+   "notes": "",
+   "uncertain": [
+    "Denchi read as the Hyper Dendoh Batteries (glossary); rendered 'the batteries'."
+   ]
+  },
+  {
+   "id": "q02265",
+   "en": "Tch! Where did it go!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02266",
+   "en": "Ugh! Oh no!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02267",
+   "en": "Alright, here goes! One more!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02268",
+   "en": "Let's dash in, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02269",
+   "en": "Ginga! Leave this to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02270",
+   "en": "Kirakuni! I'll back you up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02271",
+   "en": "Vega! Count me in too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02272",
+   "en": "Leave the rest to me, Eris!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02273",
+   "en": "Subaru! I'll help too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02274",
+   "en": "Altair, I'm following up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02275",
+   "en": "Look out! Get back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02276",
+   "en": "You'll get hit!",
+   "notes": "",
+   "uncertain": [
+    "Read as a support-defend warning to the ally."
+   ]
+  },
+  {
+   "id": "q02277",
+   "en": "See? You're hopeless without me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02278",
+   "en": "Get back, Vega!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02279",
+   "en": "Kirakuni! Get away while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02280",
+   "en": "Eris! Don't let your guard down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02281",
+   "en": "I won't let them hit Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02282",
+   "en": "Leave it to me, Altair!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02283",
+   "en": "If we all attack together!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02284",
+   "en": "I'll fight too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02285",
+   "en": "I'll... I'll do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02286",
+   "en": "For Hokuto, Ginga, and my brother!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02287",
+   "en": "I won't hesitate anymore! I'll fight for everyone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02288",
+   "en": "I can do it too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02289",
+   "en": "Go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02290",
+   "en": "Hiiit!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02291",
+   "en": "It's okay... I can sense it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02292",
+   "en": "If I can be of use to Hokuto and the others!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02293",
+   "en": "Zero...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02294",
+   "en": "You're... my enemy!! Zero!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02295",
+   "en": "I can see right through all of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02296",
+   "en": "If I aim for the base of the neck...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02297",
+   "en": "For now, we do what we can...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02298",
+   "en": "I just want to be with everyone...! That's why I fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02299",
+   "en": "Subaru! Now!!",
+   "notes": "",
+   "uncertain": [
+    "Female co-pilot (likely Vega) in Subaru's set."
+   ]
+  },
+  {
+   "id": "q02300",
+   "en": "Counterattack, Subaru!",
+   "notes": "",
+   "uncertain": [
+    "Speaker in Subaru's set not settled (male register)."
+   ]
+  },
+  {
+   "id": "q02301",
+   "en": "The radar's still got it! Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02302",
+   "en": "Looks like we have no choice but to retreat...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02303",
+   "en": "Not yet, if I give up it's over!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02304",
+   "en": "Just a little longer, please hold out...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02305",
+   "en": "Wh-What do I... What am I supposed to do!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02306",
+   "en": "Switch to the sub system!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02307",
+   "en": "Not yet...! Don't give up hope until the very end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02308",
+   "en": "Any more is dangerous! Be careful, Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02309",
+   "en": "I can't be a burden to everyone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02310",
+   "en": "Tch...! I can't afford to whine now...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02311",
+   "en": "I can't dodge this...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02312",
+   "en": "It's okay, we can still fly!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02313",
+   "en": "It's okay! We'll cover that with guts!",
+   "notes": "",
+   "uncertain": [
+    "Speaker in Subaru's set not settled (Kirakuni-like voice); 'We' used."
+   ]
+  },
+  {
+   "id": "q02314",
+   "en": "Tch...! I can't afford to whine right now...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02315",
+   "en": "This is bad! Keep us balanced!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02316",
+   "en": "Is it sizing us up...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02317",
+   "en": "Oh no...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02318",
+   "en": "Ow, you got me...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02319",
+   "en": "The damage is minor, we're still fine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02320",
+   "en": "It's not much damage, let's keep going!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02321",
+   "en": "All systems green, no problem!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02322",
+   "en": "Calm down, Subaru! It only grazed us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02323",
+   "en": "This is nothing!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02324",
+   "en": "That was close...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02325",
+   "en": "How's that!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02326",
+   "en": "We've got a Barrier!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02327",
+   "en": "If I use the Jammer...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02328",
+   "en": "I see it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02329",
+   "en": "My energy's already...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02330",
+   "en": "I can't even counterattack...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02331",
+   "en": "I'm moving in to support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02332",
+   "en": "Not yet... I can still go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02333",
+   "en": "Hokuto! I'll help too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02334",
+   "en": "Ginga! I'll cover you now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02335",
+   "en": "Brother! Leave this to me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02336",
+   "en": "Get back! I'll be your shield!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02337",
+   "en": "This time I'll protect Hokuto!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02338",
+   "en": "Look out, Ginga!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02339",
+   "en": "If we all go at it together, surely!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02340",
+   "en": "If we focus our attacks...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02341",
+   "en": "Enemy unit confirmed ahead!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02342",
+   "en": "Dead ahead! Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02343",
+   "en": "Got a lock! Fire, Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02344",
+   "en": "Got it......!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02345",
+   "en": "Beam Cannon, fire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02346",
+   "en": "With Valhalla's Beam Cannon...!",
+   "notes": "",
+   "uncertain": [
+    "Valhalla from glossary unit Cell Booster Valhalla."
+   ]
+  },
+  {
+   "id": "q02347",
+   "en": "Goooo!!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

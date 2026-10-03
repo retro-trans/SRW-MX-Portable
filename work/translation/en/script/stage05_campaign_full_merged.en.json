@@ -1,0 +1,8168 @@
+{
+ "scenes": [
+  "i013b",
+  "s0130",
+  "i013a"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "The Nightmare Gundam Fight",
+   "scenes": [
+    "i013b",
+    "s0130",
+    "i013a"
+   ],
+   "map_scene": "s0130"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i013b:0"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 0
+   },
+   "notes": "Deliberate thought silence.",
+   "uncertain": []
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i013b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "...Confirmed hits on the target!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 1
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i013b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "That's my old man! His aim is dead on.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 2
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i013b:3"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...U-ugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 3
+   },
+   "notes": "Pain vocalization in the nightmare.",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i013b:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Wait, what...!? What is that reading!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 4
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i013b:5"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Ugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 5
+   },
+   "notes": "Pain vocalization in the nightmare.",
+   "uncertain": []
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i013b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "C-Captain! The Army-type units are multiplying again!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 6
+   },
+   "notes": "Army-type units is the source-literal Devil Gundam minion classification, not Gespenst Army units.",
+   "uncertain": [
+    "Army-type units has no independently established MX canonical English entry; source-literal classification."
+   ]
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i013b:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Formation D! All units, intercept!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 7
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i013b:8"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "G... ugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 8
+   },
+   "notes": "Pain vocalization in the nightmare.",
+   "uncertain": []
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i013b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男愛称, I'm moving up! I need you to cover me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 9
+   },
+   "notes": "Speaker asks protagonist to provide covering fire; request direction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i013b:10"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "D-don't go...! Folia...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 10
+   },
+   "notes": "Protagonist begs Folia not to advance; hidden speaker labels remain hidden. Folia short name confirmed centrally from Akurasu OGG references.",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i013b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Don't worry! Besides, I can't let my old man see me looking bad!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 11
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i013b:12"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Stop, Folia...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 12
+   },
+   "notes": " Folia short name confirmed centrally from Akurasu OGG references.",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i013b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "This is Black Wolf! Forward, report your status!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 13
+   },
+   "notes": "Black Wolf callsign follows Albero glossary alias; hidden speaker label remains ???. Forward retained as source radio address without invented full identity.",
+   "uncertain": [
+    "Forward is a source-literal radio address; no independently established MX canonical English entry."
+   ]
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i013b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "C-Captain! The main body... The main body is starting to regenerate!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 14
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i013b:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "W-what...!? What the hell is that thing!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 15
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i013b:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Black Wolf to all units! Fall back immediately! Get away from the Devil Gundam!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 16
+   },
+   "notes": "Black Wolf callsign follows existing Albero glossary alias; hidden speaker label stays ???.",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i013b:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "W-we won't make it!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 17
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i013b:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男愛称! You have to run! Get out of here!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 18
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i013b:19"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Folia...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 19
+   },
+   "notes": "Name-only cry preserved. Folia short name confirmed centrally from Akurasu OGG references.",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i013b:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "W-waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 20
+   },
+   "notes": "Fear scream preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i013b:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "FOLIAAAA!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 21
+   },
+   "notes": "Elongated shouted name preserved. Folia short name confirmed centrally from Akurasu OGG references.",
+   "uncertain": []
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i013b:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...It was... a dream...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 22
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i013b:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Tch... I've started having that same dream again...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 23
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i013b:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Guh!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 24
+   },
+   "notes": "Pain grunt preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i013b:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "U-ugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 25
+   },
+   "notes": "Pain grunt preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i013b:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "My medicine... has worn off...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 26
+   },
+   "notes": "Medicine wearing off, not supply running out; ignored stray wrapper/end break.",
+   "uncertain": []
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i013b:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男愛称, it's time to go see Lieutenant Douglas.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 27
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "i013b:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "G... ugh... I need... my medicine...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 28
+   },
+   "notes": "Restored implied need for medicine; distressed pauses retained; ignored stray wrapper/end break.",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "i013b:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "#男愛称? Hey, #男愛称!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 29
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 30,
+   "uses": [
+    "i013b:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Uuugh... Guh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 30
+   },
+   "notes": "Pain vocalization preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "i013b:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 31
+   },
+   "notes": "Name-only cry preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "i013b:32",
+    "i013b:48",
+    "i013b:54",
+    "s0130:284",
+    "i013a:52",
+    "i013a:56",
+    "i013a:139",
+    "i013a:143"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 477
+   },
+   "notes": "",
+   "uncertain": [
+    "Silent ……… rendered '...'. The line is reused in i00r0a:3/16/62/97 (the interlude), so it is a neutral silence."
+   ]
+  },
+  {
+   "id": 33,
+   "uses": [
+    "i013b:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What's wrong!? You're white as a sheet!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 32
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "i013b:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I-it's nothing. It'll... pass soon...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 33
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 35,
+   "uses": [
+    "i013b:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Don't tell me you're having another one of those attacks...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 34
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 36,
+   "uses": [
+    "i013b:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "#女愛称... Didn't you say... you couldn't go into... a single man's room...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 35
+   },
+   "notes": "Recalls her prior refusal to enter a single man's room.",
+   "uncertain": []
+  },
+  {
+   "id": 37,
+   "uses": [
+    "i013b:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "This is no time to be talking about that!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 36
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "i013b:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Are you really all right!? Shouldn't you go to the infirmary!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 37
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "i013b:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Leave me alone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 38
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 40,
+   "uses": [
+    "i013b:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "I can't leave you alone! If anything happens to you, I'm the one who'll be in trouble!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 39
+   },
+   "notes": "Partner insists on intervening because consequences would trouble her.",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "i013b:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Shut up...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 40
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 42,
+   "uses": [
+    "i013b:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...I'm going to ask Lieutenant Douglas to change our duty rotation.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 41
+   },
+   "notes": "Proposes changing the duty rotation to excuse protagonist from patrol.",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "i013b:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Don't meddle...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 42
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 44,
+   "uses": [
+    "i013b:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What are you talking about!? You can't do patrol duty in that condition!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 43
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "i013b:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I said, don't meddle!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 44
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 46,
+   "uses": [
+    "i013b:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Wha...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 45
+   },
+   "notes": "Interrupted startled interjection preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 47,
+   "uses": [
+    "i013b:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Come on! You don't have to get so angry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 46
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "i013b:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "...Let's go.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 47
+   },
+   "notes": "Invites partner to leave for the bridge together.",
+   "uncertain": []
+  },
+  {
+   "id": 49,
+   "uses": [
+    "i013b:50"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Where are we going!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 48
+   },
+   "notes": "Restored explicit subject and movement verb in question to protagonist.",
+   "uncertain": []
+  },
+  {
+   "id": 50,
+   "uses": [
+    "i013b:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "We're going to the bridge... To see Lieutenant Douglas.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 49
+   },
+   "notes": "Restored subject and movement verb in destination answer; bridge and Lieutenant Douglas retained.",
+   "uncertain": []
+  },
+  {
+   "id": 51,
+   "uses": [
+    "i013b:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...You...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 50
+   },
+   "notes": "Unfinished address to protagonist preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "i013b:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "...What's wrong with you two?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 51
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 53,
+   "uses": [
+    "i013b:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 475
+   },
+   "notes": "",
+   "uncertain": [
+    "Silent ……… rendered '...'."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "i013b:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "Did you two have a fight?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 52
+   },
+   "notes": "Douglas addresses both leads after their argument.",
+   "uncertain": []
+  },
+  {
+   "id": 55,
+   "uses": [
+    "i013b:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "No, it's nothing.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 53
+   },
+   "notes": "Dismisses Douglas's question.",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "i013b:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "All right, then. Now, about the area you'll be patrolling...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 54
+   },
+   "notes": "Briefing deliberately trails off when the alert interrupts.",
+   "uncertain": []
+  },
+  {
+   "id": 57,
+   "uses": [
+    "i013b:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "What is it!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 55
+   },
+   "notes": "Reacting to the alert.",
+   "uncertain": []
+  },
+  {
+   "id": 58,
+   "uses": [
+    "i013b:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "A report from a Federation reconnaissance plane! Numerous unidentified mobile suits have appeared at point F2309!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 56
+   },
+   "notes": "Reports location and unidentified affiliation; F2309 preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "i013b:61"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Can you identify them!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 57
+   },
+   "notes": "Requests identification of the mobile suits.",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "i013b:62"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Please give me a moment...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 58
+   },
+   "notes": "Asks Bright to wait while checking.",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "i013b:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "W-what is this!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 59
+   },
+   "notes": "Stunned by what the identification shows.",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "i013b:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Torres, give me a clear report!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 60
+   },
+   "notes": "Captain demands a precise report.",
+   "uncertain": []
+  },
+  {
+   "id": 63,
+   "uses": [
+    "i013b:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "S-sorry, sir! B-but how can this be...!? Their code identifies them as Death Army!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 61
+   },
+   "notes": "Both stutters and interrupted disbelief retained.",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "i013b:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 62
+   },
+   "notes": "Exclamation; deliberate interjection fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "i013b:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "I'll put the reconnaissance plane's footage on screen!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 63
+   },
+   "notes": "Torres supplies the image Bright confirms next.",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "i013b:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage03_campaign.json",
+    "id": 419
+   },
+   "notes": "Pure shock punctuation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "i013b:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "There's no doubt... It's the Death Army.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 64
+   },
+   "notes": "Visual confirmation.",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "i013b:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "That's impossible...! A year ago, they were destroyed along with the Devil Gundam...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 65
+   },
+   "notes": "Restores destroyed from the settled historical referent, while retaining trailing disbelief.",
+   "uncertain": []
+  },
+  {
+   "id": 69,
+   "uses": [
+    "i013b:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Y-yes. I saw it with my own eyes...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 66
+   },
+   "notes": "Confirms witnessing their destruction a year ago.",
+   "uncertain": []
+  },
+  {
+   "id": 70,
+   "uses": [
+    "i013b:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The Shuffle Alliance defeated that devil back then. I'm sure of it...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 67
+   },
+   "notes": "Restores the context-settled defeat rather than retaining the Japanese omitted predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 71,
+   "uses": [
+    "i013b:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Damn it! Are you saying it's... the Devil Gundam has come back!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 68
+   },
+   "notes": "Hugo responds with a trauma-driven outburst; nickname speaker stays a runtime placeholder.",
+   "uncertain": []
+  },
+  {
+   "id": 72,
+   "uses": [
+    "i013b:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage03_campaign.json",
+    "id": 444
+   },
+   "notes": "Name-only alarm retained.",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "i013b:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "That can't be...! That can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 69
+   },
+   "notes": "Restores the predicate in repeated denial.",
+   "uncertain": []
+  },
+  {
+   "id": 74,
+   "uses": [
+    "i013b:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "H-hey! What's wrong with you, #男愛称!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 70
+   },
+   "notes": "Aqua addresses the male lead directly; body placeholder preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 75,
+   "uses": [
+    "i013b:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All hands, Level 1 battle stations! Get the Nahel Argama to point F2309 at once!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 71
+   },
+   "notes": "Uses established battle-stations convention.",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0130:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0130:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0130:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0130:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0130:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0130:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0130:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0130:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0130:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0130:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0130:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0130:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0130:12",
+    "s0130:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0130:13",
+    "s0130:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0130:14",
+    "s0130:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0130:15",
+    "s0130:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0130:16",
+    "s0130:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0130:17",
+    "s0130:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0130:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0130:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0130:20",
+    "s0130:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0130:21",
+    "s0130:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0130:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0130:24",
+    "s0130:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0130:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0130:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0130:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0130:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0130:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0130:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0130:32",
+    "s0130:33",
+    "s0130:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0130:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0130:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0130:36",
+    "s0130:37",
+    "s0130:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0130:39",
+    "s0130:40",
+    "s0130:174",
+    "s0130:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0130:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0130:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0130:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0130:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0130:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0130:46",
+    "s0130:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0130:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0130:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0130:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0130:50",
+    "s0130:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0130:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0130:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0130:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0130:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0130:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0130:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0130:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0130:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0130:59",
+    "s0130:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0130:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0130:61",
+    "s0130:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0130:62",
+    "s0130:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0130:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0130:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0130:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0130:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0130:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0130:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0130:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0130:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0130:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0130:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0130:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0130:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0130:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0130:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0130:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0130:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0130:79",
+    "s0130:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0130:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0130:81",
+    "s0130:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0130:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0130:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0130:84",
+    "s0130:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0130:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0130:86",
+    "s0130:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0130:87",
+    "s0130:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0130:88",
+    "s0130:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0130:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0130:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0130:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0130:92",
+    "s0130:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0130:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0130:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0130:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0130:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0130:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0130:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0130:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0130:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0130:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0130:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0130:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0130:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0130:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0130:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0130:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0130:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0130:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0130:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0130:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0130:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0130:113",
+    "s0130:114",
+    "s0130:115",
+    "s0130:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0130:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0130:117",
+    "s0130:161",
+    "s0130:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0130:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0130:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0130:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0130:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0130:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0130:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0130:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0130:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0130:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0130:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0130:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0130:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0130:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0130:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0130:132",
+    "s0130:133",
+    "s0130:134",
+    "s0130:156",
+    "s0130:188",
+    "s0130:189",
+    "s0130:190",
+    "s0130:191",
+    "s0130:192",
+    "s0130:193",
+    "s0130:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0130:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0130:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0130:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0130:138",
+    "s0130:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0130:139",
+    "s0130:148",
+    "s0130:152",
+    "s0130:154",
+    "s0130:164",
+    "s0130:165",
+    "s0130:198",
+    "s0130:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0130:140",
+    "s0130:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0130:141",
+    "s0130:142",
+    "s0130:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0130:143",
+    "s0130:149",
+    "s0130:153",
+    "s0130:155",
+    "s0130:162",
+    "s0130:163",
+    "s0130:199",
+    "s0130:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0130:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0130:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0130:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0130:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0130:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0130:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0130:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0130:160",
+    "s0130:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0130:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0130:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0130:206",
+    "s0130:373"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 0
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0130:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Allied mothership is shot down.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 1
+   },
+   "notes": "Player; defeat objective; allied carrier condition. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0130:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "That nightmare has become real again...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 72
+   },
+   "notes": "Beginning of map event 4, returning to the Death Army encounter.",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0130:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The enemy units have spotted us! They're preparing to attack!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 73
+   },
+   "notes": "Enemy reaction and attack preparation both preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0130:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Are there any heat signatures underground!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 74
+   },
+   "notes": "Checks for the Devil Gundam's main body.",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0130:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "No, there aren't!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 75
+   },
+   "notes": "Answers underground heat-signature query.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0130:212"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Then the main body isn't here...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 76
+   },
+   "notes": "Thought kind retained; main body refers to the Devil Gundam.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0130:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Are those things really mobile suits?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 77
+   },
+   "notes": "Child's surprised reaction to the Death Army.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0130:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Y-yeah... I've seen them on the TV news...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 78
+   },
+   "notes": "Removes malformed trailing Japanese quote and indent as instructed.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0130:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All units, commence your attack!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 79
+   },
+   "notes": "Captain's attack order.",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0130:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "H-how could this happen!? Bro!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 80
+   },
+   "notes": "Feigns shock at defeat; Bro keeps Sai Saici's familiar address to Domon.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0130:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Enough of your act. The Sai Saici I know is far stronger than that...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 81
+   },
+   "notes": "Rejects the impostor's pretense after the defeat response.",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0130:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Y-you bastard... Domon Kasshu...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 82
+   },
+   "notes": "Hostile change of voice exposes the imitation; full name follows glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0130:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Impossible...! You struck me down without the slightest hesitation...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 83
+   },
+   "notes": "Defeat response directed at Domon.",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0130:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "I never had any doubts to begin with.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 84
+   },
+   "notes": "Direct response to George's remark about hesitation.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0130:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Because a puppet may imitate George... but it can never surpass him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 85
+   },
+   "notes": "Puppet means this imitation of George, rather than George himself.",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0130:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "H-heh heh... Just what I'd expect from Domon Kasshu...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 86
+   },
+   "notes": "Unnerving laugh and grudging acknowledgment.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0130:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "DG Cells... I cannot allow this devilish technology to eat away at our beautiful Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 87
+   },
+   "notes": "DG Cells follows glossary; Earth corruption and refusal preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0130:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Such false piety... Ideals, convictions, love, courage... all bow before power. Allow me to teach you that.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 88
+   },
+   "notes": "Addresses Duke with contempt, retaining all four ideals.",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0130:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Don't think you can read my moves!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 89
+   },
+   "notes": "Combat taunt to Duke.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0130:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Those who drown themselves in twisted power will never win! We'll teach you that!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 90
+   },
+   "notes": "Responds to the corrupted fighter's boasting; plural allies preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0130:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "You challenge me in such a feeble machine... Is this the Japanese specialty, kamikaze?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 91
+   },
+   "notes": "Retains national stereotype and suicide-attack taunt without softening.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0130:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Shut up! Like hell I'll lose to someone who cheated to get that power!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 92
+   },
+   "notes": "Koji's forceful refusal to lose to illicit power.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0130:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You bastard! Quit darting all over the place!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 93
+   },
+   "notes": "Complaint about Sai Saici's quick movements.",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0130:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "You're challenging me in that tiny saucer? Do you want to die?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 94
+   },
+   "notes": "Targets Koji's saucer; no invented unit name.",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0130:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Don't let your guard down! Whatever its origins, this thing has the full strength of a Gundam Fighter!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 95
+   },
+   "notes": "Warns Getter teammates about the imitation's genuine fighting strength.",
+   "uncertain": []
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0130:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Please don't misunderstand. My power has already surpassed that level.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 96
+   },
+   "notes": "Claims strength beyond the Gundam Fighter level Hayato just named.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0130:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "But as long as you use that power for your own selfish ends, we can't afford to lose!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 97
+   },
+   "notes": "Getter team's moral refusal to lose.",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0130:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Don't you get it...? How wonderful this power is!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 98
+   },
+   "notes": "Second sentence is a deliberate exclamatory elaboration of the first.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0130:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "If you earned that strength through training, you should hold your head high and be proud!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 99
+   },
+   "notes": "Conditional praise contrasts honestly trained strength with cheating.",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0130:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "But you cheated to get your power. You've got no right to brag about it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 100
+   },
+   "notes": "Answers Ryoma by denying the corrupted fighter's claim to pride.",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0130:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "You've got some nerve... Then I'll make you feel my strength firsthand!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 101
+   },
+   "notes": "Threatens all Getter pilots with physical experience of his power.",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0130:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "That's not right! The Shuffle Alliance are supposed to be heroes! You can't go around cheating!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 102
+   },
+   "notes": "Accuses apparent Shuffle Alliance fighters of betraying their heroic role.",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0130:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Say what you will. I'm now immersing myself in the exquisite melody of power...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 103
+   },
+   "notes": "Keeps George's affected musical metaphor, directed at Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0130:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "An ordinary fool like you could never understand this pleasure!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 104
+   },
+   "notes": "Elitist insult remains directed at Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0130:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Hey, hey... You think you can catch me moving that slowly?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 105
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0130:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Shut up, you doping bastard! I'm only getting serious now!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 106
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0130:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Domon... Are you really going to strike me down... your own friend?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 107
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0130:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Shut up! The George I knew had a heart as noble as a rose!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 108
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0130:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Compared to him, you're just a turtle in the mud, drowning in power!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 109
+   },
+   "notes": "Retains turtle-in-mud comparison against the noble rose.",
+   "uncertain": []
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0130:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "That's cold, bro. You're just going to abandon us?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 110
+   },
+   "notes": "Bro is a familiar address to Domon, not a claim of kinship.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0130:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "If you really are Sai Saici, I'll risk my life to save you...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 111
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0130:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "But my heart... my fists tell me I must never forgive you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 112
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0130:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Now they've shown up all the way over there!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 113
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0130:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "Don't tell me they'll just keep coming, no matter how many we beat?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 114
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0130:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yeah, they might. Self-replication is one of those DG Cells' traits.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 115
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0130:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sheesh. I'd heard the rumors, but they're more trouble than I expected.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 116
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0130:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But I heard that thing had been completely scrapped...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 117
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0130:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Did someone bring it back...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 118
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0130:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "...Did you pick up any sign of our target?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 119
+   },
+   "notes": "Target remains unnamed and gender-neutral; hidden label preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0130:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "No. It looks like our target isn't here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 120
+   },
+   "notes": "Target remains unnamed and gender-neutral; hidden label preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0130:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Then we'll deal with the small fry. ...Are you ready?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 121
+   },
+   "notes": "Hidden label preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0130:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Yes, of course.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 122
+   },
+   "notes": "Hidden label preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0130:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "All right...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 123
+   },
+   "notes": "Hidden label preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0130:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Come oooout! Gundaaaaaam!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 124
+   },
+   "notes": "Extended summoning shout retained.",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0130:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Haaaaah...! Hmph!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 125
+   },
+   "notes": "Two martial exertion sounds retained.",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0130:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Th-that Gundam...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 126
+   },
+   "notes": "Exclamatory incomplete recognition retained; removes the draft extra question about identity.",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0130:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "C-could it be!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 127
+   },
+   "notes": "Deliberate recognition fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0130:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Come to me! Fuunsaikiiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 128
+   },
+   "notes": "Canonical Fuunsaiki name inside extended shout.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0130:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "A horse!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 129
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0130:266"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Could that be a Data Weapon!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 130
+   },
+   "notes": "Thought, speculative Data Weapon comparison.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0130:267"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "No, that can't possibly be...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 131
+   },
+   "notes": "Thought; rejection trails off.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0130:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Here I goooo!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 132
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0130:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Hmph. They put up no fight. Is it because the main body isn't nearby?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 133
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0130:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "A-amazing! He wiped out the enemy in no time at all!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 134
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0130:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "That guy is...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 135
+   },
+   "notes": "Recognition sentence deliberately trails into row136.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0130:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Domon Kasshu... the Shuffle Alliance's King of Hearts...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 136
+   },
+   "notes": "Completes recognition begun in135; spoken identifying noun phrase.",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0130:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I-I know him!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 137
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0130:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "He's the guy who fought Kazuya Ryuzaki in that epic final at the Colony Martial Arts Championship two tournaments ago, right!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 138
+   },
+   "notes": "Two tournaments ago, not the immediately preceding championship. Measured overflow compression keeps opponent, championship, finals, excitement and two-tournament interval. Colony Martial Arts Championship is the centrally approved source-literal title, continuous with Stage04; independent canonical English unestablished.",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0130:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "You sure know a lot about him, Ginga...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 139
+   },
+   "notes": "Ignores stray source closing wrapper.",
+   "uncertain": []
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0130:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah! Anyone who does martial arts would know that!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 140
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0130:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Domon Kasshu? From the Colony Martial Arts Championship...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 141
+   },
+   "notes": "Question deliberately trails off after championship reference. Colony Martial Arts Championship is the centrally approved source-literal title, continuous with Stage04; independent canonical English unestablished.",
+   "uncertain": []
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0130:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "Yeah, he's the martial artist who fought that fierce battle against Kazuya Ryuzaki in the finals.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 142
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0130:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "I watched the broadcast. That fight had me on the edge of my seat.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 143
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0130:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "He's even better known as a member of the Shuffle Alliance.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 144
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0130:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Yeah. I hear he also showed up during the war with the Baam and helped Daimos and the Earth Federation Army...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 145
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0130:282"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I never thought that man would show up here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 146
+   },
+   "notes": "Thought; surprised recognition of Domon.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0130:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称... Do you know something about the King of Hearts and the Devil Gundam?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 147
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0130:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hey, #男愛称. You've been acting strange for a while now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 148
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0130:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "#女愛称, switch the joint actuators' power source to the battery.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 149
+   },
+   "notes": "Joint actuators are switched to battery power; ignores stray source closing wrapper.",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0130:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Huh...!? That's supposed to be for emergencies...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 150
+   },
+   "notes": "Emergency-power explanation deliberately trails off.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0130:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "I need to be sure the machine will move.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 151
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0130:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hey! Are you saying you can't rely on my power adjustments or my operation of the machine!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 152
+   },
+   "notes": "Female lead challenges male lead distrust of her power control and operation.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0130:290"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Our fight with them isn't over yet...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 153
+   },
+   "notes": "Thought; their battle is not over.",
+   "uncertain": []
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0130:291"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "They're a lot tougher to kill than that...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 154
+   },
+   "notes": "Thought; their tenacity exceeds the apparent easy defeat.",
+   "uncertain": []
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0130:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "#男愛称! You're hardly one to talk! Are you sure you're physically all right!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 155
+   },
+   "notes": "Female lead challenges male lead own bodily condition.",
+   "uncertain": []
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0130:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Just switch it over. Do you want to die here?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 156
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0130:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 157
+   },
+   "notes": "Wordless shock at the threat of death; retained punctuation-only source.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0130:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "F-fine! But you had better explain yourself later!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 158
+   },
+   "notes": "Aqua reacts to Hugo ordering the battery switch; preserved stammer and demand for a later explanation.",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0130:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サエグサ",
+   "speaker_en": "Saegusa",
+   "en": "We have an incoming transmission.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 159
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0130:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Put it through to me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 160
+   },
+   "notes": "Bright asks Saegusa to route the transmission to him.",
+   "uncertain": []
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0130:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "It has been a while, Colonel Bright Noa.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 161
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0130:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes. Not since the Devil Gundam incident, Rain Mikamura.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 162
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0130:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Please be careful, everyone. More enemies may still appear.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 163
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0130:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "No, they are already here!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 164
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0130:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Captain! We have detected an object rapidly approaching this area!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 165
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0130:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So they have come! All units, stay alert!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 166
+   },
+   "notes": "Bridge transmission exchange; restored scene-settled subjects and preserved officer register.",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0130:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "! Dragon Gundam and Gundam Rose!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 167
+   },
+   "notes": "Arrival of Sai Saici and George; addressed names and titles follow glossary; preserved surprise.",
+   "uncertain": []
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0130:305"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Hey, big bro Domon!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 168
+   },
+   "notes": "Big bro is Sai Saici's familiar address to Domon, not a literal sibling claim.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0130:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "It has been a while, Domon Kasshu.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 169
+   },
+   "notes": "Arrival of Sai Saici and George; addressed names and titles follow glossary; preserved surprise.",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0130:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "You two...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 170
+   },
+   "notes": "Retained deliberate recognition fragment addressed to both arriving fighters.",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0130:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Could those guys be...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 171
+   },
+   "notes": "Retained trailing question; Light supplies the Shuffle Alliance identification next.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0130:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Yeah. Sai Saici, the Club Ace, and",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 172
+   },
+   "notes": "Sentence continues into row 173; retained matching conjunction boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0130:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "George DeSand, the Jack in Diamond... They are members of the Shuffle Alliance.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 173
+   },
+   "notes": "Completes identification begun in row 172; full names and Shuffle titles follow glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0130:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Sai Saici, George... Why are you here?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 174
+   },
+   "notes": "Arrival of Sai Saici and George; addressed names and titles follow glossary; preserved surprise.",
+   "uncertain": []
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0130:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Is it not obvious? We in the Shuffle Alliance must deal with the aftermath of that dreadful incident...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 175
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0130:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "That's right, big bro. So come on, let's fight again! It's been a while!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 176
+   },
+   "notes": "Fight is an invitation to Domon, not a joint fight against enemies. Final restores Sai Saici's casual spoken voice; wording is longer than the saved draft, not a fit compression.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0130:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 177
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0130:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "What are you playing at, Sai Saici!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 178
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0130:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "I'm telling you, let's do it! Our kind of battle... a Gundam Fight!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 179
+   },
+   "notes": " Final restores Sai Saici's casual spoken voice; wording is longer than the saved draft, not a fit compression.",
+   "uncertain": []
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0130:317"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "This guy...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 180
+   },
+   "notes": "Retained demonstrative thought fragment; Domon is suspicious of Sai Saici.",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0130:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "W-what is that boy saying!? This is no time for that...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 181
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0130:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "I will serve as the witness. Come, Domon... Do not hold back.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 182
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0130:320",
+    "s0130:341",
+    "s0130:352",
+    "i013a:63",
+    "i013a:80",
+    "i013a:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 499
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0130:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "All right. Everyone else, please stay out of this.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 183
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0130:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Haaaa...! Hah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 184
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0130:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Well then... Here I come, big bro!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 185
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0130:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Gundam Fiiight!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 186
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0130:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Reaaady!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 187
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0130:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Gooooo!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 188
+   },
+   "notes": "Sai Saici challenges Domon to a duel; preserved challenge direction and launch-call shouts.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0130:327"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Reduce Dragon Gundam's HP to 50% or less",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 189
+   },
+   "notes": "Victory condition; retain one plain segment.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0130:328",
+    "s0130:374"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. God Gundam is shot down@2. An allied mothership is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 190
+   },
+   "notes": "Defeat conditions; preserve one @ and two numbered segments; repeated at s0130:374.",
+   "uncertain": []
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0130:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ow, ow... You are as good as ever, big bro!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 191
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0130:330"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...You are not putting up your usual fight, Sai Saici.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 192
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0130:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Heh, hehehehe...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 193
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0130:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 194
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0130:333"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "But I... I have to beat you this time, big bro.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 195
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0130:334"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 196
+   },
+   "notes": "After duel damage, Sai Saici reveals unnatural power; preserved strained laugh or wordless reaction as applicable.",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0130:335"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "So, you see, I got my hands on...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 197
+   },
+   "notes": "Object deliberately withheld until row 198; retained matching fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0130:336"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "This incredible power!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 198
+   },
+   "notes": "Object completing row 197; deliberate cross-row fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0130:337"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "T-that is! A self-regeneration function!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 199
+   },
+   "notes": "Rain identifies the Dragon Gundam repairing itself; function is technological, not a Spirit Command.",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s0130:338"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Just as I thought, you two...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 200
+   },
+   "notes": "Retained deliberate suspicion fragment before Sai Saici names DG Cells.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s0130:339"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "That is right, big bro! DG Cells!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 201
+   },
+   "notes": "DG Cells follows glossary capitalization.",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "s0130:340"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "You know very well how wonderful they are, do you not? Hehehehe.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 202
+   },
+   "notes": "They refers to DG Cells; restored explicit English referent.",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "s0130:342"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "I once rejected this power... But what about you? Why not acquire it yourself?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 203
+   },
+   "notes": "George invites Domon to acquire DG-cell power; he is not asking Domon to give it away.",
+   "uncertain": []
+  },
+  {
+   "id": 354,
+   "uses": [
+    "s0130:343"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "I refuse!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 204
+   },
+   "notes": "DG-cell reveal and Domon's refusal; preserve George's affected courtesy and Domon's forceful denial.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "s0130:344"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "My, my, you are as stubborn as ever. Then I suppose we must resort to force.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 205
+   },
+   "notes": "DG-cell reveal and Domon's refusal; preserve George's affected courtesy and Domon's forceful denial.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "s0130:345"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Domon! I do not know how it happened, but those two are infected with DG Cells!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 206
+   },
+   "notes": "DG-cell reveal and Domon's refusal; preserve George's affected courtesy and Domon's forceful denial.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "s0130:346"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "No! That is absolutely impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 207
+   },
+   "notes": "DG-cell reveal and Domon's refusal; preserve George's affected courtesy and Domon's forceful denial.",
+   "uncertain": []
+  },
+  {
+   "id": 358,
+   "uses": [
+    "s0130:347"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 208
+   },
+   "notes": "DG-cell reveal and Domon's refusal; preserve George's affected courtesy and Domon's forceful denial.",
+   "uncertain": []
+  },
+  {
+   "id": 359,
+   "uses": [
+    "s0130:348"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "How could men who inherited the Shuffle Crest during that battle... ever submit to the Devil Gundam!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 209
+   },
+   "notes": "Refers to Sai Saici and George inheriting Shuffle Crests during the earlier battle; masculine men is explicit in source.",
+   "uncertain": []
+  },
+  {
+   "id": 360,
+   "uses": [
+    "s0130:349"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Heh heh... I understand why you would want to believe that, Domon...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 210
+   },
+   "notes": "The impostor George patronizes Domon after his refusal to believe the real Shuffle Alliance would submit.",
+   "uncertain": []
+  },
+  {
+   "id": 361,
+   "uses": [
+    "s0130:350"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "We needed power beyond what the Shuffle Alliance could give us...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 211
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 362,
+   "uses": [
+    "s0130:351"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Yes... We needed it to protect the Earth Sphere.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 212
+   },
+   "notes": "Restores the impostors as subject; Earth Sphere is the source geographic scope.",
+   "uncertain": []
+  },
+  {
+   "id": 363,
+   "uses": [
+    "s0130:353"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "I remember... Something like this happened before...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 213
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 364,
+   "uses": [
+    "s0130:354"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "We can save them both if we use the same method we used back then!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 214
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 365,
+   "uses": [
+    "s0130:355"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "They don't need saving! I'll defeat them!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 215
+   },
+   "notes": "Domon rejects the premise that the two need rescuing, anticipating the impostor reveal.",
+   "uncertain": []
+  },
+  {
+   "id": 366,
+   "uses": [
+    "s0130:356"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "W-what are you saying, Domon!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 216
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 367,
+   "uses": [
+    "s0130:357"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Captain Bright, order every unit to attack!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 217
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 368,
+   "uses": [
+    "s0130:358"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "...Are you sure that's what you want?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 218
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 369,
+   "uses": [
+    "s0130:359"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "They're your comrades, aren't they!? Why won't you save them!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 219
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 370,
+   "uses": [
+    "s0130:360"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Because, as I just said, there's no need to...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 220
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 371,
+   "uses": [
+    "s0130:361"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Are you sure that's true...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 221
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 372,
+   "uses": [
+    "s0130:362"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Yes! I swear it on this fist!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 222
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 373,
+   "uses": [
+    "s0130:363"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "T-that's crazy! If you're wrong, this could be a disaster!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 223
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 374,
+   "uses": [
+    "s0130:364"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Nah, you don't have to worry about that.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 224
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 375,
+   "uses": [
+    "s0130:365"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 225
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 376,
+   "uses": [
+    "s0130:366"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "That guy swore on his own fists. A martial artist trusts those more than anything. That's why I believe him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 226
+   },
+   "notes": "Domon is the martial artist referred to; fists are an oath and basis for trust.",
+   "uncertain": []
+  },
+  {
+   "id": 377,
+   "uses": [
+    "s0130:367"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I-is that really how it works...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 227
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 378,
+   "uses": [
+    "s0130:368"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "If he's that certain, he must be right...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 228
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 379,
+   "uses": [
+    "s0130:369"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All units! Attack those two Gundams!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 229
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 380,
+   "uses": [
+    "s0130:370"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベン",
+   "speaker_en": "Ben",
+   "en": "A-are you sure, Captain!? Aren't they members of the Shuffle Alliance, just like Domon Kasshu...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 230
+   },
+   "notes": "Keeps the trailing objection as a question with an unfinished emotional ending.",
+   "uncertain": []
+  },
+  {
+   "id": 381,
+   "uses": [
+    "s0130:371"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "If they're infected with DG Cells, we should be rescuing them instead!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 231
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 382,
+   "uses": [
+    "s0130:372"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Do it! I'll take responsibility! Commence the attack immediately!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 232
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 383,
+   "uses": [
+    "s0130:375"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The enemy units' signals have vanished!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 233
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 384,
+   "uses": [
+    "s0130:376"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベン",
+   "speaker_en": "Ben",
+   "en": "Captain, does that mean those Shuffle Alliance members were impostors...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 234
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 385,
+   "uses": [
+    "s0130:377"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes... Domon realized that, which is why he didn't hesitate to fight them...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 235
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 386,
+   "uses": [
+    "s0130:378"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "They were after me... So I was the one they lured out.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 236
+   },
+   "notes": "Thought; the enemy lured Domon himself rather than being drawn out by him.",
+   "uncertain": []
+  },
+  {
+   "id": 387,
+   "uses": [
+    "s0130:379"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Domon Kasshu, I'd like to hear the details, if possible. Would you come aboard with Rain?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 237
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 388,
+   "uses": [
+    "s0130:380"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Yes, understood.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 238
+   },
+   "notes": "Ignores the documented stray closing-wrapper tail.",
+   "uncertain": []
+  },
+  {
+   "id": 389,
+   "uses": [
+    "i013a:0",
+    "i013a:92"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So there were signs of the Death Army appearing several days ago...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 239
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 390,
+   "uses": [
+    "i013a:1",
+    "i013a:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes... There were signs in the ruins around TOKYO JUPITER, of all places...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 240
+   },
+   "notes": "Restores the signs and their existence from Bright239; TOKYO JUPITER spelling fixed by glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 391,
+   "uses": [
+    "i013a:2",
+    "i013a:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "But... Why would they appear there?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 241
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 392,
+   "uses": [
+    "i013a:3",
+    "i013a:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "We came to the Japan region to investigate the cause, but... We still don't know the details.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 242
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 393,
+   "uses": [
+    "i013a:4",
+    "i013a:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "But by sending impostors of those two, they've revealed that one of their aims was to draw us away.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 243
+   },
+   "notes": "Diversion means drawing Domon and Rain away; preserves one of several purposes.",
+   "uncertain": []
+  },
+  {
+   "id": 394,
+   "uses": [
+    "i013a:5",
+    "i013a:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "Who are you talking about?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 244
+   },
+   "notes": "Restores the question about the referent of they.",
+   "uncertain": []
+  },
+  {
+   "id": 395,
+   "uses": [
+    "i013a:6",
+    "i013a:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "The people plotting to revive the Devil Gundam. Though we still have no idea who they are...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 245
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 396,
+   "uses": [
+    "i013a:7",
+    "i013a:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But weren't all the DG Cells completely disposed of after that incident?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 246
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 397,
+   "uses": [
+    "i013a:8",
+    "i013a:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes. Dr. Raizo Kasshu, Domon's father and the developer of the machine that became the Devil Gundam, destroyed them...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 247
+   },
+   "notes": "Mother/base machine means the predecessor that became Devil Gundam; does not imply a biological mother. Full name Raizo Kasshu is explicitly recorded in the main Dr. Kasshu glossary profile notes.",
+   "uncertain": []
+  },
+  {
+   "id": 398,
+   "uses": [
+    "i013a:9",
+    "i013a:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Then why the hell have they shown up again now?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 248
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 399,
+   "uses": [
+    "i013a:10",
+    "i013a:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Someone probably obtained a sample of DG Cells during the Devil Gundam incident.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 249
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 400,
+   "uses": [
+    "i013a:11",
+    "i013a:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "But aren't there plenty of people who would scheme to do something like that?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 250
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 401,
+   "uses": [
+    "i013a:12",
+    "i013a:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Right, right. I saw it on TV too. The Guiana Highlands, Lantau Island...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 251
+   },
+   "notes": "List trails off into the explanation in252; stray closing-wrapper tail ignored. Guiana Highlands and Lantau Island confirmed centrally from Akurasu A/64 flow charts.",
+   "uncertain": []
+  },
+  {
+   "id": 402,
+   "uses": [
+    "i013a:13",
+    "i013a:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "The Devil Gundam seemed to show up in all sorts of places.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 252
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 403,
+   "uses": [
+    "i013a:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Yes... It caused quite an uproar. I imagine it was fairly easy to get hold of a sample.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 253
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 404,
+   "uses": [
+    "i013a:15",
+    "i013a:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Dr. Raizo was concerned about that too. After the incident, he developed a vaccine that induces apoptosis in DG Cells.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 254
+   },
+   "notes": "Retains the technical apoptosis mechanism, not a general antidote. Full name Raizo Kasshu is explicitly recorded in the main Dr. Kasshu glossary profile notes.",
+   "uncertain": []
+  },
+  {
+   "id": 405,
+   "uses": [
+    "i013a:16",
+    "i013a:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "With that vaccine, we in the Shuffle Alliance defeated people planning to misuse DG Cells, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 255
+   },
+   "notes": "Contrast trails into Rain256; subjects restored.",
+   "uncertain": []
+  },
+  {
+   "id": 406,
+   "uses": [
+    "i013a:17",
+    "i013a:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "The vaccine doesn't work on these Death Army units.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 407,
+   "uses": [
+    "i013a:18",
+    "i013a:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "So, just as before... We have no choice but to physically destroy them.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 408,
+   "uses": [
+    "i013a:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "What did you say...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 409,
+   "uses": [
+    "i013a:20",
+    "i013a:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So those Death Army units we just fought were made from DG Cells that had been improved somehow?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 410,
+   "uses": [
+    "i013a:21",
+    "i013a:113"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes... Dr. Kasshu said that would be impossible without extremely advanced technology...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 260
+   },
+   "notes": "Kasshu is the authority quoted; technological actor remains unspecified.",
+   "uncertain": []
+  },
+  {
+   "id": 411,
+   "uses": [
+    "i013a:22",
+    "i013a:114"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "If even their creator says so, it must be some incredible technology.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 412,
+   "uses": [
+    "i013a:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Could it be the Gulfer?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 413,
+   "uses": [
+    "i013a:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "We looked into that possibility too, but so far, there doesn't seem to be any connection.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 414,
+   "uses": [
+    "i013a:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Then who on earth are they...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 415,
+   "uses": [
+    "i013a:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "We intend to keep investigating that.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 416,
+   "uses": [
+    "i013a:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "So, to carry on our investigation, could you let us stay aboard the Nahel Argama?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 417,
+   "uses": [
+    "i013a:28",
+    "i013a:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "I was about to ask you to join us myself. However...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 267
+   },
+   "notes": "Bright welcomes their joining; unfinished caveat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 418,
+   "uses": [
+    "i013a:29",
+    "i013a:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "I understand. As a member of the Shuffle Alliance, I intend to do what must be done.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 268
+   },
+   "notes": "Domon acknowledges Bright's implied duty to assist the ship; does not invent the caveat.",
+   "uncertain": []
+  },
+  {
+   "id": 419,
+   "uses": [
+    "i013a:30",
+    "i013a:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Then I'm counting on both of you from here on.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 269
+   },
+   "notes": "Request direction preserved: Bright asks for continued help from both.",
+   "uncertain": []
+  },
+  {
+   "id": 420,
+   "uses": [
+    "i013a:31",
+    "i013a:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 421,
+   "uses": [
+    "i013a:32",
+    "i013a:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "By the way... Captain Bright, have you met Rain and Domon before?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 422,
+   "uses": [
+    "i013a:33",
+    "i013a:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes. We also took part in the final battle against the Devil Gundam a year ago.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 423,
+   "uses": [
+    "i013a:34",
+    "i013a:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Wow...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 424,
+   "uses": [
+    "i013a:35",
+    "i013a:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The Nadesico B was there too, you know!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 425,
+   "uses": [
+    "i013a:36",
+    "i013a:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Now that's quite a lineup.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 426,
+   "uses": [
+    "i013a:37",
+    "i013a:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "That wasn't all. Every Gundam there was came together to defeat the Devil Gundam...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 276
+   },
+   "notes": "Torres's unfinished account retained.",
+   "uncertain": []
+  },
+  {
+   "id": 427,
+   "uses": [
+    "i013a:38",
+    "i013a:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "And on top of that, the King of Hearts standing right there...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 277
+   },
+   "notes": "Unfinished predicate retained as Torres is interrupted by embarrassed Domon/Rain.",
+   "uncertain": []
+  },
+  {
+   "id": 428,
+   "uses": [
+    "i013a:39",
+    "i013a:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Hmm...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 429,
+   "uses": [
+    "i013a:40",
+    "i013a:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "L-let's save that story for another time. Right, Domon?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 279
+   },
+   "notes": "Rain deflects Torres's account; stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 430,
+   "uses": [
+    "i013a:41",
+    "i013a:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Y-yeah...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 431,
+   "uses": [
+    "i013a:42",
+    "i013a:132"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 281
+   },
+   "notes": "Source question-mark-only reaction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 432,
+   "uses": [
+    "i013a:43",
+    "i013a:133"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "W-well, we have maintenance to do on the God Gundam, so we'll be going now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 433,
+   "uses": [
+    "i013a:44",
+    "i013a:134"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What's with those two? Why are they in such a hurry?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 434,
+   "uses": [
+    "i013a:45",
+    "i013a:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "I don't know...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 435,
+   "uses": [
+    "i013a:46",
+    "i013a:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "...Torres, keep that story a secret for their sake.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 285
+   },
+   "notes": "Bright protects Domon and Rain's private story.",
+   "uncertain": []
+  },
+  {
+   "id": 436,
+   "uses": [
+    "i013a:47",
+    "i013a:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "Yes, that does seem best.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 437,
+   "uses": [
+    "i013a:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Now you've made me even more curious.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 438,
+   "uses": [
+    "i013a:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Everyone has things they'd rather keep private. Let's stop prying.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 439,
+   "uses": [
+    "i013a:50"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Hmm... I'm not sure how convincing that is.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 289
+   },
+   "notes": "Light privately questions Vega's persuasiveness; restored subject/verb.",
+   "uncertain": []
+  },
+  {
+   "id": 440,
+   "uses": [
+    "i013a:51",
+    "i013a:138"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "All right, #男愛称. You're going to explain what happened earlier, aren't you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 441,
+   "uses": [
+    "i013a:53",
+    "i013a:140"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "What happened between you and the Devil Gundam?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 442,
+   "uses": [
+    "i013a:54",
+    "i013a:141"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Did you fight it... back when you were in that special task force?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 443,
+   "uses": [
+    "i013a:55",
+    "i013a:142"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "And how are you connected to the King of Hearts...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 293
+   },
+   "notes": "Aqua's unfinished question retained, with context-settled you restored.",
+   "uncertain": []
+  },
+  {
+   "id": 444,
+   "uses": [
+    "i013a:57",
+    "i013a:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "That was a close call back there, Domon.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 445,
+   "uses": [
+    "i013a:58",
+    "i013a:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Yeah.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 446,
+   "uses": [
+    "i013a:59",
+    "i013a:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "But... it's only a matter of time before everyone finds out.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 447,
+   "uses": [
+    "i013a:60",
+    "i013a:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "You're right...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 297
+   },
+   "notes": "Ignored stray closing bracket and trailing source layout marker.",
+   "uncertain": []
+  },
+  {
+   "id": 448,
+   "uses": [
+    "i013a:61",
+    "i013a:148"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "! Domon Kasshu...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 298
+   },
+   "notes": "Recognition/exclamation and name fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 449,
+   "uses": [
+    "i013a:62",
+    "i013a:149"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "If this man had finished it off sooner, the Cry Wolves would have...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 299
+   },
+   "notes": "Unfinished counterfactual about the Cry Wolves retained; it refers to Devil Gundam.",
+   "uncertain": []
+  },
+  {
+   "id": 450,
+   "uses": [
+    "i013a:64",
+    "i013a:151"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "No... I suppose I'm wrong to resent him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 451,
+   "uses": [
+    "i013a:65",
+    "i013a:152"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "From what I've heard, the Devil Gundam and DG Cells changed his life, just as they changed mine...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 301
+   },
+   "notes": "His refers to Domon; source explicitly calls him a man. Parallel lives retained.",
+   "uncertain": []
+  },
+  {
+   "id": 452,
+   "uses": [
+    "i013a:66",
+    "i013a:153"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Hey! Where are you going, #男愛称?! I'm not finished talking yet!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 453,
+   "uses": [
+    "i013a:67",
+    "i013a:154"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "...Domon, that person... do you know him?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 303
+   },
+   "notes": "Rain asks Domon about the male protagonist; gender established by runtime male-lead placeholder.",
+   "uncertain": []
+  },
+  {
+   "id": 454,
+   "uses": [
+    "i013a:68",
+    "i013a:155"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "No... I've never seen him before.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 304
+   },
+   "notes": "Domon denies knowing male protagonist.",
+   "uncertain": []
+  },
+  {
+   "id": 455,
+   "uses": [
+    "i013a:69",
+    "i013a:156"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Then what is going on with #男愛称...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 305
+   },
+   "notes": "Aqua remains puzzled about protagonist after Domon's denial; open-ended referent retained.",
+   "uncertain": [
+    "Source leaves what about the protagonist is being asked open; rendered as a general question about his behavior."
+   ]
+  },
+  {
+   "id": 456,
+   "uses": [
+    "i013a:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "U-um!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 487
+   },
+   "notes": "Nervous attention-getting interjection.",
+   "uncertain": []
+  },
+  {
+   "id": 457,
+   "uses": [
+    "i013a:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Oh... Could you be Dendoh's pilot?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 488
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 458,
+   "uses": [
+    "i013a:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Y-yes! I'm Ginga Izumo!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 489
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 459,
+   "uses": [
+    "i013a:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Ginga, what's wrong? You're all tense...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 490
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 460,
+   "uses": [
+    "i013a:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I-I-I'm nervous! Th-the King of Hearts is standing right in front of me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 491
+   },
+   "notes": "Repeated stutter and enthusiastic nervousness in front of hero preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 461,
+   "uses": [
+    "i013a:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Hee hee, so Domon's the one you wanted to see.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 492
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 462,
+   "uses": [
+    "i013a:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...What do you want?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 493
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 463,
+   "uses": [
+    "i013a:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "S-s-s...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 494
+   },
+   "notes": "Stutter chosen as S to preserve sweeping/sign callback through497.",
+   "uncertain": []
+  },
+  {
+   "id": 464,
+   "uses": [
+    "i013a:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "S-sign an autograph for me, please!! I'm a fan of yours, Domon!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 497
+   },
+   "notes": "Sign phrasing transcreates source autograph stutter to preserve cleaning joke sound callback.",
+   "uncertain": []
+  },
+  {
+   "id": 465,
+   "uses": [
+    "i013a:79"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "So please, I want the King of Hearts' autograph!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 498
+   },
+   "notes": "Explicit asking for autograph, not offering own autograph.",
+   "uncertain": []
+  },
+  {
+   "id": 466,
+   "uses": [
+    "i013a:81"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Domon, give him one. We're going to be together from now on.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 500
+   },
+   "notes": "Rain asks Domon to sign for Ginga because they will be comrades.",
+   "uncertain": []
+  },
+  {
+   "id": 467,
+   "uses": [
+    "i013a:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Then there's no need.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 501
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 468,
+   "uses": [
+    "i013a:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Huh!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 147
+   },
+   "notes": "Event 4: body-only spoken dialogue; speaker and listener follow the original route context.",
+   "uncertain": []
+  },
+  {
+   "id": 469,
+   "uses": [
+    "i013a:84"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "If you're a martial artist too, you should understand. My emblem... The King of Hearts is already engraved on your heart.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 502
+   },
+   "notes": "Domon's literal emblem metaphor; no actual signature granted.",
+   "uncertain": []
+  },
+  {
+   "id": 470,
+   "uses": [
+    "i013a:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...As proof that we're comrades who will fight together.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 503
+   },
+   "notes": "Deliberate appended phrase explaining the metaphor in502.",
+   "uncertain": []
+  },
+  {
+   "id": 471,
+   "uses": [
+    "i013a:86"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "S-so... So cool...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 506
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 472,
+   "uses": [
+    "i013a:87"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "I'm sorry, Ginga. He's just embarrassed. He's not used to signing autographs.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 507
+   },
+   "notes": "Domon's embarrassment and lack of autograph practice restored explicitly.",
+   "uncertain": []
+  },
+  {
+   "id": 473,
+   "uses": [
+    "i013a:88"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "He's embarrassed... that's what that was?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 306
+   },
+   "notes": "Hokuto challenges Rain's reading of Domon's refusal to sign an autograph.",
+   "uncertain": []
+  },
+  {
+   "id": 474,
+   "uses": [
+    "i013a:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "Yes. I've been his partner for a long time... I can tell.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 475,
+   "uses": [
+    "i013a:90"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "She can tell because she's his partner, huh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 308
+   },
+   "notes": "Aqua echoes Rain's understanding of her long-term partner.",
+   "uncertain": []
+  },
+  {
+   "id": 476,
+   "uses": [
+    "i013a:91"
+   ],
+   "kind": "thought",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "That might be impossible for me and #男愛称...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 309
+   },
+   "notes": "Aqua compares her partnership with the male protagonist, not their ability to obtain an autograph.",
+   "uncertain": []
+  },
+  {
+   "id": 477,
+   "uses": [
+    "i013a:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "So it might have been fairly easy to get a sample.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 310
+   },
+   "notes": "Alternate route: sample refers to DG Cells, following Death Army/Devil Gundam discussion.",
+   "uncertain": []
+  },
+  {
+   "id": 478,
+   "uses": [
+    "i013a:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 311
+   },
+   "notes": "Alternate route: reacts to vaccine failure and required physical destruction.",
+   "uncertain": []
+  },
+  {
+   "id": 479,
+   "uses": [
+    "i013a:115"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "But it's a problem when we have no idea who's behind this.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 312
+   },
+   "notes": "Alternate route replaces Vega's Gulfer hypothesis with unknown culprit concern.",
+   "uncertain": []
+  },
+  {
+   "id": 480,
+   "uses": [
+    "i013a:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Yes. That's why we intend to keep investigating them.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 481,
+   "uses": [
+    "i013a:117"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "To do that, Captain Bright... could you let us stay aboard the Nahel Argama?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage05_campaign.json",
+    "id": 314
+   },
+   "notes": "Alternate route explicit address to Captain Bright retained.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 5,
+  "fingerprint": "f9884b9e6c2b1f07e71bdf16c3f2b0df8240df665ed92adfb1843d4ab370317f",
+  "reviewed_reused_ids": [
+   32,
+   53,
+   66,
+   72,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197,
+   198,
+   199,
+   200,
+   201,
+   202,
+   203,
+   204,
+   205,
+   206,
+   207,
+   208,
+   209,
+   210,
+   211,
+   212,
+   213,
+   214,
+   215,
+   216,
+   217,
+   218,
+   219,
+   220,
+   332,
+   456,
+   457,
+   458,
+   459,
+   460,
+   461,
+   462,
+   463,
+   464,
+   465,
+   466,
+   467,
+   468,
+   469,
+   470,
+   471,
+   472
+  ],
+  "reviewed_reused_rows": 167,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Reviewed all 167 reused rows: unchanged generic battle defeat template and mission objectives; protagonist silences/reactions checked at every original use; Ginga and Rain autograph sequence matches stage4 context with unchanged listener/referents. Reviewed fresh terminology and Aqua open-ended thought455 against adjacent scenes; retained source ambiguities. All final rows pass structural/font/name checks. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+ },
+ "full_checks": {
+  "rows": 482,
+  "uses": 615,
+  "problems": []
+ }
+}

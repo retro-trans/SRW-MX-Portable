@@ -1,0 +1,20 @@
+{
+ "terms": [
+  {
+   "jp": "ウインドゥ通信",
+   "en": "window communications",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source English-form communication label for protected send/receive channels. No exact Akurasu or independent licensed English label found; do not infer protocol, encryption or device details."
+  },
+  {
+   "jp": "地球連邦宇宙軍",
+   "en": "Earth Federation Space Force",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Full source-literal MX affiliation, distinct from source-short Federation Space Force and original-series United Earth Space Force. No exact independently established licensed MX label found; Earth is present in this full Japanese form."
+  }
+ ]
+}

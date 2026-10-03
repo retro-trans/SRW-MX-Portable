@@ -1,0 +1,9 @@
+{
+ "terms": [
+  {"jp":"演奏","en":"perform","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 rows552/554 quoted musical verb; source-literal provisional wording, no independently verified licensed English label. Preserve the musical imagery without importing identity or mechanisms."},
+  {"jp":"エヴァ","en":"Eva","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row600 quoted symbolic name alongside Adam. Preserve source-specific title case Eva, distinct from machine acronym EVA; do not add biblical or franchise explanation."},
+  {"jp":"失われた星を抱いた神の鳥人","en":"the divine bird-man bearing the lost star","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row625 symbolic descriptive phrase, source-literal provisional English. Preserve imagery and uncertain referent; do not substitute a named machine or disclose identity."},
+  {"jp":"コンタクトレッド","en":"Contact red","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row688 literal warning preceding D1/D2 contact report. No exact Akurasu or independently corroborated English wording located; retain source designation without inventing alert mechanics."},
+  {"jp":"ＡＣレコーダー","en":"AC recorder","sources":["work/translation/en/script/stage23_campaign.json","https://transcripts.foreverdreaming.org/viewtopic.php?t=77627"],"notes":"Stage23 row785 source EVA recorder label. No exact Akurasu entry located; secondary English episode17 transcript corroborates wording, not independently verified licensed translation. Keep AC unexpanded and hidden speaker unchanged."}
+ ]
+}

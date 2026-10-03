@@ -1,0 +1,2453 @@
+{
+ "batch": 3,
+ "rows": [
+  {
+   "id": "q01153",
+   "en": "You're mine nowww!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01154",
+   "en": "I don't wanna do this either... But still!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01155",
+   "en": "Guess it's gotta be me... It's gotta be ME!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01156",
+   "en": "I ain't leavin' it all to Ikari and Soryu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01157",
+   "en": "I'll show ya what EVA-03 can do!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01158",
+   "en": "When it's time to step up, I step up too!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01159",
+   "en": "Don't you dare look down on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01160",
+   "en": "Hold still, you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01161",
+   "en": "I gotta do it... I just gotta!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01162",
+   "en": "I'll show ya what guts look like!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01163",
+   "en": "N-no way... Is this as far as I go...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01164",
+   "en": "Uwaaah!! I ain't dyin' in a place like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01165",
+   "en": "D-don't you mess with a guy from Kansai!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01166",
+   "en": "N-no way I'm the only one goin' down out here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01167",
+   "en": "Uwaaah!! Wh-what the hell is this thing!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01168",
+   "en": "Guh! Th-this is turnin' into a real mess!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01169",
+   "en": "Whoa! S-so I can't pull it off like Ikari does!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01170",
+   "en": "I-I'm an EVA pilot too! I'll show ya my guts!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01171",
+   "en": "Cr-crap! If this keeps up...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01172",
+   "en": "Ngh! I ain't lookin' any more lame than this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01173",
+   "en": "Huh? What, did somebody just touch me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01174",
+   "en": "Heh! Like that's gonna work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01175",
+   "en": "What's wrong? Is that all ya got!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01176",
+   "en": "Shoot! I got hit!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01177",
+   "en": "Even I can dodge somethin' like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01178",
+   "en": "Where d'ya think you're aimin'!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01179",
+   "en": "Man, you're hopeless~",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01180",
+   "en": "Whoa there! That one was close~",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01181",
+   "en": "Like I'd get hit by somethin' like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01182",
+   "en": "Hey, hey, what're ya doin'!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01183",
+   "en": "Wha~t's that? What a boring attack.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01184",
+   "en": "The AT Field is invincible!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01185",
+   "en": "AT Field, full power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01186",
+   "en": "What!? I'm outta ammo!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01187",
+   "en": "Shoot! I can't reach!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01188",
+   "en": "D-dammit! Y-you ain't heard the last of me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01189",
+   "en": "Not yet! It ain't over yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01190",
+   "en": "I'm gonna settle this proper!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01191",
+   "en": "Get outta my way!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01192",
+   "en": "Alright, here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01193",
+   "en": "Here goes, then...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01194",
+   "en": "I'm gonna hit ya, no matter what!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01195",
+   "en": "Watch this, I'll give ya a headbutt!!",
+   "notes": "pachiki = Kansai slang for headbutt.",
+   "uncertain": []
+  },
+  {
+   "id": "q01196",
+   "en": "Uwaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01197",
+   "en": "Raaaaaaaah!!",
+   "notes": "Shared with Asuka; neutral battle cry.",
+   "uncertain": []
+  },
+  {
+   "id": "q01198",
+   "en": "C'mon, please, just hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01199",
+   "en": "There!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01200",
+   "en": "Outta my way!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01201",
+   "en": "I can do this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01202",
+   "en": "Don't you underestimate me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01203",
+   "en": "Fine, I'll show you how it's done!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01204",
+   "en": "I'll show you what EVA-02 can do!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01205",
+   "en": "Asuka, here I go...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01206",
+   "en": "No way... You're kidding!? EVA-03 is the enemy...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01207",
+   "en": "That dopey face of yours pisses me off!",
+   "notes": "Likely aimed at Bardiel/EVA-03.",
+   "uncertain": []
+  },
+  {
+   "id": "q01208",
+   "en": "I'm gonna smash that smirking face to bits!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01209",
+   "en": "Why yooouuu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01210",
+   "en": "You've got some nerve!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01211",
+   "en": "You're finished here too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01212",
+   "en": "That's it, I'm mad! Now you're gonna get it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01213",
+   "en": "Laying a hand on me... Are you stupid or something!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01214",
+   "en": "N-no way!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01215",
+   "en": "I don't want this... Is this the end for me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01216",
+   "en": "You're kidding! Me!? I can't believe it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01217",
+   "en": "Argh! This isn't good enough, this isn't good enough!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01218",
+   "en": "Nngh! Not yet, I'm not done yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01219",
+   "en": "No way am I going down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01220",
+   "en": "Agh! I can still... I can still fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01221",
+   "en": "Ngh! Th-this might be bad...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01222",
+   "en": "Kuaah! Wh-why won't you listen to me!?",
+   "notes": "Addressed to her EVA.",
+   "uncertain": []
+  },
+  {
+   "id": "q01223",
+   "en": "I won't accept it...! I refuse to accept it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01224",
+   "en": "Me... being put through this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01225",
+   "en": "I'll never forgive you...! Humiliating me like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01226",
+   "en": "Nngh! I'll smash you to pieces...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01227",
+   "en": "Those annoying arms of yours... I'll rip them off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01228",
+   "en": "Don't laugh! Don't you... laugh at meee!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01229",
+   "en": "Dammit... All you've got going for you is numbers!",
+   "notes": "Likely vs. the Mass Production EVAs.",
+   "uncertain": []
+  },
+  {
+   "id": "q01230",
+   "en": "Aaaaaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01231",
+   "en": "!! Uwaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01232",
+   "en": "Ow! Now you've done it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01233",
+   "en": "L-like I'd go down from something like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01234",
+   "en": "I'm hit!? But I'm not done yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01235",
+   "en": "Nngh! Why yooouuu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01236",
+   "en": "Owww... How dare you, how dare you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01237",
+   "en": "Why you! I'll pay you back ten times over for this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01238",
+   "en": "I'm just getting started!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01239",
+   "en": "Ugh!? You've got some nerve pulling that...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01240",
+   "en": "It didn't hurt! It didn't hurt at all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01241",
+   "en": "Tch, how could I, of all people...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01242",
+   "en": "I'm neutralizing its AT Field, so why isn't it hurt!?",
+   "notes": "Japanese says the field should be neutralized; I made Asuka the subject (she neutralizes the enemy's field).",
+   "uncertain": []
+  },
+  {
+   "id": "q01243",
+   "en": "What are you, an idiot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01244",
+   "en": "Hah! Like that'd work on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01245",
+   "en": "Ngh! How dare you scratch my EVA!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01246",
+   "en": "Pfft, what kind of attack is that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01247",
+   "en": "You think an attack like that would work on me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01248",
+   "en": "I'm hit!?",
+   "notes": "Shared with Masato Akitsu.",
+   "uncertain": [
+    "Read as being hit (sits among damage lines); could also be 'Did it hit!?' on attack. Works for Masato either way only if the context is the same."
+   ]
+  },
+  {
+   "id": "q01249",
+   "en": "That doesn't even count as a scratch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01250",
+   "en": "Are you making fun of me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01251",
+   "en": "As long as I don't take a direct hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01252",
+   "en": "No way...! It got taken over by an Angel!",
+   "notes": "",
+   "uncertain": [
+    "Subject unstated; read as EVA-03 being hijacked (Bardiel). 'It' kept vague."
+   ]
+  },
+  {
+   "id": "q01253",
+   "en": "I'm hit!? Quit smirking at me!",
+   "notes": "",
+   "uncertain": [
+    "Read as Asuka getting hit by a grinning enemy; could be 'Did it hit!?' on attack."
+   ]
+  },
+  {
+   "id": "q01254",
+   "en": "Hmph, so the only problem is your numbers, huh.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01255",
+   "en": "Hmph, you came right where I thought you would.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01256",
+   "en": "Like that'll hit me!",
+   "notes": "Shared with Allenby.",
+   "uncertain": []
+  },
+  {
+   "id": "q01257",
+   "en": "Hmph, where do you think you're aiming!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01258",
+   "en": "Too easy, too easy! As if that would ever hit me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01259",
+   "en": "Are you an idiot or what!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01260",
+   "en": "Geez, what a boring attack.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01261",
+   "en": "Do I really have to deal with this?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01262",
+   "en": "Are you stupid?",
+   "notes": "Signature line (anta baka).",
+   "uncertain": []
+  },
+  {
+   "id": "q01263",
+   "en": "Hmph! What are you doing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01264",
+   "en": "What do you think you're doing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01265",
+   "en": "Haa~ah, what a bore!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01266",
+   "en": "You're a hundred million years too early to take me on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01267",
+   "en": "With skills like that, you'd better aim at someone else!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01268",
+   "en": "There's no way I'm letting that hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01269",
+   "en": "Stupid, like that'd ever work on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01270",
+   "en": "AT Field, deploy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01271",
+   "en": "As if an attack like that could work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01272",
+   "en": "Why you! Field, full power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01273",
+   "en": "Wie!? I'm out of ammo!?",
+   "notes": "WIE is German 'What'; kept as Asuka's German.",
+   "uncertain": []
+  },
+  {
+   "id": "q01274",
+   "en": "Wh-what the heck, I can't reach it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01275",
+   "en": "Ugh, how uncool...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01276",
+   "en": "Clear the way for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01277",
+   "en": "Move, move! Out of my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01278",
+   "en": "The great Asuka will show you how it's done",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01279",
+   "en": "Stupid Shinji! You owe me for this one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01280",
+   "en": "I have to follow THIS one? That pisses me off!",
+   "notes": "",
+   "uncertain": [
+    "Support-attack line; read as Asuka attacking after an ally. Ally's gender unknown, kept 'this one'."
+   ]
+  },
+  {
+   "id": "q01281",
+   "en": "And you're nothing but dead weight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01282",
+   "en": "This is why I said I could handle it alone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01283",
+   "en": "I'll block it for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01284",
+   "en": "You could at least be a little grateful!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01285",
+   "en": "You're too slow, I can't stand watching! Stupid Shinji!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01286",
+   "en": "Geez, what are you doing! First Child!",
+   "notes": "Faasuto = Rei; rendered First Child per glossary term.",
+   "uncertain": []
+  },
+  {
+   "id": "q01287",
+   "en": "Rookies should just stay out of the way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01288",
+   "en": "I'm the leader, any objections? Let's go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01289",
+   "en": "Fine, let's go all the way with this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01290",
+   "en": "I know! Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01291",
+   "en": "EVA-02, backing you up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01292",
+   "en": "I'll finish this right away!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01293",
+   "en": "Raaaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01294",
+   "en": "I'll deal with you personally!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01295",
+   "en": "Don't think you'll get off easy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01296",
+   "en": "Neeext!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01297",
+   "en": "And this... is the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01298",
+   "en": "Out of my way!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01299",
+   "en": "Hit, damn you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01300",
+   "en": "You'd better be ready!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01301",
+   "en": "Don't you get in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01302",
+   "en": "Stay right there and don't move!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01303",
+   "en": "Don't think you can escape my aim!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01304",
+   "en": "I can see right through your moves!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01305",
+   "en": "I'm gonna hit you, no matter what!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01306",
+   "en": "Prepare yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01307",
+   "en": "Don't you move from that spot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01308",
+   "en": "I'll finish it with this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01309",
+   "en": "Take that, that, that, thaaat~!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01310",
+   "en": "Tch! Next!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01311",
+   "en": "Go down, go down! Go dooown already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01312",
+   "en": "Here's a bonus!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01313",
+   "en": "Damn yooouuu!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01314",
+   "en": "Take... thiiis!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01315",
+   "en": "Here's how you use an AT Field! Like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01316",
+   "en": "Hraaaaaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01317",
+   "en": "Disappeeeeear!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01318",
+   "en": "Damn yooouuuuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01319",
+   "en": "Doryaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01320",
+   "en": "I can't afford to looose! Not to you peopleeee!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01321",
+   "en": "Haaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01322",
+   "en": "Ugh! You're so persisteeent!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01323",
+   "en": "Disappeeear!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01324",
+   "en": "Noooooooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01325",
+   "en": "...I'll kill you, I'll kill you, I'll kill you, I'll kill you...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01326",
+   "en": "! Ugh!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01327",
+   "en": "Ngh, not bad! Now things are getting interesting!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01328",
+   "en": "Don't underestimate the EVA's special armor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01329",
+   "en": "Like I'd get hit by an attack like that!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01330",
+   "en": "You're ten billion years too early to hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01331",
+   "en": "Now I get it! What the AT Field means! It's protecting me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01332",
+   "en": "U-ugh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01333",
+   "en": "And this is the laaaaast!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01334",
+   "en": "Graaaaaaah...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01335",
+   "en": "......!!?",
+   "notes": "Silent unit; shared with many.",
+   "uncertain": []
+  },
+  {
+   "id": "q01336",
+   "en": "......!?",
+   "notes": "Silent unit; shared with many.",
+   "uncertain": []
+  },
+  {
+   "id": "q01337",
+   "en": "......!",
+   "notes": "Silent unit; shared with many.",
+   "uncertain": []
+  },
+  {
+   "id": "q01338",
+   "en": "......?",
+   "notes": "Silent unit; shared with many.",
+   "uncertain": []
+  },
+  {
+   "id": "q01339",
+   "en": "Having to fight may be a sad thing...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01340",
+   "en": "Do you understand? The meaning of this battle?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01341",
+   "en": "I won't hold back.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01342",
+   "en": "One or the other... is it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01343",
+   "en": "It's the Plank of Carneades...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01344",
+   "en": "That I go on living... that, too, is fate.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01345",
+   "en": "Now, let us begin.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01346",
+   "en": "Humans can never be rid of loneliness. Yes, just like you are now...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01347",
+   "en": "This, too, was fate.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01348",
+   "en": "What lies ahead... can you see it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01349",
+   "en": "Can you accept the possibility that I represent?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01350",
+   "en": "Shinji... This was always meant to happen...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01351",
+   "en": "Don't be sad, Shinji.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01352",
+   "en": "Life and death are of equal value... When you understand that, you...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01353",
+   "en": "Hello... We meet again, Shinji.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01354",
+   "en": "Shinji, this is a rite of passage. So that you can claim your future.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01355",
+   "en": "The EVA Series... The hope of the Lilin, is it...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01356",
+   "en": "The tuning of the world... That, too, is one possibility...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01357",
+   "en": "Your song cannot reach me.",
+   "notes": "",
+   "uncertain": [
+    "Opponent singing is unclear (song-based enemy); kept literal."
+   ]
+  },
+  {
+   "id": "q01358",
+   "en": "Go on, sing. Your forbidden song...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01359",
+   "en": "Now... soothe my heart with your song.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01360",
+   "en": "Who will reach the far shore of time... Me, or all of you...",
+   "notes": "open/close split kept: this half ends without closing bracket.",
+   "uncertain": []
+  },
+  {
+   "id": "q01361",
+   "en": "No... perhaps this place is already that shore.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01362",
+   "en": "It can't be helped.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01363",
+   "en": "I understand your heart.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01364",
+   "en": "As for how this ends... No, let's not.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01365",
+   "en": "Yes... That's right...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01366",
+   "en": "You need a future. Thank you. I was glad I got to meet you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01367",
+   "en": "My own death... That is my one absolute freedom...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01368",
+   "en": "...Life and death are of equal value... Hence... this ending...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01369",
+   "en": "A good attack. Keep it up.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01370",
+   "en": "You're strong... all of you...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01371",
+   "en": "Life and death are of equal value. To me, at least.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01372",
+   "en": "Lilin who go this far to survive... I don't understand them.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01373",
+   "en": "...Is this the ending...?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01374",
+   "en": "That is power beyond your station...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01375",
+   "en": "That power... will change everything, won't it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01376",
+   "en": "I don't mind... This is a rite of passage, so that you can claim your future.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01377",
+   "en": "That's right, Shinji... You need a future.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01378",
+   "en": "Now, erase me. If you don't, you will be the ones erased.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01379",
+   "en": "If you don't fight for real... you'll lose.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01380",
+   "en": "Lilin, you are strong. But at the same time... fragile...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01381",
+   "en": "Yes, you are not beings who are meant to die.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01382",
+   "en": "So this is the answer you've reached...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01383",
+   "en": "Just as I thought...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01384",
+   "en": "It seems my question... was asked in vain.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01385",
+   "en": "The answer hasn't been decided yet.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01386",
+   "en": "If that is the answer you've reached... I don't mind.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01387",
+   "en": "No, that won't do.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01388",
+   "en": "Your power is more than that, isn't it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01389",
+   "en": "You mean to defeat me, don't you? Then you have to get serious.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01390",
+   "en": "This place can never be your paradise...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01391",
+   "en": "With a heart full of doubt... you can't do it.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01392",
+   "en": "This is reality... You mustn't look away.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01393",
+   "en": "No, Shinji... You mustn't close off your heart.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01394",
+   "en": "There's no need to hesitate...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01395",
+   "en": "You missed. You need to aim more carefully.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01396",
+   "en": "What's wrong? You're not hitting me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01397",
+   "en": "Is that all you have?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01398",
+   "en": "Don't you understand... why it came to this?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01399",
+   "en": "If you keep your heart closed, this is what happens...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01400",
+   "en": "This will become the wall that divides you and me...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01401",
+   "en": "That attack won't work on me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01402",
+   "en": "A sacred realm no one may violate... The light of the heart.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01403",
+   "en": "AT Field... That's what you call it, isn't it?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01404",
+   "en": "A wall of the heart... It's something everyone has.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01405",
+   "en": "Things without souls... naturally have their limits.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01406",
+   "en": "What's wrong...?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01407",
+   "en": "Because that is what wisdom is.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01408",
+   "en": "I see... It can't reach.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01409",
+   "en": "You let your heart go slack, didn't you?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01410",
+   "en": "I'm right here.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01411",
+   "en": "Now, allow me to begin.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01412",
+   "en": "I understand.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q10212",
+   "en": "That's the target...? Isn't that an EVA!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q10213",
+   "en": "That thing... is an Angel!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01413",
+   "en": "Hmph...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01414",
+   "en": "You're mine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01415",
+   "en": "You mean to face me head-on? Laughable!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01416",
+   "en": "This farce is over! Here I come!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01417",
+   "en": "How tiresome for you! Fighting with something to protect...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01418",
+   "en": "Still struggling in vain at this late stage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01419",
+   "en": "Here I come, Dendoh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01420",
+   "en": "Dendoh! This is the end for you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01421",
+   "en": "Scurrying about like vermin! You're an eyesore!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01422",
+   "en": "Don't get cocky!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01423",
+   "en": "Enough playing around!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01424",
+   "en": "I won't allow you to interfere any further!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01425",
+   "en": "Damn! Is this as far as I go...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01426",
+   "en": "I'll let you keep your life... for now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01427",
+   "en": "...Haa, haa... You bastard...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01428",
+   "en": "I won't forgive you... I won't forgive you...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01429",
+   "en": "Grr, Knight Ogre, pushed this far...!!",
+   "notes": "Kishi Ouga = Knight GEAR Ogre; short form Knight Ogre as used elsewhere in the corpus.",
+   "uncertain": []
+  },
+  {
+   "id": "q01430",
+   "en": "To think you could gouge a GEAR's armor...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01431",
+   "en": "I cannot disgrace myself before His Majesty any further...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01432",
+   "en": "Nnngh...!? You... who are you...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01433",
+   "en": "Nnngh...!! I won't forgive you, Dendoh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01434",
+   "en": "Tch! I let my guard down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01435",
+   "en": "Hmph, you did well... for the likes of you.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01436",
+   "en": "Grr, what a disgrace...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01437",
+   "en": "Cheap tricks...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01438",
+   "en": "Uaah...!? What on earth is happening to me!?",
+   "notes": "",
+   "uncertain": [
+    "Subject restored as Altair himself (likely a memory-manipulation reaction); Japanese leaves it open."
+   ]
+  },
+  {
+   "id": "q01439",
+   "en": "So you can do a little, Dendoh...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01440",
+   "en": "Oh... So you managed to touch me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01441",
+   "en": "Heh, I'll commend you for that spirit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01442",
+   "en": "Why not admit your own powerlessness for once?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01443",
+   "en": "You think you can win with that!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01444",
+   "en": "What... was that feeling just now...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01445",
+   "en": "Hmph...! Foolish pilot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01446",
+   "en": "You're no match for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01447",
+   "en": "A worthless trick...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01448",
+   "en": "Too slow!",
+   "notes": "Shared with Gun Jem, Hugo Medio and others.",
+   "uncertain": []
+  },
+  {
+   "id": "q01449",
+   "en": "Amateur!",
+   "notes": "Shared with Werner Fritz, Maillot Prado.",
+   "uncertain": []
+  },
+  {
+   "id": "q01450",
+   "en": "Heh, with a pilot of that caliber...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01451",
+   "en": "Hmph, it's useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01452",
+   "en": "You should only make a move if you can win... Am I wrong?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01453",
+   "en": "Heh... How pathetic.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01454",
+   "en": "You'll never catch up to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01455",
+   "en": "Illusion, Flash!",
+   "notes": "Glossary term Illusion Flash; the comma mirrors the Japanese pause.",
+   "uncertain": []
+  },
+  {
+   "id": "q01456",
+   "en": "Damn! After I had them cornered like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01457",
+   "en": "Those wretches, what trick did they pull!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01458",
+   "en": "Hm...! From that position...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01459",
+   "en": "Hmph, you've escaped with your life...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01460",
+   "en": "Finishing bloooow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01461",
+   "en": "This is no opponent you can handle...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01462",
+   "en": "All units, form an encirclement!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01463",
+   "en": "It was a fun game, but it seems I'll be the one laughing last...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01464",
+   "en": "Time for me to settle this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01465",
+   "en": "Hmph! It can't be helped...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01466",
+   "en": "Teyaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01467",
+   "en": "Wave, Dragon God Strike!",
+   "notes": "Glossary weapon Wave Dragon God Strike; comma mirrors the Japanese pause.",
+   "uncertain": []
+  },
+  {
+   "id": "q01468",
+   "en": "Flash Thunder Blade Strike!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01469",
+   "en": "Would you mind keeping this one busy for a while?",
+   "notes": "",
+   "uncertain": [
+    "Addressee unclear (possibly a summoned data weapon or ally); kept polite and neutral."
+   ]
+  },
+  {
+   "id": "q01470",
+   "en": "File Load, Viper Whip!",
+   "notes": "",
+   "uncertain": [
+    "'File Load' (fairu roodo) not in glossary; rendered literally."
+   ]
+  },
+  {
+   "id": "q01471",
+   "en": "Go! Beat that one to a pulp!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01472",
+   "en": "Show me you can dispose of small fry like that",
+   "notes": "",
+   "uncertain": [
+    "Addressee unclear (likely a data weapon Altair sends in); no punctuation in source, kept none."
+   ]
+  },
+  {
+   "id": "q01473",
+   "en": "Viper Whip, Final Attack!!",
+   "notes": "Shared with Hokuto.",
+   "uncertain": []
+  },
+  {
+   "id": "q01474",
+   "en": "File Load, Bull Horn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01475",
+   "en": "Auto Pressure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01476",
+   "en": "Bull Horn, Final Attack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01477",
+   "en": "There's no way a bright future awaits the likes of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01478",
+   "en": "Foolish humans, daring to defy the Gulfer!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01479",
+   "en": "It is you humans who bring endless chaos to the universe!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01480",
+   "en": "Foolish humans!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01481",
+   "en": "Vega...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01482",
+   "en": "Vega... Why has it come to this...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01483",
+   "en": "It's because of you... because the likes of you exist!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01484",
+   "en": "Knight Ogre, into battle!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01485",
+   "en": "Let's go, Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01486",
+   "en": "I'll end this now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01487",
+   "en": "Even I get another chance...! Here I go!!",
+   "notes": "",
+   "uncertain": [
+    "Fragment in source ('even to me, again...'); read as Altair being given a second chance to fight on the right side."
+   ]
+  },
+  {
+   "id": "q01488",
+   "en": "I'll simply carry out the mission I've been given!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01489",
+   "en": "Then I'll show you the power of our feelings!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01490",
+   "en": "I'm your opponent!! Zero!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01491",
+   "en": "It's over, Zero!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01492",
+   "en": "The heartless can never create a future!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01493",
+   "en": "Now it's my turn...! Ogre!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01494",
+   "en": "I trust you're prepared...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01495",
+   "en": "Now you're the one struggling in vain!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01496",
+   "en": "Know that clouding our future is a crime!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01497",
+   "en": "You will vanish here!! You!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01498",
+   "en": "I'll atone for my mistakes with my own life!!",
+   "notes": "",
+   "uncertain": [
+    "Source trails off ('those mistakes, with this body!!'); verb atone restored. Could also mean stopping someone else's mistake with his body."
+   ]
+  },
+  {
+   "id": "q01499",
+   "en": "Careless of me... Is this the end...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01500",
+   "en": "Guh! Hold on, Ogre...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01501",
+   "en": "I can't give up here... I won't!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01502",
+   "en": "Not until I fulfill my mission...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01503",
+   "en": "Even if it costs me my life... I will defeat you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01504",
+   "en": "You can't win a battle on spirit alone!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01505",
+   "en": "I can't fall here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01506",
+   "en": "Hmph! Not yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01507",
+   "en": "I can't afford to lose! Zero!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01508",
+   "en": "To think you could defeat Ogre with that... How laughable!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01509",
+   "en": "That's not nearly enough!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01510",
+   "en": "With resolve like that, you won't defeat me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01511",
+   "en": "Is that all, Zero!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01512",
+   "en": "As if I couldn't dodge that!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01513",
+   "en": "Haah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01514",
+   "en": "I've seen through it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01515",
+   "en": "Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01516",
+   "en": "Useless!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01517",
+   "en": "I can't afford to keep getting hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01518",
+   "en": "This is the power I've been granted!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01519",
+   "en": "Hyaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01520",
+   "en": "Nn... Ogre's energy is...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01521",
+   "en": "Ngh, it's slipped into my blind spot...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01522",
+   "en": "Careless of me...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01523",
+   "en": "Follow me, Ogre!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01524",
+   "en": "It's too early to relax!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01525",
+   "en": "I won't let this chance slip by...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01526",
+   "en": "Vega! Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01527",
+   "en": "Subaru... Well done.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01528",
+   "en": "We're going in too! Dendoh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01529",
+   "en": "I won't let you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01530",
+   "en": "Get back on your feet!",
+   "notes": "",
+   "uncertain": [
+    "Support line; read as Altair telling an ally to regroup."
+   ]
+  },
+  {
+   "id": "q01531",
+   "en": "I'll be your shield!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01532",
+   "en": "Look out! Vega!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01533",
+   "en": "No! Subaru!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01534",
+   "en": "Fall back for now! Hokuto, Ginga!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01535",
+   "en": "This is the last one...! I'm going in!!",
+   "notes": "",
+   "uncertain": [
+    "kakaru read as 'I'm attacking'; could be an order to attack."
+   ]
+  },
+  {
+   "id": "q01536",
+   "en": "Let's strike all at once!",
+   "notes": "Shared with Dan Kruger.",
+   "uncertain": []
+  },
+  {
+   "id": "q01537",
+   "en": "Heh, leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01538",
+   "en": "I'll go along with that plan...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01539",
+   "en": "Teyaaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01540",
+   "en": "Haaaaaaaah!!",
+   "notes": "Shared with Ginga.",
+   "uncertain": []
+  },
+  {
+   "id": "q01541",
+   "en": "Deyaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01542",
+   "en": "Wave, Dragon God Strike!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01543",
+   "en": "Flash, Thunder, Blade, Strike!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01544",
+   "en": "Viper Whip!",
+   "notes": "Shared with Ginga, Hokuto.",
+   "uncertain": []
+  },
+  {
+   "id": "q01545",
+   "en": "Final, Attaaaaack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01546",
+   "en": "A sword in which people's hope and future dwell...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01547",
+   "en": "Take it, and take it well!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01548",
+   "en": "Here I goooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01549",
+   "en": "Altair, let's go!",
+   "notes": "Combo line spoken by Ginga or Hokuto (shared with Ginga); -san honorific dropped as elsewhere in the corpus.",
+   "uncertain": [
+    "Speaker inferred: Dendoh pilot to Altair, not Altair."
+   ]
+  },
+  {
+   "id": "q01550",
+   "en": "Don't fall behind!",
+   "notes": "Combo line, shared with Ginga.",
+   "uncertain": [
+    "Speaker inferred: Ginga."
+   ]
+  },
+  {
+   "id": "q01551",
+   "en": "Heh... Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01552",
+   "en": "Gale! Triple! Strike!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q01553",
+   "en": "Gale Double Strike!!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "label": "Stage 1 Super chapter card",
+ "display_resolution": [480, 272],
+ "card_rectangle": [80, 24, 320, 224],
+ "asset": "PSP_GAME/USRDIR/PACKMAPC2_ADD.BIN",
+ "title_texture_pixel_offset": "0x14e1480",
+ "title_texture_size": [256, 256],
+ "pixel_format": "8-bit palette index, linear rows",
+ "palette_offset": "0x14e1080",
+ "palette_size": 1024,
+ "edited_rectangle": [0, 0, 256, 40],
+ "english": "Visitors from the Beyond",
+ "unchanged_regions": "Animated Chapter lettering, digits, logo, backgrounds and geometry.",
+ "build": "0.4.1",
+ "verification": "Texture matched byte-for-byte between the original archive and the chapter card's live GPU display list."
+}

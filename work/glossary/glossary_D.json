@@ -1,0 +1,5762 @@
+{
+ "group": "D",
+ "series": [
+  {
+   "jp": "機動武闘伝Ｇガンダム",
+   "en": "Mobile Fighter G Gundam",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam",
+    "https://gundam.fandom.com/wiki/Domon_Kasshu"
+   ]
+  },
+  {
+   "jp": "マジンガーＺ",
+   "en": "Mazinger Z",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazinger_Z",
+    "https://mazinger.fandom.com/wiki/Koji_Kabuto/TV"
+   ]
+  },
+  {
+   "jp": "グレートマジンガー",
+   "en": "Great Mazinger",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Mazinger",
+    "https://mazinger.fandom.com/wiki/Tetsuya_Tsurugi/TV"
+   ]
+  },
+  {
+   "jp": "ゲッターロボ",
+   "en": "Getter Robo",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo",
+    "https://getterrobo.fandom.com/wiki/Dinosaur_Empire"
+   ]
+  },
+  {
+   "jp": "ゲッターロボＧ",
+   "en": "Getter Robo G",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire"
+   ]
+  },
+  {
+   "jp": "ＵＦＯロボ　グレンダイザー",
+   "en": "UFO Robot Grendizer",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer",
+    "https://mazinger.fandom.com/wiki/Duke_Fleed/TV"
+   ]
+  },
+  {
+   "jp": "劇場版マジンガーシリーズ",
+   "en": "Mazinger Movie Series (theatrical crossover films)",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Barendos",
+    "https://mazinger.fandom.com/wiki/Dragonsaurus",
+    "https://mazinger.fandom.com/wiki/Gilgilgan"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "jp_full": "アルゴ・ガルスキー",
+   "jp_short": "アルゴ",
+   "reading": "アルゴ",
+   "en_full": "Argo Gulskii",
+   "en_short": "Argo",
+   "nicknames": [
+    "Black Joker"
+   ],
+   "gender": "male",
+   "personality": "taciturn, self-controlled, passionate inside",
+   "position": "Gundam Fighter for Neo Russia; Black Joker of the new Shuffle Alliance; former space pirate leader",
+   "affiliation": "Neo Russia; Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Argo_Gulskii",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Wikipedia spells 'Argo Gursky'; Gundam Wiki 'Argo Gulskii' used."
+  },
+  {
+   "jp_full": "アレンビー・ビアズリー",
+   "jp_short": "アレンビー",
+   "reading": "アレンビー",
+   "en_full": "Allenby Beardsley",
+   "en_short": "Allenby",
+   "nicknames": [
+    "Devil Allenby"
+   ],
+   "gender": "female",
+   "personality": "bright, energetic, cheerful",
+   "position": "Gundam Fighter for Neo Sweden; second lieutenant in the Neo Swedish space forces",
+   "affiliation": "Neo Sweden",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Allenby_Beardsley",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ウォン・ユンファ",
+   "jp_short": "ウォン",
+   "reading": "ウォン",
+   "en_full": "Wong Yunfat",
+   "en_short": "Wong",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "ambitious, schemer, dapper; likes sweets",
+   "position": "Prime Minister of Neo Hong Kong; chairman of the Gundam Fight committee",
+   "affiliation": "Neo Hong Kong; Devil Gundam Corps",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Wong_Yunfat",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Wikipedia also writes 'Wong Yun-Fat'."
+  },
+  {
+   "jp_full": "ウルベ・イシカワ",
+   "jp_short": "ウルベ",
+   "reading": "ウルベ",
+   "en_full": "Ulube Ishikawa",
+   "en_short": "Ulube",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "mysterious, ruthless, believes power is justice",
+   "position": "Major in the Neo Japan military; central figure of the Gundam Development Bureau; mastermind of the Devil Gundam incident",
+   "affiliation": "Neo Japan; Devil Gundam Corps",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Ulube_Ishikawa",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Wikipedia spells 'Ulube/Wullube Ishikawa' inconsistently; Gundam Wiki 'Ulube Ishikawa' used."
+  },
+  {
+   "jp_full": "カッシュ博士",
+   "jp_short": "カッシュ博士",
+   "reading": "カッシュハカセ",
+   "en_full": "Dr. Kasshu",
+   "en_short": "Dr. Kasshu",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "scientist, determined",
+   "position": "Neo Japan scientist; developer of the Ultimate Gundam; Domon's father",
+   "affiliation": "Neo Japan",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Raizo_Kasshu",
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Game full name is 'Dr. Kasshu'; full name Raizo Kasshu is given in the library text."
+  },
+  {
+   "jp_full": "ガンダル司令",
+   "jp_short": "ガンダル",
+   "reading": "ガンダル",
+   "en_full": "Commander Gandal",
+   "en_short": "Gandal",
+   "nicknames": [
+    "Lady Gandal (alter ego)"
+   ],
+   "gender": "male",
+   "personality": "cold-blooded schemer; loyal to King Vega; shares body with female personality Lady Gandal",
+   "position": "Commander of Skull Moon Base; doubles as attack captain after Blaki",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gandal/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Mazinger wiki and Wikipedia call him 'General Gandal'; 'Commander' follows the game's title (shirei)."
+  },
+  {
+   "jp_full": "キラル・メキレル",
+   "jp_short": "キラル",
+   "reading": "キラル",
+   "en_full": "Kyral Mekirel",
+   "en_short": "Kyral",
+   "nicknames": [
+    "Grim Reaper Kyral"
+   ],
+   "gender": "male",
+   "personality": "silent, perceptive, repentant after defeat",
+   "position": "Gundam Fighter for Neo Nepal; blind assassin",
+   "affiliation": "Neo Nepal",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Kyral_Mekirel",
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "グラー",
+   "jp_short": "グラー",
+   "reading": "グラー",
+   "en_full": "Gura",
+   "en_short": "Gura",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cool-headed, scheming, sometimes eccentric",
+   "position": "scientist-engineer and executive of the Hyakki Empire",
+   "affiliation": "Hyakki Empire",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dr._Gura_(Manga)",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire"
+   ],
+   "notes": "Getter wiki calls him 'Dr. Gura'."
+  },
+  {
+   "jp_full": "グレース・マリア・フリード",
+   "jp_short": "マリア",
+   "reading": "マリア",
+   "en_full": "Maria Grace Fleed",
+   "en_short": "Maria",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "tomboyish, spirited, hates being treated lightly",
+   "position": "Princess of Planet Fleed; pilot of the Drill Spazer",
+   "affiliation": "Planet Fleed; Space Science Laboratory",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Maria_Fleed/TV",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Game order is Grace Maria; wikis use 'Maria Grace Fleed'."
+  },
+  {
+   "jp_full": "サイ・サイシー",
+   "jp_short": "サイ・サイシー",
+   "reading": "サイシー",
+   "en_full": "Sai Saici",
+   "en_short": "Sai Saici",
+   "nicknames": [
+    "Club Ace"
+   ],
+   "gender": "male",
+   "personality": "cheerful, showy, a bit of a goofball",
+   "position": "Gundam Fighter for Neo China; Club Ace of the new Shuffle Alliance",
+   "affiliation": "Neo China; Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Sai_Saici",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ジェントル・チャップマン",
+   "jp_short": "チャップマン",
+   "reading": "チャップマン",
+   "en_full": "Gentle Chapman",
+   "en_short": "Chapman",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "gentleman, sportsmanlike marksman",
+   "position": "Gundam Fighter for Neo England; three-time champion; later one of the Devil Gundam's Four Heavenly Kings",
+   "affiliation": "Neo England; Devil Gundam Corps",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gentle_Chapman",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ジョルジュ・ド・サンド",
+   "jp_short": "ジョルジュ",
+   "reading": "ジョルジュ",
+   "en_full": "George de Sand",
+   "en_short": "George",
+   "nicknames": [
+    "Jack in Diamond"
+   ],
+   "gender": "male",
+   "personality": "noble, chivalrous, serious, a little foppish",
+   "position": "Gundam Fighter for Neo France; Jack in Diamond of the new Shuffle Alliance; head of the de Sand family",
+   "affiliation": "Neo France; Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/George_de_Sand",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Wikipedia 'Georges de Sand' variant exists."
+  },
+  {
+   "jp_full": "ゾンビ兵",
+   "jp_short": "ゾンビ兵",
+   "reading": "ゾンビヘイ",
+   "en_full": "Zombie Soldier",
+   "en_short": "Zombie Soldier",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "mindless puppets",
+   "position": "mobile suit pilots controlled by the Devil Gundam",
+   "affiliation": "Devil Gundam Corps",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Zombie_Soldier"
+   ],
+   "notes": "Group of DG-Cell-controlled humans; gender not applicable to a group."
+  },
+  {
+   "jp_full": "チボデー・クロケット",
+   "jp_short": "チボデー",
+   "reading": "チボデー",
+   "en_full": "Chibodee Crocket",
+   "en_short": "Chibodee",
+   "nicknames": [
+    "Queen the Spade"
+   ],
+   "gender": "male",
+   "personality": "cheerful, patriotic, strong sense of justice",
+   "position": "Gundam Fighter for Neo America; Queen the Spade of the new Shuffle Alliance; boxer",
+   "affiliation": "Neo America; Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Chibodee_Crocket",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Spelling 'Crocket' per Gundam Wiki (the English dub often uses 'Crockett')."
+  },
+  {
+   "jp_full": "デューク・フリード",
+   "jp_short": "デューク",
+   "reading": "デューク",
+   "en_full": "Duke Fleed",
+   "en_short": "Duke",
+   "nicknames": [
+    "Daisuke Umon (alias)"
+   ],
+   "gender": "male",
+   "personality": "sincere, mild, merciless toward the Vegan Empire",
+   "position": "Prince of Planet Fleed; pilot of Grendizer",
+   "affiliation": "Planet Fleed; Space Science Laboratory",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Duke_Fleed/TV",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ドモン・カッシュ",
+   "jp_short": "ドモン",
+   "reading": "ドモン",
+   "en_full": "Domon Kasshu",
+   "en_short": "Domon",
+   "nicknames": [
+    "King of Hearts"
+   ],
+   "gender": "male",
+   "personality": "headstrong, hot-blooded fighting fool; awkward but warm",
+   "position": "Gundam Fighter for Neo Japan; King of Hearts; leader of the Shuffle Alliance",
+   "affiliation": "Neo Japan; Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Domon_Kasshu",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ドラゴノザウルス",
+   "jp_short": "ドラゴノザウルス",
+   "reading": "ドラゴノザウルス",
+   "en_full": "Dragonsaurus",
+   "en_short": "Dragonsaurus",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "oil-loving sea monster",
+   "position": "giant monster",
+   "affiliation": "none",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Dragonsaurus"
+   ],
+   "notes": "Game spelling Doragonozaurusu; wiki 'Dragonsaurus'. Source gives no gender."
+  },
+  {
+   "jp_full": "ヌケ",
+   "jp_short": "ヌケ",
+   "reading": "ヌケ",
+   "en_full": "Nuke",
+   "en_short": "Nuke",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "easygoing, relatively sensible, good at sports",
+   "position": "Boss's henchman; crew of Boss Borot",
+   "affiliation": "Boss's gang; Photon Power Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Nuke/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "バレンドス親衛隊長",
+   "jp_short": "バレンドス",
+   "reading": "バレンドス",
+   "en_full": "Royal Guard Captain Barendos",
+   "en_short": "Barendos",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "confident, cunning, cruel strategist",
+   "position": "captain of King Vega's Royal Guard",
+   "affiliation": "Vegan Empire",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Barendos"
+   ],
+   "notes": "Mazinger wiki: 'Commander Barendos'."
+  },
+  {
+   "jp_full": "ヒドラー元帥",
+   "jp_short": "ヒドラー",
+   "reading": "ヒドラー",
+   "en_full": "Marshal Hidler",
+   "en_short": "Hidler",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cruel, base, proud",
+   "position": "combat commander (marshal) of the Hyakki Empire",
+   "affiliation": "Hyakki Empire",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/General_Hidler_(Manga)",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "Getter wiki: 'General Hidler'; Hydler/Hidler variants. 'Marshal' follows the game's genpsui."
+  },
+  {
+   "jp_full": "ブライ大帝",
+   "jp_short": "ブライ",
+   "reading": "ブライ",
+   "en_full": "Emperor Burai",
+   "en_short": "Burai",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cold-hearted, ruthless",
+   "position": "ruler of the Hyakki Empire",
+   "affiliation": "Hyakki Empire",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Emperor_Burai_(Manga)",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ベガ兵",
+   "jp_short": "ベガ兵",
+   "reading": "ベガヘイ",
+   "en_full": "Vegan Soldier",
+   "en_short": "Vegan Soldier",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "low-ranking soldiers",
+   "position": "foot soldier of the Vegan Empire",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegan_Soldiers"
+   ],
+   "notes": "Generic soldiers; gender not established."
+  },
+  {
+   "jp_full": "ボス",
+   "jp_short": "ボス",
+   "reading": "ボス",
+   "en_full": "Boss",
+   "en_short": "Boss",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "boisterous, warm-hearted, rival of Koji",
+   "position": "leader of a gang; pilot of Boss Borot",
+   "affiliation": "Boss's gang; Photon Power Laboratory; Science Fortress Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Boss/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Real name unknown."
+  },
+  {
+   "jp_full": "ミケロ・チャリオット",
+   "jp_short": "ミケロ",
+   "reading": "ミケロ",
+   "en_full": "Michelo Chariot",
+   "en_short": "Michelo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cruel, brutal, boastful",
+   "position": "Gundam Fighter for Neo Italy; Italian mafia boss; later one of the Devil Gundam's Four Heavenly Kings",
+   "affiliation": "Neo Italy; Devil Gundam Corps",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Michelo_Chariot",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ムチャ",
+   "jp_short": "ムチャ",
+   "reading": "ムチャ",
+   "en_full": "Mucha",
+   "en_short": "Mucha",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "reckless, impatient, loyal to Boss",
+   "position": "Boss's henchman; sometimes pilots Boss Borot",
+   "affiliation": "Boss's gang; Photon Power Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mucha/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ルビーナ姫",
+   "jp_short": "ルビーナ",
+   "reading": "ルビーナ",
+   "en_full": "Princess Rubina",
+   "en_short": "Rubina",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "gentle, dignified, peace-loving",
+   "position": "Princess of Planet Vega, daughter of King Vega; Duke Fleed's former fiancee",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Rubina/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "レイン・ミカムラ",
+   "jp_short": "レイン",
+   "reading": "レイン",
+   "en_full": "Rain Mikamura",
+   "en_short": "Rain",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "kind, clever, tough, caring",
+   "position": "doctor and mechanic; Domon's partner and childhood friend",
+   "affiliation": "Neo Japan",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Rain_Mikamura",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "AI",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "automatic pilot",
+   "position": "artificial-intelligence pilot for unmanned units",
+   "affiliation": "none",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Generic AI pilot name for unmanned units in Great Mazinger."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "AI",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "automatic pilot",
+   "position": "artificial-intelligence pilot for unmanned units",
+   "affiliation": "none",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Generic AI pilot name for unmanned units in Getter Robo G."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "AI",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "automatic pilot",
+   "position": "artificial-intelligence pilot for unmanned units",
+   "affiliation": "none",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Generic AI pilot name for unmanned units in the Mazinger movies."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "AI",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "automatic pilot",
+   "position": "artificial-intelligence pilot for unmanned units",
+   "affiliation": "none",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Generic AI pilot name for unmanned units in UFO Robot Grendizer."
+  },
+  {
+   "jp_full": "兜剣造",
+   "jp_short": "剣造",
+   "reading": "ケンゾウハカセ",
+   "en_full": "Kenzo Kabuto",
+   "en_short": "Kenzo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "stern outwardly, loving inside; complex about being a cyborg",
+   "position": "developer of Great Mazinger; director of the Science Fortress Laboratory; father of Koji and Shiro",
+   "affiliation": "Science Fortress Laboratory; Photon Power Laboratory",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Kenzo_Kabuto/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Game full name is 'Kenzo Kabuto' (Kabuto Kenzo)."
+  },
+  {
+   "jp_full": "兜甲児",
+   "jp_short": "甲児",
+   "reading": "コウジ",
+   "en_full": "Koji Kabuto",
+   "en_short": "Koji",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, action-oriented, soft-hearted, a bit of a show-off",
+   "position": "pilot of Mazinger Z; later pilot of the TFO and Double Spazer",
+   "affiliation": "Photon Power Laboratory; Space Science Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Koji_Kabuto/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "剣鉄也",
+   "jp_short": "鉄也",
+   "reading": "テツヤ",
+   "en_full": "Tetsuya Tsurugi",
+   "en_short": "Tetsuya",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "nihilistic on the surface, kind-hearted, strict sense of justice",
+   "position": "pilot of Great Mazinger",
+   "affiliation": "Science Fortress Laboratory",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Tetsuya_Tsurugi/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "地球攻撃隊長ブラッキー",
+   "jp_short": "ブラッキー",
+   "reading": "ブラッキー",
+   "en_full": "Earth Attack Captain Blaki",
+   "en_short": "Blaki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "loyal soldier, cowardly when his position is threatened",
+   "position": "attack captain of the Vegan Empire's Earth invasion",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Blaki/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Game katakana Burakkii = 'Blacky'; wikis spell 'Blaki'. Mazinger wiki ranks him Colonel/Captain."
+  },
+  {
+   "jp_full": "宇門博士",
+   "jp_short": "宇門博士",
+   "reading": "ウモンハカセ",
+   "en_full": "Dr. Umon",
+   "en_short": "Dr. Umon",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calm, composed",
+   "position": "director of the Space Science Laboratory; foster father of Daisuke Umon",
+   "affiliation": "Space Science Laboratory",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Genzo_Umon",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Game full name is 'Umon Hakase' (Dr. Umon); full name Genzo Umon per the Mazinger wiki and library text."
+  },
+  {
+   "jp_full": "宇門大介",
+   "jp_short": "大介",
+   "reading": "ダイスケ",
+   "en_full": "Daisuke Umon",
+   "en_short": "Daisuke",
+   "nicknames": [
+    "Duke Fleed (true identity)"
+   ],
+   "gender": "male",
+   "personality": "serious, kind, loves nature",
+   "position": "rancher and researcher's assistant; alias of Duke Fleed",
+   "affiliation": "Space Science Laboratory; Shirakaba Ranch",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Duke_Fleed/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "弓さやか",
+   "jp_short": "さやか",
+   "reading": "サヤカ",
+   "en_full": "Sayaka Yumi",
+   "en_short": "Sayaka",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "strong-willed, jealous of Koji, caring",
+   "position": "pilot of Diana A (formerly Aphrodite A)",
+   "affiliation": "Photon Power Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Sayaka_Yumi/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "弓教授",
+   "jp_short": "弓教授",
+   "reading": "ユミキョウジュ",
+   "en_full": "Professor Yumi",
+   "en_short": "Professor Yumi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "gentle, calm, responsible",
+   "position": "director of the Photon Power Laboratory; developer of Aphrodite A and Diana A",
+   "affiliation": "Photon Power Laboratory",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gennosuke_Yumi/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Game full name is 'Yumi Kyouju' (Professor Yumi); full name Gennosuke Yumi per the library text and Mazinger wiki."
+  },
+  {
+   "jp_full": "恐星大王ベガ",
+   "jp_short": "ベガ大王",
+   "reading": "ベガダイオウ",
+   "en_full": "Great King Vega",
+   "en_short": "King Vega",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "ruthless, cruel; soft toward his daughter",
+   "position": "absolute ruler of Planet Vega; leader of the Vegan Empire",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Vega/TV",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Mazinger wiki: 'Great King Vega (Great Vega Daio)'; shortened 'King Vega' (Wikipedia)."
+  },
+  {
+   "jp_full": "恵雲",
+   "jp_short": "恵雲",
+   "reading": "ケイウン",
+   "en_full": "Keiun",
+   "en_short": "Keiun",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "serious, physically strong",
+   "position": "Sai Saici's minder and foster parent; Shaolin monk",
+   "affiliation": "Neo China",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Zuizen_and_Keiun",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "早乙女ミチル",
+   "jp_short": "ミチル",
+   "reading": "ミチル",
+   "en_full": "Michiru Saotome",
+   "en_short": "Michiru",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "friendly, polite, spirited; Madonna of the Getter Team",
+   "position": "daughter of Dr. Saotome; pilot of the Command Machine / Lady Command",
+   "affiliation": "Saotome Institute",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Michiru_Saotome_(TV)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "早乙女博士",
+   "jp_short": "早乙女博士",
+   "reading": "サオトメハカセ",
+   "en_full": "Dr. Saotome",
+   "en_short": "Dr. Saotome",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "gentle but stern with the team; first-rate researcher",
+   "position": "director of the Saotome Institute; leading authority on Getter Rays",
+   "affiliation": "Saotome Institute",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dr._Saotome_(TV)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "流竜馬",
+   "jp_short": "竜馬",
+   "reading": "リョウマ",
+   "en_full": "Ryoma Nagare",
+   "en_short": "Ryoma",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "responsible, serious, single-minded",
+   "position": "pilot of Getter Dragon; captain of the Asama Academy soccer club; leader of the Getter Team",
+   "affiliation": "Saotome Institute",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Ryoma_Nagare_(TV)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "炎ジュン",
+   "jp_short": "ジュン",
+   "reading": "ジュン",
+   "en_full": "Jun Hono",
+   "en_short": "Jun",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "spirited, competitive, hides a complex about her birth",
+   "position": "pilot of Venus A",
+   "affiliation": "Science Fortress Laboratory",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jun_Hono/TV",
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "牧葉ひかる",
+   "jp_short": "ひかる",
+   "reading": "ヒカル",
+   "en_full": "Hikaru Makiba",
+   "en_short": "Hikaru",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "athletic, cheerful, a bit bossy, strong-willed",
+   "position": "pilot of the Marine Spazer; eldest daughter of the Makiba family",
+   "affiliation": "Shirakaba Ranch; Space Science Laboratory",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Hikaru_Makiba/TV",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "牧葉団兵衛",
+   "jp_short": "団兵衛",
+   "reading": "ダンベイ",
+   "en_full": "Danbei Makiba",
+   "en_short": "Danbei",
+   "nicknames": [
+    "Dan the Quick Draw"
+   ],
+   "gender": "male",
+   "personality": "bottomlessly cheerful, UFO fanatic, overprotective of Hikaru",
+   "position": "head of Shirakaba Ranch; president of the 'Society for Befriending Space Aliens'",
+   "affiliation": "Shirakaba Ranch",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Danbei_Makiba",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Mazinger wiki gives the nickname 'Dan of the Hail'; 'Dan the Quick Draw' follows the game text (nukiuchi)."
+  },
+  {
+   "jp_full": "瑞山",
+   "jp_short": "瑞山",
+   "reading": "ズイセン",
+   "en_full": "Zuizen",
+   "en_short": "Zuizen",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "serious, intellectual",
+   "position": "Sai Saici's minder and foster parent; Shaolin monk",
+   "affiliation": "Neo China",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Zuizen_and_Keiun",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Game reading Zuisen; Gundam Wiki spells 'Zuizen'."
+  },
+  {
+   "jp_full": "神隼人",
+   "jp_short": "隼人",
+   "reading": "ハヤト",
+   "en_full": "Hayato Jin",
+   "en_short": "Hayato",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cool nihilist, thoughtful, quietly hot-blooded",
+   "position": "pilot of Getter Liger (Liger Machine)",
+   "affiliation": "Saotome Institute",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hayato_Jin_(TV)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "科学長官ズリル",
+   "jp_short": "ズリル",
+   "reading": "ズリル",
+   "en_full": "Science Minister Zuril",
+   "en_short": "Zuril",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "brilliant, cunning, ruthless",
+   "position": "science minister of the Vegan Empire dispatched to Skull Moon Base",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Zuril/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Game title kagaku choukan = science chief; Mazinger wiki: 'Science Minister Zuril'."
+  },
+  {
+   "jp_full": "親衛隊員ジグラ",
+   "jp_short": "ジグラ",
+   "reading": "ジグラ",
+   "en_full": "Royal Guardsman Jigra",
+   "en_short": "Jigra",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calm, analytical, relentless",
+   "position": "soldier of King Vega's Royal Guard; whip user",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jigra",
+    "https://mazinger.fandom.com/wiki/Vegan_Commanders"
+   ],
+   "notes": "Mazinger wiki: 'Commander Jigra'."
+  },
+  {
+   "jp_full": "親衛隊長モルス",
+   "jp_short": "モルス",
+   "reading": "モルス",
+   "en_full": "Royal Guard Captain Mors",
+   "en_short": "Mors",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "once Duke Fleed's best friend; mind-controlled, then restored",
+   "position": "newly appointed captain of King Vega's Royal Guard; prince of Planet Mole",
+   "affiliation": "Vegan Empire",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/List_of_UFO_Robot_Grendizer_Episodes",
+    "https://mazinger.fandom.com/wiki/Vegan_Commanders"
+   ],
+   "notes": "Spelling 'Mors' from the Mazinger wiki episode title 'Tragedy of Elite Bodyguard Mors'; 'Morros' in the Vegan Commanders list. No character page; gender taken from the game text calling him a prince."
+  },
+  {
+   "jp_full": "車弁慶",
+   "jp_short": "弁慶",
+   "reading": "ベンケイ",
+   "en_full": "Benkei Kuruma",
+   "en_short": "Benkei",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "easygoing, big-hearted, loves animals and children",
+   "position": "pilot of Getter Poseidon (Poseidon Machine); captain of the Asama Academy baseball team",
+   "affiliation": "Saotome Institute",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Benkei_Kuruma_(TV)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "風雲再起",
+   "jp_short": "風雲再起",
+   "reading": "フウウンサイキ",
+   "en_full": "Fuunsaiki",
+   "en_short": "Fuunsaiki",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "loyal, noble horse",
+   "position": "Master Asia's horse; Domon's mount; operates the Mobile Horse",
+   "affiliation": "Neo Hong Kong; later Shuffle Alliance",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Horse; no gender established in the sources opened."
+  },
+  {
+   "jp_full": "ＤＧ細胞",
+   "jp_short": "ＤＧ細胞",
+   "reading": "ディージーサイボウ",
+   "en_full": "DG Cells",
+   "en_short": "DG Cells",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "self-replicating, self-evolving nanomachines",
+   "position": "nanomachine cells of the Devil Gundam",
+   "affiliation": "Devil Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": "Listed as a pilot name in the game data; not a person."
+  }
+ ],
+ "units": [
+  {
+   "jp": "べガ獣グラグラ",
+   "en": "Vega Beast Gragra",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vega_Beasts"
+   ],
+   "notes": "Wiki list of Vega Beasts has 'Gragra' (last Vega Beast, episode 73); katakana Guragura. Not a dedicated wiki page; spelling is inferred."
+  },
+  {
+   "jp": "ウォルターガンダム",
+   "en": "Walter Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Walter_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガンダムヘブンズソード",
+   "en": "Gundam Heaven's Sword",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Heaven's_Sword"
+   ],
+   "notes": "English dub name: Raven Gundam."
+  },
+  {
+   "jp": "ガンダムマックスター",
+   "en": "Gundam Maxter",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": "Wiki title 'Gundam Maxter'."
+  },
+  {
+   "jp": "ガンダムマックスターＳ",
+   "en": "Gundam Maxter S",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": "'S' = Super Mode (reading 'Super')."
+  },
+  {
+   "jp": "ガンダムローズ",
+   "en": "Gundam Rose",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガンダムローズＳ",
+   "en": "Gundam Rose S",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": "'S' = Super Mode."
+  },
+  {
+   "jp": "キング・オブ・ベガ",
+   "en": "King of Vega",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/King_of_Vega"
+   ],
+   "notes": "King Vega's personal mothership."
+  },
+  {
+   "jp": "ギルギルガン",
+   "en": "Gilgilgan",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gilgilgan"
+   ],
+   "notes": "Villain of the movie Great Mazinger vs. Getter Robo."
+  },
+  {
+   "jp": "グランドガンダム",
+   "en": "Grand Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Grand_Gundam"
+   ],
+   "notes": "Gentle Chapman's DG-infested form."
+  },
+  {
+   "jp": "グランドマスターガンダム",
+   "en": "Grand Master Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Grand_Master_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレンダイザー",
+   "en": "Grendizer",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレンダイザー（ＷＳ）",
+   "en": "Grendizer (Double Spazer)",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers",
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": "Game abbreviation (WS) = Double Spazer; short form 'Grendizer (WS)'."
+  },
+  {
+   "jp": "グレートマジンガー",
+   "en": "Great Mazinger",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(Robot)/TV",
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレートマジンガー（元祖）",
+   "en": "Great Mazinger (Original)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(%C5%8Cta)"
+   ],
+   "notes": "Ganso = 'the original', the unit marked 'Ganso' by Boss in Gosaku Ota's manga."
+  },
+  {
+   "jp": "ゲッタードラゴン",
+   "en": "Getter Dragon",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッターポセイドン",
+   "en": "Getter Poseidon",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッターライガー",
+   "en": "Getter Liger",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッターＱ",
+   "en": "Getter Q",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Queen_(TV)"
+   ],
+   "notes": "Read 'Getter Queen' (library text); wiki title 'Getter Queen' (abbreviated Getter Q)."
+  },
+  {
+   "jp": "ゴッドガンダム",
+   "en": "God Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "English dub: Burning Gundam."
+  },
+  {
+   "jp": "ゴッドガンダム（騎乗）",
+   "en": "God Gundam (Riding)",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam",
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Kijou = riding Fuunsaiki."
+  },
+  {
+   "jp": "ゴッドガンダムＨ",
+   "en": "God Gundam H",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "'H' = Hyper Mode."
+  },
+  {
+   "jp": "ゴッドガンダムＨ（騎乗）",
+   "en": "God Gundam H (Riding)",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam",
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Hyper Mode while riding Fuunsaiki."
+  },
+  {
+   "jp": "スペイザー",
+   "en": "Spazer",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": "Wiki spelling 'Spazer' (some sources 'Spacer'/'Spaizer')."
+  },
+  {
+   "jp": "ダイアナンＡ",
+   "en": "Diana A",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Diana_A/TV"
+   ],
+   "notes": "Pronounced 'Diana Ace'; the 'A' = Ace."
+  },
+  {
+   "jp": "ダブルスペイザー",
+   "en": "Double Spazer",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "デスアーミー",
+   "en": "Death Army",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JDG-009X_Death_Army"
+   ],
+   "notes": "English dub: Dark Army."
+  },
+  {
+   "jp": "デスバーディ",
+   "en": "Death Birdie",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Death_Birdie"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "デビルガンダム（最終）",
+   "en": "Devil Gundam (Final)",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JDG-00X_Devil_Gundam"
+   ],
+   "notes": "Saishuu = final form. English dub: Dark Gundam."
+  },
+  {
+   "jp": "ドラゴノザウルス",
+   "en": "Dragonsaurus",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Dragonsaurus"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラゴンガンダム",
+   "en": "Dragon Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラゴンガンダムＳ",
+   "en": "Dragon Gundam S",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": "'S' = Super Mode."
+  },
+  {
+   "jp": "ノーベルガンダム",
+   "en": "Nobel Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-050NSW_Nobel_Gundam"
+   ],
+   "notes": "English dub: Noble Gundam."
+  },
+  {
+   "jp": "ビューナスＡ",
+   "en": "Venus A",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Venus_A_(Jun)/TV"
+   ],
+   "notes": "Pronounced 'Venus Ace'."
+  },
+  {
+   "jp": "ブラック・グレート",
+   "en": "Black Great",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Black_Great"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ獣キングゴリ",
+   "en": "Vega Beast King Gori",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/King_Gori"
+   ],
+   "notes": "Wiki: King Gori (Vega Beast)."
+  },
+  {
+   "jp": "ベガ獣ジガジガ",
+   "en": "Vega Beast Jigajiga",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jigajiga"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ獣ズメズメ",
+   "en": "Vega Beast Zumezume",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Zumezume"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボスボロット",
+   "en": "Boss Borot",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Boss_Borot/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボルトガンダム",
+   "en": "Bolt Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボルトガンダムＳ",
+   "en": "Bolt Gundam S",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": "'S' = Super Mode."
+  },
+  {
+   "jp": "マザーバーン",
+   "en": "Motherburn",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Motherburn"
+   ],
+   "notes": "Wiki spelling 'Motherburn'; game 'Mother Burn'."
+  },
+  {
+   "jp": "マジンガーＺ",
+   "en": "Mazinger Z",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV",
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マンダラガンダム",
+   "en": "Mandala Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": "Gundam Wiki title: Mandor Gundam (aka Mandala Gundam). The game name 'Mandala' is kept."
+  },
+  {
+   "jp": "ミディフォー",
+   "en": "Midifo",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/MiniFO"
+   ],
+   "notes": "Medium-size version of the Minifo saucer; no dedicated page. Katakana Midifoo."
+  },
+  {
+   "jp": "ミニフォー",
+   "en": "Minifo",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/MiniFO"
+   ],
+   "notes": "Wiki: MiniFO."
+  },
+  {
+   "jp": "メカ一角鬼",
+   "en": "Mecha Ikkakuki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Hyakki Robot 'One-Horned Demon'."
+  },
+  {
+   "jp": "メカ大輪鬼",
+   "en": "Mecha Dairinki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Hyakki Robot 'Giant Wheel Demon'."
+  },
+  {
+   "jp": "メカ暴竜鬼",
+   "en": "Mecha Boryuki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Hyakki Robot 'Cruel Dragon Demon'."
+  },
+  {
+   "jp": "メカ要塞鬼",
+   "en": "Mecha Yosaiki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Hyakki Robot 'Fortress Demon'."
+  },
+  {
+   "jp": "ライジングガンダム",
+   "en": "Rising Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JMF1336R_Rising_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "光波獣ピクドロン",
+   "en": "Lightwave Beast Pikadron",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Pikadron"
+   ],
+   "notes": "Katakana Pikudoron (game); wiki 'Pikadron'."
+  },
+  {
+   "jp": "円盤獣ギルギル",
+   "en": "Saucer Beast Girugiru",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Girugiru"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "円盤獣グビグビ",
+   "en": "Saucer Beast Gubigubi",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gubigubi"
+   ],
+   "notes": "Movie-only Saucer Beast."
+  },
+  {
+   "jp": "円盤獣コアコア",
+   "en": "Saucer Beast Koakoa",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Koakoa"
+   ],
+   "notes": "Movie-only Saucer Beast."
+  },
+  {
+   "jp": "円盤獣ジラジラ",
+   "en": "Saucer Beast Jirajira",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jirajira"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "円盤獣ジンジン",
+   "en": "Saucer Beast Jinjin",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jinjin"
+   ],
+   "notes": "Movie-only Saucer Beast."
+  },
+  {
+   "jp": "合体百鬼ロボット",
+   "en": "Combined Hyakki Robot",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Fusion of five Hyakki Robots (episodes 37-39)."
+  },
+  {
+   "jp": "空魔獣グランゲン",
+   "en": "Sky Demon Beast Grangen",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grangen"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "結合獣ボング",
+   "en": "Combination Beast Bong",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Bong"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "量産型グレート",
+   "en": "Mass-Produced Great",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "量産型グレート（１）",
+   "en": "Mass-Produced Great (1)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（２）",
+   "en": "Mass-Produced Great (2)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（３）",
+   "en": "Mass-Produced Great (3)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（４）",
+   "en": "Mass-Produced Great (4)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（５）",
+   "en": "Mass-Produced Great (5)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（６）",
+   "en": "Mass-Produced Great (6)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（７）",
+   "en": "Mass-Produced Great (7)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "量産型グレート（８）",
+   "en": "Mass-Produced Great (8)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Numbered variants (1)-(8) of the mass-produced Great."
+  },
+  {
+   "jp": "風雲再起",
+   "en": "Fuunsaiki",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Master Asia's horse (Mobile Horse)."
+  },
+  {
+   "jp": "ＴＦＯ",
+   "en": "TFO",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/TFO"
+   ],
+   "notes": "Terrestrial Flying Object."
+  },
+  {
+   "jp": "雷のオムザック",
+   "en": "Thunder Omzack",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Hakke Robo of pilot Saiga (Wikipedia: Omzack = thunder). Cross-series (relabelled library entry 264)."
+  },
+  {
+   "jp": "風のランスター",
+   "en": "Wind Lanstar",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Taiha. Cross-series."
+  },
+  {
+   "jp": "地のディノディロス",
+   "en": "Earth Dinodilos",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Rockfell. Cross-series."
+  },
+  {
+   "jp": "月のローズセラヴィー",
+   "en": "Moon Rose C'est La Vie",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Ritsu; game kana Rose Seravy. Cross-series."
+  },
+  {
+   "jp": "火のブライスト",
+   "en": "Fire Bryst",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Si Aen. Cross-series."
+  },
+  {
+   "jp": "水のガロウィン",
+   "en": "Water Gallowin",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Si Tau. Cross-series."
+  },
+  {
+   "jp": "山のバーストン",
+   "en": "Mountain Burrstone",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Pilot Gisou; SRW wiki Burrstone, Wikipedia Burstone. Cross-series."
+  },
+  {
+   "jp": "ヴァーミリオン（緑）",
+   "en": "Vermillion (Green)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vermillion",
+    "https://rahxephon.fandom.com/wiki/Alpha_Squadron"
+   ],
+   "notes": "Mass-produced Dolem of TERRA. Cross-series."
+  },
+  {
+   "jp": "アレグレット",
+   "en": "Allegretto",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Allegretto",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "オブリガード",
+   "en": "Obbligato",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Obbligato",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "RahXephon wiki also writes Obligato. Cross-series."
+  },
+  {
+   "jp": "真聖ラーゼフォン＜クオン＞",
+   "en": "True RahXephon <Quon>",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/RahXephon_(Mecha)",
+    "https://rahxephon.fandom.com/wiki/Quon_Kisaragi"
+   ],
+   "notes": "Translation of Shinsei RahXephon <Quon>; assumption (see library notes). Cross-series."
+  },
+  {
+   "jp": "グラーベ",
+   "en": "Grave",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Grave",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ドーテム",
+   "en": "Dotem",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Dotems",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Small Mu mobile weapons, designated D-2. Cross-series."
+  },
+  {
+   "jp": "ビバーチェ",
+   "en": "Vivace",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vivace",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "メトロノーム（赤）",
+   "en": "Metronome (Red)",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Metronomes",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ラルゴ",
+   "en": "Largo",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Largo",
+    "https://rahxephon.fandom.com/wiki/Masayoshi_Kuki"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ヴィブラート",
+   "en": "Vibrato",
+   "series": "ラーゼフォン",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vibrato",
+    "https://rahxephon.fandom.com/wiki/Hiroko_Asahina"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "メディウス・ロクス",
+   "en": "Medius Locus",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Super Robot Wars MX original; also seen as Medius Rocks. Cross-series."
+  },
+  {
+   "jp": "ＡＩ１",
+   "en": "AI1",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "AI1 All-In-1. Cross-series."
+  },
+  {
+   "jp": "シニストラ",
+   "en": "Sinistra",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Spelled from the correction file; no wiki page. Cross-series."
+  },
+  {
+   "jp": "デクステラ",
+   "en": "Dextera",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Spelled from the correction file; no wiki page. Cross-series."
+  },
+  {
+   "jp": "テルグム",
+   "en": "Telgum",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Y-Tse-P-01 Telgum (SRW wiki). Cross-series."
+  },
+  {
+   "jp": "フロンス",
+   "en": "Flonnes",
+   "series": "バンプレストオリジナル",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Y-Tse-P-02 Flonnes (SRW wiki). Cross-series."
+  }
+ ],
+ "weapons": [
+  {
+   "jp": "アイアンカッター",
+   "en": "Iron Cutter",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アイアンクロー",
+   "en": "Iron Claw",
+   "series": "",
+   "sources": [],
+   "notes": "Unit/series not identified; literal rendering. Unverified."
+  },
+  {
+   "jp": "ウォルターファング",
+   "en": "Walter Fang",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Walter_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガイアクラッシャー",
+   "en": "Gaia Crusher",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": "Sakuretsu Gaia Crusher on the wiki."
+  },
+  {
+   "jp": "ガンダムヘッド",
+   "en": "Gundam Head",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Head"
+   ],
+   "notes": "Devil Gundam's snake-like Gundam Heads (wiki 'Gundam Head'); weapon use inferred."
+  },
+  {
+   "jp": "ギガンティックマグナム",
+   "en": "Gigantic Magnum",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "クロー",
+   "en": "Claw",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "グラビトンウェーブ",
+   "en": "Graviton Wave",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [],
+   "notes": "Unverified literal rendering (Bolt Gundam also has Graviton Hammer)."
+  },
+  {
+   "jp": "グラビトンハンマー",
+   "en": "Graviton Hammer",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレートブースター",
+   "en": "Great Booster",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)",
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッターチェンジ・アタック",
+   "en": "Getter Change Attack",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Change_Attack"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッタートマホーク",
+   "en": "Getter Tomahawk",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Tomahawk"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッタービーム",
+   "en": "Getter Beam",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Beam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゴッドスラッシュ",
+   "en": "God Slash",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゴッドスラッシュタイフーン",
+   "en": "God Slash Typhoon",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サイクロンビーム",
+   "en": "Cyclone Beam",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering (Maxter has Cyclone Punch)."
+  },
+  {
+   "jp": "サンダーブレーク",
+   "en": "Thunder Break",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "シャッフル同盟拳",
+   "en": "Shuffle Alliance Fist",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter",
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": "Full move name Bakunetsu Shuffle Doumei Ken = Erupting Shuffle Alliance Fist/Attack."
+  },
+  {
+   "jp": "シュバリエサーベル",
+   "en": "Chevalier Saber",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": "Wiki: Chevalier Beam Saber (English dub: Chivalrous Saber)."
+  },
+  {
+   "jp": "スカーレットビーム",
+   "en": "Scarlet Beam",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Diana_A/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スクランダーカッター",
+   "en": "Scrander Cutter",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スクリュークラッシャーパンチ",
+   "en": "Screw Crusher Punch",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ストロングミサイル",
+   "en": "Strong Missile",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "スピニングシールド",
+   "en": "Spinning Shield",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "スピンソーサー",
+   "en": "Spin Saucer",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スペイザートルネード",
+   "en": "Spazer Tornado",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "スペースサンダー",
+   "en": "Space Thunder",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スーパーＤＸボロットパンチ",
+   "en": "Super DX Borot Punch",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Boss_Borot/TV"
+   ],
+   "notes": "Game-original upgrade of the Borot Punch; literal."
+  },
+  {
+   "jp": "ダイアナンミサイル",
+   "en": "Diana Missile",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Diana_A/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブルカッター",
+   "en": "Double Cutter",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "ダブルゲッタービーム",
+   "en": "Double Getter Beam",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Beam"
+   ],
+   "notes": "Literal; unverified as a distinct attack."
+  },
+  {
+   "jp": "ダブルゴッドフィンガー",
+   "en": "Double God Finger",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-050NSW_Nobel_Gundam",
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "Nobel Gundam learned it after the fight with Domon; wiki lists the combo as Bakunetsu God Finger."
+  },
+  {
+   "jp": "ダブルトマホーク",
+   "en": "Double Tomahawk",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブルトマホークブーメラン",
+   "en": "Double Tomahawk Boomerang",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブルハーケン",
+   "en": "Double Harken",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブルハーケンストーム",
+   "en": "Double Harken Storm",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "ダブルバーニングファイヤー",
+   "en": "Double Burning Fire",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": "Combined chest-beam attack of Great Mazinger and Mazinger Z."
+  },
+  {
+   "jp": "ダブルミサイル",
+   "en": "Double Missile",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "ダブルライトニングバスター",
+   "en": "Double Lightning Buster",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": "Great Mazinger Thunder Break with Space Thunder."
+  },
+  {
+   "jp": "チェーンアタック",
+   "en": "Chain Attack",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": "Getter Liger."
+  },
+  {
+   "jp": "ツイントマホーク",
+   "en": "Twin Tomahawk",
+   "series": "ゲッターロボ",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "トマホークブーメラン",
+   "en": "Tomahawk Boomerang",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)",
+    "https://getterrobo.fandom.com/wiki/Getter_Tomahawk"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "トリプルマジンガーブレード",
+   "en": "Triple Mazinger Blade",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": "Literal; unverified as a distinct attack."
+  },
+  {
+   "jp": "ドラゴンファイヤー",
+   "en": "Dragon Fire",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドリル",
+   "en": "Drill",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": "Getter Liger drill."
+  },
+  {
+   "jp": "ドリルアーム",
+   "en": "Drill Arm",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": "Getter Liger."
+  },
+  {
+   "jp": "ドリルプレッシャーパンチ",
+   "en": "Drill Pressure Punch",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ニーインパルスキック",
+   "en": "Knee Impulse Kick",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネーブルミサイル",
+   "en": "Navel Missile",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ノーベルストライク",
+   "en": "Nobel Strike",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-050NSW_Nobel_Gundam"
+   ],
+   "notes": "Unverified; literal rendering."
+  },
+  {
+   "jp": "ハンドビーム",
+   "en": "Hand Beam",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バックキック",
+   "en": "Back Kick",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering (Great Mazinger has Backspin Kick)."
+  },
+  {
+   "jp": "バルカン砲",
+   "en": "Vulcan Cannon",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "バーニングパンチ",
+   "en": "Burning Punch",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヒートナギナタ",
+   "en": "Heat Naginata",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JMF1336R_Rising_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビームバルカン",
+   "en": "Beam Vulcan",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "ビームリボン",
+   "en": "Beam Ribbon",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-050NSW_Nobel_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファイティングナックル",
+   "en": "Fighting Knuckle",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フェイロンフラッグ",
+   "en": "Feilong Flag",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": "Fei Long Flag in some sources."
+  },
+  {
+   "jp": "ブレストバーン",
+   "en": "Breast Burn",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブレストファイヤー",
+   "en": "Breast Fire",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブーメランカッター",
+   "en": "Boomerang Cutter",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "ベガトロンビーム",
+   "en": "Vegatron Beam",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガトロンビーム砲",
+   "en": "Vegatron Beam Cannon",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボルトストライク",
+   "en": "Bolt Strike",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "ボロットパンチ",
+   "en": "Borot Punch",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Boss_Borot/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボロットプレッシャーパンチ",
+   "en": "Borot Pressure Punch",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Boss_Borot/TV"
+   ],
+   "notes": "Literal."
+  },
+  {
+   "jp": "ミサイル",
+   "en": "Missile",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "ムチ",
+   "en": "Whip",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Jigra"
+   ],
+   "notes": "Used by Jigra."
+  },
+  {
+   "jp": "ユニコーンヘッド",
+   "en": "Unicorn Head",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Fuunsaiki's unicorn-like horn; literal."
+  },
+  {
+   "jp": "ライガーミサイル",
+   "en": "Liger Missile",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ライジングアロー",
+   "en": "Rising Arrow",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JMF1336R_Rising_Gundam"
+   ],
+   "notes": "Ultimate Bullseye Rising Arrow."
+  },
+  {
+   "jp": "ローゼススクリーマー",
+   "en": "Rose Screamer",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ローゼスハリケーン",
+   "en": "Rose Hurricane",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ローゼスビット",
+   "en": "Rose Bit",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-009NF_Gundam_Rose"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "二連装冷凍光線",
+   "en": "Twin Freezing Beam",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": "Literal; the wiki lists Mazinger Z's Reitou Beam (freezing beam)."
+  },
+  {
+   "jp": "体当たり",
+   "en": "Ramming",
+   "series": "",
+   "sources": [],
+   "notes": "Generic body-slam attack."
+  },
+  {
+   "jp": "光子力ビーム",
+   "en": "Photon Beam",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)",
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV"
+   ],
+   "notes": "Koushiryoku Beam; wiki: Photon Beam."
+  },
+  {
+   "jp": "光子力ミサイル",
+   "en": "Photon Missile",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Aphrodite_A/TV"
+   ],
+   "notes": "Koushiryoku Missile."
+  },
+  {
+   "jp": "回転トゲ",
+   "en": "Rotating Spikes",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "大口径ビームキャノン",
+   "en": "Large-Caliber Beam Cannon",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Walter_Gundam"
+   ],
+   "notes": "Walter Gundam."
+  },
+  {
+   "jp": "大型ベガトロンビーム砲",
+   "en": "Large Vegatron Beam Cannon",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "大車輪ロケットパンチ",
+   "en": "Daisharin Rocket Punch",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": "Giant-wheel Rocket Punch."
+  },
+  {
+   "jp": "大輪投げ",
+   "en": "Great Wheel Throw",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "Unverified literal rendering (dairin-nage)."
+  },
+  {
+   "jp": "大雪山おろし",
+   "en": "Daisetsuzan Oroshi",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Change_Attack"
+   ],
+   "notes": "Getter Poseidon; Getter wiki spells it Daisetzuzan Oroshi."
+  },
+  {
+   "jp": "強化型ロケットパンチ",
+   "en": "Reinforced Rocket Punch",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "拡散ベガトロンビーム",
+   "en": "Spreading Vegatron Beam",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": "Literal."
+  },
+  {
+   "jp": "拡散粒子弾",
+   "en": "Scattering Particle Bullets",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering."
+  },
+  {
+   "jp": "曼陀羅円陣・極楽往生",
+   "en": "Mandala Formation: Gokuraku Ojo",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": "Wiki: Kyral Satsuho Mandala-jin Gokurakuojo. 'Gokuraku ojo' = rebirth in paradise."
+  },
+  {
+   "jp": "格闘",
+   "en": "Melee",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "毒液",
+   "en": "Venom",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering (doku-eki = poison fluid)."
+  },
+  {
+   "jp": "無影脚",
+   "en": "Bueikyaku (No-Shadow Kick)",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": "Wiki: Bueikyaku (No-Shadow Kick). Shortened form 'No-Shadow Kick'."
+  },
+  {
+   "jp": "煉獄熱波",
+   "en": "Purgatory Heat Wave",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": "Wiki lists Mandor Gundam's Rengoku/Engoku Reppu (flame spin); literal."
+  },
+  {
+   "jp": "爆熱ゴッドフィンガー",
+   "en": "Erupting God Finger",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "Bakunetsu God Finger; English dub: Burning Finger."
+  },
+  {
+   "jp": "真・流星胡蝶剣",
+   "en": "Shin Ryusei Kochoken",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-011NC_Dragon_Gundam"
+   ],
+   "notes": "Wiki: Shin Ryuusei Kochouken (Dragon Gundam); literal 'True Meteor Butterfly Sword'."
+  },
+  {
+   "jp": "石破天驚ゴッドフィンガー",
+   "en": "Sekiha Tenkyo God Finger",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "石破天驚拳",
+   "en": "Sekiha Tenkyoken",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "破壊光線",
+   "en": "Destruction Ray",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "豪熱マシンガンパンチ",
+   "en": "Burning Machine Gun Punch",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-006NA_Gundam_Maxter"
+   ],
+   "notes": "Gundam Wiki: Gounetsu Machine Gun Punch ('Bursting Machine Gun Punch')."
+  },
+  {
+   "jp": "超ベガトロンビーム砲",
+   "en": "Super Vegatron Beam Cannon",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "超級覇王電影弾",
+   "en": "Choukyuu Haou Den'eidan",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "Wiki: Choukyuu Haou Den'eidan (God Gundam combo); literal 'Super-Class Overlord Lightning Shadow Bullet'."
+  },
+  {
+   "jp": "超音波",
+   "en": "Ultrasonic Waves",
+   "series": "",
+   "sources": [],
+   "notes": "Generic."
+  },
+  {
+   "jp": "連装レーザー",
+   "en": "Multiple Lasers",
+   "series": "",
+   "sources": [],
+   "notes": "Unverified literal rendering (rensou = multiple mount)."
+  },
+  {
+   "jp": "錫杖",
+   "en": "Khakkhara",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": "Shakujou; Mandor Gundam staff."
+  },
+  {
+   "jp": "零距離ガイアクラッシャー",
+   "en": "Zero Range Gaia Crusher",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": "Wiki: Zero-Kyori Gaia Crusher (Zero-Range)."
+  },
+  {
+   "jp": "零距離ライジングアロー",
+   "en": "Zero Range Rising Arrow",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JMF1336R_Rising_Gundam"
+   ],
+   "notes": "Literal."
+  },
+  {
+   "jp": "Ｆダイナミックスペシャル",
+   "en": "F Dynamic Special",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": "Union attack of the Mazinger series; F presumably = Final (Final Dynamic Special). Unverified."
+  },
+  {
+   "jp": "Ｗスペイザートルネード",
+   "en": "Double Spazer Tornado",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Unverified literal rendering; W = Double."
+  }
+ ],
+ "terms": [
+  {
+   "jp": "？？？？？？",
+   "en": "??????",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Placeholder for an unknown/hidden ability."
+  },
+  {
+   "jp": "ニュータイプＬｖ",
+   "en": "Newtype Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Skill; Lv = level."
+  },
+  {
+   "jp": "強化人間Ｌｖ",
+   "en": "Enhanced Human Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: Enhanced Human (kyouka ningen). Some SRW texts use Cyber-Newtype."
+  },
+  {
+   "jp": "インファイトＬｖ",
+   "en": "Infight Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "インファイト＋",
+   "en": "Infight+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "'+' = upgraded version of the skill."
+  },
+  {
+   "jp": "ガンファイトＬｖ",
+   "en": "Gunfight Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガンファイト＋",
+   "en": "Gunfight+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＳＰアップＬｖ",
+   "en": "SP Up Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＳＰアップ＋",
+   "en": "SP Up+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "底力Ｌｖ",
+   "en": "Prevail Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay",
+    "https://superrobotwars.fandom.com/wiki/Mihiro_Ardygun"
+   ],
+   "notes": "Wiki gameplay page calls it Latent Energy; SRW wiki pilot pages (e.g. Mihiro Ardygun) use Prevail."
+  },
+  {
+   "jp": "底力＋",
+   "en": "Prevail+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay",
+    "https://superrobotwars.fandom.com/wiki/Mihiro_Ardygun"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "切り払いＬｖ",
+   "en": "Parry Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Kiri-harai: cuts down missiles/melee attacks. No English name verified (wiki gameplay page lists it untranslated)."
+  },
+  {
+   "jp": "切り払い＋",
+   "en": "Parry+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "See Parry Lv; unverified English name."
+  },
+  {
+   "jp": "シールド防御Ｌｖ",
+   "en": "Shield Defense Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "シールド防御＋",
+   "en": "Shield Defense+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "援護攻撃Ｌｖ",
+   "en": "Support Attack Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "援護攻撃＋",
+   "en": "Support Attack+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "援護防御Ｌｖ",
+   "en": "Support Defense Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "援護防御＋",
+   "en": "Support Defense+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "カウンターＬｖ",
+   "en": "Counter Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "カウンター＋",
+   "en": "Counter+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "支援攻撃Ｌｖ",
+   "en": "Assist Attack Lv",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "MX's own support system (up to four units can join an attack); 'Assist Attack' is a proposed English name to separate it from Support Attack (enngo kougeki). Unverified."
+  },
+  {
+   "jp": "支援攻撃＋",
+   "en": "Assist Attack+",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "See Assist Attack Lv; unverified."
+  },
+  {
+   "jp": "統率",
+   "en": "Leadership",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Tousotsu; unverified English name."
+  },
+  {
+   "jp": "念動力",
+   "en": "Telekinesis",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: Telekinetic (Banpresto original)."
+  },
+  {
+   "jp": "２回行動",
+   "en": "Act Twice",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ａ級ジャンパー",
+   "en": "A-Class Jumper",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Martian Successor Nadesico term (Boson Jump ability)."
+  },
+  {
+   "jp": "明鏡止水",
+   "en": "Meikyoshisui",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "G Gundam state of calm; romanized as on the SRW wiki (Meikyoushisui)."
+  },
+  {
+   "jp": "スーパーモード",
+   "en": "Super Mode",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "集中力",
+   "en": "Concentration",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Reduces SP cost of Spirit Commands to 80%; unverified English name."
+  },
+  {
+   "jp": "闘争心",
+   "en": "Fighting Spirit",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Initial Will +5; unverified English name."
+  },
+  {
+   "jp": "負けん気",
+   "en": "Competitive Spirit",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "がんばり屋",
+   "en": "Hard Worker",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "見切り",
+   "en": "Closeout",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Name used on the wiki gameplay page for Mikiri."
+  },
+  {
+   "jp": "強運",
+   "en": "Lucky",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Increases money from kills; wiki gameplay page."
+  },
+  {
+   "jp": "予知能力",
+   "en": "Precognition",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "ＳＰ回復",
+   "en": "SP Recovery",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヒット＆アウェイ",
+   "en": "Hit & Away",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: 'Hit & Run, lit. Hit & Away'."
+  },
+  {
+   "jp": "アタッカー",
+   "en": "Attacker",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "リベンジ",
+   "en": "Revenge",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "戦意高揚",
+   "en": "Morale Boost",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "Ｅセーブ",
+   "en": "E Save",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｂセーブ",
+   "en": "B Save",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＥＸＰアップ",
+   "en": "EXP Up",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "ガード",
+   "en": "Guard",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Skill (not the Spirit Command)."
+  },
+  {
+   "jp": "修理技能",
+   "en": "Repair Skill",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "補給技能",
+   "en": "Resupply Skill",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "ハッキング",
+   "en": "Hacking",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "奏者",
+   "en": "Instrumentalist",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "RahXephon term (Wikipedia: Ayato is an instrumentalist)."
+  },
+  {
+   "jp": "ビームコート",
+   "en": "Beam Coat",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｉフィールド",
+   "en": "I-Field",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｉフィールド（ν）",
+   "en": "I-Field (Nu)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "I-Field of the nu Gundam; 'nu' spelled out."
+  },
+  {
+   "jp": "ゴッドハンドファイナル",
+   "en": "God Hand Final",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unidentified ability; literal rendering. Unverified."
+  },
+  {
+   "jp": "ディストーション・フィールド",
+   "en": "Distortion Field",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Martian Successor Nadesico."
+  },
+  {
+   "jp": "Ａ．Ｔ．フィールド",
+   "en": "A.T. Field",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Neon Genesis Evangelion (SRW wiki writes AT Field)."
+  },
+  {
+   "jp": "ファイヤーウォール",
+   "en": "Firewall",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "バリア",
+   "en": "Barrier",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "音障壁",
+   "en": "Sound Barrier",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "分身",
+   "en": "Alter Ego",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: Alter Ego (bunshin)."
+  },
+  {
+   "jp": "マッハスペシャル",
+   "en": "Mach Special",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": "Getter Liger move; SRW wiki Getter Robo G page."
+  },
+  {
+   "jp": "ゴッドシャドー",
+   "en": "God Shadow",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": "God Gundam's Bunshin Sappou God Shadow."
+  },
+  {
+   "jp": "イリュージョンフラッシュ",
+   "en": "Illusion Flash",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unidentified ability; literal rendering. Unverified."
+  },
+  {
+   "jp": "変形（１）",
+   "en": "Transform (1)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Transformation (henkei) ability, 1st form."
+  },
+  {
+   "jp": "変形（２）",
+   "en": "Transform (2)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "変形（３）",
+   "en": "Transform (3)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "分離（１）",
+   "en": "Separate (1)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Separation ability."
+  },
+  {
+   "jp": "分離（２）",
+   "en": "Separate (2)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "分離（３）",
+   "en": "Separate (3)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "換装（１）",
+   "en": "Change (1)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Kansou: equipment change (wiki: Change)."
+  },
+  {
+   "jp": "換装（２）",
+   "en": "Change (2)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "合身",
+   "en": "Mix",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: 'Mix' (gasshin)."
+  },
+  {
+   "jp": "合体",
+   "en": "Union",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Gattai; wiki gameplay page: Union."
+  },
+  {
+   "jp": "次元連結システム",
+   "en": "Dimensional Coupler System",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Hades Project Zeorymer; SRW wiki Great Zeorymer page."
+  },
+  {
+   "jp": "ハイパーデンドーデンチ",
+   "en": "Hyper Dendo Battery",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Gear Fighter Dendoh power source (denchi = battery); English name unverified."
+  },
+  {
+   "jp": "ハイパープラズマドライブ",
+   "en": "Hyper Plasma Drive",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Literal; unverified."
+  },
+  {
+   "jp": "インフィニットレイヤー",
+   "en": "Infinite Layer",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Literal; unverified."
+  },
+  {
+   "jp": "ハイパースキャン",
+   "en": "Hyper Scan",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Literal; unverified."
+  },
+  {
+   "jp": "水上走行",
+   "en": "Water Surface Travel",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "再生",
+   "en": "Regeneration",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "ＥＷＡＣ（強）",
+   "en": "EWAC (Strong)",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Electronic warfare ability, strong."
+  },
+  {
+   "jp": "ＥＷＡＣ（弱）",
+   "en": "EWAC (Weak)",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "ジャマー",
+   "en": "Jammer",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アンビリカルケーブル",
+   "en": "Umbilical Cable",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Game data reads 'Ambilical' in some sources; correct spelling Umbilical."
+  },
+  {
+   "jp": "Ｓ２機関",
+   "en": "S2 Engine",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Neon Genesis Evangelion."
+  },
+  {
+   "jp": "暴走（１）",
+   "en": "Berserk (1)",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Neon Genesis Evangelion; unverified English name."
+  },
+  {
+   "jp": "暴走（２）",
+   "en": "Berserk (2)",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "状態変化耐性",
+   "en": "Status Ailment Resistance",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Unverified English name."
+  },
+  {
+   "jp": "相転移エンジン",
+   "en": "Phase Transition Engine",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Martian Successor Nadesico."
+  },
+  {
+   "jp": "電磁波",
+   "en": "Electromagnetic Waves",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "補給",
+   "en": "Resupply",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Ability to resupply allies (wiki: Supply/Replenish)."
+  },
+  {
+   "jp": "修理",
+   "en": "Repair",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Ability to repair allies."
+  },
+  {
+   "jp": "ＨＰ回復（大）",
+   "en": "HP Recovery (Large)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＨＰ回復（小）",
+   "en": "HP Recovery (Small)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＥＮ回復（大）",
+   "en": "EN Recovery (Large)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＥＮ回復（小）",
+   "en": "EN Recovery (Small)",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "重力波ビーム",
+   "en": "Gravity Wave Beam",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Nadesico term (power supply); unverified."
+  },
+  {
+   "jp": "要・重力波ビーム",
+   "en": "Requires Gravity Wave Beam",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Condition tag."
+  },
+  {
+   "jp": "ボソンジャンプ",
+   "en": "Boson Jump",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Martian Successor Nadesico."
+  },
+  {
+   "jp": "強化パーツ使用",
+   "en": "Use Enhancement Parts",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars/Gameplay"
+   ],
+   "notes": "Wiki gameplay page: Enhancement Parts (kyouka paatsu)."
+  },
+  {
+   "jp": "オープンゲット",
+   "en": "Open Get",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Getter_Robo_G_(mecha)"
+   ],
+   "notes": "Getter Robo command to separate."
+  },
+  {
+   "jp": "ＴＥスフィア",
+   "en": "TE Sphere",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Medius Locus barrier."
+  },
+  {
+   "jp": "ダミー",
+   "en": "Dummy",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": ""
+  },
+  {
+   "jp": "－－－",
+   "en": "---",
+   "category": "system",
+   "series": "system",
+   "sources": [],
+   "notes": "Empty placeholder."
+  },
+  {
+   "jp": "？？？？",
+   "en": "????",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Placeholder for an unknown/hidden command."
+  },
+  {
+   "jp": "熱血",
+   "en": "Valor",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Nekketsu (Hot Blood)."
+  },
+  {
+   "jp": "必中",
+   "en": "Strike",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Hichuu."
+  },
+  {
+   "jp": "信頼",
+   "en": "Trust",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Shinrai."
+  },
+  {
+   "jp": "てかげん",
+   "en": "Mercy",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Tekagen."
+  },
+  {
+   "jp": "かく乱",
+   "en": "Disrupt",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kakuran."
+  },
+  {
+   "jp": "魂",
+   "en": "Soul",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Tamashii."
+  },
+  {
+   "jp": "感応",
+   "en": "Attune",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kannou."
+  },
+  {
+   "jp": "友情",
+   "en": "Faith",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Yuujou (Friendship)."
+  },
+  {
+   "jp": "狙撃",
+   "en": "Snipe",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Sogeki."
+  },
+  {
+   "jp": "愛",
+   "en": "Love",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Ai."
+  },
+  {
+   "jp": "ひらめき",
+   "en": "Alert",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Hirameki (Flash); wiki: Alert or Flash."
+  },
+  {
+   "jp": "加速",
+   "en": "Accelerate",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kasoku (shortened Accel for space)."
+  },
+  {
+   "jp": "補給",
+   "en": "Renew",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Hokyuu; wiki: Renew or Resupply."
+  },
+  {
+   "jp": "直撃",
+   "en": "Fury",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Chokugeki."
+  },
+  {
+   "jp": "幸運",
+   "en": "Luck",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kouun."
+  },
+  {
+   "jp": "不屈",
+   "en": "Persist",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Fukutsu."
+  },
+  {
+   "jp": "覚醒",
+   "en": "Zeal",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kakusei."
+  },
+  {
+   "jp": "気合",
+   "en": "Spirit",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kiai."
+  },
+  {
+   "jp": "期待",
+   "en": "Hope",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kitai."
+  },
+  {
+   "jp": "祝福",
+   "en": "Bless",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Shukufuku."
+  },
+  {
+   "jp": "鉄壁",
+   "en": "Guard",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Teppeki; wiki: Guard or Wall."
+  },
+  {
+   "jp": "根性",
+   "en": "Vigor",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Konjou."
+  },
+  {
+   "jp": "気迫",
+   "en": "Drive",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Kihaku."
+  },
+  {
+   "jp": "偵察",
+   "en": "Scan",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Teisatsu."
+  },
+  {
+   "jp": "努力",
+   "en": "Gain",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Doryoku."
+  },
+  {
+   "jp": "集中",
+   "en": "Focus",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Shuuchuu."
+  },
+  {
+   "jp": "ド根性",
+   "en": "Guts",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Dokonjou."
+  },
+  {
+   "jp": "激励",
+   "en": "Rouse",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Gekirei; also called Rally."
+  },
+  {
+   "jp": "脱力",
+   "en": "Daunt",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Datsuryoku."
+  },
+  {
+   "jp": "応援",
+   "en": "Cheer",
+   "category": "system",
+   "series": "system",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Spirit_Commands"
+   ],
+   "notes": "Spirit Command. Ouen."
+  },
+  {
+   "jp": "ガンダムファイト",
+   "en": "Gundam Fight",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions",
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Tournament deciding leadership of the colonies."
+  },
+  {
+   "jp": "ガンダムファイト決勝大会",
+   "en": "Gundam Fight Finals",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "モビルファイター",
+   "en": "Mobile Fighter",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "モビルトレースシステム",
+   "en": "Mobile Trace System",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology",
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパーモード",
+   "en": "Hyper Mode",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJII_God_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バーサーカーシステム",
+   "en": "Berserker System",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エネルギーマルチプライヤー",
+   "en": "energy multiplier",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": "Literal rendering; the wiki mentions the term only in passing."
+  },
+  {
+   "jp": "感情エネルギー変換システム",
+   "en": "emotional energy conversion system",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "シャッフル同盟",
+   "en": "Shuffle Alliance",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": "SRW T localization uses 'Shuffle Union' (listed as an alternate name on the Gundam Wiki)."
+  },
+  {
+   "jp": "新シャッフル同盟",
+   "en": "new Shuffle Alliance",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "キング・オブ・ハート",
+   "en": "King of Hearts",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": "Gundam Wiki also writes 'King of Heart'."
+  },
+  {
+   "jp": "クイーン・ザ・スペード",
+   "en": "Queen the Spade",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "クラブ・エース",
+   "en": "Club Ace",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジャック・イン・ダイヤ",
+   "en": "Jack in Diamond",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": "Gundam Wiki alternately 'Jack in Dia'."
+  },
+  {
+   "jp": "ブラック・ジョーカー",
+   "en": "Black Joker",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Shuffle_Alliance"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マスター・アジア",
+   "en": "Master Asia",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Master_Asia",
+    "https://en.wikipedia.org/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Real alias of Shuji Kurosu; also called Undefeated of the East (Touhou Fuhai)."
+  },
+  {
+   "jp": "東方不敗",
+   "en": "Undefeated of the East",
+   "category": "title",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Master_Asia"
+   ],
+   "notes": "Touhou Fuhai."
+  },
+  {
+   "jp": "流派東方不敗",
+   "en": "School of the Undefeated of the East",
+   "category": "technique",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Master_Asia"
+   ],
+   "notes": "Ryuuha Touhou Fuhai; rendered as a school name (unverified)."
+  },
+  {
+   "jp": "デビルガンダム",
+   "en": "Devil Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JDG-00X_Devil_Gundam"
+   ],
+   "notes": "English dub: Dark Gundam."
+  },
+  {
+   "jp": "デビルガンダム四天王",
+   "en": "the Devil Gundam's Four Heavenly Kings",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Heaven's_Sword"
+   ],
+   "notes": "Master Gundam, Grand Gundam, Gundam Heaven's Sword, Walter Gundam."
+  },
+  {
+   "jp": "アルティメットガンダム",
+   "en": "Ultimate Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アルティメット細胞",
+   "en": "Ultimate Cells",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": "Literal rendering of the cells used in the Ultimate Gundam; same technology as DG Cells."
+  },
+  {
+   "jp": "ＤＧ細胞",
+   "en": "DG Cells",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_technology"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガンダム連合",
+   "en": "Gundam Coalition",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": "Literal rendering; Gundam Wiki mentions the 'World Gundam Federation' in the Mandor Gundam page."
+  },
+  {
+   "jp": "ガンダム開発局",
+   "en": "Gundam Development Bureau",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "チボデーギャルズ",
+   "en": "Chibodee Gals",
+   "category": "organization",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Chibodee_Crocket"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビクトルエンジン",
+   "en": "Viktor Engine",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": "Independent-drive engines built into Bolt Gundam; spelling unverified."
+  },
+  {
+   "jp": "モビルホース",
+   "en": "Mobile Horse",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Fuunsaiki"
+   ],
+   "notes": "Gundam Wiki: 'mobile horse'."
+  },
+  {
+   "jp": "ネオジャパン",
+   "en": "Neo Japan",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオアメリカ",
+   "en": "Neo America",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオフランス",
+   "en": "Neo France",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオチャイナ",
+   "en": "Neo China",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオロシア",
+   "en": "Neo Russia",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-013NR_Bolt_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオスウェーデン",
+   "en": "Neo Sweden",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-050NSW_Nobel_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオネパール",
+   "en": "Neo Nepal",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-044NNP_Mandor_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオホンコン",
+   "en": "Neo Hong Kong",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオイタリア",
+   "en": "Neo Italy",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Michelo_Chariot"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネオイングランド",
+   "en": "Neo England",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions",
+    "https://gundam.fandom.com/wiki/Gentle_Chapman"
+   ],
+   "notes": "Gundam Wiki infobox also writes 'Neo Britain'."
+  },
+  {
+   "jp": "少林寺",
+   "en": "Shaolin Temple",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Zuizen_and_Keiun"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "少林寺拳法",
+   "en": "Shaolin kung fu",
+   "category": "technique",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Zuizen_and_Keiun"
+   ],
+   "notes": "Rendered generically."
+  },
+  {
+   "jp": "銀の足",
+   "en": "Silver Legs",
+   "category": "technique",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gundam_Heaven's_Sword"
+   ],
+   "notes": "Michelo's special move."
+  },
+  {
+   "jp": "石破ラブラブ天驚拳",
+   "en": "Sekiha Love Love Tenkyoken",
+   "category": "technique",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/JMF1336R_Rising_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "キョウジ",
+   "en": "Kyoji Kasshu",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Raizo_Kasshu"
+   ],
+   "notes": "Domon's brother (character). Not opened by page; named via the Raizo Kasshu / Domon pages."
+  },
+  {
+   "jp": "レイモンド",
+   "en": "Raymond Bishop",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/George_de_Sand"
+   ],
+   "notes": "George de Sand's butler (character)."
+  },
+  {
+   "jp": "マリアルイゼ姫",
+   "en": "Princess Maria Louise",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/George_de_Sand"
+   ],
+   "notes": "Character; Neo France's princess."
+  },
+  {
+   "jp": "ミカムラ博士",
+   "en": "Dr. Mikamura",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Rain_Mikamura"
+   ],
+   "notes": "Character; Rain's father."
+  },
+  {
+   "jp": "サイ・フェイロン",
+   "en": "Sai Feilong",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Future_Century_Factions"
+   ],
+   "notes": "Character; Sai Saici's grandfather, 4th Gundam Fight winner."
+  },
+  {
+   "jp": "シャイニングガンダム",
+   "en": "Shining Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/GF13-017NJ_Shining_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジョンブルガンダム",
+   "en": "John Bull Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Gentle_Chapman"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネロスガンダム",
+   "en": "Neros Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Michelo_Chariot"
+   ],
+   "notes": "Wiki also writes Nero Gundam in places."
+  },
+  {
+   "jp": "マスターガンダム",
+   "en": "Master Gundam",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://gundam.fandom.com/wiki/Grand_Master_Gundam"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "光子力研究所",
+   "en": "Photon Power Laboratory",
+   "category": "organization",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Koji_Kabuto/TV",
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "光子力エネルギー",
+   "en": "Photon Power energy",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV"
+   ],
+   "notes": "Wiki: Photon Power (Engine); also called Photonic Energy."
+  },
+  {
+   "jp": "科学要塞研究所",
+   "en": "Science Fortress Laboratory",
+   "category": "organization",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Kenzo_Kabuto/TV",
+    "https://mazinger.fandom.com/wiki/Koji_Kabuto/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ミケーネ帝国",
+   "en": "Mycenae Empire",
+   "category": "organization",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドクター・ヘル",
+   "en": "Dr. Hell",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": "Character; male villain."
+  },
+  {
+   "jp": "あしゅら男爵",
+   "en": "Baron Ashura",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": "Character; gynandromorph villain."
+  },
+  {
+   "jp": "鉄仮面",
+   "en": "Iron Mask",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [],
+   "notes": "Assassin sent by Baron Ashura; the Mazinger wiki has an Iron Mask Captain page (not opened)."
+  },
+  {
+   "jp": "超合金Ｚ",
+   "en": "Super Alloy Z",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV",
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "超合金ニューＺ",
+   "en": "Super Alloy New Z",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(Robot)/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジャパニウム",
+   "en": "Japanium",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV",
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジェットスクランダー",
+   "en": "Jet Scrander",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": "Wiki page title: Scranders."
+  },
+  {
+   "jp": "スクランブルダッシュ",
+   "en": "Scramble Dash",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(Robot)/TV"
+   ],
+   "notes": "Great Mazinger's wings."
+  },
+  {
+   "jp": "ブレーンコンドル",
+   "en": "Brain Condor",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(Robot)/TV"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "クインスター",
+   "en": "Queen Star",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Venus_A_(Jun)/TV"
+   ],
+   "notes": "Venus A control craft; literal rendering (not found by name on the wiki)."
+  },
+  {
+   "jp": "ビューナススクランダー",
+   "en": "Venus Scrander",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "スカーレットモビル",
+   "en": "Scarlet Mobile",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Diana_A/TV"
+   ],
+   "notes": "Literal rendering (Diana A control motorcycle)."
+  },
+  {
+   "jp": "ジェットパイルダー",
+   "en": "Jet Pilder",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Mazinger_Z_(Robot)/TV"
+   ],
+   "notes": "Pilder is the wiki spelling."
+  },
+  {
+   "jp": "マジンパワー",
+   "en": "Mazin Power",
+   "category": "technique",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "サザンクロスナイフ",
+   "en": "Southern Cross Knives",
+   "category": "technology",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mazinger_Z_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機械獣",
+   "en": "Mechanical Beasts",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mazinger_Z"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "戦闘獣",
+   "en": "Warrior Beasts",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)",
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "暗黒大将軍",
+   "en": "Great General of Darkness",
+   "category": "title",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "東城学園",
+   "en": "Tojo Academy",
+   "category": "location",
+   "series": "マジンガーＺ",
+   "sources": [],
+   "notes": "Literal romanization (Toujou Gakuen); unverified."
+  },
+  {
+   "jp": "みなと保育園",
+   "en": "Minato Nursery School",
+   "category": "location",
+   "series": "マジンガーＺ",
+   "sources": [],
+   "notes": "Literal romanization; unverified."
+  },
+  {
+   "jp": "新住日重工",
+   "en": "Shinsuminichi Heavy Industries",
+   "category": "organization",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Black_Great",
+    "https://mazinger.fandom.com/wiki/Mass-Produced_Great_Mazinger"
+   ],
+   "notes": "Wiki: Shinsuminichi Industry. Library 116 writes the kanji in a different order (新日住重工)."
+  },
+  {
+   "jp": "桜多吾作",
+   "en": "Gosaku Ota",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gosaku_%C5%8Cta"
+   ],
+   "notes": "Manga artist of the Mazinger adaptations. The library renders his given name as Tagosaku in kana order in places."
+  },
+  {
+   "jp": "ＧＭＦＡ１",
+   "en": "GMFA-1",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [],
+   "notes": "Hyphen added; unverified."
+  },
+  {
+   "jp": "元祖",
+   "en": "Ganso",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Great_Mazinger_(%C5%8Cta)"
+   ],
+   "notes": "Meaning 'the original'."
+  },
+  {
+   "jp": "グレート軍団",
+   "en": "Great Corps",
+   "category": "organization",
+   "series": "グレートマジンガー",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "マジンガーＺ対暗黒大将軍",
+   "en": "Mazinger Z vs. Great General of Darkness",
+   "category": "other",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Kenzo_Kabuto/TV"
+   ],
+   "notes": "Film title."
+  },
+  {
+   "jp": "ロボット博物館",
+   "en": "Robot Museum",
+   "category": "location",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Barendos"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "兜十蔵",
+   "en": "Juzo Kabuto",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Character; Koji's grandfather."
+  },
+  {
+   "jp": "シロー",
+   "en": "Shiro Kabuto",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mazinger_characters"
+   ],
+   "notes": "Character; Koji's younger brother."
+  },
+  {
+   "jp": "ＮＡＳＡ",
+   "en": "NASA",
+   "category": "organization",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/TFO"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッター線",
+   "en": "Getter Rays",
+   "category": "technology",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Rays"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲッター線増幅装置",
+   "en": "Getter Ray amplifier",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Rays"
+   ],
+   "notes": "Literal rendering."
+  },
+  {
+   "jp": "合成鋼Ｇ",
+   "en": "Synthetic Steel G",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "Literal rendering; no English source verified (alternative: Composite Steel G)."
+  },
+  {
+   "jp": "早乙女研究所",
+   "en": "Saotome Institute",
+   "category": "organization",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Saotome_Institute_(Manga)"
+   ],
+   "notes": "Full name Saotome Getter Ray Research Institute."
+  },
+  {
+   "jp": "恐竜帝国",
+   "en": "Dinosaur Empire",
+   "category": "organization",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dinosaur_Empire"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "百鬼帝国",
+   "en": "Hyakki Empire",
+   "category": "organization",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "浅間学園",
+   "en": "Asama Academy",
+   "category": "location",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Benkei_Kuruma_(TV)"
+   ],
+   "notes": "Getter wiki: Asama High."
+  },
+  {
+   "jp": "シャインスパーク",
+   "en": "Shine Spark",
+   "category": "technique",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Shine_Spark"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "コマンドマシン",
+   "en": "Command Machine",
+   "category": "technology",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Michiru_Saotome_(TV)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レディコマンド",
+   "en": "Lady Command",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Michiru_Saotome_(TV)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "科学要塞島",
+   "en": "Science Fortress Island",
+   "category": "location",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "Hyakki Empire base; literal rendering."
+  },
+  {
+   "jp": "恐竜帝王ゴール",
+   "en": "Dinosaur Emperor Gore",
+   "category": "title",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Gola",
+    "https://getterrobo.fandom.com/wiki/Dinosaur_Empire"
+   ],
+   "notes": "Getter wiki: Emperor Gore."
+  },
+  {
+   "jp": "ゴーラ",
+   "en": "Gola",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Gola"
+   ],
+   "notes": "Character; daughter of Emperor Gore, pilot of Getter Queen."
+  },
+  {
+   "jp": "メカザウルス・ギン",
+   "en": "Mechasaurus Gin",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Getter_Queen_(TV)"
+   ],
+   "notes": "Dinosaur Empire machine."
+  },
+  {
+   "jp": "武蔵",
+   "en": "Musashi Tomoe",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo"
+   ],
+   "notes": "Character; original Getter 3 pilot."
+  },
+  {
+   "jp": "達人",
+   "en": "Tatsuhito Saotome",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dr._Saotome_(TV)"
+   ],
+   "notes": "Character; Dr. Saotome's eldest son."
+  },
+  {
+   "jp": "元気",
+   "en": "Genki Saotome",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dr._Saotome_(TV)"
+   ],
+   "notes": "Character; Dr. Saotome's second son."
+  },
+  {
+   "jp": "和子",
+   "en": "Kazuko Saotome",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Dr._Saotome_(TV)"
+   ],
+   "notes": "Character; Dr. Saotome's wife."
+  },
+  {
+   "jp": "鉄甲鬼",
+   "en": "Tekkouki",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Hyakki oni/robot (Mecha Tekkouki)."
+  },
+  {
+   "jp": "リサ",
+   "en": "Risa",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "Emperor Burai's daughter; spelling unverified (Lisa/Risa)."
+  },
+  {
+   "jp": "フリード星",
+   "en": "Planet Fleed",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Planet_Fleed"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ星",
+   "en": "Planet Vega",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Planet_Vega"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ星連合軍",
+   "en": "Vegan Empire",
+   "category": "organization",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Skull_Moon",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Mazinger wiki: Vegan Empire; Wikipedia: Vega Alliance / Vegan Forces."
+  },
+  {
+   "jp": "スカルムーン基地",
+   "en": "Skull Moon Base",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Skull_Moon"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "宇宙科学研究所",
+   "en": "Space Science Laboratory",
+   "category": "organization",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Space_Science_Laboratory"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "シラカバ牧場",
+   "en": "Shirakaba Ranch",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Danbei_Makiba"
+   ],
+   "notes": "Wiki: Makiba Ranch."
+  },
+  {
+   "jp": "宇宙合金グレン",
+   "en": "Space Alloy Gren",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Literal; wiki uses Space Alloy Gren in places."
+  },
+  {
+   "jp": "光量子エネルギー",
+   "en": "photonic energy",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/TFO"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガトロン",
+   "en": "Vegatron",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガトロン放射能",
+   "en": "Vegatron radiation",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegatron"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガトロンマイナス光線",
+   "en": "Vegatron Minus Beam",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "円盤獣",
+   "en": "Saucer Beast",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Saucer_Beasts"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ獣",
+   "en": "Vega Beast",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vega_Beasts"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "親衛隊",
+   "en": "Royal Guard",
+   "category": "organization",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Literal rendering (shineitai)."
+  },
+  {
+   "jp": "コンビネーションクロス",
+   "en": "Combination Cross",
+   "category": "technique",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Grendizer/TV"
+   ],
+   "notes": "Grendizer / Double Spazer combination shout."
+  },
+  {
+   "jp": "スペイザークロス",
+   "en": "Spazer Cross",
+   "category": "technique",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "マリンスペイザー",
+   "en": "Marine Spazer",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドリルスペイザー",
+   "en": "Drill Spazer",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Spazers"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レディガンダル",
+   "en": "Lady Gandal",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gandal/TV"
+   ],
+   "notes": "Female alter ego of Commander Gandal."
+  },
+  {
+   "jp": "ズリルジュニア",
+   "en": "Zuril Jr.",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Zuril/TV"
+   ],
+   "notes": "Character; Zuril's son."
+  },
+  {
+   "jp": "モール星",
+   "en": "Planet Mole",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Mors's home; romanization unverified."
+  },
+  {
+   "jp": "ルビー星",
+   "en": "Planet Ruby",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Literal rendering; unverified."
+  },
+  {
+   "jp": "宇宙人と仲良くなる会",
+   "en": "Society for Befriending Space Aliens",
+   "category": "organization",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "Translation of the club name; unverified."
+  },
+  {
+   "jp": "吾郎",
+   "en": "Goro Makiba",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Danbei_Makiba"
+   ],
+   "notes": "Character; Hikaru's younger brother."
+  },
+  {
+   "jp": "八卦ロボ",
+   "en": "Hakke Robo",
+   "category": "other",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zeorymer"
+   ],
+   "notes": "Wikipedia article on the eight robots: Hakkeshu. Cross-series."
+  },
+  {
+   "jp": "ゼオライマー",
+   "en": "Zeorymer",
+   "category": "other",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "メイオウ攻撃",
+   "en": "Hades Attack",
+   "category": "technique",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "SRW wiki uses Hades Attack; Japanese Meioh Attack. Cross-series."
+  },
+  {
+   "jp": "プロトン・サンダー",
+   "en": "Proton Thunder",
+   "category": "technique",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ジェイ・カイザー",
+   "en": "J-Kaiser",
+   "category": "technique",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Written Ｊカイザー in the game. Cross-series."
+  },
+  {
+   "jp": "トゥインロード",
+   "en": "Twin Lords",
+   "category": "technique",
+   "series": "(Hades Project Zeorymer)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ドーレム",
+   "en": "Dolem",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Dolem"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ＴＥＲＲＡ",
+   "en": "TERRA",
+   "category": "organization",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/TERRA"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ＭＵ",
+   "en": "Mu",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Mu",
+    "https://rahxephon.fandom.com/wiki/Mulian"
+   ],
+   "notes": "Cross-series (Mulians)."
+  },
+  {
+   "jp": "ラーゼフォン",
+   "en": "RahXephon",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/RahXephon_(Mecha)"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ＴＯＫＹＯ　ＪＵＰＩＴＥＲ",
+   "en": "Tokyo Jupiter",
+   "category": "location",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Tokyo_Jupiter"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "イシュトリ",
+   "en": "Ixtli",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters",
+    "https://rahxephon.fandom.com/wiki/Ixtli"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "神名綾人",
+   "en": "Ayato Kamina",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Ayato_Kamina"
+   ],
+   "notes": "Cross-series character."
+  },
+  {
+   "jp": "神名麻弥",
+   "en": "Maya Kamina",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Maya_Kamina"
+   ],
+   "notes": "Cross-series character."
+  },
+  {
+   "jp": "久遠",
+   "en": "Quon",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters",
+    "https://rahxephon.fandom.com/wiki/Quon_Kisaragi"
+   ],
+   "notes": "Cross-series character (Quon Kisaragi)."
+  },
+  {
+   "jp": "朝比奈浩子",
+   "en": "Hiroko Asahina",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon",
+    "https://rahxephon.fandom.com/wiki/Hiroko_Asahina"
+   ],
+   "notes": "Cross-series character."
+  },
+  {
+   "jp": "ヴァーミリオン",
+   "en": "Vermillion",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Vermillion"
+   ],
+   "notes": "Cross-series unit (TERRA mass-produced Dolem). RahXephon wiki spelling."
+  },
+  {
+   "jp": "ツェントル・プロジェクト",
+   "en": "Tsentr Project",
+   "category": "organization",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "メディウス・ロクス",
+   "en": "Medius Locus",
+   "category": "other",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "ターミナス・エナジー",
+   "en": "Terminus Energy",
+   "category": "technology",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Cerberus",
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "ＴＥエンジン",
+   "en": "TE Engine",
+   "category": "technology",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "ラズムナニウム",
+   "en": "Lasmunanium",
+   "category": "technology",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "ＡＩ１",
+   "en": "AI1",
+   "category": "other",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "ミタール・ザパト",
+   "en": "Mitar Zapat",
+   "category": "other",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Garbeus"
+   ],
+   "notes": "Cross-series (MX original) character."
+  },
+  {
+   "jp": "エルデ",
+   "en": "Eldy",
+   "category": "other",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original) character; Eldy Middi."
+  },
+  {
+   "jp": "地球連邦軍",
+   "en": "Earth Federation Forces",
+   "category": "organization",
+   "series": "(Super Robot Wars MX original)",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Medius_Locus"
+   ],
+   "notes": "Cross-series (MX original)."
+  },
+  {
+   "jp": "アルファ小隊",
+   "en": "Alpha Squadron",
+   "category": "organization",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Alpha_Squadron"
+   ],
+   "notes": "Cross-series. Game: Alpha shoutai."
+  },
+  {
+   "jp": "オーバーロード作戦",
+   "en": "Operation Overlord",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Operation_Overlord"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "エルフィ",
+   "en": "Elvy Hadhiyat",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Elvy_Hadhiyat"
+   ],
+   "notes": "Cross-series character (game kana Elfi); leader of the Alpha Squadron."
+  },
+  {
+   "jp": "九鬼",
+   "en": "Masayoshi Kuki",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Masayoshi_Kuki"
+   ],
+   "notes": "Cross-series character; controls Largo."
+  },
+  {
+   "jp": "樹",
+   "en": "Itsuki Kisaragi",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Quon_Kisaragi"
+   ],
+   "notes": "Cross-series character, presumed from the single kanji (head of TERRA science department)."
+  },
+  {
+   "jp": "ムーリアン",
+   "en": "Mulian",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Mulian"
+   ],
+   "notes": "Cross-series."
+  },
+  {
+   "jp": "ブリランテ",
+   "en": "Brillante",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Obbligato"
+   ],
+   "notes": "Dolem used by Obbligato as a flying pedestal. Cross-series."
+  },
+  {
+   "jp": "ヨロテオトル",
+   "en": "Yolteotl",
+   "category": "other",
+   "series": "(RahXephon)",
+   "sources": [],
+   "notes": "Romanization guessed; not found on the RahXephon wiki. Cross-series."
+  }
+ ]
+}

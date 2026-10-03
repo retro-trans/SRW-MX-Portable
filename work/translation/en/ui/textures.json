@@ -1,0 +1,432 @@
+{
+ "about": "English for every graphic with Japanese text (docs/text_inventory.md items 20-24). Keyed by file and TX48 index (order of appearance in the file; contact sheets in work/ui/textures/). 'en' is the text to draw; keep each image's size, colors and outline style. The battle icons and status icons are one-kanji squares, so they get 3-letter caps; the same abbreviations are used in the help text (work/translation/en/static2/help.json, entries 108 and 120). Names follow the glossary. 'en_icon' (since 0.2.3): the letters drawn when 3 do not fit (small battle icons and the 16 px status icons take 2 letters, like the game's own HP icon); tools/redraw_wnd.py draws them.",
+ "WND.BIN": {
+  "0": {
+   "jp": "インターミッション",
+   "en": "INTERMISSION",
+   "kind": "screen header"
+  },
+  "39": {
+   "jp": "出撃準備",
+   "en": "SORTIE PREP",
+   "kind": "screen header"
+  },
+  "50": {
+   "jp": "攻",
+   "en": "ATK",
+   "kind": "battle icon, large: main attacking unit"
+  },
+  "51": {
+   "jp": "反",
+   "en": "CTR",
+   "kind": "battle icon, large: counterattack"
+  },
+  "52": {
+   "jp": "援",
+   "en": "SUP",
+   "kind": "battle icon, large: support"
+  },
+  "53": {
+   "jp": "同",
+   "en": "SIM",
+   "kind": "battle icon, large: simultaneous support"
+  },
+  "54": {
+   "jp": "戦",
+   "en": "SHP",
+   "kind": "battle icon, large: ship support"
+  },
+  "55": {
+   "jp": "支",
+   "en": "AST",
+   "kind": "battle icon, large: assist"
+  },
+  "84": {
+   "jp": "避",
+   "en": "EVA",
+   "kind": "battle icon, large: evade"
+  },
+  "85": {
+   "jp": "防",
+   "en": "DEF",
+   "kind": "battle icon, large: defend"
+  },
+  "90": {
+   "jp": "攻",
+   "en": "ATK",
+   "kind": "battle icon, small",
+   "en_icon": "AT"
+  },
+  "91": {
+   "jp": "反",
+   "en": "CTR",
+   "kind": "battle icon, small",
+   "en_icon": "CT"
+  },
+  "92": {
+   "jp": "援",
+   "en": "SUP",
+   "kind": "battle icon, small",
+   "en_icon": "SP"
+  },
+  "93": {
+   "jp": "同",
+   "en": "SIM",
+   "kind": "battle icon, small",
+   "en_icon": "SM"
+  },
+  "94": {
+   "jp": "戦",
+   "en": "SHP",
+   "kind": "battle icon, small",
+   "en_icon": "SH"
+  },
+  "95": {
+   "jp": "支",
+   "en": "AST",
+   "kind": "battle icon, small",
+   "en_icon": "AS"
+  },
+  "97": {
+   "jp": "避",
+   "en": "EVA",
+   "kind": "battle icon, small",
+   "en_icon": "EV"
+  },
+  "98": {
+   "jp": "防",
+   "en": "DEF",
+   "kind": "battle icon, small",
+   "en_icon": "DF"
+  },
+  "114": {
+   "jp": "援",
+   "en": "SUP",
+   "kind": "battle icon, small (second set)",
+   "en_icon": "SP"
+  },
+  "115": {
+   "jp": "支",
+   "en": "AST",
+   "kind": "battle icon, small (second set)",
+   "en_icon": "AS"
+  },
+  "57": {
+   "jp": "能",
+   "en": "STA",
+   "kind": "status icon: pilot stats down",
+   "en_icon": "ST"
+  },
+  "58": {
+   "jp": "武",
+   "en": "WPN",
+   "kind": "status icon: weapon hit down",
+   "en_icon": "WP"
+  },
+  "59": {
+   "jp": "動",
+   "en": "MOB",
+   "kind": "status icon: Mobility down",
+   "en_icon": "MB"
+  },
+  "60": {
+   "jp": "装",
+   "en": "ARM",
+   "kind": "status icon: Armor down",
+   "en_icon": "AR"
+  },
+  "61": {
+   "jp": "行",
+   "en": "DIS",
+   "kind": "status icon: unit cannot act",
+   "en_icon": "DS"
+  },
+  "63": {
+   "jp": "移",
+   "en": "MOV",
+   "kind": "status icon: Move down",
+   "en_icon": "MV"
+  }
+ },
+ "STATIC2_ADD.BIN": {
+  "15": {
+   "jp": "カウンター",
+   "en": "Counter"
+  },
+  "16": {
+   "jp": "同時攻撃",
+   "en": "Simultaneous Attack"
+  },
+  "17": {
+   "jp": "支援攻撃",
+   "en": "Assist Attack"
+  },
+  "18": {
+   "jp": "援護攻撃",
+   "en": "Support Attack"
+  },
+  "19": {
+   "jp": "戦艦援護攻撃",
+   "en": "Ship Support Attack"
+  },
+  "20": {
+   "jp": "合体攻撃",
+   "en": "Team Attack"
+  },
+  "21": {
+   "jp": "ダブルアタック",
+   "en": "Double Attack"
+  },
+  "22": {
+   "jp": "ジャマー",
+   "en": "Jammer"
+  },
+  "23": {
+   "jp": "電磁波",
+   "en": "EM Waves"
+  },
+  "24": {
+   "jp": "切り払い",
+   "en": "Sword Cut"
+  },
+  "25": {
+   "jp": "分身",
+   "en": "After Image"
+  },
+  "26": {
+   "jp": "マッハスペシャル",
+   "en": "Mach Special"
+  },
+  "27": {
+   "jp": "ゴッドシャドー",
+   "en": "God Shadow"
+  },
+  "28": {
+   "jp": "イリュージョンフラッシュ",
+   "en": "Illusion Flash"
+  },
+  "29": {
+   "jp": "オープンゲット",
+   "en": "Open Get"
+  },
+  "30": {
+   "jp": "援護防御",
+   "en": "Support Defend"
+  },
+  "31": {
+   "jp": "クリティカル",
+   "en": "Critical"
+  },
+  "32": {
+   "jp": "パイロット気力減少",
+   "en": "Pilot Will Down"
+  },
+  "33": {
+   "jp": "パイロットSP減少",
+   "en": "Pilot SP Down"
+  },
+  "34": {
+   "jp": "パイロット能力減少",
+   "en": "Pilot Stats Down"
+  },
+  "35": {
+   "jp": "武器命中値減少",
+   "en": "Weapon Hit Down"
+  },
+  "36": {
+   "jp": "ユニットEN減少",
+   "en": "Unit EN Down"
+  },
+  "37": {
+   "jp": "ユニット運動性減少",
+   "en": "Unit Mobility Down"
+  },
+  "38": {
+   "jp": "ユニット装甲減少",
+   "en": "Unit Armor Down"
+  },
+  "39": {
+   "jp": "ユニット行動不能",
+   "en": "Unit Disabled"
+  },
+  "40": {
+   "jp": "ユニットHP減少",
+   "en": "Unit HP Down"
+  },
+  "41": {
+   "jp": "ユニット移動力減少",
+   "en": "Unit Move Down"
+  },
+  "42": {
+   "jp": "ビームコート",
+   "en": "Beam Coat"
+  },
+  "43": {
+   "jp": "Ｉフィールド",
+   "en": "I-Field"
+  },
+  "44": {
+   "jp": "ゴッドハンドファイナル",
+   "en": "God Hand Final"
+  },
+  "45": {
+   "jp": "ディストーション・フィールド",
+   "en": "Distortion Field"
+  },
+  "46": {
+   "jp": "A.T.フィールド",
+   "en": "AT Field"
+  },
+  "47": {
+   "jp": "ファイヤーウォール",
+   "en": "Firewall"
+  },
+  "48": {
+   "jp": "バリア",
+   "en": "Barrier"
+  },
+  "49": {
+   "jp": "音障壁",
+   "en": "Harmonic Field"
+  },
+  "50": {
+   "jp": "ＴＥスフィア",
+   "en": "TE Sphere"
+  },
+  "51": {
+   "jp": "凍結",
+   "en": "Freeze"
+  },
+  "52": {
+   "jp": "電撃",
+   "en": "Shock"
+  },
+  "53": {
+   "jp": "溶解",
+   "en": "Melt"
+  },
+  "54": {
+   "jp": "毒",
+   "en": "Poison"
+  },
+  "55": {
+   "jp": "ウィルス",
+   "en": "Virus"
+  },
+  "56": {
+   "jp": "錆",
+   "en": "Rust"
+  },
+  "57": {
+   "jp": "クロックマネージャー",
+   "en": "Clock Manager"
+  },
+  "58": {
+   "jp": "ナットール弾",
+   "en": "Nattoru Bullet"
+  },
+  "59": {
+   "jp": "オートプレッシャー",
+   "en": "Auto Pressure"
+  },
+  "60": {
+   "jp": "光熱弾",
+   "en": "Photothermal Shell"
+  },
+  "61": {
+   "jp": "フィールド無効化",
+   "en": "Field Nullified"
+  },
+  "62": {
+   "jp": "フィールド貫通",
+   "en": "Field Pierced"
+  },
+  "63": {
+   "jp": "フィールド弱体",
+   "en": "Field Weakened"
+  },
+  "64": {
+   "jp": "A.T.フィールド中和",
+   "en": "AT Field Neutralized"
+  },
+  "66": {
+   "jp": "重力波ビーム",
+   "en": "Gravity Wave Beam"
+  },
+  "67": {
+   "jp": "出入口",
+   "en": "Entrance"
+  },
+  "68": {
+   "jp": "EWAC(強)",
+   "en": "EWAC (Strong)"
+  },
+  "69": {
+   "jp": "EWAC(弱)",
+   "en": "EWAC (Weak)"
+  },
+  "76": {
+   "jp": "シールド防御",
+   "en": "Shield Defense"
+  },
+  "77": {
+   "jp": "援護攻撃",
+   "en": "Support Attack"
+  },
+  "78": {
+   "jp": "援護防御",
+   "en": "Support Defend"
+  },
+  "79": {
+   "jp": "支援攻撃",
+   "en": "Assist Attack"
+  }
+ },
+ "MAP_ADD.BIN": {
+  "about": "Same images as STATIC2_ADD.BIN: index n here = STATIC2 index n - 8 for 23-72 (15-64 there), and 74-77 / 84-87 = STATIC2 66-69 / 76-79. Use the same English.",
+  "map": {
+   "23-72": "15-64",
+   "74": "66",
+   "75": "67",
+   "76": "68",
+   "77": "69",
+   "84": "76",
+   "85": "77",
+   "86": "78",
+   "87": "79"
+  }
+ },
+ "OPWND.BIN": {
+  "44": {
+   "jp": "スーパーロボット大戦MX ポータブル (logo)",
+   "en": "SUPER ROBOT WARS MX PORTABLE",
+   "kind": "title logo; keep the MX emblem and flame, replace the katakana wordmark"
+  }
+ },
+ "ICON0.PNG": {
+  "0": {
+   "jp": "logo",
+   "en": "SUPER ROBOT WARS MX PORTABLE",
+   "kind": "XMB icon, 144x80"
+  }
+ },
+ "SAVE.BIN": {
+  "0": {
+   "jp": "logo",
+   "en": "SUPER ROBOT WARS MX PORTABLE",
+   "kind": "save icon PNG, 144x80"
+  },
+  "1": {
+   "jp": "logo",
+   "en": "SUPER ROBOT WARS MX PORTABLE",
+   "kind": "save icon PNG, 144x80"
+  }
+ },
+ "PARAM.SFO": {
+  "TITLE": {
+   "jp": "スーパーロボット大戦ＭＸポータブル",
+   "en": "Super Robot Wars MX Portable",
+   "kind": "XMB title, UTF-8, max 128 bytes"
+  }
+ }
+}

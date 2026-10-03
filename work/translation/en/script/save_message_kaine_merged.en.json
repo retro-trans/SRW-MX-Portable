@@ -1,0 +1,21 @@
+{
+ "scenes": [
+  "end_mes"
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "end_mes:21",
+    "end_mes:26",
+    "end_mes:31"
+   ],
+   "speaker_en": "Kaine",
+   "en": "All right, time for the usual sign-off... Let's do it like a next-episode preview!",
+   "notes": "Requested screenshot; identical line used in three save-message sketches.",
+   "uncertain": [],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン"
+  }
+ ]
+}

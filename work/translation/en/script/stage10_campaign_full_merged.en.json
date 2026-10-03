@@ -1,0 +1,8201 @@
+{
+ "scenes": [
+  "i023b",
+  "s0230",
+  "i023a"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "The Manipulated Demon God",
+   "scenes": [
+    "i023b",
+    "s0230",
+    "i023a"
+   ],
+   "map_scene": "s0230"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i023b:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "...You're sure about this, Koji?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 0
+   },
+   "notes": "Yumi confirms Koji's resolve to return Mazinger Z to battle.",
+   "uncertain": []
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i023b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yes. Mazinger Z has fought Dr. Hell's army and Mycenae, and defeated them both...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 1
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i023b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Yes... Now it rests in the Robot Museum alongside Tetsuya's Great Mazinger, as a symbol of peace.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 2
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i023b:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But with new enemies appearing one after another, Mazinger Z will go into battle again.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 3
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i023b:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "And I'm sure my grandfather and my father would want that too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 4
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i023b:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Koji, I'm glad you've made up your mind. I'll contact the museum myself, then.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 5
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i023b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Thank you. Please do. ...So, how is Tetsuya?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 6
+   },
+   "notes": "Koji asks Yumi to contact the museum, then asks after Tetsuya.",
+   "uncertain": []
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i023b:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "I hear his wounds from the battle with the Mycenae Empire have healed, and he's started rehabilitation.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 7
+   },
+   "notes": "He refers to Tetsuya, settled by the preceding question and sourced male profile.",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i023b:8"
+   ],
+   "kind": "thought",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Knowing him, it's probably more like intensive training than rehabilitation.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 8
+   },
+   "notes": "Thought about Tetsuya; intensive training contrasts with rehabilitation.",
+   "uncertain": []
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i023b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "He'll probably join the Nahel Argama team with Jun before long.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 9
+   },
+   "notes": "He remains Tetsuya; Jun accompanies him. Team refers to the Nahel Argama force.",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i023b:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Understood. Then please give my regards to Sayaka, Boss and the others too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 10
+   },
+   "notes": "Koji requests that Yumi pass on his regards; direction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i023b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Ah, about that... I plan to have them join you very soon too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 11
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i023b:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Then things will get lively again.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 12
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i023b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Well, Koji... I wish you all success in battle.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 13
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i023b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "You're going to pick up Mazinger Z?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 14
+   },
+   "notes": "Kaine addresses Koji, restoring the omitted you.",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i023b:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yeah. Fighting in the TFO is getting pretty tough, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 15
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i023b:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's... in a museum now, right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 16
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i023b:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "That's right, along with Great. I hear the place is packed with kids on holidays.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 17
+   },
+   "notes": "Great remains the source nickname for Great Mazinger.",
+   "uncertain": []
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i023b:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Those two are especially popular, even at the Robot Museum.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 18
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i023b:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "I've been wondering for a while. Why is Mazinger Z in a place like that?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 19
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i023b:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Yeah, exactly. If you kept it at a base like Raideen, you could use it anytime.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 20
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i023b:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Some people in the military don't like having super robots at civilian facilities...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 21
+   },
+   "notes": "Super robots follows campaign_terms contextual convention; civilian custody is the issue.",
+   "uncertain": []
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i023b:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Putting them in the museum is a way of dealing with those people.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 22
+   },
+   "notes": "Museum arrangement appeases military objectors from row21.",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i023b:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Huh... There's a lot going on behind the scenes, isn't there?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 23
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i023b:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "But they're kept in perfect shape so we can use them in an emergency.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 24
+   },
+   "notes": "Plural they refers to the two museum robots, not the pilots.",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i023b:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "That sounds risky. What'll you do if the enemy steals them?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 25
+   },
+   "notes": "Plural them refers to the two museum robots; Tapp warns of enemy seizure.",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i023b:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "That's part of why I'm planning to go pick it up right now, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 26
+   },
+   "notes": "It refers to Mazinger Z, which Koji is going to retrieve. Deliberate trailing but retained.",
+   "uncertain": []
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i023b:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "...Are you really sure about this, Koji?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 27
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "i023b:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What do you mean?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 28
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "i023b:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "The TFO was the very embodiment of your passion for space. And yet...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 29
+   },
+   "notes": "Daisuke worries Koji will abandon his space ambitions; deliberate unfinished transition retained.",
+   "uncertain": []
+  },
+  {
+   "id": 30,
+   "uses": [
+    "i023b:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What are you talking about, Daisuke? I'm not planning to throw the TFO away.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 30
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "i023b:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage06_campaign.json",
+    "id": 349
+   },
+   "notes": "Source nonverbal exclamation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "i023b:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'm just putting my dream of space exploration on hold.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 31
+   },
+   "notes": "Space exploration dream is postponed, not abandoned; original neighboring Daisuke ! is all-source31.",
+   "uncertain": []
+  },
+  {
+   "id": 33,
+   "uses": [
+    "i023b:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Besides, once this war is over, I plan to overhaul the TFO so it can fly to the ends of the universe.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 32
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "i023b:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Huh, so... that's the kind of dream you've got?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 33
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 35,
+   "uses": [
+    "i023b:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Is that so strange?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 34
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 36,
+   "uses": [
+    "i023b:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "No, no... A man's got to dream that big.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 35
+   },
+   "notes": "Source explicitly invokes manhood; masculine boast retained.",
+   "uncertain": []
+  },
+  {
+   "id": 37,
+   "uses": [
+    "i023b:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Heh heh, right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 36
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "i023b:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "You two talk a good game, considering you tried to peep into the bath together.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 37
+   },
+   "notes": "Tapp needles both Koji and Kaine about their bath-peeping attempt; no softening.",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "i023b:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Hey, how'd you find out about that?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 38
+   },
+   "notes": "Kaine reacts to Tapp knowing about the bath-peeping attempt. Draft added hell without explicit source support; removed during meaning audit, not for fit.",
+   "uncertain": []
+  },
+  {
+   "id": 40,
+   "uses": [
+    "i023b:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Roux told me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 39
+   },
+   "notes": "Roux spelling follows glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "i023b:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Th-that girl! She really did suspect us, didn't she!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 40
+   },
+   "notes": "She refers to Roux, explicitly sourced female in glossary. Stutter and accusation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 42,
+   "uses": [
+    "i023b:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "...Well then, Koji...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 41
+   },
+   "notes": "Daisuke deliberately trails off addressing Koji; unfinished connective retained.",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "i023b:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yeah. I'll restore peace with Mazinger Z's power... My dream comes after that.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 42
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 44,
+   "uses": [
+    "i023b:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "When that day comes, I'm counting on your help too, Daisuke, okay?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 43
+   },
+   "notes": "Koji requests Daisuke's future assistance, rather than offering his own.",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "i023b:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Of course I'll help.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 44
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 46,
+   "uses": [
+    "i023b:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Well then, Koji... Please be extra careful.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 45
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 47,
+   "uses": [
+    "i023b:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Don't you go wandering off on the way, okay?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 46
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "i023b:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I know, I know! All right, I'm off!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 47
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 49,
+   "uses": [
+    "s0230:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 50,
+   "uses": [
+    "s0230:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 51,
+   "uses": [
+    "s0230:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "s0230:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 53,
+   "uses": [
+    "s0230:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "s0230:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 55,
+   "uses": [
+    "s0230:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 56,
+   "uses": [
+    "s0230:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 57,
+   "uses": [
+    "s0230:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 58,
+   "uses": [
+    "s0230:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "s0230:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "s0230:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 61,
+   "uses": [
+    "s0230:12",
+    "s0230:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "s0230:13",
+    "s0230:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 63,
+   "uses": [
+    "s0230:14",
+    "s0230:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "s0230:15",
+    "s0230:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "s0230:16",
+    "s0230:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "s0230:17",
+    "s0230:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 67,
+   "uses": [
+    "s0230:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "s0230:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 69,
+   "uses": [
+    "s0230:20",
+    "s0230:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 70,
+   "uses": [
+    "s0230:21",
+    "s0230:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 71,
+   "uses": [
+    "s0230:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 72,
+   "uses": [
+    "s0230:24",
+    "s0230:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "s0230:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 74,
+   "uses": [
+    "s0230:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 75,
+   "uses": [
+    "s0230:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0230:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0230:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0230:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0230:32",
+    "s0230:33",
+    "s0230:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0230:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0230:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0230:36",
+    "s0230:37",
+    "s0230:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0230:39",
+    "s0230:40",
+    "s0230:174",
+    "s0230:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0230:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0230:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0230:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0230:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0230:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0230:46",
+    "s0230:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0230:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0230:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0230:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0230:50",
+    "s0230:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0230:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0230:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0230:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0230:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0230:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0230:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0230:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0230:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0230:59",
+    "s0230:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0230:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0230:61",
+    "s0230:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0230:62",
+    "s0230:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0230:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0230:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0230:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0230:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0230:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0230:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0230:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0230:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0230:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0230:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0230:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0230:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0230:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0230:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0230:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0230:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0230:79",
+    "s0230:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0230:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0230:81",
+    "s0230:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0230:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0230:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0230:84",
+    "s0230:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0230:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0230:86",
+    "s0230:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0230:87",
+    "s0230:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0230:88",
+    "s0230:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0230:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0230:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0230:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0230:92",
+    "s0230:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0230:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0230:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0230:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0230:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0230:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0230:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0230:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0230:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0230:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0230:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0230:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0230:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0230:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0230:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0230:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0230:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0230:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0230:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0230:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0230:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0230:113",
+    "s0230:114",
+    "s0230:115",
+    "s0230:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0230:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0230:117",
+    "s0230:161",
+    "s0230:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0230:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0230:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0230:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0230:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0230:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0230:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0230:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0230:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0230:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0230:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0230:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0230:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0230:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0230:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0230:132",
+    "s0230:133",
+    "s0230:134",
+    "s0230:156",
+    "s0230:188",
+    "s0230:189",
+    "s0230:190",
+    "s0230:191",
+    "s0230:192",
+    "s0230:193",
+    "s0230:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0230:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0230:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0230:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0230:138",
+    "s0230:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0230:139",
+    "s0230:148",
+    "s0230:152",
+    "s0230:154",
+    "s0230:164",
+    "s0230:165",
+    "s0230:198",
+    "s0230:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0230:140",
+    "s0230:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0230:141",
+    "s0230:142",
+    "s0230:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0230:143",
+    "s0230:149",
+    "s0230:153",
+    "s0230:155",
+    "s0230:162",
+    "s0230:163",
+    "s0230:199",
+    "s0230:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0230:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0230:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0230:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0230:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0230:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0230:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0230:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0230:160",
+    "s0230:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0230:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0230:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0230:206",
+    "s0230:422"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 0
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0230:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. TFO shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 48
+   },
+   "notes": "Plain defeat condition, paired with all-source192 enemy-annihilation victory condition.",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0230:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Ten more minutes to the Robot Museum. It's a bit of a detour, but I can't let the enemy spot me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 49
+   },
+   "notes": "Koji alone takes a detour to avoid detection on his way to Robot Museum.",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0230:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Still, they probably don't think the real Mazinger and Great are on display in a museum...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 50
+   },
+   "notes": "Mazinger and Great retain source shorthand; trailing speculation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0230:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 51
+   },
+   "notes": "Source nonverbal startled punctuation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0230:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Tch! The Vegan Empire!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 52
+   },
+   "notes": "Context follows the adjacent speakers in numeric use order; subject and action retained.",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0230:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Heh heh heh... A lone fly buzzing around a place like this, is it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 53
+   },
+   "notes": "Barendos contemptuously calls Koji a lone fly; taunt retained.",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0230:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Perfect... I'll capture him and make him tell me what he knows about Grendizer.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 54
+   },
+   "notes": "Him is Koji, the target identified in this event; capture/interrogation intent retained.",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0230:214"
+   ],
+   "kind": "thought",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "If I run away now, they might find out about the Robot Museum...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 55
+   },
+   "notes": "Thought: fleeing could reveal the museum; next original row201 confirms he must fight through.",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0230:215"
+   ],
+   "kind": "thought",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'll just have to find some way through this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 56
+   },
+   "notes": "Internal resolve after considering risk of exposing the Robot Museum.",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0230:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Grr! How dare you do this to me!! But I have Great's data now! Fwahahaha!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 57
+   },
+   "notes": "Great is the source-short form of Great Mazinger; defeat-event boast.",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0230:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Quit being such a sore loser!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 58
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0230:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Forgive me, Koji! This is the only way I can get Barendos to let his guard down!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 59
+   },
+   "notes": "Duke apologizes to Koji; he is deliberately provoking Barendos into lowering his guard.",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0230:219",
+    "s0230:320",
+    "s0230:333",
+    "s0230:363"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 308
+   },
+   "notes": "Listener: Daisuke/scene-specific listeners on repeats. Koji silence; retained in all uses, including later scene repeats.",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0230:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Feel the power of Great Mazinger for yourself!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 60
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0230:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "If only I can land a hit on its back!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 61
+   },
+   "notes": "Its back means Great Mazinger; later original354-360 settle the wing-storage vulnerability. Conditional wish remains open.",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0230:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "I'll defeat you without even using Great Mazinger!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 62
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0230:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Grendizer and I won't lose to a coward like you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 63
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0230:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'll pay you back double for everything you've done to me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 64
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0230:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Keep blabbing! I'll strike you down instead!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 65
+   },
+   "notes": "Meaning correction: makes the counterattack defeat explicit.",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0230:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Barendos! How dare you use such dirty tricks!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 66
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0230:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Damn... If things had gone as planned, I could have defeated Duke Fleed and Koji Kabuto in one fell swoop...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 67
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0230:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Heh... It looks like Planet Vega's Royal Guard Captain isn't much good at fighting for himself.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 68
+   },
+   "notes": "Sarcastic Royal Guard Captain title; Planet Vega preserved as explicit source place.",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0230:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Yeah. If he's trying to make us fight each other, he must have next to no confidence in his own strength.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 69
+   },
+   "notes": "Us/each other refers to allies being manipulated into friendly fire, not fighting among Vegan troops.",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0230:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You bastards... You've said enough!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 70
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0230:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Then come on, Barendos! Face me head-on, and someone like you is nothing to fear!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 71
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0230:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Too bad, old man! There's no way Mazinger Z is losing to a crook like you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 72
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0230:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Neither will Great Mazinger or Grendizer!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 73
+   },
+   "notes": "Answers Ginga: neither robot will lose. Restored predicate makes the source elliptical addition grammatical.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0230:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You little brats! I'll force those smart mouths of yours shut!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 74
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0230:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We won't let you! We can't let a coward like you get away with this either!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 75
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0230:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "He's using mind control on Koji to make us fight each other! What a filthy opponent...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 76
+   },
+   "notes": "Us/each other restores the allied friendly-fire participants. Meaning correction: restores Barendos as the subject of the mind-control action.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0230:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Say what you like! Victory is everything in battle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 77
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0230:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not a chance! We can't let you have that victory!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 78
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0230:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "For someone with your title, you sure seem to excel at sneaky little tricks!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 79
+   },
+   "notes": "Female lead mocks Barendos; runtime speaker placeholder preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0230:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You little girl! You dare mock me, the Captain of King Vega's Royal Guard!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 80
+   },
+   "notes": "Title explicitly names King Vega; not GEAR commander Vega.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0230:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "That's right! Tell him some more, #女愛称!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 81
+   },
+   "notes": "Male lead asks female lead to keep insulting Barendos; exact runtime placeholder retained.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0230:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "If you've got such a grand title, then show us a way of fighting worthy of it! You coward!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 82
+   },
+   "notes": "Female lead demands combat conduct worthy of title.",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0230:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Damn you... Damn yooou!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 83
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0230:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Whatever tricks you use, we have no intention of losing!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 84
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0230:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Heh! Don't think you can take the great Koji Kabuto down that easily!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 85
+   },
+   "notes": "Great is boastful self-address, not a robot name here.",
+   "uncertain": []
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0230:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hmph. Enjoy your cockiness while it lasts.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 86
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0230:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Deploy Saucer Beast Jinjin. Capture him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 87
+   },
+   "notes": "Barendos orders subordinate to deploy Jinjin and capture Koji.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0230:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Damn it, they've sent out a Saucer Beast!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 88
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0230:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Y-you bastard!! What the hell are you doing!? Let go! Let go of me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 89
+   },
+   "notes": "Koji addresses Jinjin; struggle/shouts preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0230:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hehehehe...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 90
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0230:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Ugh... Uuugh... Where am I...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 91
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0230:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Th-that's right... They captured me... Then am I inside Motherburn...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 92
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0230:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "That's right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 93
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0230:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Y-you're...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 94
+   },
+   "notes": "Deliberately unfinished recognition/question.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0230:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "I am Barendos... Captain of the Vegan Empire's Royal Guard...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 95
+   },
+   "notes": "Royal Guard Captain identity and Vegan Empire affiliation both preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0230:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Koji Kabuto, you can no longer escape. Give up and do as I say.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 96
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0230:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Don't screw with me! I'd never listen to the likes of you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 97
+   },
+   "notes": "Restores refusal to obey from preceding demand.",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0230:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Then you leave me no choice. ...Do it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 98
+   },
+   "notes": "Order to subordinate to activate coercion.",
+   "uncertain": []
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0230:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ星兵士",
+   "speaker_en": "Vegan Soldier",
+   "en": "Yes, sir!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 99
+   },
+   "notes": "Empty prefilled speaker resolved through campaign_terms speaker alias as Vegan Soldier.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0230:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Uwaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 100
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0230:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hehehe... Even if you won't talk, I only need to use that mind-control device.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 101
+   },
+   "notes": "Mind-control device is fictional coercion instrument, not an added mechanism.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0230:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What's this cheap trick you're pulling!? The great Koji won't fall for a trick like this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 102
+   },
+   "notes": "Great Koji preserves boastful self-reference.",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0230:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hmph, you fool. Don't you realize you've already fallen for it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 103
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0230:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Ugaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 104
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0230:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Koji Kabuto, however much you resist now, it's no use.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 105
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0230:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "U-uuugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 106
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0230:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Now, you're going to tell me about yourself and your comrades.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 107
+   },
+   "notes": "Plural you restored as Koji and comrades, matching request for group information.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0230:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Ugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 108
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0230:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "When and where did you first take part in battle?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 109
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0230:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I-I... Two years ago, I was attacked by Baron Ashura's Mechanical Beasts...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 110
+   },
+   "notes": "Stammer and trailing recollection preserved; sentence continues into111.",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0230:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I climbed into Mazinger Z... the invincible robot my grandpa built...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 111
+   },
+   "notes": "First-person action restored; invincible robot and grandfather attribution retained.",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0230:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "An invincible robot?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 112
+   },
+   "notes": "Barendos repeats the claim in source111, under forced interrogation.",
+   "uncertain": []
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0230:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yes... Whoever possesses Mazinger Z... can become a god or a devil...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 113
+   },
+   "notes": "Koji recites the god/devil maxim under mental coercion; pauses retained.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0230:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Oh, really... And then?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 114
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0230:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I fought Dr. Hell in Mazinger Z, and defeated him...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 115
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0230:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "What happened after that?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 116
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0230:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Then I... went to America to study flying saucers...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 117
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0230:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Meanwhile, Tetsuya... fought the Mycenae Empire in Great Mazinger... and drove them from the surface...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 118
+   },
+   "notes": "Tetsuya is the actor; surface means the surface world rather than extermination.",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0230:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "I see... And what became of Mazinger Z and Great Mazinger?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 119
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0230:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Those two... were put in the Robot Museum... as symbols of peace...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 120
+   },
+   "notes": "Interrogation answer trails off; restored passive verb for the settled museum placement.",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0230:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Then you met Duke Fleed and joined forces with him... Now, what fighting strength do you have?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 121
+   },
+   "notes": "Barendos asks about the allied combat strength, not simply the strength of an individual robot.",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0230:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "U-uuugh... Guh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 122
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0230:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ星兵士",
+   "speaker_en": "Vegan Soldier",
+   "en": "Captain, using the device any longer would be dangerous!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 123
+   },
+   "notes": "Filled blank speaker from campaign_terms speaker_aliases: Vegan Soldier.",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0230:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Tell me one last thing, Koji Kabuto. Where is this Robot Museum?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 124
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0230:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Sh-Shizuoka District, Atami...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 125
+   },
+   "notes": "Place-list answer is a deliberate fragment; no invented movement verb. Atami centrally verified by root against official JNTO.",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0230:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Heh heh heh, I see. So that's where these invincible robots are...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 126
+   },
+   "notes": "Museum referent settled; restored existential verb in a trailing revelation.",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0230:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "In that case, Koji Kabuto... I shall have you do some work for me, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 127
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0230:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "To defeat Grendizer and Duke Fleed...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 128
+   },
+   "notes": "Purpose clause continues127 across row boundary; retained deliberate fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0230:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Eris, have we still not heard from Koji?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 129
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0230:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "N-no... I also contacted the Earth Federation Army's radar sites, but they say there's no sign of the TFO...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 130
+   },
+   "notes": "Eris answers that no contact has arrived; explicit Army glossary form retained.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0230:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Do you think something really has happened to him?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 131
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0230:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Knowing Koji, he's probably taken a detour somewhere, hasn't he?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 132
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0230:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "A detour? Where would he go?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 133
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0230:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "How should I know?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 134
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0230:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Yeah, I guess you're right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 135
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0230:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Maybe you'd know? You two are buddies who tried to peek into the baths together, aren't you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 136
+   },
+   "notes": "Asuka addresses Kaine; their joint bath-peeping attempt is a callback, not a successful peek.",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0230:297"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Oh, c-crap... Word about that has gotten around.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 137
+   },
+   "notes": "Actual kind is thought; Kaine realizes the story spread.",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0230:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Oh, let me tell you one thing... If you peek while I'm taking a bath...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 138
+   },
+   "notes": "Conditional threat deliberately cuts at this row boundary; result is139.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0230:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Your nosebleed will shoot about four meters into the air, you know?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 139
+   },
+   "notes": "Four-meter nosebleed preserves exaggerated threat and the ensuing ambiguity.",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0230:300"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Would that be from seeing her, or from getting punched? Which is it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 140
+   },
+   "notes": "Actual kind is thought; both arousal and being punched remain possible.",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0230:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "So, where might Koji stop on a detour?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 141
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0230:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Hmm... Atami... Hot springs... Maybe he's at the sex...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 142
+   },
+   "notes": "Kaine speculates where Koji stopped; restored Koji subject/action. Kept venue word interrupted. Adult-museum allusion inferred from exchange and centrally sourced Atami Hihokan context.",
+   "uncertain": [
+    "Adult-museum allusion inferred: source only begins its secret-word prefix. English sex... is a contextual adaptation, not a literal lexical match; no venue name completed. Root verified Atami Hihokan adult-museum context with official operator."
+   ]
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0230:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "Even for him, isn't that a bit much?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 143
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0230:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Well, well, Misato... You knew just what I meant.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 144
+   },
+   "notes": "Kaine observes that Misato recognizes his insinuation.",
+   "uncertain": []
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0230:305"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "What's this 'sex...' thing?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 145
+   },
+   "notes": "Ginga repeats the identical interrupted word from142; venue remains unnamed.",
+   "uncertain": [
+    "Adult-museum allusion inferred: source only begins its secret-word prefix. English sex... is a contextual adaptation, not a literal lexical match; no venue name completed. Root verified Atami Hihokan adult-museum context with official operator."
+   ]
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0230:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I-I don't know?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 146
+   },
+   "notes": "Hokuto is hesitant; restored first-person response rather than omission.",
+   "uncertain": []
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0230:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "You kids don't need to know. Anyway, about Koji... Given where he's headed, I've got a bad feeling.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 147
+   },
+   "notes": "Misato addresses the children then returns to Koji; destination causes her unease.",
+   "uncertain": []
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0230:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Yes... Maybe we should send out a search party.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 148
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0230:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Then I'll go. Captain, may I?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 149
+   },
+   "notes": "Daisuke volunteers and asks Bright for permission, not for Bright to go.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0230:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "Yes. Contact us right away if anything happens.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 150
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0230:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Understood.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 542
+   },
+   "notes": "Daisuke to Genzo; formal assent. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Retained source fragment/continuation: Understood is conventional full acknowledgement.",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0230:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "That's the Robot Museum...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 151
+   },
+   "notes": "Route event11 begins here; retain Duke label after Daisuke label in preceding ship scene.",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0230:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "So Mazinger Z and Great Mazinger are in there.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 152
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0230:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "But it looks like Koji hasn't arrived yet. Where on earth could he be...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 153
+   },
+   "notes": "Restored Koji subject in the unfinished whereabouts question.",
+   "uncertain": []
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0230:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "What!? The Vegan Empire forces!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 154
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0230:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Mwahahaha! Duke Fleed, how convenient that you've come alone!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 155
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0230:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Barendos! Why are you in Great Mazinger!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 156
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0230:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Heh heh heh... I got him to tell me where this museum was.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 157
+   },
+   "notes": "Him is Koji, as settled by interrogation and the next reveal.",
+   "uncertain": []
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0230:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "What!? D-don't tell me...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 158
+   },
+   "notes": "Duke begins an alarmed inference; deliberate interruption retained.",
+   "uncertain": []
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0230:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "M-Mazinger Z! And Koji! They captured you!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 159
+   },
+   "notes": "Duke addresses captured Koji directly after spotting him with Mazinger Z.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0230:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "That's right. Now, Duke Fleed... If you value Koji Kabuto's life, hand over Grendizer!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 160
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0230:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "What did you say!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 161
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0230:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Koji Kabuto is entirely under my control now... With a single command, I can make him do anything.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 162
+   },
+   "notes": "Single-command absolute control claim concerns Koji, not Grendizer.",
+   "uncertain": []
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0230:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "If you want to save your friend's life, get out of Grendizer this instant.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 163
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0230:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Damn you and your cowardly tricks!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 164
+   },
+   "notes": "Speaker/listener and referents settled from original route neighbors.",
+   "uncertain": []
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0230:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Say whatever you like. Depending on how you behave...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 165
+   },
+   "notes": "Threat is deliberately left incomplete and illustrated by intervening Koji reaction.",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0230:328",
+    "s0230:382",
+    "s0230:395"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage03_campaign.json",
+    "id": 461
+   },
+   "notes": "Pure shock punctuation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0230:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "K-Koji!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 166
+   },
+   "notes": "K-Koji maps the Japanese name stutter to the English short name.",
+   "uncertain": []
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0230:330"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "He will suffer just like that. Now... What will you do, Duke Fleed?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 167
+   },
+   "notes": "Koji suffers from the command; Barendos resumes his question to Duke after the reaction.",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0230:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Ghh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 168
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0230:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "...If I give them Grendizer... this green planet will suffer the same fate as Planet Fleed...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 169
+   },
+   "notes": "Duke chooses Earth over surrendering Grendizer; this green planet is Earth.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0230:334"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Forgive me, Koji...! I... I...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 170
+   },
+   "notes": "Deliberate repeated I trails off before stating his choice.",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0230:335"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Fwahahahaha! So you made the choice I expected!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 171
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0230:336"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Of course you would... You're the man who left your fellow people on Planet Fleed to die and fled to Earth...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 172
+   },
+   "notes": "Barendos accuses Duke of abandoning the people of Fleed; accusation is retained as speech, not asserted narrative.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0230:337"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Yes! You're the man who abandoned even your only sister!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 173
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0230:338",
+    "s0230:347"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 174
+   },
+   "notes": "Wordless shock at both uses, s0230:338 and :347.",
+   "uncertain": []
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0230:339"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "That's how you live your life, Duke Fleed!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 175
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0230:340"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "And now Koji Kabuto is about to become another of your victims! You're willing to accept that!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 176
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0230:341"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Ghh... ugh...! Grendizer...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 177
+   },
+   "notes": "Duke starts a statement about Grendizer; Barendos interrupts with row178.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0230:342"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Grendizer... what?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 178
+   },
+   "notes": "Explicit Grendizer topic retained; deliberately incomplete source question echoed.",
+   "uncertain": []
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0230:343"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I won't hand my Grendizer... over to devils like you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 179
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0230:344"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Admirable resolve, even in an enemy. But you must pay for everything you've done.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 180
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0230:345"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Pay for it...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 181
+   },
+   "notes": "Echo question refers to Barendos saying Duke must pay in180.",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0230:346"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "That's right. Die here at the hands of the friend you abandoned!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 182
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0230:348"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Now, Koji Kabuto... defeat Duke Fleed. With that invincible demon of yours, fwahaha!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 183
+   },
+   "notes": "Demon renders majin literally in Barendos mockery; later god/devil exchange confirms wordplay.",
+   "uncertain": [
+    "Literal demon for majin preserves the later god/devil wordplay; English cannot reproduce the Mazinger/majin sound association."
+   ]
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0230:349"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Understood... I'll... defeat Duke Fleed...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 184
+   },
+   "notes": "Restored I for Koji obeying the command to defeat Duke.",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0230:350"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "K-Koji...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 185
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0230:351"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Let me tell you one thing, Duke Fleed. If you lose your senses and try to defeat me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 186
+   },
+   "notes": "Conditional threat deliberately continues into187.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0230:352"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You can expect Koji Kabuto to die on the spot.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 187
+   },
+   "notes": "Completes186 threat: Barendos will kill Koji if Duke attacks him.",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0230:353"
+   ],
+   "kind": "thought",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Damn it...! But there must be a chance...! There has to be!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 188
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0230:354",
+    "s0230:359"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Cut Mazinger Z HP to 60% or less; persuade Koji",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 189
+   },
+   "notes": "Win objective repeated unchanged at354 and359; persuade is the game action. Measured draft overflow 449px; cut replaces reduce and Koji abbreviates Koji Kabuto. Both threshold and persuade action retained; final 329px.",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0230:355",
+    "s0230:360"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Grendizer is shot down@2. Great Mazinger takes damage@3. Mazinger Z is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 190
+   },
+   "notes": "Loss conditions repeated unchanged at355 and360; preserve all three segments.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0230:356"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...I'll... defeat Duke Fleed...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 191
+   },
+   "notes": "Restored I for brainwashed Koji obeying183.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0230:357"
+   ],
+   "kind": "thought",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "There must be a chance for me to save Koji...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 192
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0230:358"
+   ],
+   "kind": "thought",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "If I can just exploit an opening in Mazinger and break the mind control!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 193
+   },
+   "notes": "Deliberate conditional exclamation; restored I and both exploit-opening and break-control actions.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0230:361"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hm!? What is that wretch doing!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 194
+   },
+   "notes": "That wretch refers to Duke attempting to persuade Koji.",
+   "uncertain": []
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0230:362"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Koji! Koji, pull yourself together!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 195
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0230:364"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Barendos is controlling you! Come to your senses, Koji!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 196
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0230:365"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...U-ugh... ugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 197
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0230:366"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Damn it, is it no use!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 198
+   },
+   "notes": "Is it no use refers to Duke failing to bring Koji back to his senses.",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0230:367"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You fool! The mind-control transmitter is here with me! Until you destroy it, Koji Kabuto will never come to his senses!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 199
+   },
+   "notes": "Transmitter is with Barendos, not in Koji; its destruction is the stated condition for recovery.",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0230:368"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Heh... hehehehe.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 200
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0230:369"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "What's so funny!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 201
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s0230:370"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I owe you my thanks, Barendos! You've told me how to save Koji!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 202
+   },
+   "notes": "Duke thanks the enemy for inadvertently revealing the rescue method.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s0230:371"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Tch, damn it...! But can you defeat this Great Mazinger!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 203
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "s0230:372"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Great Mazinger... the great hero that defeated Mycenae...! It's certainly a formidable foe...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 204
+   },
+   "notes": "Mycenae uses glossary Mycenae Empire stem without adding Empire absent source.",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "s0230:373"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Hehehe, I'll snuff out your life with my own hands!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 205
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 354,
+   "uses": [
+    "s0230:374"
+   ],
+   "kind": "thought",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Great Mazinger will be a valuable asset to our forces... So I can't destroy it...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 206
+   },
+   "notes": "Our forces refers to Duke and allies; retain value of captured Great Mazinger and decision not to destroy it.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "s0230:375"
+   ],
+   "kind": "thought",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I have to find some way to stop it from moving!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 207
+   },
+   "notes": "It is Great Mazinger; Duke seeks immobilization without destruction.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "s0230:376"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Th-the wings'...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 208
+   },
+   "notes": "Deliberate incomplete stammer;209 supplies wing storage compartment.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "s0230:377"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage02_campaign.json",
+    "id": 711
+   },
+   "notes": "Bare surprise/interrogation symbols retained.",
+   "uncertain": []
+  },
+  {
+   "id": 358,
+   "uses": [
+    "s0230:378"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...The wings'... storage compartment...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 209
+   },
+   "notes": "Deliberate fragment answering207; does not invent an attack or mechanism.",
+   "uncertain": []
+  },
+  {
+   "id": 359,
+   "uses": [
+    "s0230:379"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Koji!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 210
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 360,
+   "uses": [
+    "s0230:380"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...If you damage Great there... for just a moment... all its functions will...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 211
+   },
+   "notes": "Koji is interrupted before the predicate for all functions; retain incomplete ending rather than add shutdown.",
+   "uncertain": []
+  },
+  {
+   "id": 361,
+   "uses": [
+    "s0230:381"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You had to open your mouth! Has the mind control worn off!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 212
+   },
+   "notes": "Barendos reacts to Koji divulging the weak point.",
+   "uncertain": []
+  },
+  {
+   "id": 362,
+   "uses": [
+    "s0230:383"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Koji...! Hang on. I'll save you right away!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 213
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 363,
+   "uses": [
+    "s0230:384"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Reduce Great Mazinger's HP to 30% or less",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 214
+   },
+   "notes": "New win objective after weak-point revelation.",
+   "uncertain": []
+  },
+  {
+   "id": 364,
+   "uses": [
+    "s0230:385"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Grendizer is shot down@2. Mazinger Z is shot down@3. Great Mazinger is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 215
+   },
+   "notes": "New loss conditions allow damage to Great but prohibit shooting it down.",
+   "uncertain": []
+  },
+  {
+   "id": 365,
+   "uses": [
+    "s0230:386"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Damn it, my back!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 216
+   },
+   "notes": "Interrupted cry as Duke attacks the rear weak point.",
+   "uncertain": []
+  },
+  {
+   "id": 366,
+   "uses": [
+    "s0230:387"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Now! Koji, come to your senses!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 217
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 367,
+   "uses": [
+    "s0230:388"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Ugh... uuugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 218
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 368,
+   "uses": [
+    "s0230:389"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "I told you, Duke Fleed! It's impossible unless you destroy the device!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 219
+   },
+   "notes": "It refers to restoring Koji to his senses, as explained in199.",
+   "uncertain": []
+  },
+  {
+   "id": 369,
+   "uses": [
+    "s0230:390"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Pull yourself together, Koji! You should be able to fight off his mind control!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 220
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 370,
+   "uses": [
+    "s0230:391"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Uugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 221
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 371,
+   "uses": [
+    "s0230:392"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "You fought Dr. Hell in Mazinger Z and won with your own hands! You can do it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 222
+   },
+   "notes": "Restored you can do it for source conditional encouragement; predicate supplied by220 and ongoing appeal to Koji.",
+   "uncertain": []
+  },
+  {
+   "id": 372,
+   "uses": [
+    "s0230:393"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Ghh... uuugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 223
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 373,
+   "uses": [
+    "s0230:394"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Or are you going to turn that Mazinger Z into a messenger of evil!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 224
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 374,
+   "uses": [
+    "s0230:396"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Are you going to turn the Mazinger that's fought beside you into a real demon god!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 225
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 375,
+   "uses": [
+    "s0230:397"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "U... Ugh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 226
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 376,
+   "uses": [
+    "s0230:398"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Uoooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 227
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 377,
+   "uses": [
+    "s0230:399"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "W-what!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 228
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 378,
+   "uses": [
+    "s0230:400"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Koji...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 229
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 379,
+   "uses": [
+    "s0230:401"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "...Sorry, Duke Fleed. I almost forgot something really important...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 230
+   },
+   "notes": "Koji apologizes to Duke after breaking the mind control; next row specifies what he nearly forgot.",
+   "uncertain": []
+  },
+  {
+   "id": 380,
+   "uses": [
+    "s0230:402"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "That Mazinger Z isn't a messenger of evil... It's a messenger of peace...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 231
+   },
+   "notes": "Continues the content of the important thing in row230.",
+   "uncertain": []
+  },
+  {
+   "id": 381,
+   "uses": [
+    "s0230:403"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "You fool! Weren't you the one who said that machine could make you a god or a devil!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 232
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 382,
+   "uses": [
+    "s0230:404"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Shut up! I don't want to be a god or a devil!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 233
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 383,
+   "uses": [
+    "s0230:405"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 234
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 384,
+   "uses": [
+    "s0230:406"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'm Koji Kabuto! Being the pilot of Mazinger Z, the defender of peace, is enough for me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 235
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 385,
+   "uses": [
+    "s0230:407"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Y-you bastard...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 236
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 386,
+   "uses": [
+    "s0230:408"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Koji!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 237
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 387,
+   "uses": [
+    "s0230:409"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Yeah! I'll teach that bastard how to use a Mazinger!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 238
+   },
+   "notes": "That bastard is Barendos; explicit subject and instructional direction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 388,
+   "uses": [
+    "s0230:410"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "And we'll get Tetsuya's Great back!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 239
+   },
+   "notes": "Great is the source short form for Tetsuya's Great Mazinger.",
+   "uncertain": []
+  },
+  {
+   "id": 389,
+   "uses": [
+    "s0230:411"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "With this...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 240
+   },
+   "notes": "Deliberately unfinished demonstrative during the attack; action not invented.",
+   "uncertain": []
+  },
+  {
+   "id": 390,
+   "uses": [
+    "s0230:412"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "How do you like that, Barendos!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 241
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 391,
+   "uses": [
+    "s0230:413"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "G-grr! Then I'll have to escape!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 242
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 392,
+   "uses": [
+    "s0230:414"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Heh! The bastard ditched the Great and ran!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 243
+   },
+   "notes": "Koji initially mistakes Barendos's escape for retreat; Duke corrects him next.",
+   "uncertain": []
+  },
+  {
+   "id": 393,
+   "uses": [
+    "s0230:415"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "No, that's not what happened!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 244
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 394,
+   "uses": [
+    "s0230:416"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 245
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 395,
+   "uses": [
+    "s0230:417"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Then I'll bury Grendizer along with Mazinger Z!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 246
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 396,
+   "uses": [
+    "s0230:418"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Tch! He's sending out Saucer Beasts in droves!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 247
+   },
+   "notes": "Barendos deploys many Saucer Beasts; explicit agent restored.",
+   "uncertain": []
+  },
+  {
+   "id": 397,
+   "uses": [
+    "s0230:419"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "The Nahel Argama! You've come to help!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 248
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 398,
+   "uses": [
+    "s0230:420"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミサト",
+   "speaker_en": "Misato",
+   "en": "All units, launch immediately! Cover Grendizer and Mazinger Z!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 249
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 399,
+   "uses": [
+    "s0230:421"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "All right, begin the attack!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 250
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 400,
+   "uses": [
+    "s0230:423"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Allied mothership is shot down.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 1
+   },
+   "notes": "Player; defeat objective; allied carrier condition. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 401,
+   "uses": [
+    "s0230:424"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トーレス",
+   "speaker_en": "Torres",
+   "en": "The enemy signals have disappeared.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 251
+   },
+   "notes": "Collective enemy signals disappear after the annihilation objective, reported to Bright.",
+   "uncertain": []
+  },
+  {
+   "id": 402,
+   "uses": [
+    "s0230:425"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "That was a close call...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 252
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 403,
+   "uses": [
+    "s0230:426"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダグラス",
+   "speaker_en": "Douglas",
+   "en": "Yes. If things had gone wrong, the Vegan Empire could have stolen Mazinger.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 253
+   },
+   "notes": "Douglas answers Bright about the close call. Mazinger is the unexpanded source short reference.",
+   "uncertain": [
+    "The source does not specify Z versus Great here; retain Mazinger without choosing a specific unit or explicit plural."
+   ]
+  },
+  {
+   "id": 404,
+   "uses": [
+    "s0230:427"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Ta-da! Sorry to keep you waiting, everyone! Borot has arrived!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 254
+   },
+   "notes": "Borot is the source short form of Boss Borot; spoken entrance fanfare.",
+   "uncertain": []
+  },
+  {
+   "id": 405,
+   "uses": [
+    "s0230:428"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Boss! And Sayaka, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 255
+   },
+   "notes": "Deliberate names-only greeting.",
+   "uncertain": []
+  },
+  {
+   "id": 406,
+   "uses": [
+    "s0230:429"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Koji, it looks like you made it into Mazinger Z safely.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 407,
+   "uses": [
+    "s0230:430"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Heh heh! Well, a lot happened along the way.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 408,
+   "uses": [
+    "s0230:431"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Mazinger Z really does suit you, Koji.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 409,
+   "uses": [
+    "s0230:432"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Hey, the TFO suits me too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 259
+   },
+   "notes": "Koji says the TFO suits him too, answering Sayaka rather than praising the TFO generally.",
+   "uncertain": []
+  },
+  {
+   "id": 410,
+   "uses": [
+    "s0230:433"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Kabuto! Where's the enemy? Where!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 260
+   },
+   "notes": "Boss uses Koji's surname; repetition retained.",
+   "uncertain": []
+  },
+  {
+   "id": 411,
+   "uses": [
+    "s0230:434"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヌケ",
+   "speaker_en": "Nuke",
+   "en": "Boss, it looks like the battle's already over.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 412,
+   "uses": [
+    "s0230:435"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ムチャ",
+   "speaker_en": "Mucha",
+   "en": "Looks like we were late getting here this time.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 413,
+   "uses": [
+    "s0230:436"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Aw, man... And we hurried all the way here, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 414,
+   "uses": [
+    "s0230:437"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Come on, Boss. Just knowing you wanted to help means a lot to me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 415,
+   "uses": [
+    "i023a:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Thanks for coming, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 416,
+   "uses": [
+    "i023a:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "I'm glad to see you're doing well too, Koji.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 417,
+   "uses": [
+    "i023a:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Heh! Now that we're here, you can relax like you're aboard a big, sturdy ship.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 267
+   },
+   "notes": "Retains the big safe ship image so Mucha's mud-boat rebuttal still works.",
+   "uncertain": []
+  },
+  {
+   "id": 418,
+   "uses": [
+    "i023a:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ムチャ",
+   "speaker_en": "Mucha",
+   "en": "Maybe you mean a boat made of mud.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 268
+   },
+   "notes": "Mud/clay boat is an unsafe counterimage to the large ship. Ignore stray source closing wrapper and @ tail, as brief directs.",
+   "uncertain": []
+  },
+  {
+   "id": 419,
+   "uses": [
+    "i023a:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヌケ",
+   "speaker_en": "Nuke",
+   "en": "I feel like we had this same conversation about a year ago.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 269
+   },
+   "notes": "Nuke recalls an earlier conversation; no invented specification of which prior game/event.",
+   "uncertain": []
+  },
+  {
+   "id": 420,
+   "uses": [
+    "i023a:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "What? Is this another Three Idiots Trio?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 270
+   },
+   "notes": "Glossary Three Idiots Trio nickname applied to the newly arrived Boss/Nuke/Mucha trio.",
+   "uncertain": []
+  },
+  {
+   "id": 421,
+   "uses": [
+    "i023a:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Come to think of it, we've got a lot of trios this time.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 422,
+   "uses": [
+    "i023a:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "A lot...? It's just you guys and the Getter team, isn't it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 272
+   },
+   "notes": "Asuka addresses Kaine; Getter team preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 423,
+   "uses": [
+    "i023a:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "You and your friends count too, Asuka, don't you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 273
+   },
+   "notes": "Akira includes Asuka and the EVA pilots in the count.",
+   "uncertain": []
+  },
+  {
+   "id": 424,
+   "uses": [
+    "i023a:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Why do we count?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 425,
+   "uses": [
+    "i023a:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Well, look. Zero, One, Two. That makes three of you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 275
+   },
+   "notes": "Zero/One/Two are EVA unit numbers; three pilots remain explicit.",
+   "uncertain": []
+  },
+  {
+   "id": 426,
+   "uses": [
+    "i023a:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Yeah, exactly.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 427,
+   "uses": [
+    "i023a:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "D-don't lump me in with that idiot Shinji and the First!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 277
+   },
+   "notes": "First is Asuka's shortened First Child label for Rei; source insult and stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 428,
+   "uses": [
+    "i023a:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "...By the way, is there a guy named Daisuke Umon here?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 278
+   },
+   "notes": "Boss asks for Duke under his Daisuke Umon alias, preserved rather than normalized to Duke.",
+   "uncertain": []
+  },
+  {
+   "id": 429,
+   "uses": [
+    "i023a:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "That's me, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 279
+   },
+   "notes": "Daisuke identifies himself; source trailing hesitation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 430,
+   "uses": [
+    "i023a:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Hey! You lucky devil, you ladies' man!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 280
+   },
+   "notes": "Boss affectionately teases Daisuke about Hikaru; not literal hostility.",
+   "uncertain": []
+  },
+  {
+   "id": 431,
+   "uses": [
+    "i023a:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "A ladies' man?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 281
+   },
+   "notes": "Repeats the epithet as an incredulous question; deliberate fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 432,
+   "uses": [
+    "i023a:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "...Come on in, Hikaru.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 433,
+   "uses": [
+    "i023a:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage06_campaign.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 434,
+   "uses": [
+    "i023a:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "Hikaru...! What are you doing on the Nahel Argama...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 283
+   },
+   "notes": "Restored Daisuke asking why Hikaru is aboard the ship.",
+   "uncertain": []
+  },
+  {
+   "id": 435,
+   "uses": [
+    "i023a:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Starting today, I'll be fighting alongside you all, Daisuke.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 436,
+   "uses": [
+    "i023a:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "What...?! No! Go back to the laboratory at once!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 437,
+   "uses": [
+    "i023a:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "No. I...made up my mind during Operation Yashima. I wanted to help you all, Daisuke...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 286
+   },
+   "notes": "Hikaru asks to help Daisuke and his companions; her resolve dates to Operation Yashima.",
+   "uncertain": []
+  },
+  {
+   "id": 438,
+   "uses": [
+    "i023a:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Hikaru's amazing. She went through tough training at the Photon Power Laboratory, and now she's a fully qualified pilot.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 439,
+   "uses": [
+    "i023a:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "W-when did all that happen...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 288
+   },
+   "notes": "Restored question verb; surprise at previously unknown training.",
+   "uncertain": []
+  },
+  {
+   "id": 440,
+   "uses": [
+    "i023a:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "But, Hikaru... Having a woman like you fight...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 289
+   },
+   "notes": "Preserved unfinished objection and explicitly sexist premise.",
+   "uncertain": []
+  },
+  {
+   "id": 441,
+   "uses": [
+    "i023a:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "How old-fashioned~. Then what does that make us?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 442,
+   "uses": [
+    "i023a:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "But she wasn't destined to fight. There's no need for her to deliberately put herself in danger...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 291
+   },
+   "notes": "Preserved unfinished danger objection.",
+   "uncertain": []
+  },
+  {
+   "id": 443,
+   "uses": [
+    "i023a:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "...When someone chooses to fight, being a man or a woman makes no difference.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 292
+   },
+   "notes": "Domon addresses Daisuke; gender does not distinguish willing fighters.",
+   "uncertain": []
+  },
+  {
+   "id": 444,
+   "uses": [
+    "i023a:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "If you're worried about her, why don't you protect her yourself?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 445,
+   "uses": [
+    "i023a:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": ".........",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 250
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 446,
+   "uses": [
+    "i023a:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Please, Daisuke. Let me help, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 294
+   },
+   "notes": "Request runs from Hikaru to Daisuke, asking permission to help.",
+   "uncertain": []
+  },
+  {
+   "id": 447,
+   "uses": [
+    "i023a:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "大介",
+   "speaker_en": "Daisuke",
+   "en": "...All right. I'll accept your help, Hikaru.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 295
+   },
+   "notes": "Daisuke accepts Hikaru's help.",
+   "uncertain": []
+  },
+  {
+   "id": 448,
+   "uses": [
+    "i023a:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Heh heh, that settles that.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 449,
+   "uses": [
+    "i023a:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "You've got some nerve saying that when you're the one who started all this trouble.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 297
+   },
+   "notes": "Asuka addresses Koji, holding him responsible for the preceding incident.",
+   "uncertain": []
+  },
+  {
+   "id": 450,
+   "uses": [
+    "i023a:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'll work hard in Mazinger Z and make up for it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 451,
+   "uses": [
+    "i023a:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Then let's see what the original Super Robot can do.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 452,
+   "uses": [
+    "i023a:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Oh, right... Koji. Shiro gave me something to bring you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 453,
+   "uses": [
+    "i023a:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Huh? From Shiro?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 454,
+   "uses": [
+    "i023a:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Here you go. The pilot suit and helmet you used to wear.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 302
+   },
+   "notes": "Suit and helmet belong to Koji, not Shiro.",
+   "uncertain": []
+  },
+  {
+   "id": 455,
+   "uses": [
+    "i023a:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "This takes me back... They're full of memories of all the battles I fought alongside Mazinger.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 456,
+   "uses": [
+    "i023a:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Shiro polished them until they gleamed every single day, you know?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 457,
+   "uses": [
+    "i023a:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "What will you do, Koji? Which will you wear...your current suit or your old one?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 458,
+   "uses": [
+    "i023a:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Let's see...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 459,
+   "uses": [
+    "i023a:44"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "@\"Mazinger Z pilot suit\"@\"TFO pilot suit\"",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 307
+   },
+   "notes": "Choice UI: empty first segment and exactly two @ separators preserved; quotation marks are visible choice labels.",
+   "uncertain": []
+  },
+  {
+   "id": 460,
+   "uses": [
+    "i023a:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Then I'll take the Mazinger Z suit. I've worn it for years, so I'm attached to it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 308
+   },
+   "notes": "First choice branch: Koji selects his old Mazinger Z suit.",
+   "uncertain": []
+  },
+  {
+   "id": 461,
+   "uses": [
+    "i023a:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "I'll stick with my current one. I want to keep those memories safe.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 309
+   },
+   "notes": "Second choice branch: current TFO suit; protects old memories rather than rejecting them.",
+   "uncertain": []
+  },
+  {
+   "id": 462,
+   "uses": [
+    "i023a:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "All right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 463,
+   "uses": [
+    "i023a:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Well, I'm counting on you all from here on out, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 311
+   },
+   "notes": "Koji requests continued support from the group; request direction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 464,
+   "uses": [
+    "i023a:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "I see. So both Mazinger Z and Great came through safely?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 465,
+   "uses": [
+    "i023a:50"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Yes, thanks to your son Koji and Daisuke Umon.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 313
+   },
+   "notes": "Restored predicate in response to Kenzo about safe recovery.",
+   "uncertain": []
+  },
+  {
+   "id": 466,
+   "uses": [
+    "i023a:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "I understand. Thank you for taking the trouble to let me know.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 467,
+   "uses": [
+    "i023a:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "By the way...how is that machine Genzo Umon asked you to build coming along?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 315
+   },
+   "notes": "Restored progress-question verb; fixed glossary spelling Genzo Umon.",
+   "uncertain": []
+  },
+  {
+   "id": 468,
+   "uses": [
+    "i023a:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "The new Spazer, you mean. We're currently installing its outer armor at our laboratory.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 469,
+   "uses": [
+    "i023a:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "Once that's finished, we plan to send it back to the Institute of Space Science.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 470,
+   "uses": [
+    "i023a:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "An Earth-built Spazer created by you, Genzo Umon and me... I can hardly wait for it to be finished.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 318
+   },
+   "notes": "All three researchers retained; Genzo Umon spelling follows protected glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 471,
+   "uses": [
+    "i023a:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "Yes. Once we can deploy it in battle, it should help Koji, Daisuke and the others.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 319
+   },
+   "notes": "Stray trailing source close-quote/@ ignored per brief.",
+   "uncertain": []
+  },
+  {
+   "id": 472,
+   "uses": [
+    "i023a:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弓教授",
+   "speaker_en": "Professor Yumi",
+   "en": "Well, until next time...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 473,
+   "uses": [
+    "i023a:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Director...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 321
+   },
+   "notes": "Hidden source speaker remains ??? despite next line establishing identity.",
+   "uncertain": []
+  },
+  {
+   "id": 474,
+   "uses": [
+    "i023a:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "Tetsuya, should you really be out of bed?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 475,
+   "uses": [
+    "i023a:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Please let me go. I can't leave Koji, Ryo and the others to do all the fighting.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 323
+   },
+   "notes": "Source nickname Ryo centrally confirmed from SRW Wiki; same Ryoma Nagare identity, not the separate Apocrypha character. Tetsuya requests Kenzo permit deployment.",
+   "uncertain": []
+  },
+  {
+   "id": 476,
+   "uses": [
+    "i023a:61"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "No.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 477,
+   "uses": [
+    "i023a:62"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Director!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 478,
+   "uses": [
+    "i023a:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "We plan to correct Great's weaknesses and install a new weapon at the same time.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 326
+   },
+   "notes": " New weapon treated as singular, settled by Jun's reaction at330.",
+   "uncertain": []
+  },
+  {
+   "id": 479,
+   "uses": [
+    "i023a:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "And to master it, you must be in perfect physical condition yourself.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 327
+   },
+   "notes": " New weapon treated as singular, settled by Jun's reaction at330.",
+   "uncertain": []
+  },
+  {
+   "id": 480,
+   "uses": [
+    "i023a:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "My physical condition...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 328
+   },
+   "notes": "Deliberate echo question fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 481,
+   "uses": [
+    "i023a:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "That's right. In your current condition, the shock of using it could make you pass out.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 329
+   },
+   "notes": " New weapon treated as singular, settled by Jun's reaction at330.",
+   "uncertain": []
+  },
+  {
+   "id": 482,
+   "uses": [
+    "i023a:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "To think even Tetsuya, with all his rigorous training, would struggle to master a weapon like that...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 330
+   },
+   "notes": "Jun's trailing astonishment preserved as an unfinished sentence.",
+   "uncertain": []
+  },
+  {
+   "id": 483,
+   "uses": [
+    "i023a:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 331
+   },
+   "notes": "Deliberate silence retained.",
+   "uncertain": []
+  },
+  {
+   "id": 484,
+   "uses": [
+    "i023a:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "Tetsuya, I understand you're eager to return...but your mission right now is to focus on rehabilitation.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 485,
+   "uses": [
+    "i023a:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "That's right, Tetsuya. You'll definitely make a comeback...and that day isn't far off.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 486,
+   "uses": [
+    "i023a:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "...All right. But, Director...please hurry with Great's upgrades, will you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 334
+   },
+   "notes": "Tetsuya requests Kenzo hurry repairs.",
+   "uncertain": []
+  },
+  {
+   "id": 487,
+   "uses": [
+    "i023a:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "剣造",
+   "speaker_en": "Kenzo",
+   "en": "Yes. You can count on me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 335
+   },
+   "notes": "Kenzo offers assurance to Tetsuya; direction differs from Koji's request at311.",
+   "uncertain": []
+  },
+  {
+   "id": 488,
+   "uses": [
+    "i023a:73"
+   ],
+   "kind": "thought",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Wait for me, Koji, Ryo... I'll definitely make a comeback and fight alongside you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage10_campaign.json",
+    "id": 336
+   },
+   "notes": "Source nickname Ryo centrally confirmed from SRW Wiki; same Ryoma Nagare identity, not the separate Apocrypha character. Thought kind; Tetsuya silently addresses Koji and Ryo.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 10,
+  "fingerprint": "98d2f1f23bb7564e4c177e2fd6eaeb9e6ddc7550f7be1fadad025db9169c43fd",
+  "reviewed_reused_ids": [
+   31,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   205,
+   297,
+   313,
+   357,
+   400,
+   433,
+   445
+  ],
+  "reviewed_reused_rows": 152,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Reviewed all 152 reused rows:143 generic defeat rows match Stage9 exactly;9 other original numeric-use neighborhoods retain reactions, silence and mission conditions without new referents. Reviewed four fresh uncertainties against neighbors: interrupted Atami adult-museum allusion, majin wordplay and unspecified Mazinger. All 337 final rows fit; one measured objective overflow189 shortened while retaining HP60% inclusive threshold and persuasion order. Ryo nickname confirmed and initial drafts retained."
+ },
+ "full_checks": {
+  "rows": 489,
+  "uses": 560,
+  "problems": []
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "terms": [
+  {"jp":"ちょうちんゴリラ","en":"lantern-faced gorilla","sources":["work/translation/en/script/stage22_campaign.json","https://srw.wiki.cre.jp/wiki/ゴル"],"notes":"Source mocking nickname targeting Gol, independently attested in Japanese character profile. No exact Akurasu epithet or licensed English label found. Lantern and gorilla images are retained; interpreting the lantern image as facial appearance remains an explicit localization inference, not an anatomical fact."},
+  {"jp":"白き流星","en":"White Shooting Star","sources":["work/translation/en/script/stage22_campaign.json","https://srw.wiki.cre.jp/wiki/アムロ","https://gundam.fandom.com/wiki/Amuro_Ray"],"notes":"Amuro's Federation epithet: Japanese SRW profile confirms source phrase and Gundam Wiki lists corresponding English alias. No exact Akurasu epithet entry located; independent licensed English provenance unestablished. Do not substitute White Devil or White Unicorn or import profile events."}
+ ]
+}

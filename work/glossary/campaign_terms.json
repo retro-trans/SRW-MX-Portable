@@ -1,0 +1,3550 @@
+{
+ "_comment": "Source-backed additions and source-label aliases found during the stages 1-30 campaign. Read alongside glossary.json and do_not_touch.json.",
+ "terms": [
+  {
+   "jp": "サブフライトシステム",
+   "en": "sub-flight system",
+   "aliases_jp": [
+    "サブ・フライト・システム"
+   ],
+   "sources": [
+    "https://gget.ggame.jp/en/titles/detail.php?t=ac3mbus1",
+    "https://gundam.fandom.com/wiki/Sub-Flight_System"
+   ],
+   "notes": "Akurasu exact-term search found no entry. Official Bandai Namco terminology confirms SFS/Sub Flight System; lower-case generic dialogue form is appropriate."
+  },
+  {
+   "jp": "オルバン",
+   "en": "Olban",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Alpha_2/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/A/Character_List"
+   ],
+   "notes": "MX character list has no entry. Both game-specific lists use Marshal Olban. Prefer those to master-list Generalissimo Orban; do not add rank when source omits it."
+  },
+  {
+   "jp": "ゲロイヤー",
+   "en": "Geroiar",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Alpha_2/Character_List"
+   ],
+   "notes": "MX character list has no entry. Alpha 2 lists Officer Geroiar; chosen over master-list Geroyer because the game-specific Daimos list supplies the exact ranked character. Do not add the rank when source omits it."
+  },
+  {
+   "jp": "特機",
+   "en": "super robot",
+   "sources": [
+    "work/translation/en/script/prologue_merged.json",
+    "work/translation/en/script/stage02_campaign.json"
+   ],
+   "notes": "Usual project convention from prologue rows186,192,195,201. When a novice asks what the military term means (stage02 rows496/499/500), use special units then explain super robots, preserving the distinction. Contextual common-noun rendering, not a fixed proper-name replacement."
+  },
+  {
+   "jp": "シュート・イン",
+   "en": "Shoot in",
+   "aliases_jp": [
+    "シュートイン"
+   ],
+   "sources": [
+    "https://www.goldorakgo.com/wiki/index.php?title=Le_vocabulaire_technique"
+   ],
+   "notes": "Distinctive Grendizer cockpit-transfer call; punctuation/exclamation follows source. No Akurasu entry found."
+  },
+  {
+   "jp": "ダイザー・ゴー",
+   "en": "Dizer, go",
+   "aliases_jp": [
+    "ダイザーゴー"
+   ],
+   "sources": [
+    "https://www.goldorakgo.com/wiki/index.php?title=Le_vocabulaire_technique"
+   ],
+   "notes": "Distinctive Grendizer launch call; punctuation/exclamation follows source. No Akurasu entry found."
+  },
+  {
+   "jp": "八ヶ岳",
+   "en": "Yatsugatake Mountains",
+   "sources": [
+    "https://www.japan.travel/en/spot/1359/"
+   ],
+   "notes": "Official Japan National Tourism Organization spelling. No Akurasu location entry found."
+  },
+  {
+   "jp": "ベガ星雲",
+   "en": "Vega Nebula",
+   "sources": [
+    "work/translation/en/script/stage01_campaign.json"
+   ],
+   "notes": "Literal translation of fictional location in source rows428/431. No Akurasu entry or independently established canonical English name found; retain terminology uncertainty. This is not a claim about the real Vega star or Ring Nebula."
+  },
+  {
+   "jp": "横須賀港",
+   "en": "Port of Yokosuka",
+   "sources": [
+    "https://www.city.yokosuka.kanagawa.jp/5810/minato/panhu/documents/2023_map.pdf"
+   ],
+   "notes": "Official city port-map title. Canonical full location used consistently in campaign."
+  },
+  {
+   "jp": "三等空士",
+   "en": "Airman Third Class",
+   "sources": [
+    "https://www.mod.go.jp/en/publ/w_paper/wp2019/pdf/DOJ2019_4-1-1.pdf"
+   ],
+   "notes": "Official MOD ASDF enlisted rank, not an officer lieutenant."
+  },
+  {
+   "jp": "アクアポリス",
+   "en": "Aquapolis",
+   "sources": [
+    "https://www.dragonar.net/episode/index.php?id=23"
+   ],
+   "notes": "Dragonar official episode24 confirms Japanese carrier name. English is transparent transliteration; no Akurasu/canonical English entry established."
+  },
+  {
+   "jp": "オーヴァー・ザ・レインボウ",
+   "en": "Over the Rainbow",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Asuka_Strikes%21"
+   ],
+   "notes": "Evangelion carrier name, distinct from songs or other scenarios with this title. No Akurasu carrier entry found."
+  },
+  {
+   "jp": "リーリャ・リトヴァク",
+   "en": "Lilia Litvyak",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Specific RahXephon carrier spelling under Captain of the Lilia Litvyak. Other Lilya/Lydia spellings are not substituted."
+  },
+  {
+   "jp": "Ｂ装備",
+   "en": "B-type equipment",
+   "aliases_jp": [
+    "B装備"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Evangelion_%28mecha%29"
+   ],
+   "notes": "Standard Eva Type B equipment, unsuitable for underwater combat. Preserve letter B; not diving gear."
+  },
+  {
+   "jp": "チェホフ",
+   "en": "Chekhov",
+   "sources": [
+    "https://www.mahq.net/dragonarep6/",
+    "https://www.dragonar.net/character/e06.php"
+   ],
+   "notes": "Dragonar lieutenant who mentored Kaine, not the Russian author. No Akurasu entry found. Rank translated when present in source."
+  },
+  {
+   "jp": "ブルーゾーン",
+   "en": "blue zone",
+   "sources": [
+    "work/translation/en/script/stage02_campaign.json"
+   ],
+   "notes": "TE Engine operating range at row285; source-literal gauge label, not geographic Tokyo/RahXephon region. No independent English canonical entry established."
+  },
+  {
+   "jp": "アッシマー",
+   "en": "Asshimar",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Unit_List"
+   ],
+   "notes": "Background Zeta Gundam unit mention. Exact Japanese/English mapping on Akurasu, absent from current MX main glossary."
+  },
+  {
+   "jp": "ワトソン科学研究所",
+   "en": "Watson Science Institute",
+   "sources": [
+    "work/translation/en/script/stage02_campaign.json"
+   ],
+   "notes": "Koji's American institute in row526, source-literal translation. No canonical English reference found; do not identify with IBM's real Watson laboratory."
+  },
+  {
+   "jp": "アースノイド",
+   "en": "Earthnoid",
+   "sources": [
+    "https://www.gundam-the-origin.net/en/character/0501.html",
+    "https://gundam.fandom.com/wiki/Earthnoid"
+   ],
+   "notes": "Official Gundam The Origin English term; contrasts with Spacenoid."
+  },
+  {
+   "jp": "ゲットマシン",
+   "en": "Get Machine",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo%3A_Daikessen%21/Units",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Team_Attacks",
+    "https://en.wikipedia.org/wiki/List_of_Getter_Robo_characters"
+   ],
+   "notes": "Plural Get Machines as grammar requires; component aircraft of Getter Robo. Preserve source nickname rather than adding specific aircraft identities."
+  },
+  {
+   "jp": "マッハウイング",
+   "en": "Mach Wing",
+   "aliases_jp": [
+    "マッハ・ウィング"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/X-Omega/Abilities"
+   ],
+   "notes": "Getter Dragon wing deployment. Elongated spoken shout may stretch Wing; do not silently flatten source shouting."
+  },
+  {
+   "jp": "ブルーノア",
+   "en": "Blue Noah",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/アクア・ケントルム",
+    "https://en.wikipedia.org/wiki/Space_Carrier_Blue_Noah"
+   ],
+   "notes": "Stage03 row76 deliberately stops at ブルーノ; preserve Blue No... rather than Bruno or complete Noah. Exact line identified by SRW Wiki as the 1979 carrier reference. No Akurasu entry found."
+  },
+  {
+   "jp": "トランス・ディメンション・ドライブ・ユニット",
+   "en": "Trans Dimension Drive Unit",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json",
+    "https://rahxephon.fandom.com/wiki/Vermillion"
+   ],
+   "notes": "Game row51 explicitly speaks this expansion and following row identifies TDDU. Source establishes Unit, resolving main glossary's previously unconfirmed expansion. RahXephon wiki supports shorter Trans Dimension Drive. Preserve full spoken expansion when present."
+  },
+  {
+   "jp": "インスペクター",
+   "en": "Inspectors",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Glossary#Inspectors"
+   ],
+   "notes": "Banpresto alien group in stage03 rumor, not occupational inspectors."
+  },
+  {
+   "jp": "ソーディアン",
+   "en": "Swordian",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions"
+   ],
+   "notes": "Akurasu Swordian section; preserve rumor without adding its identity or capabilities."
+  },
+  {
+   "jp": "デュミナス",
+   "en": "Duminass",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions"
+   ],
+   "notes": "Akurasu Duminass Proton/Deuteron/Triton entries. Do not replace with the distinct OG codename Dunamis."
+  },
+  {
+   "jp": "フューリー",
+   "en": "Fury",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions#Fury"
+   ],
+   "notes": "Alien civilization from SRW J, unrelated to Spirit Command Fury alias Direct Hit. Source-scoped exception is in name_fixes.json."
+  },
+  {
+   "jp": "ツークンフト",
+   "en": "Zukunft",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+    "https://akurasu.net/wiki/Super_Robot_Wars/OGs/Story"
+   ],
+   "notes": "Akurasu Einst evolved race. Hiroko says Zukunft something-or-other; retain her imprecise rumor rather than explain canon."
+  },
+  {
+   "jp": "ワトソン研究所",
+   "en": "Watson Institute",
+   "sources": [
+    "work/translation/en/script/stage02_campaign.json"
+   ],
+   "notes": "Shortened form of Watson Science Institute in row843; same institution introduced at526. Canonical English provenance remains unestablished."
+  },
+  {
+   "jp": "アリア",
+   "en": "Aria",
+   "sources": [
+    "https://rahxephon.fandom.com/wiki/Arpeggio"
+   ],
+   "notes": "Dolem song/attack, not a separate Dolem identity. No Akurasu exact entry found."
+  },
+  {
+   "jp": "量子凝縮反応",
+   "en": "quantum condensation reaction",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Source-literal fictional technical phrase; no independently established canonical English name or real-physics explanation."
+  },
+  {
+   "jp": "量子凝縮場",
+   "en": "quantum condensation field",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Source-literal fictional field label; consistent with quantum condensation reaction."
+  },
+  {
+   "jp": "ＦＤ位相変換",
+   "en": "FD phase conversion",
+   "aliases_jp": [
+    "FD位相変換"
+   ],
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Literal technical wording, without expanding FD. Coefficient form is FD phase conversion coefficient; canonical English remains unestablished."
+  },
+  {
+   "jp": "タイポール型",
+   "en": "Typole configuration",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Provisional literal label; no source establishes scientific dipole. Possible Japanese typo remains unresolved and must be flagged."
+  },
+  {
+   "jp": "絶対障壁",
+   "en": "absolute barrier",
+   "sources": [
+    "https://en.wikipedia.org/wiki/RahXephon%3A_Pluralitas_Concentio"
+   ],
+   "notes": "Tokyo Jupiter barrier, distinct from an AT Field."
+  },
+  {
+   "jp": "妖魔島",
+   "en": "Demon Island",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/バラオ",
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Raideen location destroyed with Barao. Provisional literal name follows existing Demon Empire; canonical English unestablished."
+  },
+  {
+   "jp": "ＲＭＵシステム",
+   "en": "RMU system",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Preserve acronym letters without invented expansion; game explicitly names system."
+  },
+  {
+   "jp": "コンダクター",
+   "en": "Conductor",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/神名麻弥",
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Source-literal musical title. Stage03 row558 refers to other side's Mu legacy; do not identify its holder as Maya merely because her profile shares this title."
+  },
+  {
+   "jp": "宇宙歴",
+   "en": "Space Era",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json",
+    "https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_Original_Generation"
+   ],
+   "notes": "Preserve MX dates76/89 exactly. English franchise convention, not a claim of identical OG timeline. Distinct from Universal Century 宇宙世紀."
+  },
+  {
+   "jp": "侵略大戦",
+   "en": "Invasion War",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Literal inside-Tokyo name; outside calls same event Mu War. Preserve differing labels, don't add First where source omits it."
+  },
+  {
+   "jp": "シレーヌ",
+   "en": "Sirene",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Unit_List",
+    "https://akurasu.net/wiki/Seiyuu_List"
+   ],
+   "notes": "Devilman cameo allusion, Demon Bird title. Stage03 row699 cuts off at シ; preserve Demon Bird Si... rather than completing name."
+  },
+  {
+   "jp": "極東方面軍",
+   "en": "Far East Command",
+   "sources": [
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Source-literal military label. Headquarters when 司令部 present. Don't equate with OG Far East Division; independent MX canonical English unestablished."
+  },
+  {
+   "jp": "Ｄ作戦",
+   "en": "Operation D",
+   "aliases_jp": [
+    "D作戦"
+   ],
+   "sources": [
+    "work/translation/en/script/stage04_campaign.json"
+   ],
+   "notes": "Literal operation label, unexpanded. No relevant MX Akurasu entry found; Orguss operation with same English name is unrelated."
+  },
+  {
+   "jp": "インストーラー",
+   "en": "installer",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/GEAR戦士電童_(TV)",
+    "work/translation/en/script/stage04_campaign.json"
+   ],
+   "notes": "Gear Commander hardware that sends computer instructions, not software-installation program. Literal common description; no Akurasu exact English entry."
+  },
+  {
+   "jp": "コマンダーランキング",
+   "en": "Commander Ranking",
+   "sources": [
+    "work/translation/en/script/prologue_merged.json"
+   ],
+   "notes": "Established project convention from Ashura/Devil Saturn6 defeat messages; retain capitalization."
+  },
+  {
+   "jp": "コロニー格闘技選手権",
+   "en": "Colony Martial Arts Championship",
+   "sources": [
+    "work/translation/en/script/stage04_campaign.json",
+    "work/translation/en/script/stage05_campaign.json"
+   ],
+   "notes": "Source-literal competition label, consistently used in Light's background. No independently established canonical English entry."
+  },
+  {
+   "jp": "捕獲ビーコン",
+   "en": "capture beacon",
+   "sources": [
+    "work/translation/en/script/stage04_campaign.json"
+   ],
+   "notes": "Source-literal Data Weapon capture device, not invented acronym or a renamed weapon."
+  },
+  {
+   "jp": "ＳＰ１コマンド",
+   "en": "SP1 command",
+   "sources": [
+    "work/translation/en/script/stage04_campaign.json"
+   ],
+   "notes": "Preserve code letters/digit exactly and do not invent expansion."
+  },
+  {
+   "jp": "ブラック・ウルフ",
+   "en": "Black Wolf",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage05_campaign.json"
+   ],
+   "notes": "Already main glossary alias of Albero. Preserve explicit radio callsign, keeping hidden speaker labels ???."
+  },
+  {
+   "jp": "フォワード",
+   "en": "Forward",
+   "sources": [
+    "work/translation/en/script/stage05_campaign.json"
+   ],
+   "notes": "Source-literal radio address, unexpanded; no canonical full identity established."
+  },
+  {
+   "jp": "アーミータイプ",
+   "en": "Army-type units",
+   "sources": [
+    "work/translation/en/script/stage05_campaign.json"
+   ],
+   "notes": "Source-literal Devil Gundam minion classification in flashback; not the Gespenst Army units from OG. Canonical English label unestablished."
+  },
+  {
+   "jp": "ライゾウ・カッシュ博士",
+   "en": "Dr. Raizo Kasshu",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Akurasu uses Dr. Raizo Kasshu (without u). Existing main Dr. Kasshu profile confirms full name Raizo Kasshu. Keep source short forms short; don't add full name where omitted."
+  },
+  {
+   "jp": "ギアナ高地",
+   "en": "Guiana Highlands",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/A/Flow_Chart",
+    "https://akurasu.net/wiki/Super_Robot_Wars/2G/Flow_Chart"
+   ],
+   "notes": "Akurasu exact Japanese/English location mapping."
+  },
+  {
+   "jp": "ランタオ島",
+   "en": "Lantau Island",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Flow_Chart",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Shin/Flow_Chart"
+   ],
+   "notes": "Akurasu exact Japanese/English location mapping, including G Gundam route."
+  },
+  {
+   "jp": "那須高原",
+   "en": "Nasu Highlands",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/tochigi/nasu-area/"
+   ],
+   "notes": "Official JNTO spelling; no Akurasu exact location entry found."
+  },
+  {
+   "jp": "シルバー",
+   "en": "Silver",
+   "sources": [
+    "https://toku-onna.fr/toku-critiques/anime/grendizer/entourage",
+    "work/translation/en/script/stage06_campaign.json"
+   ],
+   "notes": "Grendizer horse on Shirakaba Ranch, confirmed under SILVER with Japanese name and episodes23/36/38. No Akurasu entry found. Don't infer animal gender."
+  },
+  {
+   "jp": "サイトネット",
+   "en": "site network",
+   "sources": [
+    "work/translation/en/script/stage06_campaign.json"
+   ],
+   "notes": "Contextual radar-site network, rows109/111. Ordinary source-literal network description; no invented acronym or technical expansion."
+  },
+  {
+   "jp": "青い三連星",
+   "en": "Blue Tri-Stars",
+   "sources": [
+    "work/translation/en/script/stage06_campaign.json"
+   ],
+   "notes": "Judau's deliberate parody name at229, immediately corrected by Light to Practice Squad230. Preserve Blue and joke, not a claim of an independently canonical team."
+  },
+  {
+   "jp": "ＧＥＡＲ",
+   "en": "GEAR",
+   "aliases_jp": [
+    "GEAR"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Secrets",
+    "work/translation/en/script/stage06_campaign.json"
+   ],
+   "notes": "Organization acronym; Akurasu R Secrets names GEAR HQ. Preserve letters without invented expansion or substituting robot full name."
+  },
+  {
+   "jp": "螺旋城Ｆ－１８",
+   "en": "Spiral Castle F-18",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Mech_List",
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Existing canonical Spiral Castle plus source-specific F-18 identifier. ASCII equivalents preserve letters/digits/hyphen, without broad normalization. Independent canonical English full variant unestablished."
+  },
+  {
+   "jp": "冥王",
+   "en": "Lord of Hades",
+   "sources": [
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Source-literal title in Yuratei's row35: transform world into underworld and rule it. Consistent Hades realm wording, not added identification with a Greek god. Independent canonical English title unestablished."
+  },
+  {
+   "jp": "チャンチュン基地",
+   "en": "Changchun Base",
+   "sources": [
+    "https://www.chukyo-u.ac.jp/research/ics/china/index2.html",
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Chukyo University table maps チャンチュン to Changchun; Base follows explicit source. No Akurasu location entry found."
+  },
+  {
+   "jp": "御前",
+   "en": "Gozen",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/渋谷長官",
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Fixed contextual title/stand-in alias, not a decorative honorific suffix. Shibuya profile explicitly identifies it as Saionji; retain alias without prematurely adding full identity or inventing a Commander rank. Japanese identity established; canonical English rendering remains unestablished."
+  },
+  {
+   "jp": "ファイルセーブ",
+   "en": "File Save",
+   "sources": [
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Direct English-form Data Weapon capture command. Distinct from installation; no Akurasu exact command entry found. Independent canonical English provenance unestablished."
+  },
+  {
+   "jp": "バイパードライブ",
+   "en": "Viper Drive",
+   "sources": [
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Direct English-form activation command. Preserve Drive rather than substituting weapon name Viper Whip. Independent canonical English provenance unestablished."
+  },
+  {
+   "jp": "ユニコーンドライブ",
+   "en": "Unicorn Drive",
+   "sources": [
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Direct English-form activation command. Preserve Drive rather than substituting weapon name Unicorn Drill. Independent canonical English provenance unestablished."
+  },
+  {
+   "jp": "ＭＩＴ",
+   "en": "MIT",
+   "sources": [
+    "https://www.mit.edu/",
+    "work/translation/en/script/stage07_campaign.json"
+   ],
+   "notes": "Official acronym; spelled-out M-I-T and baseball mitt joke remain distinct source wording."
+  },
+  {
+   "jp": "マサチューセッツ工科大学",
+   "en": "Massachusetts Institute of Technology",
+   "sources": [
+    "https://www.mit.edu/"
+   ],
+   "notes": "Official institution full name, spoken expansion only where Japanese gives it."
+  },
+  {
+   "jp": "東京湾",
+   "en": "Tokyo Bay",
+   "sources": [
+    "https://tsuburaya-prod.com/encyclopedia/takkong",
+    "https://akurasu.net/wiki/Kurogane_no_Houkou%3A_Warship_Commander/Flow_Chart"
+   ],
+   "notes": "Standard geographic name. Stage07's underwater-base allusion strongly suggests Ultraman MAT, independently confirmed by https://ultra.fandom.com/wiki/MAT_(Monster_Attack_Team); preserve truncated MA... without completing acronym or expansion."
+  },
+  {
+   "jp": "ギアファイター",
+   "en": "GEAR Fighter",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage07_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Robot class at550/551, following existing canonical GEAR Fighter Dendoh prefix. Source explicitly includes Knight Ogre in the same class; not a human pilot title. Generic fighter alone remains fighter, without adding Dendoh or expanding acronym."
+  },
+  {
+   "jp": "西園寺実",
+   "en": "Makoto Saionji",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List"
+   ],
+   "notes": "Akurasu full-name mapping. Main glossary's canonical short Saionji remains correct; its older metadata nickname Minoru Saionji conflicts with Akurasu and is not used for a source-full-name translation. Do not expand source Gozen to this identity."
+  },
+  {
+   "jp": "星紀",
+   "en": "Star Era",
+   "sources": [
+    "work/translation/en/script/stage07_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ガルファ皇帝"
+   ],
+   "notes": "Provisional literal Arctos calendar label, distinct from Space Era. Preserve game source4085 exactly; wiki4065 is a different mentioned event, not a reason to alter date. No Akurasu entry or independent canonical English label established."
+  },
+  {
+   "jp": "大阪タイタンズ",
+   "en": "Osaka Titans",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional baseball team; distinct from Gundam military Titans ティターンズ. No Akurasu or independent canonical English team entry found. Don't replace with real Hanshin Tigers. English115's other Titans transcreation cannot preserve Japanese vowel contrast; keep limitation note."
+  },
+  {
+   "jp": "関東圏",
+   "en": "Kanto region",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO geographic name plus ordinary region descriptor."
+  },
+  {
+   "jp": "防壁解凍",
+   "en": "firewall thawed",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional hacker/countertrace system announcement, with operator register. No independently established canonical English wording; not real cybersecurity guidance or invented mechanism."
+  },
+  {
+   "jp": "疑似エントリー展開",
+   "en": "pseudo-entry deployed",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional countertrace announcement. Simulated entry deployed is also defensible contextual wording. Independent canonical English phrase unestablished; not pilot entry or an invented real-world mechanism."
+  },
+  {
+   "jp": "人格移植ＯＳ",
+   "en": "Personality Transplant OS",
+   "aliases_jp": [
+    "人格移植OS"
+   ],
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Magi"
+   ],
+   "notes": "Evangelion MAGI personality architecture; English term independently supported, no Akurasu exact entry found. Natural lower-case dialogue casing is permissible; do not expand OS or add implementation details absent from source."
+  },
+  {
+   "jp": "静岡",
+   "en": "Shizuoka",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source, not an added prefecture classification."
+  },
+  {
+   "jp": "福井",
+   "en": "Fukui",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source."
+  },
+  {
+   "jp": "秋田",
+   "en": "Akita",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source."
+  },
+  {
+   "jp": "岡山",
+   "en": "Okayama",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source."
+  },
+  {
+   "jp": "徳島",
+   "en": "Tokushima",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source."
+  },
+  {
+   "jp": "札幌",
+   "en": "Sapporo",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. This is a city; do not call all seven stage08 attacked areas prefectures."
+  },
+  {
+   "jp": "大分",
+   "en": "Oita",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kanto/"
+   ],
+   "notes": "Official JNTO navigation spelling. District follows explicit game source."
+  },
+  {
+   "jp": "サードインパクト",
+   "en": "Third Impact",
+   "sources": [
+    "https://www.akurasu.net/wiki/Shinji_Ikari"
+   ],
+   "notes": "Exact Akurasu Evangelion/MX term; preserve the source's uncertainty about a future occurrence."
+  },
+  {
+   "jp": "佐世保工場",
+   "en": "Sasebo factory",
+   "sources": [
+    "https://www.japan.travel/en/destinations/kyushu/nagasaki/sasebo-and-hirado/",
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "JNTO confirms city spelling; factory is explicit MX fictional-company facility. No invented identification with a real factory."
+  },
+  {
+   "jp": "自走式陽電子砲",
+   "en": "self-propelled positron cannon",
+   "sources": [
+    "https://www.takaratomy.co.jp/english/product_release/pdf/p251016_en.pdf",
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal phrase supported by official Evangelion collaboration description. MX explicitly assigns development to Nergal; do not import Rebuild460mm/prototype identifiers or JSSDF ownership."
+  },
+  {
+   "jp": "ケイジ",
+   "en": "cage",
+   "sources": [
+    "https://evangelion.fandom.com/fr/wiki/Quartier_g%C3%A9n%C3%A9ral_de_la_NERV",
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Eva holding/maintenance hangar; literal source loanword and independently supported facility concept. No Akurasu exact English entry found."
+  },
+  {
+   "jp": "プラグスーツ",
+   "en": "plugsuit",
+   "sources": [
+    "https://www.goodsmile.com/en/product/830/figma%2BRei%2BAyanami%2BPlugsuit%2Bver."
+   ],
+   "notes": "Official licensed Eva merchandise uses one-word plugsuit; no Akurasu exact entry found. Generic dialogue noun is lower-case."
+  },
+  {
+   "jp": "塔ノ沢",
+   "en": "Tonosawa",
+   "sources": [
+    "https://hakone-japan.com/plan-your-trip/pamphlet/"
+   ],
+   "notes": "Official Hakone tourism association English area-map spelling. No Akurasu entry found."
+  },
+  {
+   "jp": "芦ノ湖",
+   "en": "Lake Ashi",
+   "sources": [
+    "https://www.japan.travel/en/in/walks-and-tours/in-kanto/"
+   ],
+   "notes": "Official JNTO geographic spelling; do not add tactical details to the location."
+  },
+  {
+   "jp": "ガデッサー",
+   "en": "Gadessa",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/デビルサターン6",
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Gyandlar formula/catchcry, provisional phonetic English. Not the Gundam00 unit Gadessa; independent canonical English cry spelling unestablished. Preserve shouting punctuation."
+  },
+  {
+   "jp": "ブーちゃん",
+   "en": "Boo",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Otome's battery-powered talking toy nickname. Drop decorative -chan per existing brief convention. No Akurasu or independently canonical English name found; do not invent gender or toy species."
+  },
+  {
+   "jp": "相転移空間",
+   "en": "phase-transition space",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional technical term in AT Field description; independent English canonical wording unestablished."
+  },
+  {
+   "jp": "超電導誘電システム",
+   "en": "superconducting dielectric system",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional system announcement. No independently established canonical English name found; do not explain a real physical mechanism. Induction is a possible contextual rendering, retained as terminology uncertainty."
+  },
+  {
+   "jp": "強制集束器",
+   "en": "forced-focusing device",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Source-literal fictional device label, independent canonical English unestablished."
+  },
+  {
+   "jp": "加圧域",
+   "en": "pressurization range",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Provisional literal label. Nearby voltage/coolant/positron announcements do not independently settle physical pressure vs voltage-boost reading. Keep interpretive uncertainty rather than invent operation details."
+  },
+  {
+   "jp": "クロノス星",
+   "en": "Planet Cronos",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://machinerobo.fandom.com/wiki/Machine_Robo%3A_Battle_Hackers"
+   ],
+   "notes": "Consistent with existing Cronos tribe, independently supported planet spelling. No Akurasu exact planet entry found; series-title Chronos metadata is not a location override."
+  },
+  {
+   "jp": "電子の聖獣",
+   "en": "sacred electronic beast",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Literal poetic description of Data Weapons in Rom's address. Plural as source context requires, no independently established English epithet or replacement with proper unit name."
+  },
+  {
+   "jp": "レオドライブ",
+   "en": "Leo Drive",
+   "sources": [
+    "work/translation/en/script/stage08_campaign.json"
+   ],
+   "notes": "Direct English-form activation command, like Viper/Unicorn Drive. Preserve Drive rather than substituting weapon name Leo Circle; independent canonical English provenance unestablished."
+  },
+  {
+   "jp": "化石獣",
+   "en": "Fossil Beast",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Impact/Unit_Database"
+   ],
+   "notes": "Exact class prefix in Fossil Beast Bastodon mapping. Plural Fossil Beasts for the class as grammar requires."
+  },
+  {
+   "jp": "熱海",
+   "en": "Atami",
+   "sources": [
+    "https://www.japan.travel/en/destinations/tokai/shizuoka/atami-and-ito-and-around/"
+   ],
+   "notes": "Official JNTO geographic spelling; no Akurasu entry found."
+  },
+  {
+   "jp": "秘宝館",
+   "en": "adult museum",
+   "sources": [
+    "https://www.atami-ropeway.jp/en/",
+    "https://www.atamikorakuen.co.jp/en/sightseeing/",
+    "work/translation/en/script/stage10_campaign.json"
+   ],
+   "notes": "Operator confirms Atami Hihokan adult/sexuality museum, supporting inferred stage10 joke. Actual game142/145 deliberately stops at 秘...; preserve inferred sex... cutoff without completing museum or venue name, and retain uncertainty. No Akurasu entry found."
+  },
+  {
+   "jp": "プラン乙",
+   "en": "Plan B",
+   "sources": [
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Source-literal second-plan designation; no exact Akurasu or independently canonical English label found. Do not expand purpose or reveal hidden speaker. Keep provenance uncertainty."
+  },
+  {
+   "jp": "黒い幽霊",
+   "en": "Black Ghost",
+   "sources": [
+    "https://www.midtowncomics.com/product/964481",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "English nickname explicitly supported by licensed Kotobukiya merchandise description. No Akurasu exact nickname found. Keep rumor/alias in this scene; do not replace with Black Sarana or reveal its pilot."
+  },
+  {
+   "jp": "遺跡",
+   "en": "ruins",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/木連",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Nadesico ancient Martian ruins, confirmed by later original dialogue and SRW Wiki history. Where source only says quoted ruins, do not add Martian/polar/calculation-unit exposition."
+  },
+  {
+   "jp": "京都",
+   "en": "Kyoto",
+   "sources": [
+    "https://kyoto.travel/en/travel-inspiration/gozan-okuribi-bonfire/"
+   ],
+   "notes": "Official Kyoto tourism English geographic spelling."
+  },
+  {
+   "jp": "誠東寺",
+   "en": "Seitoji Temple",
+   "sources": [
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Provisional romanization of source temple name. No exact Akurasu or independent reading/English name found after searches. Preserve spelling uncertainty; do not identify it with a real Kyoto temple."
+  },
+  {
+   "jp": "大文字焼き",
+   "en": "Daimonji bonfires",
+   "sources": [
+    "https://kyoto.travel/en/travel-inspiration/gozan-okuribi-bonfire/"
+   ],
+   "notes": "Official Kyoto tourism confirms Daimonji as named bonfire, part of Gozan Okuribi. Grammar may use singular for specific fire; do not add dates or ritual details absent source."
+  },
+  {
+   "jp": "送り火",
+   "en": "farewell fires",
+   "sources": [
+    "https://kyoto.travel/en/travel-inspiration/gozan-okuribi-bonfire/"
+   ],
+   "notes": "Official Kyoto tourism confirms Okuribi bonfires send off ancestral spirits. Natural explanatory farewell fires in dialogue, preserving the source correction from Daimonji; no added ritual exposition."
+  },
+  {
+   "jp": "第１次ＭＵ大戦",
+   "en": "First Mu War",
+   "sources": [
+    "work/glossary/campaign_terms.json",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Source explicitly specifies first conflict. Uses previously settled Mu War naming; no independent exact numbered English label or Akurasu mapping found. Do not substitute a differently numbered original-series war."
+  },
+  {
+   "jp": "グリプス戦争",
+   "en": "Gryps Conflict",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/A/Story/Introduction",
+    "https://akurasu.net/wiki/Judau_Ashta"
+   ],
+   "notes": "Akurasu's consistent English event name; prefer over provisional Gryps War. Do not add Gundam timeline dates absent MX source."
+  },
+  {
+   "jp": "烈風",
+   "en": "Reppu",
+   "sources": [
+    "https://srw.m.wiki.cre.jp/wiki/北辰衆",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Confirmed named member of Hokushin's Six, addressed before the next member answers; not an attack call or Daimos weapon. No Akurasu exact name or independent canonical English spelling found. Reppu is provisional romanization, retain spelling uncertainty."
+  },
+  {
+   "jp": "木連式抜刀術",
+   "en": "Jovian-style sword drawing",
+   "sources": [
+    "https://srw.m.wiki.cre.jp/wiki/北辰衆",
+    "https://004syakuyaku.syuriken.jp/ma.html",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Confirmed Hokushin followers' martial art. Literal English using established Jovian faction adjective; independently canonical English technique name unestablished. Not the different Jovian jujutsu style or an added attack name."
+  },
+  {
+   "jp": "ボソンアウト",
+   "en": "Boson Out",
+   "sources": [
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Direct English-form source term for emergence from Boson Jump, settled by original arrival sequence. No exact Akurasu or independently canonical English phrase found. Natural verbal casing is permissible; keep provenance uncertainty and do not invent physics."
+  },
+  {
+   "jp": "ボース粒子",
+   "en": "Bose particles",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ボソンジャンプ",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Source-literal designation; SRW Wiki confirms particle increase associated with fictional Boson Jump. No exact Akurasu mapping found. Do not add real physical mechanisms/exposition absent game."
+  },
+  {
+   "jp": "メディウス",
+   "en": "Medius",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Source-short Medius Locus name, recognized with Albero/AI1 context and supported by Akurasu short English usage. Keep short when source short; no expansion to unit form or spoilers."
+  },
+  {
+   "jp": "木星連合",
+   "en": "Jovian Federation",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/木連",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Contextual full alias of established 木連 faction in Nadesico Boson Jump discussion. Not a different Jupiter faction or Gundam Jupiter Empire."
+  },
+  {
+   "jp": "生体ボソンジャンプ",
+   "en": "biological Boson Jump",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ボソンジャンプ",
+    "work/translation/en/script/stage11_campaign.json"
+   ],
+   "notes": "Source-literal living person's jumping capability, explained by next source row as freely jumping to envisioned locations. No exact independent canonical English label found; do not add nanomachine exposition absent scene."
+  },
+  {
+   "jp": "ゲッター線増幅炉",
+   "en": "Getter Ray amplifier",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Story/Stage_09",
+    "https://srw.wiki.cre.jp/wiki/新早乙女研究所",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "SRW Wiki explicitly equates 増幅炉 and 増幅装置 for this Getter facility; Akurasu uses Getter Ray amplifier, matching main glossary. No invented tenfold power detail in game lines."
+  },
+  {
+   "jp": "百鬼ロボ",
+   "en": "Hyakki robot",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage12_campaign.json"
+   ],
+   "notes": "Generic class: established Hyakki plus robot, same stem as Combined Hyakki Robot, not an expansion to combined unit or new named robot. Grammar permits plural Hyakki robots; independently canonical standalone class wording unestablished."
+  },
+  {
+   "jp": "百鬼、ブラァァイ",
+   "en": "Hyakki, Buraaaai",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage12_campaign.json"
+   ],
+   "notes": "Source salute/catchcry preserves Hyakki and prolonged established Burai name; repeated shout not new attack. Exclamation punctuation/elongation follows utterance; independently canonical English cry unestablished."
+  },
+  {
+   "jp": "八卦",
+   "en": "Hakkeshu",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage12_campaign.json"
+   ],
+   "notes": "Stage12 Saiga's contextual short reference to fellow Hakkeshu after Fire/Water deployment. Not a global substitution for eight-trigram concept or every Hakke robot description; preserve source context."
+  },
+  {
+   "jp": "浅間山",
+   "en": "Mount Asama",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo",
+    "https://www.japan.travel/en/japans-local-treasures/mt-asama-magma-ston-park-2020/"
+   ],
+   "notes": "Akurasu Getter episode title and official JNTO name for Gunma/Nagano volcano. Not Ise-Shima's separate Mount Asama; no added real eruption/geographic detail in dialogue."
+  },
+  {
+   "jp": "メカザウルス",
+   "en": "Mechasaurus",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo",
+    "https://akurasu.net/wiki/Mech_List"
+   ],
+   "notes": "Akurasu generic class and plural Mechasauruses in Getter episode2 title. No specific unit suffix when source generic."
+  },
+  {
+   "jp": "要塞鬼",
+   "en": "Yousaiki",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Getter_Robo_G",
+    "https://srw.wiki.cre.jp/wiki/メカ要塞鬼",
+    "work/translation/en/script/stage12_campaign.json"
+   ],
+   "notes": "Source-short Mecha Yousaiki, confirmed by Hidler mothership context. Preserve short source name rather than literal Fortress Demon or different Hyakki Fortress Island. Uses canonical main Akurasu spelling."
+  },
+  {
+   "jp": "ニライ島",
+   "en": "Nirai Island",
+   "sources": [
+    "work/translation/en/script/stage13_campaign.json",
+    "https://www.kenoki.com/nko/about.html"
+   ],
+   "notes": "Source explicitly distinguishes natural Nirai Island from artificial Kanai City. Akurasu RahXephon has no exact place entry; dedicated series reference corroborates the distinction. English island label is a transparent translation, not independently licensed canon."
+  },
+  {
+   "jp": "カナイ市",
+   "en": "Kanai City",
+   "sources": [
+    "work/translation/en/script/stage13_campaign.json",
+    "https://www.kenoki.com/nko/about.html"
+   ],
+   "notes": "Artificial maritime experimental city constructed for ruin research; distinct from natural Nirai Island. Preserve source city designation. Exact licensed English spelling unestablished; no invented real-world identification."
+  },
+  {
+   "jp": "光子力せんべい",
+   "en": "Photon Power rice crackers",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage13_campaign.json"
+   ],
+   "notes": "Fictional Shizuoka souvenir gag: existing Photon Power term plus senbei rice crackers. Subsequent snap and Professor Yumi wry smile retained, without explaining joke in dialogue. Independent canonical English product name unestablished; not a real souvenir recommendation."
+  },
+  {
+   "jp": "ネリヤ神殿",
+   "en": "Neriya Temple",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage13_campaign.json"
+   ],
+   "notes": "Existing main literal retained; fictional RahXephon temple contains the machine. Independently canonical English label unestablished. Do not identify a real shrine or replace temple with another location category."
+  },
+  {
+   "jp": "第二要撃システム",
+   "en": "Second Interception System",
+   "sources": [
+    "work/translation/en/script/stage13_campaign.json"
+   ],
+   "notes": "Literal fictional defensive system report; preserve ordinal and function. Independent canonical English label unestablished; source U08, Contact Red and D2 are operational labels and remain intact."
+  },
+  {
+   "jp": "ファイルロード",
+   "en": "File Load",
+   "sources": [
+    "https://www.dendoh.net/story/episode.php?id=24",
+    "https://bandaicandy.hateblo.jp/entry/20200923_smp",
+    "work/translation/en/script/stage14_campaign.json"
+   ],
+   "notes": "Official Dendoh episode24 synopsis and Bandai product description confirm the Data Weapon loading action. Akurasu search found no exact command entry. Direct English-form source rendering, parallel to existing File Save; independent licensed English label unestablished. Distinguish from File Save/capture and installation; grammatical load/loaded inflection is allowed."
+  },
+  {
+   "jp": "スクランブルターン",
+   "en": "Scramble Turn",
+   "sources": [
+    "https://www.goldorakgo.com/wiki/index.php/Texte_36",
+    "https://toku-onna.fr/toku-critiques/anime/grendizer/spazer",
+    "work/translation/en/script/stage15_campaign.json"
+   ],
+   "notes": "Direct English-form shout for Grendizer's aerial positioning maneuver before Combination Cross with a Spazer. Akurasu search found no exact entry; dedicated Grendizer episode-transcript wiki and series reference corroborate the label/function. Not a newly invented attack. Independently licensed English command wording remains unestablished."
+  },
+  {
+   "jp": "バーム戦争",
+   "en": "Baam War",
+   "sources": [
+    "https://akurasu.net/wiki/Battle_Commander_Daimos",
+    "https://srw.wiki.cre.jp/wiki/三輪防人",
+    "https://srw.wiki.cre.jp/wiki/オルバン大元帥",
+    "work/translation/en/script/stage15_campaign.json"
+   ],
+   "notes": "Source-literal name for the earlier Daimos conflict with Baam. Akurasu confirms Baam; supplementary SRW wiki corroborates the Japanese conflict name and MX history. Exact compound absent from Akurasu; independently licensed English conflict wording unestablished. Do not substitute Balmar or DC War."
+  },
+  {
+   "jp": "アオイ報告書",
+   "en": "Aoi Report",
+   "sources": [
+    "https://www.kinokuniya.co.jp/f/dsg-01-9784048530446",
+    "work/translation/en/script/stage15_campaign.json"
+   ],
+   "notes": "Nadesico report associated in the game source with ghost-robot sightings and the Hisago Plan accident investigation. The published movie reference book's contents confirms the Japanese report title. No exact Akurasu entry or independently licensed English title found; English is transparent source translation. Do not expand report authorship or robot identity ahead of source revelations."
+  },
+  {
+   "jp": "上海",
+   "en": "Shanghai",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shanghai"
+   ],
+   "notes": "Standard real-world city name; no exact Akurasu entry found. Source geography label, not an invented game base name."
+  },
+  {
+   "jp": "長江",
+   "en": "Yangtze River",
+   "sources": [
+    "https://depts.washington.edu/chinaciv/geo/tproper.htm",
+    "https://en.wikipedia.org/wiki/Yangtze"
+   ],
+   "notes": "Standard English river name for Chang Jiang. No exact Akurasu entry found; real-world geography only."
+  },
+  {
+   "jp": "黄河",
+   "en": "Yellow River",
+   "sources": [
+    "https://education.nationalgeographic.org/resource/huang-he-valley/"
+   ],
+   "notes": "Standard English name for Huang He; no exact Akurasu entry found. Preserve game travel geography without adding modern distances."
+  },
+  {
+   "jp": "黄海",
+   "en": "Yellow Sea",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yellow_Sea"
+   ],
+   "notes": "Standard real-world sea name; no exact Akurasu entry found."
+  },
+  {
+   "jp": "華北平原",
+   "en": "North China Plain",
+   "sources": [
+    "https://en.wikipedia.org/wiki/North_China_Plain",
+    "https://education.nationalgeographic.org/resource/huang-he-valley/"
+   ],
+   "notes": "Standard English geographic region for Huabei Pingyuan; no exact Akurasu entry found."
+  },
+  {
+   "jp": "チンリン山脈",
+   "en": "Qinling Mountains",
+   "sources": [
+    "https://whc.unesco.org/en/tentativelists/5994/",
+    "https://en.wikipedia.org/wiki/Qinling"
+   ],
+   "notes": "Standard English mountain-range label, corroborated by UNESCO ShuDao description; no exact Akurasu entry found."
+  },
+  {
+   "jp": "四川",
+   "en": "Sichuan",
+   "sources": [
+    "https://whc.unesco.org/en/tentativelists/5994/",
+    "https://en.wikipedia.org/wiki/Sichuan"
+   ],
+   "notes": "Standard real-world region name; no exact Akurasu entry found. Do not modernize game's fictional jurisdiction."
+  },
+  {
+   "jp": "ヘブンズソード",
+   "en": "Heaven's Sword",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Source-short name for main glossary unit Gundam Heaven's Sword. Preserve shortened source label; not the dub Raven Gundam name."
+  },
+  {
+   "jp": "ジオン",
+   "en": "Zeon",
+   "sources": [
+    "https://www.akurasu.net/wiki/SD_Gundam_G_Generation/G_Generation/Pilot_Database"
+   ],
+   "notes": "Source-short form of Principality of Zeon. Distinct from Neo Zeon; do not expand source-short reference automatically."
+  },
+  {
+   "jp": "天剣絶刀",
+   "en": "Heavenly Sword, Peerless Blade",
+   "sources": [
+    "https://gundam.wiki.cre.jp/wiki/ガンダムヘブンズソード",
+    "https://gundam.fandom.com/wiki/Gundam_Heaven%27s_Sword",
+    "work/translation/en/script/stage16_campaign.json"
+   ],
+   "notes": "Source-literal rendering of the Gundam Heaven's Sword epithet, independently confirmed in Japanese by the Gundam wiki. No exact Akurasu epithet entry or established licensed English title found. Not a separate attack or unit; retain English-provenance uncertainty."
+  },
+  {
+   "jp": "ウォルター",
+   "en": "Walter",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Source-short form of main unit Walter Gundam; preserve shortened reference without inventing a separate unit."
+  },
+  {
+   "jp": "ミノフスキー粒子",
+   "en": "Minovsky particles",
+   "sources": [
+    "https://akurasu.net/wiki/Gundam",
+    "https://www.akurasu.net/wiki/White_Base"
+   ],
+   "notes": "Exact particle spelling confirmed by Akurasu unit descriptions, distinct from Minovsky Craft. Preserve the source's electronic-warfare context without adding mechanics."
+  },
+  {
+   "jp": "カペラ",
+   "en": "Capella",
+   "sources": [
+    "https://imagine.gsfc.nasa.gov/educators/galaxies/imagine/student_seeing.html",
+    "work/translation/en/script/stage16_campaign.json"
+   ],
+   "notes": "Astronomical star name in Amuro's navigational sighting. NASA corroborates spelling; no exact Akurasu star entry found. Preserve source direction, no added real-world astronomical calculations."
+  },
+  {
+   "jp": "ベガ",
+   "en": "Vega",
+   "sources": [
+    "https://imagine.gsfc.nasa.gov/educators/galaxies/imagine/student_seeing.html",
+    "work/translation/en/script/stage16_campaign.json"
+   ],
+   "notes": "Astronomical star name only in stage16's navigational sequence alongside Moon/Earth/Capella; NASA confirms spelling. Same spelling as character Vega, whose separate profile remains unchanged. No exact Akurasu star entry found."
+  },
+  {
+   "jp": "白い悪魔",
+   "en": "White Devil",
+   "sources": [
+    "https://akurasu.net/wiki/Gundam",
+    "https://akurasu.net/wiki/Amuro_Ray",
+    "https://akurasu.net/wiki/Kidou_Senshi_Gundam_UC/Awakening_Ability_List"
+   ],
+   "notes": "Exact Akurasu epithet for the original Gundam and Amuro. Source418 explicitly attaches it to the feared machine he piloted; retain that source referent rather than transferring the nickname to the Nu Gundam."
+  },
+  {
+   "jp": "連邦宇宙軍",
+   "en": "Federation Space Force",
+   "sources": [
+    "work/translation/en/script/stage16_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Glossary"
+   ],
+   "notes": "Transparent source affiliation in MX's combined setting; Akurasu uses the English phrase in another SRW setting but no exact MX/Nadesico organization entry found. Independently licensed MX-specific organization label remains unestablished. Do not force original-series United Earth Space Force or add a country name absent from source."
+  },
+  {
+   "jp": "杭州",
+   "en": "Hangzhou",
+   "sources": [
+    "https://whc.unesco.org/en/list/1334/"
+   ],
+   "notes": "Standard real-world city name corroborated by UNESCO's West Lake Cultural Landscape of Hangzhou. No exact Akurasu entry found."
+  },
+  {
+   "jp": "杭州基地",
+   "en": "Hangzhou Base",
+   "sources": [
+    "https://whc.unesco.org/en/list/1334/",
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-compositional base designation using standard Hangzhou spelling. UNESCO corroborates city spelling, not the fictional game base. No exact Akurasu base entry or licensed English base label found."
+  },
+  {
+   "jp": "ガンダリウム合金",
+   "en": "Gundarium alloy",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/OE/Items",
+    "https://en.gundam-official.com/feature/gundarium/index.html"
+   ],
+   "notes": "Akurasu confirms Gundarium material spelling; official Gundam feature confirms Gundarium Alloy English compound. Source-unspecified grade stays unspecified; do not substitute Gundamium from Wing or add composition/mechanics."
+  },
+  {
+   "jp": "モクスポ",
+   "en": "Mokuspo",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of the named publication. No exact Akurasu entry or independently established English title found; do not expand to a guessed full newspaper name."
+  },
+  {
+   "jp": "シラヒメ",
+   "en": "Shirahime",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-short colony name matches existing sourced Shirahime Incident and its Terminal Colony No.8 note. Independent licensed colony-name verification remains limited."
+  },
+  {
+   "jp": "大螺旋",
+   "en": "Great Spiral",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-literal name for the Hisago Plan network in this Nadesico context. No exact Akurasu entry or independently established licensed English label found; not a Machine Robo or Gurren Lagann term."
+  },
+  {
+   "jp": "タキリ",
+   "en": "Takiri",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of the terminal colony name. No exact Akurasu entry or independently established licensed English label found. Preserve MX spelling, do not change to Tagiri from other renditions."
+  },
+  {
+   "jp": "開発公団",
+   "en": "Development Corporation",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%83%BB%E3%83%A8%E3%82%B7%E3%82%AA"
+   ],
+   "notes": "Source-short Nadesico organization. SRW Wiki Japanese Yamasaki overview confirms Colony Development Corporation context, not independently licensed English organization label. Do not add Colony or Space where source short form omits it."
+  },
+  {
+   "jp": "ウィンドゥボール",
+   "en": "Window Ball",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source English-form Nadesico interface name. No exact Akurasu or independently established licensed English name found; transparent Window Ball retained without inferred technology/mechanics."
+  },
+  {
+   "jp": "サヨリ",
+   "en": "Sayori",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of terminal colony name; no exact Akurasu or independently established licensed English name found. Do not add mythology/location details."
+  },
+  {
+   "jp": "タギツ",
+   "en": "Tagitsu",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of terminal colony name; no exact Akurasu or independently established licensed English name found. Keep route order intact."
+  },
+  {
+   "jp": "コロニー管理法",
+   "en": "Colony Management Act",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-literal fictional Nadesico statute; no exact Akurasu or independently established licensed English label found. Preserve emergency-inspection provision without adding real-world legal powers."
+  },
+  {
+   "jp": "天の岩戸",
+   "en": "Amano-Iwato",
+   "sources": [
+    "https://www.jinjahoncho.or.jp/en/assets/pdf/pamphlet/soul-of-japan.pdf",
+    "https://en.ise-kanko.jp/iseguide/amanoiwato/",
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Mythological cave name explicitly confirmed by Association of Shinto Shrines English pamphlet, Amano-Iwato, the celestial cave. Source refers to the legend; no location or additional mythology added. No exact Akurasu entry found."
+  },
+  {
+   "jp": "ウインドゥ通信",
+   "en": "window communications",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source English-form communication label for protected send/receive channels. No exact Akurasu or independent licensed English label found; do not infer protocol, encryption or device details."
+  },
+  {
+   "jp": "地球連邦宇宙軍",
+   "en": "Earth Federation Space Force",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Full source-literal MX affiliation, distinct from source-short Federation Space Force and original-series United Earth Space Force. No exact independently established licensed MX label found; Earth is present in this full Japanese form."
+  },
+  {
+   "jp": "メール・シュトローム作戦",
+   "en": "Operation Maelstrom",
+   "sources": [
+    "https://tv.apple.com/us/episode/episode-47/umc.cmc.b4ld3eic76d5d0pi7qibhxa6?showId=umc.cmc.35bwxyrvbuo7gp7hxpx0w59e8",
+    "https://gundam.fandom.com/wiki/Operation_Maelstrom"
+   ],
+   "notes": "No exact Akurasu entry found. Official-distributor Apple TV episode47 synopsis explicitly confirms Operation Maelstrom; do not add series dates to MX."
+  },
+  {
+   "jp": "セーラム章",
+   "en": "Salem Medal",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.mahq.net/dragonarep25/"
+   ],
+   "notes": "Source-literal military decoration. MAHQ episode25 corroborates award context and Salem spelling, calls it Salem Prize; exact independently licensed English medal label not established. No exact Akurasu entry found; preserve award versus cash distinction."
+  },
+  {
+   "jp": "特務少尉",
+   "en": "Special Duty Second Lieutenant",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.dragonar.net/episode/index.php?id=30"
+   ],
+   "notes": "Source-literal fictional rank. Official Dragonar episode31 synopsis confirms Japanese rank exists in this setting, for Chendol, not Rose's MX appointment. Exact licensed English mapping unestablished; do not import historical navy rank systems."
+  },
+  {
+   "jp": "二等空士",
+   "en": "Airman Second Class",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.dragonar.net/character/e02.php"
+   ],
+   "notes": "Literal MX fictional promotion ladder. Official Light profile confirms starting Third Class and six steps to Warrant Officer, but not an English intermediate-rank localization."
+  },
+  {
+   "jp": "一等空士",
+   "en": "Airman First Class",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.dragonar.net/character/e02.php"
+   ],
+   "notes": "Literal MX fictional promotion ladder; English licensed mapping unestablished. Keep all six steps to Warrant Officer."
+  },
+  {
+   "jp": "伍長",
+   "en": "Corporal",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.dragonar.net/character/e02.php"
+   ],
+   "notes": "Conventional English equivalent in MX fictional ladder, not a claim about any real-world service."
+  },
+  {
+   "jp": "軍曹",
+   "en": "Sergeant",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://www.dragonar.net/character/e06.php",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Existing main Ben profile prescribes sergeant; official Dragonar profile confirms Japanese rank. Keep same rank in MX ladder."
+  },
+  {
+   "jp": "曹長",
+   "en": "Staff Sergeant",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.dragonar.net/character/e02.php"
+   ],
+   "notes": "Provisional English equivalent for fictional MX rung above Sergeant and below Warrant Officer. Independently licensed English mapping not established; no modern or historical national service equivalence asserted."
+  },
+  {
+   "jp": "准尉",
+   "en": "Warrant Officer",
+   "sources": [
+    "https://www.dragonar.net/character/e02.php",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Official Light profile confirms endpoint and six-rank promotion. Conventional English rendering; MX scene's rank ladder remains intact."
+  },
+  {
+   "jp": "必滅",
+   "en": "inevitable destruction",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-literal Rom catchphrase in stage18 fresh459. No exact Akurasu or independently licensed English wording found; retain provenance uncertainty. Not a named attack."
+  },
+  {
+   "jp": "ミッテ先生",
+   "en": "Middi",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Albero_Esto",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source surname of Eldy Middi, female and former mentor per main profile. Drop decorative address per campaign rules; preserve explicit teacher relationship when source says it. Do not invent Professor title or academic degree; hidden speaker labels remain hidden."
+  },
+  {
+   "jp": "ネルガル",
+   "en": "Nergal",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-short company name, derived main Nergal Heavy Industries; do not expand source-short dialogue."
+  },
+  {
+   "jp": "レオ",
+   "en": "Leo",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-short data weapon Leo Circle in Dendoh context; not a new named weapon/unit or unrelated Gundam Leo."
+  },
+  {
+   "jp": "ユニコーン",
+   "en": "Unicorn",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-short data weapon Unicorn Drill in Dendoh context; not unrelated Gundam Unicorn."
+  },
+  {
+   "jp": "ガルバー",
+   "en": "Gulver",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-short Gulver FXII, main Akurasu spelling preserved; do not add FXII when source omits it."
+  },
+  {
+   "jp": "小バーム",
+   "en": "Little Baam",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://srw.wiki.cre.jp/wiki/%E5%B0%8F%E3%83%90%E3%83%BC%E3%83%A0",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Literal compound from main Baam spelling; SRW Wiki confirms artificial refuge, distinct destroyed Planet Baam. No exact Akurasu/licensed English compound found; do not import other-game events or extra lore."
+  },
+  {
+   "jp": "イワト",
+   "en": "Iwato",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source romanization of Mars polar ruins name. No exact Akurasu/licensed English location name verified; distinct from explicit myth Amano-Iwato in stage17."
+  },
+  {
+   "jp": "演算ユニット",
+   "en": "calculation unit",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/%E7%81%AB%E6%98%9F%E6%A5%B5%E5%86%A0%E9%81%BA%E8%B7%A1",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-literal Nadesico Boson Jump apparatus, Japanese context corroborated by SRW Wiki. Exact independently licensed English label not verified; no outside-game mechanics imported."
+  },
+  {
+   "jp": "熱血とは、盲信に非ず",
+   "en": "Hot blood is not blind faith",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/%E7%86%B1%E8%A1%80%E3%82%AF%E3%83%BC%E3%83%87%E3%82%BF%E3%83%BC",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-literal recurring quoted slogan tied to main Hot-Blooded Coup. SRW Wiki confirms Japanese slogan/event relation. Exact licensed English wording not verified; preserve quotation and each source continuation."
+  },
+  {
+   "jp": "クシナダ",
+   "en": "Kushinada",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source romanization of Nadesico terminal colony. No exact Akurasu or independently licensed English label found; do not use fan-fiction dates/events as provenance."
+  },
+  {
+   "jp": "サクヤ",
+   "en": "Sakuya",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source romanization of Nadesico terminal colony, distinct from unrelated characters/deities. Exact licensed English label unverified; preserve source order and no added lore."
+  },
+  {
+   "jp": "極冠遺跡",
+   "en": "polar-cap ruins",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E7%81%AB%E6%98%9F%E6%A5%B5%E5%86%A0%E9%81%BA%E8%B7%A1"
+   ],
+   "notes": "Source-literal Nadesico Mars-site description, with Japanese context confirmed by SRW Wiki. English wording not independently licensed. Preserve explicit Mars where source includes it; source-short descriptor remains short."
+  },
+  {
+   "jp": "イガグリ君",
+   "en": "Burr-head",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.kanjipedia.jp/kotoba/0001402500",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Source-literal teasing address to Ginga, rejected in next line. Kanji Kentei Foundation dictionary confirms igaguri as short-cropped head metaphor; decorative kun dropped per campaign rules. No exact Akurasu/licensed English nickname found; texture uncertainty retained. Do not replace Ginga's name or speaker label."
+  },
+  {
+   "jp": "ホシノ少佐",
+   "en": "Lieutenant Commander Hoshino",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Specific Ruri surname/rank address. Main profile prescribes Lieutenant Commander; retain it for Japanese 少佐, rather than switching to army Major. No global rank mapping across other franchises."
+  },
+  {
+   "jp": "ミスマル・ユリカ大佐",
+   "en": "Captain Yurika Misumaru",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://nadesico.fandom.com/wiki/Yurika_Misumaru",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Specific Yurika full ranked address. No exact Akurasu rank entry found; Nadesico character profile explicitly lists Rank Captain, agreeing with main ship-captain role. Not army Colonel; no global 大佐 mapping."
+  },
+  {
+   "jp": "感情エネルギーシステム",
+   "en": "emotional energy system",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "Source-short counterpart of main emotional energy conversion system; do not insert conversion where the Japanese omits it. No new mechanic or independently licensed short label asserted."
+  },
+  {
+   "jp": "ザビ家",
+   "en": "Zabi family",
+   "sources": [
+    "https://www.gundam-the-origin.net/en/character/0203.html",
+    "https://www.gundam-the-origin.net/en/world/orientation06.html",
+    "work/translation/en/script/stage18_campaign.json"
+   ],
+   "notes": "No exact Akurasu compound found. Official Gundam The Origin English pages explicitly confirm Zabi family; spelling only, no Origin chronology or outside-setting events imported into MX."
+  },
+  {
+   "jp": "ビーム・サーチャー",
+   "en": "Beam Searcher",
+   "sources": [
+    "work/translation/en/script/stage19_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E6%B0%B4%E3%81%AE%E3%82%AC%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3"
+   ],
+   "notes": "No exact Akurasu weapon entry located. Literal source-short weapon name; Japanese secondary page describes the distinct longer Mega Searcher Beam form, which must not be substituted into this shorter MX dialogue. Independently licensed English short label unestablished; retain provenance flag."
+  },
+  {
+   "jp": "セカンドレッド",
+   "en": "Second Red",
+   "sources": [
+    "work/translation/en/script/stage19_campaign.json",
+    "https://www.evamonkey.com/after-the-end/translation.php"
+   ],
+   "notes": "No exact Akurasu entry located. Source-literal sentai-style title in Asuka's boastful proposed squad name. Eva Monkey's fan translation of After the End independently uses Second Red; this corroborates the allusion but is not licensed English wording. Do not import the other drama's events or longer title into MX; retain provenance flag."
+  },
+  {
+   "jp": "バイオパターン",
+   "en": "bio-pattern",
+   "sources": [
+    "work/translation/en/script/stage19_campaign.json"
+   ],
+   "notes": "No exact Akurasu or independently licensed term located. Literal technical compound for Miku detecting Masato's pattern in this scene. Do not substitute Gundam Bio Sensor, assert biological mechanism, or reveal hidden identities; retain provenance flag."
+  },
+  {
+   "jp": "三島地区",
+   "en": "Mishima district",
+   "sources": [
+    "work/translation/en/script/stage19_campaign.json",
+    "https://www.city.mishima.shizuoka.jp/site/userguide/18416.html"
+   ],
+   "notes": "No exact Akurasu fictional district entry located. Mishima spelling confirmed by the city's official English introduction; district is the source descriptor. This confirms spelling only, not MX geography, administrative boundaries or events. Exact licensed compound unestablished."
+  },
+  {
+   "jp": "タウ",
+   "en": "Tau",
+   "sources": [
+    "https://akurasu.net/wiki/Hades_Project_Zeorymer",
+    "work/translation/en/script/stage19_campaign.json"
+   ],
+   "notes": "Transparent source-short body address derived from Akurasu/main glossary Shi-Tau. Preserve short Tau where source omits Shi; do not change prefilled Shi-Tau speaker or expand dialogue address."
+  },
+  {
+   "jp": "アエン",
+   "en": "Aen",
+   "sources": [
+    "https://akurasu.net/wiki/Hades_Project_Zeorymer",
+    "work/translation/en/script/stage19_campaign.json"
+   ],
+   "notes": "Transparent source-short body address derived from Akurasu/main glossary Shi-Aen, analogous to Tau. Preserve short Aen where source omits Shi; do not change prefilled Shi-Aen speaker or expand dialogue address."
+  },
+  {
+   "jp": "百鬼メカ",
+   "en": "Hyakki mechs",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage20_campaign.json"
+   ],
+   "notes": "Source generic plural/category descriptor based on existing Hyakki faction stem. Akurasu MX uses Hyakki in named units; this does not substitute Combined Hyakki Robot or name a particular mech. Exact independent licensed category wording unestablished."
+  },
+  {
+   "jp": "百鬼兵士",
+   "en": "Hyakki soldiers",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage20_campaign.json"
+   ],
+   "notes": "Source generic personnel descriptor based on existing Hyakki faction stem. No exact Akurasu compound located; retain source category without invented rank or named unit. Exact independently licensed compound unestablished."
+  },
+  {
+   "jp": "光子力反応炉",
+   "en": "Photon Power reactor",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/W/Playable_Unit_Database",
+    "work/translation/en/script/stage20_campaign.json"
+   ],
+   "notes": "Source descriptive reactor compound based on main Photon Power spelling, supported by Akurasu terminology. No exact Akurasu reactor-label entry located; no mechanism or modern reactor physics imported. Exact licensed compound unestablished."
+  },
+  {
+   "jp": "光子力ロケットエンジン",
+   "en": "Photon Power rocket engine",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/W/Playable_Unit_Database",
+    "work/translation/en/script/stage20_campaign.json"
+   ],
+   "notes": "Source descriptive engine compound based on main Photon Power spelling; rocket engine remains explicit. No exact independently licensed compound located; do not replace with a named engine, reactor or outside-setting mechanism."
+  },
+  {
+   "jp": "月光",
+   "en": "moonlight",
+   "sources": [
+    "work/translation/en/script/stage21_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/月のローズセラヴィー"
+   ],
+   "notes": "Source literal elemental taunt in Stage21 row116. No exact Akurasu named-attack entry located. Secondary Japanese weapon list names Luna Flash, Luna Beam and J Kaiser, not this phrase; it does not establish 月光 as a named weapon. Retain lowercase moonlight, without substituting a weapon or importing mechanics. Independent licensed wording unestablished."
+  },
+  {
+   "jp": "葛城博士",
+   "en": "Dr. Katsuragi",
+   "sources": [
+    "work/translation/en/script/stage21_campaign.json",
+    "https://www.evaotaku.com/html/dr2-terminology.html"
+   ],
+   "notes": "Source-short surname and title of Misato's father. Exact Akurasu entry not located; English terminology translation corroborates this spelling. No invented given name or imported history. Secondary fan translation, not proof of licensed English wording."
+  },
+  {
+   "jp": "スーパーソレノイド理論",
+   "en": "Super Solenoid theory",
+   "sources": [
+    "work/translation/en/script/stage21_campaign.json",
+    "https://www.evaotaku.com/html/dr2-terminology.html"
+   ],
+   "notes": "Source theory label, explicitly abbreviated S2 theory in Stage21 row237. Exact Akurasu theory entry not located; secondary terminology translation corroborates Super Solenoid. Do not substitute engine or import energy mechanisms. Independent licensed wording unestablished."
+  },
+  {
+   "jp": "Ｓ２理論",
+   "en": "S2 theory",
+   "sources": [
+    "work/translation/en/script/stage21_campaign.json",
+    "https://www.evaotaku.com/html/dr2-terminology.html"
+   ],
+   "notes": "Exact source ASCII-compatible abbreviation for Super Solenoid theory. Preserve theory rather than naming an engine. Secondary fan translation supports abbreviation; exact licensed label unestablished."
+  },
+  {
+   "jp": "ゲシュペンスト",
+   "en": "Gespenst",
+   "sources": [
+    "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Source-short series name using Akurasu spelling. Do not expand Mk-II or import another game's configuration; plurality is settled only by the MX scene."
+  },
+  {
+   "jp": "イーサン",
+   "en": "Ethan",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Provisional source-name transliteration for an MX flashback soldier. No exact relevant Akurasu/secondary entry located; not Ethan Zoran Overton from another game. Independent English spelling and gender unestablished; retain provenance flag."
+  },
+  {
+   "jp": "ハリオ",
+   "en": "Hario",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Provisional MX flashback name transliteration. No exact relevant Akurasu/secondary entry located. Independent English spelling and gender unestablished; no invented full name or profile."
+  },
+  {
+   "jp": "カリム",
+   "en": "Karim",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Provisional MX flashback name transliteration. No exact relevant Akurasu/secondary entry located. Independent English spelling and gender unestablished; no invented full name or profile."
+  },
+  {
+   "jp": "レッド・ウルフ",
+   "en": "Red Wolf",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Source-literal callsign addressing the male protagonist in the flashback. Exact Akurasu label not located; no connection to unrelated Red Wolf units or characters. Independent licensed wording unestablished."
+  },
+  {
+   "jp": "ザパト",
+   "en": "Zapat",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://superrobotwars.fandom.com/wiki/Mitar_Zapat",
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Source-short surname from the binding main Mitar Zapat spelling. Akurasu's Banpresto character list instead has Mitarl Zapad. Preserve the existing fixed campaign/main spelling, sourced by its character page, to avoid changing the established full name during this translation run. Record this explicit spelling exception in glossary_decisions.md; not a new full-name expansion."
+  },
+  {
+   "jp": "新潟",
+   "en": "Niigata",
+   "sources": [
+    "https://www.city.niigata.lg.jp/",
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Official city English spelling; source district and Sea of Japan coast descriptors remain literal without importing modern administrative boundaries. No exact Akurasu scene-place entry located."
+  },
+  {
+   "jp": "アンポンタン",
+   "en": "Anpontan",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json",
+    "https://gogen-yurai.jp/anpontan/"
+   ],
+   "notes": "Source joke radio callsign; dictionary meaning fool/idiot. Retain romanized label because characters ask its meaning and associate its sound with food. Later row243 must convey insult meaning as well as callback; no exact Akurasu/canonical localization located."
+  },
+  {
+   "jp": "オタンコナス",
+   "en": "Otankonasu",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json",
+    "https://kotobank.jp/word/おたんこなす-452887"
+   ],
+   "notes": "Source joke radio callsign meaning fool/slow-witted idiot. Retain label coordinated with Anpontan; preserve later insult callback and avoid literal eggplant facts. Exact Akurasu/canonical localization not located."
+  },
+  {
+   "jp": "ドキラブ",
+   "en": "heart-throb love",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Provisional localization of source-coined dokidoki-raburabu slang, explicitly expanded by speaker in row82 and recurring81/92. Preserve racing-heart plus lovey-dovey sense and callback. No exact Akurasu/independent licensed label found; retain localization uncertainty."
+  },
+  {
+   "jp": "ちょうちんゴリラ",
+   "en": "lantern-faced gorilla",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ゴル"
+   ],
+   "notes": "Source mocking nickname targeting Gol, independently attested in Japanese character profile. No exact Akurasu epithet or licensed English label found. Lantern and gorilla images are retained; interpreting the lantern image as facial appearance remains an explicit localization inference, not an anatomical fact."
+  },
+  {
+   "jp": "白き流星",
+   "en": "White Shooting Star",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/アムロ",
+    "https://gundam.fandom.com/wiki/Amuro_Ray"
+   ],
+   "notes": "Amuro's Federation epithet: Japanese SRW profile confirms source phrase and Gundam Wiki lists corresponding English alias. No exact Akurasu epithet entry located; independent licensed English provenance unestablished. Do not substitute White Devil or White Unicorn or import profile events."
+  },
+  {
+   "jp": "超人ゴリラ",
+   "en": "superhuman gorilla",
+   "sources": [
+    "work/translation/en/script/stage22_campaign.json"
+   ],
+   "notes": "Source-literal mistaken nickname at Stage22 rows278/280, corrected to ちょうちんゴリラ (lantern-faced gorilla) at279. Preserve correction and apt-description reply. Japanese choujin/chouchin soundplay is not fully reproduced; explicit localization uncertainty retained. No exact Akurasu/independent licensed English phrase located."
+  },
+  {
+   "jp": "死海文書",
+   "en": "Dead Sea Scrolls",
+   "sources": [
+    "https://wiki.evageeks.org/Dead_Sea_Scrolls",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row1 fictional Evangelion document label. No exact Akurasu entry located; secondary EvaGeeks corroborates English name. Do not import historical details or Secret qualifier absent from source."
+  },
+  {
+   "jp": "セントラル・ドグマ",
+   "en": "Central Dogma",
+   "sources": [
+    "https://www.evaotaku.com/html/dr2-terminology.html",
+    "https://evangelion.fandom.com/wiki/Central_Dogma",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row10 fictional NERV location. No exact Akurasu entry located; secondary English terminology corroborates label. Do not replace with Terminal Dogma or import facility lore."
+  },
+  {
+   "jp": "調律者",
+   "en": "Tuner",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ラーゼフォン",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row25 source-literal musical role. Secondary Japanese SRW entry corroborates tuning imagery, not licensed English translation. No exact Akurasu or independently verified licensed English label located; provisional wording, do not substitute Olin/Instrumentalist or disclose identity."
+  },
+  {
+   "jp": "ハーモニクス試験",
+   "en": "harmonics test",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 rows33/46/47 source technical compound;47 explicitly relates to EVA synchronization-rate measurement. No exact Akurasu or independently verified licensed English compound located. Preserve source explanation without additional mechanics."
+  },
+  {
+   "jp": "パーソナルパターン",
+   "en": "personal patterns",
+   "sources": [
+    "https://w.atwiki.jp/evacommu/pages/409.html",
+    "https://transcripts.foreverdreaming.org/viewtopic.php?t=77624",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row75 source technical label; secondary Japanese EVA wiki and English episode14 transcript corroborate wording, not licensed-proof. No exact Akurasu entry located. Do not resolve patterns to soul/personality or import fan mechanisms."
+  },
+  {
+   "jp": "ＪＵＰＩＴＥＲ現象",
+   "en": "JUPITER phenomenon",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source294 comparison only; exact acronym retained. No exact Akurasu/independent licensed English compound located. Do not assert identity with TOKYO JUPITER or supply mechanism."
+  },
+  {
+   "jp": "ＦＨスーツ",
+   "en": "FH suit",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source298 includes failing suit life support. No exact Akurasu/independent licensed English compound located. Keep FH unexpanded; do not invent acronym meaning."
+  },
+  {
+   "jp": "シンクログラフ",
+   "en": "synchrograph",
+   "sources": [
+    "https://www.evastore.jp/shop/g/gD5002204/",
+    "https://kph.xxxxxxxx.jp/eva/archives/scm/data/dictionary/04.html",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source313 technical readout. Official EVAstore corroborates Japanese motif; secondary dictionary has Synchro graph. Chosen transparent compound, licensed English spelling not independently established; no exact Akurasu entry. Do not replace reversal/pulse flow with invented behavior."
+  },
+  {
+   "jp": "精神汚染",
+   "en": "mental contamination",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source317 technical mental-effect warning, distinct from moral taint in84/85. Literal term; no exact Akurasu/independent licensed English compound located. Do not add diagnosis or mechanism."
+  },
+  {
+   "jp": "不可知領域",
+   "en": "unknowable realm",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source326/336 provisional literal technical label. No exact Akurasu/independent English entry located; do not substitute a named dream world or imply a known mechanism."
+  },
+  {
+   "jp": "位相空間",
+   "en": "phase space",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source357 speculative technical location,358 comic reprise. Literal compound, no exact Akurasu/independent licensed-English phrase located; preserve speculation rather than assert travel mechanics."
+  },
+  {
+   "jp": "マクー空間",
+   "en": "Makuu Space",
+   "sources": [
+    "https://tamashiiweb.com/item/14206/?wovn=en",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source358 Kaine comic alternative reference. Official Bandai/Tamashii English product corroborates Makuu Space naming; no exact Akurasu entry. Do not append Gavan explanation or claim this is the Dolem's actual space."
+  },
+  {
+   "jp": "補完計画",
+   "en": "Instrumentality Project",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://www.evaotaku.com/html/rcb-glossary.html",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source458 short form of main Human Instrumentality Project, also corroborated by secondary English terminology. Preserve short form without adding Human or exposing unspecified secrets."
+  },
+  {
+   "jp": "虚数回路",
+   "en": "imaginary-number circuit",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source400 literal technical compound. No exact Akurasu/independent licensed English established. Preserve one-thousandth-second interference interval without importing original-series mechanism."
+  },
+  {
+   "jp": "回廊",
+   "en": "corridor",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Source326/401 literal corridor formed/destroyed in Dolem rescue plan. No exact Akurasu/independent licensed English label located. Do not resolve to a named dimension or supply additional mechanism."
+  },
+  {
+   "jp": "演奏",
+   "en": "perform",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 rows552/554 quoted musical verb; source-literal provisional wording, no independently verified licensed English label. Preserve the musical imagery without importing identity or mechanisms."
+  },
+  {
+   "jp": "エヴァ",
+   "en": "Eva",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row600 quoted symbolic name alongside Adam. Preserve source-specific title case Eva, distinct from machine acronym EVA; do not add biblical or franchise explanation."
+  },
+  {
+   "jp": "失われた星を抱いた神の鳥人",
+   "en": "the divine bird-man bearing the lost star",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row625 symbolic descriptive phrase, source-literal provisional English. Preserve imagery and uncertain referent; do not substitute a named machine or disclose identity."
+  },
+  {
+   "jp": "コンタクトレッド",
+   "en": "Contact red",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row688 literal warning preceding D1/D2 contact report. No exact Akurasu or independently corroborated English wording located; retain source designation without inventing alert mechanics."
+  },
+  {
+   "jp": "ＡＣレコーダー",
+   "en": "AC recorder",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json",
+    "https://transcripts.foreverdreaming.org/viewtopic.php?t=77627"
+   ],
+   "notes": "Stage23 row785 source EVA recorder label. No exact Akurasu entry located; secondary English episode17 transcript corroborates wording, not independently verified licensed translation. Keep AC unexpanded and hidden speaker unchanged."
+  },
+  {
+   "jp": "リッちゃん",
+   "en": "Rits",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row815 Kaji's source-short Ritsuko nickname. Provisional spoken English nickname; decorative chan dropped under campaign rules. No independently verified licensed English nickname located; do not expand to full Ritsuko."
+  },
+  {
+   "jp": "特殊監査部",
+   "en": "Special Inspection Department",
+   "sources": [
+    "https://evangelion.fandom.com/wiki/Ryoji_Kaji",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row807 NERV department follows existing main Kaji character profile. Secondary English name, independently licensed wording unverified. Do not change source organization or add spying lore."
+  },
+  {
+   "jp": "地球連邦政府調査部",
+   "en": "Earth Federation Government Investigation Department",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json"
+   ],
+   "notes": "Stage23 row808 game-specific organization; source-literal provisional English, not independently canonical. Preserve Earth Federation Government rather than importing the anime's Japanese ministry."
+  },
+  {
+   "jp": "第一使徒",
+   "en": "First Angel",
+   "sources": [
+    "work/translation/en/script/stage23_campaign.json",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Stage23 rows715/821 explicit ordinal plus binding Angel term. Adam identified only where source821 names Adam; do not add identity to unnamed earlier reference."
+  },
+  {
+   "jp": "ターミナルコロニー",
+   "en": "Terminal Colony",
+   "sources": [
+    "https://akurasu.net/wiki/Another_Century%27s_Episode/Flow_Chart",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row11 source-short location type, Akurasu mission10 NadesicoB wording corroborates. Do not expand to Amaterasu or another named colony absent from source."
+  },
+  {
+   "jp": "七曜九執",
+   "en": "seven and nine luminaries",
+   "sources": [
+    "https://www.mdpi.com/2077-1444/15/11/1321",
+    "https://coc.lib.shimane-u.ac.jp/files/attach/3/3342/松江市歴史叢書15.pdf",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row70 ritual claim. Academic research and Japanese municipal history corroborate seven luminaries and nine graha/luminaries; 九執 is 九曜, not nine political rulers. Preserve both source numbers without an explanatory catalogue. Exact licensed English poem unverified."
+  },
+  {
+   "jp": "紫微",
+   "en": "Purple Forbidden Enclosure",
+   "sources": [
+    "https://hk.space.museum/en/web/spm/resources/teachers-corner/constellations-and-myths/glossary-of-chinese-star-regions-asterisms-and-star-names.html",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row70 celestial ritual reference; official Hong Kong Space Museum astronomy glossary corroborates 紫微垣 English. This source has short 紫微; contextual celestial-region rendering is an inference, not licensed-game proof. Do not replace with terrestrial Forbidden City or add cosmology."
+  },
+  {
+   "jp": "ムーンレイカー作戦",
+   "en": "Operation Moonraker",
+   "sources": [
+    "https://akurasu.net/wiki/MXPFlow_Chart",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Flow_Chart",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row132 operation name, Akurasu MXP space-route chapter heading corroborates English. Do not add Bond reference or operation details not in source."
+  },
+  {
+   "jp": "アナハイム",
+   "en": "Anaheim",
+   "sources": [
+    "https://akurasu.net/wiki/Kidou_Senshi_Gundam_UC/Awakening_Ability_List",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row123 source-short organization follows Akurasu direct JP/EN entry. Do not expand to Anaheim Electronics absent from source."
+  },
+  {
+   "jp": "ゲッターエネルギー",
+   "en": "Getter energy",
+   "sources": [
+    "work/translation/en/script/stage24_campaign.json",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Stage24 row135 literal energy description from fixed Getter name; no independently verified exact compound located. Do not substitute Getter Rays, which is different source wording."
+  },
+  {
+   "jp": "ムートロン・エネルギー",
+   "en": "Mutron energy",
+   "sources": [
+    "work/translation/en/script/stage24_campaign.json",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Stage24 row135 literal energy compound from fixed main Mutron term. Main entry notes secondary English energy usage; exact licensed compound unverified. Do not substitute Mutronium metal."
+  },
+  {
+   "jp": "丹田",
+   "en": "lower abdomen",
+   "sources": [
+    "https://tsukuba.repo.nii.ac.jp/record/38555/files/IF_5-A4.pdf",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row209 martial training instruction. University of Tsukuba research corroborates abdominal center below navel and ki terminology. Contextual English location rendering, not licensed-game proof; no extra bodily mechanism added."
+  },
+  {
+   "jp": "気",
+   "en": "ki",
+   "sources": [
+    "https://tsukuba.repo.nii.ac.jp/record/38555/files/IF_5-A4.pdf",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row209 martial-energy usage only, supported by University of Tsukuba research. This context-specific entry does not govern 気 in ordinary expressions for feelings or attention."
+  },
+  {
+   "jp": "ガンダムファイター",
+   "en": "Gundam Fighter",
+   "sources": [
+    "https://akurasu.net/wiki/Chibodee_Crocket",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row216 human competitor title follows Akurasu. Row217 explicitly jokes GEAR Fighter instead; preserve that source human-title joke despite normal machine-class usage of GEAR Fighter."
+  },
+  {
+   "jp": "電磁毒手刀",
+   "en": "Denji Dokushuto",
+   "sources": [
+    "https://w.atwiki.jp/k2727324602/pages/56.html",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row354 Bug's named technique/title after fixed Tenku Chushin Ken. Provisional ASCII romanization; secondary Japanese MX character entry corroborates Japanese label only. No exact Akurasu or independently canonical English name located; no added poison mechanics."
+  },
+  {
+   "jp": "天空魔城",
+   "en": "Heavenly Demon Castle",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row375 source-short location derived from main 天空魔城決戦=Battle of the Heavenly Demon Castle. Main entry itself marks this as a translation, not established licensed English; retain provenance limit."
+  },
+  {
+   "jp": "天",
+   "en": "Heaven",
+   "sources": [
+    "work/translation/en/script/stage24_campaign.json",
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage24 rows82/330 cryptic source-short target only. Do not expand to named Zeorymer or apply globally to ordinary heaven references. 八卦 in330 remains ambiguous collective the Hakke, not forcibly expanded to Hakkeshu people or Hakke robots; the existing Stage12 八卦 entry has a different explicit people-only scope. Stage29 rows151/157 likewise retain source-short Heaven as unit epithet, without expanding the full unit name; meaning verified against original rows. Earlier English unchanged."
+  },
+  {
+   "jp": "地球圏",
+   "en": "Earth Sphere",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/OGs/Story",
+    "work/translation/en/script/stage24_campaign.json"
+   ],
+   "notes": "Stage24 row413 geographical collective follows Akurasu English usage. Do not import OG-specific historical details or jurisdiction boundaries into MX."
+  },
+  {
+   "jp": "ドラゴンドライブ",
+   "en": "Dragon Drive",
+   "sources": [
+    "https://www.dendoh.net/mecha/?id=m07",
+    "work/translation/en/script/stage25_campaign.json"
+   ],
+   "notes": "Stage25 install command, transparent transliteration of official Japanese program list. Exact command absent from searched Akurasu pages; full Dragon Flare name remains Akurasu-backed. Independently licensed English command wording unverified."
+  },
+  {
+   "jp": "ボアドライブ",
+   "en": "Boar Drive",
+   "sources": [
+    "https://www.dendoh.net/mecha/?id=m08",
+    "work/translation/en/script/stage25_campaign.json"
+   ],
+   "notes": "Stage25 install command, transparent transliteration of official Japanese program list. Exact command absent from searched Akurasu pages; full Gatling Boar remains Akurasu-backed. Independently licensed English command wording unverified."
+  },
+  {
+   "jp": "ブルドライブ",
+   "en": "Bull Drive",
+   "sources": [
+    "https://www.dendoh.net/mecha/?id=m06",
+    "work/translation/en/script/stage25_campaign.json"
+   ],
+   "notes": "Stage25 install command, transparent transliteration of official Japanese program list. Exact command absent from searched Akurasu pages; full Bull Horn remains Akurasu-backed. Independently licensed English command wording unverified."
+  },
+  {
+   "jp": "電子聖獣",
+   "en": "electronic sacred beasts",
+   "sources": [
+    "https://www.dendoh.net/world/",
+    "work/translation/en/script/stage25_campaign.json"
+   ],
+   "notes": "Stage25 Rom137 description of Data Weapons, literal rendering corroborated by official Japanese electronic sacred beast description. No exact Akurasu English compound found; independently licensed English wording unverified. Do not replace source descriptor with full Data Weapon name."
+  },
+  {
+   "jp": "ボア",
+   "en": "Boar",
+   "sources": [
+    "https://www.dendoh.net/story/episode.php?id=19",
+    "https://akurasu.net/wiki/Master_Unit_List",
+    "work/translation/en/script/stage25_campaign.json"
+   ],
+   "notes": "Stage25 source-short Data Weapon reference only, attested official Japanese episode synopsis and Akurasu full Gatling Boar spelling. Preserve short form; not a global ordinary animal term override."
+  },
+  {
+   "jp": "ドラゴン",
+   "en": "Dragon",
+   "sources": [
+    "https://www.dendoh.net/story/episode.php?id=19",
+    "https://akurasu.net/wiki/Master_Unit_List",
+    "work/translation/en/script/stage25_campaign.json",
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage25 source-short Data Weapon reference only, attested official Japanese episode synopsis and Akurasu full Dragon Flare spelling. Preserve short form; not a global ordinary creature term override. Stage30 Getter battle context instead denotes source-short Getter Dragon; same English Dragon, no forced Data Weapon interpretation or full-name expansion. Distinguish using scene context."
+  },
+  {
+   "jp": "駿河湾",
+   "en": "Suruga Bay",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Story/Stage_04S",
+    "https://www.mlit.go.jp/kankocho/cruise/detail/096/index.html",
+    "work/translation/en/script/stage26_campaign.json"
+   ],
+   "notes": "Stage26 geographic location follows Akurasu's Suruga Bay coast spelling, independently confirmed by official Japan Tourism Agency port guide. Import no Z-story facts."
+  },
+  {
+   "jp": "Ｎ２兵器",
+   "en": "N2 weapons",
+   "sources": [
+    "https://www.akurasu.net/wiki/MXPFlow_Chart",
+    "https://www.evastore.jp/shop/g/gC7004129/",
+    "work/translation/en/script/stage26_campaign.json"
+   ],
+   "notes": "Stage26 generic weapon-class phrase, literal weapons with existing Akurasu N2 spelling. Official EVA Store lists N2 warhead and depth charge separately, corroborating class breadth. Do not narrow to N2 mine/depth charge or expand acronym/mechanism; exact licensed English compound remains unverified."
+  },
+  {
+   "jp": "富士",
+   "en": "Fuji",
+   "sources": [
+    "https://www.city.fuji.shizuoka.jp/1015130000/p003392.html",
+    "https://www.mlit.go.jp/kankocho/cruise/detail/092/index.html",
+    "work/translation/en/script/stage26_campaign.json"
+   ],
+   "notes": "Stage26 row43 source-short geographic direction only, romanization confirmed by official city/port English. No exact Akurasu location entry found. Do not expand source to Fuji City or Mount Fuji; precise regional referent remains unspecified."
+  },
+  {
+   "jp": "イエローマウンテン隊",
+   "en": "Yellow Mountain Squad",
+   "sources": [
+    "work/translation/en/script/stage27_campaign.json"
+   ],
+   "notes": "Stage27 row0 Federation formation's radio identification. Transparent transliteration of source English loanwords plus squad for formation suffix. No exact Akurasu or corroborating external entry found; independent English formation-name provenance unverified. Not the geographic Yellow Mountain, and no additional organization history inferred."
+  },
+  {
+   "jp": "Ｊカイザー",
+   "en": "J-Kaiser",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://www.goodsmile.com/en/product/6968/MODEROID%2BGreat%2BZeorymer",
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row173 game orthographic alias of existing main ジェイ・カイザー=J-Kaiser; main notes already identify this spelling. No exact Akurasu entry found; official licensed Good Smile English product description corroborates J-Kaiser attack spelling. Do not import Great Zeorymer mechanics or English dialogue."
+  },
+  {
+   "jp": "インクレメントゥム",
+   "en": "Incrementum",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ラテン語",
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row473 named activation process; Latin spelling corroborated by Japanese SRW wiki MX Latin table after no exact Akurasu entry found. Retain source process name rather than replacing with growth or adding mechanics. Independently licensed English dialogue wording unverified."
+  },
+  {
+   "jp": "マルティプリケイション",
+   "en": "multiplication",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row471 technical command component, transparent return of English loanword. No exact Akurasu entry or independently licensed English command located; do not infer omitted software structure or separate mechanics."
+  },
+  {
+   "jp": "エヴォリューション",
+   "en": "evolution",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row471 technical command component, transparent English loanword. No independently licensed English command wording established; scoped to source command, no mechanics added."
+  },
+  {
+   "jp": "フィギュアイメージ",
+   "en": "figure image",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row473 technical command label, transparent loanword rendering. Retain label instead of guessing form template/physical design/model structure. Exact Akurasu or independently licensed English label unverified."
+  },
+  {
+   "jp": "成長記憶シリコン",
+   "en": "growth-memory silicone",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/氷室美久"
+   ],
+   "notes": "Stage29 row38 synthetic body material. Source supplies growth-memory compound; secondary SRWwiki identifies a growth-silicon body coating. Silicone chosen from body-coating context as an inference, exact chemistry and licensed English term unverified; no added mechanism. No exact Akurasu entry found."
+  },
+  {
+   "jp": "推論型ＡＩ",
+   "en": "inference-based AI",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage29 row39 literal descriptive AI type; no exact Akurasu or licensed English terminology established. Do not import modern AI mechanics."
+  },
+  {
+   "jp": "黒き月",
+   "en": "Black Moon",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage29 row58 source-literal proper designation; exact Akurasu/independent licensed English entry not located. Do not expand to an organization, character or Evangelion mechanism not stated here."
+  },
+  {
+   "jp": "山",
+   "en": "Mountain",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Master_Unit_List"
+   ],
+   "notes": "Stage29 row243 quoted source-short epithet only, existing Burrstone of the Mountains unit identity. Preserve singular source label; do not apply globally to ordinary mountains or expand full unitname."
+  },
+  {
+   "jp": "雷",
+   "en": "Lightning",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Master_Unit_List"
+   ],
+   "notes": "Stage29 row243 quoted source-short epithet only, existing Omzack of the Lightning identity. Do not expand fullunit name or apply globally to ordinary lightning."
+  },
+  {
+   "jp": "エネルギー遮断フィールド",
+   "en": "energy-blocking field",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ズリル"
+   ],
+   "notes": "Stage30 rows32/33 source-literal field name. Japanese SRWwiki Zuril corroborates MX field and operation after no exact Akurasu entry found. Independent licensed English label unverified; do not add physical mechanism."
+  },
+  {
+   "jp": "重爆特攻作戦",
+   "en": "Operation Heavy Bomber Suicide Strike",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ズリル"
+   ],
+   "notes": "Stage30 row36 explicitly named operation. Transparent heavy-bomber/suicide-strike rendering; Japanese SRWwiki Zuril corroborates Japanese operation only. Exact Akurasu or licensed English operation name unverified; no historical real-world operation imported."
+  },
+  {
+   "jp": "ゲッターシャイン",
+   "en": "Getter Shine",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row217 literal attack/activation call distinct from following Shine Spark. No exact Akurasu or independent licensed English call located; retain source loanword, no inferred mechanics."
+  },
+  {
+   "jp": "少年科学研修生",
+   "en": "junior science trainee",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row416 cover role used by Midori; literal ordinary role translation, no invented official agency/course status. Exact Akurasu or licensed English title unverified."
+  },
+  {
+   "jp": "プルニウス",
+   "en": "Pliny",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://www.gutenberg.org/files/60230/60230-h/60230-h.htm"
+   ],
+   "notes": "Stage30 row553 attribution normalized to English source-short Pliny. Quotation identifies Pliny the Elder Natural History VII introduction, public-domain primary text corroborates humans harming humans. No exact Akurasu attribution entry found; translate game quote rather than importing translator prose/biography."
+  },
+  {
+   "jp": "蒼タカ",
+   "en": "Blue Hawk",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "Stage30 row556 source-short taunting nickname derived from existing main Blue Hawk of Giganos; preserve short title, do not expand full name or organization."
+  },
+  {
+   "jp": "ジオン・ズム・ダイクン",
+   "en": "Zeon Zum Deikun",
+   "sources": [
+    "https://akurasu.net/wiki/Char_Aznable"
+   ],
+   "notes": "Stage30 row585 full name, Akurasu father relationship on Char profile. No additional biography imported."
+  },
+  {
+   "jp": "ジャミトフ・ハイマン",
+   "en": "Jamitov Hymen",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Character_List",
+    "https://akurasu.net/wiki/Mobile_Suit_Z_Gundam"
+   ],
+   "notes": "Stage30 row593 exact full name. Akurasu 64 and series character list agree Hymen; alternative spelling Hymem on SRW4 list not chosen. No existing glossary entry overridden."
+  },
+  {
+   "jp": "ハマーン・カーン",
+   "en": "Haman Karn",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Character_List"
+   ],
+   "notes": "Stage30 rows544/593 source full name; retains existing Haman short entry and no silent full-name expansion."
+  },
+  {
+   "jp": "カウンタープロテクト",
+   "en": "Counter Protect",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row661 literal loanword command. No exact Akurasu or independent licensed English label found; no invented mechanism."
+  },
+  {
+   "jp": "防衛プログラム",
+   "en": "defense program",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 rows652/660/661 ordinary technical noun. Printed identifiers normalize to ASCII W115, pattern D, Ver.1.2 with exact values; not an inferred network address."
+  },
+  {
+   "jp": "２５８コア",
+   "en": "Core 258",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row671 literal numbered internal core. Preserve number258; no invented location mechanics or official English claim."
+  },
+  {
+   "jp": "バズーカ砲",
+   "en": "Bazooka",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "天空真剣・貫身突き",
+   "en": "Tenku Shinken: Piercing Thrust",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Uncertain: series not identified; 天空真剣 kept romanized."
+  },
+  {
+   "jp": "天空真剣奥義・重ね鎌鼬",
+   "en": "Tenku Shinken Secret: Twin Kamaitachi",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Uncertain: series not identified; 天空真剣 and 鎌鼬 kept romanized."
+  },
+  {
+   "jp": "サンダースマッシュ",
+   "en": "Thunder Smash",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "サンダークロー",
+   "en": "Thunder Claw",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "サンダースイング",
+   "en": "Thunder Swing",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "運命両断剣ツインブレード",
+   "en": "Fate-Severing Sword Twin Blade",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "宇宙機雷",
+   "en": "Space Mine",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ロングレンジビームキャノン",
+   "en": "Long Range Beam Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Beam Cannon as in the glossary"
+  },
+  {
+   "jp": "バーニングフレア",
+   "en": "Burning Flare",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ドラゴンフレアＦＡ",
+   "en": "Dragon Flare FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. FA as in Phoenix Alae FA / Kiba Striker FA"
+  },
+  {
+   "jp": "イリュージョンアタック",
+   "en": "Illusion Attack",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "バイパーウィップＦＡ",
+   "en": "Viper Whip FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ユニコーンドリルＦＡ",
+   "en": "Unicorn Drill FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "電童剣",
+   "en": "Dendoh Sword",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ガトリングランチャー",
+   "en": "Gatling Launcher",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ガトリングボアＦＡ",
+   "en": "Gatling Boar FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ブルホーンＦＡ",
+   "en": "Bull Horn FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "サークルカッター",
+   "en": "Circle Cutter",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "レオ旋風脚",
+   "en": "Leo Whirlwind Kick",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "レオサークルＦＡ",
+   "en": "Leo Circle FA",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ベーゴマ爆弾",
+   "en": "Spinning Top Bomb",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "レーザー砲",
+   "en": "Laser Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "グラビティブラスト",
+   "en": "Gravity Blast",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. same English as 重力波砲 in the glossary"
+  },
+  {
+   "jp": "炸裂ボルト",
+   "en": "Burst Bolt",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "メガ粒子砲",
+   "en": "Mega Particle Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ロング・メガ・バスター",
+   "en": "Long Mega Buster",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "キック",
+   "en": "Kick",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "拡散ミサイル",
+   "en": "Spread Missile",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "未使用",
+   "en": "Unused",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. placeholder record name"
+  },
+  {
+   "jp": "サンダーブレイク",
+   "en": "Thunder Break",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "フォトンブラスター",
+   "en": "Photon Blaster",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ラゴウウィルス",
+   "en": "Lagowe Virus",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Lagowe as in the glossary"
+  },
+  {
+   "jp": "未定",
+   "en": "TBD",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. placeholder record name"
+  },
+  {
+   "jp": "リニア・カノン",
+   "en": "Linear Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "１２連装機関砲",
+   "en": "12-Barrel Machine Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "大型巡航ミサイル",
+   "en": "Large Cruise Missile",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "１００連装ミサイルポッド",
+   "en": "100-Tube Missile Pod",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Missile Pod as in the glossary"
+  },
+  {
+   "jp": "５連ＩＲＭポッド",
+   "en": "5-Tube IRM Pod",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. follows 7-Tube IRM Pod in the glossary"
+  },
+  {
+   "jp": "大型ハンドレールガン",
+   "en": "Large Hand Rail Gun",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. follows 75 mm Hand Rail Gun in the glossary"
+  },
+  {
+   "jp": "タックル",
+   "en": "Tackle",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "拡散ビーム砲",
+   "en": "Spread Beam Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ウォルターテンタクル",
+   "en": "Walter Tentacle",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Uncertain: ウォルター may be a mistranscribed Water; series not identified."
+  },
+  {
+   "jp": "ヘブンズダート",
+   "en": "Heaven's Dart",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ウィンドファイヤー",
+   "en": "Wind Fire",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "虹色の脚",
+   "en": "Rainbow Legs",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ハイパー銀色の脚スペシャル",
+   "en": "Hyper Silver Legs Special",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "グランドホーン",
+   "en": "Grand Horn",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "グランドボンバー",
+   "en": "Grand Bomber",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "グランドサンダー",
+   "en": "Grand Thunder",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "グランドキャノン",
+   "en": "Grand Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "棍棒",
+   "en": "Club",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "棍棒型ビームライフル",
+   "en": "Club-Type Beam Rifle",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "アイビーム",
+   "en": "Eye Beam",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ダブル大輪投げ",
+   "en": "Double Great Wheel Throw",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. follows 大輪投げ = Great Wheel Throw in the glossary"
+  },
+  {
+   "jp": "爆弾",
+   "en": "Bomb",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ウイングカッター",
+   "en": "Wing Cutter",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "噛みつき",
+   "en": "Bite",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "火炎砲",
+   "en": "Flame Cannon",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ライトニングアロー",
+   "en": "Lightning Arrow",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ビッグレーザー",
+   "en": "Big Laser",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "マリンヴォルテックス",
+   "en": "Marine Vortex",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry."
+  },
+  {
+   "jp": "ブレイウェイン",
+   "en": "Brei Wayne",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Uncertain: meaning unknown; romanized."
+  },
+  {
+   "jp": "デッド・ロンフーン",
+   "en": "Dead Long Fuun",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. Uncertain: series not identified; romanized."
+  },
+  {
+   "jp": "全開Ｊカイザー",
+   "en": "Full-Power J-Kaiser",
+   "category": "weapon",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Weapon name in STATIC2_ADD.BIN (Strg). Not used by any unit in MX Portable (none of the 512 Unit weapon lists points at it), so it is never shown; akurasu has no entry. J-Kaiser as in the glossary (ジェイ・カイザー)"
+  },
+  {
+   "jp": "Ｉフィールド発生装置",
+   "en": "I-Field Generator",
+   "category": "part",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Part name in STATIC2_ADD.BIN (Part section). akurasu has no entry. the glossary has it under the half-width key Iフィールド発生装置"
+  },
+  {
+   "jp": "重力波ビーム発生機",
+   "en": "Gravity Wave Beam Generator",
+   "category": "part",
+   "series": "",
+   "sources": [
+    "game data: STATIC2_ADD.BIN",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "Part name in STATIC2_ADD.BIN (Part section). akurasu has no entry. Gravity Wave Beam as in the glossary"
+  }
+ ],
+ "characters": [
+  {
+   "jp_full": "巴武蔵",
+   "jp_short": "ムサシ",
+   "en_full": "Musashi Tomoe",
+   "en_short": "Musashi",
+   "gender": "male",
+   "position": "Former Getter Team pilot of Bear-Gou/Getter-3; deceased in MX story",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "https://en.wikipedia.org/wiki/List_of_Getter_Robo_characters"
+   ],
+   "notes": "Existing main glossary term 武蔵 also records full name. Gender follows he/his reference, not name inference."
+  },
+  {
+   "jp_full": "ギニール",
+   "jp_short": "ギニール",
+   "en_full": "Guineer",
+   "en_short": "Guineer",
+   "gender": "unknown",
+   "position": "Officer mentioned by Dragonar team; source rank Second Lieutenant",
+   "sources": [
+    "https://www.dragonar.net/character/e06.php",
+    "work/translation/en/script/stage02_campaign.json"
+   ],
+   "notes": "Official site lists Japanese name; Guineer is provisional English transliteration with no canonical spelling established. Keep uncertainty; never infer gender from name."
+  },
+  {
+   "jp_full": "神宮寺力",
+   "jp_short": "神宮寺",
+   "en_full": "Chikara Jinguji",
+   "en_short": "Jinguji",
+   "gender": "unknown",
+   "position": "Deceased Raideen ally mentioned by Akira",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Compact/Pilot_Database"
+   ],
+   "notes": "Exact Akurasu name. Surname-only when source says 神宮寺; gender not inferred from name."
+  },
+  {
+   "jp_full": "リンダ・プラート",
+   "jp_short": "リンダ",
+   "en_full": "Linda Plato",
+   "en_short": "Linda",
+   "gender": "female",
+   "position": "Dragonar shipmate and Kaine's crush",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "work/translation/en/script/stage03_campaign.json"
+   ],
+   "notes": "Gender explicitly source row727 女の子. Preserve source short name."
+  },
+  {
+   "jp_full": "フォリア・エスト",
+   "jp_short": "フォリア",
+   "en_full": "Folia Esto",
+   "en_short": "Folia",
+   "gender": "male",
+   "position": "Cry Wolves warrant officer; Albero Esto son and Hugo former comrade",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/OGG/Timetable",
+    "work/translation/en/script/stage05_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%88",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Akurasu confirms short Folia; main glossary confirms Albero Esto surname; SRW Wiki explicitly confirms full Japanese name, male gender and father/son relationship. Full English compound is derived from established components; no independent licensed full-name spelling verified. Do not reveal hidden speakers or import OG-only events into MX.",
+   "personality": "Hotheaded, eager to prove himself; struggles to suppress personal attachment."
+  },
+  {
+   "jp_full": "出雲銀河",
+   "jp_short": "ギン",
+   "en_full": "Ginga Izumo",
+   "en_short": "Gin",
+   "gender": "male",
+   "position": "Midori's contextual nickname for Ginga",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage04_campaign.json"
+   ],
+   "notes": "Source nickname in stage04 row554; preserve Gin rather than normalize it to full Ginga. Gender from existing main Ginga profile."
+  },
+  {
+   "jp_full": "ひびき玲子",
+   "jp_short": "玲子",
+   "en_full": "Reiko Hibiki",
+   "en_short": "Reiko",
+   "gender": "female",
+   "personality": "gentle, resolute",
+   "position": "Dr. Hibiki's wife; existing Lemuria profile records Akira's mother",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage09_campaign.json"
+   ],
+   "notes": "Exact Akurasu name. Wife and she explicitly establish gender at51/52, not inferred from name. Main Lemuria profile supplies personality/relationship. Do not expand short Reiko to other identity/title absent source."
+  },
+  {
+   "jp_full": "シュバルツ・ブルーダー",
+   "jp_short": "シュバルツ",
+   "en_full": "Schwarz Bruder",
+   "en_short": "Schwarz",
+   "gender": "male",
+   "personality": "observant, intelligent, gives Domon precise advice",
+   "position": "Neo Germany's Gundam Fighter and Domon's adviser",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/A/Pilot_Database",
+    "https://gundam.fandom.com/wiki/Schwarz_Bruder"
+   ],
+   "notes": "Exact Akurasu full/short spelling. Gender/role/personality explicitly supported by Gundam Wiki, not inferred from name. Do not add an identity revelation before source reveals it."
+  },
+  {
+   "jp_full": "流竜馬",
+   "jp_short": "リョウ",
+   "en_full": "Ryoma Nagare",
+   "en_short": "Ryo",
+   "gender": "male",
+   "personality": "responsible, serious, single-minded",
+   "position": "Getter Team leader, Getter Dragon pilot",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo",
+    "https://srw.wiki.cre.jp/wiki/流竜馬",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "SRW Wiki explicitly lists source nickname リョウ. Ryo preserves shortened address; source竜馬 remains Ryoma. Gender and role independently sourced, not inferred from name. Not the separate Apocrypha Getter Robo Darkness character named Ryo. Akurasu Getter Robo episode19 English title explicitly uses Ryo, corroborating nickname spelling."
+  },
+  {
+   "jp_full": "紫東恵",
+   "jp_short": "メグ",
+   "en_full": "Megumi Shitow",
+   "en_short": "Meg",
+   "gender": "female",
+   "personality": "bright, energetic, carefully considerate",
+   "position": "TERRA trainee operator; Haruka's younger sister",
+   "sources": [
+    "https://akurasu.net/wiki/RahXephon",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage13_campaign.json"
+   ],
+   "notes": "Source-short nickname in rows78/87; preserve Meg instead of expanding to Megumi. Exact full name Akurasu; gender, personality and role from existing sourced main profile, never inferred from name. Source also retains normal Megumi when written 恵."
+  },
+  {
+   "jp_full": "フリード王",
+   "jp_short": "フリード王",
+   "en_full": "King Fleed",
+   "en_short": "King Fleed",
+   "gender": "male",
+   "personality": "unestablished",
+   "position": "King of Planet Fleed; Duke and Maria's father in the original Grendizer story",
+   "sources": [
+    "https://akurasu.net/wiki/UFO_Robot_Grendizer",
+    "https://mazinger.fandom.com/wiki/Planet_Fleed",
+    "work/translation/en/script/stage15_campaign.json"
+   ],
+   "notes": "Akurasu confirms Planet Fleed and Duke's crown-prince role; supplementary series wiki explicitly identifies Duke/Maria's parents as king and queen. King Fleed transparently preserves the source royal designation; independently licensed standalone English label unestablished. Do not substitute King Vega, introduce a reboot-specific personal name or disclose the hidden attacker before the source reveal. Gender follows the father/king role, not inference from Fleed."
+  },
+  {
+   "jp_full": "ギレン・ザビ",
+   "jp_short": "ギレン",
+   "en_full": "Gihren Zabi",
+   "en_short": "Gihren",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "charismatic, cold, ambitious and overconfident political leader",
+   "position": "Supreme Commander and de facto highest leader of the Principality of Zeon",
+   "series": "Mobile Suit Gundam",
+   "sources": [
+    "https://akurasu.net/wiki/Seiyuu_List",
+    "https://www.akurasu.net/wiki/SD_Gundam_G_Generation/G_Generation/Pilot_Database",
+    "https://srw.wiki.cre.jp/wiki/ギレン・ザビ"
+   ],
+   "notes": "Akurasu establishes name spelling; supplementary SRW profile establishes explicit male gender, role and character traits. Historical allusion in stage 15, not a present speaker or assumed game encounter."
+  },
+  {
+   "jp_short": "エマ",
+   "jp_full": "エマ・シーン",
+   "en_short": "Emma",
+   "en_full": "Emma Sheen",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Squad_Leader_Bonus"
+   ],
+   "notes": "Stage24 row403 source-short deceased-person recollection; use short Emma, no added profile facts."
+  },
+  {
+   "jp_short": "ヘンケン",
+   "jp_full": "ヘンケン・ベッケナー",
+   "en_short": "Henken",
+   "en_full": "Henken Bekkener",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Squad_Leader_Bonus"
+   ],
+   "notes": "Stage24 row403 source-short name. Captain only where source 艦長 supplies address; no additional military rank."
+  },
+  {
+   "jp_short": "カツ",
+   "jp_full": "カツ・コバヤシ",
+   "en_short": "Katz",
+   "en_full": "Katz Kobayashi",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Squad_Leader_Bonus"
+   ],
+   "notes": "Stage24 row403 source-short Katz, without surname expansion or added history."
+  },
+  {
+   "jp_short": "アポリー",
+   "jp_full": "アポリー・ベイ",
+   "en_short": "Apolly",
+   "en_full": "Apolly Bay",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Squad_Leader_Bonus"
+   ],
+   "notes": "Stage24 row403 source-short Apolly; Lieutenant follows explicit 中尉 only."
+  },
+  {
+   "jp_short": "ロベルト",
+   "jp_full": "ロベルト",
+   "en_short": "Roberto",
+   "en_full": "Roberto",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/Alpha_%28DC%29/Character_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Z/Squad_Leader_Bonus"
+   ],
+   "notes": "Stage24 row403 Roberto; Lieutenant follows explicit 中尉 only. No gender inferred from name."
+  }
+ ],
+ "speaker_aliases": [
+  {
+   "jp": "ギガアブソルート",
+   "en": "Giga Absolute",
+   "canonical_jp": "機将ギガアブゾルート",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Source dialogue label variant of existing Giga Absolute character/unit."
+  },
+  {
+   "jp": "ベガ星兵士",
+   "en": "Vegan Soldier",
+   "canonical_jp": "ベガ兵",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Vegan_Soldiers"
+   ],
+   "notes": "Source dialogue label variant of existing generic Vegan Soldier entry; gender unknown."
+  },
+  {
+   "jp": "カッシュ",
+   "en": "Dr. Kasshu",
+   "canonical_jp": "カッシュ博士",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "Stage16 i03s2b:36 appears between Dr. Kasshu's lines31 and38 about Domon/Rain. Context resolves the shortened source label as Dr. Kasshu; do not map Domon's name to his father."
+  }
+ ]
+}

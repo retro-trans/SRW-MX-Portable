@@ -1,0 +1,7 @@
+{
+ "terms": [
+  {"jp":"丹田","en":"lower abdomen","sources":["https://tsukuba.repo.nii.ac.jp/record/38555/files/IF_5-A4.pdf","work/translation/en/script/stage24_campaign.json"],"notes":"Stage24 row209 martial training instruction. University of Tsukuba research corroborates abdominal center below navel and ki terminology. Contextual English location rendering, not licensed-game proof; no extra bodily mechanism added."},
+  {"jp":"気","en":"ki","sources":["https://tsukuba.repo.nii.ac.jp/record/38555/files/IF_5-A4.pdf","work/translation/en/script/stage24_campaign.json"],"notes":"Stage24 row209 martial-energy usage only, supported by University of Tsukuba research. This context-specific entry does not govern 気 in ordinary expressions for feelings or attention."},
+  {"jp":"ガンダムファイター","en":"Gundam Fighter","sources":["https://akurasu.net/wiki/Chibodee_Crocket","https://akurasu.net/wiki/Mobile_Fighter_G_Gundam","work/translation/en/script/stage24_campaign.json"],"notes":"Stage24 row216 human competitor title follows Akurasu. Row217 explicitly jokes GEAR Fighter instead; preserve that source human-title joke despite normal machine-class usage of GEAR Fighter."}
+ ]
+}

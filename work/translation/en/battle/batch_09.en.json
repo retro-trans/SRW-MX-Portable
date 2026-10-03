@@ -1,0 +1,2331 @@
+{
+ "batch": 9,
+ "rows": [
+  {
+   "id": "q03514",
+   "en": "This should be fun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03515",
+   "en": "I'm going all out today!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03516",
+   "en": "You dare make enemies of us, the Practice Squad!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03517",
+   "en": "Heh, amateurs.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03518",
+   "en": "Take this!",
+   "notes": "",
+   "uncertain": [
+    "Shared with other pilots (Mikelo, Hugo, generic); kept generic."
+   ]
+  },
+  {
+   "id": "q03519",
+   "en": "Don't underestimate the Practice Squad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03520",
+   "en": "You are destined to fall here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03521",
+   "en": "Here I go!",
+   "notes": "",
+   "uncertain": [
+    "Shared with many pilots (Kouji, Boss, Tetsuya, etc.); kept generic \"Here I go!\"."
+   ]
+  },
+  {
+   "id": "q03522",
+   "en": "I can hold my own even flying solo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03523",
+   "en": "The glory is mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03524",
+   "en": "Watch me, Captain, sir!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03525",
+   "en": "Bad luck for you! This is the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03526",
+   "en": "You're mine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03527",
+   "en": "Heh, got you...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03528",
+   "en": "I've found you, Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03529",
+   "en": "This is a once-in-a-lifetime chance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03530",
+   "en": "If I can just destroy that radome...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03531",
+   "en": "You're filthy! Have you no shame!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03532",
+   "en": "This is the end! Fall!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03533",
+   "en": "I'll make you regret laying a hand on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03534",
+   "en": "You won't escape me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03535",
+   "en": "Now it's my turn to attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03536",
+   "en": "I'll bury what's left of you! Brace yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03537",
+   "en": "This is what you get for acting without thinking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03538",
+   "en": "Stay out of our way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03539",
+   "en": "We have not lost yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03540",
+   "en": "Ngh, next time we'll win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03541",
+   "en": "Ugh! How disgraceful of me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03542",
+   "en": "Why!? We're supposed to be the superior ones!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03543",
+   "en": "Did I just take a direct hit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03544",
+   "en": "D-Damn you...! You will pay for this, I swear it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03545",
+   "en": "Nuah! I refuse to end in a place like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03546",
+   "en": "Damn! Even my sensors aren't working!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03547",
+   "en": "What a monster! At this rate...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03548",
+   "en": "No...! We are the chosen elite!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03549",
+   "en": "Even if it costs my life, I'll take down Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03550",
+   "en": "Damn gun platform! I can't handle this!",
+   "notes": "",
+   "uncertain": [
+    "Source calls the enemy a gun battery/turret; likely the artillery-type D-2. Rendered \"gun platform\"."
+   ]
+  },
+  {
+   "id": "q03551",
+   "en": "Impossible! Beaten by a mere D-3!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03552",
+   "en": "Blast it, quit darting around!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03553",
+   "en": "You should have just behaved yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03554",
+   "en": "I can't fall with my goal only half achieved!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03555",
+   "en": "Damn youuuuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03556",
+   "en": "Hmph! That's what they call beginner's luck!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03557",
+   "en": "That was chance! It wasn't my mistake!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03558",
+   "en": "Hmph! Aren't you a brave one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03559",
+   "en": "This is not nearly enough to break me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03560",
+   "en": "D-1, eh? Just what I wanted!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03561",
+   "en": "You don't care about tactics at all...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03562",
+   "en": "Tch, insolent for an electronic warfare unit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03563",
+   "en": "Hmph, what's that supposed to be?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03564",
+   "en": "You're still not good enough...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03565",
+   "en": "Fighting like this is simply dishonorable...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03566",
+   "en": "Nothing's scarier than an amateur...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03567",
+   "en": "Useless! This unit has special armor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03568",
+   "en": "You'd do well to learn some manners.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03569",
+   "en": "We're in a different class from you people!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03570",
+   "en": "Someone like this has a D-Weapon... What a waste.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03571",
+   "en": "You're only a support unit, don't get cocky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03572",
+   "en": "Coming at me with the D-3? Have you lost your touch?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03573",
+   "en": "You won't hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03574",
+   "en": "Amateur! You can't handle that machine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03575",
+   "en": "In real combat, we are superior!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03576",
+   "en": "Why can't you see the gap in our power!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03577",
+   "en": "What's wrong, coward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03578",
+   "en": "You still want to keep going!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03579",
+   "en": "As pilots, we find this deeply shameful.",
+   "notes": "",
+   "uncertain": [
+    "Meaning inferred: as pilots they find this (the enemy fighting style or their own showing) shameful."
+   ]
+  },
+  {
+   "id": "q03580",
+   "en": "So much for your famed close combat skills!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03581",
+   "en": "They're all talk...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03582",
+   "en": "This much finesse is only natural.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03583",
+   "en": "Guess that's the difference in combat experience.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03584",
+   "en": "Go ahead, waste your ammo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03585",
+   "en": "Heh, you lack fighting spirit!",
+   "notes": "",
+   "uncertain": [
+    "Glossary hit Drive (spirit command) not used; here the word means general fighting spirit, not the command."
+   ]
+  },
+  {
+   "id": "q03586",
+   "en": "My ammo's running low...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03587",
+   "en": "Blast it! At a time like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03588",
+   "en": "Tch, I can't open up any distance!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03589",
+   "en": "Honestly, what do they take this holy war for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03590",
+   "en": "I'll finish it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03591",
+   "en": "Please, leave this to me, Welner Fritz!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03592",
+   "en": "Captain, sir, I'll support you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03593",
+   "en": "Formation!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03594",
+   "en": "Good! Just like in training!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03595",
+   "en": "Leave this to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03596",
+   "en": "Fall back while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03597",
+   "en": "I won't let you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03598",
+   "en": "I'll be your shield! Retreat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03599",
+   "en": "Ngh!? You... you're using us as bait!?",
+   "notes": "",
+   "uncertain": [
+    "Who is using the Practice Squad as bait is unstated (likely an ally such as the Gon Jem Squad); addressed as \"you\", no gender."
+   ]
+  },
+  {
+   "id": "q03600",
+   "en": "Don't let up the attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03601",
+   "en": "Our chance to show them our power! All at once!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03602",
+   "en": "Rest assured, sir!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03603",
+   "en": "Leave it to me, sir!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03604",
+   "en": "Do you know your way around a sword?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03605",
+   "en": "Careless! Approaching without a plan!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03606",
+   "en": "Amateur! You're wide open!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03607",
+   "en": "Shut up and become my trophy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03608",
+   "en": "Become rust on my noble saber!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03609",
+   "en": "This is the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03610",
+   "en": "Heh, you fool!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03611",
+   "en": "I'll put you out of your misery now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03612",
+   "en": "Good position! Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03613",
+   "en": "I'll make sure you never run that mouth again!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03614",
+   "en": "I'll show you the pride of the Royal Guard!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03615",
+   "en": "We are the Practice Squad! Give up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03616",
+   "en": "Your luck ends here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03617",
+   "en": "Tough luck! You had to run into us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03618",
+   "en": "Toy soldiers, you say? Then how about this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03619",
+   "en": "D-1! Now I settle my long-held grudge, here and now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03620",
+   "en": "Even a D-Weapon is helpless once I'm in its blind spot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03621",
+   "en": "Greeting us with a lone D-3? You underestimate us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03622",
+   "en": "We've been waiting for this chance all along!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03623",
+   "en": "Do you know you're facing the Practice Squad!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03624",
+   "en": "You won't leave here alive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03625",
+   "en": "My turn! Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03626",
+   "en": "You don't even know the basics of combat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03627",
+   "en": "Just sink quietly!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03628",
+   "en": "Nnngh! I won't forget this humiliation!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03629",
+   "en": "Uaaah! Captain, sir!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03630",
+   "en": "Ngh! We'll pull back for today!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03631",
+   "en": "Hngh! You think you've won this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03632",
+   "en": "Don't think luck alone will keep you alive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03633",
+   "en": "Waaah!! Th-This one... it's the real deal!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03634",
+   "en": "The conviction the Captain gave me won't break easily!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03635",
+   "en": "When did you get this strong!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03636",
+   "en": "Am I in the D-2's range!? I have to pull out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03637",
+   "en": "I-I'm completely locked on!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03638",
+   "en": "Ngh, clever trick!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03639",
+   "en": "Do you think you can compete with us!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03640",
+   "en": "Hmph! I don't sense a shred of class in you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03641",
+   "en": "You think resolve that weak can bring us down!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03642",
+   "en": "Tch, so the machine's performance covers for its pilot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03643",
+   "en": "That big lug... It should've stuck to rear support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03644",
+   "en": "So you saw it coming. What a pain...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03645",
+   "en": "How dare you scratch my beloved machine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03646",
+   "en": "Not knowing one's place is a frightening thing...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03647",
+   "en": "Surrender while you still can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03648",
+   "en": "We are the elite of the Imperial Guard Armored Corps!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03649",
+   "en": "Such a fine D-Weapon, wasted on a pilot like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03650",
+   "en": "Is that all!? The D-Weapons are nothing to fear!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03651",
+   "en": "We have sensors more sensitive than a maiden's skin!",
+   "notes": "",
+   "uncertain": [
+    "Interpretation: \"only fool around in form\" read as a jab at the D-unit looks; meaning uncertain."
+   ]
+  },
+  {
+   "id": "q03652",
+   "en": "Keep the clowning to your machine's looks!",
+   "notes": "",
+   "uncertain": [
+    "Glossary lists Otome as a character name; here it is the common noun \"maiden\", so not used as a name."
+   ]
+  },
+  {
+   "id": "q03653",
+   "en": "I'll admit your machine performs well!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03654",
+   "en": "Is that all the D-1, your main unit, can do!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03655",
+   "en": "You should've kept quiet and stuck to support...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03656",
+   "en": "That machine seems unfit for real combat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03657",
+   "en": "You people can't put up a real fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03658",
+   "en": "Ignorance is a frightening thing...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03659",
+   "en": "Fool, you don't even know the basics of combat...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03660",
+   "en": "Missiles are useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03661",
+   "en": "Good, the jammer is working!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03662",
+   "en": "Kindly stop this nonsense!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03663",
+   "en": "Blast it, I'm out of ammo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03664",
+   "en": "I can't even counter... How humiliating...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03665",
+   "en": "This glory belongs to us, and us alone!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03666",
+   "en": "Heh heh, a follow-up strike!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03667",
+   "en": "Captain, sir! I've come to support you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03668",
+   "en": "This is the Practice Squad's show!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03669",
+   "en": "Not so fast!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03670",
+   "en": "I'll stop you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03671",
+   "en": "You won't lay a finger on the Captain!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03672",
+   "en": "C-Captain Min!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03673",
+   "en": "I don't like it, but it can't be helped!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03674",
+   "en": "Combination attack! Here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03675",
+   "en": "I'll slice you to ribbons!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03676",
+   "en": "My saber alone is more than enough for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03677",
+   "en": "Even worthless trash... still has to be cut down!",
+   "notes": "",
+   "uncertain": [
+    "Literal: even a worthless thing must be cut; rendered \"worthless trash\"."
+   ]
+  },
+  {
+   "id": "q03678",
+   "en": "Hiheheheh... Die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03679",
+   "en": "Heh heh heh! So long!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03680",
+   "en": "My skill and my mech are on another level! Here, here, heeere!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03681",
+   "en": "Burn! Burn every last one of you to ash!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03682",
+   "en": "Let's see what you've got!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03683",
+   "en": "You pathetic maggots! You're no match for me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03684",
+   "en": "Hyahaha!! Here it comes, here it comes, here it comes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03685",
+   "en": "Once I blow off those wings, you're all mine...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03686",
+   "en": "I'll take you all out at once, Dragonar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03687",
+   "en": "You're gonna die right here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03688",
+   "en": "You're a pain in the ass! Get blown away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03689",
+   "en": "That's what pisses me off about you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03690",
+   "en": "Hurry up and croak!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03691",
+   "en": "All three Dragonars are going to hell!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03692",
+   "en": "Ngaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03693",
+   "en": "You'll pay for this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03694",
+   "en": "Ngh, guess it's time to pull out!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03695",
+   "en": "Dammit, you'll pay for this! You Dragonar bastards!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03696",
+   "en": "You...! You want me to butcher you that bad!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03697",
+   "en": "Gah! I ain't ending this with you laughing at me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03698",
+   "en": "Nnngh! I can't drag the mighty Gon Jem Squad through the mud!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03699",
+   "en": "Tch! If I go back like this, the Colonel will tear into me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03700",
+   "en": "Knock it off already! I don't swing that way!",
+   "notes": "",
+   "uncertain": [
+    "Ganan telling a persistent pursuer he is not interested \"that way\"; joke kept as \"I don't swing that way\"."
+   ]
+  },
+  {
+   "id": "q03701",
+   "en": "What a screwup, and from me of all people...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03702",
+   "en": "Tch! Are these D-Weapons monsters or what!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03703",
+   "en": "Keh! Don't get cute with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03704",
+   "en": "So you can pull it off once in a while!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03705",
+   "en": "Hah! Don't get cocky!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03706",
+   "en": "You ain't even worth tensing my gut for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03707",
+   "en": "Keeeh! I'll crush you to a pulp!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03708",
+   "en": "A nail's got more bite than you do!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03709",
+   "en": "Not bad!! You Dragonar bastards!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03710",
+   "en": "What the hell are you!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03711",
+   "en": "Now it's getting fun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03712",
+   "en": "Using a cheap trick like that... Heh heh heh...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03713",
+   "en": "Mine's custom-made! Like that's gonna work!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03714",
+   "en": "Geez, you're hopeless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03715",
+   "en": "You trying to rile me up? Hyahyahyahyahya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03716",
+   "en": "Dragonar ain't nothing special!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03717",
+   "en": "You can't hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03718",
+   "en": "Hiheheheh... What a letdown.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03719",
+   "en": "Heh! Easy as anything!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03720",
+   "en": "Geez, you're all talk...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03721",
+   "en": "Kukuku... This is fun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03722",
+   "en": "Struggle, struggle! It just makes it more fun for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03723",
+   "en": "They're really sweating now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03724",
+   "en": "I can't keep playing with you forever!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03725",
+   "en": "You're in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03726",
+   "en": "Tch, I'm out of ammo... It's your lucky day!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03727",
+   "en": "Huh!? It's nothing, come on, come on, come on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03728",
+   "en": "Keh! Lost your nerve or something?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03729",
+   "en": "Ngh! I can't reach!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03730",
+   "en": "Tch, they got into my blind spot!",
+   "notes": "",
+   "uncertain": [
+    "Unknown opponent gender; used \"they\"."
+   ]
+  },
+  {
+   "id": "q03731",
+   "en": "I'll finish 'em off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03732",
+   "en": "Pardon me, coming from behind!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03733",
+   "en": "Colonel, I'm taking 'em out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03734",
+   "en": "Hey! Don't forget I'm here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03735",
+   "en": "Like hell I'll let you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03736",
+   "en": "You sure are a lucky one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03737",
+   "en": "I won't let 'em hit the Colonel!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03738",
+   "en": "Whoa whoa, you're gonna get hit, y'know?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03739",
+   "en": "I'm makin' my move!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03740",
+   "en": "Sorry, but this is where you die!! Get 'em!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03741",
+   "en": "A raid!? Fine by me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03742",
+   "en": "I know, I know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03743",
+   "en": "I'll crush you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03744",
+   "en": "Go to hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03745",
+   "en": "I'll send you to the next world!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03746",
+   "en": "All right, commence attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03747",
+   "en": "We can do this, commence attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03748",
+   "en": "I'll finish this in one go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03749",
+   "en": "I'm going for a direct hit! Go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03750",
+   "en": "I'll end this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03751",
+   "en": "I won't drag this out! First strike wins!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03752",
+   "en": "For the proud Giganos Empire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03753",
+   "en": "We of the Giganos army won't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03754",
+   "en": "You fool, defying Giganos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03755",
+   "en": "I'll show you a Metal Armor's mobility!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03756",
+   "en": "I've got you in my sights!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03757",
+   "en": "You're in range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03758",
+   "en": "I never thought I'd fight the Blue Hawk of Giganos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03759",
+   "en": "Just a man who defected to the enemy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03760",
+   "en": "Blue Hawk, my foot! I'll make my name shooting you down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03761",
+   "en": "Even if it's a D-Weapon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03762",
+   "en": "We're both Metal Armors! The gap can't be that big!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03763",
+   "en": "You annoying D-Weapon, go down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03764",
+   "en": "It's only a prototype!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03765",
+   "en": "You elite little rich boys!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03766",
+   "en": "You've been getting on my nerves for ages!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03767",
+   "en": "You Blue Hawk's lapdogs!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03768",
+   "en": "I'm not beaten yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03769",
+   "en": "I'll pay you back for that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03770",
+   "en": "Switching to interception!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03771",
+   "en": "Intercept!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03772",
+   "en": "I'll meet you head-on! Here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03773",
+   "en": "My turn to attack! Take this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03774",
+   "en": "Don't think I'll just sit here and take it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03775",
+   "en": "I'm counterattacking right now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03776",
+   "en": "I won't go down without a fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03777",
+   "en": "L-Long live United Empire Giganooos!",
+   "notes": "",
+   "uncertain": [
+    "Banzai rendered as \"Long live\"; glossary name United Empire Giganos kept verbatim."
+   ]
+  },
+  {
+   "id": "q03778",
+   "en": "Wh-Whoaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03779",
+   "en": "G-Glory to Giganooos!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03780",
+   "en": "It's no good! Uoooooh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03781",
+   "en": "A direct hit on the generator!? Waaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03782",
+   "en": "I-It's gonna blow! Waaaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03783",
+   "en": "D-Damn youuuuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03784",
+   "en": "Ngh... I won't give up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03785",
+   "en": "Guooh! A direct hit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03786",
+   "en": "It pierced my armor!? Impossible!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03787",
+   "en": "It still moves! I'll fight... to the very end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03788",
+   "en": "A-At this rate... it'll explode!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03789",
+   "en": "I-I'm going to be shot down!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03790",
+   "en": "Kuuh! What do I do!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03791",
+   "en": "I can't take any more damage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03792",
+   "en": "I-I'm losing!? At this rate I'll lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03793",
+   "en": "I'm cornered!? No!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03794",
+   "en": "It's tearing through my armor like paper!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03795",
+   "en": "On the pride of the Giganos army, I can't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03796",
+   "en": "The soul of Giganos... will never die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03797",
+   "en": "Uoah! Can't I win with this Metal Armor!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03798",
+   "en": "I-I knew it, I'm no match!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03799",
+   "en": "Blue Hawk of Giganos! You traitooor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03800",
+   "en": "Uuugh... I could never win...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03801",
+   "en": "S-So terrifying... that's... a D-Weapon...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03802",
+   "en": "A Metal Armor has this much firepower!? Impossible!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03803",
+   "en": "D-Damn you! You D-Weapon!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03804",
+   "en": "Guoh! I'm just getting started!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03805",
+   "en": "You're better than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03806",
+   "en": "That's more damage than I expected!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03807",
+   "en": "Uoooh! A clean hit!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03808",
+   "en": "Gh! Damage check! ...This is bad.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03809",
+   "en": "Not good! My armor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03810",
+   "en": "I can still move... but this is bad, really bad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03811",
+   "en": "Damn! Like I'll go down like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03812",
+   "en": "The fight's just beginning!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03813",
+   "en": "Nothing stopping me from fighting on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03814",
+   "en": "Combat functions are normal!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03815",
+   "en": "Gh! I won't go down like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03816",
+   "en": "Ugh, am I being pushed back!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03817",
+   "en": "At this rate I'll be cornered!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03818",
+   "en": "I can still move... but I'm being pushed back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03819",
+   "en": "A-Any more and... I'm in trouble!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03820",
+   "en": "I can't track its movements! Is this the Blue Hawk!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03821",
+   "en": "O-Of course, they know all our tactics...!",
+   "notes": "",
+   "uncertain": [
+    "Read as the defected Blue Hawk knowing Giganos tactics; used \"they\" since the opponent varies."
+   ]
+  },
+  {
+   "id": "q03822",
+   "en": "The Blue Hawk... isn't even fighting seriously yet!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03823",
+   "en": "That's a D-Weapon for you! I never thought it'd be this good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03824",
+   "en": "I see, you move well!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03825",
+   "en": "We're both Metal Armors! Why is there such a gap!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03826",
+   "en": "Ha! Just a scratch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03827",
+   "en": "Armor damaged! Nothing serious!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03828",
+   "en": "As long as it's not a direct hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03829",
+   "en": "Whoa, is that all?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03830",
+   "en": "That's not much damage!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03831",
+   "en": "You think a weapon like that can beat me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03832",
+   "en": "Hahahahaha! What was that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03833",
+   "en": "Are you even trying?",
+   "notes": "",
+   "uncertain": [
+    "Shared with Saiga; works for both."
+   ]
+  },
+  {
+   "id": "q03834",
+   "en": "It only hit me, that's all!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Federation Soldier; works for both."
+   ]
+  },
+  {
+   "id": "q03835",
+   "en": "Don't underestimate Metal Armor plating!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03836",
+   "en": "Damage is minor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03837",
+   "en": "Ugh! I can't fully block it!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03838",
+   "en": "Tch! The fight's only just begun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03839",
+   "en": "Blue Hawk of Giganos, my foot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03840",
+   "en": "How far the Blue Hawk has fallen!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03841",
+   "en": "That's all a traitor's power amounts to!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03842",
+   "en": "That's a D-Weapon? Hmph, it's all looks!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03843",
+   "en": "We were afraid of a Metal Armor like that...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03844",
+   "en": "Some D-Weapon! Is this all it is!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03845",
+   "en": "Here it comes! Evade!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03846",
+   "en": "You won't hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03847",
+   "en": "My training paid off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03848",
+   "en": "Is that all you've got!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03849",
+   "en": "Ugh! Can my shield stop it!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03850",
+   "en": "Shield, hold out for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03851",
+   "en": "Barrier device activated!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03852",
+   "en": "Optical weapons won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03853",
+   "en": "Beams won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03854",
+   "en": "I can block missiles!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03855",
+   "en": "Missiles won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03856",
+   "en": "That's useless!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Royal Guard Captain Mors; works for both."
+   ]
+  },
+  {
+   "id": "q03857",
+   "en": "An attack that slow won't work!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03858",
+   "en": "That's easy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03859",
+   "en": "I can shoot this much down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03860",
+   "en": "I'll knock it down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03861",
+   "en": "No way... my ammo!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03862",
+   "en": "I dragged this out too long! My ammo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03863",
+   "en": "No... were they waiting for this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03864",
+   "en": "I forgot to check my ammo... What a mess!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03865",
+   "en": "They can attack from this range!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03866",
+   "en": "Got me! From my blind spot!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03867",
+   "en": "I can't do anything at this range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03868",
+   "en": "They got into my blind spot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03869",
+   "en": "Damn! I can't get the range right!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03870",
+   "en": "From that far away!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03871",
+   "en": "It's no use! There's nothing I can do!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03872",
+   "en": "Providing support fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03873",
+   "en": "We can do this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03874",
+   "en": "I'll cover you!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Dan Krueger; works for both."
+   ]
+  },
+  {
+   "id": "q03875",
+   "en": "Captain Plato! I'll cover you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03876",
+   "en": "Get back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03877",
+   "en": "I'll cover you! Fall back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03878",
+   "en": "Leave this to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03879",
+   "en": "I won't let them hit my comrade!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03880",
+   "en": "Don't overextend! Fall back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03881",
+   "en": "Leave this to me and retreat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03882",
+   "en": "Watch out! Captain Plato!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03883",
+   "en": "We strike all at once!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03884",
+   "en": "Got 'em! Concentrate fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03885",
+   "en": "Wait for the timing... Now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03886",
+   "en": "We'll make the first move!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03887",
+   "en": "All right, if I attack now...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03888",
+   "en": "We'll finish it here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03889",
+   "en": "I'll land a direct hit! Go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03890",
+   "en": "Damn you! You D-Weapon!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03891",
+   "en": "We're both Metal Armors! Why is there such a gap!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03892",
+   "en": "If I can just get in close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03893",
+   "en": "Now that I'm this close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03894",
+   "en": "At this range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03895",
+   "en": "I'll knock you down up close!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

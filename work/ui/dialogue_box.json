@@ -1,0 +1,12 @@
+{
+ "id": "dialogue_box",
+ "description": "Story / map dialogue message window (speaker portrait on the left).",
+ "screenshots": ["dialogue_screen_vwf_0.1.0.png", "dialogue_box_vwf_0.1.0.png"],
+ "screen": {"width": 480, "height": 272},
+ "window": {"x": 86, "y": 194, "width": 382, "height": 70},
+ "text": {"x": 102, "y": 203, "line_height": 18, "max_lines": 3, "line_width_px": 352,
+          "font_size": 16, "renderer": "drawString 0xAEB08 (fixed 16 px per Japanese glyph)"},
+ "format": "Speaker「text」 or Speaker（thought）; '@' = new line; lines 2-3 start with one full-width space",
+ "limits_en": "3 lines x 352 px with the VWF font; check with tools/textfit.py",
+ "notes": "Speaker names that come from placeholders (#男愛称 / #女愛称) still show the default Japanese names."
+}

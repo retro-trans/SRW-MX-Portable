@@ -1,0 +1,13 @@
+{
+ "1_super": {
+  "en": "Visitors from the Beyond",
+  "source": "https://akurasu.net/wiki/MXPFlow_Chart",
+  "file": "PACKMAPC2_ADD.BIN",
+  "pixel_offset": 21894272,
+  "texture_width": 256,
+  "texture_height": 256,
+  "title_rectangle": [0, 0, 256, 40],
+  "font_size": 20,
+  "notes": "Indexed bitmap confirmed byte-for-byte against the texture drawn during the stage 1 introduction. The rest of the atlas supplies animated header lettering, digits and other effects."
+ }
+}

@@ -1,0 +1,2435 @@
+{
+ "batch": 10,
+ "rows": [
+  {
+   "id": "q03896",
+   "en": "Fuhahahahaha! Which one of you wants to die?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03897",
+   "en": "I'll blow you to bits!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03898",
+   "en": "I'll crush you with my own hands!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03899",
+   "en": "I'll send the lot of you to the next world!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03900",
+   "en": "I'll put you out of your misery right now! Heheheheheheheh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03901",
+   "en": "There you are!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03902",
+   "en": "I'll kill you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03903",
+   "en": "I'll show you what I'm made of! Here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03904",
+   "en": "This is revenge for my dear Gol! I'll kill you!",
+   "notes": "Gon Jem avenging Gol (shot down).",
+   "uncertain": []
+  },
+  {
+   "id": "q03905",
+   "en": "Gol, take this! I'll offer you their head as a parting gift!!",
+   "notes": "Speaker offers the enemy's head to the dead Gol.",
+   "uncertain": []
+  },
+  {
+   "id": "q03906",
+   "en": "For my men you cut down! Today I finally get my revenge!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03907",
+   "en": "I'll make you taste the agony of my dead underlings!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03908",
+   "en": "Too slow! This one's for Gol!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03909",
+   "en": "This one's for Ganan!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03910",
+   "en": "Come on! Come on, Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03911",
+   "en": "Fuhehehe! Come at me, whelp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03912",
+   "en": "I've been waiting for you, Dragonar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03913",
+   "en": "You think you can block my sword with that?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03914",
+   "en": "You in that big a hurry to die?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03915",
+   "en": "Like a moth flying into the flame!",
+   "notes": "Idiom: summer bug flying into the fire.",
+   "uncertain": []
+  },
+  {
+   "id": "q03916",
+   "en": "Annoying flies!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03917",
+   "en": "Playtime's over!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03918",
+   "en": "Don't think you can run from me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03919",
+   "en": "Cocky little punk! I'll finish you off first!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03920",
+   "en": "Uoooooh!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03921",
+   "en": "Next time we meet will be the day you die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03922",
+   "en": "You'll remember this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03923",
+   "en": "Gwaaah! Clever trick!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03924",
+   "en": "Gyaaaaah!! I won't lose! I won't lose, damn it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03925",
+   "en": "Gruuh...! Now things are getting interesting!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03926",
+   "en": "Gehehe...! You must really want to die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03927",
+   "en": "Just a little longer... Hold together, damn it!!",
+   "notes": "Pleading with his machine to hold out (inferred; heavy-damage line).",
+   "uncertain": []
+  },
+  {
+   "id": "q03928",
+   "en": "I'm not dying until I've smashed you lot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03929",
+   "en": "Nnnnngh!! I really, REALLY hate crude bastards like you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03930",
+   "en": "Uaaaaah!! Die!! Diiiiiie!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03931",
+   "en": "Waah!! It's started up again!! Waaaaah!!",
+   "notes": "",
+   "uncertain": [
+    "Unclear what 'started again' refers to (possibly an ally going berserk or a repeated attack); kept impersonal 'it'."
+   ]
+  },
+  {
+   "id": "q03932",
+   "en": "You brat! Look what you've done!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03933",
+   "en": "Nnngh!! Me, beaten by the likes of Dragonar?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03934",
+   "en": "Gruuh!! Just a bit more!! I was so close to getting Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03935",
+   "en": "Not bad for small fry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03936",
+   "en": "Heh, acting like a big shot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03937",
+   "en": "D-don't get cute with me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03938",
+   "en": "Why am I losing to small fry like that...?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03939",
+   "en": "Heh, cheap trick!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03940",
+   "en": "Fuhahahaha!! Struggle, struggle away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03941",
+   "en": "Damn you, Dragonar! I'll lop off your head!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03942",
+   "en": "Not bad for a kid! Eh?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03943",
+   "en": "Hyahahahaha, now this is fun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03944",
+   "en": "What?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03945",
+   "en": "Damn it, cheeky little trick!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03946",
+   "en": "Wh-whoops!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03947",
+   "en": "Heh! You've got less bite than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03948",
+   "en": "Fuhahahaha! What's wrong, what's wroooong?!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03949",
+   "en": "Hyahahahaha! What was that supposed to be?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03950",
+   "en": "What's wrong, youngster? Finished already?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03951",
+   "en": "Heh! D-Weapons, my foot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03952",
+   "en": "You're too soft!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03953",
+   "en": "Whoa, there! Heheh...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03954",
+   "en": "Now it's getting fun!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03955",
+   "en": "Come on, hit me from wherever you like!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03956",
+   "en": "Fuhehe! It's that bio-whatsit thing!",
+   "notes": "",
+   "uncertain": [
+    "Context unclear: Gon Jem seems to mention a 'bio-something' system (possibly a Bio Sensor effect); rendered as a vague 'bio-whatsit'."
+   ]
+  },
+  {
+   "id": "q03957",
+   "en": "Clever trick!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03958",
+   "en": "Too soft!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03959",
+   "en": "That saved my hide!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03960",
+   "en": "Heh! I've got so much power, I'm getting a nosebleed",
+   "notes": "Likely a spirit-command (Yell/Spirit) reaction.",
+   "uncertain": []
+  },
+  {
+   "id": "q03961",
+   "en": "Hehehe... Don't get surprised yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03962",
+   "en": "Fuhehehehehehe... Feels good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03963",
+   "en": "Don't get cute!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03964",
+   "en": "Well, what's the matter?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03965",
+   "en": "Uh-oh! Looks like I got a bit carried away!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03966",
+   "en": "Gruuuuh...! I was so close...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03967",
+   "en": "Tch... You lucky bastard!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03968",
+   "en": "You're hiding 'cause you're scared of my Azure Dragon Sword, huh?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03969",
+   "en": "Bet you'd like to be put out of your misery by now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03970",
+   "en": "You're not getting away!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03971",
+   "en": "Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03972",
+   "en": "Guhehe... You just shut up and wipe off your sweat!",
+   "notes": "Support line to an ally; speaker telling the ally to sit back.",
+   "uncertain": []
+  },
+  {
+   "id": "q03973",
+   "en": "I can handle this one by myself... Hehehehehe!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03974",
+   "en": "Nobody lays a finger on my dear boys!",
+   "notes": "Protecting his squad (support defense).",
+   "uncertain": []
+  },
+  {
+   "id": "q03975",
+   "en": "Idiot! Dodge properly, will ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03976",
+   "en": "Think a little! Is your head just a stand for your helmet?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03977",
+   "en": "Men!! Pound them to pieces!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03978",
+   "en": "Let's go, you lot!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03979",
+   "en": "That thing's nothing! Smash it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03980",
+   "en": "Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03981",
+   "en": "I'll deliver you straight to Hell!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03982",
+   "en": "Behold! A stroke of vengeance!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03983",
+   "en": "Where should I start slicing you up?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03984",
+   "en": "Kieeeeeeeh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03985",
+   "en": "Take thiiis!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03986",
+   "en": "Whether you survive is up to your luck!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03987",
+   "en": "I'm getting fired up...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03988",
+   "en": "Nobody can stop me now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03989",
+   "en": "Now that it's come to this, I'll go all the way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03990",
+   "en": "You're not getting past here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03991",
+   "en": "I won't go easy on anyone who gets in my way!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03992",
+   "en": "I'll do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03993",
+   "en": "Dragonar is right here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03994",
+   "en": "Here you come...! Dragonar will take you on!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03995",
+   "en": "It's Dragonar!! This is gonna hurt if it hits!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03996",
+   "en": "It doesn't feel right, but a master never blames his tools!",
+   "notes": "Proverb (Kobo never chooses his brush); Kaine in an unfamiliar unit.",
+   "uncertain": []
+  },
+  {
+   "id": "q03997",
+   "en": "Payback for everything! Take it, Dorchenov!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03998",
+   "en": "Dorchenov! You're the one I'll never forgive!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03999",
+   "en": "I'm seriously pissed off!! This is gonna hurt if it hits!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04000",
+   "en": "I'm gonna land one on that smug jerk!!",
+   "notes": "The smug one (kiza) is presumably Meio.",
+   "uncertain": []
+  },
+  {
+   "id": "q04001",
+   "en": "Let's settle this! Blue Hawk of Giganos!!",
+   "notes": "Also used by Kaine's other entry.",
+   "uncertain": []
+  },
+  {
+   "id": "q04002",
+   "en": "I'll settle this right here...!! Here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04003",
+   "en": "There you are, saw-woman!",
+   "notes": "",
+   "uncertain": [
+    "'Saw-woman' (nokogiri onna): insult aimed at Min, presumably for her weapon; literal rendering."
+   ]
+  },
+  {
+   "id": "q04004",
+   "en": "Just you wait, you Giganos morons!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04005",
+   "en": "Here I come, Giganos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04006",
+   "en": "I'll keep fighting till I've smashed you Giganos creeps!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04007",
+   "en": "Being big isn't everything!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04008",
+   "en": "So the watchdogs showed up!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04009",
+   "en": "So you showed up, Gon Jem, you creep!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04010",
+   "en": "Here I come, little elite rich boys!",
+   "notes": "Mocking the Practice Squad.",
+   "uncertain": []
+  },
+  {
+   "id": "q04011",
+   "en": "I'll beat that rotten pride out of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04012",
+   "en": "So you showed up, you Giganos morons!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04013",
+   "en": "It's him! One of the Gon Jem Squad bastards!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04014",
+   "en": "I won't let you wreck the world for your own selfish whims!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04015",
+   "en": "Your rampage... We're gonna stop it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04016",
+   "en": "What can you do with borrowed power?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04017",
+   "en": "Making a fool of me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04018",
+   "en": "You've done whatever you damn well please!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04019",
+   "en": "After all this, you think I'll keep quiet?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04020",
+   "en": "Now the real fight begins!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04021",
+   "en": "I won't let you get awaaay!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04022",
+   "en": "I'll pay you back for that, with interest!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04023",
+   "en": "You startled me! Now watch this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04024",
+   "en": "Mobility vs. mobility!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04025",
+   "en": "How can I be a hero if I'm scared of Gon Jem?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04026",
+   "en": "You smug jerk!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04027",
+   "en": "D-damn iiiit!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04028",
+   "en": "Ugh! If I'm lucky, we'll meet again!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04029",
+   "en": "This is it for me! The rest is up to you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04030",
+   "en": "Oh God! Is this the end?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04031",
+   "en": "Whoa whoa!! Wait, hold on a sec!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04032",
+   "en": "Damn it! I'm not throwing my life away in a place like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04033",
+   "en": "Gah! That bastard... I've had it now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04034",
+   "en": "He, heheh... Toughness is one thing I've got!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04035",
+   "en": "I-I've just gotta get through this somehow...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04036",
+   "en": "Hang in there! Moooove!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04037",
+   "en": "Heh! You can't be a soldier if you're scared to die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04038",
+   "en": "No way... A mass-produced unit built from Dragonar's best bits...!",
+   "notes": "About the Dragoon.",
+   "uncertain": []
+  },
+  {
+   "id": "q04039",
+   "en": "Th-that bastard! Going wild with brute strength!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04040",
+   "en": "Uwaah!! This guy's insane...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04041",
+   "en": "Dorchenov...! Don't get cocky!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04042",
+   "en": "Haa, haa... I can't keep up with that one...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04043",
+   "en": "F-fine by me, rich boys!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04044",
+   "en": "Ugh! At this rate, they'll beat me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04045",
+   "en": "D-damn it! Isn't there anything I can do?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04046",
+   "en": "Damn it, this guy's good...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04047",
+   "en": "Ugh! Tapp, Light! I need cover!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04048",
+   "en": "What is this thing?! I can't shake it off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04049",
+   "en": "Wh-why you...! Getting full of yourself!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04050",
+   "en": "Couldn't you go just a bit easier on me?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04051",
+   "en": "No sweat! Now comes my big moment!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04052",
+   "en": "What's with this mass-production unit?! Did they skimp on armor?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04053",
+   "en": "At this rate, that thing's mobility will beat me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04054",
+   "en": "What brute strength!! Damn it...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04055",
+   "en": "Gwaah! You monster...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04056",
+   "en": "What the hell?! You paper-lantern gorilla!",
+   "notes": "",
+   "uncertain": [
+    "'Chouchin gorilla' (paper-lantern gorilla) insult; target not certain, probably Gon Jem. Literal rendering."
+   ]
+  },
+  {
+   "id": "q04057",
+   "en": "So you're finally getting serious, Dorchenov!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04058",
+   "en": "Not bad, Mr. Blue Hawk of Giganos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04059",
+   "en": "Nngh! Why you, old hag!!",
+   "notes": "Aimed at a woman (presumably Min); full strength kept.",
+   "uncertain": []
+  },
+  {
+   "id": "q04060",
+   "en": "Ow...! That thing moves pretty well for something so huge!",
+   "notes": "Japanese line has a stray full-width space before the line break; not reproduced.",
+   "uncertain": []
+  },
+  {
+   "id": "q04061",
+   "en": "You got me, you pampered brats!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04062",
+   "en": "Damn it... I got hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04063",
+   "en": "Ouch! Using cheap shots like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04064",
+   "en": "Quit messing with me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04065",
+   "en": "Heh, that's nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04066",
+   "en": "Huh? That's all you've got?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04067",
+   "en": "Oops... That's what happens when I let my guard down",
+   "notes": "Self-mocking after taking a hit.",
+   "uncertain": []
+  },
+  {
+   "id": "q04068",
+   "en": "H-how uncool...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04069",
+   "en": "That hardly counts as a hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04070",
+   "en": "Heh, just what I'd expect from Dragonar's little brother!",
+   "notes": "About the mass-produced Dragoon.",
+   "uncertain": []
+  },
+  {
+   "id": "q04071",
+   "en": "Ugh, they're enjoying this...!",
+   "notes": "Enemy unspecified; kept gender-neutral.",
+   "uncertain": []
+  },
+  {
+   "id": "q04072",
+   "en": "Dorchenov! That won't work on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04073",
+   "en": "Heh, looks like even the Blue Hawk has faded, huh?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04074",
+   "en": "That smug jerk, darting all over the place!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04075",
+   "en": "Heh, all bark and no bite, huh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04076",
+   "en": "What a noisy bunch of pampered brats!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04077",
+   "en": "Don't you mess with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04078",
+   "en": "Yikes, that was scary~!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04079",
+   "en": "Just keep on going that way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04080",
+   "en": "Ugh, that Metal Armor's fast...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04081",
+   "en": "And don't come back out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04082",
+   "en": "How's that! Surprised ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04083",
+   "en": "All right, the sideshow's over!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04084",
+   "en": "Y-you idiot! That was dangerous!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04085",
+   "en": "Heheh! Pure skill, pure skill!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04086",
+   "en": "Keep it up like that next time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04087",
+   "en": "Go on, hurry back home!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04088",
+   "en": "And that wasn't luck, you know",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04089",
+   "en": "Damn, at this rate, sooner or later...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04090",
+   "en": "...You idiot",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04091",
+   "en": "How about it? Are we starting to look like pros?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04092",
+   "en": "Bring it on, you pampered brats!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04093",
+   "en": "...Why you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04094",
+   "en": "Are you trying to smash my shield?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04095",
+   "en": "Uh-oh...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04096",
+   "en": "I somehow pulled through",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04097",
+   "en": "Serves you right!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04098",
+   "en": "Nyaaah!!",
+   "notes": "Taunt (sticking out tongue).",
+   "uncertain": []
+  },
+  {
+   "id": "q04099",
+   "en": "Dragonar is immortal!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04100",
+   "en": "Kindly see yourself out... there we go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04101",
+   "en": "Whoa! The missiles are veering off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04102",
+   "en": "Haha! This sure is handy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04103",
+   "en": "Hehe~ This is what happens when I get serious!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04104",
+   "en": "That's pure skill too, pure skill!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04105",
+   "en": "Heh! Now, now, no need to rush!",
+   "notes": "Kaine putting on mock-archaic samurai speech.",
+   "uncertain": []
+  },
+  {
+   "id": "q04106",
+   "en": "I can see it...! I can read it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04107",
+   "en": "Outta ammo?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04108",
+   "en": "Damn it! I'm out of ammo!",
+   "notes": "Shared with Kaine's other entry.",
+   "uncertain": []
+  },
+  {
+   "id": "q04109",
+   "en": "Where'd it go?!",
+   "notes": "",
+   "uncertain": [
+    "Target of 'where did it go' not specified; used 'it' (the enemy unit)."
+   ]
+  },
+  {
+   "id": "q04110",
+   "en": "Where's it coming from?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04111",
+   "en": "No good, I can't keep my distance!",
+   "notes": "Shared with Kaine's other entry.",
+   "uncertain": []
+  },
+  {
+   "id": "q04112",
+   "en": "Ugh...!!",
+   "notes": "Shared with Kaine's other entry.",
+   "uncertain": []
+  },
+  {
+   "id": "q04113",
+   "en": "I'll nail this one for you right now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04114",
+   "en": "Ta-da-daaan! The cavalry has arrived!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04115",
+   "en": "I'm coming in at express speed!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04116",
+   "en": "Tapp, I'll handle the rest!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04117",
+   "en": "We're a team! What do you think you can do alone?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04118",
+   "en": "All right! Perfect timing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04119",
+   "en": "Over here, Meio!!",
+   "notes": "Kaine says Meio-san; honorific dropped.",
+   "uncertain": []
+  },
+  {
+   "id": "q04120",
+   "en": "My future little bro... Er, never mind",
+   "notes": "",
+   "uncertain": [
+    "Joke about becoming Meio's in-law via Linda; the Japanese says 'future shatei' (little brother/underling), rendered 'little bro'. Target (Meio) inferred."
+   ]
+  },
+  {
+   "id": "q04121",
+   "en": "Light! Leave that one to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04122",
+   "en": "Not bad, rich boy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04123",
+   "en": "Be careful! That one's tough!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04124",
+   "en": "I won't let them lay a finger on you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04125",
+   "en": "I won't let that happen!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04126",
+   "en": "Eyes front, Tapp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04127",
+   "en": "That's what you call teamwork!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04128",
+   "en": "Meio! Look out!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04129",
+   "en": "I'm gonna save Linda's big brother, you hear!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04130",
+   "en": "Light! Your unit can't handle it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04131",
+   "en": "You rich boys are hopeless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04132",
+   "en": "All right, let's put some guts into it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04133",
+   "en": "All riiight, time to let 'em have it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04134",
+   "en": "All right, watch this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04135",
+   "en": "Ahh, what burning friendship this is!",
+   "notes": "Likely the Friendship spirit command.",
+   "uncertain": []
+  },
+  {
+   "id": "q04136",
+   "en": "This is my one-hit-kill tactic!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04137",
+   "en": "The finishing...! Bloooow!!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04138",
+   "en": "I'll cut you in half!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04139",
+   "en": "Uoooooooooooh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04140",
+   "en": "I'll shoot you down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04141",
+   "en": "Hit, damn iiit!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04142",
+   "en": "There!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04143",
+   "en": "Take this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04144",
+   "en": "Goooooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04145",
+   "en": "Eat thiiis!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04146",
+   "en": "Special move! Dragonar Three-Piece Fillet!!",
+   "notes": "",
+   "uncertain": [
+    "Attack call 'Dragonar sanmai oroshi' (fish-filleting cut into three pieces); not in glossary, rendered literally."
+   ]
+  },
+  {
+   "id": "q04147",
+   "en": "My special Photon Bazooka!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04148",
+   "en": "Photon Bazooka, charge complete!",
+   "notes": "Shared with Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04149",
+   "en": "I'm counting on you, Clara!",
+   "notes": "Clara is the D-1's computer; Kaine adds -chan.",
+   "uncertain": []
+  },
+  {
+   "id": "q04150",
+   "en": "Tapp, Light, you ready?!",
+   "notes": "Shared with Tapp and Light (Triple Attack combo).",
+   "uncertain": [
+    "Line names Tapp and Light; when used by Tapp or Light the address is off. Translated for Kaine."
+   ]
+  },
+  {
+   "id": "q04151",
+   "en": "We're good to go too!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04152",
+   "en": "All right, let's go!!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04153",
+   "en": "Ora ora ora!!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04154",
+   "en": "Hey, let's use that trick!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04155",
+   "en": "OK! Leave it to me!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04156",
+   "en": "Got it!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04157",
+   "en": "All right, the dreaded...",
+   "notes": "Combo call part 1; trails into the next row. Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04158",
+   "en": "Triple...",
+   "notes": "Combo call part 2. Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04159",
+   "en": "Attaaack!!",
+   "notes": "Combo call part 3. Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04160",
+   "en": "Full barrage! Focus your fire!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04161",
+   "en": "OK! Just leave it to me!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04162",
+   "en": "Charge complete!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04163",
+   "en": "Photon Bazooka, ready to fire!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04164",
+   "en": "Fiiiiiiiire!!",
+   "notes": "Shared with Tapp and Light.",
+   "uncertain": []
+  },
+  {
+   "id": "q04165",
+   "en": "Do it the way I say, OK!",
+   "notes": "Kaine and Meio combo; this line is Kaine's.",
+   "uncertain": []
+  },
+  {
+   "id": "q04166",
+   "en": "Heh, very well...",
+   "notes": "Meio's reply in the combo.",
+   "uncertain": []
+  },
+  {
+   "id": "q04167",
+   "en": "All right, here we go!",
+   "notes": "Kaine and Meio combo.",
+   "uncertain": []
+  },
+  {
+   "id": "q04168",
+   "en": "Let's go, Meio!",
+   "notes": "Kaine to Meio; honorific dropped.",
+   "uncertain": []
+  },
+  {
+   "id": "q04169",
+   "en": "To think I'd end up teaming up with you!",
+   "notes": "Meio's line in the combo.",
+   "uncertain": []
+  },
+  {
+   "id": "q04170",
+   "en": "Today's Dragonar is gonna hurt like hell!!",
+   "notes": "Kaine's line in the combo.",
+   "uncertain": []
+  },
+  {
+   "id": "q04171",
+   "en": "Your luck has run out! Perish!!",
+   "notes": "Meio's line in the combo (inferred from the formal tone).",
+   "uncertain": []
+  },
+  {
+   "id": "q04172",
+   "en": "Prepare yourseeelf!!",
+   "notes": "Kaine and Meio combo.",
+   "uncertain": []
+  },
+  {
+   "id": "q04173",
+   "en": "Sorry... everyone...!",
+   "notes": "Kaine fighting on the Giganos side (forced betrayal story).",
+   "uncertain": []
+  },
+  {
+   "id": "q04174",
+   "en": "I don't want to shoot! Please, stay back!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04175",
+   "en": "Please dodge it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04176",
+   "en": "So my betrayal looks real, huh...!",
+   "notes": "",
+   "uncertain": [
+    "Meaning inferred: the former allies are fighting him for real, so his defection is taken as genuine."
+   ]
+  },
+  {
+   "id": "q04177",
+   "en": "Stay back... Please, don't come any closer!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04178",
+   "en": "I can't let you pass here either...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04179",
+   "en": "Take care of my mom for me......!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04180",
+   "en": "Damn it! I never thought it'd come to this...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04181",
+   "en": "You're the one hesitating! Come at me like you mean to shoot me down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04182",
+   "en": "Hang in there for now, Dragonar...!",
+   "notes": "",
+   "uncertain": [
+    "Addressee may be his own unit or the former Dragonar teammates; kept the vocative 'Dragonar'."
+   ]
+  },
+  {
+   "id": "q04183",
+   "en": "That's right... Right now I'm Giganos...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04184",
+   "en": "As expected...! Blue Hawk of Giganos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04185",
+   "en": "Are you missing my vitals on purpose...?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04186",
+   "en": "Stalling for time...?! Even if you do that, I......!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04187",
+   "en": "What's wrong...?! Come at me for real...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04188",
+   "en": "I can't go down here...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04189",
+   "en": "I can't lose either... Sorry...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04190",
+   "en": "Stop it, I don't need any support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04191",
+   "en": "Found 'em, found 'em!",
+   "notes": "Gol speaks in a slurred rustic dialect; rendered with rough, simple English.",
+   "uncertain": []
+  },
+  {
+   "id": "q04192",
+   "en": "I'll do it... Lemme do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04193",
+   "en": "Watch me! I'm gonna shoot 'em down for sure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04194",
+   "en": "Just a bit more and you're all done for!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04195",
+   "en": "Well then, here's a present fer ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04196",
+   "en": "Gweheheheheheh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04197",
+   "en": "It's the Gon Jem Squad! Give yerselves up nice 'n' quiet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04198",
+   "en": "I'm gonna finish this quick and go eat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04199",
+   "en": "Guhehehehe! Dragonar, yer done for!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04200",
+   "en": "Ooh!? What's that over there? It's Dragonar! Guhehe!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04201",
+   "en": "Diiiiiie!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04202",
+   "en": "Nngaaah!! I'm real mad now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04203",
+   "en": "I ain't gonna forgive ya, even if ya cry!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04204",
+   "en": "This farce...! Huh? What's a farce?",
+   "notes": "Gol borrowing a phrase he doesn't understand.",
+   "uncertain": []
+  },
+  {
+   "id": "q04205",
+   "en": "Nngah! I'm gonna eat ya up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04206",
+   "en": "I'm gonna rip ya to pieces! Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04207",
+   "en": "M-my Gewai's stronger, I tell ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04208",
+   "en": "Re-re-re-re-retreeeeat!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04209",
+   "en": "N-next time I ain't gonna let ya off!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04210",
+   "en": "Dammit! I'm gonna chop ya to bits!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04211",
+   "en": "I... I was wrong!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04212",
+   "en": "Th-they hit me again!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04213",
+   "en": "My machine won't move right! I think it went outta whack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04214",
+   "en": "Nngaah!! C-Colonel!!",
+   "notes": "Calling for Gon Jem (a colonel).",
+   "uncertain": []
+  },
+  {
+   "id": "q04215",
+   "en": "D-Dragonar! I ain't never gonna forgive ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04216",
+   "en": "Hongyeeh! Fungyaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04217",
+   "en": "Nngah! Gettin' in my way again!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04218",
+   "en": "Huh!? I don't like it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04219",
+   "en": "Dammit!! I ain't forgivin' ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04220",
+   "en": "So pushy, so pushy!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04221",
+   "en": "Nngaaaah!! Dragonaaaar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04222",
+   "en": "Huh!? Uh-oh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04223",
+   "en": "Gehehehe! I feel great!",
+   "notes": "Probably the Spirit (genki) command; the glossary hit 'Genki Saotome' for this word does not apply here.",
+   "uncertain": []
+  },
+  {
+   "id": "q04224",
+   "en": "That's nothin' to my Gewai!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04225",
+   "en": "Dammit, I'm gonna smash ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04226",
+   "en": "....................Huh!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04227",
+   "en": "Huh? This Dragonar ain't so tough",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04228",
+   "en": "Nuhehehehe!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04229",
+   "en": "See, I can do it too if I try!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04230",
+   "en": "I did it! Ihihihi!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04231",
+   "en": "Ain't I great?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04232",
+   "en": "Hmph! Nuooooh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04233",
+   "en": "That don't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04234",
+   "en": "Gufufufufu... I'm so smart",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04235",
+   "en": "Quit gettin' in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04236",
+   "en": "Huh!? Did it jam?",
+   "notes": "Out-of-ammo line.",
+   "uncertain": []
+  },
+  {
+   "id": "q04237",
+   "en": "Ch-ch-ch-cheater!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04238",
+   "en": "I'm gonna keep goin' till yer in pieces!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04239",
+   "en": "I won't... I won't lose either!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04240",
+   "en": "Colonel! Watch me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04241",
+   "en": "Can't be helped, I'll help ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04242",
+   "en": "I'm stronger, I tell ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04243",
+   "en": "Colonel! I'm comin'!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04244",
+   "en": "Nngaah!! I'm gonna kill ya!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04245",
+   "en": "Now yer done for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04246",
+   "en": "Go to Hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04247",
+   "en": "This is the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04248",
+   "en": "Sleep in peace!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04249",
+   "en": "Can you keep up?! You dimwits!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04250",
+   "en": "Heh, you're mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04251",
+   "en": "Now, scream nice and pretty for me",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04252",
+   "en": "An electronic warfare unit oughta be a lot slicker!",
+   "notes": "",
+   "uncertain": [
+    "Meaning of 'smart' uncertain: could mean sleeker-looking or smarter-acting; likely a jab at Dragonar-3."
+   ]
+  },
+  {
+   "id": "q04253",
+   "en": "How long can you keep dodging?! Dragonaaar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04254",
+   "en": "I won't let things go your way!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04255",
+   "en": "Don't underestimate a custom unit's performance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04256",
+   "en": "Just like you wanted, I'll blow you away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04257",
+   "en": "You've got guts, picking a fight with us Gon Jem Squad!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04258",
+   "en": "Go to Hell along with Dragonar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04259",
+   "en": "What?! Uwaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04260",
+   "en": "That's enough for today!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04261",
+   "en": "Th-that's harsh...! Not cool!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04262",
+   "en": "Like I'd let you lot beat me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04263",
+   "en": "Whoa! What's going on?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04264",
+   "en": "Gwaah!! How dare you, my face...!",
+   "notes": "",
+   "uncertain": [
+    "Zin speaks in a formal first person here, unusual for him; the line may be shared with or meant for another pilot. Translated as is."
+   ]
+  },
+  {
+   "id": "q04265",
+   "en": "Why don't you hold back a little?! Huh?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04266",
+   "en": "Damn it... I won't forgive you, Dragonaaar!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04267",
+   "en": "Like this is gonna take me down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04268",
+   "en": "You sure about this?! You'll regret it later!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04269",
+   "en": "Ugh, what a monster...!",
+   "notes": "Enemy unspecified; avoided a gendered word.",
+   "uncertain": []
+  },
+  {
+   "id": "q04270",
+   "en": "I can't just slink away like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04271",
+   "en": "Tch, Dragonar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04272",
+   "en": "Don't make me laugh!",
+   "notes": "Shared with Shi Tau.",
+   "uncertain": []
+  },
+  {
+   "id": "q04273",
+   "en": "Don't screw with me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04274",
+   "en": "Like a lousy attack like that's gonna work!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04275",
+   "en": "Heh! That was a fluke for sure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04276",
+   "en": "So that's all your D-Weapons can do?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04277",
+   "en": "You guys got eyes in your heads or what?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04278",
+   "en": "Hurry up and hit me already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04279",
+   "en": "Hahahaha! Ahahahahaha!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04280",
+   "en": "What's wrong, what's wrong?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04281",
+   "en": "Is that all?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04282",
+   "en": "Whew~! Impressive!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04283",
+   "en": "Next time, use another weapon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04284",
+   "en": "Heh, that won't work on me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04285",
+   "en": "Tch, watch your back next time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04286",
+   "en": "Damn it! It won't reach?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04287",
+   "en": "Inhuman...? Fine by me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04288",
+   "en": "You showed your true colors!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04289",
+   "en": "I'm right behind you, Colonel!!",
+   "notes": "Following Gon Jem.",
+   "uncertain": []
+  },
+  {
+   "id": "q04290",
+   "en": "What're you playing around for! I'll take it, OK?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04291",
+   "en": "Can't be helped... I'll take the hit for you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04292",
+   "en": "Tch, why do I have to do this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04293",
+   "en": "Colonel!! Look out!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04294",
+   "en": "What's gotten into you? This isn't like you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04295",
+   "en": "How about this!! Attack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q04296",
+   "en": "Roger! Here I go!!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

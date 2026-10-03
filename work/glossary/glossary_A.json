@@ -1,0 +1,4498 @@
+{
+ "group": "A",
+ "series": [
+  {
+   "jp": "マシンロボ　クロノスの大逆襲",
+   "en": "Machine Robo: Revenge of Cronos",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ]
+  },
+  {
+   "jp": "機甲戦記ドラグナー",
+   "en": "Metal Armor Dragonar",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=50",
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar"
+   ]
+  },
+  {
+   "jp": "勇者ライディーン",
+   "en": "Brave Raideen",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Brave_Raideen",
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ]
+  },
+  {
+   "jp": "闘将ダイモス",
+   "en": "Tosho Daimos",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://superrobotwars.fandom.com/wiki/General_Daimos"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "jp_full": "ひびき一郎",
+   "jp_short": "ひびき博士",
+   "reading": "ヒビキハカセ",
+   "en_full": "Ichiro Hibiki",
+   "en_short": "Dr. Hibiki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "scholarly",
+   "position": "archaeologist; Akira's father",
+   "affiliation": "civilian; ally of Mutropolis",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ひびき洸",
+   "jp_short": "洸",
+   "reading": "アキラ",
+   "en_full": "Akira Hibiki",
+   "en_short": "Akira",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, righteous, cheerful, brave",
+   "position": "soccer club captain at Rinkai Gakuen; Raideen's pilot",
+   "affiliation": "Koplander Team / Mutropolis",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "アオイ・ワカバ",
+   "jp_short": "アオイ",
+   "reading": "アオイ",
+   "en_full": "Aoi Wakaba",
+   "en_short": "Aoi",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "dutiful, ethical, loving",
+   "position": "Kaine's mother; immigration control center staff of colony Alucard",
+   "affiliation": "Earth Alliance (civilian)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "アシュラ",
+   "jp_short": "アシュラ",
+   "reading": "アシュラ",
+   "en_full": "Asura",
+   "en_short": "Asura",
+   "nicknames": [
+    "Ashura (kana spelling)"
+   ],
+   "gender": "unknown",
+   "personality": "cruel, cunning, supremely self-confident (refers to self as 'Asura-sama' in the anime)",
+   "position": "Gyandlar Commander (once ranked No. 1; last Commander)",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No source states a gender (voiced by a male actor; first-person 'Asura-sama' is gender-neutral), so treated as unknown. English Wikipedia spells the name 'Asura'; the game kana is Ashura."
+  },
+  {
+   "jp_full": "ウェルナー・フリッツ",
+   "jp_short": "ウェルナー",
+   "reading": "ウェルナー",
+   "en_full": "Welner Fritz",
+   "en_short": "Welner",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "loyal to Meio to the point of worship, hard-eyed",
+   "position": "Practice Squad member (19, warrant officer)",
+   "affiliation": "Ghiganos Imperial Guard (Practice Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gender: members of the all-male 'boys' unit' (game text: 少年隊). English Wikipedia: 'Plato Squad / Practice Squad'."
+  },
+  {
+   "jp_full": "エリカ",
+   "jp_short": "エリカ",
+   "reading": "エリカ",
+   "en_full": "Erika",
+   "en_short": "Erika",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "kind, intelligent, strong-willed",
+   "position": "Baam princess; field doctor; later leader of the liberation organization",
+   "affiliation": "Baam Empire (defector); liberation movement",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "カール・ゲイナー",
+   "jp_short": "カール",
+   "reading": "カール",
+   "en_full": "Karl Geiner",
+   "en_short": "Karl",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "elite-minded, devoted to Meio",
+   "position": "Practice Squad member (19, warrant officer)",
+   "affiliation": "Ghiganos Imperial Guard (Practice Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Spelling per English Wikipedia (Karl Geiner)."
+  },
+  {
+   "jp_full": "ガデス",
+   "jp_short": "ガデス",
+   "reading": "ガデス",
+   "en_full": "Gadess",
+   "en_short": "Gadess",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "tyrannical, distrustful, obsessed with eternal youth and fear of rust",
+   "position": "boss of Gyandlar",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gender: ja Wikipedia says he tried to make captive Leina his concubine; voiced by male actors. English Wikipedia (Discotek release) spells 'Gadess'."
+  },
+  {
+   "jp_full": "ガナン",
+   "jp_short": "ガナン",
+   "reading": "ガナン",
+   "en_full": "Ganan",
+   "en_short": "Ganan",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cruel, knife-carrying, nail-chewing",
+   "position": "captain; one of Gon Jem's Four Heavenly Kings (Stark Gandolla)",
+   "affiliation": "Ghiganos (Gon Jem Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gender: English Wikipedia uses 'his'/'he'."
+  },
+  {
+   "jp_full": "ガルディ・ストール",
+   "jp_short": "ガルディ",
+   "reading": "ガルディ",
+   "en_full": "Garudi Stol",
+   "en_short": "Garudi",
+   "nicknames": [
+    "Guardi (English Wikipedia uses both Garudi and Guardi)"
+   ],
+   "gender": "male",
+   "personality": "proud, cautious, strategic (brainwashed); noble underneath",
+   "position": "Gyandlar executive; Rom and Leina's older brother",
+   "affiliation": "Gyandlar (under mind control); Stol family",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Competing spellings on English Wikipedia: 'Garudi' (villain) and 'Guardi Stol' (real name). Kept 'Garudi' to match the kana. Wields the sword Nagase (Shooting Star)."
+  },
+  {
+   "jp_full": "キャスモドン",
+   "jp_short": "キャスモドン",
+   "reading": "キャスモドン",
+   "en_full": "Casmodon",
+   "en_short": "Casmodon",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "low-ranking grunt",
+   "position": "low-ranking Gyandlar Commander",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No English source found; romanized from kana. Not covered in English Wikipedia."
+  },
+  {
+   "jp_full": "ギガノス兵",
+   "jp_short": "ギガノス兵",
+   "reading": "ギガノスヘイ",
+   "en_full": "Giganos Soldier",
+   "en_short": "Giganos Soldier",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "generic",
+   "position": "generic enemy soldier",
+   "affiliation": "Ghiganos",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Generic mook entry; no gender."
+  },
+  {
+   "jp_full": "ギルトール元帥",
+   "jp_short": "ギルトール",
+   "reading": "ギルトール",
+   "en_full": "Marshal Guiltorre",
+   "en_short": "Guiltorre",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "idealistic dictator, elitist, loves Earth and rumble fish",
+   "position": "founder and supreme ruler of the United Empire Giganos",
+   "affiliation": "Ghiganos",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "グルジオス",
+   "jp_short": "グルジオス",
+   "reading": "グルジオス",
+   "en_full": "Grujios",
+   "en_short": "Grujios",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "scheming, cowardly, prefers plots to fighting",
+   "position": "Gyandlar executive (strategist)",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Real body is a pink caterpillar/slug-like alien floating in the tank that forms the head (only living being among the main cast). No source states gender."
+  },
+  {
+   "jp_full": "グン・ジェム",
+   "jp_short": "グン・ジェム",
+   "reading": "グンジェム",
+   "en_full": "Gon Jem",
+   "en_short": "Gon Jem",
+   "nicknames": [
+    "Garbage of Giganos (nickname of his squad)"
+   ],
+   "gender": "male",
+   "personality": "rough, vulgar, cruel, but caring toward his men",
+   "position": "colonel; commander of the Asia Theater secret guard (Gon Jem Squad)",
+   "affiliation": "Ghiganos",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia writes 'Gon Jem'; the game kana is Gun Jem (グン・ジェム). Kept the wiki spelling."
+  },
+  {
+   "jp_full": "ケーン・ワカバ",
+   "jp_short": "ケーン",
+   "reading": "ケーン",
+   "en_full": "Kaine Wakaba",
+   "en_short": "Kaine",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "flirty but straightforward, loyal, strong sense of justice",
+   "position": "16-year-old trainee; pilot of Dragonar-1",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "'Kaine' per English Wikipedia and MyAnimeList; 'Kane' is a common fan alternative."
+  },
+  {
+   "jp_full": "ゴル",
+   "jp_short": "ゴル",
+   "reading": "ゴル",
+   "en_full": "Gol",
+   "en_short": "Gol",
+   "nicknames": [
+    "\"Gorilla\" (he hates it)"
+   ],
+   "gender": "male",
+   "personality": "violent, dim-witted, giant",
+   "position": "captain; one of Gon Jem's Four Heavenly Kings (Stark Gewei)",
+   "affiliation": "Ghiganos (Gon Jem Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ザリオス",
+   "jp_short": "ザリオス",
+   "reading": "ザリオス",
+   "en_full": "Zarios",
+   "en_short": "Zarios",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "low-ranking grunt",
+   "position": "low-ranking Gyandlar Commander",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Romanized from kana; appears from episode 20."
+  },
+  {
+   "jp_full": "ジェームス・Ｃ・ダグラス",
+   "jp_short": "ダグラス",
+   "reading": "ダグラス",
+   "en_full": "James C. Douglas",
+   "en_short": "Douglas",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "unlucky but capable, tearful when drunk",
+   "position": "lieutenant (captain at the end); official pilot of Dragonar-1",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gender from the game text (uses 'he') and ja Wikipedia. 'Douglas' is the spelling on English Wikipedia; the full name is rendered James C. Douglas by transliteration."
+  },
+  {
+   "jp_full": "ジン",
+   "jp_short": "ジン",
+   "reading": "ジン",
+   "en_full": "Zin",
+   "en_short": "Zin",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "handsome, calculating, cold-blooded, vindictive",
+   "position": "lieutenant; one of Gon Jem's Four Heavenly Kings (Stark Dautzen)",
+   "affiliation": "Ghiganos (Gon Jem Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "タップ・オセアノ",
+   "jp_short": "タップ",
+   "reading": "タップ",
+   "en_full": "Tapp Oceano",
+   "en_short": "Tapp",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cheerful, gentle giant, music lover, family-minded",
+   "position": "16-year-old trainee; pilot of Dragonar-2",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ダイアン・ランス",
+   "jp_short": "ダイアン",
+   "reading": "ダイアン",
+   "en_full": "Diane Lance",
+   "en_short": "Diane",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "calm, kind, mature; bad drunk",
+   "position": "second lieutenant, Earth Alliance intelligence; disguised teacher",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ダン・クリューガー",
+   "jp_short": "ダン",
+   "reading": "ダン",
+   "en_full": "Dan Kruger",
+   "en_short": "Dan",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "loyal to Meio",
+   "position": "Practice Squad member (19, warrant officer); the only one killed",
+   "affiliation": "Ghiganos Imperial Guard (Practice Squad)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ディオンドラ",
+   "jp_short": "ディオンドラ",
+   "reading": "ディオンドラ",
+   "en_full": "Diondra",
+   "en_short": "Diondra",
+   "nicknames": [
+    "\"Aneego\" (Big Sis; she dislikes it)"
+   ],
+   "gender": "female",
+   "personality": "bold, cruel, competitive with Grujios; afraid of earthquakes",
+   "position": "Gyandlar female executive (field commander)",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gender from ja Wikipedia ('female executive') and the game text ('she')."
+  },
+  {
+   "jp_full": "デビルサターン６",
+   "jp_short": "デビルサターン６",
+   "reading": "デビルサターン",
+   "en_full": "Devil Saturn 6",
+   "en_short": "Devil Saturn 6",
+   "nicknames": [
+    "Devil Satan 6 (English Wikipedia)"
+   ],
+   "gender": "unknown",
+   "personality": "vicious, powerful; No. 1 is a comic Kansai-dialect speaker",
+   "position": "Gyandlar Commander (six-unit combination); No. 1 in the Commander ranking",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia writes 'Devil Satan 6'; kept 'Saturn' because the kana is サターン and the game text uses the same word as the planet. Members: No.1 Gilhead, No.2 Barabat, No.3 Deathclaw, No.4 Gurogiron, No.5 Eyegos, No.6 Blugoda (English Wikipedia names)."
+  },
+  {
+   "jp_full": "トリプル・ジム",
+   "jp_short": "ジム",
+   "reading": "ジム",
+   "en_full": "Triple Jim",
+   "en_short": "Jim",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "humble, polite, gentle, bad at fighting",
+   "position": "Leina's servant; transforms into robot, helicopter and supercar",
+   "affiliation": "Cronos party (Jet tribe)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "ja Wikipedia: 'a young person of the Triple tribe' (gender not stated); voiced by a male actor. No source states gender, so unknown."
+  },
+  {
+   "jp_full": "ドルチェノフ",
+   "jp_short": "ドルチェノフ",
+   "reading": "ドルチェノフ",
+   "en_full": "Dorchenov",
+   "en_short": "Dorchenov",
+   "nicknames": [
+    "Dolchenov (alternate romanization)"
+   ],
+   "gender": "male",
+   "personality": "radical, ambitious, base and petty",
+   "position": "lieutenant colonel; later usurper of Giganos",
+   "affiliation": "Ghiganos",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "バグ・ニューマン",
+   "jp_short": "バグ",
+   "reading": "バグ",
+   "en_full": "Bug Newman",
+   "en_short": "Bug",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "power-hungry, resentful",
+   "position": "renegade senior disciple of Kirai; bandit leader, later Gyandlar",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gender from ja Wikipedia (Rom's elder fellow disciple, 'Rom no anideshi') and English Wikipedia."
+  },
+  {
+   "jp_full": "ファルゴス",
+   "jp_short": "ファルゴス",
+   "reading": "ファルゴス",
+   "en_full": "Falgos",
+   "en_short": "Falgos",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "low-ranking grunt",
+   "position": "low-ranking Gyandlar Commander",
+   "affiliation": "Gyandlar",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Romanized from kana; winged blue-purple grunt appearing from episode 21."
+  },
+  {
+   "jp_full": "ブルー・ジェット",
+   "jp_short": "ジェット",
+   "reading": "ジェット",
+   "en_full": "Blue Jet",
+   "en_short": "Jet",
+   "nicknames": [
+    "Jet"
+   ],
+   "gender": "male",
+   "personality": "cool, sharp-witted, chivalrous swordsman",
+   "position": "warrior of the Jet tribe; Rom's strategist",
+   "affiliation": "Cronos party",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gender from ja Wikipedia ('son of the Jet tribe chief', swordsman)."
+  },
+  {
+   "jp_full": "プラート博士",
+   "jp_short": "プラート博士",
+   "reading": "プラート",
+   "en_full": "Dr. Lang Plato",
+   "en_short": "Dr. Plato",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cheerful on the surface, caring father, heavy past",
+   "position": "Metal Armor designer; father of Meio and Linda",
+   "affiliation": "Earth Alliance (defected from Ghiganos)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Full name Lang Plato (stated in the game text)."
+  },
+  {
+   "jp_full": "ベン・ルーニー",
+   "jp_short": "ベン",
+   "reading": "ベン",
+   "en_full": "Ben Rooney",
+   "en_short": "Ben",
+   "nicknames": [
+    "\"Umiboozu\" (sea monk; nickname given by Kaine)"
+   ],
+   "gender": "male",
+   "personality": "gruff, bold, meticulous, big-brother type",
+   "position": "sergeant; drill instructor of the three pilots",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gender: not stated explicitly in the English sources; inferred from ja Wikipedia (he marries Diane) and the game's 'big brother' wording (兄貴分). Flag if a better source is found."
+  },
+  {
+   "jp_full": "マイヨ・プラート",
+   "jp_short": "マイヨ",
+   "reading": "マイヨ",
+   "en_full": "Meio Plato",
+   "en_short": "Meio",
+   "nicknames": [
+    "\"Blue Hawk of Giganos\""
+   ],
+   "gender": "male",
+   "personality": "calm, confident, loyal, burdened by being a traitor's son",
+   "position": "captain; ace of the Imperial Guard Armored Corps",
+   "affiliation": "Ghiganos (later rebel)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia and MyAnimeList spell 'Meio Plato'; the kana マイヨ would normally be 'Maillot/Mayo'. Kept the wiki spelling."
+  },
+  {
+   "jp_full": "マルガレーテ",
+   "jp_short": "マルガレーテ",
+   "reading": "マルガレーテ",
+   "en_full": "Margarete",
+   "en_short": "Margarete",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "loyal, perceptive, outspoken",
+   "position": "Erika's nursemaid",
+   "affiliation": "Baam Empire",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ミン",
+   "jp_short": "ミン",
+   "reading": "ミン",
+   "en_full": "Min",
+   "en_short": "Min",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "tough, big-sisterly, honorable",
+   "position": "captain; the only one of Gon Jem's Four Heavenly Kings to survive (Stark Deins)",
+   "affiliation": "Ghiganos (Gon Jem Squad), later with Meio",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Full name Lee Sue Min per English/ja Wikipedia; the game shows only Min."
+  },
+  {
+   "jp_full": "ライト・ニューマン",
+   "jp_short": "ライト",
+   "reading": "ライト",
+   "en_full": "Light Newman",
+   "en_short": "Light",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calm, intellectual, gallant, a joker at heart",
+   "position": "17-year-old trainee; pilot of Dragonar-3",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "リンダ・プラート",
+   "jp_short": "リンダ",
+   "reading": "リンダ",
+   "en_full": "Linda Plato",
+   "en_short": "Linda",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "sad-eyed, reserved at first, good at electronics",
+   "position": "refugee, later Earth Alliance communications officer",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "レイナ・ストール",
+   "jp_short": "レイナ",
+   "reading": "レイナ",
+   "en_full": "Leina Stol",
+   "en_short": "Leina",
+   "nicknames": [
+    "Reina (kana reading)"
+   ],
+   "gender": "female",
+   "personality": "cheerful, active, devoted to her brother, loves fortune-telling",
+   "position": "Rom's younger sister; later Power Riser pilot",
+   "affiliation": "Cronos party; Stol family",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia/Discotek spell 'Leina'; the game kana is Reina."
+  },
+  {
+   "jp_full": "レムリア",
+   "jp_short": "レムリア",
+   "reading": "レムリア",
+   "en_full": "Lemuria",
+   "en_short": "Lemuria",
+   "nicknames": [
+    "Reiko Hibiki (Japanese name)"
+   ],
+   "gender": "female",
+   "personality": "gentle, resolute",
+   "position": "Princess of ancient Mu; Akira's mother",
+   "affiliation": "Mu Empire",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "English Wikipedia: 'Princess (Queen) Lemuria/Reiko Hibiki'."
+  },
+  {
+   "jp_full": "ロッド・ドリル",
+   "jp_short": "ドリル",
+   "reading": "ドリル",
+   "en_full": "Rod Drill",
+   "en_short": "Drill",
+   "nicknames": [
+    "Drill"
+   ],
+   "gender": "male",
+   "personality": "cheerful, bold, power fighter, mood maker",
+   "position": "warrior of the Battle tribe; transforms into a drill tank",
+   "affiliation": "Cronos party",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gender from ja Wikipedia ('Battle tribe young man')."
+  },
+  {
+   "jp_full": "ロム・ストール",
+   "jp_short": "ロム",
+   "reading": "ロム",
+   "en_full": "Rom Stol",
+   "en_short": "Rom",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "just, serious, polite, strict with himself, weak with women",
+   "position": "Cronos tribe martial artist; Tenku Chushin Ken successor; hero",
+   "affiliation": "Cronos party; Stol family",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia/Discotek spell 'Rom Stol'."
+  },
+  {
+   "jp_full": "ローズ・パテントン",
+   "jp_short": "ローズ",
+   "reading": "ローズ",
+   "en_full": "Rose Pattenton",
+   "en_short": "Rose",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "energetic, cheerful, down to earth",
+   "position": "16-year-old refugee, later Earth Alliance officer",
+   "affiliation": "Earth Alliance Dragonar team",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "三輪防人",
+   "jp_short": "三輪防人",
+   "reading": "ミワサキモリ",
+   "en_full": "Sakimori Miwa",
+   "en_short": "Commander Miwa",
+   "nicknames": [
+    "General Miwa (English Wikipedia)"
+   ],
+   "gender": "male",
+   "personality": "militaristic, bellicose, hysterical, bigoted",
+   "position": "commander of the Earth Defense Force Pacific HQ; Japan's defense chief",
+   "affiliation": "Earth Defense Force",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Name order: surname Miwa, given name Sakimori (reading ミワサキモリ in the game); English Wikipedia writes 'Sakamori Miwa'."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "Artificial Intelligence",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "-",
+   "position": "generic AI / on-board computer placeholder",
+   "affiliation": "-",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Generic entry (series field says Machine Robo, but it is a system placeholder; likely the on-board computers of Dragonar such as Clara, Sonia, Maggie). Not verifiable from sources."
+  },
+  {
+   "jp_full": "和泉ナナ",
+   "jp_short": "ナナ",
+   "reading": "ナナ",
+   "en_full": "Nana Izumi",
+   "en_short": "Nana",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "tomboyish, mechanically gifted, quirky",
+   "position": "Dr. Izumi's granddaughter; sub-pilot of Galva FX-II",
+   "affiliation": "Daimobic",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "和泉博士",
+   "jp_short": "和泉博士",
+   "reading": "イズミハカセ",
+   "en_full": "Dr. Shinichiro Izumi",
+   "en_short": "Dr. Izumi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "just, humane, loves sweets",
+   "position": "head of Daimobic; Kazuya's karate teacher",
+   "affiliation": "Daimobic",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Gender: grandfather of Nana (game text)."
+  },
+  {
+   "jp_full": "夕月京四郎",
+   "jp_short": "京四郎",
+   "reading": "キョウシロウ",
+   "en_full": "Kyoshiro Yuzuki",
+   "en_short": "Kyoshiro",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cool nihilist pose, righteous, hot-headed, maxim lover",
+   "position": "pilot of Galva FX-II; swordsman",
+   "affiliation": "Daimobic",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "明日香麗",
+   "jp_short": "麗",
+   "reading": "レイ",
+   "en_full": "Rei Asuka",
+   "en_short": "Rei",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "intelligent, calm, mature, clairvoyant",
+   "position": "Koplander Team member; psychic adviser",
+   "affiliation": "Koplander Team / Mutropolis",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "東山大三郎",
+   "jp_short": "東山所長",
+   "reading": "ヒガシマヤショチョウ",
+   "en_full": "Daizaburo Higashiyama",
+   "en_short": "Director Higashiyama",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "earnest scientist-commander",
+   "position": "director of the Future Engineering Research Institute (Mutropolis); Koplander Team captain; Mari's father",
+   "affiliation": "Mutropolis",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Given name rendered Daisaburou in English Wikipedia; ja Wikipedia reading is だいざぶろう (Daizaburo). Gender from the game text (Mari's father)."
+  },
+  {
+   "jp_full": "桜野マリ",
+   "jp_short": "マリ",
+   "reading": "マリ",
+   "en_full": "Mari Sakurano",
+   "en_short": "Mari",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, tomboyish, scatterbrained",
+   "position": "Akira's classmate; Koplander Team member (Bluger crew)",
+   "affiliation": "Koplander Team / Mutropolis",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "無し",
+   "jp_short": "無し",
+   "reading": "無し",
+   "en_full": "None",
+   "en_short": "None",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "-",
+   "position": "placeholder entry meaning 'none'",
+   "affiliation": "-",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [],
+   "notes": "Game placeholder (無し = none), not a character."
+  },
+  {
+   "jp_full": "竜崎一矢",
+   "jp_short": "一矢",
+   "reading": "カズヤ",
+   "en_full": "Kazuya Ryuzaki",
+   "en_short": "Kazuya",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, stubborn, karate master",
+   "position": "pilot of Daimos",
+   "affiliation": "Daimobic",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "連邦兵",
+   "jp_short": "連邦兵",
+   "reading": "レンポウヘイ",
+   "en_full": "Federation Soldier",
+   "en_short": "Federation Soldier",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "generic",
+   "position": "generic soldier",
+   "affiliation": "Earth Federation",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Generic mook entry (kana says Federation soldier; the library text elsewhere says Alliance)."
+  }
+ ],
+ "units": [
+  {
+   "jp": "アイアンサンド",
+   "en": "Iron Sand",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Sand-bodied Gyandlar Commander (episode 10); can merge with Bug Newman. English Wikipedia spells 'Iron Sand'. Its library entry is entry 156 (placed in batch C under a wrong label)."
+  },
+  {
+   "jp": "アシュラ",
+   "en": "Asura",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガデス",
+   "en": "Gadess",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガルバーＦＸⅡ",
+   "en": "Galva FX-II",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)",
+    "https://superrobotwars.fandom.com/wiki/General_Daimos",
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos"
+   ],
+   "notes": "English Wikipedia: 'Galva FX-II'."
+  },
+  {
+   "jp": "キャスモドン",
+   "en": "Casmodon",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Romanized from kana; no English source."
+  },
+  {
+   "jp": "ギルガザムネ",
+   "en": "Gilgazamune",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "SRW wiki: 'Guilga Zamune'; English Wikipedia: 'Gilgazamune'. Three variants exist in the game (prototype, Dorchenov's, mass-production)."
+  },
+  {
+   "jp": "グルジオス",
+   "en": "Grujios",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ケンリュウ",
+   "en": "Kenryu",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Written 'Kenryū' on English Wikipedia (Blade Dragon)."
+  },
+  {
+   "jp": "ゲイザム",
+   "en": "Geizam",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia: 'Geyzam'; SRW wiki: 'Geizam'."
+  },
+  {
+   "jp": "ゲバイ・マッフ",
+   "en": "Gewei Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gewei fitted with a Maffu flight unit. Spelling 'Maffu' follows English Wikipedia ('MAFFU Custom'); SRW wiki lists the base unit as 'Gewei'."
+  },
+  {
+   "jp": "ゲルフ・マッフ",
+   "en": "Gelf Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Gelf fitted with a Maffu flight unit."
+  },
+  {
+   "jp": "ゴッドバード",
+   "en": "God Bird",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Brave_Raideen",
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ザリオス",
+   "en": "Zarios",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スタークガンドーラ",
+   "en": "Stark Gandolla",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia: 'Stark Gan-Dolla'."
+  },
+  {
+   "jp": "スタークゲバイ",
+   "en": "Stark Gewei",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スタークダイン",
+   "en": "Stark Deins",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "SRW wiki also has the typo 'Stark Deis'."
+  },
+  {
+   "jp": "スタークダウツェン",
+   "en": "Stark Dautzen",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia: 'Stark Dauzhen'; SRW wiki: 'Stark Dautzen'."
+  },
+  {
+   "jp": "ダイモス",
+   "en": "Daimos",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)",
+    "https://superrobotwars.fandom.com/wiki/General_Daimos",
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダイン・マッフ",
+   "en": "Deins Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Deins fitted with a Maffu flight unit."
+  },
+  {
+   "jp": "ダウツェン",
+   "en": "Dautzen",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "SRW wiki: 'Dauzehn'/'Dautzen' (both appear)."
+  },
+  {
+   "jp": "ディオンドラ",
+   "en": "Diondra",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "デビルサターン６",
+   "en": "Devil Saturn 6",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: 'Devil Satan 6'."
+  },
+  {
+   "jp": "トリプル・ジム",
+   "en": "Triple Jim",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "トリプル・ジム・スーパーカー",
+   "en": "Triple Jim (Supercar)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Form of Triple Jim."
+  },
+  {
+   "jp": "トリプル・ジム・ヘリ",
+   "en": "Triple Jim (Jet Helicopter)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Form of Triple Jim."
+  },
+  {
+   "jp": "ドラウ",
+   "en": "Dreu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Metal Armor in the Ghiganos arsenal (SRW wiki spelling)."
+  },
+  {
+   "jp": "ドラグナー１型カスタム",
+   "en": "Dragonar-1 Custom",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラグナー１型（Ｌ）",
+   "en": "Dragonar-1 (Lifter)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "'(L)' = fitted with Lifter-1 flight unit."
+  },
+  {
+   "jp": "ドラグナー２型カスタム",
+   "en": "Dragonar-2 Custom",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラグナー２型（Ｌ）",
+   "en": "Dragonar-2 (Lifter)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "'(L)' = fitted with Lifter-2."
+  },
+  {
+   "jp": "ドラグナー３型",
+   "en": "Dragonar-3",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドラグナー３型（Ｌ）",
+   "en": "Dragonar-3 (Lifter)",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "'(L)' = fitted with Lifter-3."
+  },
+  {
+   "jp": "ドラグーン",
+   "en": "Dragoon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドーラ",
+   "en": "Dolla",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Upper (turret) half of the Stark Gandolla bike-type Metal Armor (lower half: Ganzer)."
+  },
+  {
+   "jp": "バイカンフー",
+   "en": "Baikanfu",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://www.animenewsnetwork.com/news/2016-04-29/super-robot-wars-x-adds-baikanfu-from-anime-of-gobots-predecessor-machine-robo/.101600"
+   ],
+   "notes": "Written 'Baikanfū' (ViKung-fu) on English Wikipedia; ANN's SRW X article uses 'Baikanfu'."
+  },
+  {
+   "jp": "パワーライザー（ガルディ）",
+   "en": "Power Riser (Garudi)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Variant piloted by Garudi."
+  },
+  {
+   "jp": "パワーライザー（レイナ）",
+   "en": "Power Riser (Leina)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Variant piloted by Leina."
+  },
+  {
+   "jp": "ファルゲン・マッフ",
+   "en": "Falguen Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Falguen fitted with a Maffu flight unit; English Wikipedia: 'Falguen MAFFU Custom'."
+  },
+  {
+   "jp": "ファルゴス",
+   "en": "Falgos",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フェノメナ",
+   "en": "Phenomena",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia lists 'Phenomena' as a Gyandlar Commander (episodes 39 and 41); the game's library describes it as Diondra's artificial weather satellite."
+  },
+  {
+   "jp": "ブルーガー",
+   "en": "Bluger",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Brave_Raideen",
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "English Wikipedia spells 'Bluegar'; 'Bluger' chosen to match the 'Raideen' romanization used by the SRW wiki."
+  },
+  {
+   "jp": "ブルー・ジェット",
+   "en": "Blue Jet",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブルー・ジェット（変形）",
+   "en": "Blue Jet (Jet Form)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Transformed form."
+  },
+  {
+   "jp": "ヤクト・ゲルフ・マッフ",
+   "en": "Yakt Gelf Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "SRW wiki lists 'Gelf-B (Yakt Gelf)'. 'Yakt' from German Jagd; spelling follows kana."
+  },
+  {
+   "jp": "ライディーン",
+   "en": "Raideen",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Brave_Raideen",
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "English Wikipedia/anime licensors: 'Reideen'; SRW wiki: 'Raideen'."
+  },
+  {
+   "jp": "レビ・ゲルフ・マッフ",
+   "en": "Levi Gelf Maffu",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Metal_Armor_Dragonar/Mecha",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "SRW wiki lists 'Gelf-C (Levi Gelf)'."
+  },
+  {
+   "jp": "ロッド・ドリル",
+   "en": "Rod Drill",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ロッド・ドリル（変形）",
+   "en": "Rod Drill (Drill Tank Form)",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Transformed form."
+  },
+  {
+   "jp": "第５使徒ラミエル",
+   "en": "5th Angel Ramiel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series (Evangelion). Library entry 166."
+  },
+  {
+   "jp": "第１３使徒バルディエル",
+   "en": "13th Angel Bardiel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series. Library entry 167."
+  },
+  {
+   "jp": "第１４使徒ゼルエル",
+   "en": "14th Angel Zeruel",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series. Library entry 168."
+  },
+  {
+   "jp": "第１７使徒タブリス",
+   "en": "17th Angel Tabris",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series. Library entry 169 (text is about Kaworu Nagisa)."
+  },
+  {
+   "jp": "ＥＶＡ量産機",
+   "en": "Mass-Production EVAs",
+   "series": "ＴＨＥ　ＥＮＤ　ＯＦ　ＥＶＡＮＧＥＬＩＯＮ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series (End of Evangelion). Library entry 170."
+  },
+  {
+   "jp": "ガルファ皇帝",
+   "en": "Galfa Emperor",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series (Dendoh). Library entry 171."
+  },
+  {
+   "jp": "ガルファ素体",
+   "en": "Galfa Soldier",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Galfa Sotai'. Entry 172."
+  },
+  {
+   "jp": "機士ウィルス",
+   "en": "Machine Professional Virus",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. 機士 rendered 'Machine Professional' per English Wikipedia ('Professional Machines'). Entry 173."
+  },
+  {
+   "jp": "機士エラー",
+   "en": "Machine Professional Error",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 174."
+  },
+  {
+   "jp": "機士バグ",
+   "en": "Machine Professional Bug",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 175."
+  },
+  {
+   "jp": "機獣オービトン",
+   "en": "Machine Beast Orbiton",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 176."
+  },
+  {
+   "jp": "機獣ファイタス",
+   "en": "Machine Beast Fightersu",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Fightersu'. Entry 177."
+  },
+  {
+   "jp": "機将ギガアブゾルート",
+   "en": "Machine General Giga Absolute",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Absolute'. Entry 178."
+  },
+  {
+   "jp": "機将ギガウィッター",
+   "en": "Machine General Giga Witter",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Witter'. Entry 179."
+  },
+  {
+   "jp": "機将ギガグルメイ",
+   "en": "Machine General Giga Gourmet",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Gourmet'. Entry 180."
+  },
+  {
+   "jp": "機士レガシー",
+   "en": "Machine Professional Legacy",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series; not on English Wikipedia (romanized from kana). Entry 181 (Subaru's unit)."
+  },
+  {
+   "jp": "機士ロック",
+   "en": "Machine Professional Lock",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 182 (spelled 'Lock' on English Wikipedia)."
+  },
+  {
+   "jp": "ゼロ",
+   "en": "Zero",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 183."
+  },
+  {
+   "jp": "ベクターゼロ",
+   "en": "Vector Zero",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 184."
+  },
+  {
+   "jp": "騎士ＧＥＡＲ　凰牙",
+   "en": "Knight GEAR Ouga",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Knight Gear Oger'/'Knight Ogre'. Entry 185."
+  },
+  {
+   "jp": "凰牙・バイパーウィップ",
+   "en": "Ouga Viper Whip",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 186."
+  },
+  {
+   "jp": "凰牙・ブルホーン",
+   "en": "Ouga Bull Horn",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 187."
+  },
+  {
+   "jp": "捕獲機獣",
+   "en": "Capture Machine Beast",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 188."
+  },
+  {
+   "jp": "ラゴウ",
+   "en": "Lagou",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 189."
+  },
+  {
+   "jp": "螺旋城の主",
+   "en": "Lord of Spiral Castle",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series. Entry 190."
+  },
+  {
+   "jp": "かぐらづき",
+   "en": "Kaguratsuki",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series (Nadesico). Entry 191. No English source for the ship name; romanized from kana."
+  },
+  {
+   "jp": "ゲンゴロウ",
+   "en": "Gengoro",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 192. 'Diving beetle' (the name of the creature it resembles)."
+  },
+  {
+   "jp": "ジョロ",
+   "en": "Joro",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 193."
+  },
+  {
+   "jp": "新型バッタ",
+   "en": "New Batta",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 194. Batta = grasshopper."
+  },
+  {
+   "jp": "ダイテツジン",
+   "en": "Daitetsujin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 195."
+  },
+  {
+   "jp": "ダイマジン",
+   "en": "Daimajin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 196."
+  },
+  {
+   "jp": "デンジン",
+   "en": "Denjin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 197."
+  },
+  {
+   "jp": "カトンボ",
+   "en": "Katonbo",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 198 (crane fly)."
+  },
+  {
+   "jp": "積尸気",
+   "en": "Shishiki",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series (Prince of Darkness). Entry 199."
+  },
+  {
+   "jp": "六連",
+   "en": "Mutsura",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. Entry 200."
+  },
+  {
+   "jp": "夜天光",
+   "en": "Yatenko",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series. English Wikipedia: 'Yatenko'. Entry 201."
+  },
+  {
+   "jp": "キング・オブ・ベガ",
+   "en": "King of Vega",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series (Grendizer). Entry 246."
+  },
+  {
+   "jp": "ベガ獣キングゴリ",
+   "en": "Vega Beast King Gori",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 247."
+  },
+  {
+   "jp": "べガ獣グラグラ",
+   "en": "Vega Beast Guragura",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 248."
+  },
+  {
+   "jp": "ベガ獣ジガジガ",
+   "en": "Vega Beast Jigajiga",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 249."
+  },
+  {
+   "jp": "ベガ獣ズメズメ",
+   "en": "Vega Beast Zumezume",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 250."
+  },
+  {
+   "jp": "マザーバーン",
+   "en": "Mother Barn",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 251. ja Wikipedia footnote key suggests 'Mother Barn'; kana could also be 'Mother Burn'."
+  },
+  {
+   "jp": "ミディフォー",
+   "en": "Midi Four",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 252."
+  },
+  {
+   "jp": "ミニフォー",
+   "en": "Mini Four",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 253."
+  },
+  {
+   "jp": "円盤獣グビグビ",
+   "en": "Saucer Beast Gubigubi",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series (Grendizer vs. Great Mazinger). Entry 254. English Wikipedia: Jinji/Gubigubi/Koakoa."
+  },
+  {
+   "jp": "円盤獣コアコア",
+   "en": "Saucer Beast Koakoa",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 255."
+  },
+  {
+   "jp": "円盤獣ジンジン",
+   "en": "Saucer Beast Jinjin",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series. Entry 256."
+  },
+  {
+   "jp": "ギルギルガン",
+   "en": "Gilgilgan",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Mecha_Gilgilgan"
+   ],
+   "notes": "Cross-series (Mazinger movies). Entries 257-259 are its first, second and final forms."
+  },
+  {
+   "jp": "空魔獣グランゲン",
+   "en": "Air Demon Beast Gurangen",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_vs_Getter_Robo"
+   ],
+   "notes": "Cross-series. Entry 260. Romanized from kana; unverified English name."
+  },
+  {
+   "jp": "結合獣ボング",
+   "en": "Combined Beast Bong",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_vs_Getter_Robo"
+   ],
+   "notes": "Cross-series. Entry 261. Romanized from kana; unverified."
+  },
+  {
+   "jp": "光波獣ピクドロン",
+   "en": "Light Wave Beast Pikudoron",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_vs_Getter_Robo"
+   ],
+   "notes": "Cross-series. Entry 262. Romanized from kana; unverified."
+  },
+  {
+   "jp": "ドラゴノザウルス",
+   "en": "Dragonosaurus",
+   "series": "劇場版マジンガーシリーズ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Mazinger_vs_Getter_Robo"
+   ],
+   "notes": "Cross-series. Entry 263. Romanized from kana; unverified."
+  }
+ ],
+ "weapons": [
+  {
+   "jp": "エスパーバーン",
+   "en": "Esper Burn",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia (God Bird section): 'Esper Burn'."
+  },
+  {
+   "jp": "ガトリングガン",
+   "en": "Gatling Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ガトリング砲",
+   "en": "Gatling Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "クロー",
+   "en": "Claw",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "クロービーム",
+   "en": "Claw Beam",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ゴッドアルファ",
+   "en": "God Alpha",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Telekinetic Beam (Nendo Kousen) God Alpha'."
+  },
+  {
+   "jp": "ゴッドゴーガン",
+   "en": "God Gorgon",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'God Gorgon'."
+  },
+  {
+   "jp": "ゴッドバード",
+   "en": "God Bird",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "Also the finishing move and the flight form."
+  },
+  {
+   "jp": "ゴッドバードヘッドカッター",
+   "en": "God Bird Head Cutter",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Head Cutter'."
+  },
+  {
+   "jp": "ゴッドボイス",
+   "en": "God Voice",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゴッドミサイル",
+   "en": "God Missile",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'God Missiles'."
+  },
+  {
+   "jp": "ゴーガンソード",
+   "en": "Gorgon Sword",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Gorgon Sword'."
+  },
+  {
+   "jp": "ショルダーボム",
+   "en": "Shoulder Bomb",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Name confirmed by the game's library text ('shoulder bombs')."
+  },
+  {
+   "jp": "ダイモシャフト",
+   "en": "Daimos Shaft",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダブルソード",
+   "en": "Double Sword",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "チェーンナックル",
+   "en": "Chain Knuckle",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "チェーンハンマー",
+   "en": "Chain Hammer",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "ツインレーザーソード",
+   "en": "Twin Laser Sword",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Two laser swords joined together (see the library text of Dragonar-1)."
+  },
+  {
+   "jp": "デビルレーザー",
+   "en": "Devil Laser",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "デュアルミサイル",
+   "en": "Dual Missile",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "ドリルチャージ",
+   "en": "Drill Charge",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "ナットール弾",
+   "en": "Nattoru Bullet",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Asura's paralyzing sticky-liquid bullets (ja Wikipedia: ナットール弾). Romanized from kana; no English source."
+  },
+  {
+   "jp": "ハイブリッドサージ",
+   "en": "Hybrid Surge",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "バルカン",
+   "en": "Vulcan",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ビーム",
+   "en": "Beam",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ビームソード",
+   "en": "Beam Sword",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ファイブシューター",
+   "en": "Five Shooter",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブレイザーカノン",
+   "en": "Blazer Cannon",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Name confirmed by the game's library text (Blue Jet / Rod Drill)."
+  },
+  {
+   "jp": "ミサイル",
+   "en": "Missile",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "ミサイルランチャー",
+   "en": "Missile Launcher",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "メデューサビーム",
+   "en": "Medusa Beam",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Diondra's Medusa demon sword is called 'Medusa' (library text writes メドゥーサ)."
+  },
+  {
+   "jp": "ロケットアーム",
+   "en": "Rocket Arm",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "光子バズーカ砲",
+   "en": "Photon Bazooka",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "光熱弾",
+   "en": "Photothermal Shell",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "剣狼",
+   "en": "Kenro",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Rom's Wolf Sword; 'Kenrō' on English Wikipedia."
+  },
+  {
+   "jp": "双竜剣",
+   "en": "Double Dragon Blade",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: 'Souryuu Ken (Double Dragon Blade)'."
+  },
+  {
+   "jp": "天空宙心拳・岩石割り",
+   "en": "Tenku Chushin Ken: Rock Splitter",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Technique; 'Gansekiwari' (ja Wikipedia: 巨大な岩も粉々にする). Translated."
+  },
+  {
+   "jp": "天空宙心拳・正拳突き",
+   "en": "Tenku Chushin Ken: Straight Punch",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空宙心拳・蟷螂拳",
+   "en": "Tenku Chushin Ken: Mantis Fist",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Leina's technique (ja Wikipedia 蟷螂拳)."
+  },
+  {
+   "jp": "天空宙心拳・速射拳",
+   "en": "Tenku Chushin Ken: Rapid-Fire Fist",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空真剣・木の葉おとし",
+   "en": "Tenku Shin Ken: Falling Leaf",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空真剣・燕返し",
+   "en": "Tenku Shin Ken: Swallow Reversal",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空真剣・爆裂空転",
+   "en": "Tenku Shin Ken: Explosive Aerial Spin",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空真剣・真空竜巻",
+   "en": "Tenku Shin Ken: Vacuum Tornado",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "ja Wikipedia lists 天空宙心拳 真空竜巻 as Kenryu's technique."
+  },
+  {
+   "jp": "天空真剣・稲妻二段斬り",
+   "en": "Tenku Shin Ken: Lightning Double Slash",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "天空真剣・鎌鼬",
+   "en": "Tenku Shin Ken: Kamaitachi",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Blue Jet's most-used technique (ja Wikipedia). 'Kamaitachi' (sickle weasel) left untranslated."
+  },
+  {
+   "jp": "妖剣メデューサ",
+   "en": "Medusa Demon Sword",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Diondra's cursed sword."
+  },
+  {
+   "jp": "対レーダーミサイル",
+   "en": "Anti-Radar Missile",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "必殺烈風ダイモキック",
+   "en": "Deadly Gale Daimos Kick",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: 'Hissatsu Reppuu Daimos Kick'; 'hissatsu' translated 'Deadly' per the wiki."
+  },
+  {
+   "jp": "必殺烈風正拳突き",
+   "en": "Deadly Gale Correct Fist Thrust",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: 'Hissatsu Reppuu Seiken Zuki' = Deadly Gale Correct Fist Thrust."
+  },
+  {
+   "jp": "必殺烈風正拳突き改",
+   "en": "Deadly Gale Correct Fist Thrust Kai",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "Improved version ('kai')."
+  },
+  {
+   "jp": "恐怖のトリプルアタック",
+   "en": "Terrifying Triple Attack",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "火炎",
+   "en": "Flame",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "火球",
+   "en": "Fireball",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "爆撃",
+   "en": "Bombing",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "爆雷",
+   "en": "Depth Charge",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "白兵戦用レーザーサーベル",
+   "en": "Close-Combat Laser Saber",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "白兵戦用レーザーソード",
+   "en": "Close-Combat Laser Sword",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Name confirmed by the library text of Dragonar-1."
+  },
+  {
+   "jp": "白兵戦用ＨＢサーベル",
+   "en": "Close-Combat HB Saber",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Name confirmed by the library text of Gilgazamune."
+  },
+  {
+   "jp": "破壊光線",
+   "en": "Destruction Beam",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "稲妻サイクロン岩盤割り",
+   "en": "Lightning Cyclone Bedrock Splitter",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "落雷",
+   "en": "Lightning Strike",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "電磁照射",
+   "en": "Electromagnetic Irradiation",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Generic weapon name; translated."
+  },
+  {
+   "jp": "青龍刀",
+   "en": "Azure Dragon Sword",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC",
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia (Machine Robo) translates 青龍刀 as 'Azure Dragon sword'."
+  },
+  {
+   "jp": "１０連デュアルミサイルポッド",
+   "en": "10-Tube Dual Missile Pod",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "１０５ｍｍ２連装レールキャノン",
+   "en": "105 mm Twin Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２連装式レールガン",
+   "en": "Twin-Mount Rail Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２連２０ｍｍ機関砲",
+   "en": "Twin 20 mm Machine Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２連２５ｍｍ機関砲",
+   "en": "Twin 25 mm Machine Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２０ミリバルカン",
+   "en": "20 mm Vulcan",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２０ｍｍバルカン",
+   "en": "20 mm Vulcan",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２２０ｍｍレールキャノン",
+   "en": "220 mm Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "２８０ｍｍレールキャノン",
+   "en": "280 mm Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Dragonar-2's main armament (library text: 280 mm rail cannons)."
+  },
+  {
+   "jp": "３連マルチディスチャージャー",
+   "en": "Triple Multi-Discharger",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Library text (Deins Maffu): 'multi-discharger' on the back."
+  },
+  {
+   "jp": "３０ｍｍ機関砲",
+   "en": "30 mm Machine Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "４５０ｍｍレールキャノン",
+   "en": "450 mm Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "４６０ｍｍレールキャノン",
+   "en": "460 mm Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "５連デュアルミサイルポッド",
+   "en": "5-Tube Dual Missile Pod",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "５連ミサイルポッド",
+   "en": "5-Tube Missile Pod",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "５０ｍｍハンドレールガン",
+   "en": "50 mm Hand Rail Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "５５．６ｍｍハンドレールガン",
+   "en": "55.6 mm Hand Rail Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "６連デュアルミサイルポッド",
+   "en": "6-Tube Dual Missile Pod",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "６４０ｍｍレールキャノン",
+   "en": "640 mm Rail Cannon",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Dragonar-2 Custom's shoulder cannons."
+  },
+  {
+   "jp": "７連ＩＲＭポッド",
+   "en": "7-Tube IRM Pod",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "IRM = presumably Intermediate-Range Missile; unverified."
+  },
+  {
+   "jp": "７５ｍｍハンドレールガン",
+   "en": "75 mm Hand Rail Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Dragonar-1's main weapon."
+  },
+  {
+   "jp": "８８ｍｍハンドレールガン",
+   "en": "88 mm Hand Rail Gun",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "No official English name found; translated from the Japanese."
+  },
+  {
+   "jp": "Ｄフォーメーションアタック",
+   "en": "D Formation Attack",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Group attack of the three Dragonars; translated."
+  },
+  {
+   "jp": "ＤフォーメーションアタックＳ",
+   "en": "D Formation Attack S",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Variant of the above; translated."
+  }
+ ],
+ "terms": [
+  {
+   "jp": "ギャンドラー",
+   "en": "Gyandlar",
+   "category": "organization",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Spelled 'Gyandlar'/'Gyandler' on English Wikipedia; space crime organization led by Gadess."
+  },
+  {
+   "jp": "クロノス",
+   "en": "Cronos",
+   "category": "location",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "The mechanical planet; 'planet Cronos' (クロノス星)."
+  },
+  {
+   "jp": "クロノス族",
+   "en": "Cronos tribe",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Race/tribe of Rom and Leina."
+  },
+  {
+   "jp": "ジェット族",
+   "en": "Jet tribe",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バトル族",
+   "en": "Battle tribe",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "妖兵コマンダー",
+   "en": "Gyandlar Commander",
+   "category": "title",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: 'Gyandlar Commanders' (ja: 妖兵コマンダー)."
+  },
+  {
+   "jp": "妖兵コマンダーランキング",
+   "en": "Gyandlar Commander ranking",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Internal ranking managed by Gadess."
+  },
+  {
+   "jp": "天空宙心拳",
+   "en": "Tenku Chushin Ken",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: Tenkū Chūshin Ken, 'Sky Space Heart Fist'. Macrons dropped."
+  },
+  {
+   "jp": "天空真剣",
+   "en": "Tenku Shin Ken",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: 'Tenkū Shin Ken' (Sky True Sword)."
+  },
+  {
+   "jp": "ハイリビード",
+   "en": "Hyribead",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Mythical infinite energy source granting eternal life."
+  },
+  {
+   "jp": "天空魔城決戦",
+   "en": "Battle of the Heavenly Demon Castle",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Translated from the library wording; not an established English name."
+  },
+  {
+   "jp": "アイシャルリターン",
+   "en": "I shall return",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English catchphrase written in katakana."
+  },
+  {
+   "jp": "ビビビマウス",
+   "en": "Bibibi Mouse",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Gadess's rust-polishing robot; romanized from kana (not found in English sources)."
+  },
+  {
+   "jp": "パワーライザー",
+   "en": "Power Riser",
+   "category": "technology",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: 'Power Riser' (Wheelmen section)."
+  },
+  {
+   "jp": "レスラーロボ",
+   "en": "Wrestler Robo",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Developer of the Power Riser; translated from kana."
+  },
+  {
+   "jp": "パイル・フォーメーション",
+   "en": "Pile Formation",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Merge into Baikanfu; translated from kana."
+  },
+  {
+   "jp": "ライトニングスマッシュ",
+   "en": "Lightning Smash",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Baikanfu's technique; translated."
+  },
+  {
+   "jp": "サンダーパンチ",
+   "en": "Thunder Punch",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Baikanfu's technique; translated."
+  },
+  {
+   "jp": "サンダーサイクロン",
+   "en": "Thunder Cyclone",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Baikanfu's technique; translated."
+  },
+  {
+   "jp": "ゴッドハンドスマッシュ",
+   "en": "God Hand Smash",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "デビルフットスマッシュ",
+   "en": "Devil Foot Smash",
+   "category": "technique",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "タフトレーラー",
+   "en": "Tough Trailer",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "English Wikipedia: 'Tough Trailer'. Character (gender not sourced)."
+  },
+  {
+   "jp": "キライ・ストール",
+   "en": "Kirai Stol",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Character (male): founder of Tenku Chushin Ken, father of Garudi, Rom and Leina. English Wikipedia: 'Kirai Stol'."
+  },
+  {
+   "jp": "フレックス",
+   "en": "Flex",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machine_Robo:_Revenge_of_Cronos",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Rom's machine; English Wikipedia: 'Battle Flex'."
+  },
+  {
+   "jp": "クロノスミミズ",
+   "en": "Cronos earthworm",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "電磁ムチ",
+   "en": "electromagnetic whip",
+   "category": "technology",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Diondra's weapon; translated."
+  },
+  {
+   "jp": "メドゥーサ",
+   "en": "Medusa",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "The demon sword (妖剣メドゥーサ)."
+  },
+  {
+   "jp": "ロムトロン",
+   "en": "Romtron",
+   "category": "other",
+   "series": "マシンロボ　クロノスの大逆襲",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%9C_%E3%82%AF%E3%83%AD%E3%83%8E%E3%82%B9%E3%81%AE%E5%A4%A7%E9%80%86%E8%A5%B2"
+   ],
+   "notes": "Mineral resource mined on Cronos; romanized from kana. Not used in this batch's text."
+  },
+  {
+   "jp": "ギガノス",
+   "en": "Giganos",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters"
+   ],
+   "notes": "Official Sunrise site spells it 'Ghiganos' (United Empire Ghiganos); Wikipedia/SRW wiki/MAL use 'Giganos'."
+  },
+  {
+   "jp": "統一帝国ギガノス",
+   "en": "United Empire Giganos",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=50"
+   ],
+   "notes": "English Wikipedia: 'United Lunar Empire Giganos'."
+  },
+  {
+   "jp": "ギガノス帝国",
+   "en": "Giganos Empire",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "地球連合軍",
+   "en": "Earth Alliance Forces",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=50"
+   ],
+   "notes": "English Wikipedia: 'Earth Alliance (later Earth Federation Military)'; the Sunrise site says 'Earth Federation'. The game text uses 連合 (Alliance)."
+  },
+  {
+   "jp": "メタルアーマー",
+   "en": "Metal Armor",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メタルワーカー",
+   "en": "Metal Worker",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Lunar work robots from which Metal Armor developed; translated."
+  },
+  {
+   "jp": "Ｄ兵器",
+   "en": "D-Weapons",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "English Wikipedia: 'D-Weapons'."
+  },
+  {
+   "jp": "重慶",
+   "en": "Chongqing",
+   "category": "location",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Base where Dragoon mass production takes place."
+  },
+  {
+   "jp": "親衛機甲兵団",
+   "en": "Imperial Guard Armored Corps",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Translated; also written 親衛機甲師団 (Armored Division) in the library."
+  },
+  {
+   "jp": "プラクティーズ",
+   "en": "Practice Squad",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "English Wikipedia: 'Practice Squad' (Meio's elite unit: Dan, Welner, Karl)."
+  },
+  {
+   "jp": "グン・ジェム四天王",
+   "en": "Gon Jem's Four Heavenly Kings",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Gol, Ganan, Zin, Min."
+  },
+  {
+   "jp": "グン・ジェム隊",
+   "en": "Gon Jem Squad",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Nicknamed 'Garbage of Giganos'."
+  },
+  {
+   "jp": "ギガノスの汚物",
+   "en": "Giganos's Filth",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "English Wikipedia: 'Garbage of Giganos'; the game's wording is closer to 'filth'."
+  },
+  {
+   "jp": "ギガノスの蒼き鷹",
+   "en": "Blue Hawk of Giganos",
+   "category": "title",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Meio Plato's epithet; English Wikipedia: 'Blue Hawk'."
+  },
+  {
+   "jp": "マスドライバー",
+   "en": "mass driver",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アルカード",
+   "en": "Alucard",
+   "category": "location",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Space colony."
+  },
+  {
+   "jp": "アイダホ",
+   "en": "Idaho",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Transport ship."
+  },
+  {
+   "jp": "アストロノーツ・アカデミー",
+   "en": "Astronaut Academy",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "リフター",
+   "en": "Lifter",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Flight units (Lifter-1/2/3)."
+  },
+  {
+   "jp": "クララ",
+   "en": "Clara",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Nickname of the D-1's computer."
+  },
+  {
+   "jp": "ソニア",
+   "en": "Sonia",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Nickname of the D-2's computer (romanized from kana)."
+  },
+  {
+   "jp": "マギー",
+   "en": "Maggie",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Nickname of the D-3's computer (romanized from kana)."
+  },
+  {
+   "jp": "ランブルフィッシュ",
+   "en": "rumble fish",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Guiltorre's pet fish; translated from kana (cf. Siamese fighting fish)."
+  },
+  {
+   "jp": "マッフユニット",
+   "en": "Maffu unit",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Flight unit added to Metal Armors; English Wikipedia: 'MAFFU'."
+  },
+  {
+   "jp": "シモールＡ型パッシブ装甲",
+   "en": "Simole Type-A passive armor",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": "Romanized from kana."
+  },
+  {
+   "jp": "ドラグナー",
+   "en": "Dragonar",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://myanimelist.net/anime/865/Kikou_Senki_Dragonar/characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E7%94%B2%E6%88%A6%E8%A8%98%E3%83%89%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ムー帝国",
+   "en": "Mu Empire",
+   "category": "organization",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave",
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "妖魔帝国",
+   "en": "Demon Empire",
+   "category": "organization",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Demon Empire' (Youma)."
+  },
+  {
+   "jp": "ムトロポリス",
+   "en": "Mutropolis",
+   "category": "location",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Science fortress; also called Mu-Tropolis. Romanized from kana."
+  },
+  {
+   "jp": "未来工学研究所",
+   "en": "Future Engineering Research Institute",
+   "category": "organization",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Translated; its fortress is Mutropolis."
+  },
+  {
+   "jp": "コープランダー隊",
+   "en": "Koplander Team",
+   "category": "organization",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Romanized from kana."
+  },
+  {
+   "jp": "臨海学園",
+   "en": "Rinkai Gakuen",
+   "category": "organization",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "School name; 'Seaside Academy' if translated."
+  },
+  {
+   "jp": "ムートロン",
+   "en": "Mutron",
+   "category": "technology",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Mutronium' for the metal; 'Mutron' for the energy."
+  },
+  {
+   "jp": "ムートロン金属",
+   "en": "Mutron metal",
+   "category": "technology",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ラ・ムー",
+   "en": "Ra Mu",
+   "category": "title",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "Emperor of Mu."
+  },
+  {
+   "jp": "ラ・ムーの星",
+   "en": "Star of Ra Mu",
+   "category": "technology",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フェードイン",
+   "en": "fade-in",
+   "category": "technique",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Pilot merging with Raideen; translated."
+  },
+  {
+   "jp": "神面岩",
+   "en": "Divine Face Rock",
+   "category": "location",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "ja Wikipedia writes 人面岩 (Human-Face Rock); the game library writes 神面岩."
+  },
+  {
+   "jp": "大魔妖帝バラオ",
+   "en": "Great Demon Emperor Barao",
+   "category": "other",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "Male villain; English Wikipedia: 'Barao'."
+  },
+  {
+   "jp": "シャーキン",
+   "en": "Sharkin",
+   "category": "other",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": "English Wikipedia: 'Prince Sharkin' (not used in this batch's text)."
+  },
+  {
+   "jp": "スピットファイター",
+   "en": "Spit Fighter",
+   "category": "technology",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%83%A9%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3"
+   ],
+   "notes": "Bluger's small escape aircraft; translated."
+  },
+  {
+   "jp": "ヘッドカッター",
+   "en": "Head Cutter",
+   "category": "technique",
+   "series": "勇者ライディーン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reideen_the_Brave"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダイモビック",
+   "en": "Daimobic",
+   "category": "organization",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "English Wikipedia: 'Daimobic'."
+  },
+  {
+   "jp": "バーム星",
+   "en": "Planet Baam",
+   "category": "location",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バーム星人",
+   "en": "Baam",
+   "category": "other",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos",
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "The alien race."
+  },
+  {
+   "jp": "ダイモライト",
+   "en": "Daimolite",
+   "category": "technology",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: 'Daimos-Light'; the game uses ダイモライト."
+  },
+  {
+   "jp": "海底城",
+   "en": "Undersea Castle",
+   "category": "location",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Baam base; library also writes 海底魔城 (Undersea Demon Castle). Translated."
+  },
+  {
+   "jp": "リヒテル提督",
+   "en": "Admiral Richter",
+   "category": "title",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos"
+   ],
+   "notes": "Erika's brother."
+  },
+  {
+   "jp": "リオン大元帥",
+   "en": "Grand Marshal Leon",
+   "category": "title",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos"
+   ],
+   "notes": "English Wikipedia: 'Emperor Leon' (大元帥)."
+  },
+  {
+   "jp": "ウォーリン",
+   "en": "Worin",
+   "category": "other",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://en.wikipedia.org/wiki/T%C5%8Dsh%C5%8D_Daimos"
+   ],
+   "notes": "Hospital director; Erika's mentor."
+  },
+  {
+   "jp": "フォトミサイル",
+   "en": "Photon Missile",
+   "category": "technology",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "三竜棍",
+   "en": "Triple Dragon Staff",
+   "category": "technique",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: 'Sanryuu Kon (Triple Dragon Stick)'."
+  },
+  {
+   "jp": "地球防衛軍",
+   "en": "Earth Defense Force",
+   "category": "organization",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "スペースダイモビック",
+   "en": "Space Daimobic",
+   "category": "other",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Spacecraft; translated."
+  },
+  {
+   "jp": "国際宇宙機構",
+   "en": "International Space Agency",
+   "category": "organization",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Translated; no English source."
+  },
+  {
+   "jp": "飛燕二段蹴り",
+   "en": "Swallow Double Kick",
+   "category": "technique",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Dr. Izumi's signature karate move; translated."
+  },
+  {
+   "jp": "ブリザード系武器",
+   "en": "Blizzard-type weapons",
+   "category": "technology",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Daimos_(mecha)"
+   ],
+   "notes": "SRW wiki: Double Blizzard, Fire Blizzard, Freezer Storm."
+  },
+  {
+   "jp": "碇シンジ",
+   "en": "Shinji Ikari",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "碇ゲンドウ",
+   "en": "Gendo Ikari",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "綾波レイ",
+   "en": "Rei Ayanami",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series character (female)."
+  },
+  {
+   "jp": "鈴原トウジ",
+   "en": "Toji Suzuhara",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series character (male); official English: 'Toji'."
+  },
+  {
+   "jp": "渚カヲル",
+   "en": "Kaworu Nagisa",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "Cross-series character (male); alias Tabris."
+  },
+  {
+   "jp": "ネルフ",
+   "en": "NERV",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゼーレ",
+   "en": "SEELE",
+   "category": "organization",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヤシマ作戦",
+   "en": "Operation Yashima",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ジオフロント",
+   "en": "Geofront",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "第３新東京市",
+   "en": "Third New Tokyo City",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "English Wikipedia: 'Tokyo-3'."
+  },
+  {
+   "jp": "松代",
+   "en": "Matsushiro",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": "NERV's Second Experimental Site."
+  },
+  {
+   "jp": "ダミーシステム",
+   "en": "Dummy System",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダミープラグ",
+   "en": "Dummy Plug",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ターミナルドグマ",
+   "en": "Terminal Dogma",
+   "category": "location",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "人類補完計画",
+   "en": "Human Instrumentality Project",
+   "category": "other",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｓ２機関",
+   "en": "S2 Engine",
+   "category": "technology",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フィフスチルドレン",
+   "en": "Fifth Child",
+   "category": "title",
+   "series": "新世紀エヴァンゲリオン",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angels_(Neon_Genesis_Evangelion)",
+    "https://en.wikipedia.org/wiki/Kaworu_Nagisa",
+    "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガルファ",
+   "en": "Galfa",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Machine Empire Galfa; English Wikipedia: 'Galfa'."
+  },
+  {
+   "jp": "データウェポン",
+   "en": "Data Weapon",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "螺旋城",
+   "en": "Spiral Castle",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "English Wikipedia: 'Spiral Castle/City'."
+  },
+  {
+   "jp": "アルクトス",
+   "en": "Alktos",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Planet; English Wikipedia: 'Alktos'."
+  },
+  {
+   "jp": "銀河",
+   "en": "Ginga",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Ginga Izumo, Dendoh pilot (male)."
+  },
+  {
+   "jp": "アルテア",
+   "en": "Arthea",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series character (male); also 'Altair'/'Altiar' in some texts."
+  },
+  {
+   "jp": "スバル",
+   "en": "Subaru",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "木連",
+   "en": "Jovian Federation",
+   "category": "organization",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Mokuren; English Wikipedia uses 'Jovian Federation' (the library also writes 木星連合軍)."
+  },
+  {
+   "jp": "蜥蜴戦争",
+   "en": "Lizard War",
+   "category": "other",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "English Wikipedia: 'Jovian Lizards' war."
+  },
+  {
+   "jp": "草壁春樹",
+   "en": "Haruki Kusakabe",
+   "category": "other",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "優人部隊",
+   "en": "Yujin Corps",
+   "category": "organization",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Translated; no English source."
+  },
+  {
+   "jp": "相転移エンジン",
+   "en": "phase transition engine",
+   "category": "technology",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボソンジャンプ",
+   "en": "boson jump",
+   "category": "technology",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "チューリップ",
+   "en": "Tulip",
+   "category": "technology",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゲキガンガー３",
+   "en": "Gekiganger 3",
+   "category": "other",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "火星の後継者",
+   "en": "Martian Successors",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "北辰",
+   "en": "Hokushin",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "傀儡舞",
+   "en": "Kugutsu-mai (Puppet Dance)",
+   "category": "technique",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Translated; no English source."
+  },
+  {
+   "jp": "ベガ大王",
+   "en": "King Vega",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "ベガ星",
+   "en": "Planet Vega",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガトロン",
+   "en": "Vegatron",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スカルムーン",
+   "en": "Skull Moon",
+   "category": "location",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "円盤獣",
+   "en": "Saucer Beast",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベガ獣",
+   "en": "Vega Beast",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "ＴＦＯ",
+   "en": "TFO",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Koji Kabuto's saucer."
+  },
+  {
+   "jp": "反重力ストーム",
+   "en": "Anti-Gravity Storm",
+   "category": "technique",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Translated."
+  },
+  {
+   "jp": "ブレストバーン",
+   "en": "Breast Burn",
+   "category": "technique",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バレンドス",
+   "en": "Barendos",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "English Wikipedia: 'General Barendos'."
+  },
+  {
+   "jp": "アトミックパンチ",
+   "en": "Atomic Punch",
+   "category": "technique",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレートタイフーン",
+   "en": "Great Typhoon",
+   "category": "technique",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "グレートブースター",
+   "en": "Great Booster",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Great_Mazinger"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベアー号",
+   "en": "Bear Go",
+   "category": "technology",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo"
+   ],
+   "notes": "Getter Robo's Bear craft; 'Bear Go' is a transliteration."
+  },
+  {
+   "jp": "武蔵",
+   "en": "Musashi",
+   "category": "other",
+   "series": "ゲッターロボ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo"
+   ],
+   "notes": "Musashi Tomoe (male)."
+  },
+  {
+   "jp": "兜甲児",
+   "en": "Koji Kabuto",
+   "category": "other",
+   "series": "マジンガーＺ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer"
+   ],
+   "notes": "Cross-series character (male)."
+  },
+  {
+   "jp": "牧場ひかる",
+   "en": "Hikaru Makiba",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grendizer",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer_vs._Great_Mazinger",
+    "https://ja.wikipedia.org/wiki/UFO%E3%83%AD%E3%83%9C_%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B6%E3%83%BC"
+   ],
+   "notes": "Cross-series character (female). Only 'Hikaru' appears in the library text."
+  },
+  {
+   "jp": "コブラード",
+   "en": "Cobrado",
+   "category": "other",
+   "series": "闘将ダイモス",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%97%98%E5%B0%86%E3%83%80%E3%82%A4%E3%83%A2%E3%82%B9"
+   ],
+   "notes": "Baam battle command ship (pyramid-shaped) that replaced Garunroll; romanized from kana."
+  }
+ ]
+}

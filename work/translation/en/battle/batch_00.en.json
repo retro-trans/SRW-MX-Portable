@@ -1,0 +1,2237 @@
+{
+ "batch": 0,
+ "rows": [
+  {
+   "id": "q00000",
+   "en": "Your opponent is me, the great Ashura!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00001",
+   "en": "This is where you'll be buried!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00002",
+   "en": "Behold the might of Commander Ranking No. 1!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00003",
+   "en": "I'll show you we're in different leagues!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00004",
+   "en": "I'll kill you, just as you wish!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00005",
+   "en": "I'm a cut above those small fry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00006",
+   "en": "This is the end, Kenryuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00007",
+   "en": "Die! Baikanfu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00008",
+   "en": "Nice of you to get so big! Now none of my shots can miss!",
+   "notes": "Against a large/combined target (e.g. Baikanfu).",
+   "uncertain": []
+  },
+  {
+   "id": "q00009",
+   "en": "Persistent bastard...!",
+   "notes": "Also used by Grujios; works for both.",
+   "uncertain": []
+  },
+  {
+   "id": "q00010",
+   "en": "Coward! You think you can run?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00011",
+   "en": "Now, how should I carve you up...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00012",
+   "en": "You'll regret standing up to Gyandlar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00013",
+   "en": "Drop dead! Kenryuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00014",
+   "en": "Got you now, Baikanfu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00015",
+   "en": "Damn you! The great Ashura... GAAAAAAH!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00016",
+   "en": "Me?! Commander Ranking No. 1?! Nooooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00017",
+   "en": "Lord Gadeeeeees!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00018",
+   "en": "Nngh...! What do you think you're doing?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00019",
+   "en": "B-but I'm the strongest Gyandlar Commander!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00020",
+   "en": "Until I offer your head to Lord Gades... I won't fall!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00021",
+   "en": "Y-you! I'll never forgive you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00022",
+   "en": "Pushing me this far... you're no ordinary foe!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00023",
+   "en": "D-damn these pesky small fry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00024",
+   "en": "B-beaten this badly by the likes of Kenryuu...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00025",
+   "en": "So this is the greatest power of Cronos...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00026",
+   "en": "GUGAAAAAH!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00027",
+   "en": "How dare you scratch the great Ashura's body!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00028",
+   "en": "Damn iiiit...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00029",
+   "en": "Your gloating ends right here!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00030",
+   "en": "Now I can't let you get away!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00031",
+   "en": "Hmph, not yet! Don't make me laugh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00032",
+   "en": "Grr...! Not bad, Kenryuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00033",
+   "en": "D-damn you! Baikanfu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00034",
+   "en": "And THIS is what's been giving Gyandlar so much trouble?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00035",
+   "en": "Gahahahaha! That didn't hurt!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00036",
+   "en": "Is that all?! You must think Gyandlar's a joke!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00037",
+   "en": "Going easy on the great Ashura? You're unbelievable!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00038",
+   "en": "I trained a lot harder than you lot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00039",
+   "en": "The great Ashura is invincible!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00040",
+   "en": "So this is all Kirai's disciple amounts to!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00041",
+   "en": "Tenku Chushin Ken is nothing to fear!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00042",
+   "en": "As if you could ever hit the great Ashura!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00043",
+   "en": "What's wrong?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00044",
+   "en": "How impudent!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00045",
+   "en": "Fuhahaha! Where are you aiming?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00046",
+   "en": "Too bad!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00047",
+   "en": "Hmph! Your power can't break through my Barrier!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00048",
+   "en": "Mere missiles...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00049",
+   "en": "Oh, now this is an interesting device!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00050",
+   "en": "Too soft! Way too soft!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00051",
+   "en": "Well? Surprised?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00052",
+   "en": "Whoa?! I'm out of Nattoru Bullets?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00053",
+   "en": "Hmph! Looks like you got lucky this time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00054",
+   "en": "I can't counterattack?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00055",
+   "en": "Where are you?! Too scared of me?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00056",
+   "en": "Persistent bastard! Drop dead!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00057",
+   "en": "Hahahaha! You fell for it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00058",
+   "en": "The great Ashura has arrived!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00059",
+   "en": "Stand back! You're no match for this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00060",
+   "en": "You'll never be able to stop me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00061",
+   "en": "It can't be helped. Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00062",
+   "en": "Men, get them!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00063",
+   "en": "Don't let that one escape!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00064",
+   "en": "Hahaha!! You're a rat in a trap now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00065",
+   "en": "Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00066",
+   "en": "Eat Nattoru Bullets!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00067",
+   "en": "Take this! Nattoru Bullet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00068",
+   "en": "Nattoru Bullet, fire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00069",
+   "en": "Achaaaaaah!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00070",
+   "en": "I'll send you all to hell!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00071",
+   "en": "It is all over!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00072",
+   "en": "I shall dispose of you all...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00073",
+   "en": "Kukukuku... Yes, hate! Hate all you like...!",
+   "notes": "Gades feeds on hatred; he is urging the target to hate.",
+   "uncertain": []
+  },
+  {
+   "id": "q00074",
+   "en": "Know my power!!",
+   "notes": "Also used by Vega; works for both.",
+   "uncertain": []
+  },
+  {
+   "id": "q00075",
+   "en": "Death... to all who defy Gyandlar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00076",
+   "en": "If not for you lot, it would never have come to this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00077",
+   "en": "Accursed people of Cronos!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00078",
+   "en": "I shall not forgive this",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00079",
+   "en": "I will not fall to small fry like you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00080",
+   "en": "Your wailing is useless...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00081",
+   "en": "Go on, struggle... struggle...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00082",
+   "en": "GUOAAAAAAH!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00083",
+   "en": "Wh-what is this?! T-to think I would be beaten...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00084",
+   "en": "Wh-what is the meaning of this...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00085",
+   "en": "Impossible! This cannot be! It cannot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00086",
+   "en": "N-no! At this rate...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00087",
+   "en": "Guh! I should have killed you long ago...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00088",
+   "en": "Kirai's son... to think he'd come this far...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00089",
+   "en": "Nngh! Accursed wretch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00090",
+   "en": "Guoh?! You're quite good",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00091",
+   "en": "This much will never be enough to defeat me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00092",
+   "en": "You think you've beaten me?! How naive, Rom Stol!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00093",
+   "en": "Rom Stol... Will you defy me to the very end...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00094",
+   "en": "You dare wound my body!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00095",
+   "en": "Do not underestimate the great Gades...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00096",
+   "en": "A mere small fry's attack, after all...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00097",
+   "en": "Is that all?! Some Tenku Chushin Ken that is!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00098",
+   "en": "The guidance of Kenro, you say? With only that...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00099",
+   "en": "And you call that aiming...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00100",
+   "en": "Guhahahahahahahaha",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00101",
+   "en": "Pathetic",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00102",
+   "en": "Kukuku... Too bad",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00103",
+   "en": "Cease this futile effort",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00104",
+   "en": "How can this be?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00105",
+   "en": "You dare humiliate the great Gades!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00106",
+   "en": "I shall finish you myself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00107",
+   "en": "You've come all this way. Why run now?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00108",
+   "en": "This is the end! I'll send you to hell myself!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00109",
+   "en": "I shall face you personally!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00110",
+   "en": "Let me see just what you're made of",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00111",
+   "en": "Kukukukukuku...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00112",
+   "en": "It is all over",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00113",
+   "en": "How's this?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00114",
+   "en": "Take the full force of my power!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00115",
+   "en": "I won't let you do as you please!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00116",
+   "en": "Gades!! You once stole my mind, but I'll waver no more!",
+   "notes": "Garudi was brainwashed by Gades before turning; 'stole my mind' renders kokoro wo ubawareta.",
+   "uncertain": []
+  },
+  {
+   "id": "q00117",
+   "en": "I'll return the favor!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00118",
+   "en": "I'll make you regret attacking me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00119",
+   "en": "So this is the end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00120",
+   "en": "I've been beaten! That was over surprisingly fast...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00121",
+   "en": "Rom! I leave the rest to you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00122",
+   "en": "Gahh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00123",
+   "en": "I can't believe I've taken this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00124",
+   "en": "At this rate, I'll be beaten!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00125",
+   "en": "Guh! I've taken too much damage!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00126",
+   "en": "What?!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00127",
+   "en": "You're pretty good!",
+   "notes": "Shared with Blue Jet and Elfie; neutral.",
+   "uncertain": []
+  },
+  {
+   "id": "q00128",
+   "en": "A direct hit?! I got careless!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00129",
+   "en": "If it's only this much damage...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00130",
+   "en": "Ohh!",
+   "notes": "Shared with the G Gundam fighters; plain interjection.",
+   "uncertain": []
+  },
+  {
+   "id": "q00131",
+   "en": "Gnngh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00132",
+   "en": "It only grazed me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00133",
+   "en": "That won't bring me down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00134",
+   "en": "I can't afford to get hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00135",
+   "en": "I can dodge something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00136",
+   "en": "Your aim is sloppy!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00137",
+   "en": "A Barrier, eh? Handy thing to have!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00138",
+   "en": "Damn! I slipped up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00139",
+   "en": "At this range... I can't counter!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00140",
+   "en": "I'll cover you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00141",
+   "en": "Sorry, but I can't let you escape!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00142",
+   "en": "Careless fool! Now die!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00143",
+   "en": "I won't let that happen!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00144",
+   "en": "What are you doing?! Do you want to die?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00145",
+   "en": "I'll handle that one! Rest while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00146",
+   "en": "Let's go!",
+   "notes": "Shared with Ginga, Hokuto and Giga Witter; 'Let's go!' works for all.",
+   "uncertain": []
+  },
+  {
+   "id": "q00147",
+   "en": "Tenku Chushin Ken! Rapid-Fire Fist!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00148",
+   "en": "Tenku Shin Ken! Nagase Otoshi!!",
+   "notes": "Nagase is Garudi's sword; attack name romanized (otoshi = drop/fall).",
+   "uncertain": [
+    "Attack name 'Tenku Shin Ken: Nagase Otoshi' not in glossary; romanized as 'Nagase Otoshi'. Needs akurasu check."
+   ]
+  },
+  {
+   "id": "q00149",
+   "en": "You dare defy Gyandlar?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00150",
+   "en": "Feel the power of a Gyandlar Commander!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00151",
+   "en": "I'll slit your throat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00152",
+   "en": "Hah hah! Say your prayers!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00153",
+   "en": "I'll show you what happens to those who cross Gyandlar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00154",
+   "en": "C'mon, c'mon! Dance, daaance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00155",
+   "en": "This is how Gyandlar does things!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00156",
+   "en": "You dare defy Lord Gades?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00157",
+   "en": "I'll beat you to death!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00158",
+   "en": "That Commander Ranking is mine!",
+   "notes": "",
+   "uncertain": [
+    "Shared grunt set (Kyasumodon/Zarios/Falgos): 'Commander Ranking' used as short form of glossary 'Gyandlar Commander ranking'."
+   ]
+  },
+  {
+   "id": "q00159",
+   "en": "Hyahahahaha! What's wrong, what's wrong?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00160",
+   "en": "Tenku Chushin Ken, my ass!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00161",
+   "en": "What's so great about Rom Stol?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00162",
+   "en": "Wh-what's so great about Tenku Chushin Ken anyway?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00163",
+   "en": "I've got orders to kill you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00164",
+   "en": "Time to rack up my Commander Ranking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00165",
+   "en": "Lord Gades is angry, y'know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00166",
+   "en": "Don't you dare defy Gyandlar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00167",
+   "en": "If it weren't for you lot...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00168",
+   "en": "Hyahhaa! Payback time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00169",
+   "en": "Watch your mouth!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00170",
+   "en": "Interesting! I'll take you on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00171",
+   "en": "Damn you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00172",
+   "en": "How dare a little brat like you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00173",
+   "en": "You startled me! Take this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00174",
+   "en": "Die and make amends!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00175",
+   "en": "Like hell I'll go down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00176",
+   "en": "GYAAAAAAH!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00177",
+   "en": "L-Lady Diondraaaaa!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00178",
+   "en": "F-forgive meeeee!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00179",
+   "en": "L-L-L-Lord Gadeeeees!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00180",
+   "en": "I'll curse you all! Curse... GYAAAH!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00181",
+   "en": "Long live Lord Gadeeeees!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00182",
+   "en": "Who the hell are you?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00183",
+   "en": "GUOOOOH!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00184",
+   "en": "G-give the retreat order!",
+   "notes": "Grunt asking for a retreat order; read as an appeal to command.",
+   "uncertain": [
+    "Literal is 'R-retreat order...!'; could also be read as calling for a retreat. Rendered as a plea for the order."
+   ]
+  },
+  {
+   "id": "q00185",
+   "en": "I-I don't wanna die!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00186",
+   "en": "It's hopeleeeess!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00187",
+   "en": "Gyaaah, I'm gonna diiiie!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00188",
+   "en": "H-help meeee!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00189",
+   "en": "I'll never do anything bad again!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00190",
+   "en": "S-stop iiiit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00191",
+   "en": "No picking on the weeeak!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00192",
+   "en": "Damn you, quit darting around!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00193",
+   "en": "You're not good enough yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00194",
+   "en": "What an irritating bunch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00195",
+   "en": "Hey, what's up?! That all you got?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00196",
+   "en": "I'll show you a Gyandlar Commander's pride!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00197",
+   "en": "At this rate my Commander Ranking won't go up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00198",
+   "en": "Ow! But it ain't working!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00199",
+   "en": "Gwah! Life's rough for a bottom-rung Commander...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00200",
+   "en": "These guys... they're strong! That's not what I was told!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00201",
+   "en": "Lady Diondra! This is lookin' real bad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00202",
+   "en": "Gahahahahaha! Didn't hurt one bit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00203",
+   "en": "Don't mess with the space crime syndicate Gyandlar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00204",
+   "en": "Did a mosquito bite me? Ahahahaha!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00205",
+   "en": "As if that'd work on us Gyandlar Commanders!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00206",
+   "en": "That's nothin'!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00207",
+   "en": "Lame! You're way too lame!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00208",
+   "en": "Don't lump a Gyandlar Commander in with the riffraff!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00209",
+   "en": "Ahh, that itches, that itches!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00210",
+   "en": "What a joke. Is this all you've got?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00211",
+   "en": "Tch, what a lame-ass attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00212",
+   "en": "Ahh, you're so slow it makes me yawn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00213",
+   "en": "Get in closer! You coward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00214",
+   "en": "You're hopeless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00215",
+   "en": "Look at the state of you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00216",
+   "en": "Like a little spank on the butt, huh? Gyahahaha",
+   "notes": "",
+   "uncertain": [
+    "Butt-spank taunt (oshiri penpen); glossary 'Pen Pen' (Eva penguin) does not apply here."
+   ]
+  },
+  {
+   "id": "q00217",
+   "en": "That's the power of a Gyandlar Commander!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00218",
+   "en": "Didn't work! Gyahahaha!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00219",
+   "en": "Like that's gonna break my Barrier!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00220",
+   "en": "I'm out of ammo?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00221",
+   "en": "I'm out of gas, dammit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00222",
+   "en": "Bastard! Makin' a fool of me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00223",
+   "en": "Get over here where I can reach ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00224",
+   "en": "Where'd you come from?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00225",
+   "en": "Keep pullin' crap like that and I'll beat you senseless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00226",
+   "en": "Backup! I'm backin' you up!",
+   "notes": "Support-attack line.",
+   "uncertain": []
+  },
+  {
+   "id": "q00227",
+   "en": "Yahoo! Eat this too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00228",
+   "en": "You'll regret makin' an enemy of the Commanders!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00229",
+   "en": "Just die already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00230",
+   "en": "Hyahahaha! I can't stop laughing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00231",
+   "en": "I told ya, I ain't lettin' you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00232",
+   "en": "I'm gonna be the shield, I said!",
+   "notes": "Support-defend line.",
+   "uncertain": []
+  },
+  {
+   "id": "q00233",
+   "en": "If I don't, the boss lady'll chew me out!",
+   "notes": "Anego = Diondra; rendered 'the boss lady'.",
+   "uncertain": []
+  },
+  {
+   "id": "q00234",
+   "en": "Feast your eyes! A Gyandlar Commander's true grit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00235",
+   "en": "Quit makin' work for me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00236",
+   "en": "You bastard! I'll knock you flat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00237",
+   "en": "C'mon, c'mon! Dance, dance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00238",
+   "en": "Here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00239",
+   "en": "I'll crush you! Hyahhaa!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00240",
+   "en": "Eat this, you dumbass!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00241",
+   "en": "Go to helllll!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00242",
+   "en": "I'll send ya to the afterlife!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00243",
+   "en": "I'll finish this in one go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00244",
+   "en": "Here's a direct hit! Die and rot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00245",
+   "en": "I'll make you cry, punk!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00246",
+   "en": "You're the first one I'm makin' cry!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00247",
+   "en": "Triple Commander Ranking points! They're mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00248",
+   "en": "You'd defy Gyandlar?! You idiot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00249",
+   "en": "I'll show you a Commander's true strength!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00250",
+   "en": "Heh heh heh heh, hey sweetie, how about some tea?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00251",
+   "en": "Hyahaha! You're Rom's little sister?! Dibs!!",
+   "notes": "Aimed at Leina (Rom's younger sister).",
+   "uncertain": []
+  },
+  {
+   "id": "q00252",
+   "en": "At last I've got you! Prepare yourself, Rom Stol!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00253",
+   "en": "I'm sick of your face, Rom!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00254",
+   "en": "It's you lot! Always, always, always gettin' in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00255",
+   "en": "Pile of junk! Croak already!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00256",
+   "en": "I ain't beaten yeeeet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00257",
+   "en": "That's payback, I'm tellin' ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00258",
+   "en": "Don't get full of yourseeeelf!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00259",
+   "en": "Hey, you've got guts! Step outside!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00260",
+   "en": "You're standin' up to me? Huh?! Oi!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00261",
+   "en": "Guess you've gotta die now, pal. Yep, it's the only way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00262",
+   "en": "I won't just take this lying down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00263",
+   "en": "This is what they call... a counterattack, huh?!",
+   "notes": "Parody of a famous baseball-commentary verbal tic; rendered as hesitant phrasing.",
+   "uncertain": []
+  },
+  {
+   "id": "q00264",
+   "en": "Long live Gyandlaaaar!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00265",
+   "en": "I-I'll come back to haunt youuu!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00266",
+   "en": "Remember this! Huh? You'll forget?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00267",
+   "en": "Lady Diondraaa! I blew iiiit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00268",
+   "en": "I'll be back! Don't you forget it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00269",
+   "en": "My C-Commander Ranking... so much for raising it...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00270",
+   "en": "I-I'll curse you! Curse... GYAAAH!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00271",
+   "en": "This is way beyond worryin' about rankings!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00272",
+   "en": "At this rate, I'm gonna get killed!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00273",
+   "en": "Eeek! I'm gonna diiie!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00274",
+   "en": "Wh-wh-wh-what do I dooo?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00275",
+   "en": "That was nasty! What kind of hero does that?!",
+   "notes": "",
+   "uncertain": [
+    "Seigi no mikata can be singular or plural; used 'What kind of hero does that?!' to stay neutral."
+   ]
+  },
+  {
+   "id": "q00276",
+   "en": "I-I'm losin'?! No way, I'm gonna lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00277",
+   "en": "It's no goood! There's nothin' I can doooo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00278",
+   "en": "I'm cornered?! Hyaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00279",
+   "en": "Lord Gades! Heeelp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00280",
+   "en": "Lady Diondra! Heeelp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00281",
+   "en": "I-I-I'm Gyandlar, y'know! I'm scary, y'knooow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00282",
+   "en": "No, I'm dead! I'm totally dead! Aaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00283",
+   "en": "I won't do bad stuff anymore! Okay?! Okay?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00284",
+   "en": "Tenku Whatsit Fist really hurts this bad?!",
+   "notes": "The grunt mangles the style name; kept the mangling.",
+   "uncertain": []
+  },
+  {
+   "id": "q00285",
+   "en": "Is this Rom goin' all out?! Don't go all out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00286",
+   "en": "Guess we really can't beat these guys!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00287",
+   "en": "Gwaah! How many times am I gonna get beat by these guys?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00288",
+   "en": "C'mon, we go way back! Let me off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00289",
+   "en": "Damn! Took that one full on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00290",
+   "en": "Tch, you're better than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00291",
+   "en": "Owww, that hurt more than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00292",
+   "en": "Ugyaaah!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00293",
+   "en": "Y-you've gotta be kiddin' me, you bastard!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00294",
+   "en": "Y-you! Are you even human?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00295",
+   "en": "I-I just remembered somethin'! I'm goin' home!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00296",
+   "en": "What the hell was that?! You bastard!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00297",
+   "en": "Tch, things are startin' to look dicey!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00298",
+   "en": "Grr! Playtime's over!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00299",
+   "en": "Damn it all, I've had it with this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00300",
+   "en": "D-don't think this is all I've got!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00301",
+   "en": "Owww! You bitch! You're makin' a fool of me!",
+   "notes": "Insult aimed at a female pilot; kept full strength.",
+   "uncertain": []
+  },
+  {
+   "id": "q00302",
+   "en": "What kind of power is that for a woman?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00303",
+   "en": "N-not bad, Rom Stol!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00304",
+   "en": "You! Rom! Don't you get cocky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00305",
+   "en": "My ranking's gonna drop at this rate!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00306",
+   "en": "Those guys... doin' whatever they like, as usual!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00307",
+   "en": "That ain't even a scratch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00308",
+   "en": "Pfft, you're nothin' special, are ya?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00309",
+   "en": "Ahh, that itches, that itches",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00310",
+   "en": "Whoa!! What the heck is that?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00311",
+   "en": "What, you're done already?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00312",
+   "en": "Put a little more fight into it. Okay?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00313",
+   "en": "Get outta my way! You lousy loser!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00314",
+   "en": "Seriously? That attack? Seriously?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00315",
+   "en": "Bo-ring. This attack is waaay too boring",
+   "notes": "Darui = tedious/sluggish; rendered 'boring'.",
+   "uncertain": []
+  },
+  {
+   "id": "q00316",
+   "en": "Th-they got meee!! ...Just kiddin'",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00317",
+   "en": "Well... I guess you'd call this minor damage",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00318",
+   "en": "Tch, you annoying pest!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00319",
+   "en": "Now, now, that's naughty, little missy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00320",
+   "en": "What a cuuute little attack that was!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00321",
+   "en": "Your Whatchamacallit Fist ain't workin'!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00322",
+   "en": "Kenro, my ass! That's weak!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00323",
+   "en": "Champions of justice ain't so tough after all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00324",
+   "en": "Hyahaha! Is Gyandlar winnin' this time?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00325",
+   "en": "I'll dodge with our superior mobility! ...or somethin'?!",
+   "notes": "Parody of a mecha-anime evasion line.",
+   "uncertain": []
+  },
+  {
+   "id": "q00326",
+   "en": "I can see it...! Just kiddin', hyahhaa!!",
+   "notes": "Parody of the Newtype 'I can see it' line.",
+   "uncertain": []
+  },
+  {
+   "id": "q00327",
+   "en": "You just can't hit me, see!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00328",
+   "en": "You! Very bad shooter, yes!",
+   "notes": "",
+   "uncertain": [
+    "Mock broken English in katakana (you, heta-kuso ne = you are bad at it); rendered as broken English without caricature."
+   ]
+  },
+  {
+   "id": "q00329",
+   "en": "Standin' up to the guy standin' guard?! Gahaha!!",
+   "notes": "",
+   "uncertain": [
+    "Pun on tate (shield) and tatetsuku (defy); replaced with an English wordplay on 'standing'."
+   ]
+  },
+  {
+   "id": "q00330",
+   "en": "Lucky! Ducky! Chuckie-wucky!!",
+   "notes": "",
+   "uncertain": [
+    "Nonsense rhyme (lucky, cookie, haguki/gums); replaced with an English nonsense rhyme."
+   ]
+  },
+  {
+   "id": "q00331",
+   "en": "Well, uh... that's just how it is!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00332",
+   "en": "Whoa there! Lucky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00333",
+   "en": "How's that? Didn't see that comin', huh?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00334",
+   "en": "Turns out I had a Barrier, see!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00335",
+   "en": "Hey, hey! Nyah nyah, spank my butt!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00336",
+   "en": "Well, see ya later, Jammer-gator!",
+   "notes": "",
+   "uncertain": [
+    "Pun on 'honja ma(ta)' (see you) and Jammer; rendered 'see ya later, Jammer-gator'."
+   ]
+  },
+  {
+   "id": "q00337",
+   "en": "Get lost, I'm tellin' ya!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00338",
+   "en": "Yahoooooo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00339",
+   "en": "Hyahahaha! I'm amazin'!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00340",
+   "en": "Whoa?! I didn't know I had THIS kind of skill!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00341",
+   "en": "Geh?! I can't counterattack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00342",
+   "en": "I've got no strength left! Resupply, resupply!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00343",
+   "en": "No waaay! There's nothin' I can do?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00344",
+   "en": "Huh?! Where'd you vanish to?!",
+   "notes": "",
+   "uncertain": [
+    "Opponent unseen; used 'you'."
+   ]
+  },
+  {
+   "id": "q00345",
+   "en": "You bastard! Let me counterattack!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00346",
+   "en": "Where'd you circle around to?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00347",
+   "en": "Okay, I'll back you up! ...Just kiddin', hyahhaa!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00348",
+   "en": "I'll lend a hand, so you're buyin' me a drink later!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00349",
+   "en": "There! You're wide open all over the place!",
+   "notes": "",
+   "uncertain": [
+    "Pun on the stock phrase 'kekkou kedarake'; pun dropped, kept the 'wide open' meaning."
+   ]
+  },
+  {
+   "id": "q00350",
+   "en": "Heh heh heh, yours truly'll lend a hand too, boss!",
+   "notes": "Uses the humble lackey pronoun 'asshi'; rendered 'yours truly ... boss'.",
+   "uncertain": []
+  },
+  {
+   "id": "q00351",
+   "en": "This favor's gonna cost ya big!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00352",
+   "en": "Be grateful, deeper than the sea!!",
+   "notes": "Mangled idiom (deeper than the sea); kept the oddness.",
+   "uncertain": []
+  },
+  {
+   "id": "q00353",
+   "en": "Don't you go stealin' my spotlight!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00354",
+   "en": "Whoa there! Commander Ranking, uuup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00355",
+   "en": "Let's beat 'em to a pulp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00356",
+   "en": "Let's gang up on 'em! Here we goooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00357",
+   "en": "Let's beat 'em black and blue! Get 'em!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00358",
+   "en": "Okay, okay. I'm chargin' in!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00359",
+   "en": "I know! Die!!",
+   "notes": "",
+   "uncertain": [
+    "Partner-attack reply; the grunt answers 'I know!' to an unseen partner. Kept as is."
+   ]
+  },
+  {
+   "id": "q00360",
+   "en": "Oh! Attackin' with the new system, huh?!",
+   "notes": "Likely the combination/team attack line.",
+   "uncertain": []
+  },
+  {
+   "id": "q00361",
+   "en": "Come on! Once I'm up close, you're mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00362",
+   "en": "Go on, run around! Run!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00363",
+   "en": "It ain't much, but here, take it!",
+   "notes": "Parody of the polite gift formula.",
+   "uncertain": []
+  },
+  {
+   "id": "q00364",
+   "en": "If you're lucky, it might miss!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00365",
+   "en": "Dance, dance! DANCE, I said!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00366",
+   "en": "This is gonna hurt if it hits!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q00367",
+   "en": "You're in range! Dum-my!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

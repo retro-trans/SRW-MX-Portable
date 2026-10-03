@@ -1,0 +1,8 @@
+{
+ "terms": [
+  {"jp":"リッちゃん","en":"Rits","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row815 Kaji's source-short Ritsuko nickname. Provisional spoken English nickname; decorative chan dropped under campaign rules. No independently verified licensed English nickname located; do not expand to full Ritsuko."},
+  {"jp":"特殊監査部","en":"Special Inspection Department","sources":["https://evangelion.fandom.com/wiki/Ryoji_Kaji","work/glossary/glossary.json","work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row807 NERV department follows existing main Kaji character profile. Secondary English name, independently licensed wording unverified. Do not change source organization or add spying lore."},
+  {"jp":"地球連邦政府調査部","en":"Earth Federation Government Investigation Department","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Stage23 row808 game-specific organization; source-literal provisional English, not independently canonical. Preserve Earth Federation Government rather than importing the anime's Japanese ministry."},
+  {"jp":"第一使徒","en":"First Angel","sources":["work/translation/en/script/stage23_campaign.json","work/glossary/glossary.json"],"notes":"Stage23 rows715/821 explicit ordinal plus binding Angel term. Adam identified only where source821 names Adam; do not add identity to unnamed earlier reference."}
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "terms": [
+  {
+   "jp": "成長記憶シリコン",
+   "en": "growth-memory silicone",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/氷室美久"
+   ],
+   "notes": "Stage29 row38 synthetic body material. Source supplies growth-memory compound; secondary SRWwiki identifies a growth-silicon body coating. Silicone chosen from body-coating context as an inference, exact chemistry and licensed English term unverified; no added mechanism. No exact Akurasu entry found."
+  },
+  {
+   "jp": "推論型ＡＩ",
+   "en": "inference-based AI",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage29 row39 literal descriptive AI type; no exact Akurasu or licensed English terminology established. Do not import modern AI mechanics."
+  },
+  {
+   "jp": "黒き月",
+   "en": "Black Moon",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage29 row58 source-literal proper designation; exact Akurasu/independent licensed English entry not located. Do not expand to an organization, character or Evangelion mechanism not stated here."
+  },
+  {
+   "jp": "天",
+   "en": "Heaven",
+   "sources": [
+    "work/translation/en/script/stage24_campaign.json",
+    "work/translation/en/script/stage29_campaign.json"
+   ],
+   "notes": "Stage24 rows82/330 cryptic source-short target only. Do not expand to named Zeorymer or apply globally to ordinary heaven references. 八卦 in330 remains ambiguous collective the Hakke, not forcibly expanded to Hakkeshu people or Hakke robots; the existing Stage12 八卦 entry has a different explicit people-only scope. Stage29 rows151/157 likewise retain source-short Heaven as unit epithet, without expanding the full unit name; meaning verified against original rows. Earlier English unchanged."
+  },
+  {
+   "jp": "山",
+   "en": "Mountain",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Master_Unit_List"
+   ],
+   "notes": "Stage29 row243 quoted source-short epithet only, existing Burrstone of the Mountains unit identity. Preserve singular source label; do not apply globally to ordinary mountains or expand full unitname."
+  },
+  {
+   "jp": "雷",
+   "en": "Lightning",
+   "sources": [
+    "work/translation/en/script/stage29_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Master_Unit_List"
+   ],
+   "notes": "Stage29 row243 quoted source-short epithet only, existing Omzack of the Lightning identity. Do not expand fullunit name or apply globally to ordinary lightning."
+  }
+ ]
+}

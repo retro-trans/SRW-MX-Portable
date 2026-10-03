@@ -1,0 +1,2531 @@
+{
+ "batch": 7,
+ "rows": [
+  {
+   "id": "q02703",
+   "en": "Can you dodge this?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02704",
+   "en": "You're mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02705",
+   "en": "All right, attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02706",
+   "en": "Commencing attack! Here we go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02707",
+   "en": "I'll finish this in one stroke!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02708",
+   "en": "To reclaim our pride!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02709",
+   "en": "We, the Martian Successors, will not lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02710",
+   "en": "Fools, daring to defy us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02711",
+   "en": "If I can just sink that ship!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02712",
+   "en": "If I hit its Phase Transition Engine...!",
+   "notes": "Literal 'phase transition reactor'; used glossary Phase Transition Engine.",
+   "uncertain": []
+  },
+  {
+   "id": "q02713",
+   "en": "Nadesico! So you stand in our way after all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02714",
+   "en": "Damn that black unit! You'd get in our way?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02715",
+   "en": "That black unit...! I'll catch up to it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02716",
+   "en": "You get in our way yet again!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02717",
+   "en": "A space frame... Can it withstand this?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02718",
+   "en": "You traitor! I'll pass judgment on you!",
+   "notes": "",
+   "uncertain": [
+    "'shodan' = judge and punish; rendered 'pass judgment on you'.. Target is a former Mokuren member who joined the other side (likely Saburota)."
+   ]
+  },
+  {
+   "id": "q02719",
+   "en": "Siding with the Earthlings? Unforgivable!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02720",
+   "en": "Fools who've thrown away Mokuren's pride!",
+   "notes": "Mokuren = glossary term (Jovian Federation).",
+   "uncertain": [
+    "Mokuren left untranslated per glossary; 'Jovian' would read clearer to players."
+   ]
+  },
+  {
+   "id": "q02721",
+   "en": "I'm only just getting started!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02722",
+   "en": "Here's payback!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Giganos soldiers and Ryoma Nagare; 'Here's payback!' works for all."
+   ]
+  },
+  {
+   "id": "q02723",
+   "en": "Don't get cocky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02724",
+   "en": "I can't back down like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02725",
+   "en": "Now I'm coming at you!",
+   "notes": "",
+   "uncertain": [
+    "kocchi could be 'we' or 'I'; chose 'I' (single soldier line)."
+   ]
+  },
+  {
+   "id": "q02726",
+   "en": "Time to counterattack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02727",
+   "en": "I'm moving to intercept!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02728",
+   "en": "Now it's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02729",
+   "en": "I-I have to bail out!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02730",
+   "en": "Gwaah! Is this the end?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02731",
+   "en": "H-how did it come to this?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02732",
+   "en": "Is there no stopping them...?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02733",
+   "en": "We, the Martian Successors...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02734",
+   "en": "I-I've failed!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02735",
+   "en": "My unit! Uoaaagh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02736",
+   "en": "J-just like the rumors... No, even worse!",
+   "notes": "",
+   "uncertain": [
+    "'sore ijou' = beyond the rumors; rendered 'even worse' (from the victim's view), meaning the enemy is stronger than rumored."
+   ]
+  },
+  {
+   "id": "q02737",
+   "en": "Th-this is bad! There's nowhere to run!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02738",
+   "en": "Guah! Did I take a direct hit?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02739",
+   "en": "Y-you've got to be kidding me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02740",
+   "en": "Wh-what?! What was that?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02741",
+   "en": "Uooh! I-I can't take any more!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02742",
+   "en": "Am I just going to get taken down like this?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02743",
+   "en": "Wh-what is with their power?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02744",
+   "en": "Uoaaaagh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02745",
+   "en": "On the pride of the Martian Successors, I can't lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02746",
+   "en": "The soul of the Jovian forces... will not die...!",
+   "notes": "Source names the Jovian Alliance forces (Mokuren's military); rendered 'Jovian forces'.",
+   "uncertain": [
+    "'Mokusei rengougun' rendered 'Jovian forces'; no glossary entry for this exact term."
+   ]
+  },
+  {
+   "id": "q02747",
+   "en": "Are you saying we can't win?! Us?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02748",
+   "en": "Grrr...! Beaten by that battleship again!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02749",
+   "en": "D-damn the Nadesico! It's far stronger than before!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02750",
+   "en": "Why?! How can we lose to a bunch of clowns like them?!",
+   "notes": "",
+   "uncertain": [
+    "Verb restored as 'lose to'; source only says 'to such clowns'."
+   ]
+  },
+  {
+   "id": "q02751",
+   "en": "Th-this is nothing like the old Aestivalis!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02752",
+   "en": "Nngh! I won't flinch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02753",
+   "en": "Don't underestimate our resolve!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02754",
+   "en": "Guh! My primary armor?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02755",
+   "en": "Where did it hit?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02756",
+   "en": "I-I can still fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02757",
+   "en": "I can't be shot down here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02758",
+   "en": "Wh-what?! What was that just now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02759",
+   "en": "D-don't think this will go your way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02760",
+   "en": "I-I somehow managed to hold out",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02761",
+   "en": "Nngh! They're tough, just as I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02762",
+   "en": "S-someone cover me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02763",
+   "en": "That's the Nadesico for you. It's tough!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02764",
+   "en": "I can't die until I sink that ship...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02765",
+   "en": "This one...! A clown, but a strong one...!",
+   "notes": "",
+   "uncertain": [
+    "Kept 'This one' (source: koitsu); target gender unknown."
+   ]
+  },
+  {
+   "id": "q02766",
+   "en": "The Aestivalis... Has its performance improved?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02767",
+   "en": "The damage is lighter than I thought",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02768",
+   "en": "Hmph, it's nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02769",
+   "en": "I couldn't fully dodge it?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02770",
+   "en": "At least I avoided a direct hit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02771",
+   "en": "Don't think you can stop us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02772",
+   "en": "This is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02773",
+   "en": "I'll dodge it next time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02774",
+   "en": "You're really underestimating me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02775",
+   "en": "Nngh! Don't get carried away!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02776",
+   "en": "If that's all you've got, stay out of this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02777",
+   "en": "Kuh! I can't block it all?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02778",
+   "en": "So this is all the Nadesico amounts to!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02779",
+   "en": "Hmph, you're no match for the Nadesico of old!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02780",
+   "en": "Being a bit newer won't save you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02781",
+   "en": "Looks like your performance has dropped since the old days!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02782",
+   "en": "Evasion successful!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02783",
+   "en": "All right! That worked!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02784",
+   "en": "Don't think that was luck!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02785",
+   "en": "Like I'd take a direct hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02786",
+   "en": "Hold out for me, shield!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02787",
+   "en": "I'll block it all with this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02788",
+   "en": "Come on, work!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02789",
+   "en": "Distortion Field, deploy!",
+   "notes": "Source uses the kanji form (space-time distortion field); glossary Distortion Field.",
+   "uncertain": []
+  },
+  {
+   "id": "q02790",
+   "en": "I'll bounce it right back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02791",
+   "en": "Yes! The Jammer worked!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02792",
+   "en": "Missiles won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02793",
+   "en": "Firing that at me is a waste of time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02794",
+   "en": "Don't think that was a fluke!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02795",
+   "en": "Even I can manage this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02796",
+   "en": "I can't attack?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02797",
+   "en": "Must I just... let them slip past?!",
+   "notes": "",
+   "uncertain": [
+    "Target unknown, used 'them'."
+   ]
+  },
+  {
+   "id": "q02798",
+   "en": "I can't counterattack?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02799",
+   "en": "Damn it! I can't lay a finger on them!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02800",
+   "en": "Where?! Where did they go?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02801",
+   "en": "Damn, I've lost sight of them!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02802",
+   "en": "Did they slip into my blind spot?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02803",
+   "en": "Kuh! Check the relative distance!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02804",
+   "en": "Let's keep it going!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02805",
+   "en": "Combination attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02806",
+   "en": "You left an opening!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02807",
+   "en": "I can still keep going!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02808",
+   "en": "Captain, leave this to me!",
+   "notes": "",
+   "uncertain": [
+    "taichou rendered 'Captain' (squad leader)."
+   ]
+  },
+  {
+   "id": "q02809",
+   "en": "Now! Fall back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02810",
+   "en": "I'll take care of things here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02811",
+   "en": "You're too far forward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02812",
+   "en": "Hurry up and pull back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02813",
+   "en": "Captain, please fall back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02814",
+   "en": "Prepare for an all-out attack! Here we go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02815",
+   "en": "That one's our target! Everyone, attack together!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02816",
+   "en": "Wait for the right timing... Now, go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02817",
+   "en": "I'm counting on you for rear support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02818",
+   "en": "Roger! I'll provide rear support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02819",
+   "en": "Got it! Commencing attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02820",
+   "en": "I'll provide support fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02821",
+   "en": "I'm beginning rear support!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02822",
+   "en": "Go down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02823",
+   "en": "I've got you now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02824",
+   "en": "I'll riddle you with holes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02825",
+   "en": "You're in range! Take this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02826",
+   "en": "Damn that black unit! You'd get in our way?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02827",
+   "en": "That black unit...! I'll catch up to it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02828",
+   "en": "This is a battle with the future of humanity at stake!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02829",
+   "en": "A new world and a new order, in our hands!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02830",
+   "en": "We are the Martian Successors!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02831",
+   "en": "All for the sake of a new order!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02832",
+   "en": "Now! Behold the dawn of a new order!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02833",
+   "en": "Divine punishment--!!",
+   "notes": "",
+   "uncertain": [
+    "'Tenchuu' (heaven's punishment, a Mokuren rallying cry) rendered 'Divine punishment'."
+   ]
+  },
+  {
+   "id": "q02834",
+   "en": "Now we deliver divine punishment!! Fiiire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02835",
+   "en": "Is this what they call fate...?! But we will not lose!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02836",
+   "en": "This time, it is our turn to win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02837",
+   "en": "I will never forget the bitter taste of our past defeat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02838",
+   "en": "What utterly absurd people...! I will wipe them out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02839",
+   "en": "Any obstacle that stands in our way must be eliminated!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02840",
+   "en": "Intercept formation! Fiiire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02841",
+   "en": "We may be evil! But this is a necessary evil!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02842",
+   "en": "I will show no mercy!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02843",
+   "en": "...So this is human tenacity...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02844",
+   "en": "How bitter......! Hurry, all hands evacuate!",
+   "notes": "",
+   "uncertain": [
+    "'Munen' rendered 'How bitter'; ship-abandon line."
+   ]
+  },
+  {
+   "id": "q02845",
+   "en": "For our ideals, we cannot back down here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02846",
+   "en": "I will not rot away in a place like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02847",
+   "en": "Curses...! But at this rate...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02848",
+   "en": "I never imagined their power was this great...! Hurry, check all sections!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02849",
+   "en": "Even for a battleship, any more of this is dangerous...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02850",
+   "en": "Do not falter! Prepare to counterattack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02851",
+   "en": "Hmph... So they're concentrating on this ship",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02852",
+   "en": "No matter! Keep them drawn in on us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02853",
+   "en": "Nngh, a direct hit! Report the damage!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02854",
+   "en": "This battle... we will surely win it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02855",
+   "en": "There is no need to even evade",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02856",
+   "en": "Our will cannot be bent!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02857",
+   "en": "That will not work on us!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02858",
+   "en": "Never mind it! The damage is light!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02859",
+   "en": "So we were hit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02860",
+   "en": "I won't let you have your way so easily!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02861",
+   "en": "We will not lose!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02862",
+   "en": "We must keep the damage to a minimum",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02863",
+   "en": "Truly a victory for our technology!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02864",
+   "en": "The Distortion Field still holds!",
+   "notes": "Source uses the kanji form of Distortion Field.",
+   "uncertain": []
+  },
+  {
+   "id": "q02865",
+   "en": "Missiles won't do a thing!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Argo Gulski; neutral wording 'Missiles won't do a thing!' chosen to fit both a ship and a mobile fighter."
+   ]
+  },
+  {
+   "id": "q02866",
+   "en": "You underestimated our technology!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02867",
+   "en": "So our energy has finally run out...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02868",
+   "en": "Curse you! Such cowardly tricks, to the very end!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02869",
+   "en": "Good, we will join the fight as well!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02870",
+   "en": "Maximum battle speed! Commence attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02871",
+   "en": "I cannot let our comrades fall!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02872",
+   "en": "I will use this ship as a shield!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02873",
+   "en": "The enemy is on the verge of falling! Now, my brave warriors!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02874",
+   "en": "Now we seize victory with our own hands! Forward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02875",
+   "en": "This too is for the sake of humanity's future!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02876",
+   "en": "Forgive me...! But it is all for the sake of the new order!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02877",
+   "en": "I'm gonna blast right through you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02878",
+   "en": "If bullets are what you want, I'll give ya plenty!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02879",
+   "en": "Quit scurrying around in front of me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02880",
+   "en": "It's my treat! Hang on to it!",
+   "notes": "",
+   "uncertain": [
+    "Ryoko's 'ogori' joke (bullets as a treat); 'It's my treat! Hang on to it!' with implied 'it' = the shot."
+   ]
+  },
+  {
+   "id": "q02881",
+   "en": "This range is my range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02882",
+   "en": "All right, time to take out the bad Martians!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02883",
+   "en": "Perish, perish, perish! I'll do it myself!",
+   "notes": "Ryoko mocks the assassins' battle cry 'metsu' (annihilate); rendered 'perish' consistently in rows 180, 194, 203, 211, 358.",
+   "uncertain": [
+    "'Metsu' chant rendered 'Perish'; a translator may prefer leaving 'Metsu'."
+   ]
+  },
+  {
+   "id": "q02884",
+   "en": "Now things are getting a little interesting...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02885",
+   "en": "You! You know what's coming to ya, right?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02886",
+   "en": "I'll give you credit for the guts to come at me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02887",
+   "en": "I pay back triple!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02888",
+   "en": "You hit me, I hit back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02889",
+   "en": "Here! That's your change! Keep it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02890",
+   "en": "Dammit! Is this how it ends?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02891",
+   "en": "Kuh! You... You'll pay for this once it's over!",
+   "notes": "",
+   "uncertain": [
+    "Rendered 'You'll pay for this once it's over' for 'remember this when this is over'."
+   ]
+  },
+  {
+   "id": "q02892",
+   "en": "...This time, I might really be in trouble...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02893",
+   "en": "That was close, way too close... Dammit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02894",
+   "en": "Dammit! I ain't going down yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02895",
+   "en": "Kuuu~! That one really stung...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02896",
+   "en": "Crap! What the hell's up with the field?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02897",
+   "en": "Not yet... It's too soon to say \"perish\"...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02898",
+   "en": "You Martian bastards... Lookin' down on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02899",
+   "en": "Ugh!? That did more damage than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02900",
+   "en": "Dammit, have I gotten rusty?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02901",
+   "en": "Me, of all people... How pathetic!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02902",
+   "en": "Crap! Did it get through?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02903",
+   "en": "Dammit, the field ain't doing a thing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02904",
+   "en": "I got careless...! But I'm not done yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02905",
+   "en": "If you're gonna stage a coup, you gotta be at least that good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02906",
+   "en": "Ugh, like I'm gonna perish that easy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02907",
+   "en": "What, is that all you've got?!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Koji Kabuto; wording works for both."
+   ]
+  },
+  {
+   "id": "q02908",
+   "en": "You ain't got enough guts!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02909",
+   "en": "Whoa! Did I get rattled a little?",
+   "notes": "",
+   "uncertain": [
+    "'chito yureta ka' could mean the unit shook or the attack barely rocked her; chose 'Did I get rattled a little?'."
+   ]
+  },
+  {
+   "id": "q02910",
+   "en": "Keep 'em coming!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02911",
+   "en": "Is that really all you've got?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02912",
+   "en": "You makin' fun of me?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02913",
+   "en": "If that's all you've got, forget the coup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02914",
+   "en": "Shut up with all your \"perish\" and \"slash\" crap!",
+   "notes": "'metsu' and 'zan' (the assassins' cries) rendered 'perish' and 'slash'.",
+   "uncertain": []
+  },
+  {
+   "id": "q02915",
+   "en": "Heh, way too slow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02916",
+   "en": "You underestimating me, punk?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02917",
+   "en": "I ain't lettin' that hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02918",
+   "en": "What a sluggish attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02919",
+   "en": "Lousy shot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02920",
+   "en": "Get lost and don't come back!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Nana Izumi and Kyoshiro Yuzuki; idiom 'come back the day before yesterday' rendered 'Get lost and don't come back!'."
+   ]
+  },
+  {
+   "id": "q02921",
+   "en": "If you wanna hit my Aestivalis, aim better!",
+   "notes": "Ryoko says 'Este' (short for Aestivalis); full name used.",
+   "uncertain": []
+  },
+  {
+   "id": "q02922",
+   "en": "Heh, it'd be harder to actually get hit by that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02923",
+   "en": "I can't stand that smirking face of yours!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02924",
+   "en": "Gekigan Barrier! Heh, that takes me back",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02925",
+   "en": "Distortion Field, full power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02926",
+   "en": "Field at maximum output!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02927",
+   "en": "I've got a field, y'know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02928",
+   "en": "Tch~! Oh, come on! I'm outta ammo?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02929",
+   "en": "Come at me fair and square!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02930",
+   "en": "Hey, butt out! That one's mine!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02931",
+   "en": "Outta my way! Just shut up and watch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02932",
+   "en": "I'm still here, y'know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02933",
+   "en": "Hey! Quit screwing around and make room!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02934",
+   "en": "Gettin' rusty?! You didn't finish it off!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Saburota; addressed to an ally who failed to finish a target ('blank' = rust from time off)."
+   ]
+  },
+  {
+   "id": "q02935",
+   "en": "Ruri! I'm going! Move!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02936",
+   "en": "Being captain ain't easy, huh, Ruri",
+   "notes": "",
+   "uncertain": [
+    "Ryoko speaking to Ruri as captain of the Nadesico B."
+   ]
+  },
+  {
+   "id": "q02937",
+   "en": "Akito! Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02938",
+   "en": "You've gotten better, Akito!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02939",
+   "en": "I won't let you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02940",
+   "en": "Not while I'm still around!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02941",
+   "en": "Tch, don't make me babysit you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02942",
+   "en": "Ora ora ora! I'm gonna shoot you down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02943",
+   "en": "I'm gonna shoot you down good and proper!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02944",
+   "en": "Swiss cheese time! Rapid Rifle!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02945",
+   "en": "You're in my rifle's range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02946",
+   "en": "This one's gonna hurt! Rail Cannon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02947",
+   "en": "I'm blowin' right past you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02948",
+   "en": "You left your body unguarded!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02949",
+   "en": "I said your body's wide open!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02950",
+   "en": "Distortion Field, full power! All riiight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02951",
+   "en": "My Aestivalis is stronger up close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02952",
+   "en": "I won't lose in close combat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02953",
+   "en": "In a slugfest, I win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02954",
+   "en": "Heh, things are about to get rough, huh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02955",
+   "en": "Old skills never fade, y'know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02956",
+   "en": "Nice distance we've got here, huh?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02957",
+   "en": "Guess I'll put in some solid work!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02958",
+   "en": "I feel bad attacking my old buddies, but still!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02959",
+   "en": "So it was you?! You messed with the Captain!",
+   "notes": "",
+   "uncertain": [
+    "taichou = Ryoko (Saburota's squad leader), rendered 'Captain'."
+   ]
+  },
+  {
+   "id": "q02960",
+   "en": "You don't think you'll get off free, do ya?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02961",
+   "en": "I, Saburota Takasugi, won't run or hide!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02962",
+   "en": "You've got guts! But guts alone won't win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02963",
+   "en": "I hold grudges longer than you'd think, y'know?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02964",
+   "en": "I may not look it, but I'm a loyal guy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02965",
+   "en": "Lay a hand on me and you won't walk away in one piece!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02966",
+   "en": "So this is it...?! Pathetic...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02967",
+   "en": "Whoa! What the hell is with this one?!",
+   "notes": "",
+   "uncertain": [
+    "Enemy gender unknown; 'this one'."
+   ]
+  },
+  {
+   "id": "q02968",
+   "en": "Keep this up and I'm done for!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02969",
+   "en": "Damn it! Me, of all people!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02970",
+   "en": "Crap, at this rate I'm gonna get blown away!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02971",
+   "en": "Hang in there a bit longer for me, Aesti-chan!",
+   "notes": "'Este-chan': Saburota's pet name for his Aestivalis, rendered Aesti-chan.",
+   "uncertain": [
+    "'Aesti-chan' keeps the honorific; consider 'Aesti baby' if honorifics are avoided."
+   ]
+  },
+  {
+   "id": "q02972",
+   "en": "The field's useless?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02973",
+   "en": "I won't stand for some coup...!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02974",
+   "en": "It ain't over yet! You assassin!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02975",
+   "en": "Whoa?! Yikes, that one really hit",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02976",
+   "en": "Gwah! Not good!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02977",
+   "en": "Guh...! That hurts more than I thought...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02978",
+   "en": "The Aesti's soft, y'know! Go easy on her!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02979",
+   "en": "Hey hey, is the field even working?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02980",
+   "en": "Is this all the Aestivalis's armor can take?!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02981",
+   "en": "A coup with this kind of power. I see",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02982",
+   "en": "Assassin punk, don't get cocky!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02983",
+   "en": "Whoa there! Yikes, yikes...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02984",
+   "en": "Wha?! I let her get scratched...!",
+   "notes": "",
+   "uncertain": [
+    "Inferred he is talking about his own Aestivalis being scratched; 'her' = the Aesti."
+   ]
+  },
+  {
+   "id": "q02985",
+   "en": "Whoa?! ...Well, would ya look at that",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02986",
+   "en": "Oops? Sorry about that, Aesti-chan",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02987",
+   "en": "Did that slip through the field a bit?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02988",
+   "en": "You scratched my Aesti!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02989",
+   "en": "Oh, that got through? Ha, makes a colleague proud",
+   "notes": "",
+   "uncertain": [
+    "Unclear: hit by a former Mokuren comrade? Rendered 'makes a colleague proud'; source says 'colleague', not 'former colleague'."
+   ]
+  },
+  {
+   "id": "q02990",
+   "en": "You're not actually that tough, are ya, pal?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02991",
+   "en": "I'm not a custom job for nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02992",
+   "en": "Mobility is the Aestivalis's lifeblood!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02993",
+   "en": "Hup! Easy-peasy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02994",
+   "en": "Whoa-ho-ho! Way too sloppy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02995",
+   "en": "Trying to hit the great Saburota, huh?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02996",
+   "en": "Hup, hup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02997",
+   "en": "Stuff like that ain't gonna hit me",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02998",
+   "en": "I ain't getting hit by an old colleague!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q02999",
+   "en": "Quit wasting your time already!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03000",
+   "en": "I can't let my Aesti-chan get all scuffed up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03001",
+   "en": "Is that all you've got, Mr. Assassin?!",
+   "notes": "",
+   "uncertain": [
+    "'Koroshiya-san' rendered 'Mr. Assassin'; the assassins (Hokushin's men) are male in the film."
+   ]
+  },
+  {
+   "id": "q03002",
+   "en": "Gekigan Barrier! Heh, that takes me back",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03003",
+   "en": "Well, well, I'm all out of moves",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03004",
+   "en": "Attacking from way over there won't do much",
+   "notes": "",
+   "uncertain": [
+    "Source trails ('being attacked from there, well...'); completed as 'won't do much'."
+   ]
+  },
+  {
+   "id": "q03005",
+   "en": "Saburota Takasugi has arrived~!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03006",
+   "en": "Okay, okay, I'll jump in and back you up~!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03007",
+   "en": "Whoa, I'll just hop on this one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03008",
+   "en": "Yesterday's enemy is today's friend, so let's get along!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03009",
+   "en": "Captaaain~! Saburota Takasugi's on his way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03010",
+   "en": "How about a rendezvous attack?!",
+   "notes": "",
+   "uncertain": [
+    "'Rendezvous Attack' is a combo name; no glossary entry. Check akurasu."
+   ]
+  },
+  {
+   "id": "q03011",
+   "en": "Whoa there! This is bad",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03012",
+   "en": "Pretty devoted, ain't I?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03013",
+   "en": "We'll call this one a favor you owe me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03014",
+   "en": "Let's pick 'em off!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03015",
+   "en": "Well then, let's let 'em have it",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03016",
+   "en": "Let's go at 'em in one fell swoop!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03017",
+   "en": "I'm gonna shoot like crazy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03018",
+   "en": "Guess I'll fire away to my heart's content!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03019",
+   "en": "I'll let you off with being Swiss cheese!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03020",
+   "en": "I'm shooting! My mind's made up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03021",
+   "en": "Let's go out with a big bang!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03022",
+   "en": "Move if you don't wanna get blasted through!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03023",
+   "en": "Sorry, I may not look it, but I'm a crack shot!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03024",
+   "en": "My ace in the hole, the Rail Cannon! Let's try it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03025",
+   "en": "I'll take you down with the Rail Cannon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03026",
+   "en": "Let's have ourselves some fun up close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03027",
+   "en": "Field, full power! Here I go, all at once!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03028",
+   "en": "Distortion Field, full poweeer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03029",
+   "en": "I'm not half bad at close combat, y'know?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03030",
+   "en": "Geeekigan! Flaaaare!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03031",
+   "en": "Close, close! Here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03032",
+   "en": "Anyone who gets close gets punched out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03033",
+   "en": "You got too close, pal!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03034",
+   "en": "Brings back memories~! Gekigan Flare!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03035",
+   "en": "...You're going down...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03036",
+   "en": "...Don't get in my way",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03037",
+   "en": "You're an eyesore...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03038",
+   "en": "Disappear",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03039",
+   "en": "...Shatter",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03040",
+   "en": "I have the edge in mobility",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03041",
+   "en": "I'm making my move...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03042",
+   "en": "I won't let you evade",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03043",
+   "en": "You... I'll take you down with my own hands",
+   "notes": "",
+   "uncertain": [
+    "Akito voice set also used by '???' (masked Akito); lines fit both."
+   ]
+  },
+  {
+   "id": "q03044",
+   "en": "I will never... forgive you",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03045",
+   "en": "Cursed band of assassins... I'll crush your leader...",
+   "notes": "",
+   "uncertain": [
+    "Source 'crush the head' read as taking out the group's leader (Hokushin); rendered 'crush your leader'."
+   ]
+  },
+  {
+   "id": "q03046",
+   "en": "If you get in my way... I'll shoot you down",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03047",
+   "en": "I don't have time to deal with you...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03048",
+   "en": "Get lost",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03049",
+   "en": "I can't hold back like I used to...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03050",
+   "en": "...Intercepting",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03051",
+   "en": "I'll be counterattacking",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03052",
+   "en": "Intercept program... activate",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03053",
+   "en": "Lapis... I'm counting on you... to retrieve me...",
+   "notes": "",
+   "uncertain": [
+    "Akito asking Lapis to recover him (ejection/retrieval)."
+   ]
+  },
+  {
+   "id": "q03054",
+   "en": "Yu... Yurika......",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03055",
+   "en": "To fail this badly...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03056",
+   "en": "It still moves... at least",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03057",
+   "en": "I won't let it end like this...!",
+   "notes": "",
+   "uncertain": [
+    "Subject ambiguous (it/I); chose 'I won't let it end like this'."
+   ]
+  },
+  {
+   "id": "q03058",
+   "en": "Damage check... Not even worth doing. Ngh...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03059",
+   "en": "...You'll pay for this",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03060",
+   "en": "Not yet... I'm still alive... Come, assassin",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03061",
+   "en": "Who will perish, me... or you...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03062",
+   "en": "It got through the field...?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03063",
+   "en": "Field generator, check",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03064",
+   "en": "Kuh!? Damn it...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03065",
+   "en": "It seems you're quite skilled...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03066",
+   "en": "You seem to have some skill",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03067",
+   "en": "It pierced the field...?! But I won't lose to you",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03068",
+   "en": "Our fight... is only just beginning",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03069",
+   "en": "Tch...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03070",
+   "en": "Minor damage...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03071",
+   "en": "...Nothing to worry about",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03072",
+   "en": "Armor damaged...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03073",
+   "en": "It's nothing",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03074",
+   "en": "What's wrong... Is that all you've got? Assassin",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03075",
+   "en": "Don't talk big with only this much",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03076",
+   "en": "I don't even need to rely on the field",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03077",
+   "en": "Evading, then intercepting",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03078",
+   "en": "That won't hit me",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03079",
+   "en": "Heh heh heh...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03080",
+   "en": "...Aim for real",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03081",
+   "en": "I won't let that hit me",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03082",
+   "en": "Evasive maneuver, complete...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03083",
+   "en": "Distortion Field... deploying",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03084",
+   "en": "The field can block this much",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03085",
+   "en": "Field output stable",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03086",
+   "en": "Evasion program...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03087",
+   "en": "I was careless...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03088",
+   "en": "Hit from my blind spot... A blunder...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03089",
+   "en": "Clear the way",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03090",
+   "en": "...I'll provide support",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03091",
+   "en": "Continuing the attack",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03092",
+   "en": "Ryoko-chan, fall back",
+   "notes": "",
+   "uncertain": [
+    "Akito uses -chan for Ryoko, Hikaru, Ruri; kept honorific (matches existing dialogue 'Ryoko-chan')."
+   ]
+  },
+  {
+   "id": "q03093",
+   "en": "You haven't changed, have you...",
+   "notes": "",
+   "uncertain": [
+    "Addressee not certain (probably Ryoko)."
+   ]
+  },
+  {
+   "id": "q03094",
+   "en": "Hikaru-chan, I'll attack from my side too",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03095",
+   "en": "...I'll move to cover the Nadesico directly",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03096",
+   "en": "Ruri-chan... don't push yourself",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03097",
+   "en": "If you're going to slow me down, fall back",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03098",
+   "en": "...Fall back while you can",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03099",
+   "en": "I'll hold them off. Fall back",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03100",
+   "en": "I'll end it here...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03101",
+   "en": "...Making my move",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03102",
+   "en": "Field, full power...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03103",
+   "en": "Distortion Field, maximum output...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03104",
+   "en": "Maximum battle speed... Can you dodge this...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03105",
+   "en": "Field output stable... Making my move...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03106",
+   "en": "Distortion Attack... Let's settle this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03107",
+   "en": "This will settle it... Deploying the field at maximum output",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03108",
+   "en": "Target, locked",
+   "notes": "",
+   "uncertain": [
+    "'Target, lock' rendered 'Target, locked'."
+   ]
+  },
+  {
+   "id": "q03109",
+   "en": "You're in range...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03110",
+   "en": "I'll shoot you down",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q03111",
+   "en": "...You've entered my line of fire",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

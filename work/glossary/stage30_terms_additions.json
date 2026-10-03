@@ -1,0 +1,67 @@
+{
+ "terms": [
+  {
+   "jp": "エネルギー遮断フィールド",
+   "en": "energy-blocking field",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ズリル"
+   ],
+   "notes": "Stage30 rows32/33 source-literal field name. Japanese SRWwiki Zuril corroborates MX field and operation after no exact Akurasu entry found. Independent licensed English label unverified; do not add physical mechanism."
+  },
+  {
+   "jp": "重爆特攻作戦",
+   "en": "Operation Heavy Bomber Suicide Strike",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/ズリル"
+   ],
+   "notes": "Stage30 row36 explicitly named operation. Transparent heavy-bomber/suicide-strike rendering; Japanese SRWwiki Zuril corroborates Japanese operation only. Exact Akurasu or licensed English operation name unverified; no historical real-world operation imported."
+  },
+  {
+   "jp": "ゲッターシャイン",
+   "en": "Getter Shine",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row217 literal attack/activation call distinct from following Shine Spark. No exact Akurasu or independent licensed English call located; retain source loanword, no inferred mechanics."
+  },
+  {
+   "jp": "ドラゴン",
+   "en": "Dragon",
+   "sources": [
+    "https://www.dendoh.net/story/episode.php?id=19",
+    "https://akurasu.net/wiki/Master_Unit_List",
+    "work/translation/en/script/stage25_campaign.json",
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage25 source-short Data Weapon reference only, attested official Japanese episode synopsis and Akurasu full Dragon Flare spelling. Preserve short form; not a global ordinary creature term override. Stage30 Getter battle context instead denotes source-short Getter Dragon; same English Dragon, no forced Data Weapon interpretation or full-name expansion. Distinguish using scene context."
+  },
+  {
+   "jp": "少年科学研修生",
+   "en": "junior science trainee",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row416 cover role used by Midori; literal ordinary role translation, no invented official agency/course status. Exact Akurasu or licensed English title unverified."
+  },
+  {
+   "jp": "プルニウス",
+   "en": "Pliny",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://www.gutenberg.org/files/60230/60230-h/60230-h.htm"
+   ],
+   "notes": "Stage30 row553 attribution normalized to English source-short Pliny. Quotation identifies Pliny the Elder Natural History VII introduction, public-domain primary text corroborates humans harming humans. No exact Akurasu attribution entry found; translate game quote rather than importing translator prose/biography."
+  },
+  {
+   "jp": "蒼タカ",
+   "en": "Blue Hawk",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "Stage30 row556 source-short taunting nickname derived from existing main Blue Hawk of Giganos; preserve short title, do not expand full name or organization."
+  }
+ ]
+}

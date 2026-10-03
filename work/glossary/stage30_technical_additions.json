@@ -1,0 +1,28 @@
+{
+ "terms": [
+  {
+   "jp": "カウンタープロテクト",
+   "en": "Counter Protect",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row661 literal loanword command. No exact Akurasu or independent licensed English label found; no invented mechanism."
+  },
+  {
+   "jp": "防衛プログラム",
+   "en": "defense program",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 rows652/660/661 ordinary technical noun. Printed identifiers normalize to ASCII W115, pattern D, Ver.1.2 with exact values; not an inferred network address."
+  },
+  {
+   "jp": "２５８コア",
+   "en": "Core 258",
+   "sources": [
+    "work/translation/en/script/stage30_campaign.json"
+   ],
+   "notes": "Stage30 row671 literal numbered internal core. Preserve number258; no invented location mechanics or official English claim."
+  }
+ ]
+}

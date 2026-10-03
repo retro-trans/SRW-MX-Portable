@@ -1,0 +1,40 @@
+{
+ "characters": [
+  {
+   "jp_full": "フォリア・エスト",
+   "jp_short": "フォリア",
+   "en_full": "Folia Esto",
+   "en_short": "Folia",
+   "gender": "male",
+   "position": "Cry Wolves warrant officer; Albero Esto son and Hugo former comrade",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/OGG/Timetable",
+    "work/translation/en/script/stage05_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%88",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Akurasu confirms short Folia; main glossary confirms Albero Esto surname; SRW Wiki explicitly confirms full Japanese name, male gender and father/son relationship. Full English compound is derived from established components; no independent licensed full-name spelling verified. Do not reveal hidden speakers or import OG-only events into MX.",
+   "personality": "Hotheaded, eager to prove himself; struggles to suppress personal attachment."
+  }
+ ],
+ "terms": [
+  {
+   "jp": "メール・シュトローム作戦",
+   "en": "Operation Maelstrom",
+   "sources": [
+    "https://tv.apple.com/us/episode/episode-47/umc.cmc.b4ld3eic76d5d0pi7qibhxa6?showId=umc.cmc.35bwxyrvbuo7gp7hxpx0w59e8",
+    "https://gundam.fandom.com/wiki/Operation_Maelstrom"
+   ],
+   "notes": "No exact Akurasu entry found. Official-distributor Apple TV episode47 synopsis explicitly confirms Operation Maelstrom; do not add series dates to MX."
+  },
+  {
+   "jp": "セーラム章",
+   "en": "Salem Medal",
+   "sources": [
+    "work/translation/en/script/stage18_campaign.json",
+    "https://www.mahq.net/dragonarep25/"
+   ],
+   "notes": "Source-literal military decoration. MAHQ episode25 corroborates award context and Salem spelling, calls it Salem Prize; exact independently licensed English medal label not established. No exact Akurasu entry found; preserve award versus cash distinction."
+  }
+ ]
+}

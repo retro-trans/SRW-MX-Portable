@@ -1,0 +1,6129 @@
+{
+ "scenes": [
+  "i052b",
+  "s0520"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "Ones Guided By the Light",
+   "scenes": [
+    "i052b",
+    "s0520"
+   ],
+   "map_scene": "s0520"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i052b:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "...To think the Data Weapons' favorite food was the Meteo Cube...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 0
+   },
+   "notes": "Shibuya addresses the GEAR group; surprise at the newly discovered food preference.",
+   "uncertain": []
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i052b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Yes... I had no idea.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 1
+   },
+   "notes": "Vega answers Shibuya; restored I for her own lack of awareness.",
+   "uncertain": []
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i052b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "Something besides Dendoh that's been unique to Hoshimi Town for seventeen years...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage24_campaign.json",
+    "id": 154
+   },
+   "notes": "Deduction fragment; location exclusivity and seventeen-year duration retained.",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i052b:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "It was Meteo and its power source, the Meteo Cube...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 2
+   },
+   "notes": "Eris continues full-original i052b:2, owned by stage24 id154; it identifies the thing present in Hoshimi besides Dendoh. Deliberate trailing sentence.",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i052b:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "The Data Weapons were drawn to them.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 3
+   },
+   "notes": "Eris explains the Data Weapons' attraction to Meteo and the Cube, continuing row2.",
+   "uncertain": []
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i052b:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "But this is a gamble. If it fails...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 4
+   },
+   "notes": "Shibuya cautions the group; conditional deliberately leads into row5.",
+   "uncertain": []
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i052b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "We will lose another precious Meteo Cube.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 5
+   },
+   "notes": "Shibuya states the cost of failed plan; another Cube, not the only one.",
+   "uncertain": []
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i052b:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "...If we lose our battle against Gulfer, we will lose everything.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 6
+   },
+   "notes": "Vega counters Shibuya's gamble concern; loss of the war costs everything.",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i052b:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "And with Hau Dragon and Giganos attacking the Japan region now... we cannot afford to hesitate.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 7
+   },
+   "notes": "Vega cites ongoing Hau Dragon/Giganos attacks on Japan; urgency rather than a hypothetical.",
+   "uncertain": []
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i052b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "If Dendoh does not obtain the remaining Data Weapons here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 8
+   },
+   "notes": "Eris states condition leading into row9; deliberate cross-row conditional.",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i052b:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "I think we will no longer be able to bring this chaotic situation under control.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 9
+   },
+   "notes": "Eris continues row8; restored collective we for allied efforts to resolve worsening conflict.",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i052b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Exactly! If we don't hurry and gather their friends, Leo and the others will get lonely, too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 10
+   },
+   "notes": "Ginga supports collecting Data Weapon companions; Leo remains source-short.",
+   "uncertain": []
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i052b:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "Hmm... Then I will break the seal on the Meteo Cube.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 11
+   },
+   "notes": "Shibuya decides to unseal the Cube; restored actor I from his leadership action.",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i052b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "...That is... the Meteo Cube...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 12
+   },
+   "notes": "Hokuto reacts to revealed Cube; restored is, retained astonished pauses.",
+   "uncertain": []
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i052b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "W-wow, it's smaller than I thought...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 13
+   },
+   "notes": "Ginga reacts to the Cube's size; retained initial stammer.",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i052b:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Y-yeah... Since they said it was Meteo's power source...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 14
+   },
+   "notes": "Hokuto agrees with Ginga; reason clause deliberately continues into row15.",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i052b:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I thought it would be bigger than the Hyper Dendoh Batteries.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 15
+   },
+   "notes": "Hokuto completes prior reason by stating his expectation about size; exact glossary battery term retained.",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i052b:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "井上博士",
+   "speaker_en": "Dr. Inoue",
+   "en": "You must not judge it by its appearance.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 16
+   },
+   "notes": "Inoue corrects the boys' size-based assumption; natural second-person admonition.",
+   "uncertain": []
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i052b:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "井上博士",
+   "speaker_en": "Dr. Inoue",
+   "en": "Some say it is a crystal of pure energy, while others say it is a kind of medium that draws energy from somewhere else, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 17
+   },
+   "notes": "Inoue describes two competing explanations of Cube nature; somewhere retained, not a specified source.",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i052b:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "井上博士",
+   "speaker_en": "Dr. Inoue",
+   "en": "Even we have not yet determined its true nature.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 18
+   },
+   "notes": "Inoue concludes preceding but-clause; even researchers do not understand its nature.",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i052b:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "...So, the Data Weapons like this thing?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 19
+   },
+   "notes": "Ginga asks whether this Cube attracts Data Weapons; Eris affirms in full-original i052b:21.",
+   "uncertain": []
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i052b:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "That's right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage07_campaign.json",
+    "id": 562
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i052b:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "井上博士",
+   "speaker_en": "Dr. Inoue",
+   "en": "Meteo itself says there is a 94% probability that they do.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 20
+   },
+   "notes": "Inoue gives Meteo's own 94% assessment of the preference, not a success rate of the operation.",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i052b:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "But if we take this with us, won't Meteo stop working...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 21
+   },
+   "notes": "Hokuto worries taking power source will disable Meteo; questioning trail retained.",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i052b:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "Don't worry. This is one of the two we have left.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 22
+   },
+   "notes": "Shibuya reassures Hokuto; two Cubes remain including this one.",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i052b:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "渋谷長官",
+   "speaker_en": "Chief Shibuya",
+   "en": "With just one, Meteo can keep running almost indefinitely.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 23
+   },
+   "notes": "Shibuya explains one Cube suffices almost indefinitely; not absolute eternity.",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i052b:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Come on, let's go. We have no time to dawdle.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 24
+   },
+   "notes": "Vega leads the group to leave; inclusive let's and urgency.",
+   "uncertain": []
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i052b:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah, got it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 470
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "s0520:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 29,
+   "uses": [
+    "s0520:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 30,
+   "uses": [
+    "s0520:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "s0520:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 32,
+   "uses": [
+    "s0520:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 33,
+   "uses": [
+    "s0520:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 34,
+   "uses": [
+    "s0520:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 35,
+   "uses": [
+    "s0520:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 36,
+   "uses": [
+    "s0520:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 37,
+   "uses": [
+    "s0520:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "s0520:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "s0520:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 40,
+   "uses": [
+    "s0520:12",
+    "s0520:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "s0520:13",
+    "s0520:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 42,
+   "uses": [
+    "s0520:14",
+    "s0520:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "s0520:15",
+    "s0520:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 44,
+   "uses": [
+    "s0520:16",
+    "s0520:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "s0520:17",
+    "s0520:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 46,
+   "uses": [
+    "s0520:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 47,
+   "uses": [
+    "s0520:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "s0520:20",
+    "s0520:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 49,
+   "uses": [
+    "s0520:21",
+    "s0520:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 50,
+   "uses": [
+    "s0520:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 51,
+   "uses": [
+    "s0520:24",
+    "s0520:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "s0520:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 53,
+   "uses": [
+    "s0520:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "s0520:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 55,
+   "uses": [
+    "s0520:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "s0520:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 57,
+   "uses": [
+    "s0520:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 58,
+   "uses": [
+    "s0520:32",
+    "s0520:33",
+    "s0520:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 59,
+   "uses": [
+    "s0520:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "s0520:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "s0520:36",
+    "s0520:37",
+    "s0520:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "s0520:39",
+    "s0520:40",
+    "s0520:174",
+    "s0520:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 63,
+   "uses": [
+    "s0520:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 64,
+   "uses": [
+    "s0520:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 65,
+   "uses": [
+    "s0520:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "s0520:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "s0520:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 68,
+   "uses": [
+    "s0520:46",
+    "s0520:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 69,
+   "uses": [
+    "s0520:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 70,
+   "uses": [
+    "s0520:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 71,
+   "uses": [
+    "s0520:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 72,
+   "uses": [
+    "s0520:50",
+    "s0520:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "s0520:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 74,
+   "uses": [
+    "s0520:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 75,
+   "uses": [
+    "s0520:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0520:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0520:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0520:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0520:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0520:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0520:59",
+    "s0520:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0520:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0520:61",
+    "s0520:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0520:62",
+    "s0520:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0520:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0520:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0520:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0520:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0520:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0520:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0520:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0520:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0520:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0520:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0520:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0520:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0520:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0520:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0520:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0520:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0520:79",
+    "s0520:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0520:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0520:81",
+    "s0520:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0520:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0520:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0520:84",
+    "s0520:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0520:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0520:86",
+    "s0520:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0520:87",
+    "s0520:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0520:88",
+    "s0520:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0520:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0520:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0520:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0520:92",
+    "s0520:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0520:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0520:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0520:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0520:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0520:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0520:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0520:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0520:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0520:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0520:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0520:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0520:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0520:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0520:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0520:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0520:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0520:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0520:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0520:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0520:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0520:113",
+    "s0520:114",
+    "s0520:115",
+    "s0520:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0520:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0520:117",
+    "s0520:161",
+    "s0520:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0520:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0520:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0520:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0520:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0520:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0520:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0520:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0520:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0520:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0520:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0520:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0520:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0520:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0520:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0520:132",
+    "s0520:133",
+    "s0520:134",
+    "s0520:156",
+    "s0520:188",
+    "s0520:189",
+    "s0520:190",
+    "s0520:191",
+    "s0520:192",
+    "s0520:193",
+    "s0520:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0520:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0520:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0520:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0520:138",
+    "s0520:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0520:139",
+    "s0520:148",
+    "s0520:152",
+    "s0520:154",
+    "s0520:164",
+    "s0520:165",
+    "s0520:198",
+    "s0520:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0520:140",
+    "s0520:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0520:141",
+    "s0520:142",
+    "s0520:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0520:143",
+    "s0520:149",
+    "s0520:153",
+    "s0520:155",
+    "s0520:162",
+    "s0520:163",
+    "s0520:199",
+    "s0520:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0520:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0520:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0520:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0520:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0520:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0520:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0520:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0520:160",
+    "s0520:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0520:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0520:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0520:206",
+    "s0520:366"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 0
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0520:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Any allied unit is shot down.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 253
+   },
+   "notes": "Listener: player. Loss condition, plain text; preserves one line and the any-one-allied-unit trigger.",
+   "uncertain": []
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0520:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Captain, we have arrived at the designated position for the operation.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 25
+   },
+   "notes": "Hari reports to Captain Ruri; operation position reached. Prefilled speaker Hari preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0520:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Then please launch the remaining units as well.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 26
+   },
+   "notes": "Ruri orders remaining allied units to launch too, implying prior launches.",
+   "uncertain": []
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0520:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "...Everyone, Ogre will definitely show up here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 27
+   },
+   "notes": "Vega briefs allied pilots; certainty Ogre will come to this location.",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0520:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "If it takes the remaining Data Weapons, we will be in serious trouble... So please support Dendoh.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 28
+   },
+   "notes": "Vega asks allies to aid Dendoh; Ogre is the it from row27, request direction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0520:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Yes, leave it to me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 29
+   },
+   "notes": "George accepts Vega's request; offering himself is correct for omakase.",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0520:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Don't screw this up, Hokuto, Ginga. We'll take care of Gulfer for you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 30
+   },
+   "notes": "Ryoko addresses Hokuto and Ginga; rough warning and commitment allies will handle Gulfer.",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0520:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Yes! Thank you very much!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 31
+   },
+   "notes": "Hokuto thanks Ryoko for covering them.",
+   "uncertain": []
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0520:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "Both of you, don't get the timing wrong. We can only do this once.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 32
+   },
+   "notes": "Eris instructs both Dendoh pilots; rows33-36 clarify signal/Cube throw, one attempt only.",
+   "uncertain": []
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0520:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I know. I just throw the Meteo Cube the moment you give the signal, right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 33
+   },
+   "notes": "Ginga answers Eris32; throw on her signal.",
+   "uncertain": []
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0520:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "That's right. Then the cube inside the capsule will go out of control.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 34
+   },
+   "notes": "Cube in its capsule goes out of control, not a robot.",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0520:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Out of control!? Don't tell me it's gonna explode or something!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 35
+   },
+   "notes": "Sai Saici fears an explosion; speculative alarm retained.",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0520:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No, it'll give off a very bright light. The Data Weapons will be drawn to it and come out.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 36
+   },
+   "notes": "Eris rejects explosion; bright light attracts Data Weapons out.",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0520:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Got it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 37
+   },
+   "notes": "Hokuto acknowledges the plan.",
+   "uncertain": []
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0520:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Harry, divide the work with Omoikane and send the tracking program to the target computer, please.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 38
+   },
+   "notes": "Ruri assigns divided work to Harry/Omoikane; source generic singular target computer retained. Body Harry, prefilled speakers unchanged.",
+   "uncertain": []
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0520:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Yes. We just need to drive the Data Weapons out, right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 39
+   },
+   "notes": "Hari checks objective with Ruri: drive Data Weapons out.",
+   "uncertain": []
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0520:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Yes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 40
+   },
+   "notes": "Ruri confirms39.",
+   "uncertain": []
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0520:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Ruri, how long will it take to lure out the Data Weapons?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 41
+   },
+   "notes": "Vega asks Ruri remaining lure time; complete question restored.",
+   "uncertain": []
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0520:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "125 seconds... give or take 10 seconds. About two more minutes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 42
+   },
+   "notes": "Exact125 plus/minus10 and about two more minutes retained.",
+   "uncertain": []
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0520:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "All right.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage11_campaign.json",
+    "id": 178
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0520:227",
+    "s0520:372"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 134
+   },
+   "notes": "Nonverbal exclamation retained exactly as ASCII punctuation.",
+   "uncertain": []
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0520:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Enemy units approaching from above! They're identified as Gulfer!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 43
+   },
+   "notes": "Hari warns bridge of overhead approach and identified faction.",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0520:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "They arrived sooner than I expected.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 44
+   },
+   "notes": "Ruri means enemy arrived sooner, not capture completion.",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0520:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Ogre...! It's Altair!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 45
+   },
+   "notes": "Domon recognizes Ogre and its pilot Altair.",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0520:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Heh heh heh... It seems there are fewer pests in my way than usual today.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 46
+   },
+   "notes": "Altair calls the reduced defending force pests; contempt/no-softening retained.",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0520:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Altair...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 47
+   },
+   "notes": "Vega addresses Altair in recognition; vocative fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0520:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Who are you...!? How do you know my name...! U-ugh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 48
+   },
+   "notes": "Altair questions identity and knowledge of his name then groans. Interrupted name question and stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0520:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "My name is Vega. But that name is meaningless now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 49
+   },
+   "notes": "Vega introduces herself and says her name is now meaningless. No extra identity disclosed.",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0520:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Just like your name, Altair!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 50
+   },
+   "notes": "Comparison fragment refers to now-meaningless name in49; source omission retained.",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0520:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Grr...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 51
+   },
+   "notes": "Growl of pain/agitation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0520:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "This is the least I can do to atone. You... I will...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 52
+   },
+   "notes": "Defeating Altair is atonement; utterance split before verb at53; deliberate source fragment retained without invented past guilt.",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0520:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Defeat you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 53
+   },
+   "notes": "Verb continuation of52; deliberate predicate fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0520:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Who the hell are you...!? Why do I... when it comes to you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 54
+   },
+   "notes": "Contemptuous identity question and unfinished reaction to Vega retained. Source cuts relation before its predicate; no recognition or memory recovery invented.",
+   "uncertain": [
+    "Interrupted predicate of Altair's reaction to Vega intentionally unresolved."
+   ]
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0520:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It's too late for me to tell you now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 55
+   },
+   "notes": "Vega says explanation now would be too late; subject/action restored.",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0520:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 56
+   },
+   "notes": "Nonverbal source exclamation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0520:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I have no choice but to defeat you now...! For your sake, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 57
+   },
+   "notes": "Defeating Altair is unavoidable and also for his sake; no invented killing.",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0520:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Hmph. You think a wretch like you can defeat me? What a joke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 58
+   },
+   "notes": "Wretch preserves Altair's contempt toward Vega and exaggerated self-importance.",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0520:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane, Harry... I'm counting on you to send the tracking program.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 59
+   },
+   "notes": "Ruri asks Omoikane/Harry to transmit; explicit request direction, counting on them.",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0520:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Yes, ma'am!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 60
+   },
+   "notes": "Hari accepts Ruri's order.",
+   "uncertain": []
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0520:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Everyone! Do whatever it takes to hold the enemy back for three minutes... until the Data Weapons appear!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 61
+   },
+   "notes": "Vega orders everyone to hold enemy at any cost. Source three minutes preserved despite Ruri42 two-minute estimate.",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0520:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "If even one of our units goes down, it's all over!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 62
+   },
+   "notes": "One friendly unit lost ends operation; complete condition and outcome retained.",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0520:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Let's go, Ogre!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 63
+   },
+   "notes": "Event8: Ginga challenges Ogre.",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0520:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I'll collect every last Data Weapon right here!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 64
+   },
+   "notes": "Hokuto vows to collect all Data Weapons here; singular subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0520:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "...You're all bluster, as always. But you're the one going down here! Prepare yourself, Dendoh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 65
+   },
+   "notes": "Altair taunts Dendoh: nothing but bravado; listener will fall; prepare-yourself threat. Contempt retained.",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0520:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I won't ask who you are... But if you come at me, you are my enemy!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 66
+   },
+   "notes": "Altair responds to unidentified masked Vega; hidden relationship not revealed.",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0520:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "The same goes for me! Prepare yourself, Altair!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 67
+   },
+   "notes": "Vega reciprocates the enemy declaration and challenges Altair.",
+   "uncertain": []
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0520:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Altair! What's behind that mask of yours!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 68
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0520:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "What do you mean, Domon Kasshu!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 69
+   },
+   "notes": "Full source Domon Kasshu retained.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0520:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "I can tell because we've traded blows... The man you are now is a false self, bound by someone else...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 70
+   },
+   "notes": "Domon infers false controlled self through trading blows; unknown controlling party unnamed.",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0520:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Nonsense! I am Altair, captain of the Gulfer Imperial Guard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 71
+   },
+   "notes": "Captain of Gulfer Imperial Guard from existing organization entry and sourced Altair role.",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0520:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Then my fists will smash that false mask of yours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 72
+   },
+   "notes": "False mask preserves literal/symbolic face metaphor.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0520:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "You're good! I'm surprised there are fighters like you among the aliens!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 73
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0520:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "So are you! You're a man worthy of falling by my hand!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 74
+   },
+   "notes": "Altair declares Chibodee worthy of defeat/death at his hand; threat not softened.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0520:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Heh... If it's a contest of speed, I've got the advantage!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 75
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0520:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Is that so!? Those legs you're so proud of might as well be standing still next to Ogre's turbines!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 76
+   },
+   "notes": "Source-short Ogre, not full Knight GEAR title; turbines retained.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0520:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "You have impressive skills! With so many warriors like you, Earth is not to be underestimated!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 77
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0520:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "If you understand that much, withdraw your troops and return to your own planet!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 78
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0520:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "Hm...! Its power... is it a match for Bolt Gundam...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 79
+   },
+   "notes": "It refers to Ogre/mecha power, not assumed pilot gender.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0520:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Impressive...! You can withstand Ogre's power!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 80
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0520:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Since coming to this planet, I've fought machines called Gundams several times, but...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 81
+   },
+   "notes": "Deliberate clause lead-in to bizarre Nobel reveal82.",
+   "uncertain": []
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0520:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I never expected to find such a bizarre one...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 82
+   },
+   "notes": "Machine described as bizarre, without inventing features.",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0520:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "If you can't appreciate Nobel Gundam's style, you're way too rigid!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 83
+   },
+   "notes": "Allenby defends Nobel Gundam visual style and calls Altair rigid.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0520:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "Kirakuni, get closer!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 84
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0520:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "If we gather data on that Ogre, we may learn more about the Data Weapons, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 85
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0520:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "Don't ask the impossible, Eris! If we're not careful, the Cell Fighter could go down in one hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 86
+   },
+   "notes": "One-hit vulnerability is conditional, not certain destruction.",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0520:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Captain! We've detected a Data Weapon signal!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 87
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0520:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Then I'm counting on you to seal the deal.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 88
+   },
+   "notes": "Ruri requests Hari/Eris follow-through; I am counting on you keeps request direction.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0520:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "Hokuto, Ginga! Now! Throw the capsule!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 89
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0520:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Got it!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 90
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0520:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Hm...!? What is that bastard planning?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 91
+   },
+   "notes": "Source contempt yatsu-me restored as that bastard after original single-use neighbor review. Observed boy remains unnamed; no gender or identity inserted.",
+   "uncertain": [
+    "Singular target likely Ginga from following capsule throw; source does not name the observed boy."
+   ]
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0520:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Goooo!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 92
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0520:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Ngh!? What is this!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 93
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0520:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "The remaining Data Weapons...!! What's going on!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 94
+   },
+   "notes": "Source stunned remaining-Data-Weapons fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0520:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We did it! It worked!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 95
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0520:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "Hokuto, Ginga! Hurry and save those three Data Weapons!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 96
+   },
+   "notes": "Save is source-short capture operation grounded in existing File Save entry, not rescue human life.",
+   "uncertain": [
+    "Save follows existing File Save convention; independent canonical English command provenance unestablished."
+   ]
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0520:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Right! We just need to get close to them!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 97
+   },
+   "notes": "They refers to three Data Weapons; approach action explicit.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0520:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I won't let you, Dendoh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 98
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0520:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Everyone! Stop Ogre!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 99
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0520:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "OK! Leave it to me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 100
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0520:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "W-wait, please! There's an object approaching from above!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 101
+   },
+   "notes": "Harry's alarm identifies an approaching object; restored existential verb. Preserve prefilled Hari speaker.",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0520:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "What did you say!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage23_campaign.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0520:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Hahahaha, I'm in luck! I've only just arrived on this planet, and I've already found what I'm after!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 102
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0520:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "You're Ashura...! What have you come here for!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 103
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0520:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Don't worry, Altair. I've no interest in the Data Weapons.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 104
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0520:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "I seek only one thing... the other Hyribead that Gades desires...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 105
+   },
+   "notes": "Ashura seeks the other Hyribead for Gades; trailing ellipsis retained across explanation into 106.",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0520:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Yes, I mean that energy crystal from earlier!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 106
+   },
+   "notes": "Identifies the Hyribead as the earlier energy crystal; restored I mean.",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0520:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "What...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 107
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0520:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "You're saying they're after the Meteo Cube!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 108
+   },
+   "notes": "Vega reacts to Ashura's faction's target; plural they retained.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0520:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Meteo Cube? Hmph, I don't care what it's called.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 109
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0520:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "All I need is to find out where it is. Altair, do whatever you like with the Data Weapons.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 110
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0520:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Hmph, you don't need to tell me that!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 111
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0520:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Oh no!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 112
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0520:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブルホーン",
+   "speaker_en": "Bull Horn",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 113
+   },
+   "notes": "Source silence retained.",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0520:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Come, Bull Horn... Come to me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 114
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0520:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "File Save, Bull Horn!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 115
+   },
+   "notes": "Established File Save capture command retained as command fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0520:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "D-dammit! Bull Horn...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 116
+   },
+   "notes": "Ginga reacts to Bull Horn being captured; interrupted noun fragment retained without inventing a completed event statement.",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0520:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I won't let this chance slip away! I'll save the other two as well!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 117
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0520:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Hokuto, Ginga, hurry! If they take Dragon Flare and Gatling Boar too, we'll never recover from it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 118
+   },
+   "notes": "The remaining Data Weapons must be saved before Altair captures them; irreparable-loss warning retained.",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0520:305",
+    "s0520:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Y-yes!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 119
+   },
+   "notes": "Same startled assent works at both uses, answering Vega at 305 and Rom at 326.",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0520:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Whoa, hold on. I need you to tell me where the Meteo Cube is.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 120
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0520:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "You'll keep me company for a while!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 121
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0520:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Shut up! Stay out of our way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 122
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0520:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "I can't let you do that. Once I have the Meteo Cube, Gades' wish will be as good as fulfilled...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 123
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0520:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "With this, my number one spot in the Commander Ranking is secure! Gwahahahaha!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 124
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0520:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Hehehehe... Hahahahaha!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 125
+   },
+   "notes": "Hidden speaker remains ??? despite ensuing Rom reveal; laughter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0520:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 126
+   },
+   "notes": "Source punctuation-only surprised reaction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0520:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "You maggots feeding on bloodstained wealth and power... Take a look at yourselves.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 127
+   },
+   "notes": "Rom condemns Ashura's bloodstained wealth and power; maggots insult retained at full force.",
+   "uncertain": []
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0520:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "A light that shows the righteous path...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 128
+   },
+   "notes": "Deliberate descriptive speech fragment retained before 129 supplies mirror naming.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0520:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "People call it a mirror...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 129
+   },
+   "notes": "Rom's aphoristic naming conclusion refers to the light showing the right path in 128.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0520:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Y-you! Who are you!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 130
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0520:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I have no name to give the likes of you!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 131
+   },
+   "notes": "Refuses to give a name to the contemptible questioner; not lack of a personal name.",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0520:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "Where there is darkness, there is light... Where there is evil, there is justice.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage15_campaign.json",
+    "id": 706
+   },
+   "notes": "Paired light/justice maxim preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0520:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "Kenryuu, envoy of the heavens, has arrived!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign.json",
+    "id": 870
+   },
+   "notes": "Kenryuu envoy-of-heavens self-introduction.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0520:320"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "D-damn you... Getting full of yourself, are you?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 132
+   },
+   "notes": "Ashura answers Rom with stammering anger; rough register.",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0520:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I've seen your true purpose... with my own eyes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 133
+   },
+   "notes": "Rom addresses Ashura after overhearing the Meteor Cube plan.",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0520:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "The other Hyribead on this planet... I won't let the likes of Gades have it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 134
+   },
+   "notes": "Rom refuses to hand over the planet's other Hyribead to Gades.",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0520:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Don't make me laugh! Get him!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 135
+   },
+   "notes": "Ashura dismisses Rom and orders subordinates to attack him.",
+   "uncertain": []
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0520:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Th-that guy... Has he come to help us again?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 136
+   },
+   "notes": "Ginga recognizes Rom as their returning rescuer; guy preserves casual address, not kinship.",
+   "uncertain": []
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0520:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'll draw the Gyandlar off! You two, capture the electronic sacred beasts!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 137
+   },
+   "notes": "Rom draws enemy attention so the boys can capture Data Weapons; capture restored from event context. Electronic sacred beasts description corroborated by official Dendoh world page via centralized glossary addition.",
+   "uncertain": [
+    "Electronic sacred beasts is a source-literal descriptor corroborated by official Japanese wording; independently licensed English wording unverified."
+   ]
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0520:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Everyone! Don't let Ogre near Dragon Flare or Gatling Boar!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 138
+   },
+   "notes": "Vega orders allies to block Ogre from both unclaimed Data Weapons.",
+   "uncertain": []
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0520:328"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Yeah! We'll hold him off!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 139
+   },
+   "notes": "Domon accepts Vega's order; him refers to sourced male Altair.",
+   "uncertain": []
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0520:329"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. GEAR Fighter Dendoh moves next to Dragon Flare@   and Gatling Boar (both required).@2. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 140
+   },
+   "notes": "Victory conditions; Dendoh must reach adjacency to each of the two Data Weapons. Measured first plain segment overflow compressed must move to moves; objective remains obligatory. Root meaning review removed draft one-at-a-time sequencing, which the source does not specify.",
+   "uncertain": []
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0520:330"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Dragon Flare or Gatling Boar is shot down,@   or Knight GEAR Ogre moves next to either of them.@2. Any allied unit is shot down.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 141
+   },
+   "notes": "Defeat conditions; either Data Weapon loss or Ogre adjacency, and any allied loss.",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0520:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "All right, we made it just in time!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 142
+   },
+   "notes": "Dragon Flare capture event: Ginga says they arrived in time.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0520:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドラゴンフレア",
+   "speaker_en": "Dragon Flare",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 143
+   },
+   "notes": "Source silence retained.",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0520:333"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Hokuto, now!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 144
+   },
+   "notes": "Ginga cues Hokuto to capture Dragon Flare.",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0520:334"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Yeah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign.json",
+    "id": 266
+   },
+   "notes": "Yeah works for readiness at s0210:228 and launch calls at280/326.",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0520:335"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "File Save! Dragon Flare!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 145
+   },
+   "notes": "Direct File Save command; capture distinct from installation.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0520:336"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Dragon Drive! Instaaall!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 146
+   },
+   "notes": "Direct activation command and stretched installation shout. Term confirmed by centralized stage25_terms_additions.json; transparent transliteration of official Japanese list.",
+   "uncertain": [
+    "Dragon Drive follows centrally sourced official Japanese program list; independently licensed English wording remains unverified."
+   ]
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0520:337"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "All right, that does it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 147
+   },
+   "notes": "Completed installation context resolves outcome; English restores finite statement.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0520:338"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Ginga, now only Gatling Boar is left!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 148
+   },
+   "notes": "Dragon-first capture event leaves Gatling Boar.",
+   "uncertain": []
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0520:339"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah, leave that one to me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 149
+   },
+   "notes": "Ginga volunteers to handle remaining Gatling Boar.",
+   "uncertain": []
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0520:340"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガトリングボア",
+   "speaker_en": "Gatling Boar",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage20_campaign.json",
+    "id": 133
+   },
+   "notes": "Silent Gatling Boar at both emergence and villain recognition; no added speech.",
+   "uncertain": []
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0520:341"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I kept you waiting, Gatling Boar!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 150
+   },
+   "notes": "Boar capture event: Ginga addresses the Data Weapon.",
+   "uncertain": []
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0520:342"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Ginga, hurry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 151
+   },
+   "notes": "Hokuto urges Ginga to save Boar.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0520:343"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "I know! Here we go!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 152
+   },
+   "notes": "Ginga's rough impatient reply and action call.",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0520:344"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "File Save! Gatling Boar!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 153
+   },
+   "notes": "Direct File Save capture command.",
+   "uncertain": []
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0520:345"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Boar Drive! Instaaall!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 154
+   },
+   "notes": "Direct activation command and stretched installation shout. Term confirmed by centralized stage25_terms_additions.json; transparent transliteration of official Japanese list.",
+   "uncertain": [
+    "Boar Drive follows centrally sourced official Japanese program list; independently licensed English wording remains unverified."
+   ]
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0520:346"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "All riiight, it worked!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 155
+   },
+   "notes": "Ginga celebrates successful save/install.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0520:347"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Now only Dragon Flare is left!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 156
+   },
+   "notes": "Independent Boar-first event leaves Dragon Flare; do not harmonize with event 12.",
+   "uncertain": []
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0520:348"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Yeah, I know!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 157
+   },
+   "notes": "Hokuto acknowledges his remaining capture task.",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0520:349"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Tch...! I can't let myself be defeated with the Data Weapons right in front of me! Hraaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 158
+   },
+   "notes": "Altair resists defeat before claiming Data Weapons; full frustration and shout preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0520:350"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Wh-what...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 159
+   },
+   "notes": "Vega's shocked interrupted reaction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0520:351"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "That bastard... What fighting spirit...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 160
+   },
+   "notes": "Argo reacts to Altair's fighting spirit; rough contempt retained.",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0520:352"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Everyone, just keep Ogre pinned down!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 161
+   },
+   "notes": "Vega asks allies only to restrain Ogre, not destroy it.",
+   "uncertain": []
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0520:353"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Hokuto, Ginga! You two, hurry and save the Data Weapons!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 162
+   },
+   "notes": "Vega directs boys to save/capture Data Weapons promptly.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0520:354"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Yes!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign.json",
+    "id": 769
+   },
+   "notes": "Neutral enthusiastic Yes suitable both encouragement use760 and launch order use901.",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0520:355"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage14_campaign.json",
+    "id": 171
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0520:356"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Dendoh has successfully saved both Data Weapons!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 163
+   },
+   "notes": "Hari speaker prefill preserved; status report confirms both Data Weapons saved.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0520:357"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Well done, Hokuto! Ginga!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 164
+   },
+   "notes": "Vega praises both boys after the report.",
+   "uncertain": []
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0520:358"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "W-what a haul...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 165
+   },
+   "notes": "Kirakuni reacts to Dendoh saving two Data Weapons; fishing metaphor retained.",
+   "uncertain": []
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0520:359"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Damn you...! Then I'll defeat you, Dendoh, and take every last Data Weapon!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 166
+   },
+   "notes": "Altair challenges Dendoh after losing both Data Weapons; personal defeat and taking all weapons preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0520:360"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Shut up! We've got Boar and Dragon on our side too! I'll settle this today!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 167
+   },
+   "notes": "Ginga challenges Altair; Boar and Dragon remain source-short names, not expanded.",
+   "uncertain": []
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0520:361"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Very well...! Then...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 168
+   },
+   "notes": "Deliberately unfinished lead-in to the install call; fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0520:362"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Bull Drive! Install!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 169
+   },
+   "notes": "Activation call; imperative/named-call fragment retained. Bull Drive follows newly sourced campaign term; independent licensed English wording remains unverified.",
+   "uncertain": [
+    "Bull Drive follows sourced transparent campaign transliteration; independently licensed English command wording remains unverified."
+   ]
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0520:363"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Here I come, Dendoh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 170
+   },
+   "notes": "Altair attacks Dendoh; I restores the settled actor.",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0520:364"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Come on, Ogre!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 171
+   },
+   "notes": "Hokuto answers Altair challenge, naming Ogre; imperative retained.",
+   "uncertain": []
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0520:365"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Come on, Ogre!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 172
+   },
+   "notes": "Ginga answers the same challenge, naming Ogre; imperative retained.",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0520:367"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. GEAR Fighter Dendoh or Rom is shot down@2. An allied mothership is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 173
+   },
+   "notes": "Defeat-condition UI; two source segments retained.",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0520:368"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Y-you! You've gotten cocky...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 174
+   },
+   "notes": "Altair snarls at opponents; stutter and accusation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0520:369"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "That's enough, Altair!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 175
+   },
+   "notes": "Vega stops Altair; direct forceful address retained.",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0520:370"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign.json",
+    "id": 860
+   },
+   "notes": "Wordless surprised punctuation.",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0520:371"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "G-gwaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 176
+   },
+   "notes": "Altair pain shout; stutter and elongated yell retained.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0520:373"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "W-what!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 177
+   },
+   "notes": "Hokuto startled reaction; intentional interjection fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0520:374"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Is he coming back again, damn it!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 178
+   },
+   "notes": "He refers to Altair recovering after Vega intervenes; male pronoun supported by main character profile. Rough frustrated voice retained.",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0520:375"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "U-uuugh...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 179
+   },
+   "notes": "Altair groan; intentional vocalization fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0520:376"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "...When your sealed memories return... that is when you will die...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 180
+   },
+   "notes": "Hidden voice addressing Altair; sealed memories and death condition both retained; speaker remains ???.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0520:377"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Altair... I cannot let you die yet...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 181
+   },
+   "notes": "Hidden voice remains ???; first-person agency restored without disclosing identity.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0520:378"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "! O-Ogre!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 182
+   },
+   "notes": "Ginga begins a startled Ogre remark; following Hokuto line supplies the disappearance. Source fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0520:379"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "It's vanished...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 183
+   },
+   "notes": "It refers to Ogre in previous line; subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0520:380"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "W-what the hell is going on!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 184
+   },
+   "notes": "Ryoko reacts to Ogre vanishing; rough spoken register retained.",
+   "uncertain": []
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0520:381",
+    "s0520:398"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage04_campaign.json",
+    "id": 402
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0520:382"
+   ],
+   "kind": "thought",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "...Altair...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 185
+   },
+   "notes": "Vega thought; worried name-only thought retained as intentional fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0520:383"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Everyone, there are still enemy units left. Please give it one more push.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 186
+   },
+   "notes": "Ruri addresses all allies, requesting further effort against remaining enemy units.",
+   "uncertain": []
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0520:384"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Heh heh heh... You're a moment too late, Dendoh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 187
+   },
+   "notes": "Separate event36 failure branch: Altair arrives first, not continuation of event17 disappearance.",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0520:385"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Now this Data Weapon will be mine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 188
+   },
+   "notes": "Altair claims this Data Weapon in failure event36; future ownership preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0520:386"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "D-damn it!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 189
+   },
+   "notes": "Ginga angry curse; stutter and force retained.",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0520:387"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "I-is this how it ends!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 190
+   },
+   "notes": "Hokuto responds to Altair claiming the Data Weapon; defeat-question subject and verb restored.",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s0520:388"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "The enemy units' signals have vanished!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 191
+   },
+   "notes": "Hari speaker prefill preserved; sensor-report sentence complete.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s0520:389"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "We somehow managed to make the operation a success.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 192
+   },
+   "notes": "Ruri reports eventual operation success; somehow preserves difficulty qualifier.",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "s0520:390"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Yes... But I'm worried about everyone who went to the other areas. Let's pull out of here immediately and go to their aid.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 193
+   },
+   "notes": "Vega asks allies to withdraw immediately and help comrades in other areas, following Ruri operation report.",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "s0520:391"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Yes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 194
+   },
+   "notes": "Ruri acknowledges Vega plan; intentional acknowledgement retained.",
+   "uncertain": []
+  },
+  {
+   "id": 354,
+   "uses": [
+    "s0520:392",
+    "s0520:396"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage08_campaign.json",
+    "id": 882
+   },
+   "notes": "Rom's silence; later silence before thanks also checked.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "s0520:393"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Rom Stol... Don't you want to come with us?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 195
+   },
+   "notes": "Domon invites Rom to join them; full Rom Stol preserved in body only.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "s0520:394"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "...There is still something I need to find out. But when the time comes...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 196
+   },
+   "notes": "Rom declines for now; explicit I restored. Conditional ending deliberately trails off.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "s0520:395"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "Tell me just one thing. What is this Hyribead you mentioned?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 197
+   },
+   "notes": "Vega asks Rom about Hyribead; no lore expansion.",
+   "uncertain": []
+  },
+  {
+   "id": 358,
+   "uses": [
+    "s0520:397"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "He's gone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage25_campaign.json",
+    "id": 198
+   },
+   "notes": "He refers to Rom, who leaves after silent response. Male pronoun sourced from glossary profile.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 25,
+  "fingerprint": "53604bdfdbbb62b5710de2c8fb88c7b39735fe4b0c1aa8ac31de215da93fcf4e",
+  "reviewed_reused_ids": [
+   2,
+   21,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   191,
+   192,
+   252,
+   283,
+   284,
+   298,
+   304,
+   318,
+   319,
+   333,
+   343,
+   354
+  ],
+  "reviewed_reused_rows": 160,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Coordinator reviewed all six fresh packets, six fresh flags and all160 shared rows in every original event/use with final English neighbors. Only measured plain overflow140 compressed; its both-required adjacency now avoids invented sequencing. Alternate capture triggers, hidden voice, source-short names, contempt91, placeholders and request direction preserved. Initial drafts retained; name preview clear."
+ },
+ "full_checks": {
+  "rows": 359,
+  "uses": 426,
+  "problems": []
+ }
+}

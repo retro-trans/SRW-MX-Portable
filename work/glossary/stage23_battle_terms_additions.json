@@ -1,0 +1,8 @@
+{
+ "terms": [
+  {"jp":"ＪＵＰＩＴＥＲ現象","en":"JUPITER phenomenon","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source294 comparison only; exact acronym retained. No exact Akurasu/independent licensed English compound located. Do not assert identity with TOKYO JUPITER or supply mechanism."},
+  {"jp":"ＦＨスーツ","en":"FH suit","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source298 includes failing suit life support. No exact Akurasu/independent licensed English compound located. Keep FH unexpanded; do not invent acronym meaning."},
+  {"jp":"シンクログラフ","en":"synchrograph","sources":["https://www.evastore.jp/shop/g/gD5002204/","https://kph.xxxxxxxx.jp/eva/archives/scm/data/dictionary/04.html","work/translation/en/script/stage23_campaign.json"],"notes":"Source313 technical readout. Official EVAstore corroborates Japanese motif; secondary dictionary has Synchro graph. Chosen transparent compound, licensed English spelling not independently established; no exact Akurasu entry. Do not replace reversal/pulse flow with invented behavior."},
+  {"jp":"精神汚染","en":"mental contamination","sources":["work/translation/en/script/stage23_campaign.json"],"notes":"Source317 technical mental-effect warning, distinct from moral taint in84/85. Literal term; no exact Akurasu/independent licensed English compound located. Do not add diagnosis or mechanism."}
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "terms": [
+  {
+   "jp": "モクスポ",
+   "en": "Mokuspo",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of the named publication. No exact Akurasu entry or independently established English title found; do not expand to a guessed full newspaper name."
+  },
+  {
+   "jp": "シラヒメ",
+   "en": "Shirahime",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-short colony name matches existing sourced Shirahime Incident and its Terminal Colony No.8 note. Independent licensed colony-name verification remains limited."
+  },
+  {
+   "jp": "大螺旋",
+   "en": "Great Spiral",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source-literal name for the Hisago Plan network in this Nadesico context. No exact Akurasu entry or independently established licensed English label found; not a Machine Robo or Gurren Lagann term."
+  },
+  {
+   "jp": "タキリ",
+   "en": "Takiri",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json"
+   ],
+   "notes": "Source romanization of the terminal colony name. No exact Akurasu entry or independently established licensed English label found. Preserve MX spelling, do not change to Tagiri from other renditions."
+  },
+  {
+   "jp": "開発公団",
+   "en": "Development Corporation",
+   "sources": [
+    "work/translation/en/script/stage17_campaign.json",
+    "https://srw.wiki.cre.jp/wiki/%E3%83%A4%E3%83%9E%E3%82%B5%E3%82%AD%E3%83%BB%E3%83%A8%E3%82%B7%E3%82%AA"
+   ],
+   "notes": "Source-short Nadesico organization. SRW Wiki Japanese Yamasaki overview confirms Colony Development Corporation context, not independently licensed English organization label. Do not add Colony or Space where source short form omits it."
+  }
+ ]
+}

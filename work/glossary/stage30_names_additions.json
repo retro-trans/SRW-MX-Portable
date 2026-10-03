@@ -1,0 +1,30 @@
+{
+ "terms": [
+  {
+   "jp": "ジオン・ズム・ダイクン",
+   "en": "Zeon Zum Deikun",
+   "sources": [
+    "https://akurasu.net/wiki/Char_Aznable"
+   ],
+   "notes": "Stage30 row585 full name, Akurasu father relationship on Char profile. No additional biography imported."
+  },
+  {
+   "jp": "ジャミトフ・ハイマン",
+   "en": "Jamitov Hymen",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Character_List",
+    "https://akurasu.net/wiki/Mobile_Suit_Z_Gundam"
+   ],
+   "notes": "Stage30 row593 exact full name. Akurasu 64 and series character list agree Hymen; alternative spelling Hymem on SRW4 list not chosen. No existing glossary entry overridden."
+  },
+  {
+   "jp": "ハマーン・カーン",
+   "en": "Haman Karn",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Characters_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/64/Character_List"
+   ],
+   "notes": "Stage30 rows544/593 source full name; retains existing Haman short entry and no silent full-name expansion."
+  }
+ ]
+}

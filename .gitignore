@@ -1,0 +1,42 @@
+# Game data and builds (never commit)
+*.iso
+*.bin
+*.BIN
+work/output/
+work/build/
+work/ppsspp.ini.backup
+__pycache__/
+.claude/
+incoming/*
+!incoming/fonts/
+incoming/fonts/*
+!incoming/fonts/FONT_LICENSE.txt
+!incoming/fonts/GenEiLatin_v2.1/
+incoming/fonts/GenEiLatin_v2.1/*
+!incoming/fonts/GenEiLatin_v2.1/GenEiLatin-Separate_v2.1/
+incoming/fonts/GenEiLatin_v2.1/GenEiLatin-Separate_v2.1/*
+!incoming/fonts/GenEiLatin_v2.1/GenEiLatin-Separate_v2.1/GenEiLateGoN_v2.ttf
+work/glossary/akurasu/
+work/ui/chapter_card_atlas_*.png
+docs/stage30s_*.md
+docs/model_comparison_protocol*.md
+docs/japanese_text_report.md
+work/translation/*/library*_report.md
+work/translation/*/library_check.md
+
+# Japanese script text stays local (AGENTS.md). Everything here can be regenerated from the
+# user's own ISO with the tools: static2_extract.py, stage_map.py, make_batches.py, export_rows.py
+work/source/
+
+# Translation working files contain the Japanese lines next to the English.
+# Commit only the *.en.json copies written by tools/strip_jp.py.
+work/translation/*/library*.json
+work/translation/*/script/*.json
+!work/translation/*/library*.en.json
+!work/translation/*/script/*.en.json
+work/translation/*/battle/*.json
+!work/translation/*/battle/*.en.json
+work/translation/*/battle/*.en.part*.json
+
+# Translator context reports may quote source script; keep these local as well.
+work/translation/*/script/*_report_*.md

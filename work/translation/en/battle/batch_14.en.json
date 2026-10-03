@@ -1,0 +1,2315 @@
+{
+ "batch": 14,
+ "rows": [
+  {
+   "id": "q05459",
+   "en": "Don't get in my way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05460",
+   "en": "You think moves like that will do?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05461",
+   "en": "I can tell what you're thinking!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05462",
+   "en": "I won't let you go any further!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05463",
+   "en": "Underestimate me and you'll get hurt!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05464",
+   "en": "I decided I'd be Judau's strength. So!",
+   "notes": "",
+   "uncertain": [
+    "Split sentence: Japanese ends with 'so!' as a trailing lead-in; kept."
+   ]
+  },
+  {
+   "id": "q05465",
+   "en": "Here's payback!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05466",
+   "en": "Now it's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05467",
+   "en": "Not bad at all!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05468",
+   "en": "Ngh!! So this is it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05469",
+   "en": "Uwaaaagh!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05470",
+   "en": "Damn! I'm bailing out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05471",
+   "en": "No, I'm going down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05472",
+   "en": "!! I can't go down yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05473",
+   "en": "I-I'll still hold out somehow, you'll see!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05474",
+   "en": "Ngh! If I take another hit...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05475",
+   "en": "My armor shouldn't be this flimsy...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05476",
+   "en": "I'm not fighting just to die in a place like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05477",
+   "en": "Ngh!! You did it now!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05478",
+   "en": "Tch! You'll pay for that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05479",
+   "en": "An attack like that won't bring me down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05480",
+   "en": "Damn! Are my thrusters acting up!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05481",
+   "en": "It's fine, my machine still moves!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05482",
+   "en": "Don't think you've beaten me with just this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05483",
+   "en": "With something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05484",
+   "en": "Hmph, an attack like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05485",
+   "en": "Too slow!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05486",
+   "en": "Damn... I couldn't dodge it!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05487",
+   "en": "You can keep up with my moves...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05488",
+   "en": "From that impact, the damage should be light!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05489",
+   "en": "I got hit? Me...!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05490",
+   "en": "I can see right through you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05491",
+   "en": "Hit me if you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05492",
+   "en": "You think you can fight me with skills like that!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05493",
+   "en": "Not to some machine that's all power!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05494",
+   "en": "Too slow!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05495",
+   "en": "You won't hit me!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05496",
+   "en": "An attack that obvious!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05497",
+   "en": "What's wrong!? I'm right here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05498",
+   "en": "You're way too slow to take me on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05499",
+   "en": "I've seen through your black pressure!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05500",
+   "en": "Hmph! What a waste of effort!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05501",
+   "en": "I've got a barrier, you know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05502",
+   "en": "An attack like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05503",
+   "en": "Missiles won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05504",
+   "en": "Looks like the jammer is working normally.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05505",
+   "en": "I can dodge all of this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05506",
+   "en": "Too bad, you won't hit me.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05507",
+   "en": "Damn, I can't counter!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05508",
+   "en": "Out of range!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05509",
+   "en": "Attacking from that far away...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05510",
+   "en": "I'm going next!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05511",
+   "en": "Leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05512",
+   "en": "I'm launching a wave attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05513",
+   "en": "I'll take a shot too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05514",
+   "en": "Judau, clear the line of fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05515",
+   "en": "Ple, I'll handle the rest!",
+   "notes": "",
+   "uncertain": [
+    "Ple Two's set addresses Ple directly here (and rows 57, 63, 64)."
+   ]
+  },
+  {
+   "id": "q05516",
+   "en": "Nice timing, Ple!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05517",
+   "en": "I'll take care of this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05518",
+   "en": "Fall back while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05519",
+   "en": "I'm cutting in!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05520",
+   "en": "It'll hit...!? Get out of the way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05521",
+   "en": "Judau, get back!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05522",
+   "en": "Ple, don't push yourself!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05523",
+   "en": "I won't let them get Ple!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05524",
+   "en": "I'll make the move! Cover me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05525",
+   "en": "I'm attacking in succession!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05526",
+   "en": "Roger! I'll cover you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05527",
+   "en": "Here goes, High Mega Launcher!",
+   "notes": "",
+   "uncertain": [
+    "High Mega Launcher not in glossary; literal rendering."
+   ]
+  },
+  {
+   "id": "q05528",
+   "en": "Zeta Gundam! Lend me your strength!",
+   "notes": "",
+   "uncertain": [
+    "Ple Two calling on the Zeta Gundam is odd for her; translated literally."
+   ]
+  },
+  {
+   "id": "q05529",
+   "en": "Very well... my power, together with everyone's!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05530",
+   "en": "Go, go, goooooo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05531",
+   "en": "Don't think you can escape my Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05532",
+   "en": "Funnels, there! Go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05533",
+   "en": "High Mega Cannon, going at full power!",
+   "notes": "",
+   "uncertain": [
+    "High Mega Cannon not in glossary; standard English name used."
+   ]
+  },
+  {
+   "id": "q05534",
+   "en": "I'll clean you all up at once!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05535",
+   "en": "Don't think numbers will win it for you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05536",
+   "en": "Fin Funnels, go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05537",
+   "en": "Here it comes!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05538",
+   "en": "Okay! Leave it to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05539",
+   "en": "Can you dodge this many Funnels!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05540",
+   "en": "Underestimate me and you'll get hurt!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05541",
+   "en": "Aim reeeal carefully... Right there!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05542",
+   "en": "Take this! Take this! Take this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05543",
+   "en": "Here I goooo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05544",
+   "en": "N-No good, they got meee!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05545",
+   "en": "Yikes, I can't take any more!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05546",
+   "en": "Waaagh! I'm gonna get wrecked!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05547",
+   "en": "N-No good! I can't hold out any longer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05548",
+   "en": "Whoa-whoa-whoa! I'm going down, going dooown!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05549",
+   "en": "Why, you! I'm not done yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05550",
+   "en": "Ngh! Why you! I won't let you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05551",
+   "en": "Th-They're strong! B-But hey, I've got my pride too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05552",
+   "en": "Gwah! Y-You'll pay for that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05553",
+   "en": "Gwah! N-Not yet! I'm not going down yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05554",
+   "en": "I-It just grazed me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05555",
+   "en": "It hit, but... that's all it's got?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05556",
+   "en": "Whoa!? ......? Huh, all bark and no bite.",
+   "notes": "",
+   "uncertain": [
+    "Feminine ending in Mondo's set; likely another ZZ teammate (Elle?) sharing it. English kept neutral."
+   ]
+  },
+  {
+   "id": "q05557",
+   "en": "Ow! You did it now, why you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05558",
+   "en": "You won't get me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05559",
+   "en": "Whoa! I-It's coming this way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05560",
+   "en": "I can't afford to get hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05561",
+   "en": "Whoa! Th-They're aiming at me!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05562",
+   "en": "Th-That was close...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05563",
+   "en": "Phew, close one, close one.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05564",
+   "en": "Nyah nyah!",
+   "notes": "",
+   "uncertain": [
+    "Akkanbe (tongue-out taunt) rendered as 'Nyah nyah!'."
+   ]
+  },
+  {
+   "id": "q05565",
+   "en": "I-I'm not scared of a beam like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05566",
+   "en": "Huh!? What? Am I out of ammo?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05567",
+   "en": "No good, it's too far to attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05568",
+   "en": "Huh!? What!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05569",
+   "en": "Here's a little something extra!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05570",
+   "en": "All right! It's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05571",
+   "en": "Times like this, you gotta stay sharp!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05572",
+   "en": "Iino, I'm right behind you!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05573",
+   "en": "Elle, leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05574",
+   "en": "Judau, I'll give you a hand!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05575",
+   "en": "Beecha, leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05576",
+   "en": "I'll give you a hand, Roux!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05577",
+   "en": "If you're attacking, come at me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05578",
+   "en": "Wh-Whoa!? It won't stop!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05579",
+   "en": "Nngh! I went in too far!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05580",
+   "en": "Run while you can, Iino!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05581",
+   "en": "Elle, go now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05582",
+   "en": "What're you doing, Judau!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05583",
+   "en": "Beecha, look out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05584",
+   "en": "Roux, look out!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05585",
+   "en": "Now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05586",
+   "en": "I'm counting on you!",
+   "notes": "",
+   "uncertain": [
+    "Direction: speaker asking an ally to rely on them; read as 'I'm counting on you' per BASE_RULES."
+   ]
+  },
+  {
+   "id": "q05587",
+   "en": "I'm firing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05588",
+   "en": "Waaaaagh!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05589",
+   "en": "Take thiiis!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05590",
+   "en": "Please work... Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05591",
+   "en": "Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05592",
+   "en": "How about this! High Mega Cannon!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05593",
+   "en": "High Mega Cannon! Fiiire!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05594",
+   "en": "Will this work? Fin Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05595",
+   "en": "All right! Ready, set...!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Leina and Roux; 'Ready, set...!' works for all."
+   ]
+  },
+  {
+   "id": "q05596",
+   "en": "Uh, um... which one was it?",
+   "notes": "",
+   "uncertain": [
+    "Leina selecting a weapon (rows 137-138); context inferred."
+   ]
+  },
+  {
+   "id": "q05597",
+   "en": "Oh, it's this one.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05598",
+   "en": "Kyaaah! B-Big brother!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05599",
+   "en": "Kyaaah! No, I'm gonna get shot down!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05600",
+   "en": "Kyaaah! I-I can't hold out any longer!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05601",
+   "en": "Aaugh! H-Help me, big brother!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05602",
+   "en": "Aah! Waah! Wh-What do I do!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05603",
+   "en": "Augh! Wh-Why you! You won't get me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05604",
+   "en": "N-Not yet! I'm going to save my big brother!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05605",
+   "en": "Augh! No, stop it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05606",
+   "en": "Huh? Did it hit me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05607",
+   "en": "Not from something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05608",
+   "en": "It hit! ...Huh? I'm totally fine!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05609",
+   "en": "No, no, don't come near me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05610",
+   "en": "Kyaah! Oh... I made it...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05611",
+   "en": "Kyaah! H-Hey, that was dangerous!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05612",
+   "en": "That won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05613",
+   "en": "Huh? It won't fire, why!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05614",
+   "en": "What is this? It won't reach!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05615",
+   "en": "Huh?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05616",
+   "en": "I-I can do it too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05617",
+   "en": "Get 'em!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05618",
+   "en": "High Mega Cannon, here goes!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05619",
+   "en": "I'll shoot you down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05620",
+   "en": "Underestimate me 'cause I'm a girl and you'll get hurt!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Roux Louka; works for both."
+   ]
+  },
+  {
+   "id": "q05621",
+   "en": "I'll be your opponent!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05622",
+   "en": "So you came my way... You're mine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05623",
+   "en": "Here it comes! Time to give it my all!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05624",
+   "en": "Don't think I, Roux Louka, am just some girl!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05625",
+   "en": "I'm a Newtype too, you know!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05626",
+   "en": "I bet I can handle it better than Judau!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05627",
+   "en": "No way!? I got shot down!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05628",
+   "en": "Augh! No, I've lost control!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05629",
+   "en": "No, it won't hold!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05630",
+   "en": "Kyaaah! Wh-What power!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05631",
+   "en": "Kyaah! You're kidding, this is seriously bad!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05632",
+   "en": "Ngh! Huh!? The power unit's damaged!? Not good...",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05633",
+   "en": "Wh-What is this!? Nobody told me about this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05634",
+   "en": "D-Don't think a little thing like this will make me back off!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05635",
+   "en": "N-Not yet! This is where I get to shine!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05636",
+   "en": "Kyaah! P-Pulling through from here is just what I do!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05637",
+   "en": "Owww... You'll pay for that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05638",
+   "en": "Tch! Not yet! I won't go down to this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05639",
+   "en": "Augh! Why you, now I'm mad!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05640",
+   "en": "Ugh! You're better than I thought!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05641",
+   "en": "Ngh! Why you, you've got some nerve!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05642",
+   "en": "Hey! What's the idea, treating a girl like this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05643",
+   "en": "Huh? Things are starting to look kinda bad...?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05644",
+   "en": "Ngh! From here on, I show off my skills!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05645",
+   "en": "I was ready for this much damage from the start!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05646",
+   "en": "Oh no, did it hit me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05647",
+   "en": "Oh, did something hit me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05648",
+   "en": "As if I'd go down to something like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05649",
+   "en": "My, you're weaker than I thought.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05650",
+   "en": "You think I'll let out a cute little scream over this!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05651",
+   "en": "Kyaaah!! ...Wait, that wasn't as bad as I thought.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05652",
+   "en": "Oh, could it be... you're going easy on me?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05653",
+   "en": "What... what a boring attack.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05654",
+   "en": "Like you'll hit me!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Akitsu Masato; generic wording."
+   ]
+  },
+  {
+   "id": "q05655",
+   "en": "From the left? No, it's head-on!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05656",
+   "en": "I'll dodge it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05657",
+   "en": "You suck!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05658",
+   "en": "Kyah! Hey, that was dangerous!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05659",
+   "en": "I dodged it! Amaaazing, that's me all right!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05660",
+   "en": "That won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05661",
+   "en": "I evaded it! That's me! Good girl, good girl!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05662",
+   "en": "Sorry, but I can't afford to get hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05663",
+   "en": "Yaaay! Successful evasion!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05664",
+   "en": "You missed on purpose for me? How sweet of you!",
+   "notes": "",
+   "uncertain": [
+    "Sarcastic gratitude toward an enemy that missed; 'missed on purpose' is an inference."
+   ]
+  },
+  {
+   "id": "q05665",
+   "en": "Aiming at me is useless, useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05666",
+   "en": "Did you notice you picked the wrong target?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05667",
+   "en": "Too bad! Better luck next time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05668",
+   "en": "Judau! Did you see that just now!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05669",
+   "en": "Can my shield hold it all off!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05670",
+   "en": "This is exactly when I need my shield!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05671",
+   "en": "Don't you break on me yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05672",
+   "en": "I can block this much easily!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05673",
+   "en": "That kinda stuff is useless, you know~",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05674",
+   "en": "Amaaazing! I blocked the attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05675",
+   "en": "I'm telling you, missiles are useless!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05676",
+   "en": "I've got something good installed, you know!",
+   "notes": "",
+   "uncertain": [
+    "Defense line about an installed defense (likely I-Field or barrier); 'something good installed' kept vague as in source."
+   ]
+  },
+  {
+   "id": "q05677",
+   "en": "Whaaat!? Out of ammo!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05678",
+   "en": "N-No way!? I can't attack!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05679",
+   "en": "I-If this keeps up, I'll be a sitting duck...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05680",
+   "en": "What is it!? Their attacks reach this far!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05681",
+   "en": "Damn, I can't reach them from here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05682",
+   "en": "So they're a cut above me...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05683",
+   "en": "I'll put an end to this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05684",
+   "en": "I can still attack from here too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05685",
+   "en": "This is Roux Louka! I'll provide support!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05686",
+   "en": "Providing covering fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05687",
+   "en": "This will settle it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05688",
+   "en": "Stay right there!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05689",
+   "en": "At least let me do this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05690",
+   "en": "I'll deal with that one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05691",
+   "en": "Looks like it's my turn!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05692",
+   "en": "I won't let you do as you please!",
+   "notes": "",
+   "uncertain": [
+    "Source is a deliberately trailing fragment; rendered as full sentence 'I won't let you do as you please!'."
+   ]
+  },
+  {
+   "id": "q05693",
+   "en": "Look out! Fall back!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Akitsu Masato; generic wording."
+   ]
+  },
+  {
+   "id": "q05694",
+   "en": "I'll make it in time!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05695",
+   "en": "I'm not confident at close range... but I'll do it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05696",
+   "en": "If I close the distance in one go, even I can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05697",
+   "en": "This is the moment of truth... Here I go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05698",
+   "en": "The closer I get to the enemy, the easier it is to hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05699",
+   "en": "The enemy's here...! I'll shoot it down with my Long Rifle!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05700",
+   "en": "Dart around all you want, this Long Rifle will get you!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05701",
+   "en": "You won't get away... High Mega Launcher, fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05702",
+   "en": "With this High Mega Launcher... go down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05703",
+   "en": "Mega Particle Cannon, fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05704",
+   "en": "I'll master them... Funnels!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05705",
+   "en": "Go! Funnels!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05706",
+   "en": "Funnels, over there! Go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05707",
+   "en": "I'll shoot you down with my Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05708",
+   "en": "All of Double Zeta's power, into this one shot!!",
+   "notes": "",
+   "uncertain": [
+    "Double Zeta used as spoken name of ZZ Gundam."
+   ]
+  },
+  {
+   "id": "q05709",
+   "en": "Goooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05710",
+   "en": "Then it's time for my trump card!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05711",
+   "en": "Hyper Mega Cannon, fire!!",
+   "notes": "",
+   "uncertain": [
+    "Hyper Mega Cannon not in glossary; literal rendering."
+   ]
+  },
+  {
+   "id": "q05712",
+   "en": "I'll take you all at once! High Mega Cannon!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05713",
+   "en": "High-output mode... Mega Particle Cannon, fire!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05714",
+   "en": "Go! Fin Funnels!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05715",
+   "en": "I'm counting on you! Fin Funnels!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05716",
+   "en": "Hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05717",
+   "en": "In that case, my Beam Saber!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05718",
+   "en": "All right, perfect aim! Gooo!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05719",
+   "en": "If I aim properly, I'll hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05720",
+   "en": "Out of my way!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Amuro Ray; generic wording."
+   ]
+  },
+  {
+   "id": "q05721",
+   "en": "Go down!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Hugo Medio and an unnamed set; generic."
+   ]
+  },
+  {
+   "id": "q05722",
+   "en": "Augh! Damn it!!",
+   "notes": "",
+   "uncertain": [
+    "Shared with Ken Tetsuya and Ryoma Nagare; generic."
+   ]
+  },
+  {
+   "id": "q05723",
+   "en": "Damn! Have I taken too much damage!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05724",
+   "en": "Ugh! A-At this rate, I'll be shot down!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05725",
+   "en": "Ngh! The damage is too heavy!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05726",
+   "en": "I can't go down yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05727",
+   "en": "Ngh! Is the apogee motor output dropping!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05728",
+   "en": "No good! At this rate, I'll be shot down!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05729",
+   "en": "What!? Are you saying I'm being overpowered!?",
+   "notes": "",
+   "uncertain": [
+    "Reading: Amuro being out-powered in a clash; 'you' as the enemy is an inference."
+   ]
+  },
+  {
+   "id": "q05730",
+   "en": "The damage is heavy, but I can't fall back now!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05731",
+   "en": "With this little damage, it shouldn't explode yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05732",
+   "en": "What... putting pressure on me like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05733",
+   "en": "Not from this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05734",
+   "en": "N-Not yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05735",
+   "en": "Good! But I'm not done by a long shot!",
+   "notes": "",
+   "uncertain": [
+    "Read as acknowledging the enemy's skill ('Good!' = 'you're good') before refusing to yield."
+   ]
+  },
+  {
+   "id": "q05736",
+   "en": "You got me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05737",
+   "en": "Not yet! I haven't been beaten yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05738",
+   "en": "Tch! Is my machine not fully tuned!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05739",
+   "en": "Ngh! Not yet! I can still go!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05740",
+   "en": "Ugh! Not yet!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05741",
+   "en": "Ngh!! But I can still go with only this much!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05742",
+   "en": "Impossible!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05743",
+   "en": "Is my machine not fully tuned!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05744",
+   "en": "I've been hit! But there has to be a way!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05745",
+   "en": "Machine performance alone doesn't decide a fight!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05746",
+   "en": "The enemy's good too...! I can't let my guard down.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05747",
+   "en": "The reaction speed is slow!? But I'll manage somehow!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05748",
+   "en": "This pressure is standing like a wall against me...!",
+   "notes": "",
+   "uncertain": [
+    "Pressure as Newtype pressure from the enemy, acting as a wall; meaning slightly uncertain."
+   ]
+  },
+  {
+   "id": "q05749",
+   "en": "Tch, did I charge too deep into the enemy forces!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05750",
+   "en": "I've still got room... I'll shoot you down next hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05751",
+   "en": "Tch!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05752",
+   "en": "Not like this!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05753",
+   "en": "It just grazed me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05754",
+   "en": "Not a chance, this is nothing!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05755",
+   "en": "Ngh! Not yet!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05756",
+   "en": "Not from this much!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05757",
+   "en": "Not with this little damage!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05758",
+   "en": "Ngh! I can still go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05759",
+   "en": "I managed to avoid a direct hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05760",
+   "en": "What, is my machine's reaction speed sluggish?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05761",
+   "en": "Less damage than I thought. But I'll dodge the next one!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05762",
+   "en": "So their mobility is better than mine...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05763",
+   "en": "No problem, it only grazed my armor.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05764",
+   "en": "Pressure like that won't stop me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05765",
+   "en": "No effect on combat, but I can't let my guard down.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05766",
+   "en": "I'm no amateur, yet I got hit by this...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05767",
+   "en": "I can... see the enemy's movements!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05768",
+   "en": "Not when you close in like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05769",
+   "en": "Are you determined to get in my way!?",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05770",
+   "en": "You won't catch my movements that easily!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05771",
+   "en": "I've read your attack pattern!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05772",
+   "en": "I can't afford to be held up in a place like this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05773",
+   "en": "From the front... no, from the front right!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05774",
+   "en": "Here it comes... I'll evade it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05775",
+   "en": "Moves like that, I'll see right through them!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05776",
+   "en": "I can see it!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05777",
+   "en": "It's useless!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05778",
+   "en": "Like that'll hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05779",
+   "en": "You won't hit me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05780",
+   "en": "Dodged it... Moving to the next action!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05781",
+   "en": "Feels good. My reaction speed is going up!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05782",
+   "en": "Looks like the apogee motor tuning is working out.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05783",
+   "en": "That won't work on me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05784",
+   "en": "Not from this much!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05785",
+   "en": "Don't mock me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05786",
+   "en": "Deploying the I-Field!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05787",
+   "en": "Using the I-Field barrier!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05788",
+   "en": "Fin Funnels, deploy!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05789",
+   "en": "Fin Funnels can be used like this, too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05790",
+   "en": "I'll knock it down with my Beam Saber!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05791",
+   "en": "I'll shoot them all down!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05792",
+   "en": "I see you! There!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05793",
+   "en": "I won't let you break through here!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05794",
+   "en": "Damn, out of ammo!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05795",
+   "en": "Ngh! Not at this range!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05796",
+   "en": "Looks like I need to back them up...!",
+   "notes": "",
+   "uncertain": [
+    "Source has no object; read as Amuro deciding an ally needs support. Unnamed ally rendered as gender-neutral them."
+   ]
+  },
+  {
+   "id": "q05797",
+   "en": "I can attack from here too... Go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05798",
+   "en": "Not yet, here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05799",
+   "en": "I can still go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05800",
+   "en": "Kamille, fall back! I'll handle the rest!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05801",
+   "en": "Judau, leave the rest to me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05802",
+   "en": "Let's keep it up, Bright!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05803",
+   "en": "I'll take care of this! Fall back while you can!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05804",
+   "en": "What are you doing! You'll get shot down like that!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05805",
+   "en": "I'll draw the enemy's fire! Regroup!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05806",
+   "en": "From here on!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05807",
+   "en": "I'll take care of this!",
+   "notes": "",
+   "uncertain": [
+    "Support-defend line ('I'll look after this'); rendered as 'I'll take care of this!' same as row 344 opener."
+   ]
+  },
+  {
+   "id": "q05808",
+   "en": "That was careless, Kamille!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05809",
+   "en": "You're too far forward, Judau!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05810",
+   "en": "Bright, you're too far forward!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05811",
+   "en": "You can't dodge this combination!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05812",
+   "en": "Don't let the target escape!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05813",
+   "en": "Let's attack all at once!!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05814",
+   "en": "With this!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05815",
+   "en": "I'll hit it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05816",
+   "en": "I'm in the enemy's range... Here I go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05817",
+   "en": "If I can just stop its movements!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05818",
+   "en": "If I get in close, it can't attack me!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05819",
+   "en": "I should be able to handle melee combat, too!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05820",
+   "en": "Closing the distance, I'm going in close!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05821",
+   "en": "Locked on... High Mega Launcher, go!",
+   "notes": "",
+   "uncertain": [
+    "High Mega Launcher in Amuro's set too; same literal name as Roux's."
+   ]
+  },
+  {
+   "id": "q05822",
+   "en": "High-output mode... Go!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05823",
+   "en": "With my firepower, I should be able to finish it!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05824",
+   "en": "Allies, fall back! I'm firing the High Mega Cannon!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05825",
+   "en": "If I don't finish it in one shot, my allies will be hurt...!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05826",
+   "en": "Engaging in close combat!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05827",
+   "en": "With the Fin Funnels, I can win!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05828",
+   "en": "Fin Funnels... the target is the enemy ahead!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05829",
+   "en": "There! Fin Funnels!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05830",
+   "en": "Hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05831",
+   "en": "Here it comes!? There!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05832",
+   "en": "It's in range... I can attack!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05833",
+   "en": "Your evasion is slow! I'll score a direct hit!",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": "q05834",
+   "en": "So you've come forward... Then!",
+   "notes": "",
+   "uncertain": []
+  }
+ ]
+}

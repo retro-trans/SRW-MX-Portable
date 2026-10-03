@@ -1,0 +1,47 @@
+{
+ "terms": [
+  {
+   "jp": "Ｊカイザー",
+   "en": "J-Kaiser",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://www.goodsmile.com/en/product/6968/MODEROID%2BGreat%2BZeorymer",
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row173 game orthographic alias of existing main ジェイ・カイザー=J-Kaiser; main notes already identify this spelling. No exact Akurasu entry found; official licensed Good Smile English product description corroborates J-Kaiser attack spelling. Do not import Great Zeorymer mechanics or English dialogue."
+  },
+  {
+   "jp": "インクレメントゥム",
+   "en": "Incrementum",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ラテン語",
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row473 named activation process; Latin spelling corroborated by Japanese SRW wiki MX Latin table after no exact Akurasu entry found. Retain source process name rather than replacing with growth or adding mechanics. Independently licensed English dialogue wording unverified."
+  },
+  {
+   "jp": "マルティプリケイション",
+   "en": "multiplication",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row471 technical command component, transparent return of English loanword. No exact Akurasu entry or independently licensed English command located; do not infer omitted software structure or separate mechanics."
+  },
+  {
+   "jp": "エヴォリューション",
+   "en": "evolution",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row471 technical command component, transparent English loanword. No independently licensed English command wording established; scoped to source command, no mechanics added."
+  },
+  {
+   "jp": "フィギュアイメージ",
+   "en": "figure image",
+   "sources": [
+    "work/translation/en/script/stage28_campaign.json"
+   ],
+   "notes": "Stage28 row473 technical command label, transparent loanword rendering. Retain label instead of guessing form template/physical design/model structure. Exact Akurasu or independently licensed English label unverified."
+  }
+ ]
+}

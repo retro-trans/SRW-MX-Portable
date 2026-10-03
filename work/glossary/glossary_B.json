@@ -1,0 +1,5297 @@
+{
+ "group": "B",
+ "series": [
+  {
+   "jp": "ＧＥＡＲ戦士電童",
+   "en": "GEAR Fighter Dendoh",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ]
+  },
+  {
+   "jp": "機動戦艦ナデシコ",
+   "en": "Martian Successor Nadesico",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ]
+  },
+  {
+   "jp": "劇場版　機動戦艦ナデシコ",
+   "en": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Prince_of_Darkness"
+   ]
+  },
+  {
+   "jp": "冥王計画ゼオライマー",
+   "en": "Hades Project Zeorymer",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ]
+  }
+ ],
+ "characters": [
+  {
+   "jp_full": "アオイ・ジュン",
+   "jp_short": "アオイ・ジュン",
+   "reading": "ジュン",
+   "en_full": "Jun Aoi",
+   "en_short": "Jun",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "good-natured, capable at work, weak with women, constantly overlooked",
+   "position": "Commander (Space Force); captain of the battleship Amaryllis; formerly first officer of Nadesico",
+   "affiliation": "United Earth Space Force (UESF), 3rd Fleet",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Jun_Aoi"
+   ],
+   "notes": "Game text calls him a Space Force lieutenant colonel; Wikipedia says Commander. Game text says he was childhood friend of Yurika."
+  },
+  {
+   "jp_full": "アカツキ・ナガレ",
+   "jp_short": "アカツキ",
+   "reading": "アカツキ",
+   "en_full": "Nagare Akatsuki",
+   "en_short": "Akatsuki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "self-serving, ruthless in pursuit of goals, ace pilot",
+   "position": "Chairman of Nergal Heavy Industries; Aestivalis pilot",
+   "affiliation": "Nergal Heavy Industries",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Nagare_Akatsuki",
+    "https://nadesico.fandom.com/wiki/Aestivalis_Akatsuki_Custom"
+   ],
+   "notes": "Gender from Wikipedia list (uses \"he\"). Short name in game is the surname only."
+  },
+  {
+   "jp_full": "アズマ准将",
+   "jp_short": "アズマ",
+   "reading": "アズマ",
+   "en_full": "Brigadier General Azuma",
+   "en_short": "Azuma",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-headed, loses sight of his surroundings, not a capable commander",
+   "position": "Brigadier General; security chief of Amaterasu colony",
+   "affiliation": "Unified Forces (Joint Peacekeeping Forces)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in both the Japanese and the English casts); no prose source states it. Given name unknown. JA wiki: voiced by Shozo Iizuka; EN dub: Matt Culpepper."
+  },
+  {
+   "jp_full": "アブゾルート",
+   "jp_short": "アブゾルート",
+   "reading": "アブゾルート",
+   "en_full": "Absolute",
+   "en_short": "Absolute",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "leader of the three chips; speaks with \"dawa\" endings",
+   "position": "Chip (probe copy) of Giga Absolute",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "JA wiki: Galfa machines have no gender. Chip uses feminine first-person \"atashi\" and \"dawa\"."
+  },
+  {
+   "jp_full": "アマノ・ヒカル",
+   "jp_short": "ヒカル",
+   "reading": "ヒカル",
+   "en_full": "Hikaru Amano",
+   "en_short": "Hikaru",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, friendly, otaku (manga/anime/doujin)",
+   "position": "Aestivalis pilot (one of the three-girl pilot team); manga artist",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Hikaru_Amano"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "アルテア",
+   "jp_short": "アルテア",
+   "reading": "アルテア",
+   "en_full": "Altair",
+   "en_short": "Altair",
+   "nicknames": [
+    "Black Knight"
+   ],
+   "gender": "male",
+   "personality": "proud, elite fighter; gentle brother before memory manipulation",
+   "position": "Pilot of Knight Gear Oger; guard captain of Emperor Galfa; Prince of Alktos",
+   "affiliation": "Galfa, later GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Spelling variants: Altair (SRW wiki/Akurasu R DB), Arthea (Wikipedia), Althea (ANN). Brother of Vega. JA wiki states 実兄."
+  },
+  {
+   "jp_full": "イネス・フレサンジュ",
+   "jp_short": "イネス",
+   "reading": "イネス",
+   "en_full": "Inez Fressange",
+   "en_short": "Inez",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "brilliant, loves explaining everything",
+   "position": "Medical and science officer; Class A Jumper",
+   "affiliation": "Nergal / ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Inez_Fressange"
+   ],
+   "notes": "Spelling \"Inez\" follows the English dub and SRW V; Japanese is Ines."
+  },
+  {
+   "jp_full": "ウィッター",
+   "jp_short": "ウィッター",
+   "reading": "ウィッター",
+   "en_full": "Witter",
+   "en_short": "Witter",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "least dutiful and quickly bored; speaks with \"jan\" endings",
+   "position": "Chip of Giga Witter",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ウリバタケ・セイヤ",
+   "jp_short": "ウリバタケ",
+   "reading": "ウリバタケ",
+   "en_full": "Seiya Uribatake",
+   "en_short": "Uribatake",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "eccentric hobbyist, genius mechanic",
+   "position": "Chief mechanic",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Seiya_Uribatake"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "エリス・ウィラメット",
+   "jp_short": "エリス",
+   "reading": "エリス",
+   "en_full": "Eris Willamette",
+   "en_short": "Eris",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "kind, animal lover, mature for her age; child prodigy",
+   "position": "Chief data weapon analyst",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Spelling variants: Eris (ANN, kana), Elise (Wikipedia)."
+  },
+  {
+   "jp_full": "エリナ・キンジョウ・ウォン",
+   "jp_short": "エリナ",
+   "reading": "エリナ",
+   "en_full": "Erina Kinjo Won",
+   "en_short": "Erina",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "career-minded, abrasive toward the crew",
+   "position": "Secretary to the Nergal chairman; former co-helmswoman of Nadesico",
+   "affiliation": "Nergal Heavy Industries",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Erina_Kinjo_Won",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "オモイカネ",
+   "jp_short": "オモイカネ",
+   "reading": "オモイカネ",
+   "en_full": "Omoikane",
+   "en_short": "Omoikane",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "has a kind of self-awareness; friendly toward Ruri",
+   "position": "Central computer of the Nadesico ships (SVC2027)",
+   "affiliation": "Nergal / Nadesico",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Named after the deity Omoikane (Omoikane-no-kami) of Japanese mythology."
+  },
+  {
+   "jp_full": "ガトリングボア",
+   "jp_short": "ガトリングボア",
+   "reading": "ガトリングボア",
+   "en_full": "Gatling Boar",
+   "en_short": "Gatling Boar",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "impulsive, clumsy, leader of the data weapons",
+   "position": "Data weapon (boar, \"Creation\", attribute Light)",
+   "affiliation": "GEAR (Ginga's partner)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Program life form; JA wiki gives English names in parentheses."
+  },
+  {
+   "jp_full": "ガルファ皇帝",
+   "jp_short": "ガルファ皇帝",
+   "reading": "ガルファコウテイ",
+   "en_full": "Emperor Galfa",
+   "en_short": "Galfa Emperor",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "ruthless toward subordinates; seeks to exterminate humanity",
+   "position": "Emperor of the Galfa Empire",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Machine life form; Wikipedia refers to it as \"he\". Wikipedia uses both \"Emperor Galfa\" and \"Galfa Emperor\"."
+  },
+  {
+   "jp_full": "グルメイ",
+   "jp_short": "グルメイ",
+   "reading": "グルメイ",
+   "en_full": "Gourmet",
+   "en_short": "Gourmet",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "most sensible tactician of the chips; speaks with \"bari\" endings",
+   "position": "Chip of Giga Gourmet",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Wikipedia spells it \"Gourmet\"; Akurasu \"Gourmet\" in the R database."
+  },
+  {
+   "jp_full": "ゴート・ホーリー",
+   "jp_short": "ゴート",
+   "reading": "ゴート",
+   "en_full": "Goat Hoary",
+   "en_short": "Goat",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "taciturn, honest, strong",
+   "position": "Former battle leader of Nadesico; Nergal Secret Service member",
+   "affiliation": "Nergal Secret Service",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Goat_Hory"
+   ],
+   "notes": "English dub/Wikipedia: Goat Hoary; the Nadesico fandom page title is \"Goat Hory\"."
+  },
+  {
+   "jp_full": "シンジョウ・アリトモ",
+   "jp_short": "シンジョウ",
+   "reading": "シンジョウ",
+   "en_full": "Aritomo Shinjo",
+   "en_short": "Shinjo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "deceptive, hides a second face",
+   "position": "Unified Forces lieutenant colonel; number two of the Martian Successors",
+   "affiliation": "Unified Forces / Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in both the Japanese and the English casts); no prose source states it. English dub credit spells the surname \"Shinjyuu\"."
+  },
+  {
+   "jp_full": "シ・アエン",
+   "jp_short": "シ・アエン",
+   "reading": "シアエン",
+   "en_full": "Si Aen",
+   "en_short": "Aen",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "calm, disciplined; loves her sister",
+   "position": "Hakke pilot of Bryst of the Fire; elder twin",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Akurasu writes Shi-Aen. Twin sister of Si Tau."
+  },
+  {
+   "jp_full": "シ・タウ",
+   "jp_short": "シ・タウ",
+   "reading": "シタウ",
+   "en_full": "Si Tau",
+   "en_short": "Tau",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "emotional, strong inferiority complex toward her sister",
+   "position": "Hakke pilot of Gallowin of the Water; younger twin",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "スバル",
+   "jp_short": "スバル",
+   "reading": "スバル",
+   "en_full": "Subaru",
+   "en_short": "Subaru",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "emotionless, raised in the machine empire",
+   "position": "Prince of Galfa (as raised); spare pilot for Knight Gear Oger",
+   "affiliation": "Galfa, later GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "スバル・リョーコ",
+   "jp_short": "リョーコ",
+   "reading": "リョーコ",
+   "en_full": "Ryoko Subaru",
+   "en_short": "Ryoko",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "tomboyish, calls herself \"ore\"",
+   "position": "Aestivalis pilot; lieutenant of the Unified Forces; pilot instructor and squadron leader",
+   "affiliation": "Unified Forces",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Ryoko_Subaru"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ゼロ",
+   "jp_short": "ゼロ",
+   "reading": "ゼロ",
+   "en_full": "Zero",
+   "en_short": "Zero",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "polite, high-ranking, fights in melee with an extendable staff",
+   "position": "Galfa supreme officer; right-hand of Emperor Galfa",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": "Program body that appears as a bald man in a white suit; JA wiki describes the human form as male."
+  },
+  {
+   "jp_full": "タカスギ・サブロウタ",
+   "jp_short": "サブロウタ",
+   "reading": "サブロウタ",
+   "en_full": "Saburota Takasugi",
+   "en_short": "Saburota",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "flippant on the surface, honest underneath",
+   "position": "First lieutenant (game: captain); first officer/tactical officer of Nadesico B",
+   "affiliation": "United Earth Space Force",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Saburouta_Takasugi",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V"
+   ],
+   "notes": "Wikipedia: Saburota Takasugi; fandom/SRW V: Saburouta. Game text says Captain, Wikipedia says First Lieutenant (rank discrepancy)."
+  },
+  {
+   "jp_full": "テンカワ・アキト",
+   "jp_short": "アキト",
+   "reading": "アキト",
+   "en_full": "Akito Tenkawa",
+   "en_short": "Akito",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cold and cool since the war; once indecisive and naive",
+   "position": "Class A Jumper; Black Sarena pilot",
+   "affiliation": "Nergal-supported",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Akito_Tenkawa"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ドクター井上",
+   "jp_short": "井上博士",
+   "reading": "イノウエハカセ",
+   "en_full": "Dr. Inoue",
+   "en_short": "Dr. Inoue",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hero-loving, brilliant designer",
+   "position": "Chief hardware designer",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in the Japanese cast (voice Yasuhiro Takato)); no prose source states it. JA wiki: 32 years old, formerly worked at a toy company."
+  },
+  {
+   "jp_full": "ドラゴンフレア",
+   "jp_short": "ドラゴンフレア",
+   "reading": "ドラゴンフレア",
+   "en_full": "Dragon Flare",
+   "en_short": "Dragon Flare",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "calm, hard to please, learned, loner",
+   "position": "Data weapon (dragon, \"Compassion\", Flame)",
+   "affiliation": "GEAR (Hokuto's partner)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ハルカ・ミナト",
+   "jp_short": "ミナト",
+   "reading": "ミナト",
+   "en_full": "Minato Haruka",
+   "en_short": "Minato",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "sensual yet intelligent and accommodating",
+   "position": "Helmswoman of Nadesico; maths teacher after the war",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Minato_Haruka"
+   ],
+   "notes": "Haruka is the family name, Minato the given name (hence Minato Haruka in Western order)."
+  },
+  {
+   "jp_full": "バイパーウィップ",
+   "jp_short": "バイパーウィップ",
+   "reading": "バイパーウィップ",
+   "en_full": "Viper Whip",
+   "en_short": "Viper Whip",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "delicate, shrewd, inscrutable; the schemer",
+   "position": "Data weapon (cobra, \"Confidence\", Lightning)",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "フェニックスエール",
+   "jp_short": "フェニックスエール",
+   "reading": "フェニックス",
+   "en_full": "Phoenix Alae",
+   "en_short": "Phoenix Alae",
+   "nicknames": [
+    "Phoenix"
+   ],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "guardian spirit; hid in Hokuto's mind",
+   "position": "Data weapon (phoenix, \"Hope\", Rainbow)",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Spelling \"Alae\" from JA/EN Wikipedia; Akurasu writes \"Aile\". Short name in game is just フェニックス."
+  },
+  {
+   "jp_full": "ブルホーン",
+   "jp_short": "ブルホーン",
+   "reading": "ブルホーン",
+   "en_full": "Bull Horn",
+   "en_short": "Bull Horn",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "quiet, but uncontrollable when angry; strongest",
+   "position": "Data weapon (buffalo, \"Wisdom\", Earth)",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "プロスペクター",
+   "jp_short": "プロスペクター",
+   "reading": "プロスペクター",
+   "en_full": "Prospector",
+   "en_short": "Prospector",
+   "nicknames": [
+    "Mr. Prospector"
+   ],
+   "gender": "male",
+   "personality": "cost-conscious; pen name, real name unknown",
+   "position": "Nergal overseer and accountant; recruiter of the Nadesico crew",
+   "affiliation": "Nergal Heavy Industries",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Prospector",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ベガ",
+   "jp_short": "ベガ",
+   "reading": "ベガ",
+   "en_full": "Vega",
+   "en_short": "Vega",
+   "nicknames": [
+    "Orie Kusanagi (alias)"
+   ],
+   "gender": "female",
+   "personality": "strict commander with a clumsy side",
+   "position": "Deputy commander of GEAR; princess of Alktos",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": "Wears a mask. Also lives as Orie Kusanagi (Hokuto's mother); JA wiki says both are the same person."
+  },
+  {
+   "jp_full": "ホウメイ",
+   "jp_short": "ホウメイ",
+   "reading": "ホウメイ",
+   "en_full": "Houmei",
+   "en_short": "Houmei",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "master cook, motherly",
+   "position": "Head chef of Nadesico A; later runs the diner \"Hibi Heion\"",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Howmei",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Variant: \"Howmei\" (English dub, Wikipedia, Nadesico fandom). Chosen spelling follows kana ホウメイ."
+  },
+  {
+   "jp_full": "ホシノ・ルリ",
+   "jp_short": "ルリ",
+   "reading": "ルリ",
+   "en_full": "Ruri Hoshino",
+   "en_short": "Ruri",
+   "nicknames": [
+    "Electronic Fairy",
+    "Cyber Fairy",
+    "Ruri-Ruri"
+   ],
+   "gender": "female",
+   "personality": "cool, genius computer operator",
+   "position": "Captain of Nadesico B (and C), Lieutenant Commander",
+   "affiliation": "United Earth Space Force",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Ruri_Hoshino"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "マキビ・ハリ",
+   "jp_short": "ハーリー",
+   "reading": "ハーリー",
+   "en_full": "Hari Makibi",
+   "en_short": "Hari",
+   "nicknames": [
+    "Harry"
+   ],
+   "gender": "male",
+   "personality": "bright, emotional, excellent operator",
+   "position": "Ensign; assistant first officer of Nadesico B",
+   "affiliation": "United Earth Space Force",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Hari_Makibi",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V"
+   ],
+   "notes": "The game short name is the nickname ハーリー (Harii). SRW V text uses \"Harry\"."
+  },
+  {
+   "jp_full": "マキ・イズミ",
+   "jp_short": "イズミ",
+   "reading": "イズミ",
+   "en_full": "Izumi Maki",
+   "en_short": "Izumi",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "quiet, incorrigible punster",
+   "position": "Aestivalis pilot; bar hostess after the war",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Izumi_Maki"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ミスマル・コウイチロウ",
+   "jp_short": "ミスマル",
+   "reading": "ミスマル",
+   "en_full": "Koichiro Misumaru",
+   "en_short": "Misumaru",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "doting father, capable officer",
+   "position": "Commander-in-chief (Admiral) of the Space Force",
+   "affiliation": "United Earth Space Force",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Kouichiro_Misumaru",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Fandom/SRW V spelling: Kouichiro Misumaru."
+  },
+  {
+   "jp_full": "ミスマル・ユリカ",
+   "jp_short": "ユリカ",
+   "reading": "ユリカ",
+   "en_full": "Yurika Misumaru",
+   "en_short": "Yurika",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cheerful, airheaded but a strategy genius",
+   "position": "Captain of Nadesico A",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Yurika_Misumaru"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "メグミ・レイナード",
+   "jp_short": "メグミ",
+   "reading": "メグミ",
+   "en_full": "Megumi Reinard",
+   "en_short": "Megumi",
+   "nicknames": [
+    "Megu-nee",
+    "Megu-tan"
+   ],
+   "gender": "female",
+   "personality": "cheerful, former voice actress",
+   "position": "Communications officer of Nadesico; voice actress/idol after the war",
+   "affiliation": "ex-Nadesico crew",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Megumi_Reinard"
+   ],
+   "notes": "Nicknames 「めぐ姉」「めぐたん」 are given in the game text."
+  },
+  {
+   "jp_full": "メテオ",
+   "jp_short": "メテオ",
+   "reading": "メテオ",
+   "en_full": "Meteo",
+   "en_short": "Meteo",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "chess-capable supercomputer",
+   "position": "Central computer of GEAR headquarters",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ヤマサキ・ヨシオ",
+   "jp_short": "ヤマサキ",
+   "reading": "ヤマサキ",
+   "en_full": "Yoshio Yamasaki",
+   "en_short": "Yamasaki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "aloof, eccentric scientist",
+   "position": "Deputy director of the Colony Development Corporation; Boson Jump research chief of the Martian Successors",
+   "affiliation": "Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in both the Japanese and the English casts); no prose source states it. Spelling follows the English dub credit (\"Yamasaki\")."
+  },
+  {
+   "jp_full": "ユニコーンドリル",
+   "jp_short": "ユニコーンドリル",
+   "reading": "ユニコーンドリル",
+   "en_full": "Unicorn Drill",
+   "en_short": "Unicorn Drill",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "curious, friendly",
+   "position": "Data weapon (unicorn, \"Trust\", Whirl)",
+   "affiliation": "GEAR (Hokuto's first)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ラゴウ",
+   "jp_short": "ラゴウ",
+   "reading": "ラゴウ",
+   "en_full": "Lagowe",
+   "en_short": "Lagowe",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "savage pet",
+   "position": "Pet of Emperor Galfa (space creature that eats machines)",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Wikipedia text uses \"Lagou\" in places and \"Lagowe\" in episode title and Akurasu MX list."
+  },
+  {
+   "jp_full": "ラピス・ラズリ",
+   "jp_short": "ラピス",
+   "reading": "ラピス",
+   "en_full": "Lapis Lazuli",
+   "en_short": "Lapis",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "expressionless, mysterious",
+   "position": "Operator; operator of the Eucharis",
+   "affiliation": "Nergal / Akito Tenkawa",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ルラーン",
+   "jp_short": "ルラーン",
+   "reading": "ルラーン",
+   "en_full": "Rularn",
+   "en_short": "Rularn",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "timid but speaks his mind",
+   "position": "Engineer who developed the Hakke robots",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer",
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in the Japanese and English casts (Mahito Tsujimura; Mike Pollock)); no prose source states it. Variants: Rularn (SRW wiki, fandom), Lurahn (Wikipedia cast), Luhran (Akurasu)."
+  },
+  {
+   "jp_full": "レオサークル",
+   "jp_short": "レオサークル",
+   "reading": "レオサークル",
+   "en_full": "Leo Circle",
+   "en_short": "Leo Circle",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "easygoing, sleepy, likes girls",
+   "position": "Data weapon (lion, \"Courage\", Wind)",
+   "affiliation": "GEAR (Ginga's partner)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "ロクフェル",
+   "jp_short": "ロクフェル",
+   "reading": "ロクフェル",
+   "en_full": "Rockfell",
+   "en_short": "Rockfell",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "passionate; secretly loves Saiga",
+   "position": "Hakke pilot of Dinodilus of the Earth",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Game text calls her a female warrior (女戦士)."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "Artificial Intelligence",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "n/a",
+   "position": "generic AI entry",
+   "affiliation": "n/a",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters"
+   ],
+   "notes": "Generic placeholder (AI). Not a named character."
+  },
+  {
+   "jp_full": "人工知能",
+   "jp_short": "人工知能",
+   "reading": "ジンコウチノウ",
+   "en_full": "Artificial Intelligence",
+   "en_short": "AI",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "n/a",
+   "position": "generic AI entry",
+   "affiliation": "n/a",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Generic placeholder (AI). Not a named character."
+  },
+  {
+   "jp_full": "出雲みどり",
+   "jp_short": "みどり",
+   "reading": "ミドリ",
+   "en_full": "Midori Izumo",
+   "en_short": "Midori",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "upright, intolerant of injustice; strict teacher",
+   "position": "Mother of Ginga and Otome; Shorinji Kempo instructor",
+   "affiliation": "civilian",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "出雲乙女",
+   "jp_short": "乙女",
+   "reading": "オトメ",
+   "en_full": "Otome Izumo",
+   "en_short": "Otome",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "tomboyish yet sharp",
+   "position": "Ginga's younger sister",
+   "affiliation": "civilian",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Calls Ginga \"Gin-nii\" (nickname for her brother). JA wiki says age 4, game text says 3."
+  },
+  {
+   "jp_full": "出雲銀河",
+   "jp_short": "銀河",
+   "reading": "ギンガ",
+   "en_full": "Ginga Izumo",
+   "en_short": "Ginga",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-blooded, straightforward, acts before thinking",
+   "position": "Dendoh pilot (blue Gear Commander, right chest); fifth grader",
+   "affiliation": "GEAR / Hoshimi Elementary",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "北辰",
+   "jp_short": "北辰",
+   "reading": "ホクシン",
+   "en_full": "Hokushin",
+   "en_short": "Hokushin",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cold-blooded, ruthless; takes pleasure in torturing Akito",
+   "position": "Leader of Hokushin's Six; assassin",
+   "affiliation": "Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)"
+   ],
+   "notes": "Wikipedia: \"He is killed at the end of the movie\". Piloted the Yatenko."
+  },
+  {
+   "jp_full": "北辰衆",
+   "jp_short": "北辰衆",
+   "reading": "ホクシンシュウ",
+   "en_full": "Hokushin's Six",
+   "en_short": "Hokushin's Six",
+   "nicknames": [
+    "Hokushinshu"
+   ],
+   "gender": "unknown",
+   "personality": "assassins who fight in teamwork",
+   "position": "Members of the assassination squad led by Hokushin",
+   "affiliation": "Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "A group; individual members are not named. JA wiki: 北辰六人衆, EN dub credit: \"Hokushin's Six\"."
+  },
+  {
+   "jp_full": "吉良国進",
+   "jp_short": "吉良国",
+   "reading": "キラクニ",
+   "en_full": "Susumu Kirakuni",
+   "en_short": "Kirakuni",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hero fan, skilled at clay-pigeon shooting",
+   "position": "GEAR pilot/support (Cell Fighter pilot)",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": "Surname is Kirakuni (吉良国), given name Susumu (進); the game truncates the short name to 吉良国. ANN spells it \"Susumu Kirakuni\"."
+  },
+  {
+   "jp_full": "塞臥",
+   "jp_short": "塞臥",
+   "reading": "サイガ",
+   "en_full": "Saiga",
+   "en_short": "Saiga",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cold ambitious; contemptuous of Yuratei",
+   "position": "Hakke pilot of Omzack of the Thunder",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in the Japanese and English casts (Kaneto Shiozawa; Michael Sinterniklaas)); no prose source states it. "
+  },
+  {
+   "jp_full": "幽羅帝",
+   "jp_short": "幽羅帝",
+   "reading": "ユウラテイ",
+   "en_full": "Yuratei",
+   "en_short": "Yuratei",
+   "nicknames": [
+    "Empress Yuratei"
+   ],
+   "gender": "female",
+   "personality": "dignified in public, vulnerable in private",
+   "position": "Emperor (Empress) of Tekkoryu, age 20",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://akurasu.net/wiki/Hades_Project_Zeorymer"
+   ],
+   "notes": "Wikipedia: \"Empress Yuratei\". JA wiki: 鉄甲龍の長を務める女性."
+  },
+  {
+   "jp_full": "月臣元一朗",
+   "jp_short": "月臣",
+   "reading": "ツキオミ",
+   "en_full": "Genichiro Tsukiomi",
+   "en_short": "Tsukiomi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "poised, narcissistic; practitioner of Mokuren-style jujutsu",
+   "position": "Former Jovian elite-force officer; Nergal Secret Service member",
+   "affiliation": "Nergal Secret Service",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Genichirou_Tsukiomi",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "English dub and Wikipedia spell the surname \"Tsukuomi\"; kana and fandom say Tsukiomi."
+  },
+  {
+   "jp_full": "木原マサキ",
+   "jp_short": "マサキ",
+   "reading": "マサキ",
+   "en_full": "Masaki Kihara",
+   "en_short": "Masaki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cruel and cunning genius scientist",
+   "position": "Creator of Zeorymer and the Hakke robots (deceased; personality revives in Masato)",
+   "affiliation": "ex-Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Gender: Wikipedia (\"He dies shortly after handing Zeorymer...\") and JA wiki."
+  },
+  {
+   "jp_full": "機士ウィルス",
+   "jp_short": "ウィルス",
+   "reading": "ウィルス",
+   "en_full": "Machine Knight Virus",
+   "en_short": "Virus",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "highly intelligent; air-combat specialist",
+   "position": "One of the six great Machine Knights",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Wikipedia lists it as \"Professional Machine Virus\" (\"Virus\")."
+  },
+  {
+   "jp_full": "機士エラー",
+   "jp_short": "エラー",
+   "reading": "エラー",
+   "en_full": "Machine Knight Error",
+   "en_short": "Error",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "the last Machine Knight to survive the Final Attack",
+   "position": "One of the six great Machine Knights",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "機士バグ",
+   "jp_short": "バグ",
+   "reading": "バグ",
+   "en_full": "Machine Knight Bug",
+   "en_short": "Bug",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "tricky attacker",
+   "position": "One of the six great Machine Knights",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "機士ロック",
+   "jp_short": "ロック",
+   "reading": "ロック",
+   "en_full": "Machine Knight Lock",
+   "en_short": "Lock",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "explosive",
+   "position": "One of the six great Machine Knights",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "機将ギガアブゾルート",
+   "jp_short": "ギガアブゾルート",
+   "reading": "ギガアブゾルート",
+   "en_full": "Machine General Giga Absolute",
+   "en_short": "Giga Absolute",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "cool, cunning; liquid-metal body",
+   "position": "One of the three Machine Generals of Spiral Castle",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Ginga's nickname for him: \"pompous guy #3\"."
+  },
+  {
+   "jp_full": "機将ギガウィッター",
+   "jp_short": "ギガウィッター",
+   "reading": "ギガウィッター",
+   "en_full": "Machine General Giga Witter",
+   "en_short": "Giga Witter",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "proud, loves destruction",
+   "position": "One of the three Machine Generals of Spiral Castle",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Ginga's nickname for him: \"pompous kendama\"."
+  },
+  {
+   "jp_full": "機将ギガグルメイ",
+   "jp_short": "ギガグルメイ",
+   "reading": "ギガグルメイ",
+   "en_full": "Machine General Giga Gourmet",
+   "en_short": "Giga Gourmet",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "strict, disciplined soldier",
+   "position": "One of the three Machine Generals of Spiral Castle",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Ginga's nickname for him: \"pompous guy #2\"."
+  },
+  {
+   "jp_full": "氷室美久",
+   "jp_short": "美久",
+   "reading": "ミク",
+   "en_full": "Miku Himuro",
+   "en_short": "Miku",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "cool outwardly, kind within; superhuman physique",
+   "position": "Sub-pilot of Zeorymer",
+   "affiliation": "Last Guardian",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "沖功",
+   "jp_short": "沖",
+   "reading": "オキ",
+   "en_full": "Isao Oki",
+   "en_short": "Oki",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "calm, follows orders, wears sunglasses",
+   "position": "Government agent; head of Last Guardian",
+   "affiliation": "Japanese government (Last Guardian)",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27",
+    "https://akurasu.net/wiki/Hades_Project_Zeorymer"
+   ],
+   "notes": "Wikipedia spells it \"Isao Ooki\"; ANN and Akurasu \"Isao Oki\". JA wiki: 寡黙な男性."
+  },
+  {
+   "jp_full": "浅野愛子",
+   "jp_short": "愛子",
+   "reading": "アイコ",
+   "en_full": "Aiko Asano",
+   "en_short": "Aiko",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "talented, trendy-looking, beats Meteo at chess",
+   "position": "Operator at GEAR HQ; Cell Fighter sub-pilot",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "渋谷長官",
+   "jp_short": "渋谷長官",
+   "reading": "シブヤチョウカン",
+   "en_full": "Chief Shibuya",
+   "en_short": "Chief Shibuya",
+   "nicknames": [
+    "Director Shibuya"
+   ],
+   "gender": "male",
+   "personality": "warm, father figure to the young staff",
+   "position": "Head (commissioner) of GEAR",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": "ANN: \"Chief Shibuya\". The title 長官 could also be \"Director\" or \"Commissioner\"."
+  },
+  {
+   "jp_full": "火星の後継者",
+   "jp_short": "火星の後継者",
+   "reading": "カセイノコウケイシャ",
+   "en_full": "Martian Successors",
+   "en_short": "Martian Successors",
+   "nicknames": [],
+   "gender": "unknown",
+   "personality": "n/a (organization)",
+   "position": "Rebel faction",
+   "affiliation": "Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Martian_Successors"
+   ],
+   "notes": "Organization entry stored among the pilots."
+  },
+  {
+   "jp_full": "白鳥ユキナ",
+   "jp_short": "ユキナ",
+   "reading": "ユキナ",
+   "en_full": "Yukina Shiratori",
+   "en_short": "Yukina",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "energetic, headstrong",
+   "position": "High-school student; sister of Tsukumo Shiratori",
+   "affiliation": "Minato's household",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Yukina_Shiratori"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "祗鎗",
+   "jp_short": "祗鎗",
+   "reading": "ギソウ",
+   "en_full": "Gisou",
+   "en_short": "Gisou",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "quiet warrior; secretly loves Rockfell",
+   "position": "Hakke pilot of Burstone of the Mountains",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Game text calls him a man (男). Kanji is 祗鎗 in game; JA wiki writes 祇鎗."
+  },
+  {
+   "jp_full": "秋山源八郎",
+   "jp_short": "秋山",
+   "reading": "アキヤマ",
+   "en_full": "Genpachiro Akiyama",
+   "en_short": "Akiyama",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "bold yet calm, sharp",
+   "position": "Admiral of the United Space Force; Jovian officer; Hot-Blooded Coup leader",
+   "affiliation": "United Earth Space Force / Jovian Federation",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Gender taken from the cast listings (male voice actor in both the Japanese and the English casts); no prose source states it. Wikipedia has no page for him; JA wiki gives given name Genpachiro (げんぱちろう)."
+  },
+  {
+   "jp_full": "秋津マサト",
+   "jp_short": "マサト",
+   "reading": "マサト",
+   "en_full": "Masato Akitsu",
+   "en_short": "Masato",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "shy and gentle, but turns cruel when piloting",
+   "position": "Main pilot of Zeorymer, age 15",
+   "affiliation": "Last Guardian",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "耐爬",
+   "jp_short": "耐爬",
+   "reading": "タイハ",
+   "en_full": "Taiha",
+   "en_short": "Taiha",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "hot-hearted, straight-forward",
+   "position": "Hakke pilot of Lanstar of the Wind; lover of Yuratei",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "草壁春樹",
+   "jp_short": "草壁",
+   "reading": "クサカベ",
+   "en_full": "Haruki Kusakabe",
+   "en_short": "Kusakabe",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "idealistic, ruthless, devoted to justice",
+   "position": "Leader (chief) of the Martian Successors; former Jovian Lieutenant General",
+   "affiliation": "Martian Successors",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "草薙北斗",
+   "jp_short": "北斗",
+   "reading": "ホクト",
+   "en_full": "Hokuto Kusanagi",
+   "en_short": "Hokuto",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "smart, thoughtful, responsible",
+   "position": "Dendoh pilot (black Gear Commander, left chest); fifth grader",
+   "affiliation": "GEAR / Hoshimi Elementary",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=2211"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "草薙圭介",
+   "jp_short": "圭介",
+   "reading": "ケイスケ",
+   "en_full": "Keisuke Kusanagi",
+   "en_short": "Keisuke",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "steady, loves soccer",
+   "position": "News announcer of Nitto TV; Hokuto's father",
+   "affiliation": "civilian",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "草薙織絵",
+   "jp_short": "織絵",
+   "reading": "オリエ",
+   "en_full": "Orie Kusanagi",
+   "en_short": "Orie",
+   "nicknames": [
+    "Vega (alias)"
+   ],
+   "gender": "female",
+   "personality": "calm, athletic, sharp-minded",
+   "position": "Hokuto's mother; runs the cafe \"Polar\"; in truth Vega",
+   "affiliation": "civilian / GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "葎",
+   "jp_short": "葎",
+   "reading": "リツ",
+   "en_full": "Ritsu",
+   "en_short": "Ritsu",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "cool, resentful of Zeorymer; wants to be manly",
+   "position": "Hakke pilot of Rose C'est la vie of the Moon; masked",
+   "affiliation": "Tekkoryu",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": "Game text refers to Ritsu as 彼 (he) with a beautiful woman's face under the mask."
+  },
+  {
+   "jp_full": "螺旋城の主",
+   "jp_short": "螺旋城",
+   "reading": "ラセンジョウ",
+   "en_full": "Lord of Spiral Castle",
+   "en_short": "Spiral Castle",
+   "nicknames": [
+    "Oyakata-sama"
+   ],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "ruthless leader",
+   "position": "Giant computer and commander of Spiral Castle, called \"Oyakata-sama\"",
+   "affiliation": "Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Game short name is 螺旋城."
+  },
+  {
+   "jp_full": "西園寺",
+   "jp_short": "西園寺",
+   "reading": "サイオンジ",
+   "en_full": "Saionji",
+   "en_short": "Saionji",
+   "nicknames": [
+    "Minoru Saionji"
+   ],
+   "gender": "male",
+   "personality": "powerful behind-the-scenes figure",
+   "position": "Founder of GEAR; Hokuto's grandfather",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "JA wiki: Saionji Minoru, Hokuto's grandfather; uses a wheelchair."
+  },
+  {
+   "jp_full": "超獣王輝刃",
+   "jp_short": "輝刃",
+   "reading": "キバ",
+   "en_full": "Chojuuoh Kiba",
+   "en_short": "Kiba",
+   "nicknames": [],
+   "gender": "n/a (machine/AI etc.)",
+   "personality": "king of the data weapons (\"Friendship\")",
+   "position": "Data weapon (fusion of Unicorn Drill and Leo Circle)",
+   "affiliation": "GEAR",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp_full": "？？？",
+   "jp_short": "？？？",
+   "reading": "アキト",
+   "en_full": "???",
+   "en_short": "???",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "n/a",
+   "position": "unknown pilot (Akito)",
+   "affiliation": "n/a",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Akito_Tenkawa"
+   ],
+   "notes": "Hidden-name placeholder whose reading field is Akito (Akito Tenkawa)."
+  },
+  {
+   "jp_full": "？？？",
+   "jp_short": "？？？",
+   "reading": "ベガ",
+   "en_full": "???",
+   "en_short": "???",
+   "nicknames": [],
+   "gender": "female",
+   "personality": "n/a",
+   "position": "Mystery girl (Vega in her youth / Phoenix Alae in her form)",
+   "affiliation": "n/a",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Hidden-name placeholder whose reading is Vega; text says \"mysterious girl closely related to Dendoh\"."
+  },
+  {
+   "jp_full": "出雲源一",
+   "jp_short": "源一",
+   "reading": "ゲンイチ",
+   "en_full": "Genichi Izumo",
+   "en_short": "Genichi",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "adapts quickly to foreign cultures",
+   "position": "News correspondent; father of Ginga and Otome",
+   "affiliation": "civilian",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Not in the game pilot table; appears in library text. JA wiki: 銀河と乙女の父。"
+  },
+  {
+   "jp_full": "白鳥九十九",
+   "jp_short": "九十九",
+   "reading": "ツクモ",
+   "en_full": "Tsukumo Shiratori",
+   "en_short": "Tsukumo",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "sincere, stiff, innocent around women",
+   "position": "Jovian Yuto Corps major; pilot of Daitetsujin; brother of Yukina",
+   "affiliation": "Jovian Federation",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9",
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://nadesico.fandom.com/wiki/Yukina_Shiratori"
+   ],
+   "notes": "Not in the game pilot table; appears in library text. Assassinated at the peace talks. Wikipedia spells it Tsukumo (some fandom pages write Tsukomo)."
+  },
+  {
+   "jp_full": "ユキ",
+   "jp_short": "ユキ",
+   "reading": "ユキ",
+   "en_full": "Yuki Sugaya",
+   "en_short": "Yuki",
+   "nicknames": [
+    "Yuki-chan"
+   ],
+   "gender": "female",
+   "personality": "cute, ditzy idol",
+   "position": "Member of the idol group C-DRiVE",
+   "affiliation": "C-DRiVE",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Not in the game pilot table; appears in library text. JA wiki: 本名菅生ユキ（すがやユキ）. Game text calls her \"Yuki-chan\"."
+  },
+  {
+   "jp_full": "ジュピター",
+   "jp_short": "ジュピター",
+   "reading": "ジュピター",
+   "en_full": "Jupiter",
+   "en_short": "Jupiter",
+   "nicknames": [],
+   "gender": "male",
+   "personality": "loyal, large border collie",
+   "position": "Hokuto's pet dog",
+   "affiliation": "Kusanagi family",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Not in the game pilot table; appears in library text. JA wiki: 草薙家の雄の飼い犬."
+  }
+ ],
+ "units": [
+  {
+   "jp": "かぐらづき",
+   "en": "Kagurazuki",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_Federation",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Jovian Federation ship type (fandom lists Kagurazuki and Kannazuki)."
+  },
+  {
+   "jp": "エステバリスＣ・アキト",
+   "en": "Aestivalis Custom (Akito)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Spelling \"Aestivalis\" per Nadesico fandom/SRW wiki; Akurasu writes Aestevalis."
+  },
+  {
+   "jp": "エステバリスＣ・イズミ",
+   "en": "Aestivalis Custom (Izumi)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エステバリスＣ・ヒカル",
+   "en": "Aestivalis Custom (Hikaru)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エステバリスＣ・リョーコ",
+   "en": "Aestivalis Custom (Ryoko)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "カトンボ",
+   "en": "Katonbo",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_Federation",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Jovian piloted robot (\"dragonfly\")."
+  },
+  {
+   "jp": "ガトリングボア",
+   "en": "Gatling Boar",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガルファ皇帝",
+   "en": "Emperor Galfa",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ガルファ素体",
+   "en": "Galfa Soldier",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Wikipedia: \"Galfa Sotai ... Galfa Soldiers\"."
+  },
+  {
+   "jp": "ゲンゴロウ",
+   "en": "Gengorou",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Jovian unit; no other English source found."
+  },
+  {
+   "jp": "シャトル",
+   "en": "Shuttle",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Generic shuttle; translated."
+  },
+  {
+   "jp": "ジョロ",
+   "en": "Joro",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Jovian unit; no other English source found."
+  },
+  {
+   "jp": "セルファイター",
+   "en": "Cell Fighter",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "セルブースター",
+   "en": "Cell Booster",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "セルブースターバルハラ",
+   "en": "Cell Booster Valhalla",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ゼロ",
+   "en": "Zero",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ダイテツジン",
+   "en": "Daitetsujin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_Federation",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Tsukumo Shiratori's giant robot."
+  },
+  {
+   "jp": "ダイマジン",
+   "en": "Daimajin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_Federation",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Tsukiomi's giant robot."
+  },
+  {
+   "jp": "デンジン",
+   "en": "Denjin",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Akiyama's giant robot per JA wiki."
+  },
+  {
+   "jp": "ドラゴンフレア",
+   "en": "Dragon Flare",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ナデシコＢ",
+   "en": "Nadesico B",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/NS-955B_Nadesico_B",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ナデシコＣ",
+   "en": "Nadesico C",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/NS-966C_Nadesico_C",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Fandom page body says NS-996C but the page title says NS-966C."
+  },
+  {
+   "jp": "バイパーウィップ",
+   "en": "Viper Whip",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フェニックスエール",
+   "en": "Phoenix Alae",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Akurasu: Phoenix Aile."
+  },
+  {
+   "jp": "フルアーマー電童",
+   "en": "Full Armor Dendoh",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブラックサレナ",
+   "en": "Black Sarena",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Black_Sarena",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Akurasu/SRW wiki prose also writes \"Black Selena\"."
+  },
+  {
+   "jp": "ブルホーン",
+   "en": "Bull Horn",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ベクターゼロ",
+   "en": "Vector Zero",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ユニコーンドリル",
+   "en": "Unicorn Drill",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ラゴウ",
+   "en": "Lagowe",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レオサークル",
+   "en": "Leo Circle",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ワルキューレ",
+   "en": "Valkyrie",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Vega's motorcycle. Akurasu MX list typo \"Valkyrie\" vs. Walkure; Valkyrie chosen."
+  },
+  {
+   "jp": "六連",
+   "en": "Muzura",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Hokushin's Six mass-production unit; reading ムヅラ (Muzura). No English source found; romanized."
+  },
+  {
+   "jp": "凰牙・ドラゴンフレア",
+   "en": "Oger (Dragon Flare)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Official spelling is OGER, not OGRE (JA wiki footnote); Akurasu MX list writes Ogre."
+  },
+  {
+   "jp": "凰牙・バイパーウィップ",
+   "en": "Oger (Viper Whip)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "凰牙・フェニックスエール",
+   "en": "Oger (Phoenix Alae)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "凰牙・ブルホーン",
+   "en": "Oger (Bull Horn)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "凰牙・ユニコーンドリル",
+   "en": "Oger (Unicorn Drill)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "凰牙・輝刃",
+   "en": "Oger (Kiba)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "地のディノディロス",
+   "en": "Dinodilus of the Earth",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Akurasu: Dinodilos."
+  },
+  {
+   "jp": "夜天光",
+   "en": "Yatenko",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Hokushin's personal unit."
+  },
+  {
+   "jp": "天のゼオライマー",
+   "en": "Zeorymer of the Heavens",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=27"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "山のバーストン",
+   "en": "Burstone of the Mountains",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Akurasu: Burrstone."
+  },
+  {
+   "jp": "捕獲機獣",
+   "en": "Capture Machine Beast",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Wikipedia: \"Capture Machine Beast\"."
+  },
+  {
+   "jp": "新型バッタ",
+   "en": "New Model Batta",
+   "series": "機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Batta",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Batta = Jovian interceptor drone (\"grasshopper\")."
+  },
+  {
+   "jp": "月のローズセラヴィー",
+   "en": "Rose C'est la vie of the Moon",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機士ウィルス",
+   "en": "Machine Knight Virus",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Wikipedia: \"Professional Machine Virus\"."
+  },
+  {
+   "jp": "機士エラー",
+   "en": "Machine Knight Error",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機士バグ",
+   "en": "Machine Knight Bug",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機士レガシー",
+   "en": "Machine Knight Legacy",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機士ロック",
+   "en": "Machine Knight Lock",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機将ギガアブゾルート",
+   "en": "Machine General Giga Absolute",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機将ギガウィッター",
+   "en": "Machine General Giga Witter",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機将ギガグルメイ",
+   "en": "Machine General Giga Gourmet",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機獣オービトン",
+   "en": "Machine Beast Orbiton",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機獣ファイタス",
+   "en": "Machine Beast Fighters",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Wikipedia: \"Fightersu\"."
+  },
+  {
+   "jp": "欠番１",
+   "en": "Vacant Slot 1",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [],
+   "notes": "Placeholder unit slot (欠番 = missing number). No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "欠番２",
+   "en": "Vacant Slot 2",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [],
+   "notes": "Placeholder unit slot (欠番 = missing number). No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "水のガロウィン",
+   "en": "Gallowin of the Water",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "火のブライスト",
+   "en": "Bryst of the Fire",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Akurasu: Briest."
+  },
+  {
+   "jp": "積尸気",
+   "en": "Shishiki",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Movie unit (reading シシキ). No English source found; romanized."
+  },
+  {
+   "jp": "螺旋城の主",
+   "en": "Lord of Spiral Castle",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Akurasu R DB: \"Spiral City\"."
+  },
+  {
+   "jp": "超獣王　輝刃",
+   "en": "Chojuuoh Kiba",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "雷のオムザック",
+   "en": "Omzack of the Thunder",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・ガトリングボア",
+   "en": "Dendoh (Gatling Boar)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・ドラゴンフレア",
+   "en": "Dendoh (Dragon Flare)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・バイパーウィップ",
+   "en": "Dendoh (Viper Whip)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・フェニックスエール",
+   "en": "Dendoh (Phoenix Alae)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・ブルホーン",
+   "en": "Dendoh (Bull Horn)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・ユニコーンドリル",
+   "en": "Dendoh (Unicorn Drill)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・レオサークル",
+   "en": "Dendoh (Leo Circle)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "電童・輝刃",
+   "en": "Dendoh (Kiba)",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "風のランスター",
+   "en": "Lanstar of the Wind",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "騎士ＧＥＡＲ　凰牙",
+   "en": "Knight Gear Oger",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Oger (not Ogre) per JA wiki."
+  },
+  {
+   "jp": "高機動型ブラックサレナ",
+   "en": "High-Mobility Black Sarena",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Black_Sarena",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Wiki: \"High Mobility Black Selena\" in the SRW wiki."
+  },
+  {
+   "jp": "ＧＥＡＲ戦士　電童",
+   "en": "GEAR Fighter Dendoh",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Read \"Gear Fighter Dendoh\" (ギアファイターデンドー)."
+  },
+  {
+   "jp": "Ｓエステバリス・サブロウタ",
+   "en": "Super Aestivalis (Saburota)",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Super_Aestivalis",
+    "https://nadesico.fandom.com/wiki/Super_Robot_Wars_V"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファルゲン・マッフ",
+   "en": "Falguen MAFFU",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series unit (library entry 215). Meio Plato's Falguen fitted with a MAFFU unit."
+  },
+  {
+   "jp": "ヤクト・ゲルフ・マッフ",
+   "en": "Jagd Gelf MAFFU",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series unit (library entry 216). "
+  },
+  {
+   "jp": "レビ・ゲルフ・マッフ",
+   "en": "Reb Gelf MAFFU",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "Cross-series unit (library entry 217). "
+  },
+  {
+   "jp": "ドーラ",
+   "en": "Dolla",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Cross-series unit (library entry 218). Giganos localized-combat metal armor (Gandora / Geldora lower-part variants)."
+  },
+  {
+   "jp": "ダウツェン",
+   "en": "Dauzehn",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Cross-series unit (library entry 219). Wikipedia writes Dauzhen."
+  },
+  {
+   "jp": "ウォルターガンダム",
+   "en": "Walter Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 220). DG-infected Nobel Gundam; one of the Devil Gundam Four Heavenly Kings."
+  },
+  {
+   "jp": "ガンダムヘブンズソード",
+   "en": "Gundam Heaven's Sword",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 221). DG-infected Neros Gundam; one of the Four Heavenly Kings."
+  },
+  {
+   "jp": "グランドガンダム",
+   "en": "Grand Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 222). DG-infected John Bull Gundam; one of the Four Heavenly Kings."
+  },
+  {
+   "jp": "グランドマスターガンダム",
+   "en": "Grand Master Gundam",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 223). Rebuilt by the Devil Gundam from the data of the Four Heavenly Kings."
+  },
+  {
+   "jp": "デスアーミー",
+   "en": "Death Army",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 224). "
+  },
+  {
+   "jp": "デスバーディ",
+   "en": "Death Birdy",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "Cross-series unit (library entry 225). Flying Death Army variant."
+  },
+  {
+   "jp": "デビルガンダム（最終）",
+   "en": "Devil Gundam (Final Form)",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "Cross-series unit (library entry 226). Akurasu MX list: \"Devil Gundam (Final Form)\"."
+  },
+  {
+   "jp": "量産型グレート（１）",
+   "en": "Mass-Produced Great Mazinger (1)",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Great_Mazinger"
+   ],
+   "notes": "Cross-series unit (library entry 231). Akurasu MX list: \"Mass-produced Great Mazinger\" (from Gosaku Ota's manga)."
+  },
+  {
+   "jp": "合体百鬼ロボット",
+   "en": "Combined Hyakki Robot",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Cross-series unit (library entry 239). "
+  },
+  {
+   "jp": "メカ一角鬼",
+   "en": "Mecha Ikkakuki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Cross-series unit (library entry 240). "
+  },
+  {
+   "jp": "メカ大輪鬼",
+   "en": "Mecha Dairinki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Cross-series unit (library entry 241). Akurasu: Mecha Tairinki."
+  },
+  {
+   "jp": "メカ暴竜鬼",
+   "en": "Mecha Boryuki",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Cross-series unit (library entry 242). Akurasu: Mecha Bouryuki."
+  },
+  {
+   "jp": "メカ要塞鬼",
+   "en": "Mecha Fortress Demon",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "Cross-series unit (library entry 243). Fandom: Mecha Yosaiki (Fortress Demon); Akurasu: Mecha Yousaiki."
+  },
+  {
+   "jp": "円盤獣ギルギル",
+   "en": "Saucer Beast Girugiru",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Cross-series unit (library entry 244). Fix label 円盤獣ギルギル."
+  },
+  {
+   "jp": "円盤獣ジラジラ",
+   "en": "Saucer Beast Jirajira",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "Cross-series unit (library entry 245). Fix label 円盤獣ジラジラ."
+  }
+ ],
+ "weapons": [
+  {
+   "jp": "エネルギー波",
+   "en": "Energy Wave",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "JA wiki: ゼオライマーのエネルギー波 (D Blast in the manga)."
+  },
+  {
+   "jp": "エールブレード",
+   "en": "Alae Blade",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Phoenix Alae's blade; spelling follows the unit name Phoenix Alae."
+  },
+  {
+   "jp": "ガロウィン・ブリザード",
+   "en": "Gallowin Blizzard",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "キバストライカーＦＡ",
+   "en": "Kiba Striker FA",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "FA = Final Attack."
+  },
+  {
+   "jp": "キバスピナー",
+   "en": "Kiba Spinner",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "キバブレイカーＦＡ",
+   "en": "Kiba Breaker FA",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "FA = Final Attack."
+  },
+  {
+   "jp": "ギガリング",
+   "en": "Giga Ring",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. "
+  },
+  {
+   "jp": "クラッシャーファング",
+   "en": "Crusher Fang",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Viper Whip's fang weapon; translated."
+  },
+  {
+   "jp": "クラッシュホーン",
+   "en": "Crash Horn",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Probably Bull Horn / machine-beast attack."
+  },
+  {
+   "jp": "ストライクアロー",
+   "en": "Strike Arrow",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Kiba Striker's arrow technique (JA wiki: 技 ストライクアロー)."
+  },
+  {
+   "jp": "ディストーションアタック",
+   "en": "Distortion Attack",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Aestivalis / Nadesico distortion-field ram attack."
+  },
+  {
+   "jp": "ディストーションアタックＳ",
+   "en": "Distortion Attack S",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Variant for the high-mobility Black Sarena (S presumably \"Special\")."
+  },
+  {
+   "jp": "デンドーゴーガン",
+   "en": "Dendoh Go Gun",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Full Armor Dendoh weapon (homage to Raideen); translated."
+  },
+  {
+   "jp": "データウェポンＳＡ",
+   "en": "Data Weapon SA",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. SA presumably \"Special Attack\"."
+  },
+  {
+   "jp": "トゥインロード",
+   "en": "Twin Lord",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "SRW wiki Great Zeorymer page lists \"Twin Lords\"."
+  },
+  {
+   "jp": "ドラゴンブレード",
+   "en": "Dragon Blade",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ドリルホーン",
+   "en": "Drill Horn",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパーデンドーデンチ",
+   "en": "Hyper Dendoh Battery",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Pun on 電池 (battery); also called Hyper Dendo-Denchi."
+  },
+  {
+   "jp": "ハンドカノン",
+   "en": "Hand Cannon",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Black_Sarena"
+   ],
+   "notes": "Black Sarena's armament."
+  },
+  {
+   "jp": "ハンドガン",
+   "en": "Handgun",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Aestivalis handgun."
+  },
+  {
+   "jp": "ハンドブレード",
+   "en": "Hand Blade",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "バーニングブレス",
+   "en": "Burning Breath",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "パルスレーザー",
+   "en": "Pulse Laser",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "パワーファング",
+   "en": "Power Fang",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビーム",
+   "en": "Beam",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビームウイング",
+   "en": "Beam Wing",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビームガン",
+   "en": "Beam Gun",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビームキャノン",
+   "en": "Beam Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビームソード",
+   "en": "Beam Sword",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "Rose C'est la vie's energy sabers (JA wiki: Energy Saber) may be the in-game Beam Sword; generic name."
+  },
+  {
+   "jp": "ビームハーケン",
+   "en": "Beam Haken",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Generic beam weapon name (Haken = German \"hook\")."
+  },
+  {
+   "jp": "ビームライフル",
+   "en": "Beam Rifle",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ビーム砲",
+   "en": "Beam Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Distinct in game from ビームキャノン; both rendered \"Beam Cannon\". Disambiguate if needed (\"Beam Gun Cannon\")."
+  },
+  {
+   "jp": "フェニックスエールＦＡ",
+   "en": "Phoenix Alae FA",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "FA = Final Attack."
+  },
+  {
+   "jp": "フォトンキャノン",
+   "en": "Photon Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フォトンレーザー",
+   "en": "Photon Laser",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "フォーメーションアタック",
+   "en": "Formation Attack",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Team attack."
+  },
+  {
+   "jp": "フレア・ランチャー",
+   "en": "Flare Launcher",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブルブレイカー",
+   "en": "Bull Breaker",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ブレイカーソード",
+   "en": "Breaker Sword",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "プラズマ光弾マグラッシュ",
+   "en": "Plasma Bullet Magrash",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Bryst's shoulder weapon, JA wiki: 「マグラッシュ」."
+  },
+  {
+   "jp": "プロトン・サンダー",
+   "en": "Proton Thunder",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヘッドアタック",
+   "en": "Head Attack",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヘッドビーム",
+   "en": "Head Beam",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヘッドブラスター",
+   "en": "Head Blaster",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ボーンフーン",
+   "en": "Bonefoon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [],
+   "notes": "UNVERIFIED: could not identify this weapon; katakana transliteration only. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "マシンガン",
+   "en": "Machine Gun",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ミサイル",
+   "en": "Missile",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ミサイルポッド",
+   "en": "Missile Pod",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ミサイルランチャー",
+   "en": "Missile Launcher",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メイオウ攻撃",
+   "en": "Hades Attack",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Romanized: Meioh (Meiou) Attack; the SRW wiki and merchandise use \"Hades Attack\"."
+  },
+  {
+   "jp": "メガサーチャー・ビーム",
+   "en": "Mega Searcher Beam",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. "
+  },
+  {
+   "jp": "メジャー",
+   "en": "Measure",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Vega's tape-measure weapon (JA wiki: 特殊金属製メジャー)."
+  },
+  {
+   "jp": "メタルスパイク",
+   "en": "Metal Spike",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ラピッドライフル",
+   "en": "Rapid Rifle",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": "Aestivalis rapid rifle (SRW wiki, \"rapid rifle\")."
+  },
+  {
+   "jp": "ランサー",
+   "en": "Lancer",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Vector Zero's lancer."
+  },
+  {
+   "jp": "ルナ・ビーム",
+   "en": "Luna Beam",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. "
+  },
+  {
+   "jp": "ルナ・フラッシュ",
+   "en": "Luna Flash",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "レオクロー",
+   "en": "Leo Claw",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ロケットパンチ",
+   "en": "Rocket Punch",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヴァリアブルクロー",
+   "en": "Variable Claw",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Zero's weapon family; translated."
+  },
+  {
+   "jp": "ヴァリアブルロッド",
+   "en": "Variable Rod",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Zero's extendable staff."
+  },
+  {
+   "jp": "体当たり",
+   "en": "Ramming",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Black_Sarena"
+   ],
+   "notes": "Generic body-ram attack."
+  },
+  {
+   "jp": "地震",
+   "en": "Earthquake",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Dinodilus of the Earth's earthquake attack."
+  },
+  {
+   "jp": "多収束インパクトレーザー",
+   "en": "Multi-Convergence Impact Laser",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. "
+  },
+  {
+   "jp": "多連装ミサイルランチャー",
+   "en": "Multiple Missile Launcher",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Burstone's back-mounted launcher."
+  },
+  {
+   "jp": "大型ビームキャノン",
+   "en": "Large Beam Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "大型ミサイル",
+   "en": "Large Missile",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "大型レーザー",
+   "en": "Large Laser",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "大型レールカノン",
+   "en": "Large Rail Cannon",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Black_Sarena",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Aestivalis Custom (Ryoko) weapon per game library text."
+  },
+  {
+   "jp": "対艦ミサイル",
+   "en": "Anti-Ship Missile",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "核弾頭ミサイル",
+   "en": "Nuclear Warhead Missile",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Burstone's tactical nuclear missiles."
+  },
+  {
+   "jp": "格闘",
+   "en": "Melee Attack",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Generic."
+  },
+  {
+   "jp": "機関砲",
+   "en": "Machine Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Generic autocannon."
+  },
+  {
+   "jp": "次元連結砲",
+   "en": "Dimensional Coupler Cannon",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)",
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer"
+   ],
+   "notes": "JA 次元連結システム = \"Dimensional Coupler System\" (SRW wiki); Wikipedia calls the device \"Dimensional Joint\"."
+  },
+  {
+   "jp": "波動龍神撃",
+   "en": "Wave Dragon God Strike",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. JA wiki name (special program, underwater): 波動龍神撃 (Hadou Ryuujin Geki)."
+  },
+  {
+   "jp": "爆砕重落下",
+   "en": "Smashing Heavy Drop",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. JA wiki: GEAR leaps high and falls using gravity."
+  },
+  {
+   "jp": "疾風三連撃",
+   "en": "Gale Triple Strike",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Romaji: Shippuu Sanrengeki."
+  },
+  {
+   "jp": "疾風双連撃",
+   "en": "Gale Double Strike",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Romaji: Shippuu Sourengeki (not found on the wiki; presumed sibling of Shippuu Sanrengeki)."
+  },
+  {
+   "jp": "突進",
+   "en": "Charge",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Generic."
+  },
+  {
+   "jp": "超電童ヨーヨー",
+   "en": "Super Dendoh Yo-Yo",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Full Armor Dendoh weapon, homage to Combattler V's yo-yo."
+  },
+  {
+   "jp": "連射レーザー",
+   "en": "Rapid-Fire Laser",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "連射式キャノン",
+   "en": "Rapid-Fire Cannon",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "重力波砲",
+   "en": "Gravity Blast",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico",
+    "https://nadesico.fandom.com/wiki/NS-966C_Nadesico_C"
+   ],
+   "notes": "Nadesico's gravity blast cannon."
+  },
+  {
+   "jp": "錫杖",
+   "en": "Shakujo",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Ringed monk's staff carried by Hokushin's Yatenko (presumed); the in-game owner unconfirmed."
+  },
+  {
+   "jp": "閃光雷刃撃",
+   "en": "Flash Thunder Blade Strike",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. JA wiki writes 閃光雷迅撃 (Senkou Raijin Geki); the game uses 刃."
+  },
+  {
+   "jp": "雲噛・海鎚",
+   "en": "Kumogami and Minatsuchi",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Altair's twin swords (JA wiki: くもかみ / みなつち; game library text: くもがみ). Phoenix Alae's weapon form."
+  },
+  {
+   "jp": "電撃",
+   "en": "Electric Shock",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Generic."
+  },
+  {
+   "jp": "高熱体",
+   "en": "High-Temperature Body",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Machine Knight Lock heats its whole body (JA wiki)."
+  },
+  {
+   "jp": "１４連ミサイルポッド",
+   "en": "14-Tube Missile Pod",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Machine Knight Bias has a 14-tube rocket pod in each pectoral per Wikipedia."
+  },
+  {
+   "jp": "９連装ミサイルランチャー",
+   "en": "9-Tube Missile Launcher",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Full Armor Dendoh (JA wiki: 9連装ミサイル)."
+  },
+  {
+   "jp": "ＦＬガトリングボア",
+   "en": "FL Gatling Boar",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown (compare FA = Final Attack)."
+  },
+  {
+   "jp": "ＦＬドラゴンフレア",
+   "en": "FL Dragon Flare",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown."
+  },
+  {
+   "jp": "ＦＬバイパーウィップ",
+   "en": "FL Viper Whip",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown."
+  },
+  {
+   "jp": "ＦＬブルホーン",
+   "en": "FL Bull Horn",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown."
+  },
+  {
+   "jp": "ＦＬユニコーンドリル",
+   "en": "FL Unicorn Drill",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown."
+  },
+  {
+   "jp": "ＦＬレオサークル",
+   "en": "FL Leo Circle",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "No English source for this exact name; translated from the kanji/katakana. Meaning of FL unknown."
+  }
+ ],
+ "terms": [
+  {
+   "jp": "地球防衛組織ＧＥＡＲ",
+   "en": "GEAR (Guard Earth and Advanced Reconnaissance)",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Game text expands it as 地球防衛および最先端調査組織 (\"Earth defense and cutting-edge research organization\")."
+  },
+  {
+   "jp": "機械帝国ガルファ",
+   "en": "Galfa Empire (Machine Empire Galfa)",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "ANN/Akurasu spell Gulfer."
+  },
+  {
+   "jp": "螺旋城",
+   "en": "Spiral Castle",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Akurasu R DB and episode list use \"Spiral City\"."
+  },
+  {
+   "jp": "惑星アルクトス",
+   "en": "Planet Alktos",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Wikipedia: \"Alktos\". Possible variant: Arctos."
+  },
+  {
+   "jp": "ガルファ本星",
+   "en": "Galfa home planet",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "星見小学校",
+   "en": "Hoshimi Elementary School",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "星見町",
+   "en": "Hoshimi Town",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "星見アミューズメントパーク",
+   "en": "Hoshimi Amusement Park",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "三日月島",
+   "en": "Mikazuki Island",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ギアイギリス",
+   "en": "GEAR Britain",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "GEAR branch in the UK that built the Cell Fighter."
+  },
+  {
+   "jp": "データウェポン",
+   "en": "Data Weapon",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ギアコマンダー",
+   "en": "Gear Commander",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパーデンドーデンチ",
+   "en": "Hyper Dendoh Battery",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパープラズマドライブ",
+   "en": "Hyper Plasma Drive (HPD)",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファイナルアタック",
+   "en": "Final Attack (FA)",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エイリアス化",
+   "en": "aliasing (alias form)",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Astral form with no physical interference."
+  },
+  {
+   "jp": "インフィニットレイヤー",
+   "en": "Infinite Layer",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "クロックマネージャー",
+   "en": "Clock Manager",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "クラッシュレイ",
+   "en": "Crush Ray",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "イリュージョンフラッシュ",
+   "en": "Illusion Flash",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": "JA wiki writes イリュージョン・フラッシュ."
+  },
+  {
+   "jp": "オートプレッシャー",
+   "en": "Auto Pressure",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ファイヤーウォール",
+   "en": "Fire Wall",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ハイパースキャン",
+   "en": "Hyper Scan",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "メテオキューブ",
+   "en": "Meteo Cube",
+   "category": "technology",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機獣",
+   "en": "Machine Beast",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "重機獣",
+   "en": "Heavy Machine Beast",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "機士",
+   "en": "Machine Knight",
+   "category": "title",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Wikipedia: \"Professional Machine\"."
+  },
+  {
+   "jp": "機将",
+   "en": "Machine General",
+   "category": "title",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "チップ",
+   "en": "Chip",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Android probe copy of a Machine General."
+  },
+  {
+   "jp": "黒騎士",
+   "en": "Black Knight",
+   "category": "title",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "お館様",
+   "en": "Oyakata-sama",
+   "category": "title",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Title of the Lord of Spiral Castle."
+  },
+  {
+   "jp": "ガルファ親衛隊",
+   "en": "Galfa Imperial Guard",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ｃ－ＤＲｉＶＥ",
+   "en": "C-DRiVE",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Idol group; Yuki is a member."
+  },
+  {
+   "jp": "少林寺拳法",
+   "en": "Shorinji Kempo",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "暗怒露女蛇",
+   "en": "Andromeda",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Hiroshima lady-gang; written 暗怒露女蛇 and read \"Andromeda\" (あんどろめだ)."
+  },
+  {
+   "jp": "日東テレビ局",
+   "en": "Nitto TV",
+   "category": "organization",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "喫茶店ポラール",
+   "en": "Cafe Polar",
+   "category": "location",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Polar means \"North Star\"; also the old capital of Alktos."
+  },
+  {
+   "jp": "ＲＯＧＯブロック",
+   "en": "ROGO blocks",
+   "category": "other",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [],
+   "notes": "Toy block brand (parody of LEGO); translated, no source. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "アカツキの大太刀",
+   "en": "Akatsuki's great sword",
+   "category": "technique",
+   "series": "ＧＥＡＲ戦士電童",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/R/Unit_Database/Gear_Fighter_Dendoh",
+    "https://ja.wikipedia.org/wiki/GEAR%E6%88%A6%E5%A3%AB%E9%9B%BB%E7%AB%A5"
+   ],
+   "notes": "Phoenix Alae-related blade of Dendoh."
+  },
+  {
+   "jp": "ネルガル重工",
+   "en": "Nergal Heavy Industries",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Nergal_Heavy_Industries",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ネルガルシークレットサービス",
+   "en": "Nergal Secret Service",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "蜥蜴戦争",
+   "en": "Lizard War (Jovian War)",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_War"
+   ],
+   "notes": "Fandom page title \"Jovian War\"; Japanese is 木星蜥蜴 \"Jovian Lizards\"."
+  },
+  {
+   "jp": "木連",
+   "en": "Mokuren (Jovian Federation)",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Jovian_Federation"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "統合軍",
+   "en": "Unified Forces",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Wikipedia: \"Unified Forces\". The Japanese 統合平和維持軍 would be the Unified Peacekeeping Forces."
+  },
+  {
+   "jp": "連合宇宙軍",
+   "en": "United Space Force (UESF)",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Amaryllis",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Fandom: \"UESF (United Earth Space Force)\"."
+  },
+  {
+   "jp": "宇宙軍",
+   "en": "Space Force",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Amaryllis"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "火星の後継者",
+   "en": "Martian Successors",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Martian_Successors"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ヒサゴプラン",
+   "en": "Hisago Plan",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://english-voice-over.fandom.com/wiki/Martian_Successor_Nadesico:_The_Motion_Picture:_prince_of_darkness_(2003)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "アマテラス",
+   "en": "Amaterasu",
+   "category": "location",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/NS-955B_Nadesico_B"
+   ],
+   "notes": "Terminal colony of the Hisago Plan."
+  },
+  {
+   "jp": "ボソンジャンプ",
+   "en": "Boson Jump",
+   "category": "technique",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness",
+    "https://nadesico.fandom.com/wiki/Black_Sarena"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "Ａ級ジャンパー",
+   "en": "Class A Jumper",
+   "category": "title",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ディストーションフィールド",
+   "en": "Distortion Field",
+   "category": "technology",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "相転移エンジン",
+   "en": "Phase Transition Engine",
+   "category": "technology",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters"
+   ],
+   "notes": "Wikipedia: \"Phase Transition system\"."
+  },
+  {
+   "jp": "ナデシコ級",
+   "en": "Nadesico-class",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Nadesico-class"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ワンマンオペレーションシステム",
+   "en": "one-man operation system",
+   "category": "technology",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/NS-966C_Nadesico_C"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ＩＦＳ",
+   "en": "IFS (Image Feedback System)",
+   "category": "technology",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Imaging/feedback control via nanomachines."
+  },
+  {
+   "jp": "熱血クーデター",
+   "en": "Hot-Blooded Coup",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Gekiganger-themed coup within the Jovian Federation."
+  },
+  {
+   "jp": "木連式柔",
+   "en": "Mokuren-style jujutsu",
+   "category": "technique",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ユーチャリス",
+   "en": "Eucharis",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Eucharis",
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Lapis Lazuli's corvette; kana ユーチャリス is also romanized Yuchalis."
+  },
+  {
+   "jp": "アルストロメリア",
+   "en": "Alstroemeria",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3_-The_prince_of_darkness-"
+   ],
+   "notes": "Aestivalis Custom-related type."
+  },
+  {
+   "jp": "日々平穏",
+   "en": "Hibi Heion",
+   "category": "location",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": "Diner opened by Houmei."
+  },
+  {
+   "jp": "火星丼",
+   "en": "Mars bowl",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [],
+   "notes": "Menu item; translated. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "花目子",
+   "en": "Kemeko",
+   "category": "location",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [],
+   "notes": "Bar run by Izumi; the kanji 花目子 is read ケメコ. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "アマリリス",
+   "en": "Amaryllis",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Amaryllis"
+   ],
+   "notes": "Jun Aoi's battleship."
+  },
+  {
+   "jp": "シラヒメ事件",
+   "en": "Shirahime Incident",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martian_Successor_Nadesico:_The_Motion_Picture_%E2%80%93_Prince_of_Darkness"
+   ],
+   "notes": "Event at Terminal Colony No. 8, Shirahime."
+  },
+  {
+   "jp": "オオイソシティ",
+   "en": "Ooiso City",
+   "category": "location",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [],
+   "notes": "Residence of Minato and Yukina; translated. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "サルタヒコ",
+   "en": "Sarutahiko",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [],
+   "notes": "Jovian ship/computer hacked by Ruri and Omoikane (TV series); no source found. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ネルガル月ドック",
+   "en": "Nergal Lunar Dock",
+   "category": "location",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Nergal_Heavy_Industries"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "スキャパレリプロジェクト",
+   "en": "Schiaparelli Project",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Nergal"
+   ],
+   "notes": "Nergal fandom: \"Project Schiaparelli\"."
+  },
+  {
+   "jp": "クリムゾングループ",
+   "en": "Crimson Group",
+   "category": "organization",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E8%89%A6%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "エステバリス",
+   "en": "Aestivalis",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://nadesico.fandom.com/wiki/Aestivalis",
+    "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "旧ナデシコ",
+   "en": "original Nadesico (Nadesico A)",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ナデシコＡ",
+   "en": "Nadesico A",
+   "category": "other",
+   "series": "劇場版　機動戦艦ナデシコ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "鉄甲龍",
+   "en": "Tekkoryu (Iron Dragon)",
+   "category": "organization",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Wikipedia: Tekkoryu, aka Hau Dragon."
+  },
+  {
+   "jp": "ハウドラゴン",
+   "en": "Hau Dragon",
+   "category": "organization",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "八卦ロボ",
+   "en": "Hakke robot",
+   "category": "technology",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Eight-trigram robots."
+  },
+  {
+   "jp": "八卦衆",
+   "en": "Hakkeshu",
+   "category": "title",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Eight Trigrams."
+  },
+  {
+   "jp": "ラストガーディアン",
+   "en": "Last Guardian",
+   "category": "organization",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
+    "https://akurasu.net/wiki/Hades_Project_Zeorymer"
+   ],
+   "notes": "Japanese government base under the Aokigahara forest."
+  },
+  {
+   "jp": "冥王計画",
+   "en": "Hades Project",
+   "category": "other",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "国際電脳",
+   "en": "International Electronic Brains",
+   "category": "organization",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer"
+   ],
+   "notes": "Front company of Tekkoryu."
+  },
+  {
+   "jp": "次元連結システム",
+   "en": "Dimensional Coupler System",
+   "category": "technology",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://superrobotwars.fandom.com/wiki/Great_Zeorymer",
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": "Wikipedia: \"dimensional coupler system\" and \"Dimensional Joint\"."
+  },
+  {
+   "jp": "青木ヶ原",
+   "en": "Aokigahara",
+   "category": "location",
+   "series": "冥王計画ゼオライマー",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
+   ],
+   "notes": ""
+  },
+  {
+   "jp": "ギガノス",
+   "en": "Giganos",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ファルゲン",
+   "en": "Falguen",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Meio Plato's metal armor."
+  },
+  {
+   "jp": "マイヨ・プラート",
+   "en": "Meio Plato",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character; Akurasu episode list writes \"Maio Plato\". Called the Blue Hawk (蒼き鷹)."
+  },
+  {
+   "jp": "ラング・プラート",
+   "en": "Lang Plato",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character; Meio's father, designer of the Dragonars."
+  },
+  {
+   "jp": "ドラグナー",
+   "en": "Dragonar",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メタルアーマー",
+   "en": "metal armor",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "マッフユニット",
+   "en": "MAFFU unit",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Flight unit attached to metal armor (Akurasu: \"Falguen MAFFU\")."
+  },
+  {
+   "jp": "ヤクト・ゲルフ",
+   "en": "Jagd Gelf",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "レビ・ゲルフ",
+   "en": "Reb Gelf",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲルフ",
+   "en": "Gelf",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ダイン",
+   "en": "Dein",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲバイ",
+   "en": "Gewai",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Wikipedia/Akurasu also write Gewei."
+  },
+  {
+   "jp": "ダウツェン",
+   "en": "Dauzehn",
+   "category": "technology",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Wikipedia writes Dauzhen."
+  },
+  {
+   "jp": "ドルチェノフ",
+   "en": "Dorchenov",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "プラクティーズ",
+   "en": "Practice Squad",
+   "category": "organization",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ウェルナー",
+   "en": "Welner Fritz",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character; the text gives only Welner."
+  },
+  {
+   "jp": "ミン大尉",
+   "en": "Captain Min",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Spelled \"Captain Min\" in the Akurasu episode list."
+  },
+  {
+   "jp": "ジン中尉",
+   "en": "Lieutenant Zin",
+   "category": "other",
+   "series": "機甲戦記ドラグナー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Wikipedia: Zin of Gon Jem Shittenoh (rank 中尉 in game text)."
+  },
+  {
+   "jp": "デビルガンダム",
+   "en": "Devil Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ＤＧ細胞",
+   "en": "DG Cells",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "デビルガンダム四天王",
+   "en": "Devil Gundam's Four Heavenly Kings",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ノーベルガンダム",
+   "en": "Nobel Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). English dub: Noble Gundam."
+  },
+  {
+   "jp": "ネロスガンダム",
+   "en": "Neros Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ジョンブルガンダム",
+   "en": "John Bull Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). English dub: Royal Gundam."
+  },
+  {
+   "jp": "マスターガンダム",
+   "en": "Master Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ガンダムヘブンズソード",
+   "en": "Gundam Heaven's Sword",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "グランドガンダム",
+   "en": "Grand Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ウォルターガンダム",
+   "en": "Walter Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ネオジャパン",
+   "en": "Neo-Japan",
+   "category": "location",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "シャッフル同盟拳",
+   "en": "Shuffle Alliance Fist",
+   "category": "technique",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ウルベ・イシカワ",
+   "en": "Ulube Ishikawa",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character (Major); Akurasu MX list writes Urube."
+  },
+  {
+   "jp": "ドモン・カッシュ",
+   "en": "Domon Kasshu",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "アレンビー・ビアズリー",
+   "en": "Allenby Beardsley",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "ウォン・ユンファ",
+   "en": "Wong Yunfat",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Mobile_Fighter_G_Gundam"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character; game text says only ウォン."
+  },
+  {
+   "jp": "レイン・ミカムラ",
+   "en": "Rain Mikamura",
+   "category": "other",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character; game text says only レイン."
+  },
+  {
+   "jp": "アルティメットガンダム",
+   "en": "Ultimate Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "シャイニングガンダム",
+   "en": "Shining Gundam",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "デスアーミー",
+   "en": "Death Army",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "バーサーカーシステム",
+   "en": "Berserker System",
+   "category": "technology",
+   "series": "機動武闘伝Ｇガンダム",
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Mobile_Fighter_G_Gundam_characters"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "百鬼帝国",
+   "en": "Hyakki Empire",
+   "category": "organization",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Empire",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G",
+    "https://akurasu.net/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Wikipedia also writes \"Clan of the 100 Demons\"."
+  },
+  {
+   "jp": "メカ雷電鬼",
+   "en": "Mecha Raidenki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ輪魔鬼",
+   "en": "Mecha Renmaki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ闇虫鬼",
+   "en": "Mecha Ankyuki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ甲角鬼",
+   "en": "Mecha Kokoki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ雷獣鬼",
+   "en": "Mecha Raijuki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ十方鬼",
+   "en": "Mecha Tenppoki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ大輪鬼",
+   "en": "Mecha Dairinki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Akurasu: Tairinki."
+  },
+  {
+   "jp": "メカ半月鬼",
+   "en": "Mecha Hangetsuki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "メカ要塞鬼",
+   "en": "Mecha Fortress Demon",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Fandom: Mecha Yosaiki (Fortress Demon)."
+  },
+  {
+   "jp": "暴竜鬼",
+   "en": "Boryuki",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://getterrobo.fandom.com/wiki/Hyakki_Robots",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Akurasu: Bouryuki."
+  },
+  {
+   "jp": "ヒドラー元帥",
+   "en": "General Hidler",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo_G",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "グラー博士",
+   "en": "Dr. Gura",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Getter_Robo_G",
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "ゲッターロボ",
+   "en": "Getter Robo",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲッタードラゴン",
+   "en": "Getter Dragon",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲッターライガー",
+   "en": "Getter Liger",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲッターポセイドン",
+   "en": "Getter Poseidon",
+   "category": "technology",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "シャインスパーク",
+   "en": "Shine Spark",
+   "category": "technique",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ゲッターサイクロン",
+   "en": "Getter Cyclone",
+   "category": "technique",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). No source opened; translated. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ストロングミサイル",
+   "en": "Strong Missile",
+   "category": "technique",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). No source opened; translated. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "早乙女研究所",
+   "en": "Saotome Research Institute",
+   "category": "organization",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "軍艦島",
+   "en": "Battleship Island",
+   "category": "location",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). Hashima (Gunkanjima). No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "伊豆大島",
+   "en": "Izu Oshima",
+   "category": "location",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group).  No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ミチル",
+   "en": "Michiru Saotome",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "元気",
+   "en": "Genki Saotome",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). Character; Michiru's younger brother (弟 in text). No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ハヤト",
+   "en": "Hayato Jin",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Getter_Robo_G",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "イサム",
+   "en": "Isamu",
+   "category": "other",
+   "series": "ゲッターロボＧ",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). Character; Hayato's childhood friend, became Mecha Boryuki's pilot. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ベガ星連合軍",
+   "en": "Vega Star Alliance forces",
+   "category": "organization",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer",
+    "https://akurasu.net/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Wikipedia: Vegan Empire; Akurasu: Vega Empire."
+  },
+  {
+   "jp": "円盤獣",
+   "en": "Saucer Beast",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "ギルギル",
+   "en": "Girugiru",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Saucer Beast Girugiru (円盤獣ギルギル)."
+  },
+  {
+   "jp": "ＴＦＯ",
+   "en": "TFO",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Koji Kabuto's saucer."
+  },
+  {
+   "jp": "グレンダイザー",
+   "en": "Grendizer",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "デューク・フリード",
+   "en": "Duke Fleed",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://en.wikipedia.org/wiki/UFO_Robot_Grendizer",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "ナイーダ",
+   "en": "Naida",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). Character; UNVERIFIED spelling (not found in the sources opened). No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "ジグラ",
+   "en": "Jigra",
+   "category": "other",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character (guard member)."
+  },
+  {
+   "jp": "ベガニウム超合金",
+   "en": "Veganium super alloy",
+   "category": "technology",
+   "series": "ＵＦＯロボ　グレンダイザー",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). UNVERIFIED; translated from the kanji. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "グレートマジンガー",
+   "en": "Great Mazinger",
+   "category": "technology",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://akurasu.net/wiki/Great_Mazinger",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). "
+  },
+  {
+   "jp": "桜多吾作",
+   "en": "Gosaku Ota",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://mazinger.fandom.com/wiki/Gosaku_%C5%8Cta"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Manga artist. NOTE: URL is from a search result (the page itself was not opened)."
+  },
+  {
+   "jp": "新住日重工",
+   "en": "Shin Sumi Nichi Heavy Industries",
+   "category": "organization",
+   "series": "グレートマジンガー",
+   "sources": [],
+   "notes": "cross-series name (appears in library text stored under this group). UNVERIFIED; translated. No source found; translated/romanized from the Japanese."
+  },
+  {
+   "jp": "剣鉄也",
+   "en": "Tetsuya Tsurugi",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  },
+  {
+   "jp": "ボス",
+   "en": "Boss",
+   "category": "other",
+   "series": "グレートマジンガー",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List"
+   ],
+   "notes": "cross-series name (appears in library text stored under this group). Character."
+  }
+ ]
+}

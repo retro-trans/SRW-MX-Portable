@@ -1,0 +1,7 @@
+{
+ "terms": [
+  {"jp":"クシナダ","en":"Kushinada","sources":["work/translation/en/script/stage18_campaign.json"],"notes":"Source romanization of Nadesico terminal colony. No exact Akurasu or independently licensed English label found; do not use fan-fiction dates/events as provenance."},
+  {"jp":"サクヤ","en":"Sakuya","sources":["work/translation/en/script/stage18_campaign.json"],"notes":"Source romanization of Nadesico terminal colony, distinct from unrelated characters/deities. Exact licensed English label unverified; preserve source order and no added lore."},
+  {"jp":"極冠遺跡","en":"polar-cap ruins","sources":["work/translation/en/script/stage18_campaign.json","https://srw.wiki.cre.jp/wiki/%E7%81%AB%E6%98%9F%E6%A5%B5%E5%86%A0%E9%81%BA%E8%B7%A1"],"notes":"Source-literal Nadesico Mars-site description, with Japanese context confirmed by SRW Wiki. English wording not independently licensed. Preserve explicit Mars where source includes it; source-short descriptor remains short."}
+ ]
+}

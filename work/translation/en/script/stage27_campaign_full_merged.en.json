@@ -1,0 +1,4660 @@
+{
+ "scenes": [
+  "s0540"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "The Onslaught of the Viper Squad",
+   "scenes": [
+    "s0540"
+   ],
+   "map_scene": "s0540"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "s0540:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 1,
+   "uses": [
+    "s0540:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 2,
+   "uses": [
+    "s0540:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "s0540:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 4,
+   "uses": [
+    "s0540:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 5,
+   "uses": [
+    "s0540:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 6,
+   "uses": [
+    "s0540:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 7,
+   "uses": [
+    "s0540:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 8,
+   "uses": [
+    "s0540:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 9,
+   "uses": [
+    "s0540:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "s0540:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "s0540:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 12,
+   "uses": [
+    "s0540:12",
+    "s0540:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "s0540:13",
+    "s0540:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 14,
+   "uses": [
+    "s0540:14",
+    "s0540:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "s0540:15",
+    "s0540:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "s0540:16",
+    "s0540:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "s0540:17",
+    "s0540:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 18,
+   "uses": [
+    "s0540:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "s0540:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "s0540:20",
+    "s0540:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 21,
+   "uses": [
+    "s0540:21",
+    "s0540:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 22,
+   "uses": [
+    "s0540:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 23,
+   "uses": [
+    "s0540:24",
+    "s0540:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "s0540:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "s0540:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 26,
+   "uses": [
+    "s0540:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 27,
+   "uses": [
+    "s0540:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "s0540:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "s0540:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 30,
+   "uses": [
+    "s0540:32",
+    "s0540:33",
+    "s0540:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 31,
+   "uses": [
+    "s0540:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "s0540:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 33,
+   "uses": [
+    "s0540:36",
+    "s0540:37",
+    "s0540:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "s0540:39",
+    "s0540:40",
+    "s0540:174",
+    "s0540:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 35,
+   "uses": [
+    "s0540:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 36,
+   "uses": [
+    "s0540:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 37,
+   "uses": [
+    "s0540:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "s0540:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "s0540:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 40,
+   "uses": [
+    "s0540:46",
+    "s0540:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "s0540:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 42,
+   "uses": [
+    "s0540:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "s0540:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 44,
+   "uses": [
+    "s0540:50",
+    "s0540:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "s0540:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 46,
+   "uses": [
+    "s0540:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 47,
+   "uses": [
+    "s0540:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "s0540:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 49,
+   "uses": [
+    "s0540:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 50,
+   "uses": [
+    "s0540:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 51,
+   "uses": [
+    "s0540:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "s0540:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 53,
+   "uses": [
+    "s0540:59",
+    "s0540:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "s0540:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 55,
+   "uses": [
+    "s0540:61",
+    "s0540:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "s0540:62",
+    "s0540:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 57,
+   "uses": [
+    "s0540:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 58,
+   "uses": [
+    "s0540:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "s0540:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 60,
+   "uses": [
+    "s0540:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "s0540:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "s0540:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 63,
+   "uses": [
+    "s0540:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "s0540:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "s0540:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "s0540:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "s0540:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "s0540:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 69,
+   "uses": [
+    "s0540:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 70,
+   "uses": [
+    "s0540:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 71,
+   "uses": [
+    "s0540:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 72,
+   "uses": [
+    "s0540:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "s0540:79",
+    "s0540:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 74,
+   "uses": [
+    "s0540:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 75,
+   "uses": [
+    "s0540:81",
+    "s0540:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0540:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0540:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0540:84",
+    "s0540:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0540:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0540:86",
+    "s0540:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0540:87",
+    "s0540:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0540:88",
+    "s0540:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0540:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0540:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0540:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0540:92",
+    "s0540:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0540:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0540:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0540:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0540:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0540:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0540:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0540:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0540:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0540:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0540:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0540:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0540:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0540:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0540:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0540:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0540:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0540:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0540:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0540:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0540:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0540:113",
+    "s0540:114",
+    "s0540:115",
+    "s0540:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0540:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0540:117",
+    "s0540:161",
+    "s0540:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0540:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0540:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0540:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0540:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0540:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0540:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0540:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0540:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0540:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0540:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0540:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0540:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0540:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0540:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0540:132",
+    "s0540:133",
+    "s0540:134",
+    "s0540:156",
+    "s0540:188",
+    "s0540:189",
+    "s0540:190",
+    "s0540:191",
+    "s0540:192",
+    "s0540:193",
+    "s0540:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0540:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0540:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0540:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0540:138",
+    "s0540:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0540:139",
+    "s0540:148",
+    "s0540:152",
+    "s0540:154",
+    "s0540:164",
+    "s0540:165",
+    "s0540:198",
+    "s0540:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0540:140",
+    "s0540:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0540:141",
+    "s0540:142",
+    "s0540:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0540:143",
+    "s0540:149",
+    "s0540:153",
+    "s0540:155",
+    "s0540:162",
+    "s0540:163",
+    "s0540:199",
+    "s0540:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0540:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0540:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0540:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0540:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0540:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0540:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0540:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0540:160",
+    "s0540:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0540:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0540:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0540:206"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Destroy all enemies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 0
+   },
+   "notes": "Player; victory objective; no dialogue referent. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary.",
+   "uncertain": []
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0540:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Any allied unit is shot down.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage01_campaign.json",
+    "id": 253
+   },
+   "notes": "Listener: player. Loss condition, plain text; preserves one line and the any-one-allied-unit trigger.",
+   "uncertain": []
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0540:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "連邦兵",
+   "speaker_en": "Federation Soldier",
+   "en": "T-this is Yellow Mountain Squad! Help! We request assistance!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 0
+   },
+   "notes": "Panicked radio call; assistance request repeated. Yellow Mountain Squad follows centralized provisional source-only transliteration; independent English provenance remains unestablished.",
+   "uncertain": [
+    "Yellow Mountain Squad: centralized source-only transliteration; no independent canonical English provenance established."
+   ]
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0540:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "...Well now, it is about time I sent you to the next world!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 1
+   },
+   "notes": "Ganan addresses the Federation pilots; next-world phrasing preserves the death threat.",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0540:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Whoops! There are still three of you left! Hee hee hee hee!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 2
+   },
+   "notes": "Ganan counts three surviving machines and laughs maliciously.",
+   "uncertain": []
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0540:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "連邦兵",
+   "speaker_en": "Federation Soldier",
+   "en": "U-ugh...! I cannot believe our Dragoons are no match for them...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 3
+   },
+   "notes": "Federation pilot reacts to Dragoons being outmatched by the enemy squad; plural suits the surviving formation.",
+   "uncertain": []
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0540:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "I do not know about the other guys... but you have not got a chance against us.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 4
+   },
+   "notes": "Ganan answers the soldier; restored the implied failure against his own squad rather than leaving a grammatical fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0540:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "Well, the Dragoon is certainly a good machine... but a lousy pilot ruins it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 5
+   },
+   "notes": "Zin taunts the Federation pilots, contrasting sound machine quality with incompetent pilots.",
+   "uncertain": []
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0540:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Yeah, I am sick of these weaklings. Bring me someone stronger.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 6
+   },
+   "notes": "Min orders the weak Federation opponents to bring stronger opponents.",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0540:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Yeah, people like #部隊名.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 7
+   },
+   "notes": "Continuation of row6 specifies the desired stronger opponents; intentional continuation fragment retained.",
+   "uncertain": []
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0540:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "I-I cannot take it anymore! I am gonna slaughter those guys too!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 8
+   },
+   "notes": "Gol wants to kill the remaining Federation pilots too; preserved stammer and strong slaughter threat.",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0540:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Idiot! That would screw up the colonel's whole plan!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 9
+   },
+   "notes": "Min rebukes Gol; killing the survivors would derail the colonel's bait operation.",
+   "uncertain": []
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0540:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "That is right, Gol. Wait until our real prey gets here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 10
+   },
+   "notes": "Ganan orders Gol to wait for their actual targets.",
+   "uncertain": []
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0540:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "Ugh... O-okay.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 11
+   },
+   "notes": "Gol reluctantly complies; interjection and stammer retained.",
+   "uncertain": []
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0540:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "連邦兵",
+   "speaker_en": "Federation Soldier",
+   "en": "W-we cannot hold out any longer! We are retreating!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 12
+   },
+   "notes": "Federation soldier announces the formation cannot hold out and orders withdrawal.",
+   "uncertain": []
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0540:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "That takes care of the preparations. Now all we have to do is wait.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 13
+   },
+   "notes": "Ganan considers the bait preparations complete and states they only need to wait.",
+   "uncertain": []
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0540:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "But we still need more bonfires... Let us turn that city into a sea of flames too.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 14
+   },
+   "notes": "Zin proposes burning the nearby city too; preserved bonfire and sea-of-flames imagery.",
+   "uncertain": []
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0540:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "That sounds good. Let us really light it up to get ourselves fired up!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 15
+   },
+   "notes": "Ganan enthusiastically agrees to the proposed city burning as a morale booster.",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0540:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Wait! Our prey is here!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 16
+   },
+   "notes": "Min interrupts the arson proposal because the targeted friendly squad arrives.",
+   "uncertain": []
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0540:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You bastards! I will not let you go any further!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 17
+   },
+   "notes": "Koji addresses the enemy squad angrily and stops further violence; forceful address preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0540:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "Ha ha ha ha! They are here! They walked right into our trap!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 18
+   },
+   "notes": "Zin boasts that the arriving squad fell for their bait; restored they subject for both actions.",
+   "uncertain": []
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0540:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "It is the Gon Jem Squad...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 19
+   },
+   "notes": "Tetsuya recognizes the Gon Jem Squad; restored copula and subject for the identification.",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0540:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Honestly... These guys really don't know when to quit.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 20
+   },
+   "notes": "Light reacts to the returning Gon Jem Squad; weary irritation, with the subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0540:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Wait, Gon Jem himself isn't here...! Where the hell did that bastard go!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 21
+   },
+   "notes": "Kaine notices the absent commander; himself retains the distinction between Gon Jem and his squad. Rough question preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0540:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Kaine, focus on the enemies in front of us right now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 22
+   },
+   "notes": "Duke addresses Kaine and redirects attention to the enemies now present; imperative direction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0540:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Come on, you bastards! Kill them!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 23
+   },
+   "notes": "Ganan commands his men to attack the newly arrived allies; rough address and lethal order preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0540:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Tch, we're pulling out for today!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 24
+   },
+   "notes": "Separate event 5 defeat/retreat line; Gon Jem orders his force to withdraw for today.",
+   "uncertain": []
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0540:233"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Watch closely with your own eyes! Witness the secret technique of my Tenku Shin Ken!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 25
+   },
+   "notes": "Event 8 Jet-versus-Gon Jem battle exchange; Tenku Shin Ken follows the main glossary. Witness/secret technique rendered as a complete boast.",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0540:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Don't think you can cut me down with that dull blade!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 26
+   },
+   "notes": "Gon Jem belittles Jet's sword as a dull blade and denies Jet can cut him down.",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0540:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "You bastard! I won't let you kill Kaine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 27
+   },
+   "notes": "Tapp addresses Gon Jem and vows to protect Kaine; insult and lethal implication retained.",
+   "uncertain": []
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0540:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "You're so devoted to your friend! For that, I'll send you to the same hell as him!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 28
+   },
+   "notes": "Gon Jem sarcastically rewards Tapp's loyalty by threatening to send Tapp to hell with Kaine. Kaine is male in the sourced character glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0540:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Kaine, wake up! Get off the battlefield!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 29
+   },
+   "notes": "Light urgently calls to the incapacitated Kaine; the following sleep taunt and event 10 nonresponse support literal wake up.",
+   "uncertain": []
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0540:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Let him sleep! He wouldn't want to see his friends get killed, either!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 30
+   },
+   "notes": "Gon Jem taunts Light over unconscious Kaine and threatens Kaine's friends. Kaine is the settled him/he referent.",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0540:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You just won't quit, you Giganos bastard! Have you got some grudge against Kaine!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 31
+   },
+   "notes": "Koji addresses Gon Jem and asks whether the pursuit is a personal grudge against Kaine; Giganos insult retained.",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0540:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Dragonar's head fetches a high price in Giganos! That makes him the perfect prey for me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 32
+   },
+   "notes": "Gon Jem answers Koji: the Dragonar bounty makes Kaine attractive prey. Dragonar singular follows the source and the current targeted pilot.",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0540:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "You're my enemy, but that blow just now was impressive!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 33
+   },
+   "notes": "Tetsuya acknowledges Gon Jem's immediately preceding strike despite their enmity, preparing the challenge in row 35.",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0540:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Guhuhu... It looks like you know quality when you see it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 34
+   },
+   "notes": "Gon Jem answers Tetsuya's praise with a guttural chuckle and smug acknowledgment of discernment.",
+   "uncertain": []
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0540:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "But that's as far as you go! As long as we're here, we won't let you lay another finger on Kaine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 35
+   },
+   "notes": "Tetsuya follows his concession with a firm collective vow to prevent further harm to Kaine; subject and conditional scope retained.",
+   "uncertain": []
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0540:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "We can't afford to lose to someone who enjoys fighting!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 36
+   },
+   "notes": "Duke insists the allies must not lose to Gon Jem, whose enjoyment of combat is the objection.",
+   "uncertain": []
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0540:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Aren't you cool! You think you're a champion of justice, buddy!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 37
+   },
+   "notes": "Gon Jem mocks Duke's heroic stance; buddy renders the mocking address without implying a familial relationship.",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0540:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "But listen! Just looking at a bastard like you makes me sick!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 38
+   },
+   "notes": "Continuation of Gon Jem's response to Duke; visceral disgust and the personal insult retained.",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0540:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Come on, pointy-head! I'll turn you upside down and ram you into the ground!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 39
+   },
+   "notes": "Gon Jem addresses Drill, confirmed by the reply; pointy-head mocks Drill's pointed head, followed by the explicit inversion/impalement threat.",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0540:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "How dare you say that!! I won't forgive you even if you cry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 40
+   },
+   "notes": "Drill indignantly answers Gon Jem's threat and says even crying will not win forgiveness.",
+   "uncertain": []
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0540:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "I-I cannot allow a man this dangerous anywhere near Leina!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 41
+   },
+   "notes": "Jim addresses Gon Jem; restores Jim as the protecting subject, retains stutter and formal protective voice; drops ordinary honorific.",
+   "uncertain": []
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0540:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "You're a loyal one! For that, I'll cut you down with a single stroke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 42
+   },
+   "notes": "Gon Jem mockingly rewards Jim's loyalty with death; single-stroke threat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0540:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Well... You're quite a strong little girl, aren't you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 43
+   },
+   "notes": "New Gon Jem/Leina combat exchange; condescending address and physical strength retained.",
+   "uncertain": []
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0540:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "That suits me perfectly. Why don't you come work for me and give me massages?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 44
+   },
+   "notes": "Gon Jem solicits Leina as his personal masseuse; request direction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0540:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "I refuse such a shameless job, you old geezer!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 45
+   },
+   "notes": "Leina rejects Gon Jem's massage proposal; both indecency and age insult retained.",
+   "uncertain": []
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0540:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "You bastard! So the brass finally understood why you have no legs?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 46
+   },
+   "notes": "Kaine taunts Ganan with the legs/brass allusion; source does not explain it and Ganan calls it nonsense.",
+   "uncertain": [
+    "Legs/brass allusion deliberately unexplained in source; wording retains the stated lack of legs and the brass understanding it."
+   ]
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0540:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "You're talking nonsense! But your life will be over soon!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 47
+   },
+   "notes": "Ganan answers Kaine's obscure taunt with an explicit imminent death threat.",
+   "uncertain": []
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0540:256"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "You lantern-faced gorilla! Where's that musclebound lump of a boss of yours?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 48
+   },
+   "notes": "Kaine addresses Gol; approved lantern-faced gorilla epithet preserved; muscle-daruma insult targets Gon Jem.",
+   "uncertain": [
+    "Lantern-faced appearance is the approved glossary localization inference for the mocking nickname; musclebound lump localizes the daruma body-shape insult."
+   ]
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0540:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "I-I won't forgive you if you mock the colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 49
+   },
+   "notes": "Gol defends Gon Jem; stutter preserved in natural English without inventing a new speech impediment.",
+   "uncertain": []
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0540:258"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Dragonar! You'd be better off letting me take you down without a fight!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 50
+   },
+   "notes": "Min addresses Kaine by his unit; preserving ominous better-off claim rather than reversing who defeats whom.",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0540:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Wait a second! What do you mean by that?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 51
+   },
+   "notes": "Kaine demands an explanation of Min's warning; hotheaded spoken response without adding an extra curse.",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0540:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "You'll find out soon. In just a little while... Heh heh heh.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 52
+   },
+   "notes": "Min withholds explanation, foreshadowing the imminent Gon Jem ambush; chuckle retained.",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0540:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "I'll have to apologize to the colonel, but I'm finishing you off myself!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 53
+   },
+   "notes": "Zin addresses Kaine throughout; regret concerns Gon Jem losing his intended prey. Explicitly apologizing to the colonel prevents a misleading apparent direct address.",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0540:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Don't talk like you've already won! I'm not letting anyone take me down!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 54
+   },
+   "notes": "Kaine rejects Zin's presumptuous claim; restores explicit self-determination and universal anyone.",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0540:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Well, well, aren't you an awfully cute little opponent?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 55
+   },
+   "notes": "New Min/Leina exchange; teasing diminutive tone.",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0540:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "I may be small, but I'm a martial artist too! I won't lose to a big lug like you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 56
+   },
+   "notes": "Leina asserts training and refuses defeat; insulting size contrast retained.",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0540:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "You... You just called me a big, freakishly strong woman...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 57
+   },
+   "notes": "Min overreads Leina's big-lug taunt as a gendered strength insult; source explicitly identifies woman, no guessed gender.",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0540:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Huh...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 58
+   },
+   "notes": "Leina's startled reaction is a genuine interjection, not omitted subject/verb.",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0540:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "I won't let you get away with that! You'd better be ready, you little brat!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 59
+   },
+   "notes": "Min threatens Leina; no-softening and condescending little-brat address retained.",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0540:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "How's that, brat?! Have you learned how powerful my Azure Dragon Sword is?!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 60
+   },
+   "notes": "Event 10 begins after the combat exchanges: Gon Jem addresses Kaine, established by subsequent Duke/Sayaka/Light lines; named sword follows glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0540:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "That's our Colonel for you!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 61
+   },
+   "notes": "Zin praises Gon Jem after his attack on Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0540:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "That's what single-minded focus and no questions asked are all about!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 62
+   },
+   "notes": "Gon Jem boasts about focus and unquestioned decisive action; both idioms retained.",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0540:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Not even the mighty Shuffle Alliance can dodge a blow I put all my strength into!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 63
+   },
+   "notes": "Gon Jem boasts to the allies; the blow uses his full strength.",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0540:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "He was targeting Kaine alone right from the start!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 64
+   },
+   "notes": "Duke realizes Gon Jem has singled out Kaine from the start.",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0540:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "K-Kaine! Answer me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 65
+   },
+   "notes": "Sayaka asks the unresponsive Kaine to answer; stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0540:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Hey, what's wrong!? Kaine!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 66
+   },
+   "notes": "Tetsuya calls to Kaine after the strike.",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0540:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "...It's no use! Kaine isn't responding!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 67
+   },
+   "notes": "Light reports that Kaine is not answering; referent restored explicitly.",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0540:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Don't tell me Kaine's been knocked out!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 68
+   },
+   "notes": "Maria fears Kaine is unconscious; Kaine named explicitly.",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0540:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Now he's as good as dead! Finish off the rest of them!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 69
+   },
+   "notes": "Gon Jem tells his squad to kill the other allies; threat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0540:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You were sneaking around in hiding, so don't you get all high and mighty!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 70
+   },
+   "notes": "Koji rebukes Gon Jem for boasting after hiding to ambush Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0540:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Hyehehehe! It'll be fun to see how far that tough talk gets you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 71
+   },
+   "notes": "Ganan mocks Koji and the allies; distinctive cackle retained.",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0540:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "That's right. Unlike usual, your friends are fighting somewhere else.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 72
+   },
+   "notes": "Min taunts the allies about their separated reinforcements.",
+   "uncertain": []
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0540:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "And you don't have anywhere to run like you did last time, do you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 73
+   },
+   "notes": "Min contrasts this trap with their previous escape.",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0540:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Sh-shit...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 74
+   },
+   "notes": "Tapp curses in frustration; standalone expletive and stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0540:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage18_campaign.json",
+    "id": 247
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0540:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "What's wrong, Colonel? You've suddenly gone quiet...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 75
+   },
+   "notes": "Min addresses Gon Jem after his silence at use s0540:283 (stage18 owner id247); trailing clause retained.",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0540:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Well, if things follow the usual pattern, that kabuki bastard should be showing up right about now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 76
+   },
+   "notes": "Gon Jem expects the customary theatrical rescuer; kabuki bastard preserves insult, no name disclosed.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0540:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "I was just getting myself mentally prepared.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 77
+   },
+   "notes": "Gon Jem explains that he was bracing himself for the expected entrance; subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0540:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "Don't worry, Colonel. There's nothing on the radar. We can take our time and enjoy ourselves today, eh?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 78
+   },
+   "notes": "Zin reassures Gon Jem with the empty radar and prospect of leisurely torment.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0540:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Guhuhuhu, I see. Then make this place their graveyard!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 79
+   },
+   "notes": "Gon Jem orders the squad to make the battlefield the allies graveyard; lethal threat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0540:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Everyone, keep the enemy machines away from D-1! Protect Kaine!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 80
+   },
+   "notes": "Duke commands the allies to keep enemies away from Kaine and D-1; source unit abbreviation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0540:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Fuhahaha! It's time, Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 81
+   },
+   "notes": "Ganan announces the moment for the next attack to Gon Jem; event11 begins here.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0540:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Gwahahaha! I have been waiting for this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 82
+   },
+   "notes": "Gon Jem answers Ganan: he awaited the opening to attack Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0540:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Th-that guy! What is he doing over there!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 83
+   },
+   "notes": "Kaine spots Gon Jem positioned to attack; surprise retains explicit actor. No added insult for the source demonstrative.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0540:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Diiie, you braaat!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 84
+   },
+   "notes": "Direct lethal threat to Kaine; elongated shout.",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0540:294"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "H-he is aiming for me!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 85
+   },
+   "notes": "Kaine recognizes Gon Jem targeting him; restores subject and verb.",
+   "uncertain": []
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0540:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Oh, crap! Dodge it, Kaine!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 86
+   },
+   "notes": "Tapp urgently warns Kaine.",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0540:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "!? Colonel, something is coming toward us!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 87
+   },
+   "notes": "Zin reports an approaching unknown arrival to Gon Jem.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0540:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "What!? Do not tell me it is that kabuki bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 88
+   },
+   "notes": "Gon Jem fears Rom, called a kabuki bastard; preserves insult.",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0540:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "N-no, it is...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 89
+   },
+   "notes": "Zin begins identifying different arrivals and breaks off.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0540:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "That is far enough, all of you!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 90
+   },
+   "notes": "Leina orders Gon Jem squad to stop.",
+   "uncertain": []
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0540:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Th-those people are...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 91
+   },
+   "notes": "Koji begins recognition; Boss finishes identification in next row.",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0540:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "They are the ones who saved us at the Photon Power Laboratory!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 92
+   },
+   "notes": "Boss identifies the arriving Cronos party for Koji.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0540:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Who the hell are you!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 93
+   },
+   "notes": "Gon Jem roughly demands identity from newcomers.",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0540:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "I have no name to give the likes of you! Bleh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 94
+   },
+   "notes": "Leina refuses introduction and makes the childish tongue-out taunt.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0540:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "With that lack of charm... You are pals of that kabuki bastard, are you!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 95
+   },
+   "notes": "Gon Jem infers their connection to Rom from their cheek.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0540:305"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Exactly! The martial artists of justice who journey from star to star to destroy evil throughout the universe...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 96
+   },
+   "notes": "Drill adopts a grand heroic introduction: martial artists of justice, traveling between stars to destroy cosmic evil. Deliberate noun-phrase fragment continues into 97.",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0540:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "The great Rod Drill and his companions... That is us!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 97
+   },
+   "notes": "Drill self-aggrandizes, naming himself instead of Rom; explicit us preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0540:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Hey, Drill! What are you saying? Do not get carried away!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 98
+   },
+   "notes": "Leina rebukes Drill for getting carried away with the introduction.",
+   "uncertain": []
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0540:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "C-come on, Leina. Let me say it once in a while! It is always Rom or Jet who says it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 99
+   },
+   "notes": "Drill asks Leina to let him deliver the introduction occasionally; restores say-it action.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0540:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "You are screwing around...! Do not think you will get away with this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 100
+   },
+   "notes": "Gon Jem angrily condemns their fooling around and threatens punishment; coarse phrasing without added sexual profanity.",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0540:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "...You who are steeped in greed and have lost sight of the truth... I shall tell you, as a parting gift for your journey to hell.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 101
+   },
+   "notes": "Jet grandly condemns Gon Jem; tell-you object is his name in following row102.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0540:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "My name is Jet... Blue Jet!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 102
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0540:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "My Tenku Shin Ken against your sword... Let us see which cuts sharper. I challenge you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 103
+   },
+   "notes": "Jet challenges Gon Jem to compare the cutting edge of Tenku Shin Ken with his sword; technique name preserved from glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0540:313"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Now this should be fun! Come and get me!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 104
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0540:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Are those people going to help us...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 105
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0540:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Fate must have brought me through here... I, Blue Jet, will lend you my blade.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 106
+   },
+   "notes": "Jet addresses the endangered allied party; passing nearby is presented as fate, and Jet offers aid.",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0540:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Then please hurry and help the person in that machine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 107
+   },
+   "notes": "Jim urges the allied party to rescue the person in the disabled machine, resolved as Kaine by the next rows.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0540:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "...U-ugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 108
+   },
+   "notes": "Retained nonlexical groan with hesitation; no grammatical subject is missing.",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0540:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "Kaine, are you awake!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 109
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0540:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Hey, are you all right!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 110
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0540:320"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "...I-I'm hanging in there... But the Dragonar will not move...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 111
+   },
+   "notes": "Kaine distinguishes his own condition from his immobilized Dragonar; explicit subject and verb restored.",
+   "uncertain": []
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0540:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Everyone, protect Kaine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 112
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0540:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "...There are no enemy readings. Whew, it looks like we made it through somehow.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 113
+   },
+   "notes": "Event 38 follows the battle; enemy readings are absent and the party has made it through. Final restores the impersonal subject it in the second clause; not a fit compression.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0540:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Kaine, are you all right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 114
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0540:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Yeah. I owe you one, everyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 115
+   },
+   "notes": "Kaine expresses indebted gratitude after being rescued; Koji redirects his thanks in the following row.",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0540:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "Thank them. We would have been in serious trouble on our own.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 116
+   },
+   "notes": "Them refers to the Machine Robo rescuers; counterfactual retains the danger to Koji and the allied group.",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0540:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "...Sorry, but I must be on my way. We will probably meet again soon.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 117
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0540:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Well then, see you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 118
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0540:328"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "...So they have gone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 119
+   },
+   "notes": "They refers to Jet and the departing Machine Robo group; explicit plural subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0540:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Anyway, let us join up with the others.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 120
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0540:330"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Judging by how things went here, I think they must be dealing with all sorts of trouble.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 121
+   },
+   "notes": "Light infers trouble affecting the other party from their own encounter; no invented specifics.",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0540:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "Yes, understood. I will carry Kaine's D-1 in my Spazer.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage27_campaign.json",
+    "id": 122
+   },
+   "notes": "Duke agrees to regroup and offers to transport the disabled D-1 using his own Spazer.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 27,
+  "fingerprint": "e97d5b9c5c6188ff37a4c0f55c44a8edd75ba8c76633889fda345cb42024a1bc",
+  "reviewed_reused_ids": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   220
+  ],
+  "reviewed_reused_rows": 146,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Coordinator reviewed all123 fresh rows from six actual translators, all three fresh flags in original battle context, and all146 shared rows in every actual use with final English neighbors. No compression needed. Radio formation provenance, legs/brass allusion, localized insults, literal death threats, defeat event separation, hidden rescuer references and request direction preserved. Initial drafts retained; name previews clear."
+ },
+ "full_checks": {
+  "rows": 269,
+  "uses": 331,
+  "problems": []
+ }
+}
