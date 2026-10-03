@@ -70,6 +70,15 @@ proven source address typo is corrected in final only, as documented in
 Exact review fingerprint:
 `6983857f91839c2af139cdb0cee98b114453f7996e9b692b40551fa1c336a077`.
 
-Stages 31–33 now total 2,374 fresh and 2,916 full rows, with 32 validated packets.
-Stage 34 is underway. Full-game local insertion and playtesting remain pending.
+Stage 34 is complete: 552 fresh rows in seven packets and 729 full rows. All
+11 fresh flags and every use of the 34 non-template reused rows were reviewed.
+The remaining 143 defeat-template rows have 410 registered uses. Two condition
+lines required measured shortening; both retain all defeat alternatives. Asona
+Island remains a provisional reading, and source jokes keep their documented
+provenance limits. Buddhist cultural terms are sourced without adding a sect.
+Exact review fingerprint:
+`3822fb8b42430653a043d3ae382ef485c20370c58fa0a40509eae8dcb5414755`.
+
+Stages 31–34 now total 2,926 fresh and 3,645 full rows, with 39 validated packets.
+Stage 35 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

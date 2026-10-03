@@ -3504,6 +3504,74 @@
     "work/translation/en/script/stage34_campaign.json:50"
    ],
    "notes": "Padded dressing gown, historical grammar Appendix H p163. First garment in Izumi happy/happi pun; retain literal clothing components and document sound loss."
+  },
+  {
+   "jp": "ダブルＧ",
+   "en": "Double G",
+   "sources": [
+    "work/translation/en/script/stage34_campaign.json:420"
+   ],
+   "notes": "Source two-GEAR joke followed by over-a-year metareference. Exact external referent independently unverified; do not expand to Alpha 2, Daizengar, or another inferred title."
+  },
+  {
+   "jp": "ゲッターフレア",
+   "en": "Getter Flare",
+   "sources": [
+    "work/translation/en/script/stage34_campaign.json:457"
+   ],
+   "notes": "Saburota deliberately guesses finishing-move name before actual Shine Spark answer. Literal source-fictional guess, not a canonical registered Getter attack; no independently verified licensed English form."
+  },
+  {
+   "jp": "ゲッターファイヤー",
+   "en": "Getter Fire",
+   "sources": [
+    "work/translation/en/script/stage34_campaign.json:457"
+   ],
+   "notes": "Second deliberate guessed move before actual Shine Spark answer. Literal loanword compound, not substituted Getter Beam or another actual weapon; licensed English form unverified."
+  },
+  {
+   "jp": "ハリ",
+   "en": "Hari",
+   "sources": [
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage34_campaign.json:460"
+   ],
+   "notes": "Source-short body nickname of Hari Makibi, distinct from ordinary short ハリー body address Harry. Frozen speaker prefills remain unchanged."
+  },
+  {
+   "jp": "錫杖",
+   "en": "ringed staff",
+   "sources": [
+    "https://www.city.saitama.lg.jp/en/sc/sightseeing-cp-nishi-6.html",
+    "work/translation/en/script/stage34_campaign.json:489"
+   ],
+   "notes": "Municipal cultural heritage explicitly calls shakujo a ringed staff. Kyral monastic weapon; do not invent number of rings or claim licensed game weapon name."
+  },
+  {
+   "jp": "極楽往生",
+   "en": "rebirth in the Pure Land",
+   "sources": [
+    "https://english.jodoshuna.org/about/",
+    "https://www.nichirenlibrary.org/en/dic/Content/P/141",
+    "work/translation/en/script/stage34_campaign.json:494"
+   ],
+   "notes": "Contextual Buddhist afterlife expression in Kyral repentance speech; official Buddhist institutions support Pure Land birth/rebirth terminology. No sect identification or absent Amida attribution added; not claimed licensed in-game wording."
+  },
+  {
+   "jp": "Ｍ型標本第一号",
+   "en": "M-type Specimen No. 1",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json:0"
+   ],
+   "notes": "Literal game designation. Akurasu RahXephon page has a different Human Specimen #1 episode title, not the exact designation. Independent licensed English compound unverified; do not expand M unless source explicitly does."
+  },
+  {
+   "jp": "ＭＵフェイズ反応",
+   "en": "MU phase response",
+   "sources": [
+    "work/translation/en/script/stage35_campaign.json:103"
+   ],
+   "notes": "Literal fictional blood-test term; Akurasu exact-term search found no entry and independent licensed English compound remains unverified. Preserve phase and MU without adding transformation explanation absent source."
   }
  ],
  "characters": [
