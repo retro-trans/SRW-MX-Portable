@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.4.2 — 2026-10-04 (`work/output/SRWMX_EN_0.4.2.iso`)
+
+- Translated every chapter-card title, covering all 67 scenarios, both starting
+  routes, route branches, later stages, the hidden stage and the final stage.
+- Enumerated 205 native bitmap copies: translated 160 Japanese copies and
+  preserved 45 existing English copies. Two Pursuer placeholders are included.
+- Genei LateGo captions fit one or two lines at 20 px, with complete descenders.
+  Every palette, non-title pixel, background, chapter number and animation is
+  preserved. No emulator texture replacement.
+- Added guarded reproduction tool and per-copy source/palette hashes. Checked
+  every changed rectangle and visually reviewed all translated title previews.
+  Reopened the ISO and verified all 31 other files unchanged from 0.4.1.
+- Native PPSSPP checks cover Stage 1 and a two-line renderer probe; full campaign
+  and physical PSP playtesting remain pending. Story coverage remains 1–30.
+- Full patch from the original Japanese ULJS-00041 ISO uses Retro Trans
+  manifests, whole-image round-trip validation and release checksums.
+
 ## 0.4.1 — 2026-10-04 (`work/output/SRWMX_EN_0.4.1.iso`)
 
 - Translated the requested Kaine save-message line in all three identical uses

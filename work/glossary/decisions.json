@@ -25,5 +25,19 @@
   "Galfa": "Gulfer",
   "Oger": "Ogre",
   "Ouga": "Ogre"
+ },
+ "chapter_card_titles_0_4_2": {
+  "冥府の王、その名は『天』": {
+   "en": "The King of Hades, His Name Is \"Heaven\"",
+   "reason": "Expand the existing King of Hades label. Akurasu Dynasty misreads the underworld reference."
+  },
+  "狙われたラ・ムーの星": {
+   "en": "The Star of La Mu, Targeted",
+   "reason": "Keep the existing source-faithful Targeted label; the source does not say Stolen."
+  },
+  "ゼオライマー、暁に出撃す": {
+   "en": "Zeorymer Sorties at Dawn",
+   "reason": "The actual Portable bitmap names Zeorymer; Akurasu lists a different title naming Hades."
+  }
  }
 }

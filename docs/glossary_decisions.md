@@ -512,3 +512,22 @@ The glossary keeps the akurasu names; these short forms are used only where a li
 
 The short forms are defined in `tools/build_static2_names.py` (SPRT_SHORT, SKILL_SHORT) and the BOOT
 spirit table overrides in `work/translation/en/ui/boot_ui.json`.
+
+## All chapter-card titles (0.4.2)
+
+Cards follow the existing scenario translations and full Akurasu titles where
+the scenario field had required an abbreviation. Existing English artwork stays
+unchanged. Three source-specific choices are explicit:
+
+- **The King of Hades, His Name Is "Heaven"** expands the existing scenario
+  label, preserving the underworld ruler and name in the game's title. Akurasu's
+  "Ruler of the Dynasty" mistranslates the underworld reference.
+- **The Star of La Mu, Targeted** retains the existing source-faithful label:
+  the Japanese says the star is targeted, rather than Akurasu's "Stolen".
+- **Zeorymer Sorties at Dawn** retains the actual Portable title's Zeorymer.
+  Akurasu lists a different Japanese title naming Hades; its inline explanatory
+  note is provenance, not text to print on the card.
+
+The hidden stage uses the existing **What Gnaws at the "Heart"** translation;
+the main flow chart has no entry for it. Two unused/default Pursuer atlases keep
+the same meaning when translated. Source names here are UI titles, not dialogue.

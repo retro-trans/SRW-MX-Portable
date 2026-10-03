@@ -8,34 +8,34 @@ Bug reports, proofreading and playtesting are welcome. Include your build versio
 
 ## Play it
 
-The first published build is [v0.4.1](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1). This is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. Later story stages, other chapter-card artwork and many closing messages remain Japanese.
+The latest build is [v0.4.2](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.2). This is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. All 67 chapter titles are in English, including route variants and the hidden and final stages. Later story stages and many closing messages remain Japanese.
 
-You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.1.xdelta` from the release page.
+You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.2.xdelta` from the release page.
 
 ### Apply
 
-**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic**: select the source ISO, wait for analysis, then click **Patch**. v0.4.1 is registered in the verified catalog. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
+**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic**: select the source ISO, wait for analysis, then click **Patch**. v0.4.2 is registered in the verified catalog. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) accepts the same `.xdelta` file. Select your Japanese ISO as the original file and the patch as the delta.
 
 **Command line:** Get [xdelta3](https://github.com/jmacd/xdelta), then run:
 
 ```sh
-xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.1.xdelta "SRWMX English v0.4.1.iso"
+xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.2.xdelta "SRWMX English v0.4.2.iso"
 ```
 
-The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.1.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier local English test builds as its source.
+The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.2.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier local English test builds as its source.
 
 Use an in-game save when switching builds and restart the game. Emulator save states retain the old executable and resources. The font and translated artwork are native game patches; no emulator texture replacement is required.
 
-![Stage 1 Super chapter card in v0.4.1](work/ui/chapter_card_0.4.1.png)
+![Stage 1 Super chapter card in v0.4.2](work/ui/chapter_card_0.4.2.png)
 
 ## Status
 
 - Prologue and stages 1–30 story translations are inserted; all route branches represented by the reviewed stage files are included.
 - Battle caption insertion was checked across 51,892 entries with no mismatches.
 - Latin dialogue uses a proportional Genei LateGo font with a native 4× atlas. Descenders, including the bottom of `g`, are preserved.
-- v0.4.1 adds Kaine's requested closing line in three occurrences and the stage 1 Super card **Visitors from the Beyond**.
+- All 67 chapter titles are covered across 205 native bitmap copies: 160 copies translated and 45 existing English copies preserved. Kaine's closing line from v0.4.1 is retained.
 - PPSSPP checks cover selected dialogue, interface screens and the translated chapter card. A complete campaign playthrough and physical PSP testing remain pending.
 - Stage 8's expanded script exceeds the original game's largest block. Its allocation uses the actual block size, but peak gameplay memory remains unverified. Please report any **Malloc Memory Over** error.
 

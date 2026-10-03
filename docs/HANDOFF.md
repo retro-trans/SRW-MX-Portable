@@ -5,7 +5,18 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
-**Current released build: 0.4.1.** Published at
+**Current build: 0.4.2.** Corrects the incomplete chapter-card coverage in 0.4.1:
+all 67 scenario titles are now covered across 205 atlases (160 translated,
+45 existing English copies preserved). Build is `work/output/SRWMX_EN_0.4.2.iso`.
+Only `PACKMAPC2_ADD.BIN` changes; all other 31 ISO files match 0.4.1 exactly.
+Reproduce with `tools/patch_chapter_cards.py work/output/SRWMX_EN_0.4.1.iso 0.4.2`.
+Metadata: `work/translation/en/ui/all_chapter_cards.json`; report:
+`work/output/chapter_cards_0.4.2_verification.json`. English preview sheets and
+native test captures are in `work/ui/`. See `docs/chapter_cards.md` for layout,
+palette handling and the scope of renderer probes. Story coverage is unchanged.
+Release packaging/publishing and catalog registration status is updated below.
+
+**Earlier released build: 0.4.1.** Published at
 https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1 in the now-public
 repository. The 1,396,947-byte full xdelta patch is built against the original
 Japanese ULJS-00041 ISO and reproduces the complete output SHA-256
