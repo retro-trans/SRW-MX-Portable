@@ -4455,6 +4455,54 @@
     "work/translation/en/script/stage41_campaign.json:447"
    ],
    "notes": "Official English city spelling; JNTO major-city menu or Mito municipality confirms only name. Preserve original city order/count and fictional event; no real geography or sightseeing added."
+  },
+  {
+   "jp": "要塞島",
+   "en": "Fortress Island",
+   "sources": [
+    "work/translation/en/script/stage42_campaign.json:6,57,58,59",
+    "https://akurasu.net/wiki/Getter_Robo_G"
+   ],
+   "notes": "Source-short base designation; capitalize consistently, do not expand to Hyakki or Science absent source. Related Akurasu Science Fortress Island supports context but does not verify exact shortened MX licensed label; retain provenance flag."
+  },
+  {
+   "jp": "重力制御装置",
+   "en": "gravity control device",
+   "sources": [
+    "work/translation/en/script/stage42_campaign.json:5,103",
+    "https://srw.wiki.cre.jp/wiki/科学要塞島"
+   ],
+   "notes": "Literal source fictional apparatus, Japanese SRWwiki corroborates compound after exact Akurasu search found no entry. Exact primary licensed English unverified; only source capabilities, no extra mechanism or specifications."
+  },
+  {
+   "jp": "鬼ケ島",
+   "en": "Ogre Island",
+   "sources": [
+    "work/translation/en/script/stage42_campaign.json:56,57",
+    "work/translation/en/script/stage42_campaign.json:215"
+   ],
+   "notes": "Literal island-name joke and immediately following correction to Fortress Island. Exact Akurasu/primary licensed English unverified; folklore allusion inferred, no added Momotaro explanation or new geographical identity.",
+   "aliases": [
+    "鬼ヶ島"
+   ]
+  },
+  {
+   "jp": "レッドアロー隊",
+   "en": "Red Arrow Squadron",
+   "sources": [
+    "work/translation/en/script/stage42_campaign.json:93"
+   ],
+   "notes": "Provisional source fictional callsign and formation wording. No exact Akurasu/primary licensed designation verified. Not identified with real RAF Red Arrows; no aircraft type, unit size or command level imported."
+  },
+  {
+   "jp": "ピクドロン",
+   "en": "Pikadron",
+   "sources": [
+    "https://akurasu.net/wiki/Master_Unit_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage42_campaign.json:228"
+   ],
+   "notes": "Exact short spelling from Akurasu Master Unit List, consistent with existing MX full Lightwave Beast Pikadron. Preserve source-short name without classifier expansion; other-game Pikudron variant is not an MX override."
   }
  ],
  "characters": [

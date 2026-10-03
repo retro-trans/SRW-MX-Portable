@@ -652,3 +652,22 @@ unverified licensed-English provenance. T.J. Buster and WP stay unexpanded.
 JNTO's major-city list and Mito municipality support the six city spellings
 only; the original list order and fictional military report remain unchanged.
 All links, source locations and limits are recorded in campaign terms.
+
+## Stage 42 terminology scope (2026-10-04)
+
+Fortress Island preserves the source-short form. Akurasu supports the related
+Science Fortress Island name, without requiring its longer name in shortened
+source dialogue. Gravity control device has secondary Japanese series-wiki
+corroboration after no exact Akurasu entry; no mechanism or capability is added.
+Ogre Island preserves the source’s brief name joke and correction, including
+both source spellings, without adding a folklore explanation or geographical
+identity. Red Arrow Squadron is a provisional fictional callsign and formation;
+no real-world RAF identity, aircraft type, size or command level is imported.
+These four licensed English labels remain explicitly unverified.
+
+Short Pikadron follows the exact Japanese/English pair in Akurasu’s Master Unit
+List and the MX list’s English spelling. The source-short name does not acquire
+the longer Lightwave Beast classifier unless the source includes it. No Akurasu
+override is made. The clone-making difficulty joke is localized with clone/groan
+soundplay; its note identifies figurative adaptation, not an added historical
+groaning event. All source locations, links and limits are in campaign terms.

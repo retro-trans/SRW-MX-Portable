@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–41: 6,503 fresh rows and 8,439 full rows.
+- Completed and reviewed stages 31–42: 6,876 fresh rows and 8,970 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 42 translation is ongoing.
+  stages 1–30 remain reviewed. Stage 43 translation is ongoing.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -25,6 +25,10 @@
   and every reused scene use. All drafts and finals fit without compression.
   Corrected three final Bright titles and preserved the Dolem destruction question;
   retained source-ranked address, technical-label and unnamed-recipient uncertainties.
+- Completed stage 42 with six actual translators and six packets; reviewed all
+  33 fresh flags, all reused scenes and conditional event order. Every full draft
+  and final fits without compression. Preserved the unfinished fortress accusation,
+  localized the clone-making pun and retained the later escort’s unknown identity.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

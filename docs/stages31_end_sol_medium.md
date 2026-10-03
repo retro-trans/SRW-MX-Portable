@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–41 now total 6,503 reviewed fresh rows, 8,439 full rows and 90 packets.
-Stage 42 is in progress. No later dialogue has yet been inserted into an ISO.
+Stages 31–42 now total 6,876 reviewed fresh rows, 8,970 full rows and 96 packets.
+Stage 43 is in progress. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -159,5 +159,17 @@ and Eldy's reveal order remain. Mutiara follows the actual source spelling,
 distinct from the unsupported old Mutiana entry. Exact review fingerprint:
 `b1911bb7b01cd324f8c40720aee8189165289ca8cd5c70940793603c9256ec52`.
 
-Stage 42 is underway. Full-game local insertion and playtesting remain pending.
+Stage 42 is complete: 373 fresh rows in six packets, 531 full rows and 596
+original uses. All 33 fresh flags and every use of the 15 non-template reused
+rows were reviewed. The 143 defeat-template rows have 205 registered uses and
+no ordinary uses. All full initial drafts and finals fit without compression.
+Conditional defeat storage stays distinct from later event order. The clone
+and difficulty pun uses documented clone/groan wordplay; the fortress accusation
+keeps its omitted predicate. Unknown Zero labels and the later unnamed escort
+retain source reveal order and gender neutrality. Fortress Island, Ogre Island,
+gravity control device and Red Arrow Squadron retain licensed-provenance limits;
+short Pikadron follows exact Akurasu evidence. Exact review fingerprint:
+`5888c4753f42679c66fbc744a16f58651c364b2dc2f0c1a2c88011e7f8706535`.
+
+Stage 43 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
