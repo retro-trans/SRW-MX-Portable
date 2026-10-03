@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–42: 6,876 fresh rows and 8,970 full rows.
+- Completed and reviewed stages 31–43: 7,390 fresh rows and 9,652 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 43 translation is ongoing.
+  stages 1–30 remain reviewed. Stage 44 translation is ongoing.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -29,6 +29,12 @@
   33 fresh flags, all reused scenes and conditional event order. Every full draft
   and final fits without compression. Preserved the unfinished fortress accusation,
   localized the clone-making pun and retained the later escort’s unknown identity.
+- Completed stage 43 with seven packets from six actual translators. Reviewed
+  all 67 fresh flags and every reused scene use; all drafts and finals fit without
+  compression. Kept false reports, implanted memories and deliberate name confusion;
+  normalized honorifics, comic suffixes and fixed names while preserving full drafts.
+- Refreshed all seven Akurasu MX term tables (485 entries); exact guard-title and
+  cosmological labels retain documented licensed-provenance limits.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

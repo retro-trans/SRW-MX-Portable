@@ -671,3 +671,27 @@ the longer Lightwave Beast classifier unless the source includes it. No Akurasu
 override is made. The clone-making difficulty joke is localized with clone/groan
 soundplay; its note identifies figurative adaptation, not an added historical
 groaning event. All source locations, links and limits are in campaign terms.
+
+## Stage 43 terminology scope (2026-10-04)
+
+Refreshed all seven Akurasu MX tables with tools/akurasu_terms.py into the local
+source folder: 485 entries. Guard Captain Altair applies only to the explicit
+ranked source address. Existing character profile and secondary Japanese SRWwiki
+corroborate guard leadership; exact Akurasu/licensed ranked wording remains
+unverified. No branch, guard-unit name or additional authority is supplied.
+
+Gades’s great will, Infinite Power and Observer are source-literal cosmological
+labels. Related Akurasu Ideon title wording and Observer of Time entry do not
+establish an exact MX licensed name or justify adding of Time. Tuner retains
+its existing provisional wording. These labels remain claims inside the scene;
+no Ide, Einst, god or future character identity is imported. The actual source
+will spelling is preserved despite a secondary transcription variant. The
+secondary indexed Gades quotation corroborates Japanese context only; direct
+page retrieval timed out. Links and these limits are recorded in campaign terms.
+
+Final honorific treatment follows the frozen brief. Source -sama titles are
+dropped unless fixed by the glossary, while actual ranks and His Majesty remain.
+Machine General dawa/bari/jan suffixes preserve the joke explicitly noticed in
+the dialogue. The bucket/shadow malapropism keeps a wrong word and immediate
+self-correction in an adapted speak-of-the-devil phrase; its lost rhyme remains
+documented. Source-hidden labels, false memories and story claims are preserved.

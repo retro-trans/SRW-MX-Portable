@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–42 now total 6,876 reviewed fresh rows, 8,970 full rows and 96 packets.
-Stage 43 is in progress. No later dialogue has yet been inserted into an ISO.
+Stages 31–43 now total 7,390 reviewed fresh rows, 9,652 full rows and 103 packets.
+Stage 44 is in progress. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -171,5 +171,20 @@ gravity control device and Red Arrow Squadron retain licensed-provenance limits;
 short Pikadron follows exact Akurasu evidence. Exact review fingerprint:
 `5888c4753f42679c66fbc744a16f58651c364b2dc2f0c1a2c88011e7f8706535`.
 
-Stage 43 is underway. Full-game local insertion and playtesting remain pending.
+Stage 43 is complete: 514 fresh rows in seven separate packets, 682 full rows
+and 756 original uses. Six actual translators preserved full immutable drafts.
+All 67 fresh flags and every occurrence of the 25 non-template reused rows were
+reviewed; 143 defeat-template rows have 205 registrations and no ordinary uses.
+Every initial and final row fits the current font without compression. Conditional
+encounters and defeat storage stay separate from rescue and infiltration events.
+Zero’s false Altair-death claims, Meteo’s false security report, implanted battle
+history and Hokuto’s Ginga/Subaru confusion remain. Brother-role attribution,
+Alktos-survivor conjecture, unknown infant origin and cross-row fragments stay
+explicit. Final-only corrections follow fixed names, rank and honorific rules
+and preserve Machine General comic suffixes. Guard Captain Altair and Gades’s
+cosmological labels retain licensed-provenance flags without added identities.
+Exact review fingerprint:
+`dad10192e59bdb00a036a38e4e802c38684247cbbbe8b25e1175bdd0a4409847`.
+
+Stage 44 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

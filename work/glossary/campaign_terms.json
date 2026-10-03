@@ -4503,6 +4503,46 @@
     "work/translation/en/script/stage42_campaign.json:228"
    ],
    "notes": "Exact short spelling from Akurasu Master Unit List, consistent with existing MX full Lightwave Beast Pikadron. Preserve source-short name without classifier expansion; other-game Pikudron variant is not an MX override."
+  },
+  {
+   "jp": "親衛隊長アルテア",
+   "en": "Guard Captain Altair",
+   "sources": [
+    "work/translation/en/script/stage43_campaign.json:184",
+    "work/glossary/glossary.json",
+    "https://srw.wiki.cre.jp/wiki/アルテア",
+    "https://en.wikipedia.org/wiki/Gear_Fighter_Dendoh"
+   ],
+   "notes": "Explicit Altair title only; established profile and secondary Japanese SRWwiki corroborate guard leadership. Fresh Akurasu MX tables and targeted search found no exact English ranked address. Licensed title translation remains provisional; do not import extra guard unit, branch or authority. Not a generic mapping of all guard captains."
+  },
+  {
+   "jp": "大いなる意志",
+   "en": "great will",
+   "sources": [
+    "work/translation/en/script/stage43_campaign.json:456",
+    "https://srw.wiki.cre.jp/wiki/ガデス"
+   ],
+   "notes": "Source-literal descriptive cosmological label in Gades claim; secondary indexed exact MX quotation corroborates context, not licensed English. Source uses 意志; secondary transcription 意思 is not a source correction. Fresh Akurasu MX tables and targeted search found no exact licensed label. No identification with Ide, Einst, a specific god or future observer."
+  },
+  {
+   "jp": "無限の力",
+   "en": "Infinite Power",
+   "sources": [
+    "work/translation/en/script/stage43_campaign.json:459",
+    "https://srw.wiki.cre.jp/wiki/ガデス",
+    "https://akurasu.net/wiki/Space_Runaway_Ideon"
+   ],
+   "notes": "Quoted literal cosmological label in Gades claim. Akurasu uses Infinite Power in a related Ideon episode title, but does not establish exact MX licensed wording or entity identity. Secondary indexed MX quotation corroborates JP context only. Do not expand to Power of Infinite Positivity/Negativity or import Ide identity."
+  },
+  {
+   "jp": "観測者",
+   "en": "Observer",
+   "sources": [
+    "work/translation/en/script/stage43_campaign.json:459",
+    "https://srw.wiki.cre.jp/wiki/ガデス",
+    "https://akurasu.net/wiki/Master_Characters_List"
+   ],
+   "notes": "Bare quoted label in Gades cosmological assertion; literal English remains licensed-unverified. Related Akurasu Observer of Time entry does not justify adding of Time or identifying this source-short role. No future character, franchise or mechanism disclosed."
   }
  ],
  "characters": [
