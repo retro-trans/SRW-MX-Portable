@@ -3690,6 +3690,98 @@
     "work/translation/en/script/stage36_campaign.json"
    ],
    "notes": "Source full machine-category loanword. EVA is acceptable where source abbreviates; franchise title separately remains Neon Genesis Evangelion. No franchise title expansion in ordinary unit dialogue."
+  },
+  {
+   "jp": "オールナーブリング",
+   "en": "all nerve links",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh250. NERV startup status term; descriptive rendering of fictional English loanword. No exact Akurasu or independently verified licensed English entry found."
+  },
+  {
+   "jp": "絶対境界線",
+   "en": "absolute boundary",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh251. Source-specific NERV activation term, literal provisional licensed wording. Distinct from RahXephon absolute barrier 絶対障壁; do not equate them."
+  },
+  {
+   "jp": "Ａ１０神経接続",
+   "en": "A10 nerve connection",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh251. Direct alphanumeric and ordinary noun rendering; fictional connection, no anatomical mechanism or headset term inferred.",
+   "aliases_jp": [
+    "A10神経接続"
+   ]
+  },
+  {
+   "jp": "小田原",
+   "en": "Odawara",
+   "sources": [
+    "https://www.odawara-kankou.com/",
+    "https://www.odawara-kankou.com/global-image/units/upfiles/4651-1-20170207114549_b589934ddccdfd.pdf",
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "No exact Akurasu entry found; official city tourism English spelling. Include district only where source supplies the qualifier."
+  },
+  {
+   "jp": "Ｄ１同調者",
+   "en": "D1 synchronizer",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh526. Provisional literal designation; no exact Akurasu entry found or licensed English confirmation. Identified girl follows ID and Haruka address as Hiroko. Do not replace with Ollin or Instrumentalist.",
+   "aliases_jp": [
+    "D1同調者"
+   ]
+  },
+  {
+   "jp": "ＬＣＬ",
+   "en": "LCL",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh513. Preserve source acronym; no expansion or disputed fictional etymology added.",
+   "aliases_jp": [
+    "LCL"
+   ]
+  },
+  {
+   "jp": "直轄回路",
+   "en": "direct-control circuit",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Fresh517. Provisional literal technical compound; no exact Akurasu/verified licensed English found. Do not invent mechanism details."
+  },
+  {
+   "jp": "箱根",
+   "en": "Hakone",
+   "sources": [
+    "https://www.hakone.or.jp/files/w007_2017121203410665757.pdf",
+    "https://hakone-japan.com/discover/history/hakone-history/fishing-at-lake-ashi-2/"
+   ],
+   "notes": "No exact Akurasu entry found; official tourism spelling for place source37 fresh13."
+  },
+  {
+   "jp": "ワカサギ",
+   "en": "pond smelt",
+   "sources": [
+    "https://hakone-japan.com/discover/history/hakone-history/fishing-at-lake-ashi-2/"
+   ],
+   "notes": "No Akurasu entry found. Japan Tourism Agency authored official Hakone text explicitly identifies wakasagi as Japanese pond smelt; preserve local-food reference without invented dishes."
+  },
+  {
+   "jp": "感情素子",
+   "en": "emotional elements",
+   "sources": [
+    "work/translation/en/script/stage36_campaign.json"
+   ],
+   "notes": "Stage36 fresh465. Literal provisional NERV technical compound; no exact Akurasu entry found. No licensed English confirmation, no mechanism explanation inferred."
   }
  ],
  "characters": [

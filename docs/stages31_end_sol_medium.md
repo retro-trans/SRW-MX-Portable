@@ -29,7 +29,9 @@ Every original scene/string use is retained in final assemblies.
 The current rules and translator brief are frozen as `BASE_RULES_remaining.md`
 and `TRANSLATOR_BRIEF_remaining.md`. Each packet retains a full initial draft,
 final translation, context/decision report and actual font measurements.
-Compression is allowed only after measured overflow. Nonobvious referents,
+Compression is allowed only after measured overflow. Dialogue and thoughts allow
+three actual wrapped lines regardless of the source Japanese line count; only
+plain text preserves the original fixed line count. Nonobvious referents,
 retained omissions, terminology gaps and uncertain provenance remain explicit.
 
 Preparation preview: `python tools/prepare_remaining_campaign.py`.
@@ -89,6 +91,17 @@ sources. Unfinished actions, poetic fragments and the address contrast remain
 explicitly documented. Exact review fingerprint:
 `dc347ddcb1a65906cd6c740ebddbb220669f4f229d2c785272b06362cfaefb50`.
 
-Stages 31–35 now total 3,548 fresh and 4,446 full rows, with 47 validated packets.
-Stage 36 is underway. Full-game local insertion and playtesting remain pending.
+Stage 36 is complete: 547 fresh rows in seven packets, 723 full rows and 825
+original uses. All 15 fresh flags and all 33 non-template reused rows were
+reviewed in every scene context. The 143 defeat-template rows have 205 registered
+uses and no ordinary uses. One real four-line draft overflow was shortened to
+three lines without losing branch/workplace details. Four fitting drafts were
+restored after correcting an artificial source dialogue-line ceiling; explicit
+hospital context survives. Final rank Colonel Bright follows the source.
+Provisional NERV compounds, Toji's confession referent and intentional fragments
+remain documented. Exact review fingerprint:
+`7858c6d16d0dd37675892ed59a69f1dd04c03048c48a7e57a704cfb28b4c7f5c`.
+
+Stages 31–36 now total 4,095 fresh and 5,169 full rows, with 54 validated packets.
+Stage 37 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
