@@ -531,3 +531,16 @@ unchanged. Three source-specific choices are explicit:
 The hidden stage uses the existing **What Gnaws at the "Heart"** translation;
 the main flow chart has no entry for it. Two unused/default Pursuer atlases keep
 the same meaning when translated. Source names here are UI titles, not dialogue.
+
+## Stage 33 source address correction
+
+Fresh row 889 (full row 1070, `s06s40:290`) has Ryoko address Hikaru and herself.
+The English final addresses **Hikaru, Izumi**. Ryoko explicitly addresses that
+pair in fresh rows 836 and 957, and Izumi and Hikaru answer immediately in
+890–891. The translator independently confirmed this evidence. The preserved
+initial draft retains the source names; the original source and speaker label
+remain intact. This correction is scoped to this line, not a name replacement.
+
+Stage 33's later truncated **Frank Naga...** reference also supports the earlier
+blank/long sound joke interpretation, without supplying the missing syllables.
+The sound connection remains documented as a translation limitation.

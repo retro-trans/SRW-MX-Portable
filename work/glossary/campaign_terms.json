@@ -3348,6 +3348,162 @@
     "https://en.at-nagasaki.jp/barrierfree/64187"
    ],
    "notes": "Official Nagasaki City and tourism spelling for waters west of Nagasaki, matching stage33 rows103-105. No Akurasu location entry found. Source-short repeated question may say Sumonada without adding Sea."
+  },
+  {
+   "jp": "ＵＭＡ",
+   "en": "UMA",
+   "aliases_jp": [
+    "ユーマ"
+   ],
+   "sources": [
+    "https://www.city.adachi.tokyo.jp/documents/64695/20170710.pdf"
+   ],
+   "notes": "Japanese cryptid acronym Unidentified Mysterious Animal, confirmed by Adachi City educational event. Preserve source explicit English expansion and UMA/uma horse joke; pronunciation/localization limitations remain noted."
+  },
+  {
+   "jp": "ネッシー",
+   "en": "Nessie",
+   "sources": [
+    "https://www.visitscotland.com/places-to-go/loch-ness/things-to-do/nessie"
+   ],
+   "notes": "Official VisitScotland spelling for legendary Loch Ness Monster. No Akurasu term entry found."
+  },
+  {
+   "jp": "ヒバゴン",
+   "en": "Hibagon",
+   "sources": [
+    "https://www.pref.hiroshima.lg.jp/site/hiroshima-summit-en/stage.html"
+   ],
+   "notes": "Official Hiroshima Prefecture identifies the legendary ape-man from Mt. Hiba by this name. No Akurasu entry found."
+  },
+  {
+   "jp": "イエティ",
+   "en": "Yeti",
+   "sources": [
+    "https://www.si.edu/object/siris_sil_925177"
+   ],
+   "notes": "Established English spelling for Himalayan folkloric creature, also used in Smithsonian bibliographic sections. No Akurasu entry found; do not replace with Bigfoot."
+  },
+  {
+   "jp": "ゲッターまんじゅう",
+   "en": "Getter manju",
+   "sources": [
+    "work/translation/en/script/stage33_campaign.json:174",
+    "https://www.japan.travel/en/sg/guide/sakura-flavoured-sweets-spring/"
+   ],
+   "notes": "Fictional Getter-branded souvenir sweets from Mount Asama. JNTO confirms generic manju as steamed sweet buns, but not fictional Getter product. Source says they stretch; preserve without invented ingredients."
+  },
+  {
+   "jp": "河童",
+   "en": "kappa",
+   "sources": [
+    "https://www.japan.travel/en/spot/481/"
+   ],
+   "notes": "JNTO spelling for Japanese folkloric water creature. Keep carp/chopping-board and kappa/land imagery in source metaphor; cultural nuance can be noted. No Akurasu entry found."
+  },
+  {
+   "jp": "ゴーガン",
+   "en": "Go Gun",
+   "sources": [
+    "work/glossary/glossary.json:デンドーゴーガン",
+    "work/translation/en/script/stage33_campaign.json:658"
+   ],
+   "notes": "Source-short Dendoh Go Gun in Eris discussion of Dendoh equipment. Use existing canonical stem without adding full unit prefix."
+  },
+  {
+   "jp": "ナチュラルライチ ラブラブ熱血大作戦",
+   "en": "Natural Lychee: Lovey-Dovey Hot-Blooded Operation",
+   "sources": [
+    "work/translation/en/script/stage33_campaign.json:714"
+   ],
+   "notes": "Source-fictional game title, full source-literal project rendering. Exact Akurasu entry or established licensed English game title not found. Natural Lychee base spelling agrees with franchise reference usage, but game subtitle provenance remains uncertain. Do not expand with Magical Princess absent from this source."
+  },
+  {
+   "jp": "アルデバラン",
+   "en": "Aldebaran",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/MX/Secrets"
+   ],
+   "notes": "Akurasu MX Full Armor Dendoh conditions explicitly identify entering Aldebaran, matching the Gulfer battleship interior in stage33. Canonical source found outside MX mech list."
+  },
+  {
+   "jp": "宝塚",
+   "en": "Takarazuka",
+   "sources": [
+    "https://kageki.hankyu.co.jp/english/",
+    "work/translation/en/script/stage33_campaign.json:833-835"
+   ],
+   "notes": "Official name spelling. Izumi substitutes this name into an old-skills proverb; keep the malapropism and correction, noting limited sound-pun transfer. Do not add Revue when source only says Takarazuka."
+  },
+  {
+   "jp": "三千院",
+   "en": "Sanzen-in",
+   "sources": [
+    "https://kyoto.travel/en/destinations/sanzenin-temple/",
+    "https://www.nippon-animation.co.jp/work/962/"
+   ],
+   "notes": "Official Kyoto temple spelling. Stage33 row843 twists Mother-search anime sanzenri into Sanzen-in, then names Ohara Kyoto; preserve temple twist rather than substitute anime official full English title."
+  },
+  {
+   "jp": "フランク永井",
+   "en": "Frank Nagai",
+   "sources": [
+    "https://www.jvcmusic.co.jp/-/Artist/A000152.html"
+   ],
+   "notes": "Official Victor artist spelling. Stage33 row890 deliberately cuts off name at Frank Naga..., so do not complete it. Phonetic link to blank/nagai is Japanese-specific and remains noted."
+  },
+  {
+   "jp": "南西諸島",
+   "en": "Nansei Islands",
+   "sources": [
+    "https://www.kaiho.mlit.go.jp/e/mission/guarding_tws_and_eez.html",
+    "https://www.data.jma.go.jp/vois/data/fukuoka/eng/508/508-eng.htm"
+   ],
+   "notes": "Akurasu exact-term search found no entry. Official Japanese Coast Guard and JMA English spelling; source stage34 row27."
+  },
+  {
+   "jp": "有曽名島",
+   "en": "Asona Island",
+   "sources": [
+    "work/translation/en/script/stage34_campaign.json:19,21,27,377"
+   ],
+   "notes": "Provisional reading and English form from game source; Akurasu exact search and external research found no verified reading or licensed English localization. The source locates it near Nirai-Kanai in Nansei Islands; do not claim independently established RahXephon lore."
+  },
+  {
+   "jp": "三機将",
+   "en": "Three Machine Generals",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/translation/en/script/stage34_campaign.json:158"
+   ],
+   "notes": "Counted title composed from canonical Machine General stem and three existing Giga character positions. Do not add rank to source names that omit it."
+  },
+  {
+   "jp": "バトルフィールド",
+   "en": "battlefield",
+   "sources": [
+    "work/translation/en/script/stage34_campaign.json:134,155"
+   ],
+   "notes": "Literal source English loanword describing Giga Gourmet electromagnetic interference field. Akurasu exact technique search found no entry; licensed technique naming/capitalization independently unverified. Preserve field mechanism in surrounding dialogue."
+  },
+  {
+   "jp": "ハッピ",
+   "en": "happi",
+   "sources": [
+    "https://www.metmuseum.org/art/collection/search/45189",
+    "work/translation/en/script/stage34_campaign.json:50"
+   ],
+   "notes": "Short coat sense in happy/happi sound joke; no unrelated replacement joke. Met confirms garment term."
+  },
+  {
+   "jp": "ドテラ",
+   "en": "dotera",
+   "sources": [
+    "https://csclub.uwaterloo.ca/~rfburger/japanese-as-it-is-spoken-a-beginners-grammar-joseph-w-ballantine-1945.pdf",
+    "work/translation/en/script/stage34_campaign.json:50"
+   ],
+   "notes": "Padded dressing gown, historical grammar Appendix H p163. First garment in Izumi happy/happi pun; retain literal clothing components and document sound loss."
   }
  ],
  "characters": [
@@ -3675,6 +3831,16 @@
     "work/translation/en/script/stage56_campaign.json"
    ],
    "notes": "Original s0570:350 has stray katakana Go after the male nickname placeholder. Adjacent343-356 use the normal male-lead label throughout the same confession. Preserve runtime nickname token and correct stray suffix in English speaker label; original Japanese remains untouched."
+  },
+  {
+   "jp": "プロス",
+   "en": "Pros",
+   "canonical_jp": "プロスペクター",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/プロスペクター",
+    "work/translation/en/script/stage33_campaign.json:681-695"
+   ],
+   "notes": "Source-short nickname of Prospector, established by scene continuity and corroborated by SRW Wiki. Main character name, biography and gender retain glossary sources."
   }
  ]
 }

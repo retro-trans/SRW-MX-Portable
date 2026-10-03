@@ -10,6 +10,12 @@ The queue is `work/output/stages31_end_sol_medium_manifest.json` and uses
 workers share each group in waves of at most three simultaneous translators.
 These are initial preparation counts, not completed translation counts.
 
+Source-queue coverage audit: all 203 original scene blocks and 51,366 readable
+scene/string uses are represented by the prologue and all stage/group sources;
+no readable use is omitted. Local report:
+`work/output/full_dialogue_queue_coverage.json`. This checks queue coverage,
+not completed translation or insertion into the game.
+
 Stages 31–54 include every mapped route. Internal group 55 is the final stage
 with its before/map/after scenes (including the ending); group 56 is the hidden
 stage. Group 57 covers unreferenced old scenes and group 58 covers save/closing
@@ -53,5 +59,17 @@ their documented uncertainty. Chicken and Mandala puns are localized with notes.
 Exact review fingerprint:
 `7bce06e4d52b61270584d0da13bb0f050f44446488cf1b9a3ddf7f77410b8755`.
 
-Stage 33 has begun. Full-game local insertion and playtesting remain pending.
+Stage 33 is complete: 1,070 fresh rows in fourteen packets, 1,264 full rows and
+1,593 original scene uses. All 26 fresh flagged rows and all 194 reused rows
+were reviewed in their route contexts. The 143 generic defeat rows have 410
+registered uses plus one ordinary Koji silence, checked separately. The other
+51 reused rows include repeated family scenes and Data Weapon silences.
+Three measured draft overflows were shortened without losing meaning. One
+proven source address typo is corrected in final only, as documented in
+`docs/glossary_decisions.md`; deliberate contract and mask fragments remain.
+Exact review fingerprint:
+`6983857f91839c2af139cdb0cee98b114453f7996e9b692b40551fa1c336a077`.
+
+Stages 31–33 now total 2,374 fresh and 2,916 full rows, with 32 validated packets.
+Stage 34 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
