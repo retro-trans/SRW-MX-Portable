@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–43 now total 7,390 reviewed fresh rows, 9,652 full rows and 103 packets.
-Stage 44 is in progress. No later dialogue has yet been inserted into an ISO.
+Stages 31–44 now total 7,846 reviewed fresh rows, 10,273 full rows and 109 packets.
+Stage 45 is in progress. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -186,5 +186,22 @@ cosmological labels retain licensed-provenance flags without added identities.
 Exact review fingerprint:
 `dad10192e59bdb00a036a38e4e802c38684247cbbbe8b25e1175bdd0a4409847`.
 
-Stage 44 is underway. Full-game local insertion and playtesting remain pending.
+Stage 44 is complete: 456 fresh rows in six packets, 621 full rows and 693
+original uses. Six actual Sol 6.1 Medium translators preserved immutable full
+drafts. All 58 fresh flags and every occurrence of 22 non-template reused rows
+were reviewed. The remaining 143 defeat-template rows have 205 registrations
+and no ordinary uses. One initial plain list measured 439 px; reflow across its
+original three lines preserves all five units and both defeat conditions at
+293/305/226 px. Every final row fits; no dialogue compression. Both Hokuto
+recovery branches retain their second/third insult counts and false memories.
+Unknown child references, alternate-world Gades claims, unfinished sentences
+and hidden speaker labels remain faithful to their source contexts. Fixed
+Commander Ranking and Leina Power Raiser labels follow scoped glossary rules.
+Rosammy follows Akurasu; Nagase's special reading has primary manufacturer
+confirmation. Descriptive dimensional terms and the literal softshell-turtle
+epithet retain licensed-provenance limits; Altair's human-fear clause retains
+its bounded grammatical ambiguity. Exact review fingerprint:
+`f98b15cd5bcfee3ea8dac49998fbb988dc9915c32fa4d89dd8d3a00fe62a0eef`.
+
+Stage 45 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.

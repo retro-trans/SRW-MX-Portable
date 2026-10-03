@@ -695,3 +695,34 @@ Machine General dawa/bari/jan suffixes preserve the joke explicitly noticed in
 the dialogue. The bucket/shadow malapropism keeps a wrong word and immediate
 self-correction in an adapted speak-of-the-devil phrase; its lost rhyme remains
 documented. Source-hidden labels, false memories and story claims are preserved.
+
+## Stage 44 terminology scope (2026-10-04)
+
+Akurasu remains primary, using the refreshed seven MX tables and targeted
+exact-term searches. Rosammy is the source-short nickname documented by the
+Akurasu A Portable character list and Zeta episode title. A full-name expansion
+is not supplied. Leina's source-short Power Raiser follows the MX unit entry;
+the older generic Riser wording does not override that unit, and Garudi's
+separate variant is unchanged. Short Valhalla keeps the existing unit name
+without adding Cell Booster where the source omits it.
+
+Nagase names Garudi's sword. No exact Akurasu sword entry was located. Primary
+Art Storm product text explicitly supplies its special Japanese reading;
+Sentinel lists the matching sword and Twin Blade accessories. This confirms
+the reading used by the existing Garudi profile, not a new licensed MX English
+translation. No ordinary Ryusei reading or Shooting Star gloss is appended.
+Source locations and links are in campaign terms.
+
+Dimensional intersection line and dimensional jump device are descriptive
+source-literal phrases with no exact Akurasu or licensed English entry found.
+No named device, mechanism or cosmological identity is inferred. The softshell
+turtle stem follows primary MAFF terminology; the Japanese SRW Wiki indexed
+MX quotation corroborates the nickname context. Its exact licensed epithet
+remains unverified. No animal behavior or cuisine detail is inserted.
+
+The bad-name idiom joke preserves a correct expression followed by a wrong
+self-correction and immediate reprimand. Both Hokuto recovery branches keep
+their separate insult counts. Gades's alternate-world account is translated
+as his claim; hidden voices and unfinished clauses retain reveal order. The
+Altair human-fear clause remains explicitly ambiguous after adjacent-scene
+review. These are documented translation decisions, not added story facts.

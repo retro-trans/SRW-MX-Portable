@@ -4543,6 +4543,75 @@
     "https://akurasu.net/wiki/Master_Characters_List"
    ],
    "notes": "Bare quoted label in Gades cosmological assertion; literal English remains licensed-unverified. Related Akurasu Observer of Time entry does not justify adding of Time or identifying this source-short role. No future character, franchise or mechanism disclosed."
+  },
+  {
+   "jp": "次元交錯線",
+   "en": "dimensional intersection line",
+   "sources": [
+    "work/translation/en/script/stage44_campaign.json:73"
+   ],
+   "notes": "No exact entry found in freshly refreshed Akurasu MX tables or targeted Akurasu lookup. Literal provisional fictional term; singular source does not specify count. No physical mechanism or independent licensed English provenance established."
+  },
+  {
+   "jp": "スッポンのデビルサターン６",
+   "en": "Softshell Turtle Devil Saturn 6",
+   "sources": [
+    "work/translation/en/script/stage44_campaign.json:140",
+    "https://srw.wiki.cre.jp/wiki/デビルサターン6",
+    "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/619/index.html"
+   ],
+   "notes": "No exact Akurasu nickname entry located. Japanese SRW Wiki indexed MX dying quotation corroborates nickname context. Primary MAFF Gameni page identifies suppon as soft-shelled turtle, not snapping turtle; supports literal animal stem only. Licensed English epithet unverified. Do not import cuisine, taxonomy detail or extra story."
+  },
+  {
+   "jp": "ロザミィ",
+   "en": "Rosammy",
+   "canonical_jp": "ロザミア・バダム",
+   "sources": [
+    "https://www.akurasu.net/wiki/Super_Robot_Wars/A_Portable/Character_List",
+    "https://akurasu.net/wiki/Mobile_Suit_Z_Gundam",
+    "work/translation/en/script/stage44_campaign.json:259"
+   ],
+   "notes": "Source-short nickname. Akurasu A Portable lists Rosamia Badam / Rosammy; Zeta episode42 title gives Goodbye, Rosammy. MX refreshed character table has no exact short entry. Do not expand nickname to full name or import profile events."
+  },
+  {
+   "jp": "流星",
+   "en": "Nagase",
+   "sources": [
+    "https://artstorm.co.jp/esgokin_baikanfu.html",
+    "https://sen-ti-nel.co.jp/items/revenge-of-chronos/",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage44_campaign.json:352-355,437"
+   ],
+   "notes": "Garudi sword in this scene, distinct from Amuro White Shooting Star epithet. No exact Akurasu sword entry located. Primary Art Storm product explicitly gives special reading ながせ; Sentinel lists sword and Twin Blade accessories. Romanized Nagase preserves existing Garudi profile wording; primary Japanese reading is verified, exact licensed English MX wording unverified. Do not substitute ordinary Ryusei reading or append Shooting Star unless source glosses it."
+  },
+  {
+   "jp": "パワーライザー",
+   "en": "Power Raiser",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage44_campaign.json:72,225,291,338"
+   ],
+   "notes": "Scoped source-short unit name for Leina unit in conditions and sensor report. Akurasu MX names Power Raiser (Leina), and main unit entry already follows it; drop pilot qualifier when source omits it. Older generic technology record and Garudi variant say Riser; this record does not change Garudi variant or other contexts. No Akurasu override."
+  },
+  {
+   "jp": "バルハラ",
+   "en": "Valhalla",
+   "canonical_jp": "セルブースターバルハラ",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/glossary/glossary.json",
+    "work/translation/en/script/stage44_campaign.json:72,225,291"
+   ],
+   "notes": "Source-short Valhalla in loss conditions. Preserve established Valhalla name without adding longer Cell Booster classifier or treating as a new unit; existing main profile governs full name."
+  },
+  {
+   "jp": "次元跳躍装置",
+   "en": "dimensional jump device",
+   "sources": [
+    "work/translation/en/script/stage44_campaign.json:372"
+   ],
+   "notes": "No exact Akurasu entry found in refreshed MX tables or targeted exact lookup. Descriptive literal device phrase in Leina unfinished account; not System XN or any other named device, no mechanism or licensed English term established."
   }
  ],
  "characters": [
