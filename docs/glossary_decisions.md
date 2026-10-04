@@ -764,7 +764,7 @@ corroborates SP as Dorchenov's subordinates without establishing an English
 expansion. Do not add Special Police, Special Forces, or the anime's different
 broadcast mechanism. Exact licensed English wording remains unverified.
 
-## Stage 47 terminology review — 2026-10-04 (translation in progress)
+## Stage 47 terminology review — 2026-10-04
 
 - **Borne** is the source-short author surname, rendered in ASCII for the font.
   No exact Akurasu entry was found. The four metaphor mappings identify Ludwig
@@ -784,3 +784,20 @@ broadcast mechanism. Exact licensed English wording remains unverified.
 
 Exact licensed MX spellings remain unverified where stated. Initial drafts stay
 unchanged; these decisions do not override Akurasu entries.
+
+## Stage 48 terminology review — 2026-10-04 (translation in progress)
+
+[Akurasu's MX Mech List](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List)
+supports the painted **Original** label through Great Mazinger (Original),
+correcting the scoped older Ganso romanization. Earlier source occurrences in
+stages 10 and 34 already use ordinary original correctly and need no change.
+The alternate label suggestions Number One and True remain jokes; they do not
+establish different actual units. **Black Great** uses the existing unit's
+documented short variant to preserve the immediate English-color joke.
+
+Source-short **Guragura** keeps the Akurasu MX Vega Beast Guragura stem. Tetsuya's
+deliberate Furafura misnaming and wobbling joke must not be silently corrected.
+**GM** follows the exact Japanese/English pair in
+[Akurasu's Master Unit List](https://akurasu.net/wiki/Master_Unit_List); retain
+the source's Latin stem without a model number or added expansion. These
+decisions do not override Akurasu, and initial drafts stay unchanged.

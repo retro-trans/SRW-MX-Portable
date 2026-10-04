@@ -4781,6 +4781,43 @@
     "work/translation/en/script/stage47_campaign_all_source.json"
    ],
    "notes": "Source-short nickname addressed to Saburota in the immediately connected horse banter. No exact Akurasu nickname entry located; literal romanization Sabu is provisional. Do not expand to full Saburota or confuse a different character; licensed nickname spelling unverified."
+  },
+  {
+   "jp": "元祖",
+   "en": "Original",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Scoped to the painted identifying label on the real Great Mazinger in stage48. Akurasu explicitly names Great Mazinger (Original), establishing the English label stem over stale main Ganso romanization. Do not turn the gag labels Number One or True into different actual units. Earlier source occurrences in stages10/34 already use ordinary original correctly; no changes needed. No Akurasu override."
+  },
+  {
+   "jp": "ブラックグレート",
+   "en": "Black Great",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Source-short unpunctuated Black Great joke in stage48; main full Black Great Mazinger record explicitly lists Black Great variant. Do not expand source nickname with Mazinger, which weakens the immediate English-color joke."
+  },
+  {
+   "jp": "グラグラ",
+   "en": "Guragura",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Source-short stem of Akurasu MX Vega Beast Guragura. Keep short in body when source omits Vega Beast; Tetsuya Guragura/Furafura name pun must preserve dismissive wobbling contrast, not silently correct his deliberate misnaming. No Gragra alternative override."
+  },
+  {
+   "jp": "ＧＭ",
+   "en": "GM",
+   "aliases": [
+    "GM",
+    "ジム"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/Master_Unit_List"
+   ],
+   "notes": "Akurasu established GM unit stem; stage48 source is already fullwidth Latin GM in a mass-production example. Retain ASCII GM without model number, full-name expansion or combat facts."
   }
  ],
  "characters": [

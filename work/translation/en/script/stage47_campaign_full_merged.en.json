@@ -1,0 +1,6227 @@
+{
+ "scenes": [
+  "i093b",
+  "s0930"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "Farewell to your Memories",
+   "scenes": [
+    "i093b",
+    "s0930"
+   ],
+   "map_scene": "s0930"
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "i093b:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "...Ruri and the Nadesico C have joined up with them. They will Boson Jump to Mars shortly...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 0
+   },
+   "notes": "Erina reports Ruri/Nadesico C joining the allied group; source-short Ruri; honorific dropped.",
+   "uncertain": []
+  },
+  {
+   "id": 1,
+   "uses": [
+    "i093b:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...We have won.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 1
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 2,
+   "uses": [
+    "i093b:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "Yes. Chairman Akatsuki and the others have already suppressed the coup on Earth...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 2
+   },
+   "notes": "Chairman retained; completed suppression clause with trailing ellipsis, not an unfinished predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 3,
+   "uses": [
+    "i093b:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "And once she and Omoikane's system become one, the Nadesico will be invincible.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 3
+   },
+   "notes": "Ruri herself becomes one with Omoikane's system; no separate Ruri system invented. Her identity/gender settled by row0 and glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "i093b:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "So our combat data proved useful.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 4
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 5,
+   "uses": [
+    "i093b:5",
+    "s0930:260"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ラピス",
+   "speaker_en": "Lapis",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage17_campaign_full_merged.json",
+    "id": 862
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 6,
+   "uses": [
+    "i093b:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "That is right. The Nadesico C is the real centerpiece of Operation Bagration...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 5
+   },
+   "notes": "Real centerpiece renders main strategic asset; not merely decoy or sole participant.",
+   "uncertain": []
+  },
+  {
+   "id": 7,
+   "uses": [
+    "i093b:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "With that ship, they might be able to deal with not just the Martian Successors... but even the Gulfer home planet approaching the Earth Sphere...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 6
+   },
+   "notes": "Possibility only; Earth Sphere approach preserved; source trails between Successors and stronger target.",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "i093b:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "But we cannot force them to shoulder that much of a burden.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 7
+   },
+   "notes": "Akito rejects imposing the added burden on Ruri and crew; pronouns restored.",
+   "uncertain": []
+  },
+  {
+   "id": 9,
+   "uses": [
+    "i093b:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "...You are going after all?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 8
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 10,
+   "uses": [
+    "i093b:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yes.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 9
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 11,
+   "uses": [
+    "i093b:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "...Revenge... That was the last word I would have associated with the old you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 10
+   },
+   "notes": "Erina contrasts former Akito with current revenge motive.",
+   "uncertain": []
+  },
+  {
+   "id": 12,
+   "uses": [
+    "i093b:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "That was then. This is now. ...Thanks for the supplies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 11
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 13,
+   "uses": [
+    "i093b:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリナ",
+   "speaker_en": "Erina",
+   "en": "...You are welcome... I am... just running an errand for the Chairman...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 12
+   },
+   "notes": "Chairman is Akatsuki; formal, emotionally halting explanation.",
+   "uncertain": []
+  },
+  {
+   "id": 14,
+   "uses": [
+    "i093b:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イネス",
+   "speaker_en": "Inez",
+   "en": "I wonder if this will be settled soon...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 13
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 15,
+   "uses": [
+    "i093b:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウリバタケ",
+   "speaker_en": "Uribatake",
+   "en": "They will take control of the system in an instant... but those guys do not look like they will give up quietly.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 14
+   },
+   "notes": "They means Ruri/crew; those guys means Martian Successors; resisting defeat retained.",
+   "uncertain": []
+  },
+  {
+   "id": 16,
+   "uses": [
+    "i093b:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウリバタケ",
+   "speaker_en": "Uribatake",
+   "en": "...More importantly, are you feeling all right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 15
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "i093b:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イネス",
+   "speaker_en": "Inez",
+   "en": "Jumping an entire battleship all the way to Mars really did take it out of me.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 16
+   },
+   "notes": "Inez speaks of the physical strain of her own battleship jump.",
+   "uncertain": []
+  },
+  {
+   "id": 18,
+   "uses": [
+    "i093b:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウリバタケ",
+   "speaker_en": "Uribatake",
+   "en": "I see.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 17
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "i093b:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イネス",
+   "speaker_en": "Inez",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 18
+   },
+   "notes": "Silence; stray source closing bracket and blank continuation ignored.",
+   "uncertain": []
+  },
+  {
+   "id": 20,
+   "uses": [
+    "i093b:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イネス",
+   "speaker_en": "Inez",
+   "en": "...So this is a new order...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 19
+   },
+   "notes": "Reflective new-order phrase given a complete English clause.",
+   "uncertain": []
+  },
+  {
+   "id": 21,
+   "uses": [
+    "i093b:21"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Every projected victory has been retracted!? What does that mean? Explain yourself!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 20
+   },
+   "notes": "Electoral metaphor retained as projected victories being retracted, rather than merely cancelled operations.",
+   "uncertain": []
+  },
+  {
+   "id": 22,
+   "uses": [
+    "i093b:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "火星の後継者",
+   "speaker_en": "Martian Successors",
+   "en": "Y-yes... Well... the enemy's new weapon and... um... their persuasion...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 21
+   },
+   "notes": "Deliberately unfinished stammered explanation ending on persuasion; predicate omission retained.",
+   "uncertain": [
+    "Retained source unfinished fragment: the subordinate's explanation trails off after persuasion; no concluding predicate supplied."
+   ]
+  },
+  {
+   "id": 23,
+   "uses": [
+    "i093b:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Persuasion!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 22
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "i093b:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "火星の後継者",
+   "speaker_en": "Martian Successors",
+   "en": "T-this is... the footage from that time.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 23
+   },
+   "notes": "Subordinate presents recorded footage, which anchors following Tsukiomi speech.",
+   "uncertain": []
+  },
+  {
+   "id": 25,
+   "uses": [
+    "i093b:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "月臣",
+   "speaker_en": "Tsukiomi",
+   "en": "...Tsukumo Shiratori is weeping!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 24
+   },
+   "notes": "Rhetorical mourning for deceased Tsukumo in footage; not an assertion he is physically alive.",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "i093b:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Tsukiomi!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 25
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 27,
+   "uses": [
+    "i093b:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Genichiro Tsukiomi...! Why is the man who betrayed the Jovian Federation alongside Genpachiro Akiyama here!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 26
+   },
+   "notes": "Full source names retain full glossary forms for Tsukiomi and Akiyama.",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "i093b:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "月臣",
+   "speaker_en": "Tsukiomi",
+   "en": "Members of the former Jovian Federation, and brave heroes of Earth... lay down your arms. This is no time for us to cross blades...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 27
+   },
+   "notes": "Recorded formal appeal to former Jovian members and Earth heroes; no group gender restriction; cross-blades metaphor retained.",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "i093b:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "月臣",
+   "speaker_en": "Tsukiomi",
+   "en": "Now we must rescue one another, for we are all in the same boat! Open your eyes! Our enemies are not our brethren!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 28
+   },
+   "notes": "Same-boat mutual rescue metaphor, formal brethren register, imperative direction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 30,
+   "uses": [
+    "i093b:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 29
+   },
+   "notes": "Nonverbal shocked punctuation.",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "i093b:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Impossible...! They have beaten us to the punch!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 30
+   },
+   "notes": "Shinjo recognizes the opposing side acted first.",
+   "uncertain": []
+  },
+  {
+   "id": 32,
+   "uses": [
+    "i093b:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "...You have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 31
+   },
+   "notes": "Erika addresses Shinjo/Kusakabe.",
+   "uncertain": []
+  },
+  {
+   "id": 33,
+   "uses": [
+    "i093b:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 32
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "i093b:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Do you not understand!? You have already been left with no moves to make!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 33
+   },
+   "notes": "Strategic options sealed; complete subject and predicate restored.",
+   "uncertain": []
+  },
+  {
+   "id": 35,
+   "uses": [
+    "i093b:35",
+    "s0930:233",
+    "s0930:347"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage45_campaign.json",
+    "id": 130
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 36,
+   "uses": [
+    "i093b:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Lay down your arms at once and surrender to the Earth Federation Forces.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 34
+   },
+   "notes": "Erika commands immediate disarmament and surrender; Forces glossary retained.",
+   "uncertain": []
+  },
+  {
+   "id": 37,
+   "uses": [
+    "i093b:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Further fighting is pointless. We must not repeat a tragedy like Little Baam...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 35
+   },
+   "notes": "Erika urges surrender after the Tsukiomi video; retains Little Baam tragedy and prohibition.",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "i093b:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "What nonsense! We still have power! Contact Giganos at once and...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 36
+   },
+   "notes": "Shinjo orders a subordinate to contact Giganos; source interrupted after connective, kept unfinished.",
+   "uncertain": [
+    "Retained source interruption explicitly reviewed by worker2: Shinjo orders a subordinate to contact Giganos; source interrupted after connective, kept unfinished."
+   ]
+  },
+  {
+   "id": 39,
+   "uses": [
+    "i093b:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "火星の後継者",
+   "speaker_en": "Martian Successors",
+   "en": "We're detecting a Boson reaction above our base!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 37
+   },
+   "notes": "Officer reports detection; restored report predicate rather than leaving a noun fragment.",
+   "uncertain": []
+  },
+  {
+   "id": 40,
+   "uses": [
+    "i093b:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 38
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "i093b:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "A Boson Jump!? The enemy can't possibly do that!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 39
+   },
+   "notes": "Shinjo asserts impossibility with high certainty; this is his false claim, not translator fact.",
+   "uncertain": []
+  },
+  {
+   "id": 42,
+   "uses": [
+    "i093b:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "...They've arrived...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 40
+   },
+   "notes": "Erika identifies the arriving group through row 42; no gender inferred.",
+   "uncertain": []
+  },
+  {
+   "id": 43,
+   "uses": [
+    "i093b:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 41
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 44,
+   "uses": [
+    "i093b:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "I can tell. They've come... Kazuya and the others are here...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 42
+   },
+   "notes": "Restores subject and predicate; source explicitly names Kazuya and his group.",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "s0930:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アシュラ",
+   "speaker_en": "Ashura",
+   "en": "Me! Number one in the Commander Ranking! Beaten?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 254
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a defeat cry with no verb ('This me, No. 1 in the Commander Ranking...!'); 'Beaten?!' supplied from the context of a defeat line. 'Commander Ranking' from glossary term [jp]."
+   ]
+  },
+  {
+   "id": 46,
+   "uses": [
+    "s0930:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガデス",
+   "speaker_en": "Gades",
+   "en": "Nuuuoooh! Me... How could I, of all people...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 255
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is a bare 'Me... this me?!' defeat cry; 'How could I' supplies the implied disbelief."
+   ]
+  },
+  {
+   "id": 47,
+   "uses": [
+    "s0930:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルディ",
+   "speaker_en": "Garudi",
+   "en": "Rom!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 256
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "s0930:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルジオス",
+   "speaker_en": "Grujios",
+   "en": "Mark my words! I shall return!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 257
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is English in katakana; rendered as plain English."
+   ]
+  },
+  {
+   "id": 49,
+   "uses": [
+    "s0930:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ディオンドラ",
+   "speaker_en": "Diondra",
+   "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 258
+   },
+   "notes": "",
+   "uncertain": [
+    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+   ]
+  },
+  {
+   "id": 50,
+   "uses": [
+    "s0930:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デビルサターン６",
+   "speaker_en": "Devil Saturn 6",
+   "en": "Ah, no! My Commander Ranking's gonna drop!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 259
+   },
+   "notes": "",
+   "uncertain": [
+    "Kansai-dialect comic line ('[jp]'); dialect conveyed only through casual register."
+   ]
+  },
+  {
+   "id": 51,
+   "uses": [
+    "s0930:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジム",
+   "speaker_en": "Jim",
+   "en": "Milady! Master Rom! I am terribly sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 260
+   },
+   "notes": "",
+   "uncertain": [
+    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+   ]
+  },
+  {
+   "id": 52,
+   "uses": [
+    "s0930:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バグ",
+   "speaker_en": "Bug",
+   "en": "What has justice ever done for me? Justice does nothing for anyone...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 261
+   },
+   "notes": "",
+   "uncertain": [
+    "くれる object not stated; 'for me' / 'for anyone' chosen."
+   ]
+  },
+  {
+   "id": 53,
+   "uses": [
+    "s0930:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジェット",
+   "speaker_en": "Jet",
+   "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 262
+   },
+   "notes": "",
+   "uncertain": [
+    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "s0930:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイナ",
+   "speaker_en": "Leina",
+   "en": "Brother Rom! I'm sorry!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 263
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 55,
+   "uses": [
+    "s0930:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドリル",
+   "speaker_en": "Drill",
+   "en": "Wh-wh-whoa! Rooom~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 264
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "s0930:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "I'm counting on you to carry on!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 265
+   },
+   "notes": "",
+   "uncertain": [
+    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+   ]
+  },
+  {
+   "id": 57,
+   "uses": [
+    "s0930:12",
+    "s0930:167"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "Unable to continue combat...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 266
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 58,
+   "uses": [
+    "s0930:13",
+    "s0930:168"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "They got me?! No way!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 267
+   },
+   "notes": "",
+   "uncertain": [
+    "やられた has no subject; 'They got me' (agent unspecified)."
+   ]
+  },
+  {
+   "id": 59,
+   "uses": [
+    "s0930:14",
+    "s0930:169"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "Ah... Aaah?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 268
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "s0930:15",
+    "s0930:170"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "トウジ",
+   "speaker_en": "Toji",
+   "en": "N-no way... Is this as far as I go...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 269
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 61,
+   "uses": [
+    "s0930:16",
+    "s0930:171"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Y-you're kidding! Me, of all people?! I can't believe it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 270
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "s0930:17",
+    "s0930:172"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Ugh! I can't be like this... I just can't let it end like this!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 271
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: the 'I' is inferred (Asuka berating herself)."
+   ]
+  },
+  {
+   "id": 63,
+   "uses": [
+    "s0930:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダミープラグ",
+   "speaker_en": "Dummy Plug",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 272
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "s0930:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Yes... That's how it should be......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 273
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 65,
+   "uses": [
+    "s0930:20",
+    "s0930:204"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エヴァ量産機",
+   "speaker_en": "Mass-produced EVA",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 274
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+   ]
+  },
+  {
+   "id": 66,
+   "uses": [
+    "s0930:21",
+    "s0930:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "I'll leave your fate be... for now!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 275
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] (retreat line): 'I'll hold off on your fate for a while'."
+   ]
+  },
+  {
+   "id": 67,
+   "uses": [
+    "s0930:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルテア",
+   "speaker_en": "Altair",
+   "en": "Careless of me... Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 276
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "s0930:24",
+    "s0930:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Damn, is this as far as I go?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 277
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 69,
+   "uses": [
+    "s0930:26"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリス",
+   "speaker_en": "Eris",
+   "en": "No...! It can't be, not this!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 278
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 70,
+   "uses": [
+    "s0930:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガルファ",
+   "speaker_en": "Gulfer",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 279
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+   ]
+  },
+  {
+   "id": 71,
+   "uses": [
+    "s0930:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガアブゾルート",
+   "speaker_en": "Giga Absolute",
+   "en": "O-Oyakata-samaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 280
+   },
+   "notes": "",
+   "uncertain": [
+    "お館様 kept as 'Oyakata-sama' per glossary term."
+   ]
+  },
+  {
+   "id": 72,
+   "uses": [
+    "s0930:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガウィッター",
+   "speaker_en": "Giga Witter",
+   "en": "Wh-what?! Impossible!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 281
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 73,
+   "uses": [
+    "s0930:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ギガグルメイ",
+   "speaker_en": "Giga Gourmet",
+   "en": "Th-this can't... This is absurd...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 282
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 74,
+   "uses": [
+    "s0930:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "吉良国",
+   "speaker_en": "Kirakuni",
+   "en": "It's no good! I have to bail out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 283
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+   ]
+  },
+  {
+   "id": 75,
+   "uses": [
+    "s0930:32",
+    "s0930:33",
+    "s0930:173"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "We have to... bail out...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 284
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+   ]
+  },
+  {
+   "id": 76,
+   "uses": [
+    "s0930:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "Is this the end...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 285
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 77,
+   "uses": [
+    "s0930:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "スバル",
+   "speaker_en": "Subaru",
+   "en": "No... Why......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 286
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 78,
+   "uses": [
+    "s0930:36",
+    "s0930:37",
+    "s0930:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゼロ",
+   "speaker_en": "Zero",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 287
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 79,
+   "uses": [
+    "s0930:39",
+    "s0930:40",
+    "s0930:174",
+    "s0930:175"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "It seems retreat is my only choice...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 288
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp]: subject inferred as 'my' (Vega speaking for herself); could be 'our' if she leads a group."
+   ]
+  },
+  {
+   "id": 80,
+   "uses": [
+    "s0930:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "螺旋城",
+   "speaker_en": "Spiral Castle",
+   "en": "Your Majesty, Gulfer Emperor... Please... forgive me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 289
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] -> 'Your Majesty, Gulfer Emperor' using glossary 'Gulfer Emperor' (note: glossary en_short for that entry is 'Galfa Emperor', inconsistent with en_full/do_not_touch 'Gulfer')."
+   ]
+  },
+  {
+   "id": 81,
+   "uses": [
+    "s0930:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 290
+   },
+   "notes": "",
+   "uncertain": [
+    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+   ]
+  },
+  {
+   "id": 82,
+   "uses": [
+    "s0930:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Curses...! Hurry, all hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 291
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 83,
+   "uses": [
+    "s0930:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Dammit! Is this how it ends?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 292
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 84,
+   "uses": [
+    "s0930:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Wha! This is as far as I go?! How pathetic...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 293
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "s0930:46",
+    "s0930:176"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Yu... Yurika......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 294
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 86,
+   "uses": [
+    "s0930:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In death, none shall gather my bones... To perish is my fate...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 295
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] is a stock oath phrase ('none will gather the corpse of the fallen'); rendered with 'my' since he is speaking of himself."
+   ]
+  },
+  {
+   "id": 87,
+   "uses": [
+    "s0930:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane... I'm sorry. All hands, abandon ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 296
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 88,
+   "uses": [
+    "s0930:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "This is the end... and that's a wrap...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 297
+   },
+   "notes": "",
+   "uncertain": [
+    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+   ]
+  },
+  {
+   "id": 89,
+   "uses": [
+    "s0930:50",
+    "s0930:177"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウェルナー",
+   "speaker_en": "Welner",
+   "en": "Ngh! Next time, victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 298
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 90,
+   "uses": [
+    "s0930:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaah! Captain, sir!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 299
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+   ]
+  },
+  {
+   "id": 91,
+   "uses": [
+    "s0930:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガナン",
+   "speaker_en": "Ganan",
+   "en": "Dammit, you'll pay for this! You Dragonar scum!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 300
+   },
+   "notes": "",
+   "uncertain": [
+    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+   ]
+  },
+  {
+   "id": 92,
+   "uses": [
+    "s0930:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Uoooooh?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 301
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 93,
+   "uses": [
+    "s0930:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "D-dammiiiit!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 302
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 94,
+   "uses": [
+    "s0930:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Take care of my mom for me...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 303
+   },
+   "notes": "",
+   "uncertain": [
+    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+   ]
+  },
+  {
+   "id": 95,
+   "uses": [
+    "s0930:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ゴル",
+   "speaker_en": "Gol",
+   "en": "C-Colonel!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 304
+   },
+   "notes": "",
+   "uncertain": [
+    "大佐 = Gon Jem (colonel)."
+   ]
+  },
+  {
+   "id": 96,
+   "uses": [
+    "s0930:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジン",
+   "speaker_en": "Zin",
+   "en": "What?! Waaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 305
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 97,
+   "uses": [
+    "s0930:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "It's no good! I'm bailing out!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 306
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 98,
+   "uses": [
+    "s0930:59",
+    "s0930:179"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ダン",
+   "speaker_en": "Dan",
+   "en": "C-Captain, sirrr!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 307
+   },
+   "notes": "",
+   "uncertain": [
+    "大尉殿 = Meio."
+   ]
+  },
+  {
+   "id": 99,
+   "uses": [
+    "s0930:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドルチェノフ",
+   "speaker_en": "Dorchenov",
+   "en": "As long as I live, the Giganos Empire shall never fall...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 308
+   },
+   "notes": "",
+   "uncertain": [
+    "[jp] literally 'as long as I am here'; 'as long as I live' chosen."
+   ]
+  },
+  {
+   "id": 100,
+   "uses": [
+    "s0930:61",
+    "s0930:180"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マイヨ",
+   "speaker_en": "Meio",
+   "en": "Heh, so this is as far as I go...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 309
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 101,
+   "uses": [
+    "s0930:62",
+    "s0930:181"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Tch, that's all for today!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 310
+   },
+   "notes": "",
+   "uncertain": [
+    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+   ]
+  },
+  {
+   "id": 102,
+   "uses": [
+    "s0930:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Sorry! This is as far as I go!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 311
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 103,
+   "uses": [
+    "s0930:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カミーユ",
+   "speaker_en": "Kamille",
+   "en": "Am I going down...?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 312
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 104,
+   "uses": [
+    "s0930:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "クワトロ",
+   "speaker_en": "Quattro",
+   "en": "Ngh, how could this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 313
+   },
+   "notes": "",
+   "uncertain": [
+    "なんという… trails off in the source; kept the omission."
+   ]
+  },
+  {
+   "id": 105,
+   "uses": [
+    "s0930:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ファ",
+   "speaker_en": "Fa",
+   "en": "Ah, no...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 314
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 106,
+   "uses": [
+    "s0930:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イーノ",
+   "speaker_en": "Iino",
+   "en": "Waaaah!! I-it's no good~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 315
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 107,
+   "uses": [
+    "s0930:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エル",
+   "speaker_en": "Elle",
+   "en": "Judau! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 316
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 108,
+   "uses": [
+    "s0930:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プル",
+   "speaker_en": "Ple",
+   "en": "No no no no!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 317
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 109,
+   "uses": [
+    "s0930:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュドー",
+   "speaker_en": "Judau",
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 318
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 110,
+   "uses": [
+    "s0930:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ビーチャ",
+   "speaker_en": "Beecha",
+   "en": "D-damn! They got me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 319
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 111,
+   "uses": [
+    "s0930:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "プルツー",
+   "speaker_en": "Ple Two",
+   "en": "This is... the end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 320
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 112,
+   "uses": [
+    "s0930:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モンド",
+   "speaker_en": "Mondo",
+   "en": "N-no good! I've been hit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 321
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 113,
+   "uses": [
+    "s0930:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リィナ",
+   "speaker_en": "Leina",
+   "en": "Big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 322
+   },
+   "notes": "",
+   "uncertain": [
+    "Leina's brother is Judau; kept as 'Big brother' rather than naming him, matching the source."
+   ]
+  },
+  {
+   "id": 114,
+   "uses": [
+    "s0930:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルー",
+   "speaker_en": "Roux",
+   "en": "Aah, why did this happen to me of all people!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 323
+   },
+   "notes": "",
+   "uncertain": [
+    "Source is the fragment 'why this me!?' (nande kono atashi ga); restored a verb ('happen to me')."
+   ]
+  },
+  {
+   "id": 115,
+   "uses": [
+    "s0930:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アムロ",
+   "speaker_en": "Amuro",
+   "en": "No good! I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 324
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 116,
+   "uses": [
+    "s0930:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チェーン",
+   "speaker_en": "Chan",
+   "en": "My unit's already done for!? Amuro...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 325
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'mou kitai ga!?' omits the predicate; inferred 'already done for' (unit destroyed)."
+   ]
+  },
+  {
+   "id": 117,
+   "uses": [
+    "s0930:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライト",
+   "speaker_en": "Bright",
+   "en": "So this is it... All hands, evacuate!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 326
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 118,
+   "uses": [
+    "s0930:79",
+    "s0930:182"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 327
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'maketa no ka' has no subject; restored 'I' (Argo about himself)."
+   ]
+  },
+  {
+   "id": 119,
+   "uses": [
+    "s0930:80"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ugh! D-Domon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 328
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 120,
+   "uses": [
+    "s0930:81",
+    "s0930:203"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウルベ",
+   "speaker_en": "Urube",
+   "en": "Hahaha... It's no use! You have no chance of winning...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 329
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 121,
+   "uses": [
+    "s0930:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウォン",
+   "speaker_en": "Wong",
+   "en": "You lot are finished no matter whaaat!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 330
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 122,
+   "uses": [
+    "s0930:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Splendid... Gwaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 331
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 123,
+   "uses": [
+    "s0930:84",
+    "s0930:183"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "Ugh... ugh... I... I lost...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 332
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary (speaker_jp is the short form 'Saishi')."
+   ]
+  },
+  {
+   "id": 124,
+   "uses": [
+    "s0930:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チャップマン",
+   "speaker_en": "Chapman",
+   "en": "Ugh, guh, ah, aaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 333
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 125,
+   "uses": [
+    "s0930:86",
+    "s0930:184"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "Alas... My fate, too, ends here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 334
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 126,
+   "uses": [
+    "s0930:87",
+    "s0930:185"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "Jeeesus! You gotta be kidding me!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 335
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 127,
+   "uses": [
+    "s0930:88",
+    "s0930:186"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ドモン",
+   "speaker_en": "Domon",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 336
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 128,
+   "uses": [
+    "s0930:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "風雲再起",
+   "speaker_en": "Fuunsaiki",
+   "en": "Brrrrrr...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 337
+   },
+   "notes": "",
+   "uncertain": [
+    "Horse noise (Fuunsaiki); kept as 'Brrrrrr...'."
+   ]
+  },
+  {
+   "id": 129,
+   "uses": [
+    "s0930:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミケロ",
+   "speaker_en": "Michelo",
+   "en": "Waaaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 338
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 130,
+   "uses": [
+    "s0930:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイン",
+   "speaker_en": "Rain",
+   "en": "D-Domooon!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 339
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 131,
+   "uses": [
+    "s0930:92",
+    "s0930:157"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "You'd better remember this, you bastard!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 340
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 132,
+   "uses": [
+    "s0930:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ボス",
+   "speaker_en": "Boss",
+   "en": "Wh-whoa-whoaaa~",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 341
+   },
+   "notes": "",
+   "uncertain": [
+    "Boss's comic exclamation 'arryaryaaan' has no fixed English; rendered as a goofy 'Wh-whoa-whoaaa~'."
+   ]
+  },
+  {
+   "id": 133,
+   "uses": [
+    "s0930:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "さやか",
+   "speaker_en": "Sayaka",
+   "en": "Noooo~! Koji~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 342
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 134,
+   "uses": [
+    "s0930:95"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鉄也",
+   "speaker_en": "Tetsuya",
+   "en": "Daaamn iiit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 343
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 135,
+   "uses": [
+    "s0930:96"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジュン",
+   "speaker_en": "Jun",
+   "en": "I'm bailing out!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 344
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 136,
+   "uses": [
+    "s0930:97"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "弁慶",
+   "speaker_en": "Benkei",
+   "en": "Oh, come on. Whoa!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 345
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 137,
+   "uses": [
+    "s0930:98"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "隼人",
+   "speaker_en": "Hayato",
+   "en": "Oh well. I'm counting on you for the rest, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 346
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: 'ato wa tanomu ze, minna' = Hayato asking everyone to handle the rest."
+   ]
+  },
+  {
+   "id": 138,
+   "uses": [
+    "s0930:99"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミチル",
+   "speaker_en": "Michiru",
+   "en": "Kyaaaah! Ryo! Hayato! Benkei!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 347
+   },
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "uncertain": [
+    "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
+   ]
+  },
+  {
+   "id": 139,
+   "uses": [
+    "s0930:100"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ブライ",
+   "speaker_en": "Burai",
+   "en": "Don't think this means you've won!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 348
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 140,
+   "uses": [
+    "s0930:101"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒドラー",
+   "speaker_en": "Hidler",
+   "en": "E-Emperor Burai!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 349
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 141,
+   "uses": [
+    "s0930:102"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "竜馬",
+   "speaker_en": "Ryoma",
+   "en": "Getter's power is... Dammit!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 350
+   },
+   "notes": "",
+   "uncertain": [
+    "Kept the source's cut-off: 'Getter's power is...' (predicate omitted in JP, deliberately unfinished)."
+   ]
+  },
+  {
+   "id": 142,
+   "uses": [
+    "s0930:103"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ズリル",
+   "speaker_en": "Zuril",
+   "en": "J-Juniooor~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 351
+   },
+   "notes": "",
+   "uncertain": [
+    "Zuril cries out 'Junior'; glossary has the unit 'Zuril Jr.'. Referent inferred to be his Zuril Jr.; kept as 'Junior' since that is what he shouts."
+   ]
+  },
+  {
+   "id": 143,
+   "uses": [
+    "s0930:104"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ガンダル",
+   "speaker_en": "Gandal",
+   "en": "King Vegaaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 352
+   },
+   "notes": "",
+   "uncertain": [
+    "'Vega Daiou-sama': honorific -sama not rendered separately; 'King' carries it."
+   ]
+  },
+  {
+   "id": 144,
+   "uses": [
+    "s0930:105"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ベガ",
+   "speaker_en": "Vega",
+   "en": "I am the king of the universe, King Vegaaa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 353
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 145,
+   "uses": [
+    "s0930:106"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah! Kojiii!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 354
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 146,
+   "uses": [
+    "s0930:107"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリア",
+   "speaker_en": "Maria",
+   "en": "Kyaaaah!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 355
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 147,
+   "uses": [
+    "s0930:108"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジグラ",
+   "speaker_en": "Jigra",
+   "en": "Damn, I got careless! Me, of all people!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 356
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 148,
+   "uses": [
+    "s0930:109"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "モルス",
+   "speaker_en": "Mors",
+   "en": "U-urgh... Jigajiga... Is this as far as we go...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 357
+   },
+   "notes": "",
+   "uncertain": [
+    "'Jigajiga' = his Vega Beast (glossary: Vega Beast Jigajiga). Restored subject 'we' (Mors + Jigajiga)."
+   ]
+  },
+  {
+   "id": 149,
+   "uses": [
+    "s0930:110"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "デューク",
+   "speaker_en": "Duke",
+   "en": "I'm counting on you all to protect the Earth!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 358
+   },
+   "notes": "",
+   "uncertain": [
+    "Direction: Duke asking the others (kimitachi de) to protect Earth."
+   ]
+  },
+  {
+   "id": 150,
+   "uses": [
+    "s0930:111"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ひかる",
+   "speaker_en": "Hikaru",
+   "en": "Kyaaah!! Daisuke!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 359
+   },
+   "notes": "",
+   "uncertain": [
+    "Honorific -san dropped."
+   ]
+  },
+  {
+   "id": 151,
+   "uses": [
+    "s0930:112"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "バレンドス",
+   "speaker_en": "Barendos",
+   "en": "Ooooh! Ugwaaaaaagh~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 360
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 152,
+   "uses": [
+    "s0930:113",
+    "s0930:114",
+    "s0930:115",
+    "s0930:187"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "I'm sorry... Miku...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 361
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 153,
+   "uses": [
+    "s0930:116"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "祗鎗",
+   "speaker_en": "Giso",
+   "en": "Nuooooooh!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 362
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 154,
+   "uses": [
+    "s0930:117",
+    "s0930:161",
+    "s0930:166"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 363
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'masaka, Zeorymer ga!?' omits the predicate; inferred 'is going down' (unit-destroyed line)."
+   ]
+  },
+  {
+   "id": 155,
+   "uses": [
+    "s0930:118"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "No way! Zeorymer is going down!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 364
+   },
+   "notes": "",
+   "uncertain": [
+    "Same line as 363 (Masaki instead of Masato); same inferred predicate."
+   ]
+  },
+  {
+   "id": 156,
+   "uses": [
+    "s0930:119"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "塞臥",
+   "speaker_en": "Saiga",
+   "en": "Impossible...! Omzack... my \"Lightning\"!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 365
+   },
+   "notes": "",
+   "uncertain": [
+    "Glossary unit is 'Omzack of the Lightning' (character entry for Saiga says 'Thunder'); used 'Lightning' to match the unit name."
+   ]
+  },
+  {
+   "id": 157,
+   "uses": [
+    "s0930:120"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アエン",
+   "speaker_en": "Shi-Aen",
+   "en": "Tau... I'm sorry... I... you...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 366
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Aen' from glossary (speaker_jp is short 'Aen'; glossary only has the full form). Kept source omission 'watashi wa... anata wo...!' (no verb); the intended verb is not settled out of context. 'Tau' used bare as in source; glossary full name Shi-Tau."
+   ]
+  },
+  {
+   "id": 158,
+   "uses": [
+    "s0930:121"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タウ",
+   "speaker_en": "Shi-Tau",
+   "en": "Big sister...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 367
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en empty; filled 'Shi-Tau' from glossary (speaker_jp is short 'Tau')."
+   ]
+  },
+  {
+   "id": 159,
+   "uses": [
+    "s0930:122"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "耐爬",
+   "speaker_en": "Taiha",
+   "en": "Y-Yuratei...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 368
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 160,
+   "uses": [
+    "s0930:123"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "葎",
+   "speaker_en": "Ritsu",
+   "en": "...I was careless... I... have lost...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 369
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 161,
+   "uses": [
+    "s0930:124"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロクフェル",
+   "speaker_en": "Rockfell",
+   "en": "Saiga... I... end here...",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 370
+   },
+   "notes": "",
+   "uncertain": [
+    "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
+   ]
+  },
+  {
+   "id": 162,
+   "uses": [
+    "s0930:125"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Damn... A lifelong disgrace for Kyoshiro Yuzuki!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 371
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 163,
+   "uses": [
+    "s0930:126"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Damn!! It's no good!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 372
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 164,
+   "uses": [
+    "s0930:127"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "麗",
+   "speaker_en": "Rei",
+   "en": "Ugh! I've been hit!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 373
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 165,
+   "uses": [
+    "s0930:128"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マリ",
+   "speaker_en": "Mari",
+   "en": "Kyaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 374
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 166,
+   "uses": [
+    "s0930:129"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "洸",
+   "speaker_en": "Akira",
+   "en": "Not yet! Raideen! Whoa!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 375
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 167,
+   "uses": [
+    "s0930:130"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "鳥飼",
+   "speaker_en": "Mamoru",
+   "en": "This... can't be...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 376
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 168,
+   "uses": [
+    "s0930:131"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルフィ",
+   "speaker_en": "Elvy",
+   "en": "Damn, it's no good!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 377
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 169,
+   "uses": [
+    "s0930:132",
+    "s0930:133",
+    "s0930:134",
+    "s0930:156",
+    "s0930:188",
+    "s0930:189",
+    "s0930:190",
+    "s0930:191",
+    "s0930:192",
+    "s0930:193",
+    "s0930:194"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 378
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 170,
+   "uses": [
+    "s0930:135"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "綾人",
+   "speaker_en": "Ayato",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 379
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 171,
+   "uses": [
+    "s0930:136"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 380
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 172,
+   "uses": [
+    "s0930:137"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "九鬼",
+   "speaker_en": "Kuki",
+   "en": "Eek!! No...!! It can't be!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 381
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 173,
+   "uses": [
+    "s0930:138",
+    "s0930:159"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "遙",
+   "speaker_en": "Haruka",
+   "en": "Ah! Is this the end!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 382
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 174,
+   "uses": [
+    "s0930:139",
+    "s0930:148",
+    "s0930:152",
+    "s0930:154",
+    "s0930:164",
+    "s0930:165",
+    "s0930:198",
+    "s0930:200"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#女愛称",
+   "speaker_en": "#女愛称",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 383
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 175,
+   "uses": [
+    "s0930:140",
+    "s0930:196"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルベロ",
+   "speaker_en": "Albero",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 384
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 176,
+   "uses": [
+    "s0930:141",
+    "s0930:142",
+    "s0930:202"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エルデ",
+   "speaker_en": "Eldy",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 385
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 177,
+   "uses": [
+    "s0930:143",
+    "s0930:149",
+    "s0930:153",
+    "s0930:155",
+    "s0930:162",
+    "s0930:163",
+    "s0930:199",
+    "s0930:201"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "#男愛称",
+   "speaker_en": "#男愛称",
+   "en": "Waaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 386
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 178,
+   "uses": [
+    "s0930:144"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アルゴ",
+   "speaker_en": "Argo",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 387
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 179,
+   "uses": [
+    "s0930:145"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サイシー",
+   "speaker_en": "Sai Saici",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 388
+   },
+   "notes": "",
+   "uncertain": [
+    "speaker_en was empty; filled 'Sai Saici' from glossary."
+   ]
+  },
+  {
+   "id": 180,
+   "uses": [
+    "s0930:146"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ジョルジュ",
+   "speaker_en": "George",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 389
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 181,
+   "uses": [
+    "s0930:147"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "チボデー",
+   "speaker_en": "Chibodee",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 390
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 182,
+   "uses": [
+    "s0930:150"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Graaaaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 391
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 183,
+   "uses": [
+    "s0930:151"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "Kyaaah!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 392
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 184,
+   "uses": [
+    "s0930:158"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "甲児",
+   "speaker_en": "Koji",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 393
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 185,
+   "uses": [
+    "s0930:160",
+    "s0930:195"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "？？？",
+   "speaker_en": "???",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 394
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 186,
+   "uses": [
+    "s0930:178"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カール",
+   "speaker_en": "Karl",
+   "en": "Uwaaagh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 395
+   },
+   "notes": "",
+   "uncertain": [
+    "JP raw line lacks the closing bracket; translated the body only."
+   ]
+  },
+  {
+   "id": 187,
+   "uses": [
+    "s0930:197"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ＡＩ１",
+   "speaker_en": "AI1",
+   "en": "......",
+   "translation_owner": {
+    "source": "work/translation/en/script/prologue_merged.json",
+    "id": 396
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 188,
+   "uses": [
+    "s0930:206"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Shoot down Yatenko",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 43
+   },
+   "notes": "Victory condition; imperative objective.",
+   "uncertain": []
+  },
+  {
+   "id": 189,
+   "uses": [
+    "s0930:207"
+   ],
+   "kind": "plain",
+   "speaker_jp": "",
+   "speaker_en": "",
+   "en": "1. Black Sarana is shot down@2. An allied mothership is shot down",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 44
+   },
+   "notes": "Defeat conditions; two fixed source lines preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 190,
+   "uses": [
+    "s0930:208"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Th-that is!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 45
+   },
+   "notes": "Deliberately unfinished shocked recognition, distinct from grammatical pro-drop.",
+   "uncertain": [
+    "Retained source interruption explicitly reviewed by worker2: Deliberately unfinished shocked recognition, distinct from grammatical pro-drop."
+   ]
+  },
+  {
+   "id": 191,
+   "uses": [
+    "s0930:209"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Nadesico...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 46
+   },
+   "notes": "Recognition vocative/name exclamation; not a deleted predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 192,
+   "uses": [
+    "s0930:210"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Wh-what's happening!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 47
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 193,
+   "uses": [
+    "s0930:211"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "火星の後継者",
+   "speaker_en": "Martian Successors",
+   "en": "W-we can't control the systems!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 48
+   },
+   "notes": "System loss report; restored subject and predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 194,
+   "uses": [
+    "s0930:212"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "火星の後継者",
+   "speaker_en": "Martian Successors",
+   "en": "I-Iwato's systems...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 49
+   },
+   "notes": "Genuinely interrupted source subject followed by ga; retained unfinished alarm rather than inventing what happened.",
+   "uncertain": [
+    "Retained source interruption explicitly reviewed by worker2: Genuinely interrupted source subject followed by ga; retained unfinished alarm rather than inventing what happened."
+   ]
+  },
+  {
+   "id": 195,
+   "uses": [
+    "s0930:213"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヤマサキ",
+   "speaker_en": "Yamasaki",
+   "en": "They've been taken over...!? The Fairy...!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 50
+   },
+   "notes": "Systems from prior alarms are the subject; Fairy remains source-short epithet, without importing identity into speech.",
+   "uncertain": []
+  },
+  {
+   "id": 196,
+   "uses": [
+    "s0930:214"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "Phase Transition Engine, all clear!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 51
+   },
+   "notes": "Ship engine status report, restores natural complete report.",
+   "uncertain": []
+  },
+  {
+   "id": 197,
+   "uses": [
+    "s0930:215"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユキナ",
+   "speaker_en": "Yukina",
+   "en": "Please switch the ship's alert status to Pattern B.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 52
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 198,
+   "uses": [
+    "s0930:216"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アオイ・ジュン",
+   "speaker_en": "Jun",
+   "en": "We may sortie depending on the situation. All units, remain on standby.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 53
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 199,
+   "uses": [
+    "s0930:217"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Hari, I'm putting all of Nadesico C's systems... in your hands.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 54
+   },
+   "notes": "Ruri entrusts all ship systems to Hari; request/responsibility direction preserved, Hari spelling.",
+   "uncertain": []
+  },
+  {
+   "id": 200,
+   "uses": [
+    "s0930:218"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Huh!? A-all of them!? Aren't I just handling backup!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 55
+   },
+   "notes": "Hari challenges assignment; backup predicate restored.",
+   "uncertain": []
+  },
+  {
+   "id": 201,
+   "uses": [
+    "s0930:219"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "No.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 56
+   },
+   "notes": "Direct refusal of backup-only proposal.",
+   "uncertain": []
+  },
+  {
+   "id": 202,
+   "uses": [
+    "s0930:220"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "N-no way!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 57
+   },
+   "notes": "Stuttered protesting interjection, not predicate omission.",
+   "uncertain": []
+  },
+  {
+   "id": 203,
+   "uses": [
+    "s0930:221"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "I'm going to take control of the enemy's systems across all of Mars.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 58
+   },
+   "notes": "Ruri describes her own forthcoming control of all enemy systems on Mars.",
+   "uncertain": []
+  },
+  {
+   "id": 204,
+   "uses": [
+    "s0930:222"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "I can't cover the ship as well. I'm entrusting Nadesico C to you.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 59
+   },
+   "notes": "Ruri cannot handle ship as well and entrusts it to Hari; responsibility never reversed.",
+   "uncertain": []
+  },
+  {
+   "id": 205,
+   "uses": [
+    "s0930:223"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "B-but!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 60
+   },
+   "notes": "Interrupted objection/interjection.",
+   "uncertain": [
+    "Retained source interruption explicitly reviewed by worker2: Interrupted objection/interjection."
+   ]
+  },
+  {
+   "id": 206,
+   "uses": [
+    "s0930:224"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "Hari, do your best.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 61
+   },
+   "notes": "Minato encourages Hari; honorific dropped.",
+   "uncertain": []
+  },
+  {
+   "id": 207,
+   "uses": [
+    "s0930:225"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "What?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage15_campaign_full_merged.json",
+    "id": 857
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 208,
+   "uses": [
+    "s0930:226"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "You've leaned on us enough. Now be that much more of a man.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 62
+   },
+   "notes": "Minato prods male Hari to maturity corresponding to prior dependence; Hari remains dependent party, no actor flip.",
+   "uncertain": []
+  },
+  {
+   "id": 209,
+   "uses": [
+    "s0930:227"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Y-yes...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage28_campaign_full_merged.json",
+    "id": 714
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 210,
+   "uses": [
+    "s0930:228"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Operate all mobile weapons manually! Disconnect them from the network!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 63
+   },
+   "notes": "Shinjo orders all mobile weapons operated manually and disconnected from network.",
+   "uncertain": []
+  },
+  {
+   "id": 211,
+   "uses": [
+    "s0930:229"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Hello, everyone.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 64
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 212,
+   "uses": [
+    "s0930:230"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 65
+   },
+   "notes": "Context checked in original owning event; source tone and punctuation preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 213,
+   "uses": [
+    "s0930:231"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "I'm Ruri Hoshino of the Earth Federation Space Force, captain of Nadesico C.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 66
+   },
+   "notes": "Full source affiliation; captain role retained without adding unsaid rank.",
+   "uncertain": []
+  },
+  {
+   "id": 214,
+   "uses": [
+    "s0930:232"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Haruki Kusakabe, former Jovian Lieutenant General... I'm placing you under arrest.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 67
+   },
+   "notes": "Uses existing Kusakabe profile: former Jovian Lieutenant General; no naval-rank guess.",
+   "uncertain": []
+  },
+  {
+   "id": 215,
+   "uses": [
+    "s0930:234"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Shut up, you witch! We won't lose! We'll fight to the bitter end!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 68
+   },
+   "notes": "Witch insult and total resistance unsoftened.",
+   "uncertain": []
+  },
+  {
+   "id": 216,
+   "uses": [
+    "s0930:235"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Lieutenant General Kusakabe, give us your orders! We can still fight!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 69
+   },
+   "notes": "Formal rank retained and request for Kusakabe orders, not offer.",
+   "uncertain": []
+  },
+  {
+   "id": 217,
+   "uses": [
+    "s0930:236"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...Very well. Launch the Kagurazuki.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 70
+   },
+   "notes": "Launch the named flagship; no added tactics.",
+   "uncertain": []
+  },
+  {
+   "id": 218,
+   "uses": [
+    "s0930:237"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Please stop! This battle should already be settled!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 71
+   },
+   "notes": "Restore battle subject; preserve plea and already-settled assessment.",
+   "uncertain": []
+  },
+  {
+   "id": 219,
+   "uses": [
+    "s0930:238"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...Erika, we have our reasons for being unable to retreat here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 72
+   },
+   "notes": "Retreat has a settled first-person plural subject.",
+   "uncertain": []
+  },
+  {
+   "id": 220,
+   "uses": [
+    "s0930:239"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Yes... Like your brother, Admiral Richter, we have convictions we cannot abandon.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 73
+   },
+   "notes": "Admiral Richter per main title; beliefs are unrenounceable, no false endorsement added.",
+   "uncertain": []
+  },
+  {
+   "id": 221,
+   "uses": [
+    "s0930:240"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "But!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 74
+   },
+   "notes": "Conjunction fragment is deliberate protest.",
+   "uncertain": []
+  },
+  {
+   "id": 222,
+   "uses": [
+    "s0930:241"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...As of this moment, I release you. Leave this place at once.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 75
+   },
+   "notes": "Release starts now; speaker orders listener away.",
+   "uncertain": []
+  },
+  {
+   "id": 223,
+   "uses": [
+    "s0930:242"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Lieutenant General K-Kusakabe...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 76
+   },
+   "notes": "Real rank retained, name stutter retained.",
+   "uncertain": []
+  },
+  {
+   "id": 224,
+   "uses": [
+    "s0930:243"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "All hands, rise to the challenge! We now embark on our final battle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 77
+   },
+   "notes": "Restore we in final battle statement.",
+   "uncertain": []
+  },
+  {
+   "id": 225,
+   "uses": [
+    "s0930:244"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユキナ",
+   "speaker_en": "Yukina",
+   "en": "The enemy flagship has appeared ahead of our ship!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 78
+   },
+   "notes": "Restore enemy flagship predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 226,
+   "uses": [
+    "s0930:245"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アオイ・ジュン",
+   "speaker_en": "Jun",
+   "en": "Do they still intend to resist!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 79
+   },
+   "notes": "Settled enemy subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 227,
+   "uses": [
+    "s0930:246"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "They intend to operate manually? ...They really just refuse to admit defeat.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 80
+   },
+   "notes": "Restore enemy subject; no added hardware claim.",
+   "uncertain": []
+  },
+  {
+   "id": 228,
+   "uses": [
+    "s0930:247"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "We have no choice... Shift the ship to alert pattern A. We will now intercept the enemy.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 81
+   },
+   "notes": "Pattern A is a source code; retain it and first-person plural agency.",
+   "uncertain": []
+  },
+  {
+   "id": 229,
+   "uses": [
+    "s0930:248"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユキナ",
+   "speaker_en": "Yukina",
+   "en": "Seven Boson signatures at seven o'clock!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 82
+   },
+   "notes": "Boson signature is detection, not seven newly named ships.",
+   "uncertain": []
+  },
+  {
+   "id": 230,
+   "uses": [
+    "s0930:249"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "Ruri-Ruri!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 83
+   },
+   "notes": "Fixed nickname Ruri-Ruri retained.",
+   "uncertain": []
+  },
+  {
+   "id": 231,
+   "uses": [
+    "s0930:250"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "It's all right... I'll leave it to that person.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 84
+   },
+   "notes": "Keep unidentified person neutral; next encounter supports Akito but no explicit naming within row.",
+   "uncertain": [
+    "Referent of that person is probably Akito in the next encounter, but kept gender-neutral because this exchange does not explicitly identify them."
+   ]
+  },
+  {
+   "id": 232,
+   "uses": [
+    "s0930:251"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "Huh!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage45_campaign.json",
+    "id": 231
+   },
+   "notes": "Context: Tsukiomi and Goat intervene at cemetery; betrayal, new order, and sword/jujutsu distinction preserved. ",
+   "uncertain": []
+  },
+  {
+   "id": 233,
+   "uses": [
+    "s0930:252"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰衆",
+   "speaker_en": "Hokushin's Six",
+   "en": "Is this all right, Commander...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 85
+   },
+   "notes": "Interrogative with verb restored; rank is role commander.",
+   "uncertain": []
+  },
+  {
+   "id": 234,
+   "uses": [
+    "s0930:253"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "A surprise attack by jumping is a double-edged sword...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 86
+   },
+   "notes": "Jump ambush remains double-edged, no external mechanics added.",
+   "uncertain": []
+  },
+  {
+   "id": 235,
+   "uses": [
+    "s0930:254"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "When Amaterasu fell, our chances of victory were fifty-fifty...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 87
+   },
+   "notes": "Odds stated fifty-fifty; completed odds clause with trailing pause, not an unfinished predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 236,
+   "uses": [
+    "s0930:255"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "Once we knew an A-Class Jumper was still alive on Earth's side, our chances of victory...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 88
+   },
+   "notes": "Source ends before victory predicate; retain unfinished chances phrase, no imported conclusion.",
+   "uncertain": [
+    "Retained source unfinished predicate: our chances of victory..."
+   ]
+  },
+  {
+   "id": 237,
+   "uses": [
+    "s0930:256",
+    "s0930:258",
+    "s0930:313",
+    "s0930:383"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage24_campaign_full_merged.json",
+    "id": 438
+   },
+   "notes": "Repeated deliberate silence at all four actual uses.",
+   "uncertain": []
+  },
+  {
+   "id": 238,
+   "uses": [
+    "s0930:257"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "...Let us settle this...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 89
+   },
+   "notes": "Restore inclusive let us challenge.",
+   "uncertain": []
+  },
+  {
+   "id": 239,
+   "uses": [
+    "s0930:259"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "Heh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 90
+   },
+   "notes": "Brief scoff kept as interjection.",
+   "uncertain": []
+  },
+  {
+   "id": 240,
+   "uses": [
+    "s0930:261"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "...Who are you?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 91
+   },
+   "notes": "Identity question remains question, no advance exposition.",
+   "uncertain": []
+  },
+  {
+   "id": 241,
+   "uses": [
+    "s0930:262"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ラピス",
+   "speaker_en": "Lapis",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 92
+   },
+   "notes": "Source punctuation reaction preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 242,
+   "uses": [
+    "s0930:263"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "I'm Ruri. This is my friend, Omoikane...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 93
+   },
+   "notes": "Personal friend framing retained for AI; sourced machine gender avoids invented pronoun.",
+   "uncertain": []
+  },
+  {
+   "id": 243,
+   "uses": [
+    "s0930:264"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "オモイカネ",
+   "speaker_en": "Omoikane",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage15_campaign_full_merged.json",
+    "id": 703
+   },
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "id": 244,
+   "uses": [
+    "s0930:265"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "And who are you...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 94
+   },
+   "notes": "Restore who are you, grammatical omission not unfinished predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 245,
+   "uses": [
+    "s0930:266"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ラピス",
+   "speaker_en": "Lapis",
+   "en": "...I'm Lapis.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 95
+   },
+   "notes": "Restore self-identification verb and subject.",
+   "uncertain": []
+  },
+  {
+   "id": 246,
+   "uses": [
+    "s0930:267"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Lapis?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 96
+   },
+   "notes": "Name echo fragment legitimate.",
+   "uncertain": []
+  },
+  {
+   "id": 247,
+   "uses": [
+    "s0930:268"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ラピス",
+   "speaker_en": "Lapis",
+   "en": "Lapis Lazuli... I was born in a Nergal research facility...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 97
+   },
+   "notes": "Restore I; Nergal remains source-short; no external augmentation facts.",
+   "uncertain": []
+  },
+  {
+   "id": 248,
+   "uses": [
+    "s0930:269"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ラピス",
+   "speaker_en": "Lapis",
+   "en": "I am Akito's eyes... Akito's ears... Akito's hands... Akito's feet... Akito's... Akito's...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 98
+   },
+   "notes": "All four body roles plus two unfinished possessives retained in same row; no physical augmentation exposition.",
+   "uncertain": [
+    "Retained two source unfinished possessives: Akito's... Akito's..."
+   ]
+  },
+  {
+   "id": 249,
+   "uses": [
+    "s0930:270"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰衆",
+   "speaker_en": "Hokushin's Six",
+   "en": "Commander! Let us come to your aid!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 99
+   },
+   "notes": "Speaker offers squad aid; restore let us come to your aid rather than reverse request.",
+   "uncertain": []
+  },
+  {
+   "id": 250,
+   "uses": [
+    "s0930:271"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰衆",
+   "speaker_en": "Hokushin's Six",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 100
+   },
+   "notes": "What interjection retained.",
+   "uncertain": []
+  },
+  {
+   "id": 251,
+   "uses": [
+    "s0930:272"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "The cavalry is here!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 101
+   },
+   "notes": "Cavalry sets up literal horse banter in fresh103..108.",
+   "uncertain": []
+  },
+  {
+   "id": 252,
+   "uses": [
+    "s0930:273"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰衆",
+   "speaker_en": "Hokushin's Six",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 102
+   },
+   "notes": "Punctuation reaction retained.",
+   "uncertain": []
+  },
+  {
+   "id": 253,
+   "uses": [
+    "s0930:274"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Anyone who interferes with a duel between men gets kicked by a horse straight into the Sanzu River!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 103
+   },
+   "notes": "Preserve male duel, horse kick and death-river destination. Sanzu River confirmed by parent against Akurasu Side Stories Flow Chart scenario15; no extra lore.",
+   "uncertain": []
+  },
+  {
+   "id": 254,
+   "uses": [
+    "s0930:275"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "I'm horse number one! Neigh!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 104
+   },
+   "notes": "Restore explicit self-identification subject and copula; horse numbering and whinny setup preserved for Izumi fresh105.",
+   "uncertain": []
+  },
+  {
+   "id": 255,
+   "uses": [
+    "s0930:276"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "I'm horse number two, neigh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 105
+   },
+   "notes": "Horse #2 roll-call answers Hikaru horse #1 at104. Onomatopoeic neigh, not a statement that horses exist. Root final review: Independent worker5 grammar review: restore mock roll-call self-identification subject/copula consistently with104.",
+   "uncertain": []
+  },
+  {
+   "id": 256,
+   "uses": [
+    "s0930:277"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Hey, hey! Am I a horse too?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 106
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 257,
+   "uses": [
+    "s0930:278"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "That's right! And since you're a horse...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 107
+   },
+   "notes": "Retains unfinished setup;108 supplies the riding/dominance gag.",
+   "uncertain": [
+    "Retained source unfinished clause or purpose fragment; not grammatical pro-drop."
+   ]
+  },
+  {
+   "id": 258,
+   "uses": [
+    "s0930:279"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "Ryoko's got Sabu pinned under her butt...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 108
+   },
+   "notes": "Sabu is source nickname of Saburota. Riding plus under-her-thumb conveys the literal seat and idiomatic dominance; flirtation is teasing, not factual characterization. Root final review: Independent worker5 meaning review: preserve explicit butt setup for110 and111, horse-riding and romantic-dominance idiom. No measured overflow compression.",
+   "uncertain": [
+    "Retained source unfinished teasing clause.",
+    "Sabu is a context-established source nickname of Saburota; independent English spelling is unverified.",
+    "Literal butt/dominance idiom preserves linked horse gag and explicit response110; independent worker5 reviewed localization."
+   ]
+  },
+  {
+   "id": 259,
+   "uses": [
+    "s0930:280"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Oh, nice one!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 109
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 260,
+   "uses": [
+    "s0930:281"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "You idiots! What's this about my butt?!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 110
+   },
+   "notes": "Ryoko rejects the butt/seat joke angrily; insult and bodily reference retained.",
+   "uncertain": []
+  },
+  {
+   "id": 261,
+   "uses": [
+    "s0930:282"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Well, whether you keep me under your thumb or give me a lap pillow, I'll look forward to what comes next... right, boss?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 111
+   },
+   "notes": "Saburota flirts with Ryoko, contrasting being dominated with laying his head in her lap. Boss is squad leader address, not invented military rank.",
+   "uncertain": []
+  },
+  {
+   "id": 262,
+   "uses": [
+    "s0930:283"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Y-you idiot!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 112
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 263,
+   "uses": [
+    "s0930:284"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "Ooh, things are heating up!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 113
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 264,
+   "uses": [
+    "s0930:285"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Grr! You bastard, you'll pay for this once we're done here!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 114
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 265,
+   "uses": [
+    "s0930:286"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "By the way, Ryoko isn't the only one who's fired up, you know?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 115
+   },
+   "notes": "Heating-up gag transitions from Ryoko/Saburota flirtation to Kazuya fighting for Erika.",
+   "uncertain": []
+  },
+  {
+   "id": 266,
+   "uses": [
+    "s0930:287"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage17_campaign_full_merged.json",
+    "id": 890
+   },
+   "notes": "Punctuation reaction occurs twice; both uses read.",
+   "uncertain": []
+  },
+  {
+   "id": 267,
+   "uses": [
+    "s0930:288"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Daimos, Battle Tuuurn!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 116
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required. Root confirmed Battle Turn stem using Akurasu MX BGM List; elongated vowel preserves the cry.",
+   "uncertain": []
+  },
+  {
+   "id": 268,
+   "uses": [
+    "s0930:289"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Uoooh! Nnngh! Haaah!! Daaaaiiiimoooos!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 117
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 269,
+   "uses": [
+    "s0930:290"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰衆",
+   "speaker_en": "Hokushin's Six",
+   "en": "Ngh!? He's here too!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 118
+   },
+   "notes": "He is Kazuya, revealed by Daimos transformation immediately before this line; gender supported by glossary.",
+   "uncertain": []
+  },
+  {
+   "id": 270,
+   "uses": [
+    "s0930:291"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "You've come to take back your woman, Kazuya Ryuzaki...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 119
+   },
+   "notes": "Hokushin addresses Kazuya about reclaiming Erika; full source name preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 271,
+   "uses": [
+    "s0930:292"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "I've come back, just as I promised! To take Erika back into my own hands!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 120
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 272,
+   "uses": [
+    "s0930:293"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マルガレーテ",
+   "speaker_en": "Margarete",
+   "en": "My lady, look over there! It's Kazuya! It's Daimos!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 121
+   },
+   "notes": "Margarete addresses princess Erika with nursemaid title; look is imperative to Erika. Root confirmed My lady as ordinary honorific translation supported by Erika princess profile.",
+   "uncertain": []
+  },
+  {
+   "id": 273,
+   "uses": [
+    "s0930:294",
+    "s0930:367"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Oh, Kazuya...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 122
+   },
+   "notes": "Vocative with emotional Oh; checked both initial rescue encouragement294 and reunion367.",
+   "uncertain": []
+  },
+  {
+   "id": 274,
+   "uses": [
+    "s0930:295"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "Kazuya, are you going to settle things with him?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 123
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 275,
+   "uses": [
+    "s0930:296"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "No... I'll leave Hokushin to him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 124
+   },
+   "notes": "Him is Akito; source uses pronoun, duel context251..259 and127..128 settle referent.",
+   "uncertain": []
+  },
+  {
+   "id": 276,
+   "uses": [
+    "s0930:297"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 125
+   },
+   "notes": "Nonverbal surprise retained.",
+   "uncertain": []
+  },
+  {
+   "id": 277,
+   "uses": [
+    "s0930:298"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "You're sure you're all right with that?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 126
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 278,
+   "uses": [
+    "s0930:299"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Yes... Compared to his anguish and suffering, I...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 127
+   },
+   "notes": "Unfinished I... retained exactly; source omits the comparison predicate deliberately.",
+   "uncertain": [
+    "Retained source unfinished clause or purpose fragment; not grammatical pro-drop."
+   ]
+  },
+  {
+   "id": 279,
+   "uses": [
+    "s0930:300"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "That's why... as a man, I want to let him settle things with Hokushin...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 128
+   },
+   "notes": "Man-to-man solidarity motivates letting Akito settle the duel with Hokushin; subject restored.",
+   "uncertain": []
+  },
+  {
+   "id": 280,
+   "uses": [
+    "s0930:301"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "Big brother...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 129
+   },
+   "notes": "Nana affectionate address to Kazuya; source kinship vocative retained without asserting biological siblinghood.",
+   "uncertain": []
+  },
+  {
+   "id": 281,
+   "uses": [
+    "s0930:302"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "But I won't show any mercy to anyone else...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 130
+   },
+   "notes": "Anyone else means enemies except Hokushin, not allies.",
+   "uncertain": []
+  },
+  {
+   "id": 282,
+   "uses": [
+    "s0930:303"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "I'll crush their new order with my own fists!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 131
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 283,
+   "uses": [
+    "s0930:304"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Kazuya... I believed you'd come back for me, no matter what...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 132
+   },
+   "notes": "Erika speaks to Kazuya, who returned to rescue her.",
+   "uncertain": []
+  },
+  {
+   "id": 284,
+   "uses": [
+    "s0930:305",
+    "s0930:364"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Erika...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 133
+   },
+   "notes": "Vocative checked both305 and364; reunion and initial exchange share the same exclamation.",
+   "uncertain": []
+  },
+  {
+   "id": 285,
+   "uses": [
+    "s0930:306"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "...I understand. You want me to rescue Yurika Misumaru, don't you...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 134
+   },
+   "notes": "Erika understands Kazuya is asking her to rescue Yurika, confirmed by135 acceptance136 and safe rescue report373.",
+   "uncertain": []
+  },
+  {
+   "id": 286,
+   "uses": [
+    "s0930:307"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "I'm counting on you, Erika. I want all his suffering over these three whole years to be rewarded.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 135
+   },
+   "notes": "Kazuya asks Erika for help. He wants Akito rewarded after three years suffering; does not ask Akito to rescue Erika.",
+   "uncertain": []
+  },
+  {
+   "id": 287,
+   "uses": [
+    "s0930:308"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Yes...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 136
+   },
+   "notes": "Context verified in full owning event; spoken subject/verb restored where required.",
+   "uncertain": []
+  },
+  {
+   "id": 288,
+   "uses": [
+    "s0930:309"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マルガレーテ",
+   "speaker_en": "Margarete",
+   "en": "My lady...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 137
+   },
+   "notes": "Margarete addresses Erika by princess/nursemaid title. Root confirmed My lady as ordinary honorific translation supported by Erika princess profile.",
+   "uncertain": []
+  },
+  {
+   "id": 289,
+   "uses": [
+    "s0930:310"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Let's go, Margarete. To carry out our final duty...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 138
+   },
+   "notes": "Erika addresses Margarete; source purpose clause is retained as an appended fragment, leading into139.",
+   "uncertain": [
+    "Retained source unfinished clause or purpose fragment; not grammatical pro-drop."
+   ]
+  },
+  {
+   "id": 290,
+   "uses": [
+    "s0930:311"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "To save the lovers torn apart by a cruel fate...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 139
+   },
+   "notes": "Purpose-clause fragment deliberately continues138; lovers are Akito/Yurika.",
+   "uncertain": [
+    "Retained source unfinished clause or purpose fragment; not grammatical pro-drop."
+   ]
+  },
+  {
+   "id": 291,
+   "uses": [
+    "s0930:312"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage24_campaign_full_merged.json",
+    "id": 69
+   },
+   "notes": "Silence at all three uses: introduction, Saiga's Mokuren suspicion, and Kazuya's defiance.",
+   "uncertain": []
+  },
+  {
+   "id": 292,
+   "uses": [
+    "s0930:314"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "...Guh... Well... done...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 140
+   },
+   "notes": "Hokushin defeated by Akito; follows reused silences at s0930:312-313. Dying cough and grudging praise.",
+   "uncertain": []
+  },
+  {
+   "id": 293,
+   "uses": [
+    "s0930:315"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "You must be afraid... You must be bitter...! Even clad in armor... you cannot protect the weakness in your heart!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 141
+   },
+   "notes": "Hokushin taunts Akito after defeat; armor cannot shield psychological weakness. You/your restored.",
+   "uncertain": []
+  },
+  {
+   "id": 294,
+   "uses": [
+    "s0930:316"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 142
+   },
+   "notes": "Akito reacts wordlessly to Hokushin; preserve emphatic silence.",
+   "uncertain": []
+  },
+  {
+   "id": 295,
+   "uses": [
+    "s0930:317"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "Your coup has failed, and we have taken control of the system! Surrender without a fight!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 143
+   },
+   "notes": "Kazuya challenges Kusakabe during conditional battle exchange. We controls system; command directed to enemy.",
+   "uncertain": []
+  },
+  {
+   "id": 296,
+   "uses": [
+    "s0930:318"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "It is not over yet...! Everything begins with this battle!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 144
+   },
+   "notes": "Kusakabe rejects Kazuya surrender demand; this battle starts the new order.",
+   "uncertain": []
+  },
+  {
+   "id": 297,
+   "uses": [
+    "s0930:319"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "How many human lives have been taken for the ideals you preach!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 145
+   },
+   "notes": "Kazuya accuses Kusakabe of deaths caused by professed ideals.",
+   "uncertain": []
+  },
+  {
+   "id": 298,
+   "uses": [
+    "s0930:320"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "No matter what pretty words you dress it up in, I will not accept it... I will never accept a war that brings sorrow and tears!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 146
+   },
+   "notes": "Kazuya refuses wars causing sorrow and tears, whatever their rhetorical justification.",
+   "uncertain": []
+  },
+  {
+   "id": 299,
+   "uses": [
+    "s0930:321"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "Tell him, Kyoshiro! Give him one of your usual maxims!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 147
+   },
+   "notes": "Nana asks Kyoshiro to address Kusakabe with his customary maxim; direction remains listener acting.",
+   "uncertain": []
+  },
+  {
+   "id": 300,
+   "uses": [
+    "s0930:322"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "I have no words left for this man...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 148
+   },
+   "notes": "Kyoshiro says he has nothing further to tell Kusakabe; I restored.",
+   "uncertain": []
+  },
+  {
+   "id": 301,
+   "uses": [
+    "s0930:323"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "But I will say this anyway!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 149
+   },
+   "notes": "Kyoshiro nevertheless introduces his maxim.",
+   "uncertain": []
+  },
+  {
+   "id": 302,
+   "uses": [
+    "s0930:324"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "In the words of the departed: \"The government is the sail, the people the wind, the state the ship, and the age the sea.\" Borne's words!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 150
+   },
+   "notes": "Kyoshiro quotes deceased Borne. All four mappings preserved; no biographical addition. Semantic precision: remove the added descriptor thinker; source merely invokes a deceased author and names Borne.",
+   "uncertain": [
+    "Borne attribution follows root primary-source verification; source calls the deceased author by surname only."
+   ]
+  },
+  {
+   "id": 303,
+   "uses": [
+    "s0930:325"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "You set sail on the great sea of the age without the wind of the people! Only destruction awaits you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 151
+   },
+   "notes": "Kyoshiro applies the quote to Kusakabe and followers; popular support is wind, age the sea.",
+   "uncertain": []
+  },
+  {
+   "id": 304,
+   "uses": [
+    "s0930:326"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Alien! You could never understand... our ideals... our aspirations!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 152
+   },
+   "notes": "Kusakabe dismisses alien Rom as incapable of understanding their ideals and aspirations.",
+   "uncertain": []
+  },
+  {
+   "id": 305,
+   "uses": [
+    "s0930:327"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "...The tears of the people will someday become a river of sorrow and flow into a sea of tragedy...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 153
+   },
+   "notes": "Rom solemnly extends water imagery; people tears become sorrow river then tragedy sea.",
+   "uncertain": []
+  },
+  {
+   "id": 306,
+   "uses": [
+    "s0930:328"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "How many tears do you think will be shed in this world because of you!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 154
+   },
+   "notes": "Rom accuses Kusakabe and followers of causing worldly tears.",
+   "uncertain": []
+  },
+  {
+   "id": 307,
+   "uses": [
+    "s0930:329"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "All are sacrifices to build a better world... I will not let that pain go to waste!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 155
+   },
+   "notes": "Kusakabe defends sacrifice for a better world and promises not to waste pain.",
+   "uncertain": []
+  },
+  {
+   "id": 308,
+   "uses": [
+    "s0930:330"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ロム",
+   "speaker_en": "Rom",
+   "en": "If you proclaim an ideal, seek a path that requires none of those sacrifices! That is what true governance means!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 156
+   },
+   "notes": "Rom says real governance pursues ideals without even those sacrifices; listener commanded to find path.",
+   "uncertain": []
+  },
+  {
+   "id": 309,
+   "uses": [
+    "s0930:331"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Here I come, Kusakabe! I'll settle the score from the Lizard War... and avenge Tsukumo, all right here!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 157
+   },
+   "notes": "Ryoko threatens Kusakabe with repayment for Lizard War and revenge for Tsukumo; both retained.",
+   "uncertain": []
+  },
+  {
+   "id": 310,
+   "uses": [
+    "s0930:332"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "Coups are so out of style! This is an age when everyone wants to live in peace!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 158
+   },
+   "notes": "Hikaru criticizes coup as outdated in an era of people wanting peaceful lives.",
+   "uncertain": []
+  },
+  {
+   "id": 311,
+   "uses": [
+    "s0930:333"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "イズミ",
+   "speaker_en": "Izumi",
+   "en": "...Enough already. All you do is repeat the same tragedies.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 159
+   },
+   "notes": "Izumi tells enemy faction to stop repeating tragedy.",
+   "uncertain": []
+  },
+  {
+   "id": 312,
+   "uses": [
+    "s0930:334"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Lieutenant General Kusakabe, it's about time you called it quits.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 160
+   },
+   "notes": "Saburota addresses Kusakabe respectfully but flippantly; source explicit rank retained.",
+   "uncertain": []
+  },
+  {
+   "id": 313,
+   "uses": [
+    "s0930:335"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "That voice... Takasugi... You too have changed...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 161
+   },
+   "notes": "Kusakabe recognizes Saburota by surname Takasugi and comments on change.",
+   "uncertain": []
+  },
+  {
+   "id": 314,
+   "uses": [
+    "s0930:336"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "You don't seem to have changed all that much yourself.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 162
+   },
+   "notes": "Saburota answers Kusakabe that he remains much the same.",
+   "uncertain": []
+  },
+  {
+   "id": 315,
+   "uses": [
+    "s0930:337"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Shut up! You traitor who has forgotten the spirit of the Jovian Federation!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 163
+   },
+   "notes": "Shinjo condemns Saburota as betrayer of Jovian Federation spirit.",
+   "uncertain": []
+  },
+  {
+   "id": 316,
+   "uses": [
+    "s0930:338"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "Treason? Well, I suppose that's how you see it, Lieutenant General... But I like where I am now.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 164
+   },
+   "notes": "Saburota acknowledges Lieutenant General viewpoint then states liking present place.",
+   "uncertain": []
+  },
+  {
+   "id": 317,
+   "uses": [
+    "s0930:339"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...If that is your answer, come at me! We shall decide here whose ideals are right, yours or mine!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 165
+   },
+   "notes": "Kusakabe challenges Saburota to settle which of their ideals is correct.",
+   "uncertain": []
+  },
+  {
+   "id": 318,
+   "uses": [
+    "s0930:340"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "No, that was already decided... the moment the Nadesico C came here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 166
+   },
+   "notes": "Saburota says outcome decided when Nadesico C arrived, answering previous challenge.",
+   "uncertain": []
+  },
+  {
+   "id": 319,
+   "uses": [
+    "s0930:341"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Witch! If we shoot you down, control will return to us!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 167
+   },
+   "notes": "Shinjo threatens Ruri ship: shoot you down restores enemy control.",
+   "uncertain": []
+  },
+  {
+   "id": 320,
+   "uses": [
+    "s0930:342"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "Then victory will be ours!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 168
+   },
+   "notes": "Shinjo finishes prior conditional threat with their expected victory.",
+   "uncertain": []
+  },
+  {
+   "id": 321,
+   "uses": [
+    "s0930:343"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "...I think your resistance is futile, though.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 169
+   },
+   "notes": "Ruri calmly tells Shinjo and Kusakabe resistance is futile.",
+   "uncertain": []
+  },
+  {
+   "id": 322,
+   "uses": [
+    "s0930:344"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "You never know who wins until the geta are on...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 170
+   },
+   "notes": "Kusakabe uses footwear proverb about outcome remaining uncertain until end; retain geta anchor for reply.",
+   "uncertain": [
+    "Cultural wordplay: source proverb uses geta footwear to mean the result is unknown until the end; literal anchor retained for row171."
+   ]
+  },
+  {
+   "id": 323,
+   "uses": [
+    "s0930:345"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Then put them on right now. Geta, zori, sandals, whatever.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 171
+   },
+   "notes": "Ruri deliberately literalizes proverb: put footwear on now, geta/zori/sandals.",
+   "uncertain": [
+    "Cultural wordplay: Ruri deliberately treats the geta proverb literally; geta and zori remain footwear terms."
+   ]
+  },
+  {
+   "id": 324,
+   "uses": [
+    "s0930:346"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "G-grrr!! Even if we perish, our convictions...!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 172
+   },
+   "notes": "Shinjo growls and trails off asserting convictions even if faction perishes; incomplete source kept incomplete. Matching source fragment: remove the supplied auxiliary will so the unfinished boundary occurs at convictions, matching the source.",
+   "uncertain": [
+    "Deliberate unfinished source fragment retained; do not supply a missing predicate about convictions."
+   ]
+  },
+  {
+   "id": 325,
+   "uses": [
+    "s0930:348"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Any further resistance is pointless. Please surrender without a fight.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 173
+   },
+   "notes": "Ruri demands surrender in Kusakabe defeat handler after reused Kusakabe silence s0930:347.",
+   "uncertain": []
+  },
+  {
+   "id": 326,
+   "uses": [
+    "s0930:349",
+    "s0930:358"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "...Understood...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 174
+   },
+   "notes": "Kusakabe complies with Ruri surrender demand in both defeat event and stage-ending event; generic response fits both.",
+   "uncertain": []
+  },
+  {
+   "id": 327,
+   "uses": [
+    "s0930:350",
+    "s0930:359"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "L-Lieutenant General Kusakabe!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 175
+   },
+   "notes": "Shinjo reacts to Kusakabe accepting surrender in both events 10 and 11. Fixed Lieutenant General rank; stutter relocated onto English rank.",
+   "uncertain": []
+  },
+  {
+   "id": 328,
+   "uses": [
+    "s0930:351",
+    "s0930:360"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "We've been defeated once again. As the commander of the losing side, I refuse to disgrace myself any further.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 176
+   },
+   "notes": "Kusakabe explains surrender in both branches. Explicit we/I restored; defeated commander refuses further disgrace.",
+   "uncertain": []
+  },
+  {
+   "id": 329,
+   "uses": [
+    "s0930:352",
+    "s0930:361"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジョウ",
+   "speaker_en": "Shinjo",
+   "en": "L-Lieutenant General...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 177
+   },
+   "notes": "Shinjo trails off in an address to Kusakabe. Vocative, not an unfinished clause; fixed rank retained.",
+   "uncertain": []
+  },
+  {
+   "id": 330,
+   "uses": [
+    "s0930:353",
+    "s0930:362"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "草壁",
+   "speaker_en": "Kusakabe",
+   "en": "Lieutenant Commander Hoshino... I want you to guarantee my subordinates' safety.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 178
+   },
+   "notes": "Kusakabe asks Ruri for a guarantee, not offering one. Fixed Lieutenant Commander Hoshino; I want you preserves request direction.",
+   "uncertain": []
+  },
+  {
+   "id": 331,
+   "uses": [
+    "s0930:354",
+    "s0930:363"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "...Understood.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 179
+   },
+   "notes": "Ruri accepts Kusakabe's request to protect his subordinates. Acknowledgment has no dropped English clause.",
+   "uncertain": []
+  },
+  {
+   "id": 332,
+   "uses": [
+    "s0930:355"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "Hah... Hah... Hah...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 180
+   },
+   "notes": "Akito pants during the resolution branch. Breathing interjections, not unfinished clauses.",
+   "uncertain": []
+  },
+  {
+   "id": 333,
+   "uses": [
+    "s0930:356"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...Yurika...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 181
+   },
+   "notes": "Akito calls Yurika's name. Vocative, not an unfinished clause.",
+   "uncertain": []
+  },
+  {
+   "id": 334,
+   "uses": [
+    "s0930:357"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "...Any further resistance is pointless. Please surrender peacefully.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 182
+   },
+   "notes": "Ruri commands Kusakabe and Shinjo to surrender in event 11; polite imperative directed at listeners.",
+   "uncertain": []
+  },
+  {
+   "id": 335,
+   "uses": [
+    "s0930:365"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "Kazuya...! How long I've waited for this day...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 183
+   },
+   "notes": "Erika greets Kazuya after his call in reused full-source row284. Explicit I restored.",
+   "uncertain": []
+  },
+  {
+   "id": 336,
+   "uses": [
+    "s0930:366"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "As I promised, I've returned to this planet. To hold you in my arms once again...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 184
+   },
+   "notes": "Kazuya returns to Mars as promised and embraces Erika; he rescued her, not vice versa. Purpose phrase follows complete first clause.",
+   "uncertain": []
+  },
+  {
+   "id": 337,
+   "uses": [
+    "s0930:368"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ナナ",
+   "speaker_en": "Nana",
+   "en": "I'm so glad... I'm so glad for you, big brother...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 185
+   },
+   "notes": "Nana celebrates Kazuya's reunion. I restored; big brother is her familiar address, not a biological-relationship assertion.",
+   "uncertain": []
+  },
+  {
+   "id": 338,
+   "uses": [
+    "s0930:369"
+   ],
+   "kind": "thought",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "In the words of one who is gone: \"Flowers return to their roots, birds to their old nests\"...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 186
+   },
+   "notes": "Kyoshiro recalls words of a deceased person; no author named. Literal flowers/roots and birds/old nests return imagery retained.",
+   "uncertain": []
+  },
+  {
+   "id": 339,
+   "uses": [
+    "s0930:370"
+   ],
+   "kind": "thought",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "Our journey, which began on Mars, is finally coming to an end...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 187
+   },
+   "notes": "Kyoshiro reflects on their Mars-origin journey. Our journey restores subject; no place substituted.",
+   "uncertain": []
+  },
+  {
+   "id": 340,
+   "uses": [
+    "s0930:371"
+   ],
+   "kind": "thought",
+   "speaker_jp": "京四郎",
+   "speaker_en": "Kyoshiro",
+   "en": "And he, too...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 188
+   },
+   "notes": "Kyoshiro turns to Akito's parallel homecoming; source deliberately leaves the predicate unfinished. Keep boundary and male referent from scene/profile.",
+   "uncertain": [
+    "Unfinished source predicate intentionally retained: And he, too...; Akito referent inferred from adjacent Yurika rescue/return theme."
+   ]
+  },
+  {
+   "id": 341,
+   "uses": [
+    "s0930:372"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "一矢",
+   "speaker_en": "Kazuya",
+   "en": "...Erika, how is Yurika Misumaru?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 189
+   },
+   "notes": "Kazuya asks Erika how Yurika is, leading to safe in190. Full name retained and interrogative predicate restored.",
+   "uncertain": []
+  },
+  {
+   "id": 342,
+   "uses": [
+    "s0930:373"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "エリカ",
+   "speaker_en": "Erika",
+   "en": "She's safe. Right now, with everyone from the Nadesico...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 190
+   },
+   "notes": "Erika answers Kazuya. She restored for Yurika; second locative deliberately lacks final predicate in source, so remains unfinished.",
+   "uncertain": [
+    "Unfinished source locative intentionally retained: Right now, with everyone from the Nadesico..."
+   ]
+  },
+  {
+   "id": 343,
+   "uses": [
+    "s0930:374"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "...Ugh... Unnh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 191
+   },
+   "notes": "Yurika groans awake. Interjections, not a clause.",
+   "uncertain": []
+  },
+  {
+   "id": 344,
+   "uses": [
+    "s0930:375"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage17_campaign_full_merged.json",
+    "id": 535
+   },
+   "notes": "Silence retained in all nine original contexts.",
+   "uncertain": []
+  },
+  {
+   "id": 345,
+   "uses": [
+    "s0930:376"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アオイ・ジュン",
+   "speaker_en": "Jun",
+   "en": "...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 192
+   },
+   "notes": "Jun Aoi silently watches Yurika wake. Exact prefilled speaker retained; silence, not a clause.",
+   "uncertain": []
+  },
+  {
+   "id": 346,
+   "uses": [
+    "s0930:377"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "...Huh... Everyone...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 193
+   },
+   "notes": "Yurika recognizes the crew while waking. Huh/everyone are recognition interjection and address, not a dropped predicate.",
+   "uncertain": []
+  },
+  {
+   "id": 347,
+   "uses": [
+    "s0930:378"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "You all... look older...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 194
+   },
+   "notes": "Yurika's teasing observation to old friends; subject and look restored, no medical reading.",
+   "uncertain": []
+  },
+  {
+   "id": 348,
+   "uses": [
+    "s0930:379"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミナト",
+   "speaker_en": "Minato",
+   "en": "What a relief... She's her usual ditzy self.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 195
+   },
+   "notes": "Minato is relieved Yurika is her usual ditzy self. She restored; no cognitive diagnosis.",
+   "uncertain": []
+  },
+  {
+   "id": 349,
+   "uses": [
+    "s0930:380"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "...I... was dreaming all this time...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 196
+   },
+   "notes": "Yurika describes having dreamed throughout captivity. I and was restored; trailing pauses do not erase a complete clause.",
+   "uncertain": []
+  },
+  {
+   "id": 350,
+   "uses": [
+    "s0930:381"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "...Akito...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 197
+   },
+   "notes": "Yurika calls for Akito. Vocative, not an unfinished clause.",
+   "uncertain": []
+  },
+  {
+   "id": 351,
+   "uses": [
+    "s0930:382"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ユリカ",
+   "speaker_en": "Yurika",
+   "en": "...Where... is Akito...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 198
+   },
+   "notes": "Yurika asks where Akito is. Complete English question restored.",
+   "uncertain": []
+  },
+  {
+   "id": 352,
+   "uses": [
+    "s0930:384"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "Goodby~e~...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 199
+   },
+   "notes": "Hikaru waves goodbye to departing Akito. Drawn-out farewell retained using allowed tilde.",
+   "uncertain": []
+  },
+  {
+   "id": 353,
+   "uses": [
+    "s0930:385"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ヒカル",
+   "speaker_en": "Hikaru",
+   "en": "...Wait, was it really right to let him go?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 200
+   },
+   "notes": "Hikaru asks companions whether letting Akito leave was right. Explicit him refers to Akito; impersonal it preserves ethical question.",
+   "uncertain": []
+  },
+  {
+   "id": 354,
+   "uses": [
+    "s0930:386"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "サブロウタ",
+   "speaker_en": "Saburota",
+   "en": "He says he's leaving. We can't force him to stay.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 201
+   },
+   "notes": "Saburota answers Hikaru: Akito chooses to leave and they cannot force him to stay. He/we actors restored.",
+   "uncertain": []
+  },
+  {
+   "id": 355,
+   "uses": [
+    "s0930:387"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "But... what's he going to do now...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 202
+   },
+   "notes": "Ryoko wonders about Akito's future. He restored and question completed.",
+   "uncertain": []
+  },
+  {
+   "id": 356,
+   "uses": [
+    "s0930:388"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "リョーコ",
+   "speaker_en": "Ryoko",
+   "en": "Is he really going to leave like this... throwing away even Yurika and his memories with us...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 203
+   },
+   "notes": "Ryoko asks whether Akito intends to abandon Yurika as well as memories with the crew. Explicit he/his restored; do not reduce to memories alone.",
+   "uncertain": []
+  },
+  {
+   "id": 357,
+   "uses": [
+    "s0930:389"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "He'll come back. If he doesn't... I'll just go after him.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 204
+   },
+   "notes": "Ruri reassures Ryoko that Akito will return, otherwise she will pursue him. He/I/him restored; no request-direction reversal.",
+   "uncertain": [
+    "Japanese omits the pursuer and does not explicitly distinguish I from we. Ruri as speaker is rendered I; Akito as returning person is settled by199..203."
+   ]
+  },
+  {
+   "id": 358,
+   "uses": [
+    "s0930:390"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Because he is...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 205
+   },
+   "notes": "Ruri's explanation stops at the row boundary before206. He/is restored but complement deliberately unfinished.",
+   "uncertain": [
+    "Unfinished complement intentionally retained at row boundary;206 completes the explanation."
+   ]
+  },
+  {
+   "id": 359,
+   "uses": [
+    "s0930:391"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Because he's someone precious to me...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 206
+   },
+   "notes": "Ruri completes the reason: Akito is precious. Personal valuation inferred from speaker; no reciprocal or romantic claim.",
+   "uncertain": [
+    "Precious to me restores speaker-relative valuation; source does not explicitly state I versus collective we. No mutual romance asserted."
+   ]
+  },
+  {
+   "id": 360,
+   "uses": [
+    "s0930:392"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "You've done well to make it this far...! You've shown me the tenacity of a human being.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 207
+   },
+   "notes": "Conditional battle event12: Hokushin acknowledges Akito reaching him and human tenacity. It is not a resurrection after ending.",
+   "uncertain": []
+  },
+  {
+   "id": 361,
+   "uses": [
+    "s0930:393"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...Let's settle this...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 208
+   },
+   "notes": "Conditional battle event12: Akito challenges Hokushin. Let's settle this gives complete challenge.",
+   "uncertain": []
+  },
+  {
+   "id": 362,
+   "uses": [
+    "s0930:394"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "A quick-draw shot? Laughable.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage47_campaign.json",
+    "id": 209
+   },
+   "notes": "Conditional battle event12: Hokushin mocks a quick-draw gunshot. Explicit shot, never blade or sword.",
+   "uncertain": []
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "context_review": {
+  "stage": 47,
+  "fingerprint": "4054383d9d8f23a7c2de4cba6c983d01986912ed324a93d012cbe2fb7a6cfadd",
+  "reviewed_reused_ids": [
+   5,
+   35,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147,
+   148,
+   149,
+   150,
+   151,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175,
+   176,
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   207,
+   209,
+   232,
+   237,
+   243,
+   266,
+   291,
+   344
+  ],
+  "reviewed_reused_rows": 153,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Coordinator reviewed all 210 fresh source/final pairs, all 22 fresh flags including four explicitly reported interruption metadata flags, and all ten non-template reused rows at every original use. Whole BEFORE and MAP event context, reuse gaps, both surrender branches, and conditional encounters separate from ending storage were reviewed. Preserve Ruri plus Omoikane system union; Earth coup and projected-victory metaphor; false impossibility claim; full Nadesico C entrustment to Hari; former Lieutenant General Kusakabe and Lieutenant Commander Hoshino source ranks; anonymous row84; all four Lapis body relations plus two trailing possessives; linked cavalry/horse/riding/butt/lap gag with independent worker5 root corrections105/108; Erika rescuing Yurika for Akito; Borne four-part metaphor and wind/sea follow-up; literal geta/zori/sandals pun; unfinished convictions; Yurika safe return and ditzy-self relief; Akito departure without invented mutual romance. Ruri204/206 I-versus-we scope remains explicitly flagged. Quick-draw shot209 remains conditional battle dialogue. All immutable drafts and all final rows fit actual font with no compression; source omissions flagged at matching boundaries. 143 generic defeat rows have205 registrations and no ordinary uses. Akurasu Sanzu River and Battle Turn stems, primary Borne attribution and provisional Sabu are recorded. No ISO or release."
+ },
+ "full_checks": {
+  "rows": 363,
+  "uses": 439,
+  "problems": []
+ }
+}
