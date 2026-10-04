@@ -15,6 +15,9 @@
   Release tag, game-source commit and all existing binary identities are preserved.
 - `tools/build_release.py` now supports repeatable `--upgrade-source VERSION ISO`
   arguments and an explicit `--source-commit` for an existing target release.
+- Downloaded and verified all nine updated release assets. Scoped catalog run
+  37215386850 passed; the live catalog preserves all prior identities and offers
+  the direct 0.4.1 → 0.4.9 Automatic route.
 
 ## Documentation — 2026-10-04
 

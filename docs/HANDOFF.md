@@ -17,6 +17,11 @@ target. The upgrade is 853,344 bytes, SHA-256
 Extended local assets: `work/output/release-v0.4.9-with-upgrade/`. The original
 full patch and release tag/source commit stay unchanged. Current metadata lists
 both source paths; the older eight-asset publication record below is historical.
+All nine updated published assets were downloaded and verified. Scoped catalog
+workflow 37215386850 passed; the live catalog matches the extended manifest and
+offers the direct 0.4.1 → 0.4.9 route. Evidence:
+`work/output/upgrade_0.4.1_to_0.4.9_local_verification.json` and
+`work/output/upgrade_0.4.1_to_0.4.9_upload_verification.json`.
 
 **Latest public release: 0.4.9.** Incremental update of 0.4.8 translating the native
 intermission bitmap header in WND.BIN texture #0 to INTERMISSION. All other 31
