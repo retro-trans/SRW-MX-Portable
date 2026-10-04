@@ -2,15 +2,23 @@
 
 ## Translation work — 2026-10-04 (not yet inserted into a build)
 
+- Masked short source excerpts in public review notes and omitted source-text
+  expectations; retained English explanations, names, placeholders and links.
+- Completed hidden-stage review: 687 fresh rows, 877 full rows and all 1,010
+  original uses checked; preserved both pilot-assignment options and all routes.
+  Two measured draft overflows shortened. Corrected a neutral acknowledgment
+  and one reused decision response, keeping initial drafts and earlier owners.
+- Drafted all 876 unused-scene rows with measured fits; context review and
+  closing/save-message translation remain in progress. No build or release.
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–55: 15,007 fresh rows and 19,410 full rows.
+- Completed and reviewed stages 31–56: 15,694 fresh rows and 20,287 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  earlier stage review records retained. Stage 56 (hidden stage) is underway.
+  earlier stage review records retained. Unused scenes and save messages follow.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary

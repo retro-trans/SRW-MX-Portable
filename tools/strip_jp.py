@@ -1,16 +1,22 @@
 """Write commit-safe copies (*.en.json) of translation working files, without the Japanese script.
 
-Removes the fields that hold source text (jp, body_jp, jp_rows, summary_jp, title_jp) and masks
-Japanese quoted inside notes. Short Japanese names (speaker_jp, name_jp) are kept: names and UI terms
+Removes source-text fields, including context-override expectations, and masks
+Japanese excerpts inside notes regardless of length. Short Japanese names (speaker_jp, name_jp) are kept: names and UI terms
 are allowed in the repository, script lines are not (AGENTS.md).
 
 usage: python strip_jp.py [project root]
 """
 import glob, json, os, re, sys
 
-DROP = {'jp', 'body_jp', 'jp_rows', 'summary_jp', 'title_jp'}
+DROP = {'jp', 'body_jp', 'jp_rows', 'summary_jp', 'title_jp', 'expected_jp'}
 RUN = re.compile(r'[\u3040-\u30ff\u4e00-\u9fff\uff00-\uffef\u3000-\u303f]{7,}')
 KEEP_JP = {'speaker_jp', 'name_jp'}
+# Short source utterances can appear in review annotations too. Public notes
+# retain their English explanation; original annotations remain in local files.
+ANNOTATIONS = {'notes', 'note', 'uncertain', 'reason', 'context', 'decisions',
+               'source_flags', 'final_flags'}
+SHORT_RUN = re.compile(r'[\u3040-\u30ff\u4e00-\u9fff\uff00-\uffef\u3000-\u303f]+')
+REFERENCE = re.compile(r'(https?://[^\s<>]+|#[\u3040-\u30ff\u4e00-\u9fff]+)')
 
 
 def clean(x, key=None):
@@ -19,6 +25,10 @@ def clean(x, key=None):
     if isinstance(x, list):
         return [clean(v, key) for v in x]
     if isinstance(x, str) and key not in KEEP_JP:
+        if key in ANNOTATIONS:
+            # Preserve provenance links and literal runtime placeholders.
+            return ''.join(part if i % 2 else SHORT_RUN.sub('[jp]', part)
+                           for i, part in enumerate(REFERENCE.split(x)))
         return RUN.sub('[jp]', x)
     return x
 

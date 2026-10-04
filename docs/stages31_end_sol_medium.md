@@ -42,8 +42,9 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–54 now total 14,007 reviewed fresh rows, 18,200 full rows and 196 packets.
-Stage 55 is in progress. No later dialogue has yet been inserted into an ISO.
+Stages 31–56 now total 15,694 reviewed fresh rows, 20,287 full rows and 218 packets.
+Unused-scene review and closing-message translation are in progress. No later
+dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -419,9 +420,30 @@ documented after meaning review. Twenty-two earlier owned Harry corrections
 and one derived reuse have exact old/new, source-unchanged review proof;
 their completed-stage fingerprints above are refreshed.
 Exact review fingerprint: `03702c80b850e4275103f731cc145257be4efe06565437120b881f07ffd99016`.
-Completion audit through 55 has no problems. Stage 56, the hidden stage, is
-underway; unused scenes/save messages follow. Later dialogue insertion and
+Completion audit through 55 has no problems. Stage 56 completion is recorded
+below; unused scenes/save messages follow. Later dialogue insertion and
 playtesting remain pending. No GitHub release is authorized.
+
+Stage 56, **What Gnaws at the Heart**, is complete: 687 fresh rows, 877 full
+rows and 1,010 original uses in nine packets from six actual Sol 6.1 Medium
+translators. Coordinator paired-reviewed every fresh source/final and flag,
+all 47 non-template reused rows in 81 actual uses with final neighbors, and
+143 generic defeat templates in 205 registrations with no ordinary uses.
+Both original space/Earth menu options and branch targets are preserved.
+Only initial drafts 558 and 673 required shortening; every final line fits.
+
+Acknowledgment 414 to a superior of unconfirmed gender is neutral. Bright's reused
+865 now says "Let's see..." before the pilot-assignment choice; the stage45
+owner is unchanged. Both repairs were independently checked by an actual
+translator and coordinator against original commands, with measured fits.
+Clone/reincarnation claims, qualified plans, 5/7/5 verse, ship-role/rank
+distinctions and provisional technical wording retain their documented limits.
+Exact review fingerprint: `afb549282774d6c84dc243455470246f6ac0cbf2539e884e388a5971ac22d4d3`.
+Completion audit through 56 passes: 15,694 fresh rows, 20,287 full rows and
+218 packets. The 876 unused-scene drafts fit, but coordinator context review
+is still underway. Closing/save messages are being translated. Original legacy
+references are preserved without claiming verified reachability or treating
+their zero-argument 0x0E records as current-format choices. No new ISO or release.
 
 A full final-corpus scan found five source-owned unit-spelling instances in
 stages 2, 35, 54 and 55 using Reideen against Akurasu/main Raideen. A script

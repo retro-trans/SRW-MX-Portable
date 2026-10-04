@@ -5602,6 +5602,168 @@
     "work/translation/en/script/stage55_campaign.json:919"
    ],
    "notes": "Source-bound provisional proper-plan rendering preserves third phase and Mars colonization/development. No exact refreshed MX Akurasu entry found, licensed English unverified. Do not invent chronology, authorities or real-world program identity."
+  },
+  {
+   "jp": "人型機動兵器行動理論",
+   "en": "humanoid mobile weapon behavior theory",
+   "sources": [
+    "work/translation/en/script/stage56_campaign.json:191"
+   ],
+   "notes": "Provisional source-literal military-academy teaching topic. No exact locally refreshed MX Akurasu or targeted Akurasu search entry found. Preserve humanoid/mobile/weapon/behavior/theory attributes; do not add autonomous tactics, degree, or course syllabus. Exact licensed English unverified."
+  },
+  {
+   "jp": "ＴＥアブゾーバー９号機",
+   "en": "TE Absorber No. 9",
+   "sources": [
+    "work/translation/en/script/stage56_campaign.json:218",
+    "work/glossary/glossary.json:TE Absorber"
+   ],
+   "notes": "Established main TE Absorber stem with explicit source unit number. No exact refreshed MX Akurasu compound found. No. 9 briefing is guarded alternative to No. 8, not successive scenes; source-short No. 9 stays short and final player-assigned unit name is not preempted. Exact licensed whole designation unverified."
+  },
+  {
+   "jp": "ＴＥアブゾーバー８号機",
+   "en": "TE Absorber No. 8",
+   "sources": [
+    "work/translation/en/script/stage56_campaign.json:259",
+    "work/glossary/glossary.json:TE Absorber"
+   ],
+   "notes": "Established main TE Absorber stem with explicit source unit number. Source-literal whole designation licensed wording unverified. Guarded alternative to No. 9 briefing; source-short No. 8 stays short and player naming is not preempted."
+  },
+  {
+   "jp": "次元振動",
+   "en": "dimensional vibration",
+   "sources": [
+    "work/translation/en/script/stage56_campaign.json:390"
+   ],
+   "notes": "Provisional literal technical compound; no exact refreshed MX Akurasu or targeted Akurasu search entry found. Miku's startled hypothesis stays a question, without asserting a mechanism or equating it with the separately named Dimensional Coupler System."
+  },
+  {
+   "jp": "グン・ジェム別働隊",
+   "en": "Gon Jem detached unit",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:85",
+    "work/glossary/glossary.json:Gon Jem"
+   ],
+   "notes": "Source-literal unit label using binding Gon Jem stem. No exact refreshed MX Akurasu entry found; not a newly invented organization or expanded Four Heavenly Kings identity. Unused legacy scene reachability and independently licensed exact whole label unverified."
+  },
+  {
+   "jp": "砂漠の赤いバラ",
+   "en": "Red Rose of the Desert",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:90"
+   ],
+   "notes": "Source-literal desert/red/rose epithet addressed to Min by Meio. No exact locally refreshed MX Akurasu or targeted Akurasu search result found; independently licensed epithet unverified. Not a new character or military title."
+  },
+  {
+   "jp": "ギガノス機動要塞",
+   "en": "Giganos Mobile Fortress",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:110",
+    "work/glossary/glossary.json:Giganos"
+   ],
+   "notes": "Source-literal full designation using main Giganos stem. No exact refreshed MX Akurasu or targeted Akurasu search entry found. Preserve mobile and fortress; unused legacy reachability and licensed whole phrase unverified."
+  },
+  {
+   "jp": "デビルサターン",
+   "en": "Devil Saturn",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:232",
+    "work/glossary/glossary.json:Devil Saturn 6"
+   ],
+   "notes": "Source-short visible legacy speaker label omits 6; preserve that omission using the main stem. Main full profile remains Devil Saturn 6. Exact independent short-label licensing unverified."
+  },
+  {
+   "jp": "エヴァ量産機",
+   "en": "Mass-produced EVA",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:247",
+    "work/glossary/glossary.json:Mass-produced EVA",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List"
+   ],
+   "notes": "Legacy kana alias for main EVA mass-production entry. Same main English character/unit stem; not an override or invented model."
+  },
+  {
+   "jp": "三郎太",
+   "en": "Saburota",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:266",
+    "work/glossary/glossary.json:Saburota Takasugi"
+   ],
+   "notes": "Legacy kanji source-short visible label binds to established main Saburota. Preserve short form without adding Takasugi; Saburouta is an alternate source spelling and is not the current binding main form."
+  },
+  {
+   "jp": "北辰６人衆Ａ～Ｆ",
+   "en": "Hokushin's Six A-F",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:269-274",
+    "work/glossary/glossary.json:Hokushin's Six"
+   ],
+   "notes": "Legacy visible labels preserve literal individual A/B/C/D/E/F suffixes after established main group name. Range entry records the alias family; each displayed row uses only its own suffix. Do not invent individual names or expand their identity."
+  },
+  {
+   "jp": "サイシー",
+   "en": "Sai Saici",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:221,223,311",
+    "work/glossary/glossary.json:Sai Saici"
+   ],
+   "notes": "Legacy label reading binds to main Sai Saici; preserve established English short profile form. No new identity or biography inferred."
+  },
+  {
+   "jp": "単体ボソンジャンプ",
+   "en": "individual Boson Jump",
+   "sources": [
+    "work/translation/en/script/stage57_campaign.json:467",
+    "work/glossary/glossary.json:Boson Jump"
+   ],
+   "notes": "Provisional source-literal single-entity compound using established Boson Jump stem. Ruri reacts after the Bose-particle reading, but no human-versus-unit mechanism is specified or supplied. Exact refreshed MX Akurasu compound not found; licensed whole label and unused legacy semantics/reachability unverified."
+  },
+  {
+   "jp": "Ｄ－３カスタム",
+   "en": "D-3 Custom",
+   "sources": [
+    "work/translation/en/script/stage58_campaign.json:26",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Team_Attacks",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database"
+   ],
+   "notes": "Source-short D-3 Custom preserves the fake preview's abbreviation. Akurasu corroborates the Dragonar 3 Custom unit stem only. The next original line jokes that this does not appear in the original series; retain that source claim without independently claiming a verified anime absence or expanding D-3 into a full unit name. Licensed exact dialogue wording unverified."
+  },
+  {
+   "jp": "スパロボ",
+   "en": "SRW",
+   "sources": [
+    "work/translation/en/script/stage58_campaign.json:29",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX"
+   ],
+   "notes": "English initialism selected to preserve the source's colloquial shortened reference to Super Robot Wars in Kaine's fourth-wall joke. This is a source-bound abbreviation/localization, not a full title replacement or independently verified licensed dialogue wording. The source says next week, not a literal seven-day lockout mechanism."
+  },
+  {
+   "jp": "天津国",
+   "en": "heavenly realm",
+   "sources": [
+    "work/translation/en/script/stage58_campaign.json:36",
+    "https://kotobank.jp/word/%E5%A4%A9%E3%81%A4-427049"
+   ],
+   "notes": "Provisional poetic heavenly realm for Hokushin's verse. Targeted Akurasu search has no exact entry; Shogakukan dictionaries define amatsu as heavenly/of the sky and give amatsu kuni as a divine-heavens compound. This supports literal imagery only, not a named fictional country or confirmed mythological/film referent. Do not expand to Takamagahara or a game location; exact licensed poem wording unverified."
+  },
+  {
+   "jp": "瓢",
+   "en": "gourd",
+   "sources": [
+    "work/translation/en/script/stage58_campaign.json:36",
+    "https://kotobank.jp/word/%E7%93%A0-609708"
+   ],
+   "notes": "Shogakukan Digital Daijisen hisago entry includes this character and gourds/their fruit. Source compares the cosmic spiral to a gourd; retain the simile and one-night growth without importing a bottle, dipper, myth, external film explanation or verified quotation attribution. Poem form/translation wording remains provisional."
+  },
+  {
+   "jp": "リアル系",
+   "en": "Real Robot type",
+   "sources": [
+    "work/translation/en/script/stage58_campaign.json:82",
+    "https://akurasu.net/wiki/Amuro_Ray",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Glossary"
+   ],
+   "notes": "Source-bound Real Robot category in Ruri's self-deprecating metatextual joke. Akurasu corroborates the real robot type/category stem; it does not establish this exact MX line or classify Ruri independently. Preserve her source claim and joke, without a realism, rank, or mechanical-form inference. Exact licensed dialogue wording unverified."
   }
  ],
  "characters": [

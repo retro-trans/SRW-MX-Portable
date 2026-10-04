@@ -1079,3 +1079,22 @@ Hari Makibi name is protected from the short-name rule. Bright's source-ranked
 naval addresses and Yurika's locally identified address use Captain in four
 stage55 lines; unrelated colonels retain their existing ranks. Immutable drafts
 are preserved, all changed lines remeasured, and source-specific guards added.
+
+## Hidden-stage and legacy-scene source-bound terminology
+
+Humanoid mobile weapon behavior theory preserves the full course description.
+TE Absorber No.9 and No.8 preserve the original alternate designations, without
+preempting the player's unit naming or merging alternatives. Dimensional
+vibration follows the source question, without importing an established cause.
+These compounds are provisional: refreshed MX tables and targeted Akurasu
+searches did not provide independently licensed exact dialogue labels.
+
+Legacy Gon Jem detached unit, Red Rose of the Desert and Giganos Mobile
+Fortress preserve literal source compounds. Devil Saturn, Mass-produced EVA,
+Saburota and Sai Saici are source-short aliases of existing main entries;
+Hokushin's Six A–F keeps each original suffix. Individual Boson Jump retains
+single-entity wording without specifying an unsupported physical mechanism.
+Term IDs, stem sources and licensed/reachability limits are in campaign_terms.
+Plain legacy embedded labels have no frozen speaker prefill: the source-short
+Harry nickname rule applies there. Main Hari Makibi and earlier immutable
+Hari speaker fields remain protected.
