@@ -26,8 +26,8 @@ permanent. Do not publish any further release without the user's instruction.
 Active task: translate dialogue after stage 30 through the ending, using
 Sol 6.1 Medium sub-agents. Keep source Japanese local and preserve initial
 drafts, context decisions, measured fit checks and every route/scene use.
-Stages 31–51 are translated and reviewed: 11,860 fresh rows and 15,471 full rows.
-Stage 52 is underway. Queue:
+Stages 31–52 are translated and reviewed: 12,252 fresh rows and 16,051 full rows.
+Stage 53 is underway. Queue:
 `work/output/stages31_end_sol_medium_manifest.json`; review notes and tooling:
 `docs/stages31_end_sol_medium.md`. These later translations are not yet in an ISO.
 

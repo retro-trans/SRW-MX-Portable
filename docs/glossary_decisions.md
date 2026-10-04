@@ -924,7 +924,7 @@ organization identity or future revelation is added. **Tora Tora Tora**
 romanizes the source coded success message without adding historical
 explanation. Exact licensed English wording remains unverified.
 
-## Stage 52 terminology review — 2026-10-04 (translation in progress)
+## Stage 52 terminology review — 2026-10-04
 
 **Seven Gods** is a provisional literal legendary group title: the
 [official Sunrise episode 37 synopsis](https://www.dendoh.net/story/episode.php?id=37)
@@ -939,3 +939,35 @@ contextual reading of the archaic legendary word based on
 [Shogakukan’s dictionary](https://kotobank.jp/word/寄り坐し-2091912). It does not
 mean comparative better/greater. The quote’s vessel identity and attack
 object remain flagged; no additional ritual or lore is introduced.
+
+## Stage 53 terminology preparation — 2026-10-04
+
+The refreshed Akurasu MX table has no exact entries for these source labels.
+Supplemental terms preserve reveal order and remain qualified by provenance.
+**Keiichi Morito / Morito** and **Shinon Mel Balam** are provisional readings;
+licensed spellings are unverified. **Doolittle** is the source loanword, distinct
+from Downfall. **deus ex machina** keeps the Latin phrase and theatre metaphor.
+**Roche limit** follows [NASA](https://imagine.gsfc.nasa.gov/resources/dict_qz.html),
+without adding scientific explanation to the dialogue. The descriptive
+**shrine of reverse spiriting-away** has [secondary episode synopsis support](https://www.clicker.com/tv/rahxephon/),
+but no verified licensed compound. **Quon al Padis** and source-short
+**Shapplin** follow the [secondary English character list](https://en.wikipedia.org/wiki/List_of_RahXephon_characters).
+**Secret Dead Sea Scrolls** follows [EvaGeeks](https://wiki.evageeks.org/Dead_Sea_Scrolls);
+its qualifier must not leak into source-short mentions. **B-Danan-type firewall**
+and **seat of the soul** remain provisional source-literal labels.
+**Ixtli in Yollotl** uses [primary scholarly spelling corroboration](https://aztecglyphs.wired-humanities.org/content/ixtli-mdz51r),
+which confirms linguistic stems only, not MX lore or licensed terminology.
+No outside biographies, timelines or cosmology are inserted. No Akurasu entry
+is overridden.
+
+Stage 53 packet 0 terminology follow-up: **Big Shell** and **Rinkai City**
+remain provisional source loanword/romanization labels, with licensed English
+unverified. **Major General** follows the terrestrial army context and
+[primary Japanese MOD paired usage](https://www.mod.go.jp/j/approach/exchange/area/2024/20240109_ken-j.html),
+separate from naval Rear Admiral. These supplement missing Akurasu entries;
+no main term is overridden and no outside location or identity is added.
+
+**nuclear-disruption cannon** (stage 53, fresh 559) is a provisional literal
+fictional weapon label. Akurasu has no exact entry; licensed English remains
+unverified. Do not replace it with N2 or positron terminology from outside
+Evangelion scenes, or add a technical mechanism.

@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–51: 11,860 fresh rows and 15,471 full rows.
+- Completed and reviewed stages 31–52: 12,252 fresh rows and 16,051 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 52 is underway.
+  stages 1–30 remain reviewed. Stage 53 is underway.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -84,6 +84,12 @@
   Preserved family relations, medication stakes, ship escort, conditional
   events and Zero’s backup reveal. Independent review corrected an inside
   joke and documented an ambiguous warning. No build or release created.
+- Completed stage 52 in six packets from six actual translators; reviewed
+  all 392 fresh rows, 107 flags and every reused occurrence. Three measured
+  fixed UI overflows were shortened with every condition retained; no dialogue
+  compression. Corrected negation, pronouns and guardian identity; preserved
+  distinct conditional handlers and unresolved legend referents. Enforced the
+  existing Hyribead spelling and added persistent guards. No build or release.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

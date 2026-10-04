@@ -5113,6 +5113,149 @@
     "work/translation/en/script/stage52_campaign.json:371"
    ],
    "notes": "Provisional contextual reading of archaic legendary quote, based on Shogakukan Selected Japanese Dictionary definition of a medium hosting spirits. Not comparative better/greater. Under the contract the gods become their vessel’s power; exact fictional vessel identity and objectこれ remain locally flagged, and no ritual or lore is added. No exact Akurasu/licensed English rendering found."
+  },
+  {
+   "jp": "森戸圭一",
+   "en": "Keiichi Morito",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:29"
+   ],
+   "notes": "Provisional reading of source name; exact reading/licensed English not verified. Only a reported new commander at this point; do not expose later identity or infer gender from name. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "森戸",
+   "en": "Morito",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:443"
+   ],
+   "notes": "Source surname short form of provisional Keiichi Morito. Preserve the cover-name versus Miwa reveal; do not substitute Miwa early. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "ドゥーリットル",
+   "en": "Doolittle",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:76"
+   ],
+   "notes": "Transparent English loanword for fictional TERRA operation. Not Operation Downfall; preserve exact two-days-later May29 at1200 schedule. No outside historical operation details added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "ロシュの限界",
+   "en": "Roche limit",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:3",
+    "https://imagine.gsfc.nasa.gov/resources/dict_qz.html"
+   ],
+   "notes": "Primary NASA terminology corroboration only. Preserve source claim that delay would cause worse than a Roche-limit incident; no calculations or astronomy mechanism added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "逆神隠しの祠",
+   "en": "shrine of reverse spiriting-away",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:110",
+    "https://www.clicker.com/tv/rahxephon/"
+   ],
+   "notes": "Provisional descriptive label; secondary episode9 synopsis corroborates two girls reverse spirited away at a shrine. Not a substitution of the established Neriya Shrine name; exact licensed English compound unverified. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "シノン・メル・バラム",
+   "en": "Shinon Mel Balam",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:117"
+   ],
+   "notes": "Provisional romanization of Mamoru address. Source kana authoritative, no exact licensed English spelling verified; preserve full distinct name rather than replacing with Mamoru. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "クオン・アル・パディス",
+   "en": "Quon al Padis",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:118",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Secondary English character list corroborates this Quon name. Preserve source full address and do not add outside biography. Exact primary licensed spelling unverified. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "デウス・エクス・マキナ",
+   "en": "deus ex machina",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:173"
+   ],
+   "notes": "Standard Latin phrase explicitly explained by source174-175 as ancient Greek theatre god from a machine resolving an unmanageable play. Retain extended theatre metaphor and plural count where applicable; do not substitute a unit name or add lore. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "裏の死海文書",
+   "en": "Secret Dead Sea Scrolls",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:185",
+    "https://wiki.evageeks.org/Dead_Sea_Scrolls"
+   ],
+   "notes": "Secondary EvaGeeks corroborates qualified English name. Preserve distinction from source-short Dead Sea Scrolls; do not import historical scroll facts or Eva2 cosmology into MX. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "シャプラン",
+   "en": "Shapplin",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:259",
+    "https://en.wikipedia.org/wiki/List_of_RahXephon_characters"
+   ],
+   "notes": "Secondary English list names Jean-Patrick Maestro Shapplin and matching kana. Source short surname remains short; retain Captain rank explicitly given in source, no expanded nickname. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "Ｂダナン型防壁",
+   "en": "B-Danan-type firewall",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:414"
+   ],
+   "notes": "Provisional source romanization and technical descriptor. Exact licensed English unverified; source says62hours blocking EXTERNAL intrusion. Keep distinct from Number666 protection at420; no networking mechanism added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "魂の座",
+   "en": "seat of the soul",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:374"
+   ],
+   "notes": "Provisional literal allusive label, exact licensed wording unverified. No hidden referent identity added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "イシュトリ・イン・ヨリョトル",
+   "en": "Ixtli in Yollotl",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:831",
+    "https://aztecglyphs.wired-humanities.org/content/ixtli-mdz51r"
+   ],
+   "notes": "Provisional fictional term uses corroborated Nahuatl Ixtli/Yollotl stems. Primary scholarly lexicon confirms spelling of diphrase, not MX meaning or licensed capitalization. Source starts Ollin then corrects to this; do not insert face/heart etymology or extra in absent from kana. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "ビッグシェル",
+   "en": "Big Shell",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:52"
+   ],
+   "notes": "Provisional transparent English loanword for the source Muutropolis shelter/structure. Exact licensed English not verified. Keep source closure and resistance claims; no outside facility history added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "臨海市",
+   "en": "Rinkai City",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:71"
+   ],
+   "notes": "Provisional reading of source city name. Exact licensed English not verified. Retain singular named city and its refugee context; no real-world location or school substitution. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "少将",
+   "en": "Major General",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:29",
+    "https://www.mod.go.jp/j/approach/exchange/area/2024/20240109_ken-j.html"
+   ],
+   "notes": "Terrestrial army rank in source Far East Command context. Primary Japanese MOD paired army rank usage corroborates English. Distinct from naval Rear Admiral; no identity added to the reported new commander. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+  },
+  {
+   "jp": "原子核破壊砲",
+   "en": "nuclear-disruption cannon",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:559"
+   ],
+   "notes": "Provisional source-literal fictional weapon label; exact licensed English unverified. Absent from refreshed Akurasu MX table and searches yielded no exact authority. No main override. Do not substitute N2 or positron cannon from outside Evangelion scenes or invent a technical mechanism."
   }
  ],
  "characters": [

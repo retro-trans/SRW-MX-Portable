@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–51 now total 11,860 reviewed fresh rows, 15,471 full rows and 167 packets.
-Stage 52 is underway. No later dialogue has yet been inserted into an ISO.
+Stages 31–52 now total 12,252 reviewed fresh rows, 16,051 full rows and 173 packets.
+Stage 53 is underway. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -341,4 +341,22 @@ actor remains explicitly ambiguous; legacy referents remain gender-neutral.
 Exact review fingerprint:
 `acfcb454ce0d9043ca71778e5461effdc4c33189badf3bced03b82792f2209be`.
 Completion audit through 51 has no problems. Stage 52 is underway. Later
+dialogue insertion and playtesting remain pending; no release is authorized.
+
+Stage 52 is complete: 392 fresh rows, 580 full rows and 647 original uses
+in six packets from six actual Sol 6.1 Medium translators. Coordinator reviewed
+every fresh source/final pair, all 107 fresh flags and every occurrence of
+45 non-template reused rows (49 uses). The 143 generic defeat templates have
+205 registrations and no ordinary uses. Only fixed UI conditions 264, 349 and
+350 required measured shortening; every final fits and full drafts remain.
+
+Independent review corrected negation scope, the seal-chamber copula, the
+quoted legend’s pronoun shift and the guardians’ identity. Phoenix’s reveal
+in event 13, the failed synchronization in event 36 and success in event 38
+remain separate. Family relations, planetary ecology, the seven-god count
+and source hypotheses remain; spirit-vessel identity and the strike object
+are explicitly unresolved. Hyribead follows the existing main glossary, with
+persistent spelling guards. Exact review fingerprint:
+`a95fb9e91918bedf60a99fa405c9c86712bc8ca97562bc5b959b9a6fd6f99d0b`.
+Completion audit through 52 has no problems. Stage 53 is underway. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
