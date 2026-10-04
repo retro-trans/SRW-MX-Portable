@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–47: 9,567 fresh rows and 12,496 full rows.
+- Completed and reviewed stages 31–48: 10,101 fresh rows and 13,184 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 48 is underway.
+  stages 1–30 remain reviewed. Stage 49 is underway.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -60,6 +60,12 @@
   review, preserved rescue direction and both surrender paths, and documented
   Borne attribution, footwear wordplay and Ruri’s unresolved I/we scope.
   No build or release created.
+- Completed stage 48 with seven packets from six actual translators; reviewed
+  all 534 fresh rows, 38 flags and every reused occurrence. One measured
+  initial overflow was shortened with full draft retained; all final rows fit.
+  Preserved Rubina’s reveal, family possessives, mission conditions, radioactive
+  crash deadline and homecoming choices. Reconciled painted-label wordplay,
+  Medifo spelling and source-short Black Great. No build or release created.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

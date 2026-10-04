@@ -785,7 +785,7 @@ broadcast mechanism. Exact licensed English wording remains unverified.
 Exact licensed MX spellings remain unverified where stated. Initial drafts stay
 unchanged; these decisions do not override Akurasu entries.
 
-## Stage 48 terminology review — 2026-10-04 (translation in progress)
+## Stage 48 terminology review — 2026-10-04
 
 [Akurasu's MX Mech List](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List)
 supports the painted **Original** label through Great Mazinger (Original),
@@ -794,6 +794,8 @@ stages 10 and 34 already use ordinary original correctly and need no change.
 The alternate label suggestions Number One and True remain jokes; they do not
 establish different actual units. **Black Great** uses the existing unit's
 documented short variant to preserve the immediate English-color joke.
+The name validator has a source-scoped exception for the unpunctuated short
+Japanese form without Mazinger; full names retain their canonical spelling.
 
 Source-short **Guragura** keeps the Akurasu MX Vega Beast Guragura stem. Tetsuya's
 deliberate Furafura misnaming and wobbling joke must not be silently corrected.
@@ -801,3 +803,8 @@ deliberate Furafura misnaming and wobbling joke must not be silently corrected.
 [Akurasu's Master Unit List](https://akurasu.net/wiki/Master_Unit_List); retain
 the source's Latin stem without a model number or added expansion. These
 decisions do not override Akurasu, and initial drafts stay unchanged.
+
+Stage 48’s final spelling pass uses existing Akurasu MX **Medifo** at three
+occurrences; the incorrect Midifo variant appeared only in the current packet,
+with no earlier completed assembly affected. Every corrected final row fits;
+initial drafts remain unchanged.

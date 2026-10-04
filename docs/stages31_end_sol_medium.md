@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–47 now total 9,567 reviewed fresh rows, 12,496 full rows and 135 packets.
-Stage 48 is underway. No later dialogue has yet been inserted into an ISO.
+Stages 31–48 now total 10,101 reviewed fresh rows, 13,184 full rows and 142 packets.
+Stage 49 is underway. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -203,7 +203,7 @@ epithet retain licensed-provenance limits; Altair's human-fear clause retains
 its bounded grammatical ambiguity. Exact review fingerprint:
 `f98b15cd5bcfee3ea8dac49998fbb988dc9915c32fa4d89dd8d3a00fe62a0eef`.
 
-Stage 48 is underway. Full-game local insertion and playtesting remain pending.
+Stage 49 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
 
 Stage 45, **Dearest**, is complete: 834 fresh rows, 1,019 full rows and 1,130
@@ -243,7 +243,7 @@ brother-in-law joke. United Lunar Empire Giganos follows Akurasu; prior full-nam
 occurrences in stages 6 and 30 were corrected and re-reviewed with passing
 font and completion checks. SP, PD and SFF remain unexpanded. Exact review
 fingerprint: `ea50ed27f558bf1c5c8388115d2d94cda0692f709391b622a00104cbb2783173`.
-Completion audit through 46 has no problems. Stage 48 is underway. Full-game
+Completion audit through 46 has no problems. Stage 49 is underway. Full-game
 local insertion and playtesting remain pending; no release is authorized.
 
 Stage 47, **Farewell to your Memories**, is complete: 210 fresh rows, 363 full
@@ -261,5 +261,25 @@ I/we scope remains explicitly flagged without asserting mutual romance. Ending
 is inside the MAP handler; later-stored Hokushin quotes remain conditional
 battle encounters. Exact review fingerprint:
 `4054383d9d8f23a7c2de4cba6c983d01986912ed324a93d012cbe2fb7a6cfadd`.
-Completion audit through 47 has no problems. Stage 48 is underway. Local
+Completion audit through 47 has no problems. Stage 49 is underway. Local
 insertion and playtesting remain pending; no release is authorized.
+
+Stage 48, **A Single Flower and the Green Planet**, is complete: 534 fresh
+rows, 688 full rows and 841 original uses in seven packets from six actual
+Sol 6.1 Medium translators. Coordinator reviewed every fresh row, all 38 fresh
+flags and every occurrence of 11 non-template reused rows. Generic defeat
+registrations remain 143 rows with 205 uses and no ordinary uses. One measured
+initial overflow was shortened with the complete draft and both measurements
+retained; all final rows fit.
+
+Review preserves three painted-label branches, Kyral’s crimes and blindness,
+Rubina’s unspoken marriage assumption and shooting reveal, Duke’s subjective
+guilt, every family possessive, conditional shootdowns, ranked AND objectives,
+map-edge OR defeat, the radioactive crash deadline and delayed homecoming.
+Two independently checked meaning corrections align the True painted-label
+joke and restore Hikaru’s future-action predicate. Canonical Medifo spelling
+and source-short Black Great are reconciled with existing glossary evidence.
+Exact review fingerprint:
+`3a9a395473dc12b89cd7b6d9b5316345b1396e40e611cb99ef3a1d25a1fcb195`.
+Completion audit through 48 has no problems. Stage 49 is underway. Later
+dialogue insertion and playtesting remain pending; no release is authorized.

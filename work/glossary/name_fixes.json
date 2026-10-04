@@ -254,17 +254,23 @@
   {
    "source_contains": "プラート博士",
    "source_not_contains": "ラング・プラート",
-   "variants": {"Dr. Lang Plato": "Dr. Plato"},
+   "variants": {
+    "Dr. Lang Plato": "Dr. Plato"
+   },
    "reason": "Preserve approved main source-short doctor body form, reversing earlier automatic full-name expansion only where Japanese omits Lang. Full source name and speaker prefills unchanged."
   },
   {
    "source_contains": "ホシノ少佐",
-   "variants": {"Major Hoshino": "Lieutenant Commander Hoshino"},
+   "variants": {
+    "Major Hoshino": "Lieutenant Commander Hoshino"
+   },
    "reason": "Specific Ruri surname/rank address follows main Lieutenant Commander profile; no army-rank substitution or global Major replacement."
   },
   {
    "source_contains": "ミスマル・ユリカ大佐",
-   "variants": {"Colonel Yurika Misumaru": "Captain Yurika Misumaru"},
+   "variants": {
+    "Colonel Yurika Misumaru": "Captain Yurika Misumaru"
+   },
    "reason": "Specific Yurika ranked full name follows explicit Captain rank in Nadesico profile and main role; not a global Colonel mapping."
   },
   {
@@ -293,6 +299,12 @@
    "variant": "Dr. Plato",
    "reason": "Main glossary explicitly prescribes en_short Dr. Plato for the source-short doctor designation; Dr. Lang Plato is the full name. Preserve approved short speaker/body form rather than treating it as an old spelling. Full Japanese name remains full in translation.",
    "speaker_is": "Dr. Plato"
+  },
+  {
+   "source_contains": "ブラックグレート",
+   "source_not_contains": "マジンガー",
+   "variant": "Black Great",
+   "reason": "Source-short stage48 English-color joke; main unit record explicitly permits Black Great variant. Full Black Great Mazinger remains canonical when source gives full name. See campaign_terms.json and docs/glossary_decisions.md."
   }
  ]
 }
