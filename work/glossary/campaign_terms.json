@@ -5033,6 +5033,86 @@
     "work/translation/en/script/stage50_campaign.json:274"
    ],
    "notes": "Provisional source-literal martial-school maxim. No exact Akurasu entry found. SRWwiki Master Asia quotes the Japanese school recitation; do not add the rest of the recitation or a new attack name. Exact licensed MX English maxim unverified."
+  },
+  {
+   "jp": "行動推測型",
+   "en": "behavior-prediction type",
+   "sources": [
+    "work/translation/en/script/stage51_campaign.json:30"
+   ],
+   "notes": "Provisional source-literal technical descriptor. No exact Akurasu entry found in current cached terms or targeted search. Does not establish how prediction works; licensed MX wording unverified."
+  },
+  {
+   "jp": "疑似人格ＯＳ",
+   "en": "pseudo-personality OS",
+   "aliases_jp": [
+    "疑似人格OS"
+   ],
+   "sources": [
+    "work/translation/en/script/stage51_campaign.json:30"
+   ],
+   "notes": "Provisional source-literal technical descriptor, distinct from established Personality Transplant OS. No exact Akurasu entry found in cached terms or targeted search. Preserve OS without inventing implementation or identifying the unnamed former organization; licensed MX wording unverified."
+  },
+  {
+   "jp": "トラ・トラ・トラ",
+   "en": "Tora Tora Tora",
+   "sources": [
+    "work/translation/en/script/stage51_campaign.json:219"
+   ],
+   "notes": "Provisional romanization of the spoken coded success message. No exact Akurasu entry found. Do not add historical explanation absent from this dialogue; punctuation may follow spoken English."
+  },
+  {
+   "jp": "惑星管理コンピュータ",
+   "en": "planetary management computer",
+   "sources": [
+    "work/translation/en/script/stage51_campaign.json:232"
+   ],
+   "notes": "Provisional source-literal computer description, not a proper name or new unit. No exact Akurasu entry found. Does not add an operating mechanism, origin or a future revelation; licensed wording unverified."
+  },
+  {
+   "jp": "七の神",
+   "en": "Seven Gods",
+   "sources": [
+    "https://www.dendoh.net/story/episode.php?id=37",
+    "work/translation/en/script/stage52_campaign.json:187"
+   ],
+   "notes": "Provisional source-literal legendary group title. Official Sunrise episode37 synopsis explicitly identifies the term as all seven Data Weapons, not singular seventh god. No exact Akurasu or licensed English title found. Preserve reveal order; later Phoenix is one of this group, with local metonymy flagged where necessary."
+  },
+  {
+   "jp": "フェニックス",
+   "en": "Phoenix",
+   "sources": [
+    "work/glossary/glossary.json",
+    "https://www.dendoh.net/mecha/?id=m10",
+    "https://www.dendoh.net/story/episode.php?id=38"
+   ],
+   "notes": "Source-short name from established main glossary nickname and official Sunrise short Japanese use. Do not expand to Phoenix Alae when the source is short; full main name and existing Alae/Aile provenance remain unchanged."
+  },
+  {
+   "jp": "フェニックスドライブ",
+   "en": "Phoenix Drive",
+   "sources": [
+    "work/translation/en/script/stage52_campaign.json:307"
+   ],
+   "notes": "Provisional romanization of source spoken activation command. No exact Akurasu English phrase found. Do not substitute equipment name or insert a separate attack."
+  },
+  {
+   "jp": "星の生態管理コンピュータ",
+   "en": "planetary ecosystem management computer",
+   "sources": [
+    "work/translation/en/script/stage52_campaign.json:160"
+   ],
+   "notes": "Provisional source-literal descriptor; unlike stage51 generic planetary management wording, source explicitly includes ecosystem. Natural paraphrase as computer managing planetary ecosystem is permitted. No exact Akurasu English phrase found; no scientific mechanism added."
+  },
+  {
+   "jp": "よりまし",
+   "en": "spirit vessel",
+   "sources": [
+    "https://kotobank.jp/word/寄り坐し-2091912",
+    "work/translation/en/script/stage52_campaign.json:191",
+    "work/translation/en/script/stage52_campaign.json:371"
+   ],
+   "notes": "Provisional contextual reading of archaic legendary quote, based on Shogakukan Selected Japanese Dictionary definition of a medium hosting spirits. Not comparative better/greater. Under the contract the gods become their vessel’s power; exact fictional vessel identity and objectこれ remain locally flagged, and no ritual or lore is added. No exact Akurasu/licensed English rendering found."
   }
  ],
  "characters": [

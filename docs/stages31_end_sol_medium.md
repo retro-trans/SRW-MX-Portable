@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–50 now total 11,470 reviewed fresh rows, 14,915 full rows and 161 packets.
-Stage 51 is underway. No later dialogue has yet been inserted into an ISO.
+Stages 31–51 now total 11,860 reviewed fresh rows, 15,471 full rows and 167 packets.
+Stage 52 is underway. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -321,4 +321,24 @@ Eldy’s ambiguous singular addressee and conditional event order remain
 explicit. Exact review fingerprint:
 `a70231f3eaf398ccf8e55e3f4d53ab8611cc76520bead38b849ead8d555bf05e`.
 Completion audit through 50 has no problems. Stage 51 is underway. Later
+dialogue insertion and playtesting remain pending; no release is authorized.
+
+Stage 51, **Hope, Which is the Final GEAR**, is complete: 390 fresh rows,
+556 full rows and 626 original uses in six packets from six actual Sol 6.1
+Medium translators. Coordinator reviewed every fresh source/final pair,
+all 71 fresh flags and every occurrence of 23 non-template reused rows
+(31 uses). The 143 generic defeat rows have 205 registered uses and no
+ordinary uses. Only fixed defeat condition 217 required measured shortening;
+every final row fits, and full initial drafts remain unchanged.
+
+Review preserves the flashback and AI reveal order, uncertain project ties,
+medication shortage and fatal stakes, Altair/Vega/Subaru family relations,
+atonement contrast, both-ship escort and eight-turn versus eight-minute
+wording. Conditional encounters, ship arrivals and countdowns stay separate.
+Independent actual translators restored the technical question, reconciled
+Middi’s address and corrected the shared inside joke. Ryoko’s final conditional
+actor remains explicitly ambiguous; legacy referents remain gender-neutral.
+Exact review fingerprint:
+`acfcb454ce0d9043ca71778e5461effdc4c33189badf3bced03b82792f2209be`.
+Completion audit through 51 has no problems. Stage 52 is underway. Later
 dialogue insertion and playtesting remain pending; no release is authorized.

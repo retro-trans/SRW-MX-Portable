@@ -913,3 +913,29 @@ corroborates the fictional anecdote, whose details are not added to the insult.
 school recitation in [Master Asia’s profile](https://srw.wiki.cre.jp/wiki/マスター・アジア).
 No exact Akurasu entries were found; licensed MX wording for these choices
 remains unverified.
+
+## Stage 51 terminology review — 2026-10-04
+
+**behavior-prediction type**, **pseudo-personality OS** and **planetary
+management computer** are provisional source-literal descriptions. Current
+Akurasu terms and targeted searches yielded no exact entries. The second
+remains distinct from Personality Transplant OS; no implementation, former
+organization identity or future revelation is added. **Tora Tora Tora**
+romanizes the source coded success message without adding historical
+explanation. Exact licensed English wording remains unverified.
+
+## Stage 52 terminology review — 2026-10-04 (translation in progress)
+
+**Seven Gods** is a provisional literal legendary group title: the
+[official Sunrise episode 37 synopsis](https://www.dendoh.net/story/episode.php?id=37)
+explicitly identifies all seven Data Weapons. It is not a singular seventh
+god; reveal order remains intact. **Phoenix** preserves the source short
+name and main nickname, corroborated by
+[Sunrise](https://www.dendoh.net/mecha/?id=m10), without changing the full
+Phoenix Alae entry. **Phoenix Drive** and **planetary ecosystem management
+computer** are source-literal descriptors; no exact Akurasu entries or
+licensed English phrases were found. **spirit vessel** is a provisional
+contextual reading of the archaic legendary word based on
+[Shogakukan’s dictionary](https://kotobank.jp/word/寄り坐し-2091912). It does not
+mean comparative better/greater. The quote’s vessel identity and attack
+object remain flagged; no additional ritual or lore is introduced.
