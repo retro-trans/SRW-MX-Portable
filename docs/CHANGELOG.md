@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–49: 11,093 fresh rows and 14,374 full rows.
+- Completed and reviewed stages 31–50: 11,470 fresh rows and 14,915 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 50 is underway.
+  stages 1–30 remain reviewed. Stage 51 is underway.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -72,6 +72,12 @@
   conditional events, soul references, source claims and both self-destruct
   conditions. Corrected Kaworu subject/sound wording and Rei’s reused question
   with independent context review. No build or release created.
+- Completed stage 50 in six packets from six actual translators; reviewed
+  all 377 fresh rows, 58 flags and every reused occurrence. Three measured
+  draft overflows were shortened with full drafts preserved; every final
+  row fits. Retained the truce, clone reveal, defeat order, core claims and
+  fleet briefing. Corrected a missing stutter and Commander address with
+  independent context review. No build or release created.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

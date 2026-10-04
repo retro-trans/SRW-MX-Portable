@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–49 now total 11,093 reviewed fresh rows, 14,374 full rows and 155 packets.
-Stage 50 is underway. No later dialogue has yet been inserted into an ISO.
+Stages 31–50 now total 11,470 reviewed fresh rows, 14,915 full rows and 161 packets.
+Stage 51 is underway. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -302,4 +302,23 @@ earlier owner. Akurasu names and provisional technical labels retain
 explicit provenance limits. Exact review fingerprint:
 `105e6ec5badb9a00c363dcbf396dcf2a55e174f2b73ae72e16a8e17050396e92`.
 Completion audit through 49 has no problems. Stage 50 is underway. Later
+dialogue insertion and playtesting remain pending; no release is authorized.
+
+Stage 50, **Anthem for the Victors**, is complete: 377 fresh rows, 541 full
+rows and 612 original uses in six packets from six actual Sol 6.1 Medium
+translators. Coordinator compared every fresh source/final pair, all 58
+fresh flags and every occurrence of 21 non-template reused rows. The 143
+generic defeat rows have 205 registered uses and no ordinary uses. Three
+measured draft overflows (56, 175, 274) required shortening; all final rows
+fit. Full drafts and semantic before/after measurements remain preserved.
+
+Review retains the temporary truce, clone recovery and Bahbem reveal,
+living-core claims, maternal list, Grand Master defeat before the Devil
+Gundam, soul attack, DG-erasure duty and the subsequent fleet briefing.
+Independent neighboring translators restored Hari’s stutter and reconciled
+Albero’s Commander address. The original Michiru attribution anomaly,
+Eldy’s ambiguous singular addressee and conditional event order remain
+explicit. Exact review fingerprint:
+`a70231f3eaf398ccf8e55e3f4d53ab8611cc76520bead38b849ead8d555bf05e`.
+Completion audit through 50 has no problems. Stage 51 is underway. Later
 dialogue insertion and playtesting remain pending; no release is authorized.

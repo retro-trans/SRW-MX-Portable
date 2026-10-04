@@ -4986,6 +4986,53 @@
     "https://wiki.evageeks.org/Chamber_of_Guf"
    ],
    "notes": "No exact Akurasu English label found. Source-literal door uses the existing Chamber of Guf spelling. Keep door distinct from chamber; exact licensed MX wording remains unverified. No added mechanism or lore."
+  },
+  {
+   "jp": "特機連合",
+   "en": "Super Robot Coalition",
+   "sources": [
+    "work/translation/en/script/stage50_campaign.json:95",
+    "work/glossary/glossary.json",
+    "https://srw.wiki.cre.jp/wiki/αシリーズ"
+   ],
+   "notes": "Provisional source-literal compound: contextual super robot stem and Coalition parallel the main Gundam Coalition entry. No exact Akurasu compound found. Preserve Kyral improvised coalition wordplay without adding permanent organization or membership details. Exact licensed MX label unverified."
+  },
+  {
+   "jp": "生体コア",
+   "en": "living core",
+   "sources": [
+    "work/translation/en/script/stage50_campaign.json:120",
+    "https://srw.wiki.cre.jp/wiki/デビルガンダム"
+   ],
+   "notes": "Provisional source-literal living/biological core, corroborated as human occupants by SRWwiki Devil Gundam table. No exact Akurasu G-Gundam label found. Akurasu living-core wording for System XN is unrelated and is not evidence for this label. Exact licensed MX label unverified; no extra mechanics or occupants added."
+  },
+  {
+   "jp": "デッドコピー",
+   "en": "knockoff",
+   "sources": [
+    "https://kotobank.jp/word/でつどこぴー-3214650",
+    "https://imidas.jp/genre/detail/A-130-0020.html",
+    "work/translation/en/script/stage50_campaign.json:250"
+   ],
+   "notes": "Contextual pejorative descriptor for a copied imitation, following Shogakukan Daijisen and Imidas definitions. No exact Akurasu entry found. Do not add explicit inferior technical quality or a living/dead biological distinction. Urube claim, not an objective assessment; licensed MX wording unverified."
+  },
+  {
+   "jp": "ホーロー虫",
+   "en": "Horo bug",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/ドモン・カッシュ",
+    "work/translation/en/script/stage50_campaign.json:267"
+   ],
+   "notes": "Provisional katakana name plus ordinary insect descriptor. No exact Akurasu entry found. SRWwiki identifies a fictional bug anecdote associated with Domon; no anecdote details are added to the insult. Exact licensed romanization unverified."
+  },
+  {
+   "jp": "王者之風",
+   "en": "Wind of the King",
+   "sources": [
+    "https://srw.wiki.cre.jp/wiki/マスター・アジア",
+    "work/translation/en/script/stage50_campaign.json:274"
+   ],
+   "notes": "Provisional source-literal martial-school maxim. No exact Akurasu entry found. SRWwiki Master Asia quotes the Japanese school recitation; do not add the rest of the recitation or a new attack name. Exact licensed MX English maxim unverified."
   }
  ],
  "characters": [

@@ -886,3 +886,30 @@ cosmology are not imported. Exact licensed MX wording remains unverified.
 **Lilith** follows the Evangelion name in [Akurasu’s Shinji Ikari biography](https://akurasu.net/wiki/Shinji_Ikari). Only the name is adopted; that biography’s original-anime and other-game plot details do not replace MX dialogue.
 
 **door of Guf** is a provisional source-literal phrase using the existing Chamber of Guf spelling, corroborated by [EvaGeeks](https://wiki.evageeks.org/Chamber_of_Guf). No exact Akurasu label was found. The source distinguishes a door from a chamber; exact licensed MX wording remains unverified.
+
+## Stage 50 terminology review — 2026-10-04
+
+**Super Robot Coalition** is a provisional source-literal compound that
+parallels the existing **Gundam Coalition** glossary entry. Contextual super
+robot usage is corroborated by [SRWwiki](https://srw.wiki.cre.jp/wiki/αシリーズ).
+No exact Akurasu compound was found; no permanent organization is invented.
+
+**living core** is provisional source-literal wording for the biological core
+in the [SRWwiki Devil Gundam table](https://srw.wiki.cre.jp/wiki/デビルガンダム).
+No exact Akurasu G-Gundam label was found. Akurasu’s unrelated System XN
+living-core description is not label evidence. Exact licensed MX wording
+for both new compounds remains unverified.
+
+**knockoff** preserves Urube’s copied-imitation insult. [Shogakukan
+Daijisen](https://kotobank.jp/word/でつどこぴー-3214650) and
+[Imidas](https://imidas.jp/genre/detail/A-130-0020.html) support imitation,
+without asserting inferior technical quality or a biological dead/live contrast.
+No exact Akurasu entry was found.
+
+**Horo bug** uses the source name plus an insect descriptor.
+[SRWwiki’s Domon profile](https://srw.wiki.cre.jp/wiki/ドモン・カッシュ)
+corroborates the fictional anecdote, whose details are not added to the insult.
+**Wind of the King** is a source-literal maxim, corroborated by the Japanese
+school recitation in [Master Asia’s profile](https://srw.wiki.cre.jp/wiki/マスター・アジア).
+No exact Akurasu entries were found; licensed MX wording for these choices
+remains unverified.
