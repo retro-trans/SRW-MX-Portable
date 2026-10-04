@@ -16,7 +16,7 @@ You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.9.xdelta` 
 
 ### Apply
 
-**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic** after refreshing its catalog: select the source ISO, wait for analysis, then click **Patch**. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
+**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. v0.4.9 is registered in its verified catalog. Download the app from its Releases page and use **Automatic** after refreshing its catalog: select the source ISO, wait for analysis, then click **Patch**. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) accepts the same `.xdelta` file. Select your Japanese ISO as the original file and the patch as the delta.
 

@@ -5,7 +5,7 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
-**Latest local build: 0.4.9.** Incremental update of 0.4.8 translating the native
+**Latest public release: 0.4.9.** Incremental update of 0.4.8 translating the native
 intermission bitmap header in WND.BIN texture #0 to INTERMISSION. All other 31
 ISO files are unchanged, preserving the intervening 0.4.4–0.4.8 story/UI fixes
 listed in CHANGELOG.md. Verified on the actual intermission screen in isolated
@@ -16,8 +16,15 @@ report: `work/output/wnd_headers_0.4.9_verification.json`. Reproduce with
 The normal `redraw_wnd.patch_wnd` build path produces the identical WND asset.
 The separate sortie-preparation bitmap header (#39) still awaits translation.
 The project lead explicitly requested a GitHub release for 0.4.9 on 2026-10-04.
-Release preparation includes full final-ISO readback, source commit, standard
-Retro Trans patch round trip, asset upload checks and catalog registration.
+Published at https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.9
+from commit `ce426bd4676df5c7ad24ea8d93605368dfed48af`. Full final-ISO readback and
+Retro Trans round-trip validation passed. All eight uploaded assets were
+downloaded and verified; the 2,391,967-byte patch has SHA-256
+`117ffed761b914d675ccd86d27aaa3ef463fd2df3311e80e10f6e4b607079161`.
+Local assets: `work/output/release-v0.4.9/`; publication evidence:
+`work/output/release-v0.4.9-publication.json`. Scoped catalog workflow
+37213984223 passed; the live catalog contains the exact release manifest.
+Full-playthrough and physical PSP testing remain pending.
 Any future build still requires its own explicit release instruction.
 Earlier build evidence follows.
 

@@ -6,6 +6,10 @@
   lead's explicit release request. Includes all stages and route branches,
   ending, hidden/unused scenes and closing messages, all 67 chapter titles,
   and every cumulative fix through 0.4.8.
+- Published as GitHub v0.4.9 from source commit `ce426bd4676df5c7ad24ea8d93605368dfed48af`.
+  The 2,391,967-byte patch passed the complete Retro Trans round trip; all eight
+  uploaded assets were downloaded and verified before publication. Scoped catalog
+  refresh passed and the live catalog contains the exact released manifest.
 - Final release readback verifies 51,366 original readable script uses,
   98,686 unchanged commands, 205 chapter-card atlases and the native 4x font.
   Battle captions: 51,892 entries, no mismatches; BOOT references: 1,761
