@@ -6296,12 +6296,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, how is the force attacking the enemy satellite doing?",
+   "en": "Harry, how is the force attacking the enemy satellite doing?",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 218
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -6910,12 +6910,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Understood. Hari, please calculate our breakthrough route.",
+   "en": "Understood. Harry, please calculate our breakthrough route.",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 256
    },
-   "notes": "Ruri asks Hari to calculate route; not an interrupted report.",
+   "notes": "Ruri asks Hari to calculate route; not an interrupted report. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -6942,12 +6942,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミナト",
    "speaker_en": "Minato",
-   "en": "Hehe... Nice work, Hari!",
+   "en": "Hehe... Nice work, Harry!",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 258
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -8235,12 +8235,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Omoikane, predict the enemy's actions. Hari, help out too.",
+   "en": "Omoikane, predict the enemy's actions. Harry, help out too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 332
    },
-   "notes": "Ruri orders the AI to predict Zero and asks Hari to assist.",
+   "notes": "Ruri orders the AI to predict Zero and asks Hari to assist. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -8621,12 +8621,12 @@
    "kind": "dialogue",
    "speaker_jp": "エリス",
    "speaker_en": "Eris",
-   "en": "Hari, have Omoikane verify this data!",
+   "en": "Harry, have Omoikane verify this data!",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 355
    },
-   "notes": "Eris orders Hari to have Omoikane check supplied data; original next response Hari accepts.",
+   "notes": "Eris orders Hari to have Omoikane check supplied data; original next response Hari accepts. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -9242,7 +9242,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 51,
-  "fingerprint": "acfcb454ce0d9043ca71778e5461effdc4c33189badf3bced03b82792f2209be",
+  "fingerprint": "405d943b45495e807c579217857a9dd80886a2232c3a56ed3ee8ab0b3d85cbb0",
   "reviewed_reused_ids": [
    5,
    12,
@@ -9414,7 +9414,7 @@
   "reviewed_reused_rows": 166,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed every fresh source/final pair, all 71 fresh uncertainty rows and every occurrence of 23 non-template reused rows (31 uses), plus 143 generic defeat rows across 205 registrations with no ordinary uses. Retained flashback reveal order, uncertain project and medication claims, family relations, atonement contrast, both-ship escort, eight-turn conditions versus eight-minute dialogue, conditional encounter/arrival/countdown branches, unresolved legacy referents and Zero backup/funds wordplay. Independent actual translators restore the technical question, reconcile Middi honorific, preserve ambiguous Ryoko conditional with both readings flagged and correct the shared inside joke. Only fixed defeat condition217 required measured compression; every final row fits and immutable full drafts remain unchanged."
+  "note": "Reviewed every fresh source/final pair, all 71 fresh uncertainty rows and every occurrence of 23 non-template reused rows (31 uses), plus 143 generic defeat rows across 205 registrations with no ordinary uses. Retained flashback reveal order, uncertain project and medication claims, family relations, atonement contrast, both-ship escort, eight-turn conditions versus eight-minute dialogue, conditional encounter/arrival/countdown branches, unresolved legacy referents and Zero backup/funds wordplay. Independent actual translators restore the technical question, reconcile Middi honorific, preserve ambiguous Ryoko conditional with both readings flagged and correct the shared inside joke. Only fixed defeat condition217 required measured compression; every final row fits and immutable full drafts remain unchanged. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 556,

@@ -5468,6 +5468,140 @@
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Complete_Chart"
    ],
    "notes": "Main Akurasu renders the same source stem in scenario3 title The Deity Awakens. Here Lemuria uses poetic vocative for Raideen. Lowercase ordinary noun within address; no new divine entity, human ancestry or RahXephon-specific category invented."
+  },
+  {
+   "jp": "疑似チャレンコフ反応",
+   "en": "pseudo-Cherenkov reaction",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:40",
+    "https://home.cern/how-detector-works/"
+   ],
+   "notes": "Provisional fictional telemetry translation. No entry in refreshed Akurasu table/main glossary. Original game kana differs from standard Cherenkov kana; English stem inferred from context and corroborated only by primary CERN spelling, not by a licensed MX term. Preserve pseudo and reaction; do not convert the report into real-world radiation or add its physical mechanism. Keep uncertainty in translation report."
+  },
+  {
+   "jp": "次元間界面",
+   "en": "interdimensional interface",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:52",
+    "work/translation/en/script/stage55_campaign.json:342"
+   ],
+   "notes": "Source-literal fictional spatial boundary label, explicitly explained in52 as the boundary of an interdimensional discontinuity surface. No exact Akurasu/main entry or licensed English found. Distinct from the surface and dimensional intersection line; do not supply a mechanism or a coordinate system."
+  },
+  {
+   "jp": "ＡＩ１計画",
+   "aliases_jp": [
+    "AI1計画"
+   ],
+   "en": "AI1 Project",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:60",
+    "work/translation/en/script/stage55_campaign.json:65",
+    "work/translation/en/script/stage55_campaign.json:79"
+   ],
+   "notes": "Source project label, literal AI1 stem follows main Akurasu name. No exact main project title or licensed MX English found. Source65 distinguishes the public Tsentr Project facade,79 the multiverse project process/backup; do not conflate them or import later purposes into unrevealed lines."
+  },
+  {
+   "jp": "コードＭＸ",
+   "en": "code MX",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:70",
+    "work/glossary/campaign_terms.json:MODEL-X"
+   ],
+   "notes": "Source code-label form, alternative to existing MODEL-X in70. No exact Akurasu/main code-label entry or licensed English found. Preserve MX and MODEL-X as the two source forms; do not alter case of MODEL-X or assert that current Medius is MODEL-X when75 explicitly denies it."
+  },
+  {
+   "jp": "黒衣の王子",
+   "en": "Prince in Black",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:322"
+   ],
+   "notes": "Provisional source-literal Akito epithet in Eldy's battle address. No exact refreshed Akurasu/main term found. Preserve black clothing and prince; do not substitute the Nadesico movie subtitle Prince of Darkness or add a different title/identity. Exact licensed MX English unverified; keep term flag."
+  },
+  {
+   "jp": "時の観測者",
+   "en": "Observer of Time",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:542",
+    "https://akurasu.net/wiki/Master_Characters_List"
+   ],
+   "notes": "Akurasu RahXephon master character list corroborates the English term stem, listed for SC2 rather than MX. In MX this is Ayato's own future role claim, living between times. Do not import SC2 identity, omniscience or other lore. Lowercase observer of time is acceptable as a generic role in spoken dialogue; exact licensed MX wording unverified."
+  },
+  {
+   "jp": "ＤＵＭＡ",
+   "en": "DUMA",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:715"
+   ],
+   "notes": "Retain the exact source acronym, without expansion or speculative organization identity. No exact refreshed MX Akurasu or searched entry found; source-bound label."
+  },
+  {
+   "jp": "汎用人型決戦兵器",
+   "en": "multipurpose humanoid decisive-battle weapons",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:719"
+   ],
+   "notes": "Provisional literal full Evangelion weapon description. No exact refreshed MX Akurasu entry found. Preserve all attributes and 719-to-720 negation/contrast boundary; exact licensed MX English unverified."
+  },
+  {
+   "jp": "八雲大佐",
+   "en": "Colonel Yakumo",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:708",
+    "work/glossary/glossary.json:characters.Soichi Yakumo"
+   ],
+   "notes": "Current source explicitly gives Yakumo's commander post and colonel rank after the war. Keep existing main Yakumo surname. Do not carry over the earlier Major profile or invent a naval Captain mapping; exact licensed MX rank wording unverified."
+  },
+  {
+   "jp": "タイタンズ",
+   "en": "Titans",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:723",
+    "work/glossary/campaign_terms.json:Osaka Titans"
+   ],
+   "notes": "Short form of the established source-literal fictional Osaka Titans baseball club, distinct from Gundam military Titans. Preserve a baseball-club referent; do not substitute real Hanshin Tigers."
+  },
+  {
+   "jp": "ガイアンツ",
+   "en": "Gaiants",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:723"
+   ],
+   "notes": "Provisional romanization preserves the fictional source baseball label and its spelling difference from real Giants. No exact refreshed MX Akurasu or independent licensed English entry found. Do not replace with a real club; keep provenance flag."
+  },
+  {
+   "jp": "ムートロン遺跡",
+   "en": "Mutron ruins",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:757",
+    "work/glossary/glossary.json:Mutron"
+   ],
+   "notes": "Source-literal compound using the established Mutron stem. No exact refreshed MX Akurasu entry found; exact licensed English unverified. Do not add archaeological location or mechanism."
+  },
+  {
+   "jp": "キャスバル・レム・ダイクン",
+   "en": "Casval Rem Deikun",
+   "sources": [
+    "https://akurasu.net/wiki/Char_Aznable",
+    "work/translation/en/script/stage55_campaign.json:889"
+   ],
+   "notes": "Akurasu explicitly lists Casval Rem Deikun as another name of Char/Quattro. Preserve the full name where source uses it and source-short Casval at911; do not substitute Quattro or import other-series politics."
+  },
+  {
+   "jp": "キャスバル・レム・ダイクン連邦議員",
+   "en": "Federation legislator Casval Rem Deikun",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:889",
+    "https://akurasu.net/wiki/Char_Aznable"
+   ],
+   "notes": "Source explicitly assigns Federation legislator in this ending. Name stem corroborated by Akurasu; legislator is literal provisional office wording. Do not assume senator, congressman, chamber or contemporary real-world office."
+  },
+  {
+   "jp": "第３次火星開拓計画",
+   "en": "Third Mars Colonization Plan",
+   "sources": [
+    "work/translation/en/script/stage55_campaign.json:919"
+   ],
+   "notes": "Source-bound provisional proper-plan rendering preserves third phase and Mars colonization/development. No exact refreshed MX Akurasu entry found, licensed English unverified. Do not invent chronology, authorities or real-world program identity."
   }
  ],
  "characters": [

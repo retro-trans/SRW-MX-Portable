@@ -8085,12 +8085,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "See us off...? Reideen has?",
+   "en": "See us off...? Raideen has?",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 325
    },
-   "notes": "Echoed question is a deliberate fragment.",
+   "notes": "Echoed question is a deliberate fragment. Coordinator script enforces Akurasu/main Raideen spelling; no meaning or compression change, initial draft retained.",
    "uncertain": []
   },
   {
@@ -8101,12 +8101,12 @@
    "kind": "thought",
    "speaker_jp": "洸",
    "speaker_en": "Akira",
-   "en": "...Reideen isn't reacting... Does it somehow know what RahXephon is planning to do...?",
+   "en": "...Raideen isn't reacting... Does it somehow know what RahXephon is planning to do...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 326
    },
-   "notes": "",
+   "notes": " Coordinator script enforces Akurasu/main Raideen spelling; no meaning or compression change, initial draft retained.",
    "uncertain": []
   },
   {
@@ -13118,7 +13118,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 35,
-  "fingerprint": "cd858f826660230cfa5dcd91b1dabcfc92fed7e807f6723ee1fd797122031cb1",
+  "fingerprint": "05255e98114ac2354a1c9017aae6d8349fb125a42c4a106a2a9a45a2944bdb55",
   "reviewed_reused_ids": [
    2,
    8,
@@ -13303,7 +13303,7 @@
   "reviewed_reused_rows": 179,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable."
+  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change."
  },
  "full_checks": {
   "rows": 801,

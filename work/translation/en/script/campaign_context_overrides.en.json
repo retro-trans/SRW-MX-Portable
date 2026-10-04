@@ -47,6 +47,18 @@
    "expected_en": "We are.",
    "en": "That's right.",
    "reason": "Stage54-only contextual agreement independently checked by actual Sol Medium worker2 and root against both original uses:787 affirms that Albero taught the lead to survive,807 affirms defeating the present enemies to achieve that purpose. That's right. covers both; inherited We are. invents a plural copula. Earlier stage18 owner is unchanged."
+  },
+  {
+   "stage": 55,
+   "full_id": 755,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage29_campaign_full_merged.json",
+    "id": 375
+   },
+   "expected_jp": "[jp]",
+   "expected_en": "What are they?",
+   "en": "What is it?",
+   "reason": "Stage55-only number correction independently checked by actual Sol Medium worker1 and root against original s1060 commands1465-1470: one approaching object is identified as Nadesico B. Inherited plural they mismatches current singular object. Earlier stage29 owner unchanged."
   }
  ]
 }

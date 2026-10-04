@@ -654,12 +654,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "Hari, quit counting every person who turns us down.",
+   "en": "Harry, quit counting every person who turns us down.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 36
    },
-   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical.",
+   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -810,12 +810,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "Hari, that's enough.",
+   "en": "Harry, that's enough.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 44
    },
-   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical.",
+   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -922,12 +922,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "Hey, Hari! Pay the bill! Hari!!",
+   "en": "Hey, Harry! Pay the bill! Harry!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 51
    },
-   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical.",
+   "notes": "Context: Saburota addresses the person replying in the surrounding event; source subject and direction restored where grammatical. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -1312,12 +1312,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミナト",
    "speaker_en": "Minato",
-   "en": "...Are you Hari?",
+   "en": "...Are you Harry?",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 74
    },
-   "notes": "Context: Minato addresses the person replying in the surrounding event; source subject and direction restored where grammatical.",
+   "notes": "Context: Minato addresses the person replying in the surrounding event; source subject and direction restored where grammatical. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -1476,12 +1476,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...Hari, let's go home.",
+   "en": "...Harry, let's go home.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 84
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -2937,12 +2937,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari should have jumped to the Moon by now.",
+   "en": "Harry should have jumped to the Moon by now.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 167
    },
-   "notes": "Context: Minato presses Ruri about seeing Harry off; Ruri fears another loss and admits a superstition. ",
+   "notes": "Context: Minato presses Ruri about seeing Harry off; Ruri fears another loss and admits a superstition.  Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -11773,12 +11773,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari...!",
+   "en": "Harry...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 538
    },
-   "notes": "Context: immediate rescue/broadcast/arrival reply checked; English restores source subject and direction.",
+   "notes": "Context: immediate rescue/broadcast/arrival reply checked; English restores source subject and direction. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -12111,12 +12111,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...I don't really care, but... Seiya, Hari...",
+   "en": "...I don't really care, but... Seiya, Harry...",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 558
    },
-   "notes": "Retained lead-in fragment; following row560 asks how they Boson Jumped.",
+   "notes": "Retained lead-in fragment; following row560 asks how they Boson Jumped. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": [
     "Retained source fragment/interruption; not grammatical pro-drop."
    ]
@@ -16750,7 +16750,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 45,
-  "fingerprint": "26e8b21007de48c055dbbd5f7e9d45fc0581431c0dc812115e110331b74d123b",
+  "fingerprint": "0fb81712779ca3981bc94356d27104b3ffc39215de4f53e8822089bb66ed8e3e",
   "reviewed_reused_ids": [
    1,
    25,
@@ -16941,7 +16941,7 @@
   "reviewed_reused_rows": 185,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all834 fresh source/final rows, all retained fragments and provenance flags, whole before/map/after chronology and all42 non-template reused rows at every occurrence. Original143 generic defeat templates have205 registrations and0 ordinary uses. Preserve hidden Aoi identity until named, false Inez death belief and second-anniversary memorial numbering, Akito sensory injury, Subaru indoctrination distinct from Altair mind control, source-ranked naval titles and concert deception. Names reconciled after agent meaning edits; canonical Ululun/Nadesico Q&A sourced from Akurasu. Three measured initial overflows136/440/642 preserve full drafts and before/after; actual worker5 restores explicit enemy scope440 at347px with both exclusions. All final rows fit; licensed gaps and literary allusions remain bounded flags. No build or release."
+  "note": "Coordinator reviewed all834 fresh source/final rows, all retained fragments and provenance flags, whole before/map/after chronology and all42 non-template reused rows at every occurrence. Original143 generic defeat templates have205 registrations and0 ordinary uses. Preserve hidden Aoi identity until named, false Inez death belief and second-anniversary memorial numbering, Akito sensory injury, Subaru indoctrination distinct from Altair mind control, source-ranked naval titles and concert deception. Names reconciled after agent meaning edits; canonical Ululun/Nadesico Q&A sourced from Akurasu. Three measured initial overflows136/440/642 preserve full drafts and before/after; actual worker5 restores explicit enemy scope440 at347px with both exclusions. All final rows fit; licensed gaps and literary allusions remain bounded flags. No build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 1019,

@@ -4,13 +4,13 @@
 
 - Prepared all remaining routes, final/ending, hidden stage, unused scenes and
   save messages: 16,661 fresh rows across 235 packets using Sol 6.1 Medium.
-- Completed and reviewed stages 31–54: 14,007 fresh rows and 18,200 full rows.
+- Completed and reviewed stages 31–55: 15,007 fresh rows and 19,410 full rows.
   All final lines fit; measured overflows in stages 33, 34, 36, 38, 39 and 40 required shortening.
   Full initial drafts, decisions and measured widths remain.
 - Corrected one demonstrated stage 33 source address typo in English only;
   retained uncertain wordplay, cultural references and incomplete source clauses.
 - Extended campaign validation and context-review tools to separate manifests;
-  stages 1–30 remain reviewed. Stage 55 is next.
+  earlier stage review records retained. Stage 56 (hidden stage) is underway.
 - Reconciled source-ranked Chief Zuril addresses in stages 30, 33 and 38;
   restored missing titles, preserved initial drafts and rechecked actual font fit.
 - Added reusable original-command defeat-template audit; it records ordinary
@@ -103,6 +103,17 @@
   lines fit. Preserved conditional scenes, reveal order, wordplay, qualified
   claims and unfinished replies. Corrected one reused agreement in this stage
   without changing its earlier owner. No build or release.
+- Completed the final stage and ending with six actual Sol 6.1 Medium
+  workers: all 1,000 fresh rows, 396 fresh flags and 80 non-template reused
+  uses reviewed against original context. All 1,210 final rows fit; two initial
+  overflows required shortening. Preserved drafts and source uncertainties.
+- Corrected the final-stage singular-object identification only in its current
+  context; enforced Harry and source-specific naval ranks with measured fits,
+  and refreshed exact earlier-stage review fingerprints after proven name-only
+  deltas. Added source-bound ending terminology. No build or release.
+- Enforced main Akurasu Raideen spelling in five owned lines across stages
+  2, 35, 54 and 55 after a full final-corpus scan. Preserved drafts, remeasured
+  fit and refreshed completed-stage review records. No build or release.
 - Recorded source-backed speaker aliases and supplemental terminology. Further
   GitHub releases require the user's explicit instruction for that build.
 

@@ -20047,12 +20047,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, what's our status?",
+   "en": "Harry, what's our status?",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 1030
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -20750,7 +20750,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 33,
-  "fingerprint": "3d680ebedf91874372d6e4cc5723b95d5b51170ebd38246b85e0b71d426f0a98",
+  "fingerprint": "1c85a7f7bc81c8ffb998ae04c721053111162e15d420d3ef2f67d1d9c5f64f86",
   "reviewed_reused_ids": [
    16,
    17,
@@ -20950,7 +20950,7 @@
   "reviewed_reused_rows": 194,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified. 2026-10-04 ranked-address delta: root scanned original Zuril title uses and reviewed full328/334 with original neighboring dialogue. Final fresh179/185 now Chief Zuril per main science-chief profile and clipped source-rank alias; actual final widths349/290/91 and267 pixels FITS. Immutable drafts and original sources unchanged; this supersedes Minister wording only, prior whole-stage review preserved."
+  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified. 2026-10-04 ranked-address delta: root scanned original Zuril title uses and reviewed full328/334 with original neighboring dialogue. Final fresh179/185 now Chief Zuril per main science-chief profile and clipped source-rank alias; actual final widths349/290/91 and267 pixels FITS. Immutable drafts and original sources unchanged; this supersedes Minister wording only, prior whole-stage review preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 1264,

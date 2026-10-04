@@ -4476,12 +4476,12 @@
    "kind": "dialogue",
    "speaker_jp": "エリス",
    "speaker_en": "Eris",
-   "en": "Hari, have Omoikane verify this data!",
+   "en": "Harry, have Omoikane verify this data!",
    "translation_owner": {
     "source": "work/translation/en/script/stage51_campaign.json",
     "id": 355
    },
-   "notes": "Eris orders Hari to have Omoikane check supplied data; original next response Hari accepts.",
+   "notes": "Eris orders Hari to have Omoikane check supplied data; original next response Hari accepts. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -9702,7 +9702,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 52,
-  "fingerprint": "a95fb9e91918bedf60a99fa405c9c86712bc8ca97562bc5b959b9a6fd6f99d0b",
+  "fingerprint": "e0a4bda020a1ac872e426df109a4f1a3f60ec824ef3ab3bb8a8d5f051ebfef01",
   "reviewed_reused_ids": [
    0,
    1,
@@ -9896,7 +9896,7 @@
   "reviewed_reused_rows": 188,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 392 fresh source/final pairs, all 107 fresh uncertainty flags and every occurrence of 45 non-template reused rows (49 uses), plus 143 generic defeat templates across 205 registrations. Six actual Sol 6.1 Medium translators verified original uses and conditional handlers. Only measured fixed UI overflows 264/349/350 were shortened; every final fits and immutable full drafts remain. Independent review corrected negation scope, quoted legend pronouns, seal-chamber copula and guardian identity. Existing main Hyribead spelling is enforced; Alktos follows main glossary. Spirit-vessel identity and strike-object remain unresolved. Phoenix reveal event13, failure event36 and success event38 remain separate; no source storage chronology is imposed."
+  "note": "Coordinator reviewed all 392 fresh source/final pairs, all 107 fresh uncertainty flags and every occurrence of 45 non-template reused rows (49 uses), plus 143 generic defeat templates across 205 registrations. Six actual Sol 6.1 Medium translators verified original uses and conditional handlers. Only measured fixed UI overflows 264/349/350 were shortened; every final fits and immutable full drafts remain. Independent review corrected negation scope, quoted legend pronouns, seal-chamber copula and guardian identity. Existing main Hyribead spelling is enforced; Alktos follows main glossary. Spirit-vessel identity and strike-object remain unresolved. Phoenix reveal event13, failure event36 and success event38 remain separate; no source storage chronology is imposed. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 580,

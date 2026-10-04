@@ -3388,12 +3388,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, I'm putting all of Nadesico C's systems... in your hands.",
+   "en": "Harry, I'm putting all of Nadesico C's systems... in your hands.",
    "translation_owner": {
     "source": "work/translation/en/script/stage47_campaign.json",
     "id": 54
    },
-   "notes": "Ruri entrusts all ship systems to Hari; request/responsibility direction preserved, Hari spelling.",
+   "notes": "Ruri entrusts all ship systems to Hari; request/responsibility direction preserved, Hari spelling. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -3502,12 +3502,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミナト",
    "speaker_en": "Minato",
-   "en": "Hari, do your best.",
+   "en": "Harry, do your best.",
    "translation_owner": {
     "source": "work/translation/en/script/stage47_campaign.json",
     "id": 61
    },
-   "notes": "Minato encourages Hari; honorific dropped.",
+   "notes": "Minato encourages Hari; honorific dropped. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -6058,7 +6058,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 47,
-  "fingerprint": "4054383d9d8f23a7c2de4cba6c983d01986912ed324a93d012cbe2fb7a6cfadd",
+  "fingerprint": "a02a9f494ea9fc8977650e8284ffad567d49611f6204109c17fffd4b4def7f12",
   "reviewed_reused_ids": [
    5,
    35,
@@ -6217,7 +6217,7 @@
   "reviewed_reused_rows": 153,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 210 fresh source/final pairs, all 22 fresh flags including four explicitly reported interruption metadata flags, and all ten non-template reused rows at every original use. Whole BEFORE and MAP event context, reuse gaps, both surrender branches, and conditional encounters separate from ending storage were reviewed. Preserve Ruri plus Omoikane system union; Earth coup and projected-victory metaphor; false impossibility claim; full Nadesico C entrustment to Hari; former Lieutenant General Kusakabe and Lieutenant Commander Hoshino source ranks; anonymous row84; all four Lapis body relations plus two trailing possessives; linked cavalry/horse/riding/butt/lap gag with independent worker5 root corrections105/108; Erika rescuing Yurika for Akito; Borne four-part metaphor and wind/sea follow-up; literal geta/zori/sandals pun; unfinished convictions; Yurika safe return and ditzy-self relief; Akito departure without invented mutual romance. Ruri204/206 I-versus-we scope remains explicitly flagged. Quick-draw shot209 remains conditional battle dialogue. All immutable drafts and all final rows fit actual font with no compression; source omissions flagged at matching boundaries. 143 generic defeat rows have205 registrations and no ordinary uses. Akurasu Sanzu River and Battle Turn stems, primary Borne attribution and provisional Sabu are recorded. No ISO or release."
+  "note": "Coordinator reviewed all 210 fresh source/final pairs, all 22 fresh flags including four explicitly reported interruption metadata flags, and all ten non-template reused rows at every original use. Whole BEFORE and MAP event context, reuse gaps, both surrender branches, and conditional encounters separate from ending storage were reviewed. Preserve Ruri plus Omoikane system union; Earth coup and projected-victory metaphor; false impossibility claim; full Nadesico C entrustment to Hari; former Lieutenant General Kusakabe and Lieutenant Commander Hoshino source ranks; anonymous row84; all four Lapis body relations plus two trailing possessives; linked cavalry/horse/riding/butt/lap gag with independent worker5 root corrections105/108; Erika rescuing Yurika for Akito; Borne four-part metaphor and wind/sea follow-up; literal geta/zori/sandals pun; unfinished convictions; Yurika safe return and ditzy-self relief; Akito departure without invented mutual romance. Ruri204/206 I-versus-we scope remains explicitly flagged. Quick-draw shot209 remains conditional battle dialogue. All immutable drafts and all final rows fit actual font with no compression; source omissions flagged at matching boundaries. 143 generic defeat rows have205 registrations and no ordinary uses. Akurasu Sanzu River and Battle Turn stems, primary Borne attribution and provisional Sabu are recorded. No ISO or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 363,

@@ -181,6 +181,7 @@
   "Power Raiser (Leina)",
   "Predict",
   "Psycho Frame",
+  "Raideen",
   "Reb Gelf MAFFU",
   "Refueler",
   "Resolve",
@@ -235,7 +236,8 @@
   "Yell",
   "Zuisen",
   "Zuril",
-  "deity"
+  "deity",
+  "Hari Makibi"
  ],
  "source_scoped_notes": {
   "Ryo": "Use for リョウ nickname only per campaign_terms.json; 竜馬 remains Ryoma. Never globally replace Ryoma."

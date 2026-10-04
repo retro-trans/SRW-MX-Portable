@@ -4057,12 +4057,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Reideen, EVA-01, protagonist's unit, Daimos,@or Zeorymer is shot down@2. An allied mothership is shot down",
+   "en": "1. Raideen, EVA-01, protagonist's unit, Daimos,@or Zeorymer is shot down@2. An allied mothership is shot down",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 88
    },
-   "notes": "Defeat condition, exact three source segments; Reideen/EVA-01/protagonist unit/Daimos/Zeorymer ANY one down plus allied mothership down. No protagonist placeholder added.",
+   "notes": "Defeat condition, exact three source segments; Reideen/EVA-01/protagonist unit/Daimos/Zeorymer ANY one down plus allied mothership down. No protagonist placeholder added. Coordinator script enforces Akurasu/main Raideen spelling; no meaning or compression change, initial draft retained.",
    "uncertain": [
     "Defeat condition, exact three source segments; Reideen/EVA-01/protagonist unit/Daimos/Zeorymer ANY one down plus allied mothership down. No protagonist placeholder added."
    ]
@@ -18945,7 +18945,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 54,
-  "fingerprint": "64ab333f3894b5a885d818d104f9eeacbc489bb08ab6111362834a49dca97ba2",
+  "fingerprint": "2b54dd70a0030b812cc3d8589041a9548ec3ffa1fc14e4ebc8fcc9661e62dfed",
   "reviewed_reused_ids": [
    2,
    15,
@@ -19158,7 +19158,7 @@
   "reviewed_reused_rows": 207,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 919 fresh source/final pairs and their flags, all 64 non-template reused rows in 109 final scene uses, and 143 defeat templates in 205 registrations with no ordinary uses. Six actual Sol 6.1 Medium workers verified 1,246 original uses and 1,041 display entries in twelve packets. Immutable full drafts remain; only plain 87 reflow and measured dialogue overflows 305, 313 and 616 required tightening. All final lines fit. Review preserves conditional handlers, divine counts, qualified cosmology and theater claims, D wordplay, source dates, family and bodily identity reveals, interrupted clauses and unresolved audience or encounter objects. Agent meaning repairs and canonical spelling scripts are measured separately. Stage-specific FULL 797 agreement override was independently checked at both original uses; the earlier owner remains unchanged. Akurasu governs names; unverified licensed compounds stay flagged. Dialogue insertion and playtesting remain pending. No release authorized."
+  "note": "Coordinator reviewed all 919 fresh source/final pairs and their flags, all 64 non-template reused rows in 109 final scene uses, and 143 defeat templates in 205 registrations with no ordinary uses. Six actual Sol 6.1 Medium workers verified 1,246 original uses and 1,041 display entries in twelve packets. Immutable full drafts remain; only plain 87 reflow and measured dialogue overflows 305, 313 and 616 required tightening. All final lines fit. Review preserves conditional handlers, divine counts, qualified cosmology and theater claims, D wordplay, source dates, family and bodily identity reveals, interrupted clauses and unresolved audience or encounter objects. Agent meaning repairs and canonical spelling scripts are measured separately. Stage-specific FULL 797 agreement override was independently checked at both original uses; the earlier owner remains unchanged. Akurasu governs names; unverified licensed compounds stay flagged. Dialogue insertion and playtesting remain pending. No release authorized. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change."
  },
  "full_checks": {
   "rows": 1126,

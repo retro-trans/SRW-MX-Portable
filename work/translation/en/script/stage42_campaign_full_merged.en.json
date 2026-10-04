@@ -6527,12 +6527,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...Hari, please scan the inside of Fortress Island.",
+   "en": "...Harry, please scan the inside of Fortress Island.",
    "translation_owner": {
     "source": "work/translation/en/script/stage42_campaign.json",
     "id": 241
    },
-   "notes": "Ruri asks Hari to scan Fortress Island interior; direction is request to operator.",
+   "notes": "Ruri asks Hari to scan Fortress Island interior; direction is request to operator. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": [
     "Fortress Island exact shortened licensed English wording remains unverified; source-literal established central term."
    ]
@@ -8761,7 +8761,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 42,
-  "fingerprint": "5888c4753f42679c66fbc744a16f58651c364b2dc2f0c1a2c88011e7f8706535",
+  "fingerprint": "7058ea9c465c0dbfb1f774f90b984622e857aa0dc8bf333b3289dd915c4c4143",
   "reviewed_reused_ids": [
    9,
    36,
@@ -8925,7 +8925,7 @@
   "reviewed_reused_rows": 158,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 373 final fresh translations, all 33 fresh uncertainty rows with original neighbors, and every actual use of all 15 non-template reused rows (FULL IDs 9,36,238,239,257,323,366,375,378,394,412,457,490,509,515). Original command audit proves the remaining 143 reused defeat-template rows have 205 registrations and no ordinary uses. All six actual translators preserved full immutable initial drafts; every initial and final row fits the current font without compression. Reviewed all before/map/after scenes and event order, including conditional Burai-defeat storage and later unnamed escort. Final-only clone/groan wordplay, unfinished Fortress Island accusation, Dr. Gura normalization and situational now-of-all-times correction retain source meaning; no future identity, gender or completed omitted predicate added. Fortress Island, gravity control device, Ogre Island and Red Arrow Squadron retain bounded licensed-provenance flags; short Pikadron follows exact Akurasu evidence. Source omissions, proverb, calls and inherited uncertainties remain recorded."
+  "note": "Coordinator read all 373 final fresh translations, all 33 fresh uncertainty rows with original neighbors, and every actual use of all 15 non-template reused rows (FULL IDs 9,36,238,239,257,323,366,375,378,394,412,457,490,509,515). Original command audit proves the remaining 143 reused defeat-template rows have 205 registrations and no ordinary uses. All six actual translators preserved full immutable initial drafts; every initial and final row fits the current font without compression. Reviewed all before/map/after scenes and event order, including conditional Burai-defeat storage and later unnamed escort. Final-only clone/groan wordplay, unfinished Fortress Island accusation, Dr. Gura normalization and situational now-of-all-times correction retain source meaning; no future identity, gender or completed omitted predicate added. Fortress Island, gravity control device, Ogre Island and Red Arrow Squadron retain bounded licensed-provenance flags; short Pikadron follows exact Akurasu evidence. Source omissions, proverb, calls and inherited uncertainties remain recorded. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 531,

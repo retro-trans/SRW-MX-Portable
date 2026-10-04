@@ -8902,12 +8902,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "All right, Hari... Get the trap ready.",
+   "en": "All right, Harry... Get the trap ready.",
    "translation_owner": {
     "source": "work/translation/en/script/stage31_campaign.json",
     "id": 374
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -14942,7 +14942,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 31,
-  "fingerprint": "a18375284394721c0556e44bf2b936e0beffb477c6738fdd336c35a69fe44e8a",
+  "fingerprint": "a0db5292defccffd883cc8d1448647947b68a20b5018c5ee0b9741b40c08a1c7",
   "reviewed_reused_ids": [
    127,
    139,
@@ -15121,7 +15121,7 @@
   "reviewed_reused_rows": 173,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 173 reused rows: 143 exact-source generic defeat template rows with all 410 uses registered by opcode0x7D, and 30 others against every scene use and original neighbors. Reviewed all 45 fresh flags/uncertainty decisions, technical/name provenance, intentional fragments, combat pro-drop, placeholders, Dragonar food wordplay and the paired operation-title joke. Predict358 reconciled by original translator; original drafts preserved. Hidden voices, rank/first-disciple ambiguity and literal fictional technical labels remain explicit. Packet6 order-ID mismatch corrected by mapping owners to all-source IDs: Earth0/Super83 occurrences. All 726 fresh rows and 899 full rows pass current font and structural checks; six actual translators verified."
+  "note": "Reviewed all 173 reused rows: 143 exact-source generic defeat template rows with all 410 uses registered by opcode0x7D, and 30 others against every scene use and original neighbors. Reviewed all 45 fresh flags/uncertainty decisions, technical/name provenance, intentional fragments, combat pro-drop, placeholders, Dragonar food wordplay and the paired operation-title joke. Predict358 reconciled by original translator; original drafts preserved. Hidden voices, rank/first-disciple ambiguity and literal fictional technical labels remain explicit. Packet6 order-ID mismatch corrected by mapping owners to all-source IDs: Earth0/Super83 occurrences. All 726 fresh rows and 899 full rows pass current font and structural checks; six actual translators verified. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 899,

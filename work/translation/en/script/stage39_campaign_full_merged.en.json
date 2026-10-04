@@ -2677,12 +2677,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, how long until Spiral Castle reaches the interception limit... the Zero Barrier?",
+   "en": "Harry, how long until Spiral Castle reaches the interception limit... the Zero Barrier?",
    "translation_owner": {
     "source": "work/translation/en/script/stage39_campaign.json",
     "id": 8
    },
-   "notes": "Ruri asks Hari for time to the named interception limit. Root confirmed source-backed literal terms; no forcefield, ability or orbital-physics inference.",
+   "notes": "Ruri asks Hari for time to the named interception limit. Root confirmed source-backed literal terms; no forcefield, ability or orbital-physics inference. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": [
     "Zero Barrier and interception limit are source-backed literal terms; exact licensed wording unverified."
    ]
@@ -6005,7 +6005,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 39,
-  "fingerprint": "9e50bd9cdb1c3c02cc1b4db1d373a5777f5de9a7f6eb053b5048f634da08c652",
+  "fingerprint": "919414be784527b79a98d0aaa933fe8eb8460075510b8a8571e4dffd56e45747",
   "reviewed_reused_ids": [
    0,
    1,
@@ -6166,7 +6166,7 @@
   "reviewed_reused_rows": 155,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 204 fresh English rows and all 30 fresh flags against original scene neighbors. All 155 reused rows checked: 143 exact defeat templates across 205 actual registration uses and no ordinary uses; the other 12 reused IDs compared in every original use. Source fragments, Oyakata/kettle and Machine General insult soundplay, heart maxim and provisional Operation Screw Nail, Zero Barrier and interception limit wording retained. Fresh row 3 explicitly resolves allied/enemy actors from the preceding question and following pincer inference in final only, preserving the first draft. Only actual draft overflows at fresh 36 (dialogue) and 188 (fixed condition) shortened; all questions, failure conditions and unit alternatives retained. Countdown 3/2/1 and timeout/victory branches remain separate. Six distinct actual Sol 6.1 Medium translators and original source hashes preserved."
+  "note": "Reviewed all 204 fresh English rows and all 30 fresh flags against original scene neighbors. All 155 reused rows checked: 143 exact defeat templates across 205 actual registration uses and no ordinary uses; the other 12 reused IDs compared in every original use. Source fragments, Oyakata/kettle and Machine General insult soundplay, heart maxim and provisional Operation Screw Nail, Zero Barrier and interception limit wording retained. Fresh row 3 explicitly resolves allied/enemy actors from the preceding question and following pincer inference in final only, preserving the first draft. Only actual draft overflows at fresh 36 (dialogue) and 188 (fixed condition) shortened; all questions, failure conditions and unit alternatives retained. Countdown 3/2/1 and timeout/victory branches remain separate. Six distinct actual Sol 6.1 Medium translators and original source hashes preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 359,

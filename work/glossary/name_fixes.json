@@ -204,7 +204,9 @@
   "Seele": "SEELE",
   "Far East Army": "Far East Command",
   "boson-out": "Boson Out",
-  "Gilgazamne": "Gilgazamune"
+  "Gilgazamne": "Gilgazamune",
+  "Reideen": "Raideen",
+  "Harry Makibi": "Hari Makibi"
  },
  "quoted_system_terms": {
   "Infight Lv": "In-fight Lv",
@@ -293,6 +295,21 @@
     "divine being": "deity"
    },
    "reason": "Main Akurasu deity stem in scenario3; only this source designation. Do not rewrite unrelated divine language."
+  },
+  {
+   "source_contains": "ブライト大佐",
+   "variants": {
+    "Colonel Bright": "Captain Bright",
+    "Colonel Bright Noa": "Captain Bright Noa"
+   },
+   "reason": "Existing Akurasu Bright Captain rank decision; source-scoped, other colonels unchanged."
+  },
+  {
+   "source_contains": "ハーリー",
+   "variants": {
+    "Hari": "Harry"
+   },
+   "reason": "Existing spoken nickname decision; body only, full Hari Makibi and frozen speaker fields unchanged."
   }
  ],
  "context_exceptions": [

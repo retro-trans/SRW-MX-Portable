@@ -7004,12 +7004,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...Hari, how long until we move to Phase 3?",
+   "en": "...Harry, how long until we move to Phase 3?",
    "translation_owner": {
     "source": "work/translation/en/script/stage38_campaign.json",
     "id": 266
    },
-   "notes": "Context: Ruri reacts within the Mors confrontation or conditional battle exchange. Complete spoken sense retained with source tone.",
+   "notes": "Context: Ruri reacts within the Mors confrontation or conditional battle exchange. Complete spoken sense retained with source tone. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -11363,7 +11363,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 38,
-  "fingerprint": "205e098987e2efc3817568e24a8aa96e1c4d90683bb47a62b9c4404aa1c56cb4",
+  "fingerprint": "14179ba9ab943ff94ede9a7934e6cd73efbe145c55e48220042b07dfffd765a6",
   "reviewed_reused_ids": [
    17,
    33,
@@ -11531,7 +11531,7 @@
   "reviewed_reused_rows": 162,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all529 fresh English rows and all45 fresh flags against original source and actual neighbors. Every162 reused row and all774 original uses reviewed:143 generic defeat templates205 registered opcode0x7D uses with no ordinary uses, plus19 individual reused contexts. Seven packets by six distinct actual Sol6.1 Medium workers; only fixed plain211 measured overflow compressed426 to341px retaining all four defeat triggers. Historical Bagration and general name sourced; fictional Zeta4, Veganium ore, Planet Mole, Screw Nail, proverb/haiku wordplay and maxim licensed-provenance limits remain explicit. Source thought11 confirmed, poem bug/Bagration pun preserved, original 80minute/5minute statements unrepaired. Kinship vocative254 localized Daisuke explicitly noted; Chief Zuril original-ranked address reconciled. Successful rescue, alternate deaths and separate time event36 kept distinct; unfinished promises/actions and reveal timing preserved. Every draft/source/hash/use and actual font fit retained. No new build or release."
+  "note": "Coordinator read all529 fresh English rows and all45 fresh flags against original source and actual neighbors. Every162 reused row and all774 original uses reviewed:143 generic defeat templates205 registered opcode0x7D uses with no ordinary uses, plus19 individual reused contexts. Seven packets by six distinct actual Sol6.1 Medium workers; only fixed plain211 measured overflow compressed426 to341px retaining all four defeat triggers. Historical Bagration and general name sourced; fictional Zeta4, Veganium ore, Planet Mole, Screw Nail, proverb/haiku wordplay and maxim licensed-provenance limits remain explicit. Source thought11 confirmed, poem bug/Bagration pun preserved, original 80minute/5minute statements unrepaired. Kinship vocative254 localized Daisuke explicitly noted; Chief Zuril original-ranked address reconciled. Successful rescue, alternate deaths and separate time event36 kept distinct; unfinished promises/actions and reveal timing preserved. Every draft/source/hash/use and actual font fit retained. No new build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 691,

@@ -1038,3 +1038,44 @@ Gilgazamune follows the actual main glossary and
 [Akurasu mech list](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List);
 the single current Gilgazamne form is corrected and guarded. Differences in
 ordinary collective-noun casing (EVA Series / EVA series) remain permissible.
+
+## Stage 55 opening supplement and main unit spelling
+
+Registered provisional source-bound pseudo-Cherenkov reaction, interdimensional
+interface, AI1 Project, code MX and Prince in Black. None overrides an Akurasu
+entry. The [CERN detector explanation](https://home.cern/how-detector-works/)
+corroborates only the English Cherenkov stem; the game kana differs and the
+fictional reaction remains an explicit inference, without a real-world
+mechanism. Interface remains distinct from discontinuity surface; AI1 Project
+remains distinct from its public Tsentr facade and multiverse parent project.
+Prince in Black preserves the clothing epithet without substituting a movie
+subtitle. Source IDs and licensed-wording limits are in campaign_terms.json.
+
+The main [Akurasu MX Mech List](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List)
+uses Raideen. Five final owned instances had instead used the anime-associated
+Reideen spelling; the whole final corpus was scanned and corrected by script
+in stages 2, 35, 54 and 55. Actual widths remain within limits, original drafts
+are unchanged, and Raideen is now protected in name_fixes/do_not_touch. This
+is enforcement of the main entry, not an override.
+
+## Stage 55 ending and source-specific address follow-up
+
+Observer of Time uses the [Akurasu master list](https://akurasu.net/wiki/Master_Characters_List)
+as corroboration of the term stem only; its SC2 entry does not establish an MX
+licensed phrase or import another identity. DUMA retains the source acronym,
+without an expansion. The full multipurpose humanoid decisive-battle weapon
+description, Mutron ruins and Third Mars Colonization Plan are provisional
+source-bound compounds; they preserve every explicit attribute and phase.
+Casval Rem Deikun follows [Akurasu](https://akurasu.net/wiki/Char_Aznable);
+his Federation legislator office is source-bound, without a Senate/Congress
+assumption. Colonel Yakumo reflects his present source rank after the war.
+Baseball Titans remains distinct from military Titans; Gaiants preserves the
+fictional source spelling rather than silently naming a real club. Exact
+source IDs and licensed-wording limits are recorded in campaign_terms.json.
+
+The established Harry source-spoken nickname is enforced in 25 owned lines,
+including three in stage55. Prefilled speakers remain unchanged, and the full
+Hari Makibi name is protected from the short-name rule. Bright's source-ranked
+naval addresses and Yurika's locally identified address use Captain in four
+stage55 lines; unrelated colonels retain their existing ranks. Immutable drafts
+are preserved, all changed lines remeasured, and source-specific guards added.

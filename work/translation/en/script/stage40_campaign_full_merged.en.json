@@ -7157,12 +7157,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, what's wrong?",
+   "en": "Harry, what's wrong?",
    "translation_owner": {
     "source": "work/translation/en/script/stage40_campaign.json",
     "id": 267
    },
-   "notes": "",
+   "notes": " Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -11170,7 +11170,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 40,
-  "fingerprint": "63e7cafe9cf5b9d256b767b7e2029bb47d590f68f1f98816fff52a94030bf703",
+  "fingerprint": "1691ed3cfc9c2435a2ead350c51457329a7ac966fc383d67cae35397f8c8d303",
   "reviewed_reused_ids": [
    10,
    23,
@@ -11358,7 +11358,7 @@
   "reviewed_reused_rows": 182,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 494 fresh English rows and all 65 fresh flags against original sources and meaningful scene neighbors. All 182 reused rows checked: 143 exact battle templates across 205 actual registration uses with no ordinary uses, plus all 39 other reused records in every use. Original unknown labels and poetic fragments remain; C and egg/Instrumentalist identities are not expanded. Cultural names, geography and scientific stems follow scoped primary-source evidence; fictional compounds, lost soundplay and poetic metaphor remain flagged. Far East Command reconciles to the existing stage 3 glossary term in final only. All initial/final rows fit except the real four-line draft overflow at fresh 456, shortened to three with the fortress, institute, amplifier and sequence intact. SAM launch-lock command stays unfinished; world annihilation remains a fictional prediction. Source-short acronyms, the 97-kilometer circle, countdown, moved start time, dismissal order and barrier-restoration doubts are preserved. Six distinct actual Sol 6.1 Medium workers produced seven packets with immutable initial drafts."
+  "note": "Reviewed all 494 fresh English rows and all 65 fresh flags against original sources and meaningful scene neighbors. All 182 reused rows checked: 143 exact battle templates across 205 actual registration uses with no ordinary uses, plus all 39 other reused records in every use. Original unknown labels and poetic fragments remain; C and egg/Instrumentalist identities are not expanded. Cultural names, geography and scientific stems follow scoped primary-source evidence; fictional compounds, lost soundplay and poetic metaphor remain flagged. Far East Command reconciles to the existing stage 3 glossary term in final only. All initial/final rows fit except the real four-line draft overflow at fresh 456, shortened to three with the fortress, institute, amplifier and sequence intact. SAM launch-lock command stays unfinished; world annihilation remains a fictional prediction. Source-short acronyms, the 97-kilometer circle, countdown, moved start time, dismissal order and barrier-restoration doubts are preserved. Six distinct actual Sol 6.1 Medium workers produced seven packets with immutable initial drafts. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 676,

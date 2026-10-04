@@ -43,7 +43,7 @@ inspecting the preview. This does not insert translations into the game.
 ## Progress
 
 Stages 31–54 now total 14,007 reviewed fresh rows, 18,200 full rows and 196 packets.
-Stage 55 is next. No later dialogue has yet been inserted into an ISO.
+Stage 55 is in progress. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -53,7 +53,7 @@ both route orders and defeat-line registrations. Predict uses its canonical
 skill name, and the recurring improvised operation title is consistent.
 Original wordplay, deliberate omissions and uncertain licensed provenance remain
 documented. Exact review fingerprint:
-`a18375284394721c0556e44bf2b936e0beffb477c6738fdd336c35a69fe44e8a`.
+`a0db5292defccffd883cc8d1448647947b68a20b5018c5ee0b9741b40c08a1c7`.
 
 Stage 32 is complete: 578 fresh rows in eight packets and 753 full rows. All
 initial drafts fit without compression. Coordinator reviewed all 26 fresh flags,
@@ -73,7 +73,7 @@ Three measured draft overflows were shortened without losing meaning. One
 proven source address typo is corrected in final only, as documented in
 `docs/glossary_decisions.md`; deliberate contract and mask fragments remain.
 Exact review fingerprint:
-`3d680ebedf91874372d6e4cc5723b95d5b51170ebd38246b85e0b71d426f0a98`.
+`1c85a7f7bc81c8ffb998ae04c721053111162e15d420d3ef2f67d1d9c5f64f86`.
 
 Stage 34 is complete: 552 fresh rows in seven packets and 729 full rows. All
 11 fresh flags and every use of the 34 non-template reused rows were reviewed.
@@ -92,7 +92,7 @@ RahXephon technical compounds and alien utterances retain provisional licensed
 wording; the scientific stem stochastic resonance follows primary academic
 sources. Unfinished actions, poetic fragments and the address contrast remain
 explicitly documented. Exact review fingerprint:
-`cd858f826660230cfa5dcd91b1dabcfc92fed7e807f6723ee1fd797122031cb1`.
+`05255e98114ac2354a1c9017aae6d8349fb125a42c4a106a2a9a45a2944bdb55`.
 
 Stage 36 is complete: 547 fresh rows in seven packets, 723 full rows and 825
 original uses. All 15 fresh flags and all 33 non-template reused rows were
@@ -122,7 +122,7 @@ no ordinary uses. Only one fixed condition line required measured shortening,
 retaining all four defeat triggers. Haiku, nickname and proverb imagery remain;
 provisional fictional labels and separate alternate battle outcomes are explicit.
 Exact review fingerprint:
-`205e098987e2efc3817568e24a8aa96e1c4d90683bb47a62b9c4404aa1c56cb4`.
+`14179ba9ab943ff94ede9a7934e6cd73efbe145c55e48220042b07dfffd765a6`.
 
 Stage 39 is complete: 204 fresh rows in six packets, 359 full rows and 432
 original uses. All 30 fresh flags and every use of the 12 non-template reused
@@ -133,7 +133,7 @@ The allied/enemy actors in an omitted-subject report are clarified from the
 adjacent question and pincer inference in final only. Countdown order, interrupted
 clauses and separate timeout/victory branches remain; licensed wording and
 soundplay limits are documented. Exact review fingerprint:
-`9e50bd9cdb1c3c02cc1b4db1d373a5777f5de9a7f6eb053b5048f634da08c652`.
+`919414be784527b79a98d0aaa933fe8eb8460075510b8a8571e4dffd56e45747`.
 
 Stage 40 is complete: 494 fresh rows in seven packets, 676 full rows and 765
 original uses. All 65 fresh flags and every use of the 39 non-template reused
@@ -144,7 +144,7 @@ geography are sourced, while fictional physics and poetic compounds retain
 provenance limits. Far East Command follows the existing glossary; hidden labels,
 source-short acronyms, unfinished commands and barrier-restoration doubts remain.
 Exact review fingerprint:
-`63e7cafe9cf5b9d256b767b7e2029bb47d590f68f1f98816fff52a94030bf703`.
+`1691ed3cfc9c2435a2ead350c51457329a7ac966fc383d67cae35397f8c8d303`.
 
 Stage 41 is complete: 454 fresh rows in six packets, 628 full rows and 709
 original uses. All 56 fresh flags and every use of the 31 non-template reused
@@ -169,7 +169,7 @@ keeps its omitted predicate. Unknown Zero labels and the later unnamed escort
 retain source reveal order and gender neutrality. Fortress Island, Ogre Island,
 gravity control device and Red Arrow Squadron retain licensed-provenance limits;
 short Pikadron follows exact Akurasu evidence. Exact review fingerprint:
-`5888c4753f42679c66fbc744a16f58651c364b2dc2f0c1a2c88011e7f8706535`.
+`7058ea9c465c0dbfb1f774f90b984622e857aa0dc8bf333b3289dd915c4c4143`.
 
 Stage 43 is complete: 514 fresh rows in seven separate packets, 682 full rows
 and 756 original uses. Six actual translators preserved full immutable drafts.
@@ -222,7 +222,7 @@ indoctrination distinct from Altair’s mind control, and the concert deception.
 Ululun and Nadesico Q&A follow Akurasu; source-short Pros and Hari remain
 consistent. Source-specific naval titles, uncertain licensed compounds and
 literary allusions have explicit provenance notes. Exact review fingerprint:
-`26e8b21007de48c055dbbd5f7e9d45fc0581431c0dc812115e110331b74d123b`.
+`0fb81712779ca3981bc94356d27104b3ffc39215de4f53e8822089bb66ed8e3e`.
 Completion audit through 45 has no problems. No later dialogue is inserted into
 an ISO, and no GitHub release was created.
 
@@ -260,7 +260,7 @@ footwear wordplay, unfinished convictions and both surrender paths. Ruri’s
 I/we scope remains explicitly flagged without asserting mutual romance. Ending
 is inside the MAP handler; later-stored Hokushin quotes remain conditional
 battle encounters. Exact review fingerprint:
-`4054383d9d8f23a7c2de4cba6c983d01986912ed324a93d012cbe2fb7a6cfadd`.
+`a02a9f494ea9fc8977650e8284ffad567d49611f6204109c17fffd4b4def7f12`.
 Completion audit through 47 has no problems. Stage 50 is underway. Local
 insertion and playtesting remain pending; no release is authorized.
 
@@ -319,7 +319,7 @@ Independent neighboring translators restored Hari’s stutter and reconciled
 Albero’s Commander address. The original Michiru attribution anomaly,
 Eldy’s ambiguous singular addressee and conditional event order remain
 explicit. Exact review fingerprint:
-`a70231f3eaf398ccf8e55e3f4d53ab8611cc76520bead38b849ead8d555bf05e`.
+`6b7ddc2532e871cc660861b254a7f7254685e4f5d63f15d89e4c345932fae425`.
 Completion audit through 50 has no problems. Stage 51 is underway. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
 
@@ -339,7 +339,7 @@ Independent actual translators restored the technical question, reconciled
 Middi’s address and corrected the shared inside joke. Ryoko’s final conditional
 actor remains explicitly ambiguous; legacy referents remain gender-neutral.
 Exact review fingerprint:
-`acfcb454ce0d9043ca71778e5461effdc4c33189badf3bced03b82792f2209be`.
+`405d943b45495e807c579217857a9dd80886a2232c3a56ed3ee8ab0b3d85cbb0`.
 Completion audit through 51 has no problems. Stage 52 is underway. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
 
@@ -357,7 +357,7 @@ remain separate. Family relations, planetary ecology, the seven-god count
 and source hypotheses remain; spirit-vessel identity and the strike object
 are explicitly unresolved. Hyribead follows the existing main glossary, with
 persistent spelling guards. Exact review fingerprint:
-`a95fb9e91918bedf60a99fa405c9c86712bc8ca97562bc5b959b9a6fd6f99d0b`.
+`e0a4bda020a1ac872e426df109a4f1a3f60ec824ef3ab3bb8a8d5f051ebfef01`.
 Completion audit through 52 has no problems. Stage 53 is next. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
 
@@ -397,6 +397,34 @@ explicitly qualified. Meaning repairs and canonical spelling scripts are
 measured separately. Boson Out, Gilgazamune and the source-bound deity address
 follow established entries and Akurasu. The reused FULL 797 agreement was
 independently corrected only for this stage; its earlier owner is unchanged.
-Exact review fingerprint: `64ab333f3894b5a885d818d104f9eeacbc489bb08ab6111362834a49dca97ba2`.
+Exact review fingerprint: `2b54dd70a0030b812cc3d8589041a9548ec3ffa1fc14e4ebc8fcc9661e62dfed`.
 Completion audit through 54 has no problems. Stage 55 is next. Later dialogue
 insertion and playtesting remain pending; no release is authorized.
+
+Stage 55, **The Promised Land**, is complete: 1,000 fresh rows, 1,210 full
+rows and 1,289 original uses in thirteen packets from six actual Sol 6.1
+Medium translators. Coordinator paired-reviewed every fresh source/final,
+all 396 fresh flags and every occurrence of 67 non-template reused rows
+(80 uses) with final neighbors. The 143 generic defeat templates have 205
+registrations and no ordinary uses. Only initial dialogue 9 and 27 required
+measured shortening; all final rows fit, and original drafts remain unchanged.
+
+Review preserves the ending, conditional encounters, the Eldy/Akito reveals,
+qualified cosmology, personal relationships and unfinished replies. Meaning
+repairs remain separate from canonical spelling/rank corrections. The reused
+FULL755 question now identifies one approaching object; the earlier stage29
+owner is unchanged. Scripted Raideen, source-spoken Harry, Captain Bright and
+the locally identified Yurika's Captain Misumaru addresses are measured and
+documented after meaning review. Twenty-two earlier owned Harry corrections
+and one derived reuse have exact old/new, source-unchanged review proof;
+their completed-stage fingerprints above are refreshed.
+Exact review fingerprint: `03702c80b850e4275103f731cc145257be4efe06565437120b881f07ffd99016`.
+Completion audit through 55 has no problems. Stage 56, the hidden stage, is
+underway; unused scenes/save messages follow. Later dialogue insertion and
+playtesting remain pending. No GitHub release is authorized.
+
+A full final-corpus scan found five source-owned unit-spelling instances in
+stages 2, 35, 54 and 55 using Reideen against Akurasu/main Raideen. A script
+corrected these after meaning review, preserved full drafts, remeasured every
+changed line and added the persistent spelling guard. Completed stages 2, 35
+and 54 have refreshed exact review records; no meaning or game-build change.

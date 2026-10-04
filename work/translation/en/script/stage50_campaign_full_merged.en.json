@@ -802,12 +802,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hari, show me Giganos territory at maximum magnification.",
+   "en": "Harry, show me Giganos territory at maximum magnification.",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 43
    },
-   "notes": "Context: Ruri requests a maximum-zoom image from Hari. Decision: Restore grammatical subjects and verbs; preserve source tone and names.",
+   "notes": "Context: Ruri requests a maximum-zoom image from Hari. Decision: Restore grammatical subjects and verbs; preserve source tone and names. Coordinator name script: Existing source-scoped spoken nickname Harry; frozen Hari speaker unchanged. Initial full draft retained; no compression.",
    "uncertain": []
   },
   {
@@ -8974,7 +8974,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 50,
-  "fingerprint": "a70231f3eaf398ccf8e55e3f4d53ab8611cc76520bead38b849ead8d555bf05e",
+  "fingerprint": "6b7ddc2532e871cc660861b254a7f7254685e4f5d63f15d89e4c345932fae425",
   "reviewed_reused_ids": [
    7,
    12,
@@ -9144,7 +9144,7 @@
   "reviewed_reused_rows": 164,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator compared all 377 fresh source/final pairs, all 58 fresh flags and all 21 non-template reused rows in every occurrence. Original template audit: 143 rows, 205 registrations, no ordinary uses. All 541 full rows and 612 uses retained. Three measured draft overflows (56, 175, 274) compressed with immutable drafts and actual before/after metrics. Preserved conditional handlers, living-core claims, maternal list, Urube cloning and Bahbem reveal, ally truce, all defeat alternatives, first Grand Master then Devil order, soul attack, DG-erasure duty, solar alert location and fleet distinction. Independent workers 5 and 6 corrected row 180 stutter and row 244 Commander title with metrics; source Michiru attribution in 218 and unresolved Eldy addressee in 158 remain flagged. All final fit and full checks pass; no build or release."
+  "note": "Coordinator compared all 377 fresh source/final pairs, all 58 fresh flags and all 21 non-template reused rows in every occurrence. Original template audit: 143 rows, 205 registrations, no ordinary uses. All 541 full rows and 612 uses retained. Three measured draft overflows (56, 175, 274) compressed with immutable drafts and actual before/after metrics. Preserved conditional handlers, living-core claims, maternal list, Urube cloning and Bahbem reveal, ally truce, all defeat alternatives, first Grand Master then Devil order, soul attack, DG-erasure duty, solar alert location and fleet distinction. Independent workers 5 and 6 corrected row 180 stutter and row 244 Commander title with metrics; source Michiru attribution in 218 and unresolved Eldy addressee in 158 remain flagged. All final fit and full checks pass; no build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
  },
  "full_checks": {
   "rows": 541,
