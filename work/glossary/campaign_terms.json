@@ -5230,7 +5230,7 @@
    "sources": [
     "work/translation/en/script/stage53_campaign.json:52"
    ],
-   "notes": "Provisional transparent English loanword for the source Muutropolis shelter/structure. Exact licensed English not verified. Keep source closure and resistance claims; no outside facility history added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
+   "notes": "Provisional transparent English loanword for the source Mutropolis shelter/structure. Exact licensed English not verified. Keep source closure and resistance claims; no outside facility history added. Absent from refreshed Akurasu MX term table; supplemental entry, no main Akurasu override."
   },
   {
    "jp": "臨海市",
@@ -5256,6 +5256,54 @@
     "work/translation/en/script/stage53_campaign.json:559"
    ],
    "notes": "Provisional source-literal fictional weapon label; exact licensed English unverified. Absent from refreshed Akurasu MX table and searches yielded no exact authority. No main override. Do not substitute N2 or positron cannon from outside Evangelion scenes or invent a technical mechanism."
+  },
+  {
+   "jp": "御殿場",
+   "en": "Gotemba",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:429",
+    "https://www.city.gotemba.lg.jp/appeal/kanri/assets/uploads/2023/10/gaid_english.pdf"
+   ],
+   "notes": "Primary municipal English sightseeing guide corroborates city spelling. Absent from refreshed Akurasu MX table; supplemental geography, no override. Preserve two infantry battalions and source military report without adding tourism or real-world deployment facts."
+  },
+  {
+   "jp": "Ａ８０１",
+   "en": "A801",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:401"
+   ],
+   "notes": "Source fictional directive code preserved as ASCII A801. No exact Akurasu entry or verified licensed expansion; no outside legal meaning or hyphen inserted. Preserve exceptional legal protection revocation and Federation transfer ultimatum as source fiction."
+  },
+  {
+   "jp": "第６６６プロテクト",
+   "en": "Number 666 protection",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:420"
+   ],
+   "notes": "Provisional source-literal fictional protection designation. Exact licensed English unverified and absent from refreshed Akurasu MX table. Retain 666, distinct from B-Danan-type firewall's 62 hours of external-intrusion resistance at414. No invented technical mechanism."
+  },
+  {
+   "jp": "カスパー",
+   "en": "Caspar",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:824",
+    "https://en.wikipedia.org/wiki/Themes_of_Neon_Genesis_Evangelion",
+    "https://evangelion.fandom.com/wiki/Ritsuko_Akagi"
+   ],
+   "notes": "Secondary English sources corroborate MAGI component Caspar; exact primary licensed MX English not verified. Absent from refreshed Akurasu MX table, supplemental entry with no override. Source-short name remains short, no added component number, mother personality or outside ending details."
+  },
+  {
+   "jp": "カバ焼き",
+   "en": "grilled in sauce",
+   "aliases_jp": [
+    "蒲焼き",
+    "かば焼き"
+   ],
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:699",
+    "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/6616/index.html"
+   ],
+   "notes": "Primary MAFF English cultural entry confirms kabayaki is glaze-grilled eel. Source unusual katakana spelling retained as key; adjacent eel insult confirms cooking image. Natural localized phrase preserves the cooking threat; no hippo claim, recipe details or explanatory aside added to dialogue. Absent from Akurasu term tables; no main override."
   }
  ],
  "characters": [

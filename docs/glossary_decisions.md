@@ -971,3 +971,22 @@ no main term is overridden and no outside location or identity is added.
 fictional weapon label. Akurasu has no exact entry; licensed English remains
 unverified. Do not replace it with N2 or positron terminology from outside
 Evangelion scenes, or add a technical mechanism.
+
+Stage 53 packet 5: **Gotemba** follows the [primary municipal English guide](https://www.city.gotemba.lg.jp/appeal/kanri/assets/uploads/2023/10/gaid_english.pdf),
+corroborating spelling only. **A801** preserves the fictional directive code.
+**Number 666 protection** is a provisional literal designation, with licensed
+wording unverified. Keep it separate from the B-Danan-type firewall and its
+62-hour resistance claim. These fill absent Akurasu entries without overrides.
+
+**Caspar** (stage 53, fresh 824) has [secondary English corroboration](https://en.wikipedia.org/wiki/Themes_of_Neon_Genesis_Evangelion)
+for the MAGI component; primary licensed MX wording is unverified. Keep the
+source-short name without adding a component number or outside biography.
+The cooking threat in fresh 699 follows [MAFF's kabayaki entry](https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/6616/index.html):
+the unusual source spelling denotes eel grilled in sauce. Keep that cooking
+image and the eel insult together; no explanatory recipe or hippo is added.
+
+Stage 53 review is complete. Existing main spellings SEELE and campaign
+Far East Command were reconciled in final text with persistent spelling guards;
+these enforce existing entries rather than override Akurasu. Immutable drafts
+remain unchanged, all corrected lines were remeasured, and no fit compression
+was needed for those names. All provisional provenance flags remain.

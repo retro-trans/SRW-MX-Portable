@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–52 now total 12,252 reviewed fresh rows, 16,051 full rows and 173 packets.
-Stage 53 is underway. No later dialogue has yet been inserted into an ISO.
+Stages 31–53 now total 13,088 reviewed fresh rows, 17,074 full rows and 184 packets.
+Stage 54 is next. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -358,5 +358,24 @@ and source hypotheses remain; spirit-vessel identity and the strike object
 are explicitly unresolved. Hyribead follows the existing main glossary, with
 persistent spelling guards. Exact review fingerprint:
 `a95fb9e91918bedf60a99fa405c9c86712bc8ca97562bc5b959b9a6fd6f99d0b`.
-Completion audit through 52 has no problems. Stage 53 is underway. Later
+Completion audit through 52 has no problems. Stage 54 is next. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
+
+Stage 53, **Soul's Refrain**, is complete: 836 fresh rows, 1,023 full
+rows and 1,139 original uses in eleven packets from six actual Sol 6.1
+Medium translators. Coordinator reviewed every fresh source/final pair,
+all 142 fresh flags and every occurrence of 44 non-template reused rows
+(92 uses). The 143 generic defeat templates have 205 registrations and no
+ordinary uses. Only dialogue 417 required measured shortening; all final
+rows fit and immutable full drafts remain.
+
+Review preserves separate conditional handlers, twin and maternal identities,
+the theater metaphor and its two gods, retrospective hypotheses, symbolic
+Eva spelling, exact repeated kill counts and German ordinal stems, interrupted
+clauses and unknown rescue voices until the Tsukiomi reveal. Meaning corrections
+and canonical spelling corrections remain separately measured and documented.
+SEELE and Far East Command enforce existing glossary entries. Licensed names
+and fictional technical labels without primary corroboration stay flagged.
+Exact review fingerprint: `77a08be91b55ff4538bd692f13fcfd64e199eba923121e46f56625914ec19f5b`.
+Completion audit through 53 has no problems. Stage 54 is next. Later dialogue
+insertion and playtesting remain pending; no release is authorized.
