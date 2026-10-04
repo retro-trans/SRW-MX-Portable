@@ -1,5 +1,14 @@
 # Changelog
 
+## Documentation — 2026-10-04
+
+- Adapted the repository README and published v0.4.9 release page to SRW-Z's
+  structure: installation and source/patch table, changes since the previous
+  public release, testing status, translation method, credits and contribution
+  links. Kept MX Portable's own supported source, coverage and verification facts.
+- Documentation update only. Published patch, manifest, validation report,
+  checksums, release tag and downloadable documentation snapshots are unchanged.
+
 ## 0.4.9 — 2026-10-04 (complete-campaign release)
 
 - Full patch from the original Japanese ULJS-00041 ISO, prepared at the project
