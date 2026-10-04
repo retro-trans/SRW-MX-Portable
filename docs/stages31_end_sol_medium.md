@@ -8,7 +8,8 @@ ignored local working files. Stages 1–30 retain their completed translations.
 The queue is `work/output/stages31_end_sol_medium_manifest.json` and uses
 235 separate packets, at most 80 rows each, for 16,661 fresh rows. Six actual
 workers share each group in waves of at most three simultaneous translators.
-These are initial preparation counts, not completed translation counts.
+All 235 packets and stages/groups 31–58 are translated and coordinator-reviewed;
+local insertion and game testing remain pending.
 
 Source-queue coverage audit: all 203 original scene blocks and 51,366 readable
 scene/string uses are represented by the prologue and all stage/group sources;
@@ -43,7 +44,7 @@ inspecting the preview. This does not insert translations into the game.
 ## Progress
 
 Stages 31–56 now total 15,694 reviewed fresh rows, 20,287 full rows and 218 packets.
-Unused-scene review and closing-message translation are in progress. No later
+Unused-scene and closing-message review are in progress; all drafts are complete. No later
 dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
@@ -440,8 +441,7 @@ Clone/reincarnation claims, qualified plans, 5/7/5 verse, ship-role/rank
 distinctions and provisional technical wording retain their documented limits.
 Exact review fingerprint: `afb549282774d6c84dc243455470246f6ac0cbf2539e884e388a5971ac22d4d3`.
 Completion audit through 56 passes: 15,694 fresh rows, 20,287 full rows and
-218 packets. The 876 unused-scene drafts fit, but coordinator context review
-is still underway. Closing/save messages are being translated. Original legacy
+218 packets. Groups 57 and 58 are also complete, as recorded below. Original legacy
 references are preserved without claiming verified reachability or treating
 their zero-argument 0x0E records as current-format choices. No new ISO or release.
 
@@ -450,3 +450,33 @@ stages 2, 35, 54 and 55 using Reideen against Akurasu/main Raideen. A script
 corrected these after meaning review, preserved full drafts, remeasured every
 changed line and added the persistent spelling guard. Completed stages 2, 35
 and 54 have refreshed exact review records; no meaning or game-build change.
+
+Stage/group 57, **Unused scenes**, is complete: 876 fresh rows, 878 full rows,
+921 original uses and eleven packets from six actual Sol 6.1 Medium translators.
+Coordinator paired-reviewed every fresh source/final and flag, all 26 repeated
+fresh rows in 69 uses, and both inherited condition rows with original-reference
+neighbors. Independent original proof covers 1,444 commands. Legacy reference
+framing, zero-argument 0x0E semantics and runtime reachability remain unverified.
+Twelve initial width overflows required shortening; row195's segment repair is
+separate. All final lines fit, and initial drafts/metrics remain unchanged.
+
+Seven escape lines now leave the mechanism unspecified. The lifetime-blunder
+flag describes a complete source nominal expression; its English predicate
+remains. Canonical embedded Harry, hostage-rescue logic, AI1's child metaphor,
+qualified claims, crude jokes and fixed source boundaries are retained.
+Exact review fingerprint: `40c4c47a119616606810f7e86398340648945ac4ccfb2782ea9246d917b9a140`.
+
+Stage/group 58, **Closing/save messages**, is complete: 91 fresh rows, 92 full
+rows, 95 original uses and six packets from six actual Sol 6.1 Medium translators.
+Coordinator paired-reviewed every fresh source/final and flag, all five repeated
+uses and the inherited Akito reaction with bounded final neighbors. Original
+proof covers 208 commands and fourteen independent sketches: thirteen jump to
+the common exit203, while the last falls through. All drafts and finals fit
+without compression. No continuous chronology is imposed across sketches.
+
+Verbal tics, false preview titles, source abbreviations, literal poems with
+ambiguity/provenance flags, interrupted quotes, identity switches and manga
+referents remain. Source-frozen dialogue speaker prefills are unchanged.
+Exact review fingerprint: `2f03c5f6c3bda0ec903c9ecec2f7f2fff3f96ba83ff775a9bb30423ee9203f16`.
+Completion audit through58 passes: 16,661 fresh rows, 21,257 full rows and235
+packets. Local insertion and game testing remain pending. No release authorized.

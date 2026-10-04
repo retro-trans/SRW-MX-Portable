@@ -1,0 +1,1650 @@
+{
+ "scenes": [
+  "end_mes"
+ ],
+ "routes": [
+  {
+   "route": "-",
+   "title": "Closing/save messages",
+   "scenes": [
+    "end_mes"
+   ],
+   "map_scene": null
+  }
+ ],
+ "rows": [
+  {
+   "id": 0,
+   "uses": [
+    "end_mes:0"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グルメイ",
+   "speaker_en": "Gourmet",
+   "en": "Oh? It looks like the save is complete, bari~?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 0
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Gourmet bari verbal tic retained as established glossary/profile sound; save completion qualified by looks like."
+   ]
+  },
+  {
+   "id": 1,
+   "uses": [
+    "end_mes:1"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アブゾルート",
+   "speaker_en": "Absolute",
+   "en": "Here's our chance, dawa! Now, the data! Witter!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 1
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Absolute dawa verbal tic retained. Object-only data command preserves unspecified source action; next Access shout contextualizes but does not prove theft/copying."
+   ]
+  },
+  {
+   "id": 2,
+   "uses": [
+    "end_mes:2"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ウィッター",
+   "speaker_en": "Witter",
+   "en": "Aaaaccess!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 2
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Elongated Access shout retained; no artificial jan tic added where source has none."
+   ]
+  },
+  {
+   "id": 3,
+   "uses": [
+    "end_mes:3"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Hey, hey! What are you guys doing!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 3
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": []
+  },
+  {
+   "id": 4,
+   "uses": [
+    "end_mes:4"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Heeeey!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 4
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Long shouted reprimand rendered as elongated Hey; no invented accusation or threat."
+   ]
+  },
+  {
+   "id": 5,
+   "uses": [
+    "end_mes:5"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アブゾルート",
+   "speaker_en": "Absolute",
+   "en": "Eek!? Run, dawa!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 5
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Absolute dawa verbal tic retained. Run is urgent self/group flight instruction, not a claim of flight completion."
+   ]
+  },
+  {
+   "id": 6,
+   "uses": [
+    "end_mes:6"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北斗",
+   "speaker_en": "Hokuto",
+   "en": "Whew... Everyone, be careful about managing your data, too!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 6
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": []
+  },
+  {
+   "id": 7,
+   "uses": [
+    "end_mes:7"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "銀河",
+   "speaker_en": "Ginga",
+   "en": "Yeah! Saving at the start of every turn is the most basic rule of all!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 7
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": []
+  },
+  {
+   "id": 8,
+   "uses": [
+    "end_mes:8"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Ahh~ A break! Time for a break! Hey, hey, Domon! Listen, listen!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 8
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Repetition and stretched vowels retained as playful chatter."
+   ]
+  },
+  {
+   "id": 9,
+   "uses": [
+    "end_mes:9"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "At the food stall I always go to, after just one bite of a Chinese steamed bun...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 9
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Sentence deliberately ends before10 subject/predicate; no prematurely introduced listener/gender. Chinese steamed bun is generic food description, not a newly named term."
+   ]
+  },
+  {
+   "id": 10,
+   "uses": [
+    "end_mes:10"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "a middle-aged guy shouts, \"It's delicious!\"... Let's go together sometime! Come on~!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 10
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Man identification only here; age description middle-aged from ojisan, no specific identity inferred. Quoted taste reaction retained; invitation initially directed at absent Domon, answered by Kyral."
+   ]
+  },
+  {
+   "id": 11,
+   "uses": [
+    "end_mes:11"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "Indeed! Then let us go, Allenby!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 11
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Kyral answers Allenby invitation addressed to Domon, preserving save-sketch joke; no romantic inference."
+   ]
+  },
+  {
+   "id": 12,
+   "uses": [
+    "end_mes:12"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "H-huh!? Hey, where's Domon!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 12
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Stammer/reprimand retained; no claim explaining Domon absence."
+   ]
+  },
+  {
+   "id": 13,
+   "uses": [
+    "end_mes:13"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "キラル",
+   "speaker_en": "Kyral",
+   "en": "That aside, everyone... Be sure to rest once in a while. Farewell!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 13
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Conventional farewell fragment retained; player/group audience inferred from save-message advisory."
+   ]
+  },
+  {
+   "id": 14,
+   "uses": [
+    "end_mes:14"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アレンビー",
+   "speaker_en": "Allenby",
+   "en": "Heeey~! Where's Domon~!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 14
+   },
+   "notes": "Independent save sketch; source rhetorical repetition and row boundary retained.",
+   "uncertain": [
+    "Repeated drawn-out question retained."
+   ]
+  },
+  {
+   "id": 15,
+   "uses": [
+    "end_mes:15"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Well, well! You're working pretty hard for someone so young! Huh!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 15
+   },
+   "notes": "Gon Jem addresses the player, praising hard work DESPITE youth with rough challenge Huh; YOU subject and working predicate restored. Interjection is a vocal tic, not separate person.",
+   "uncertain": [
+    "Gon Jem addresses the player, praising hard work DESPITE youth with rough challenge Huh; YOU subject and working predicate restored. Interjection is a vocal tic, not separate person."
+   ]
+  },
+  {
+   "id": 16,
+   "uses": [
+    "end_mes:16"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "But listen! I don't approve of you doing nothing but playing games!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 16
+   },
+   "notes": "Gon Jem BUT disapproves gaming ONLY; I judges YOU player's habit, not game quality. No invented screen-time amount.",
+   "uncertain": []
+  },
+  {
+   "id": 17,
+   "uses": [
+    "end_mes:17"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "Oh? You're making a good point... Colonel.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 17
+   },
+   "notes": "Min answers16 approving his sensible point, addresses explicit Colonel Gon Jem. Skepticism comes20 after food/body boast, not prematurely hostile here. Rank source and profile agree.",
+   "uncertain": []
+  },
+  {
+   "id": 18,
+   "uses": [
+    "end_mes:18"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "When you're done playing, eat! Eat more food!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 18
+   },
+   "notes": "Gon Jem instructs PLAYER to eat AFTER game ends, then eat MORE; imperative direction and repetition preserved, not narrator diet advice.",
+   "uncertain": []
+  },
+  {
+   "id": 19,
+   "uses": [
+    "end_mes:19"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "グン・ジェム",
+   "speaker_en": "Gon Jem",
+   "en": "Then you'll have a beautiful body like mine...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 19
+   },
+   "notes": "Gon Jem predicts player body like HIS OWN; source boast/advice not medical fact. Spoken trailing ellipsis retained, incompletely developed [jp] ending; grammatical YOU and future predicate restored, no added exercise advice.",
+   "uncertain": [
+    "Gon Jem predicts player body like HIS OWN; source boast/advice not medical fact. Spoken trailing ellipsis retained, incompletely developed [jp] ending; grammatical YOU and future predicate restored, no added exercise advice."
+   ]
+  },
+  {
+   "id": 20,
+   "uses": [
+    "end_mes:20"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ミン",
+   "speaker_en": "Min",
+   "en": "...Beautiful, huh.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 20
+   },
+   "notes": "Min repeats BEAUTIFUL skeptically after19, intentional source fragment/omission retained, no invented insult.",
+   "uncertain": [
+    "Min repeats BEAUTIFUL skeptically after19, intentional source fragment/omission retained, no invented insult."
+   ]
+  },
+  {
+   "id": 21,
+   "uses": [
+    "end_mes:21",
+    "end_mes:26",
+    "end_mes:31"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "All right, it's time for the usual closing message... Let's do it like a preview!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 21
+   },
+   "notes": "Kaine announces usual closing message and proposes preview STYLE. Same row occurs at start of three independently selected sketches, not one chronological scene. LET'S includes fellow performers and player presentation.",
+   "uncertain": [
+    "Kaine announces usual closing message and proposes preview STYLE. Same row occurs at start of three independently selected sketches, not one chronological scene. LET'S includes fellow performers and player presentation."
+   ]
+  },
+  {
+   "id": 22,
+   "uses": [
+    "end_mes:22"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Next time on Metal Armor Dragonar! 'Hearts Racing! Kaine and Linda Grow Closer Fast!'",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 22
+   },
+   "notes": "Mock next-episode announcement: main series Metal Armor Dragonar, Kaine/Linda main names. [jp] rapid excitement/heart-racing and [jp] growing closer quickly form romantic title joke; actual episode existence denied25, not asserted canon.",
+   "uncertain": [
+    "Mock next-episode announcement: main series Metal Armor Dragonar, Kaine/Linda main names. [jp] rapid excitement/heart-racing and [jp] growing closer quickly form romantic title joke; actual episode existence denied25, not asserted canon."
+   ]
+  },
+  {
+   "id": 23,
+   "uses": [
+    "end_mes:23"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "What the heck is that!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 23
+   },
+   "notes": "Tapp reacts to invented title, complete WHATIS predicate retained with rough whattheheck tone.",
+   "uncertain": []
+  },
+  {
+   "id": 24,
+   "uses": [
+    "end_mes:24"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Was there ever an episode like that... in the original anime?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 24
+   },
+   "notes": "Light asks whether this episode existed in ORIGINAL anime, skeptical question not categorical lore claim. Anime referent inferred named series22 and next denial25.",
+   "uncertain": [
+    "Light asks whether this episode existed in ORIGINAL anime, skeptical question not categorical lore claim. Anime referent inferred named series22 and next denial25."
+   ]
+  },
+  {
+   "id": 25,
+   "uses": [
+    "end_mes:25"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Of course there wasn't. Well then, everyone... See you!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 25
+   },
+   "notes": "Kaine explicitly denies episode couldexist then addresses EVERYONE farewell, full therewasn't predicate restored; no extra apology.",
+   "uncertain": []
+  },
+  {
+   "id": 26,
+   "uses": [
+    "end_mes:27"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Next time on Metal Armor Dragonar! 'The Rumored New Model! D-3 Custom Makes Its Entrance'!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 26
+   },
+   "notes": "Separate preview sketch: Light announces rumored NEWMODEL and dramatic entrance. Source-short D-3 Custom retained without full-unit expansion; source claim jokingly contradicted27 and admitted28. Root registered source-short D-3 Custom; Akurasu corroborates full Dragonar 3 Custom stem only. Absence from original anime remains the source joke, not independently researched fact. Exact licensed closing-message wording unverified.",
+   "uncertain": [
+    "Separate preview sketch: Light announces rumored NEWMODEL and dramatic entrance. Source-short D-3 Custom retained without full-unit expansion; source claim jokingly contradicted27 and admitted28. Root registered source-short D-3 Custom; Akurasu corroborates full Dragonar 3 Custom stem only. Absence from original anime remains the source joke, not independently researched fact. Exact licensed closing-message wording unverified."
+   ]
+  },
+  {
+   "id": 27,
+   "uses": [
+    "end_mes:28"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Hey, that never appeared in the original anime.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 27
+   },
+   "notes": "Tapp contradicts invented machine's appearance in ORIGINAL anime, source assertion preserved without correcting from outside lore.",
+   "uncertain": []
+  },
+  {
+   "id": 28,
+   "uses": [
+    "end_mes:29"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "I'm kidding, I'm kidding. Well then, everyone... See you next week!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 28
+   },
+   "notes": "Light repeats jokingTWICE then EVERYONE farewell NEXTWEEK, deliberately TV-preview register; future play restriction only Kaine's next joke.",
+   "uncertain": []
+  },
+  {
+   "id": 29,
+   "uses": [
+    "end_mes:30"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "So I have to go without SRW until next week!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 29
+   },
+   "notes": "Kaine rhetorically asks if HE must forgo playing until NEXTWEEK; source-short [jp] rendered SRW registered by root as English initialism localization, exact licensed dialogue unverified. Not literal imposed game lock or second-person command.",
+   "uncertain": [
+    "Kaine rhetorically asks if HE must forgo playing until NEXTWEEK; source-short [jp] rendered SRW registered by root as English initialism localization, exact licensed dialogue unverified. Not literal imposed game lock or second-person command."
+   ]
+  },
+  {
+   "id": 30,
+   "uses": [
+    "end_mes:32"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Next time on Metal Armor Dragonar!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 30
+   },
+   "notes": "Trailer sketch selector235 entry86; Tapp starts preview but Kaine hijacks it31.",
+   "uncertain": []
+  },
+  {
+   "id": 31,
+   "uses": [
+    "end_mes:33"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "\"Tapp and D-2: The Great Weight-Loss Operation\"!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 31
+   },
+   "notes": "Fabricated preview title, D-2 source-short retained; diet translates slimming campaign. Semantic repair restores explicit grand/great scale in source episode-title operation; independent of fit.",
+   "uncertain": [
+    "Invented episode title is source joke, not actual canon episode; independent licensed title wording unverified."
+   ]
+  },
+  {
+   "id": 32,
+   "uses": [
+    "end_mes:34"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "Ah! Hey! My moment in the spotlight!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 32
+   },
+   "notes": "Tapp interrupted object-only exclamation; spotlight means opportunity to speak trailer.",
+   "uncertain": [
+    "Source retains omitted predicate in angry exclamation about stolen speaking turn; do not complete with invented action."
+   ]
+  },
+  {
+   "id": 33,
+   "uses": [
+    "end_mes:35"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ライト",
+   "speaker_en": "Light",
+   "en": "Hey, there's no episode like that... in the original show.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 33
+   },
+   "notes": "Light objects that imagined slimming episode is absent from original anime.",
+   "uncertain": []
+  },
+  {
+   "id": 34,
+   "uses": [
+    "end_mes:36"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ケーン",
+   "speaker_en": "Kaine",
+   "en": "Well... Tapp and D-2 both look pretty heavy, so... I thought they ought to get a little lighter on their feet.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 34
+   },
+   "notes": "Kaine teases both Tapp and D-2, neither omitted; heavy appearances and light-footed contrast retained.",
+   "uncertain": [
+    "Subject both Tapp and D-2 restored; source visual joke interpreted as weight/light-footedness, not new statistics."
+   ]
+  },
+  {
+   "id": 35,
+   "uses": [
+    "end_mes:37"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "タップ",
+   "speaker_en": "Tapp",
+   "en": "I'm telling you, mind your own business!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 35
+   },
+   "notes": "Tapp rejects unsolicited advice, force preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 36,
+   "uses": [
+    "end_mes:38"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "In a single night, it stretches to the heavenly realm... the gourd-like spiral of the cosmos...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 36
+   },
+   "notes": "New sketch selector236 entry99; poetic source independently selected, not continuation of Tapp sketch. Literal heavenly-realm/gourd/cosmic-spiral images retained.",
+   "uncertain": [
+    "Poetic source has postposed subject and trailing ellipsis; literal wording/provenance provisional, no outside metaphor explanation."
+   ]
+  },
+  {
+   "id": 37,
+   "uses": [
+    "end_mes:39"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "Did you enjoy Super Robot Wars?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 37
+   },
+   "notes": "Hokushin politely menaces player, source game title preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 38,
+   "uses": [
+    "end_mes:40"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage45_campaign.json",
+    "id": 192
+   },
+   "notes": "Context: Akito returns at Inez memorial; Ruri infers kidnapped navigators, and Minato rebukes Akito's coldness toward Ruri. ",
+   "uncertain": []
+  },
+  {
+   "id": 39,
+   "uses": [
+    "end_mes:41"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "北辰",
+   "speaker_en": "Hokushin",
+   "en": "Playtime ends here... Suspend!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 38
+   },
+   "notes": "Game suspend command shouted in villain attack style; interruption/suspension wordplay retained.",
+   "uncertain": [
+    "Suspend shout puns game interruption with villain move/catchphrase; licensed English equivalent unverified."
+   ]
+  },
+  {
+   "id": 40,
+   "uses": [
+    "end_mes:42"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アキト",
+   "speaker_en": "Akito",
+   "en": "What!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 39
+   },
+   "notes": "Akito startled reply to Hokushin suspension cry; FULL38 reused Akito silent shock precedes this.",
+   "uncertain": []
+  },
+  {
+   "id": 41,
+   "uses": [
+    "end_mes:43"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Thank you for playing. Please play again!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 40
+   },
+   "notes": "New sketch selector237 entry110; Miku addresses player, gratitude and invitation retained.",
+   "uncertain": []
+  },
+  {
+   "id": 42,
+   "uses": [
+    "end_mes:44"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Right. So next time, too, this Super Robot...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 41
+   },
+   "notes": "Masato begins next-time invitation; game title cut off before Wars, interruption preserved.",
+   "uncertain": [
+    "Retained interrupted title fragment Super Robot; no Wars expansion."
+   ]
+  },
+  {
+   "id": 43,
+   "uses": [
+    "end_mes:45"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Ugh! U-uuugh...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 42
+   },
+   "notes": "Masato distress before source speaker reveal Masaki44; no outside mechanism explanation added.",
+   "uncertain": [
+    "Retained distress stutter/groan; precise sound length adapted to English."
+   ]
+  },
+  {
+   "id": 44,
+   "uses": [
+    "end_mes:46"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Masato!? Hey, what happened!? Are you all right?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 43
+   },
+   "notes": "Miku addresses Masato, asks what happened and checks well-being.",
+   "uncertain": []
+  },
+  {
+   "id": 45,
+   "uses": [
+    "end_mes:47"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "Heh heh... Hahaha... Masato? Who are you talking to, Miku?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 44
+   },
+   "notes": "Masaki now revealed by immutable prefill, taunts Miku for calling him Masato; question direction retained.",
+   "uncertain": [
+    "Source speaker changes to Masaki after Masato distress, reveal order preserved; laugh and mocking Masato address retained."
+   ]
+  },
+  {
+   "id": 46,
+   "uses": [
+    "end_mes:48"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "M-Masato...? Oh, oh dear... At a time like this... What terrible timing...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 45
+   },
+   "notes": "Miku addresses apparent Masato immediately after Masaki label reveals takeover; her uncertainty and bad timing retained, not normalized to Masaki address.",
+   "uncertain": [
+    "Miku retains source uncertain Masato vocative even though displayed speaker just changed to Masaki.",
+    "Bad timing exclamation retains source fragment; full predicate would add action."
+   ]
+  },
+  {
+   "id": 47,
+   "uses": [
+    "end_mes:49"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "Leave it to me. ...What fools, playing a game like this over and over again.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 46
+   },
+   "notes": "Masaki offers to handle closing address then insults players for repeatedly playing this kind of game; play action supplied from settled game context.",
+   "uncertain": []
+  },
+  {
+   "id": 48,
+   "uses": [
+    "end_mes:50"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "These annoying pests, who don't even realize they're wasting precious time...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 47
+   },
+   "notes": "Masaki continues insult aimed at players, calling them annoying pests who fail to notice precious time wasted; nominal dangling clause retained.",
+   "uncertain": [
+    "Nominal subject and relative clause remain unfinished; no final predicate supplied."
+   ]
+  },
+  {
+   "id": 49,
+   "uses": [
+    "end_mes:51"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "H-hey! That's incredibly rude, no matter how you look at it!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 48
+   },
+   "notes": "Miku protests rude closing address; broad concession that even Masaki cannot excuse such rudeness preserved.",
+   "uncertain": []
+  },
+  {
+   "id": 50,
+   "uses": [
+    "end_mes:52"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Huh!? Oh, what... W-what's wrong, Miku?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 49
+   },
+   "notes": "Source label returns to Masato; bewildered question to Miku does not know Masaki speech and does not import memory.",
+   "uncertain": []
+  },
+  {
+   "id": 51,
+   "uses": [
+    "end_mes:53"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "美久",
+   "speaker_en": "Miku",
+   "en": "Ah... That's not fair...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 50
+   },
+   "notes": "Miku calls sudden identity switch unfair; settled that subject restored, no new intentional trick claimed.",
+   "uncertain": []
+  },
+  {
+   "id": 52,
+   "uses": [
+    "end_mes:54"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "U-um... Next time, this Super Robot Wars...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 51
+   },
+   "notes": "Masato restarts closing address and trails off on Super Robot Wars object before next takeover; no enjoy verb imported from53.",
+   "uncertain": [
+    "Closing address is deliberately cut on game title object; later speaker supplies enjoyment action separately."
+   ]
+  },
+  {
+   "id": 53,
+   "uses": [
+    "end_mes:55"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサト",
+   "speaker_en": "Masato",
+   "en": "Ah, ugh...!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 52
+   },
+   "notes": "Masato groans as next switch occurs; no speech invented.",
+   "uncertain": [
+    "Nonlexical groan only."
+   ]
+  },
+  {
+   "id": 54,
+   "uses": [
+    "end_mes:56"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "マサキ",
+   "speaker_en": "Masaki",
+   "en": "Enjoy it all you like...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 53
+   },
+   "notes": "Masaki completes game enjoyment address condescendingly, all you like keeps permissive best-you-can force without new threat.",
+   "uncertain": [
+    "Condescending force rendered all you like; no extra insult or threat added."
+   ]
+  },
+  {
+   "id": 55,
+   "uses": [
+    "end_mes:57"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "...I see. You're stopping here.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 54
+   },
+   "notes": "Separate Rei/Asuka sketch starts here; Rei addresses player stopping game, not Miku identity sketch continuation.",
+   "uncertain": []
+  },
+  {
+   "id": 56,
+   "uses": [
+    "end_mes:58"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "That's too soooon!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 55
+   },
+   "notes": "Asuka protests player stopping too soon with stretched vowel; settled that subject and copula restored.",
+   "uncertain": []
+  },
+  {
+   "id": 57,
+   "uses": [
+    "end_mes:59"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Just when I was about to show you my dazzling, spectacular exploits!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 56
+   },
+   "notes": "Asuka's just-when clause complains she was about to show dazzling exploits; boastful force and imminent action retained.",
+   "uncertain": [
+    "Just-when complaint remains a subordinate exclamatory fragment; no invented main action."
+   ]
+  },
+  {
+   "id": 58,
+   "uses": [
+    "end_mes:60"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "...Because people have lives to live.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 57
+   },
+   "notes": "Rei explains people have lives; no work or family circumstances invented.",
+   "uncertain": []
+  },
+  {
+   "id": 59,
+   "uses": [
+    "end_mes:61"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "アスカ",
+   "speaker_en": "Asuka",
+   "en": "Oh, fine! I suppose it can't be helped! But you'd better be back within ten seconds!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 58
+   },
+   "notes": "Asuka relents but commands return within exact ten seconds, not roughly or after ten seconds.",
+   "uncertain": []
+  },
+  {
+   "id": 60,
+   "uses": [
+    "end_mes:62"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "レイ",
+   "speaker_en": "Rei",
+   "en": "...Then that's no different from continuing the game.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 59
+   },
+   "notes": "Rei answers Asuka ten-second demand: stopping so briefly is no different from continuing the game. Source loanword translated as gameplay action, without asserting a particular menu choice.",
+   "uncertain": [
+    "Game-action continue loanword source-bound; no specific menu option or choice asserted."
+   ]
+  },
+  {
+   "id": 61,
+   "uses": [
+    "end_mes:63"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Are you finished for today already?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 60
+   },
+   "notes": "Independent Kaworu/Shinji save-exit sketch; Kaworu asks about today's stopping point. Already retains temporal surprise.",
+   "uncertain": []
+  },
+  {
+   "id": 62,
+   "uses": [
+    "end_mes:64"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "It looks that way.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 61
+   },
+   "notes": "Shinji answers Kaworu's question; restored grammatical it refers to finishing today, not earlier Rei sketch.",
+   "uncertain": []
+  },
+  {
+   "id": 63,
+   "uses": [
+    "end_mes:65"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "But you can end the game here, or you can resume it.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 62
+   },
+   "notes": "Kaworu addresses singular you; both stopping here and resuming are possible. Game subject explicit.",
+   "uncertain": []
+  },
+  {
+   "id": 64,
+   "uses": [
+    "end_mes:66"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Fighting and sleeping are of equal value.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 63
+   },
+   "notes": "Deadpan equivalence of fighting and sleep; retain the absurd claim and no external quote reconstruction.",
+   "uncertain": [
+    "Equal-value joke retained; no external franchise quote imported."
+   ]
+  },
+  {
+   "id": 65,
+   "uses": [
+    "end_mes:67"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "I don't understand what you're saying, Kaworu...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 64
+   },
+   "notes": "Shinji addresses Kaworu directly, puzzled; source trailing ellipsis retained; decorative honorific omitted by convention.",
+   "uncertain": []
+  },
+  {
+   "id": 66,
+   "uses": [
+    "end_mes:68"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "Now, please turn off the power.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 65
+   },
+   "notes": "Kaworu asks the player to switch power off; direction remains listener acting at speaker's request.",
+   "uncertain": []
+  },
+  {
+   "id": 67,
+   "uses": [
+    "end_mes:69"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "カヲル",
+   "speaker_en": "Kaworu",
+   "en": "If you don't, you all will no longer be able to sleep.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 66
+   },
+   "notes": "Kaworu addresses plural listeners; all marks source plural without importing a count; inability develops if power stays on.",
+   "uncertain": []
+  },
+  {
+   "id": 68,
+   "uses": [
+    "end_mes:70"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "シンジ",
+   "speaker_en": "Shinji",
+   "en": "K-Kaworu...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 67
+   },
+   "notes": "Stammered short-name question intentionally remains a vocative fragment; honorific dropped.",
+   "uncertain": [
+    "Intentional vocative fragment and stammer retained."
+   ]
+  },
+  {
+   "id": 69,
+   "uses": [
+    "end_mes:71"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "White dust dancing down, countless hopes...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 68
+   },
+   "notes": "Quon's separate poetic preview: white dust, downward scattering and innumerable hopes retained as an unfinished nominal image; no snow/petal interpretation added.",
+   "uncertain": [
+    "Poetic nominal omission and unfinished ellipsis retained.",
+    "Exact licensed poetic wording unverified; [jp] translated literally as white dust."
+   ]
+  },
+  {
+   "id": 70,
+   "uses": [
+    "end_mes:72"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "A resting branch for butterflies dancing on the wind, a sunlit spot for melodies rushing through life...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 69
+   },
+   "notes": "Quon's parallel poetic wishes retain butterflies, wind, resting-tree image, hurried musical sounds and sunlit spot; no source verb supplied because genuine poetic omission. Resting branch interprets [jp] contextually, literal mistletoe remains possible.",
+   "uncertain": [
+    "Poetic predicate omitted in source and retained as parallel nominal wishes.",
+    "[jp] interpreted as a resting branch; literal mistletoe remains possible.",
+    "[jp] applied metaphorically to melodies; exact licensed poetic wording unverified."
+   ]
+  },
+  {
+   "id": 71,
+   "uses": [
+    "end_mes:73"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "Halt, you who wander... Your name is traveler...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 70
+   },
+   "notes": "Quon imperatively addresses a wandering/lost traveler. Wander preserves the source[jp]/[jp] pairing without assigning a specific person. Traveler title retained.",
+   "uncertain": [
+    "[jp] may mean wandering or being lost; traveler context favors wander.",
+    "Exact licensed poetic wording unverified."
+   ]
+  },
+  {
+   "id": 72,
+   "uses": [
+    "end_mes:74"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "Next time, 'Resuming'...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 71
+   },
+   "notes": "Episode-preview wording quotes ordinary action 'Resuming' as a title; no claim of verified licensed episode title; source ellipsis preserved.",
+   "uncertain": [
+    "Quoted Resuming is source-literal preview title, licensed title unverified."
+   ]
+  },
+  {
+   "id": 73,
+   "uses": [
+    "end_mes:75"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "久遠",
+   "speaker_en": "Quon",
+   "en": "The world is filled with sound...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 72
+   },
+   "notes": "Quon's unfinished world/sound clause retains world and sound without adding outside thematic slogan.",
+   "uncertain": [
+    "Intentional unfinished clause/ellipsis retained; licensed wording unverified."
+   ]
+  },
+  {
+   "id": 74,
+   "uses": [
+    "end_mes:76"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "There are as many people as stars, and as many encounters as stars. And then, partings...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 73
+   },
+   "notes": "Ruri starts another independent farewell sketch. Both star-number comparisons retained; final partings intentionally nominal/trailing.",
+   "uncertain": [
+    "Final nominal omission and trailing partings retained."
+   ]
+  },
+  {
+   "id": 75,
+   "uses": [
+    "end_mes:77"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Thank you for playing today. Your data has been saved.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 74
+   },
+   "notes": "Ruri politely thanks player after today's play and reports completed data save; English natural courtesy for [jp], not literal player exhaustion.",
+   "uncertain": []
+  },
+  {
+   "id": 76,
+   "uses": [
+    "end_mes:78"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Omoikane and I will take care of the rest, so you can turn off the power without worrying.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 75
+   },
+   "notes": "Ruri asks player to turn power off; she and Omoikane will handle rest, explicit subject/action and causal reassurance.",
+   "uncertain": [
+    "settled_subject_restored",
+    "request_direction"
+   ]
+  },
+  {
+   "id": 77,
+   "uses": [
+    "end_mes:79"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "We'll be apart for a while... Please come back and resume playing soon.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 76
+   },
+   "notes": "Ruri farewell requests player resume soon, not an offer by Ruri; temporary separation retained.",
+   "uncertain": [
+    "request_direction",
+    "temporary_separation"
+   ]
+  },
+  {
+   "id": 78,
+   "uses": [
+    "end_mes:80",
+    "end_mes:87"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Well, then...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 77
+   },
+   "notes": "Source short farewell trails off; both bounded sketches share identical wording, no invented completion.",
+   "uncertain": [
+    "retained_source_short_farewell",
+    "two_bounded_uses"
+   ]
+  },
+  {
+   "id": 79,
+   "uses": [
+    "end_mes:81"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Hello. I'm Lieutenant Commander Ruri Hoshino of the United Space Force (UESF).",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 78
+   },
+   "notes": "Ruri self-introduction: full name, scoped naval rank and exact main organization; no army Major substitution.",
+   "uncertain": [
+    "main_organization",
+    "scoped_rank_provenance"
+   ]
+  },
+  {
+   "id": 80,
+   "uses": [
+    "end_mes:82"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Thank you very much for purchasing this product.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 79
+   },
+   "notes": "Polite product-purchase thanks addressed to player.",
+   "uncertain": [
+    "settled_player_addressee"
+   ]
+  },
+  {
+   "id": 81,
+   "uses": [
+    "end_mes:83"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Please continue to support the Super Robot Wars series...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 80
+   },
+   "notes": "Ruri requests continued support for named series; no additional sequel or episode claim.",
+   "uncertain": [
+    "series_title",
+    "trailing_request"
+   ]
+  },
+  {
+   "id": 82,
+   "uses": [
+    "end_mes:84"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Huh? This one is too long? You want a catchphrase?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 81
+   },
+   "notes": "Ruri responds to unstated demand about long closing message and catchphrase; restored question verbs, inferred request flagged.",
+   "uncertain": [
+    "inferred_unspoken_request",
+    "questions_restored"
+   ]
+  },
+  {
+   "id": 83,
+   "uses": [
+    "end_mes:85"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Even if you say that, I'm still the Real Robot type, after all, so... ...Well, then...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 82
+   },
+   "notes": "Ruri metatextual Real Robot category explains difficulty with catchphrase; source causal cutoff and hesitations retained. Central supplement registers source category + Akurasu category stem; no independent Ruri classification or mechanics inferred.",
+   "uncertain": [
+    "metatextual_category",
+    "provisional_term",
+    "retained_causal_cutoff",
+    "real_robot_type_exact_licensed_wording_unverified"
+   ]
+  },
+  {
+   "id": 84,
+   "uses": [
+    "end_mes:86"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "\"The twinkling of stars is people's feelings\"... You'll find the rest in the game.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 83
+   },
+   "notes": "Quoted source slogan left at actual ending; following game direction restores omitted action, no external slogan completion.",
+   "uncertain": [
+    "source_quote_literal",
+    "no_external_quote_completion",
+    "inferred_omitted_action",
+    "source_continuation_not_completed_from_external_quote"
+   ]
+  },
+  {
+   "id": 85,
+   "uses": [
+    "end_mes:88"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "...Have you changed...?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 84
+   },
+   "notes": "Hari is reading manga dialogue: second-person referent unknown, no automatic Ruri identification.",
+   "uncertain": [
+    "manga_reading_referent_unresolved"
+   ]
+  },
+  {
+   "id": 86,
+   "uses": [
+    "end_mes:89"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Even as I say that... I'm afraid of changing, too... Two people drifting apart in their hearts... 'To be continued in the September issue,' huh.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 85
+   },
+   "notes": "Manga inner voice and two drifting people are quoted reading; September issue continuation and Hari huh retained, no character identities invented.",
+   "uncertain": [
+    "manga_reading_referents_unresolved",
+    "september_issue",
+    "retained_source_fragments"
+   ]
+  },
+  {
+   "id": 87,
+   "uses": [
+    "end_mes:90"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Ah, Captain...",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 86
+   },
+   "notes": "Hari says Captain after reading; addressee Ruri settled by next reply, private romantic intent unconfirmed.",
+   "uncertain": [
+    "settled_captain_addressee",
+    "intent_not_invented"
+   ]
+  },
+  {
+   "id": 88,
+   "uses": [
+    "end_mes:91"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "What is it?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 87
+   },
+   "notes": "Ruri responds to Hari addressing Captain; subject/verb question restored.",
+   "uncertain": [
+    "settled_hari_addressee"
+   ]
+  },
+  {
+   "id": 89,
+   "uses": [
+    "end_mes:92"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "Waaaaaaaah!?",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 88
+   },
+   "notes": "Hari screams on realizing Ruri heard/saw reading; source elongated reaction retained without added claim.",
+   "uncertain": [
+    "elongated_reaction"
+   ]
+  },
+  {
+   "id": 90,
+   "uses": [
+    "end_mes:93"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ルリ",
+   "speaker_en": "Ruri",
+   "en": "Even though the save is complete, you mustn't read manga while we're at battle stations.",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 89
+   },
+   "notes": "Ruri admonishes manga reading at battle stations despite save completion; source contrast and prohibition retained.",
+   "uncertain": [
+    "settled_we_battle_stations",
+    "contrast_prohibition"
+   ]
+  },
+  {
+   "id": 91,
+   "uses": [
+    "end_mes:94"
+   ],
+   "kind": "dialogue",
+   "speaker_jp": "ハーリー",
+   "speaker_en": "Hari",
+   "en": "C-Captaaain!!",
+   "translation_owner": {
+    "source": "work/translation/en/script/stage58_campaign.json",
+    "id": 90
+   },
+   "notes": "Hari stutters elongated Captain cry; frozen Hari speaker unchanged, no nickname substitution in speaker.",
+   "uncertain": [
+    "stutter",
+    "elongated_address"
+   ]
+  }
+ ],
+ "translation_model_tag": "sol61medium",
+ "context_review_pending": false,
+ "full_checks": {
+  "rows": 92,
+  "uses": 95,
+  "problems": []
+ },
+ "context_review": {
+  "stage": 58,
+  "fingerprint": "2f03c5f6c3bda0ec903c9ecec2f7f2fff3f96ba83ff775a9bb30423ee9203f16",
+  "reviewed_reused_ids": [
+   38
+  ],
+  "reviewed_reused_rows": 1,
+  "source_uncertainties_retained": true,
+  "reviewer": "coordinator",
+  "note": "Coordinator paired-read all 91 fresh sources/finals and flags. Independently matched all 92 full rows and 95 original uses to208 commands in14 separate selected closing sketches; checked all5 repeated uses and the inherited Akito reaction with bounded final neighbors. First13 sketches jump to common exit203; final sketch falls through. Six immutable drafts and actual native-font metrics verified; no initial or final overflows. Retained verbal tics, false preview titles, D-3 Custom and SRW source abbreviations, literal poems with ambiguity/provenance flags, incomplete quotes, identity switches, player advice and manga referents. No cross-sketch narrative, playtest or release claim."
+ }
+}
