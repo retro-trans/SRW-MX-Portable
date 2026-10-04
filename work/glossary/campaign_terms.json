@@ -4818,6 +4818,174 @@
     "https://akurasu.net/wiki/Master_Unit_List"
    ],
    "notes": "Akurasu established GM unit stem; stage48 source is already fullwidth Latin GM in a mass-production example. Retain ASCII GM without model number, full-name expansion or combat facts."
+  },
+  {
+   "jp": "妖魔大帝バラオ",
+   "en": "Demon Emperor Barao",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/SC2/Unit_List",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Impact/Unit_Database"
+   ],
+   "notes": "Exact Akurasu Japanese/English title pair; source-short Barao stays short. Different source title from main Great Demon Emperor Barao, not a replacement for it. No Akurasu override."
+  },
+  {
+   "jp": "統括部六課",
+   "en": "Section 6 of the Administrative Department",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:54",
+    "work/glossary/campaign_terms.json:連邦政府統括部",
+    "https://srw.wiki.cre.jp/wiki/弐神譲二",
+    "https://srw.wiki.cre.jp/wiki/ムトロポリス"
+   ],
+   "notes": "Source-short literal subdivision uses existing Administrative Department stem. No exact Akurasu English entry found; SRWwiki corroborates game affiliation only. Licensed English designation remains unverified. Do not expand short source to Federation Government, original-series United Nations, Strategic Intelligence Division or disclose hidden identity."
+  },
+  {
+   "jp": "フィフス",
+   "en": "Fifth",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:129",
+    "work/glossary/glossary.json:フィフスチルドレン"
+   ],
+   "notes": "Source-short ordinal designation retains existing Fifth Child stem without expanding Child or disclosing Kaworu. No exact Akurasu short-label entry found; source-grounded ordinary English ordinal, licensed dialogue wording unverified."
+  },
+  {
+   "jp": "ＪＡ",
+   "en": "JA",
+   "aliases": [
+    "JA"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/Neon_Genesis_Evangelion/Shinji_Ikari",
+    "work/translation/en/script/stage49_campaign.json:215"
+   ],
+   "notes": "Source initials retained. Akurasu identifies Jet Alone in Shinji profile, but do not expand source-short JA or add facts about its reactor. No Akurasu override."
+  },
+  {
+   "jp": "リリン",
+   "en": "Lilin",
+   "sources": [
+    "https://wiki.evageeks.org/Lilin"
+   ],
+   "notes": "No exact Akurasu entry found. EvaGeeks gives explicit リリン/Lilin pair and notes original localizations differ (ADV Lilim versus Manga Lilin). Use Lilin consistently, no imported Rebuild lore or identification beyond source. MX licensed spelling unverified."
+  },
+  {
+   "jp": "白き月",
+   "en": "White Moon",
+   "sources": [
+    "https://wiki.evageeks.org/White_Moon",
+    "work/translation/en/script/stage49_campaign.json:544"
+   ],
+   "notes": "No exact Akurasu entry found. Secondary EvaGeeks supports ordinary English name; no additional origin chronology or planetary mechanism imported. Exact licensed MX wording unverified."
+  },
+  {
+   "jp": "ガフの部屋",
+   "en": "Chamber of Guf",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:342",
+    "https://www.evamonkey.com/writings/magi-archives-central-dogma.php",
+    "https://wiki.evageeks.org/Rei_Ayanami"
+   ],
+   "notes": "No exact Akurasu entry found. Secondary Magi Archives reproduction uses Chamber of Gaf and EvaGeeks uses Doors of Guf, showing transliteration variation. Source-literal chamber with Guf stem selected; exact licensed MX rendering unverified. Preserve difference between chamber and source-short Guf door label; do not add souls/lore not stated."
+  },
+  {
+   "jp": "第二コキュートス",
+   "en": "second Cocytus",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:850"
+   ],
+   "notes": "No exact Akurasu/primary licensed English designation found. Source ordinal and conventional Cocytus transliteration retained; label denotes passed location in source. Do not import Rebuild Bethany Base containment-system mechanics. Exact MX English remains unverified."
+  },
+  {
+   "jp": "ヘヴンズドア",
+   "en": "Heaven's Door",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:881",
+    "https://evangelion.fandom.com/wiki/NERV_Headquarters"
+   ],
+   "notes": "No exact Akurasu entry found. Source English loanword and apostrophe retained; secondary NERV Headquarters supports room-door name only. Do not substitute Heaven’s Gate or add functions/room facts; licensed MX English unverified."
+  },
+  {
+   "jp": "無限力",
+   "en": "Infinite Power",
+   "sources": [
+    "https://akurasu.net/wiki/Space_Runaway_Ideon",
+    "https://srw.wiki.cre.jp/wiki/渚カヲル",
+    "work/translation/en/script/stage49_campaign.json:968"
+   ],
+   "notes": "Source-short compact form follows stage43 approved Infinite Power stem for 無限の力; Akurasu related title corroborates words, not MX entity. SRWwiki explicitly corroborates MX reincarnation reference only. Exact licensed MX nomenclature unverified. Do not identify Ide or expand Infinite Positivity/Negativity."
+  },
+  {
+   "jp": "約束の地",
+   "en": "Promised Land",
+   "sources": [
+    "https://akurasu.net/wiki/MXPFlow_Chart"
+   ],
+   "notes": "Exact Akurasu final scenario title pair supports English stem. Article varies with sentence grammar; no location or mythology added."
+  },
+  {
+   "jp": "心理グラフ",
+   "en": "psychological graph",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json"
+   ],
+   "notes": "No exact Akurasu entry found. Provisional source-literal display description; licensed MX English unverified. Unofficial Evangelion psychograph/psychogram variants do not establish exact game wording. No added measurement mechanism."
+  },
+  {
+   "jp": "精神防壁",
+   "en": "mental barrier",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:399"
+   ],
+   "notes": "No exact Akurasu entry found. Provisional source-literal technical description, licensed MX wording unverified. Retain stated LCL relationship without adding mechanism or other-series lore."
+  },
+  {
+   "jp": "最後のシ者",
+   "en": "Final Messenger",
+   "sources": [
+    "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Timetable",
+    "https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Secrets",
+    "https://www.evangelion.jp/ng.html",
+    "work/translation/en/script/stage49_campaign.json:545"
+   ],
+   "notes": "Exact Akurasu Japanese/English scenario title pair; official Evangelion episode list confirms the Japanese title. In dialogue use final messenger with ordinary sentence capitalization. Preserve the preceding messenger noun and flag unreproducible katakana shi-sha wordplay; do not replace the written phrase by an explanatory Angel sentence. No added lore or Akurasu override."
+  },
+  {
+   "jp": "センセ",
+   "en": "Sensei",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:695",
+    "https://srw.wiki.cre.jp/wiki/鈴原トウジ"
+   ],
+   "notes": "Scoped fixed nickname used by Toji addressing Shinji; immediate Shinji reply confirms addressee. No exact Akurasu nickname entry found; SRWwiki quotes the recurring short address. Provisional romanization with exact licensed MX English nickname unverified. Do not map generic 先生, retain decorative honorific dropping elsewhere, or conflate with Shinji biography teacher."
+  },
+  {
+   "jp": "多元世界補完計画",
+   "en": "Multiverse Instrumentality Project",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:819",
+    "https://srw.wiki.cre.jp/wiki/多元世界補完計画",
+    "https://srw.wiki.cre.jp/wiki/人類補完計画"
+   ],
+   "notes": "No exact Akurasu English label found. Provisional source-literal compound retains main Human Instrumentality Project stem. SRWwiki corroborates MX title only and explicitly labels its wider plot interpretation inferred, not confirmed; do not import those theories or other-game cosmology. Exact licensed MX English designation unverified."
+  },
+  {
+   "jp": "リリス",
+   "en": "Lilith",
+   "sources": [
+    "https://akurasu.net/wiki/Shinji_Ikari",
+    "work/translation/en/script/stage49_campaign.json:812",
+    "work/translation/en/script/stage49_campaign.json:899"
+   ],
+   "notes": "Akurasu Shinji Ikari biography identifies the Evangelion entity as Lilith. Use the name stem only; do not import original-anime or other-game plot details into MX. No Akurasu override."
+  },
+  {
+   "jp": "ガフの扉",
+   "en": "door of Guf",
+   "sources": [
+    "work/translation/en/script/stage49_campaign.json:914",
+    "https://wiki.evageeks.org/Chamber_of_Guf"
+   ],
+   "notes": "No exact Akurasu English label found. Source-literal door uses the existing Chamber of Guf spelling. Keep door distinct from chamber; exact licensed MX wording remains unverified. No added mechanism or lore."
   }
  ],
  "characters": [

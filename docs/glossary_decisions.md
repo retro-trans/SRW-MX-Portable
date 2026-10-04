@@ -808,3 +808,81 @@ Stage 48’s final spelling pass uses existing Akurasu MX **Medifo** at three
 occurrences; the incorrect Midifo variant appeared only in the current packet,
 with no earlier completed assembly affected. Every corrected final row fits;
 initial drafts remain unchanged.
+
+## Stage 49 terminology review — 2026-10-04
+
+**Demon Emperor Barao** follows the exact Japanese/English titled pair in
+[Akurasu SC2 Unit List](https://akurasu.net/wiki/Super_Robot_Wars/SC2/Unit_List)
+and [Impact Unit Database](https://akurasu.net/wiki/Super_Robot_Wars/Impact/Unit_Database).
+The different existing Great Demon Emperor title and source-short Barao remain
+unchanged. **T.J. Buster** already exists with the fullwidth alias in the stage
+40 campaign glossary; retain its source letters and do not expand Tokyo Jupiter.
+
+**Section 6 of the Administrative Department** uses the game’s short organization
+label and existing Administrative Department stem. No exact Akurasu English
+entry was found; [SRWwiki Futagami](https://srw.wiki.cre.jp/wiki/弐神譲二) and
+[Mutropolis](https://srw.wiki.cre.jp/wiki/ムトロポリス) corroborate affiliation,
+not licensed English nomenclature. Do not add Federation Government, United
+Nations, Strategic Intelligence or an unrevealed true name to this short source.
+
+**Fifth** preserves the source-short ordinal of the existing Fifth Child label.
+No exact Akurasu short-label entry was found; the English ordinal is source
+grounded with licensed dialogue wording unverified. Do not expand Child or
+disclose Kaworu before the source does. These decisions do not override Akurasu.
+
+Stage 49 supplemental labels: **JA** retains source initials;
+[Akurasu Shinji profile](https://akurasu.net/wiki/Neon_Genesis_Evangelion/Shinji_Ikari)
+identifies Jet Alone, without requiring expansion in dialogue. No exact Akurasu
+entries were found for **Lilin**, **White Moon**, **Chamber of Guf**,
+**second Cocytus** or **Heaven’s Door**. [EvaGeeks Lilin](https://wiki.evageeks.org/Lilin)
+records the explicit Japanese pair and original-localization Lilim/Lilin
+variation; the project consistently uses Lilin.
+[White Moon](https://wiki.evageeks.org/White_Moon) supports the English stem.
+[Magi Archives](https://www.evamonkey.com/writings/magi-archives-central-dogma.php)
+uses Gaf while [EvaGeeks Rei](https://wiki.evageeks.org/Rei_Ayanami) uses Guf;
+Chamber of Guf is a source-literal selection with licensed MX spelling unverified.
+Second Cocytus remains a source ordinal and conventional transliteration,
+without importing Rebuild containment mechanics.
+[NERV Headquarters](https://evangelion.fandom.com/wiki/NERV_Headquarters) supports
+Heaven’s Door as a label, without establishing licensed MX dialogue wording.
+
+Compact **Infinite Power** follows the earlier approved stage 43 stem;
+[SRWwiki Kaworu](https://srw.wiki.cre.jp/wiki/渚カヲル) corroborates MX’s reincarnation
+reference. The related Akurasu Ideon title establishes only the English words;
+do not add Ide identity or Infinite Positivity/Negativity. Generic second
+buildup phase, Section 1 and missing numbers stay descriptive source language.
+Every stated licensed-provenance limitation remains explicit in working files.
+
+**Promised Land** follows the exact final-scenario title pair in
+[Akurasu MXP Flow Chart](https://akurasu.net/wiki/MXPFlow_Chart); articles vary
+with sentence grammar. No exact Akurasu entries were found for **psychological
+graph** or **mental barrier**. These remain provisional source-literal
+descriptions, with licensed MX English unverified. Unofficial psychograph or
+psychogram variants do not establish exact game wording; no technical
+mechanism or lore is added.
+
+**Final Messenger** follows the exact title pair in
+[Akurasu Alpha Timetable](https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Timetable)
+and [Secrets](https://akurasu.net/wiki/Super_Robot_Wars/Alpha/Secrets). The
+[official Evangelion episode list](https://www.evangelion.jp/ng.html) confirms
+the Japanese episode title. Dialogue keeps the messenger repetition; the
+katakana wordplay remains flagged rather than adding an explanatory Angel
+sentence. This is a sourced term choice, with no additional lore.
+
+**Sensei** preserves Toji’s fixed short nickname for Shinji in the source;
+the immediate reply establishes the addressee. No exact Akurasu nickname
+entry was found. [SRWwiki Toji](https://srw.wiki.cre.jp/wiki/鈴原トウジ)
+corroborates the recurring address but not licensed MX English spelling.
+This scoped exception does not change generic teacher/honorific treatment or
+identify Shinji with the teacher in his biography.
+
+**Multiverse Instrumentality Project** is a provisional source-literal
+compound using the existing Instrumentality Project stem. No exact Akurasu
+English title was found. [SRWwiki’s entry](https://srw.wiki.cre.jp/wiki/多元世界補完計画)
+corroborates the MX name and explicitly calls its wider plot interpretation
+inferred, not confirmed. Only the label is used; those theories and other-game
+cosmology are not imported. Exact licensed MX wording remains unverified.
+
+**Lilith** follows the Evangelion name in [Akurasu’s Shinji Ikari biography](https://akurasu.net/wiki/Shinji_Ikari). Only the name is adopted; that biography’s original-anime and other-game plot details do not replace MX dialogue.
+
+**door of Guf** is a provisional source-literal phrase using the existing Chamber of Guf spelling, corroborated by [EvaGeeks](https://wiki.evageeks.org/Chamber_of_Guf). No exact Akurasu label was found. The source distinguishes a door from a chamber; exact licensed MX wording remains unverified.
