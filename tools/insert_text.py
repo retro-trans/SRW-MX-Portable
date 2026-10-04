@@ -106,6 +106,61 @@ def boot_translations():
     return out, bt
 
 
+NARRATION_SCRIPT = 0x273AD4      # records (delay, 7, string pointer); 12 bytes each
+NARRATION_BLANK = 0x285DE8       # '　' (one full-width space): a blank line
+NARRATION_END = 0x286318         # '' : end of a narration
+
+
+def narration_paragraphs(bt):
+    """-> {table name: [[slot vaddr of each line] per paragraph]}, matching narration_slots."""
+    inv = json.load(open(os.path.join(ROOT, 'work/source/text_inventory/boot_strings.json'), encoding='utf-8'))
+    vas = sorted(x['va'] for x in inv if x['category'] == 'narration')
+    tables = sorted((int(v[0], 16), v[1], k) for k, v in bt['narration_tables'].items())
+    out = {}
+    for n, (start, slots, name) in enumerate(tables):
+        end = tables[n + 1][0] if n + 1 < len(tables) else 1 << 32
+        mine = iter(v for v in vas if start <= v < end)
+        out[name] = [[next(mine) for _ in wrap(p, 416)] for p in bt['narration'][name]]
+    return out
+
+
+def patch_narration_script(data, bt, offset=0x60):
+    """Rewrite the opening / ending narration scripts for the English line layout.
+    The Japanese script shows its 32 / 24 lines with blank records between paragraphs at fixed
+    positions, and ends at a record pointing to NARRATION_END (''). English has a different number
+    of lines per paragraph, so each script is refilled: the lines, one blank between paragraphs, the
+    original number of trailing blanks, then the end. Unused line slots are never referenced (an empty slot
+    would act as an end marker and stall the narration). Pointer words keep their relocations."""
+    paras = narration_paragraphs(bt)
+    recs = []
+    o = NARRATION_SCRIPT
+    while True:
+        t, ty, ptr = struct.unpack_from('<iII', data, o + offset)
+        if ty != 7:
+            break
+        recs.append((o, t, ptr))
+        o += 12
+    ends = [i for i, r in enumerate(recs) if r[2] == NARRATION_END]
+    starts = [i for i, r in enumerate(recs) if r[1] == 207]
+    assert len(ends) == 2 and len(starts) == 2, 'narration script differs'
+    for name, first, last in (('opening', starts[0], ends[0]), ('ending', starts[1], ends[1])):
+        seq = []
+        for k, para in enumerate(paras[name]):
+            if k:
+                seq.append(NARRATION_BLANK)
+            seq += para
+        # keep the original run of blank lines after the last text (9 / 20), then end; the opening and
+        # ending scripts have separate start pointers (0x171594 / 0x1715AC), so the end can move up
+        texts = [i for i in range(first, last) if recs[i][2] != NARRATION_BLANK]
+        trail = last - texts[-1] - 1
+        room = last - first
+        seq += [NARRATION_BLANK] * trail
+        assert len(seq) <= room, f'{name}: {len(seq)} records needed, {room} available'
+        seq += [NARRATION_END] * (room - len(seq))
+        for i, ptr in zip(range(first, last), seq):
+            struct.pack_into('<I', data, recs[i][0] + 8 + offset, ptr)
+
+
 def narration_slots(bt):
     """Narration tables: the line strings in address order -> English lines (padded with '')."""
     inv = json.load(open(os.path.join(ROOT, 'work/source/text_inventory/boot_strings.json'), encoding='utf-8'))
@@ -132,6 +187,14 @@ CODE_PATCHES = [
     # pilot status, spirit list: cost "(%3d)" drawn at x+0xD0, the name at x+0x9F (49 px for the
     # name). Moved 14 px right (room to the panel edge: about 6 px left): names up to 63 px fit.
     (0x1F043C, 0x246600D0, 0x246600DE, 'spirit list cost column x+0xD0 -> x+0xDE'),
+    # support / assist command menus: per-item x offsets centred the Japanese (data, no relocations)
+    (0x28BD84, 0x0000001E, 0x0000000F, 'support menus: left-align item at x+15 (was 30, centred Japanese)'),
+    (0x28BD8C, 0x0000000A, 0x0000000F, 'support menus: left-align item at x+15 (was 10, centred Japanese)'),
+    (0x28BD9C, 0x00000014, 0x0000000F, 'support menus: left-align item at x+15 (was 20, centred Japanese)'),
+    (0x28BE04, 0x0000001E, 0x0000000F, 'support menus: left-align item at x+15 (was 30, centred Japanese)'),
+    (0x28BE14, 0x0000001E, 0x0000000F, 'support menus: left-align item at x+15 (was 30, centred Japanese)'),
+    (0x28BE1C, 0x0000000A, 0x0000000F, 'support menus: left-align item at x+15 (was 10, centred Japanese)'),
+    (0x28BE2C, 0x00000014, 0x0000000F, 'support menus: left-align item at x+15 (was 20, centred Japanese)'),
 ]
 
 
@@ -177,6 +240,7 @@ def patch_code(data, offset=0x60):
 def patch_boot(boot):
     data = bytearray(boot)
     patch_code(data)
+    patch_narration_script(data, boot_translations()[1])
     secs = elf(data)
     phoff = struct.unpack_from('<I', data, 28)[0]
     kind, offset, va, pa, filesz, memsz, flags, align = struct.unpack_from('<8I', data, phoff)

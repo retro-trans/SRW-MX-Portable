@@ -43,7 +43,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 102
    },
-   "notes": "本艦 -> 'the ship'. The ship is presumably the Nahel Argama (Bright, Torres, the ZZ crew).",
+   "notes": "[jp] -> 'the ship'. The ship is presumably the Nahel Argama (Bright, Torres, the ZZ crew).",
    "uncertain": [
     "Ship not named in the line; inferred from the speakers."
    ]
@@ -95,7 +95,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 105
    },
-   "notes": "も = the enemy is heading to Earth just like the ship.",
+   "notes": "[jp] = the enemy is heading to Earth just like the ship.",
    "uncertain": []
   },
   {
@@ -154,7 +154,7 @@
    "kind": "dialogue",
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
-   "en": "Yeah, yeah. A moment that feels bad to us feels just as bad to the enemy...",
+   "en": "Yeah, yeah. If it's a bad time for us, it's a bad time for the enemy too...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 109
@@ -191,7 +191,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 111
    },
-   "notes": "元艦長さん: Beecha was formerly the Argama's acting captain (Gundam ZZ).",
+   "notes": "[jp]: Beecha was formerly the Argama's acting captain (Gundam ZZ).",
    "uncertain": []
   },
   {
@@ -319,9 +319,9 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 119
    },
-   "notes": "ブライトさん rendered as plain 'Bright' (no honorific), as is usual in English Gundam translations. Same in rows 132 and 152.",
+   "notes": "[jp] rendered as plain 'Bright' (no honorific), as is usual in English Gundam translations. Same in rows 132 and 152.",
    "uncertain": [
-    "Honorific choice: ブライトさん -> 'Bright' (could be 'Captain Bright'/'Mr. Bright'). This should be kept consistent across slices."
+    "Honorific choice: [jp] -> 'Bright' (could be 'Captain Bright'/'Mr. Bright'). This should be kept consistent across slices."
    ]
   },
   {
@@ -337,7 +337,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 120
    },
-   "notes": "バーム側 -> 'the Baam side'.",
+   "notes": "[jp] -> 'the Baam side'.",
    "uncertain": []
   },
   {
@@ -371,7 +371,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Name: 小バーム is not in the glossary and not in the local akurasu dump; neo-akurasu was unreachable (502). Used 'Little Baam' (English Wikipedia's Tosho Daimos article). Please add it to the glossary. Same in rows 129 and 142."
+    "Name: [jp] is not in the glossary and not in the local akurasu dump; neo-akurasu was unreachable (502). Used 'Little Baam' (English Wikipedia's Tosho Daimos article). Please add it to the glossary. Same in rows 129 and 142."
    ]
   },
   {
@@ -387,7 +387,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 123
    },
-   "notes": "エリカ君 -> 'Erika' (the glossary says female; no pronoun used).",
+   "notes": "[jp] -> 'Erika' (the glossary says female; no pronoun used).",
    "uncertain": []
   },
   {
@@ -403,7 +403,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 124
    },
-   "notes": "[jp] -> 'from the Moon to the Mars sphere'. 地球圏 -> 'Earth Sphere'.",
+   "notes": "[jp] -> 'from the Moon to the Mars sphere'. [jp] -> 'Earth Sphere'.",
    "uncertain": [
     "The subject of row 124 (Little Baam / its people) carries over from rows 122-123."
    ]
@@ -471,7 +471,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 128
    },
-   "notes": "[jp] = Little Baam. チューリップ = Chulip (glossary/decisions).",
+   "notes": "[jp] = Little Baam. [jp] = Chulip (glossary/decisions).",
    "uncertain": []
   },
   {
@@ -487,7 +487,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 129
    },
-   "notes": "ワープ装置 -> 'warp drive'.",
+   "notes": "[jp] -> 'warp drive'.",
    "uncertain": []
   },
   {
@@ -503,9 +503,9 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 130
    },
-   "notes": "な～る -> 'Ahh, I get it'.",
+   "notes": "[jp] -> 'Ahh, I get it'.",
    "uncertain": [
-    "最初に is read as 'at the start' (when Little Baam first appeared in the story)."
+    "[jp] is read as 'at the start' (when Little Baam first appeared in the story)."
    ]
   },
   {
@@ -571,7 +571,7 @@
    },
    "notes": "[jp] -> 'the hospital on La Vie en Rose' (the supply ship).",
    "uncertain": [
-    "Kept omission: 'They say' stands in for the unnamed source of the medical opinion (～そうです)."
+    "Kept omission: 'They say' stands in for the unnamed source of the medical opinion ([jp])."
    ]
   },
   {
@@ -603,7 +603,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 136
    },
-   "notes": "あの子達 -> 'those kids' (gender-neutral, true to the source).",
+   "notes": "[jp] -> 'those kids' (gender-neutral, true to the source).",
    "uncertain": []
   },
   {
@@ -669,7 +669,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 140
    },
-   "notes": "無理もない -> 'No wonder'. [jp] -> 'Haman Karn' (full name, as in the source).",
+   "notes": "[jp] -> 'No wonder'. [jp] -> 'Haman Karn' (full name, as in the source).",
    "uncertain": []
   },
   {
@@ -701,7 +701,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 142
    },
-   "notes": "Leads into row 143, where the subject 'he' = Judau (あいつ).",
+   "notes": "Leads into row 143, where the subject 'he' = Judau ([jp]).",
    "uncertain": [
     "[jp] -> 'the battle to liberate Little Baam' (event name not in the glossary)."
    ]
@@ -735,7 +735,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 144
    },
-   "notes": "仕掛けてきた -> 'came after us'.",
+   "notes": "[jp] -> 'came after us'.",
    "uncertain": []
   },
   {
@@ -879,7 +879,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 153
    },
-   "notes": "だろう -> 'likely'.",
+   "notes": "[jp] -> 'likely'.",
    "uncertain": []
   },
   {
@@ -913,7 +913,7 @@
    },
    "notes": "[jp] = the Nadesico's former captain (in canon Yurika Misumaru, presumed dead in Prince of Darkness). Roux does not name them, so I added no name and no pronoun.",
    "uncertain": [
-    "Gender: the source gives none; I avoided a pronoun. Ending 'passed away, right...?' for ～のよね…"
+    "Gender: the source gives none; I avoided a pronoun. Ending 'passed away, right...?' for [jp]…"
    ]
   },
   {
@@ -945,7 +945,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 157
    },
-   "notes": "あいつら = the Titans (row 156). 蜥蜴戦争 -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
+   "notes": "[jp] = the Titans (row 156). [jp] -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
    "uncertain": [
     "Referent: 'those guys' = the Titans (inferred from row 156)."
    ]
@@ -965,7 +965,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Name: the source says グリプス戦争 (Gryps War); the glossary entry is グリプス戦役 = 'Gryps Conflict'. I used 'Gryps Conflict' for consistency. Please confirm."
+    "Name: the source says [jp] (Gryps War); the glossary entry is [jp] = 'Gryps Conflict'. I used 'Gryps Conflict' for consistency. Please confirm."
    ]
   },
   {
@@ -981,7 +981,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 159
    },
-   "notes": "という話だ -> 'the word is'.",
+   "notes": "[jp] -> 'the word is'.",
    "uncertain": []
   },
   {
@@ -1213,7 +1213,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Name question: エレズム is not in the glossary. Used 'Ereism' (the Gundam UC romanization I found on a wiki via search). Alternative spelling: 'Elezm'. Not checked on akurasu.net."
+    "Name question: [jp] is not in the glossary. Used 'Ereism' (the Gundam UC romanization I found on a wiki via search). Alternative spelling: 'Elezm'. Not checked on akurasu.net."
    ]
   },
   {
@@ -1249,7 +1249,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Continues 174, so it starts lowercase. Source says グリプス戦争 (War); I used the glossary's 'Gryps Conflict' (its entry is for グリプス戦役) to stay consistent. Used 'Lizard War' from the glossary's 'Lizard War (Jovian War)'."
+    "Continues 174, so it starts lowercase. Source says [jp] (War); I used the glossary's 'Gryps Conflict' (its entry is for [jp]) to stay consistent. Used 'Lizard War' from the glossary's 'Lizard War (Jovian War)'."
    ]
   },
   {
@@ -1408,7 +1408,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+    "[jp] rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
    ]
   },
   {
@@ -1446,7 +1446,7 @@
    },
    "notes": "",
    "uncertain": [
-    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+    "[jp] = Leina (Jim is Leina's servant) -> 'Milady'; [jp] -> 'Master Rom'."
    ]
   },
   {
@@ -1465,7 +1465,7 @@
    },
    "notes": "",
    "uncertain": [
-    "くれる object not stated; 'for me' / 'for anyone' chosen."
+    "[jp] object not stated; 'for me' / 'for anyone' chosen."
    ]
   },
   {
@@ -1484,7 +1484,7 @@
    },
    "notes": "",
    "uncertain": [
-    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+    "[jp] has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
    ]
   },
   {
@@ -1537,7 +1537,7 @@
    },
    "notes": "",
    "uncertain": [
-    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+    "[jp]: Rom asks the listener (his allies) to take over; listener not named."
    ]
   },
   {
@@ -1577,7 +1577,7 @@
    },
    "notes": "",
    "uncertain": [
-    "やられた has no subject; 'They got me' (agent unspecified)."
+    "[jp] has no subject; 'They got me' (agent unspecified)."
    ]
   },
   {
@@ -1710,7 +1710,7 @@
    },
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+    "speaker_en was empty; filled from glossary [jp] = 'Mass-produced EVA'."
    ]
   },
   {
@@ -1803,7 +1803,7 @@
    },
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+    "speaker_en was empty; [jp] speaker filled as 'Gulfer' (glossary term [jp], do_not_touch). Probably the generic Gulfer soldier unit ([jp] = 'Gulfer Soldier'); kept the shorter in-game label."
    ]
   },
   {
@@ -1822,7 +1822,7 @@
    },
    "notes": "",
    "uncertain": [
-    "お館様 kept as 'Oyakata-sama' per glossary term."
+    "[jp] kept as 'Oyakata-sama' per glossary term."
    ]
   },
   {
@@ -1875,7 +1875,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+    "[jp] has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
    ]
   },
   {
@@ -1898,7 +1898,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+    "[jp] has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
    ]
   },
   {
@@ -2016,7 +2016,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+    "[jp] has no subject; rendered as 'bailing out' (Hikaru herself)."
    ]
   },
   {
@@ -2069,7 +2069,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+    "[jp] / [jp]: subject 'I' inferred (Saburota about himself)."
    ]
   },
   {
@@ -2143,7 +2143,7 @@
    },
    "notes": "",
    "uncertain": [
-    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+    "[jp] ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
    ]
   },
   {
@@ -2181,7 +2181,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+    "[jp] = Meio (captain) -> 'Captain, sir'."
    ]
   },
   {
@@ -2200,7 +2200,7 @@
    },
    "notes": "",
    "uncertain": [
-    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+    "[jp] rendered 'you'll pay for this' (stock threat)."
    ]
   },
   {
@@ -2253,7 +2253,7 @@
    },
    "notes": "",
    "uncertain": [
-    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+    "[jp]: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
    ]
   },
   {
@@ -2272,7 +2272,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大佐 = Gon Jem (colonel)."
+    "[jp] = Gon Jem (colonel)."
    ]
   },
   {
@@ -2327,7 +2327,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio."
+    "[jp] = Meio."
    ]
   },
   {
@@ -2386,7 +2386,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+    "[jp]: impersonal 'that's all for today' kept (Min retreating)."
    ]
   },
   {
@@ -2439,7 +2439,7 @@
    },
    "notes": "",
    "uncertain": [
-    "なんという… trails off in the source; kept the omission."
+    "[jp]… trails off in the source; kept the omission."
    ]
   },
   {
@@ -3047,7 +3047,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 347
    },
-   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full [jp] remains Ryoma.",
    "uncertain": [
     "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
    ]
@@ -5281,7 +5281,7 @@
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 78
    },
-   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank 大佐 to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
+   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank [jp] to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
    "uncertain": []
   },
   {
@@ -8155,7 +8155,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Restored the subject as 'the Federation' (source has none). Inferred that 'them' is Giganos from the earlier scene; the source only says 彼ら."
+    "Restored the subject as 'the Federation' (source has none). Inferred that 'them' is Giganos from the earlier scene; the source only says [jp]."
    ]
   },
   {
@@ -8253,7 +8253,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Added 'They have asked' to match the source's passive 'a request came'. 特機 is not in the glossary; I used 'super robots'."
+    "Added 'They have asked' to match the source's passive 'a request came'. [jp] is not in the glossary; I used 'super robots'."
    ]
   },
   {
@@ -8290,7 +8290,7 @@
    },
    "notes": "",
    "uncertain": [
-    "司令 rendered as 'Commander'. Federation Space Force (連邦宇宙軍) is not in the glossary."
+    "[jp] rendered as 'Commander'. Federation Space Force ([jp]) is not in the glossary."
    ]
   },
   {
@@ -8356,7 +8356,7 @@
    },
    "notes": "",
    "uncertain": [
-    "特機部隊 rendered as 'super robot unit'."
+    "[jp] rendered as 'super robot unit'."
    ]
   },
   {
@@ -8374,7 +8374,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Inferred referent: 'their teamwork' (彼らの連携) means the cooperation between the super robot groups and ships just named. The source leaves this open."
+    "Inferred referent: 'their teamwork' ([jp]) means the cooperation between the super robot groups and ships just named. The source leaves this open."
    ]
   },
   {
@@ -8442,7 +8442,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Direction for お願いします: Saotome is asking Umon to follow through on his offer of help, so I wrote 'I'm grateful. Please do.'"
+    "Direction for [jp]: Saotome is asking Umon to follow through on his offer of help, so I wrote 'I'm grateful. Please do.'"
    ]
   },
   {
@@ -8460,7 +8460,7 @@
    },
    "notes": "",
    "uncertain": [
-    "例のUFO rendered as 'those UFOs' (the ones both scientists already know about)."
+    "[jp]UFO rendered as 'those UFOs' (the ones both scientists already know about)."
    ]
   },
   {
@@ -8526,7 +8526,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Kept the source's 'they' (彼ら) unresolved. From context it is probably the UFO aliens (or possibly the Federation); Umon's thought does not say."
+    "Kept the source's 'they' ([jp]) unresolved. From context it is probably the UFO aliens (or possibly the Federation); Umon's thought does not say."
    ]
   },
   {
@@ -8590,9 +8590,9 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 206
    },
-   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full [jp] remains Ryoma.",
    "uncertain": [
-    "Restored 'I came' to finish the sentence begun in 205. リョウ君 = Ryoma (glossary en_short) and 洸 = Akira (Hibiki, glossary)."
+    "Restored 'I came' to finish the sentence begun in 205. [jp] = Ryoma (glossary en_short) and [jp] = Akira (Hibiki, glossary)."
    ]
   },
   {
@@ -8694,7 +8694,7 @@
    },
    "notes": "",
    "uncertain": [
-    "団兵衛さん rendered as 'Danbei' (glossary en_short); the honorific was dropped."
+    "[jp] rendered as 'Danbei' (glossary en_short); the honorific was dropped."
    ]
   },
   {
@@ -8970,7 +8970,7 @@
    },
    "notes": "",
    "uncertain": [
-    "父さん rendered as 'Father' to match Daisuke's polite register."
+    "[jp] rendered as 'Father' to match Daisuke's polite register."
    ]
   },
   {
@@ -9052,7 +9052,7 @@
    },
    "notes": "",
    "uncertain": [
-    "Free rendering of それより ('Never mind that')."
+    "Free rendering of [jp] ('Never mind that')."
    ]
   },
   {
@@ -9184,7 +9184,7 @@
    },
    "notes": "",
    "uncertain": [
-    "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' (奴ら) is left unnamed as in the source."
+    "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' ([jp]) is left unnamed as in the source."
    ]
   },
   {
@@ -9353,7 +9353,7 @@
    },
    "notes": "",
    "uncertain": [
-    "あんな物 ('that thing') left unnamed as in the source (it is Grendizer, not yet revealed)."
+    "[jp] ('that thing') left unnamed as in the source (it is Grendizer, not yet revealed)."
    ]
   },
   {
@@ -14563,9 +14563,14 @@
  ],
  "translation_model_tag": "sol61medium",
  "context_review_pending": false,
+ "full_checks": {
+  "rows": 873,
+  "uses": 1221,
+  "problems": []
+ },
  "context_review": {
   "stage": 1,
-  "fingerprint": "2bd177d0c7777359699bc4bd40b58cd337aba221a848e2a3488448ab086149d7",
+  "fingerprint": "1d48184460dbeeeabc377078f9e1537ced7eb068c2a3c7d8dbb853e8124cd572",
   "reviewed_reused_ids": [
    0,
    1,
@@ -14869,11 +14874,6 @@
   "reviewed_reused_rows": 298,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
- },
- "full_checks": {
-  "rows": 873,
-  "uses": 1221,
-  "problems": []
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Pre-build coordinator reviewed the only subsequent English delta, FULL7 Beecha timing comparison, against original i00r1b:5-9. Equivalent prologue109 checked at i001b:109-113; prologue30 now explicitly identifies the closer of two ships, verified in all three original uses with prior two-ship references. Reconstructed prior stage1 fingerprint exactly matches previous review; labels, kinds, source and uses unchanged. Actual font fit rechecked for all current source rows."
  }
 }

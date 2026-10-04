@@ -50,7 +50,7 @@
    "en": "The Medius is ready for launch. And what of the pilot?",
    "notes": "",
    "uncertain": [
-    "'Medius' kept as the in-universe short form of Medius Locus (JP uses メディウス here and in rows 54, 83, 88 contrasts both forms). Not in glossary as a separate entry."
+    "'Medius' kept as the in-universe short form of Medius Locus (JP uses [jp] here and in rows 54, 83, 88 contrasts both forms). Not in glossary as a separate entry."
    ],
    "lines": 2,
    "px": 337
@@ -189,7 +189,7 @@
    "en": "It is by no means that their abilities are lacking.",
    "notes": "",
    "uncertain": [
-    "Restored subject 'their abilities' (彼らの能力)."
+    "Restored subject 'their abilities' ([jp])."
    ],
    "lines": 2,
    "px": 305
@@ -254,7 +254,7 @@
    "en": "I simply believe they are not a fitting match for that child.",
    "notes": "",
    "uncertain": [
-    "相手 read as 'match' (could be partner or opponent for AI1; Mitar's 'handicap' reply in row 20 suggests opponents). 'a fitting match' keeps both readings."
+    "[jp] read as 'match' (could be partner or opponent for AI1; Mitar's 'handicap' reply in row 20 suggests opponents). 'a fitting match' keeps both readings."
    ],
    "lines": 2,
    "px": 347
@@ -304,7 +304,7 @@
    "en": "...Why did you give the TE Engine to their unit instead?",
    "notes": "",
    "uncertain": [
-    "あちらの機体 rendered 'their unit' = the protagonists' #機体名 (inferred from rows 19-21)."
+    "[jp] rendered 'their unit' = the protagonists' #機体名 (inferred from rows 19-21)."
    ],
    "lines": 2,
    "px": 333
@@ -322,7 +322,7 @@
    "en": "I believe leaving its control to AI1 as well would produce far better results.",
    "notes": "",
    "uncertain": [
-    "あれの制御 = control of the TE Engine; rendered 'its control'."
+    "[jp] = control of the TE Engine; rendered 'its control'."
    ],
    "lines": 2,
    "px": 352
@@ -420,7 +420,7 @@
    "en": "On that matter, I have no choice but to leave it to them and to you, Doctor.",
    "notes": "",
    "uncertain": [
-    "彼ら rendered 'them'; inferred to be the two pilots (rows 6-11), but could be the unnamed group of rows 28/32. Kept neutral."
+    "[jp] rendered 'them'; inferred to be the two pilots (rows 6-11), but could be the unnamed group of rows 28/32. Kept neutral."
    ],
    "lines": 2,
    "px": 341
@@ -468,7 +468,7 @@
    "en": "According to their scenario, the deterrent forces will gather on those two ships.",
    "notes": "",
    "uncertain": [
-    "[jp]: 'their' = an unnamed group Mitar works with; referent not settled in scene, kept as 'their'. 抑止力 rendered 'deterrent forces'."
+    "[jp]: 'their' = an unnamed group Mitar works with; referent not settled in scene, kept as 'their'. [jp] rendered 'deterrent forces'."
    ],
    "lines": 2,
    "px": 321
@@ -486,7 +486,7 @@
    "en": "If you keep watch on them, you should meet all sorts of subjects to gather data from.",
    "notes": "",
    "uncertain": [
-    "Subject restored as 'you' (Eldy is the one going after the ships per rows 26/30). マークする rendered 'keep watch on them'."
+    "Subject restored as 'you' (Eldy is the one going after the ships per rows 26/30). [jp] rendered 'keep watch on them'."
    ],
    "lines": 2,
    "px": 335
@@ -501,10 +501,10 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "Understood. I'll start by making contact with the nearest. Well then, Doctor...",
+   "en": "Understood. I'll make contact with the closer of the two first. Well then, Doctor...",
    "notes": "",
    "uncertain": [
-    "近い所 rendered 'the nearest' (nearest of the two ships / targets); referent inferred."
+    "[jp] rendered 'the nearest' (nearest of the two ships / targets); referent inferred."
    ],
    "lines": 2,
    "px": 352
@@ -540,7 +540,7 @@
    "en": "You see, I have no intention of going along with them to the very end.",
    "notes": "",
    "uncertain": [
-    "彼ら = same unnamed group as row 28; kept 'them'."
+    "[jp] = same unnamed group as row 28; kept 'them'."
    ],
    "lines": 2,
    "px": 323
@@ -612,7 +612,7 @@
    "en": "Result: all targets downed. Our time improved by 8 seconds. You have a problem with that?",
    "notes": "",
    "uncertain": [
-    "全機撃墜 rendered 'all targets downed' (the targets were drones, row 36). Subject 'Our time' restored."
+    "[jp] rendered 'all targets downed' (the targets were drones, row 36). Subject 'Our time' restored."
    ],
    "lines": 3,
    "px": 336
@@ -656,7 +656,7 @@
    "en": "Obviously! I can't stand you running tests like this from now on.",
    "notes": "",
    "uncertain": [
-    "Subject restored: 'I can't stand you running tests...' (やられちゃ = being done to her by him)."
+    "Subject restored: 'I can't stand you running tests...' ([jp] = being done to her by him)."
    ],
    "lines": 2,
    "px": 329
@@ -788,7 +788,7 @@
    "en": "I thought that if it had been real combat, we'd have been shot down.",
    "notes": "",
    "uncertain": [
-    "こちら rendered 'we' (both pilots share the unit)."
+    "[jp] rendered 'we' (both pilots share the unit)."
    ],
    "lines": 2,
    "px": 300
@@ -938,7 +938,7 @@
    "en": "...Please.",
    "notes": "",
    "uncertain": [
-    "頼む direction: Hugo asking Aqua -> '...Please.'"
+    "[jp] direction: Hugo asking Aqua -> '...Please.'"
    ],
    "lines": 1,
    "px": 172
@@ -1128,7 +1128,7 @@
    "en": "Hurry up and get better, okay? I couldn't stand it if you gave it to me.",
    "notes": "",
    "uncertain": [
-    "Restored: 'if you gave it to me' (うつされたら, the cold)."
+    "Restored: 'if you gave it to me' ([jp], the cold)."
    ],
    "lines": 2,
    "px": 304
@@ -1330,7 +1330,7 @@
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
    "en": "That's even less possible! A pilot hasn't even been chosen for it yet!",
-   "notes": "Passive 'A pilot hasn't even been chosen' for 決まってない (no subject in the source).",
+   "notes": "Passive 'A pilot hasn't even been chosen' for [jp] (no subject in the source).",
    "uncertain": [
     "Kept omission: who picks the pilot isn't stated, so I used the passive."
    ],
@@ -1348,7 +1348,7 @@
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
    "en": "Anyway, we're going to the Doctor!",
-   "notes": "行くぞ: Hugo is pulling Aqua along, so 'we're going'.",
+   "notes": "[jp]: Hugo is pulling Aqua along, so 'we're going'.",
    "uncertain": [],
    "lines": 1,
    "px": 341
@@ -1450,7 +1450,7 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "I'm sorry, but I need you two to go after the Medius at once.",
-   "notes": "君達 = Hugo and Aqua -> 'you two'.",
+   "notes": "[jp] = Hugo and Aqua -> 'you two'.",
    "uncertain": [],
    "lines": 2,
    "px": 334
@@ -1498,7 +1498,7 @@
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
    "en": "If someone misuses the Lasmunanium, something like the Devil Gundam Incident a year ago could happen again...!",
-   "notes": "悪用されたら is a passive with no agent -> 'If someone misuses'.",
+   "notes": "[jp] is a passive with no agent -> 'If someone misuses'.",
    "uncertain": [
     "Name: the Devil Gundam incident is written 'Devil Gundam Incident' with a capital I. That's my choice; the glossary only lists 'Devil Gundam'.",
     "Lasmunanium spelled per the glossary (TV Tropes alt 'Lazmunanium')."
@@ -1533,7 +1533,7 @@
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
    "en": "Understood, Doctor! We'll get the Medius back with our own hands, no matter what!",
-   "notes": "必ず -> 'no matter what'.",
+   "notes": "[jp] -> 'no matter what'.",
    "uncertain": [],
    "lines": 2,
    "px": 352
@@ -1597,7 +1597,7 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "I'm counting on you both.",
-   "notes": "頼むぞ: Mitar is asking the pair -> 'I'm counting on you both'.",
+   "notes": "[jp]: Mitar is asking the pair -> 'I'm counting on you both'.",
    "uncertain": [],
    "lines": 1,
    "px": 226
@@ -1613,9 +1613,9 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "Yes... I am truly counting on you... Heh heh heh heh...",
-   "notes": "くれぐれもな in a thought. It echoes row 100 with sinister intent.",
+   "notes": "[jp] in a thought. It echoes row 100 with sinister intent.",
    "uncertain": [
-    "Interpreted くれぐれもな as a repeat of 'I'm counting on you' (Mitar's real plan). Laugh フフフフ rendered as 'Heh heh heh heh...'."
+    "Interpreted [jp] as a repeat of 'I'm counting on you' (Mitar's real plan). Laugh [jp] rendered as 'Heh heh heh heh...'."
    ],
    "lines": 2,
    "px": 349
@@ -1629,7 +1629,7 @@
    "speaker_jp": "トーレス",
    "speaker_en": "Torres",
    "en": "Captain, the ship will shortly be on course for atmospheric entry.",
-   "notes": "本艦 -> 'the ship'. The ship is presumably the Nahel Argama (Bright, Torres, the ZZ crew).",
+   "notes": "[jp] -> 'the ship'. The ship is presumably the Nahel Argama (Bright, Torres, the ZZ crew).",
    "uncertain": [
     "Ship not named in the line; inferred from the speakers."
    ],
@@ -1675,7 +1675,7 @@
    "speaker_jp": "エル",
    "speaker_en": "Elle",
    "en": "The enemy we're chasing is planning to go down to Earth too, right!?",
-   "notes": "も = the enemy is heading to Earth just like the ship.",
+   "notes": "[jp] = the enemy is heading to Earth just like the ship.",
    "uncertain": [],
    "lines": 2,
    "px": 315
@@ -1730,7 +1730,7 @@
    "kind": "dialogue",
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
-   "en": "Yeah, yeah. A moment that feels bad to us feels just as bad to the enemy...",
+   "en": "Yeah, yeah. If it's a bad time for us, it's a bad time for the enemy too...",
    "notes": "[jp] -> a bad moment for us.",
    "uncertain": [],
    "lines": 2,
@@ -1759,7 +1759,7 @@
    "speaker_jp": "ルー",
    "speaker_en": "Roux",
    "en": "Ooh, impressive. Spoken like a true ex-captain.",
-   "notes": "元艦長さん: Beecha was formerly the Argama's acting captain (Gundam ZZ).",
+   "notes": "[jp]: Beecha was formerly the Argama's acting captain (Gundam ZZ).",
    "uncertain": [],
    "lines": 2,
    "px": 282
@@ -1871,9 +1871,9 @@
    "speaker_jp": "モンド",
    "speaker_en": "Mondo",
    "en": "By the way, Bright, does this mean you can stay on as captain full-time now?",
-   "notes": "ブライトさん rendered as plain 'Bright' (no honorific), as is usual in English Gundam translations. Same in rows 132 and 152.",
+   "notes": "[jp] rendered as plain 'Bright' (no honorific), as is usual in English Gundam translations. Same in rows 132 and 152.",
    "uncertain": [
-    "Honorific choice: ブライトさん -> 'Bright' (could be 'Captain Bright'/'Mr. Bright'). This should be kept consistent across slices."
+    "Honorific choice: [jp] -> 'Bright' (could be 'Captain Bright'/'Mr. Bright'). This should be kept consistent across slices."
    ],
    "lines": 2,
    "px": 337
@@ -1887,7 +1887,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "Yes. The postwar negotiations with the Baam side have settled down for now.",
-   "notes": "バーム側 -> 'the Baam side'.",
+   "notes": "[jp] -> 'the Baam side'.",
    "uncertain": [],
    "lines": 2,
    "px": 349
@@ -1917,7 +1917,7 @@
    "en": "So what's going to happen to Little Baam in the end?",
    "notes": "",
    "uncertain": [
-    "Name: 小バーム is not in the glossary and not in the local akurasu dump; neo-akurasu was unreachable (502). Used 'Little Baam' (English Wikipedia's Tosho Daimos article). Please add it to the glossary. Same in rows 129 and 142."
+    "Name: [jp] is not in the glossary and not in the local akurasu dump; neo-akurasu was unreachable (502). Used 'Little Baam' (English Wikipedia's Tosho Daimos article). Please add it to the glossary. Same in rows 129 and 142."
    ],
    "lines": 2,
    "px": 352
@@ -1931,7 +1931,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "Led by Erika, leader of the Baam peace faction...",
-   "notes": "エリカ君 -> 'Erika' (the glossary says female; no pronoun used).",
+   "notes": "[jp] -> 'Erika' (the glossary says female; no pronoun used).",
    "uncertain": [],
    "lines": 2,
    "px": 312
@@ -1945,7 +1945,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "...it will move from the Moon to the Mars sphere until things in the Earth Sphere settle down.",
-   "notes": "[jp] -> 'from the Moon to the Mars sphere'. 地球圏 -> 'Earth Sphere'.",
+   "notes": "[jp] -> 'from the Moon to the Mars sphere'. [jp] -> 'Earth Sphere'.",
    "uncertain": [
     "The subject of row 124 (Little Baam / its people) carries over from rows 122-123."
    ],
@@ -2005,7 +2005,7 @@
    "speaker_jp": "トーレス",
    "speaker_en": "Torres",
    "en": "What are you talking about? Something that huge can't fit through a Chulip.",
-   "notes": "[jp] = Little Baam. チューリップ = Chulip (glossary/decisions).",
+   "notes": "[jp] = Little Baam. [jp] = Chulip (glossary/decisions).",
    "uncertain": [],
    "lines": 2,
    "px": 344
@@ -2019,7 +2019,7 @@
    "speaker_jp": "トーレス",
    "speaker_en": "Torres",
    "en": "Besides, Little Baam has a warp drive built in.",
-   "notes": "ワープ装置 -> 'warp drive'.",
+   "notes": "[jp] -> 'warp drive'.",
    "uncertain": [],
    "lines": 2,
    "px": 342
@@ -2033,9 +2033,9 @@
    "speaker_jp": "モンド",
    "speaker_en": "Mondo",
    "en": "Ahh, I get it. No wonder it suddenly showed up right near the Moon at the start.",
-   "notes": "な～る -> 'Ahh, I get it'.",
+   "notes": "[jp] -> 'Ahh, I get it'.",
    "uncertain": [
-    "最初に is read as 'at the start' (when Little Baam first appeared in the story)."
+    "[jp] is read as 'at the start' (when Little Baam first appeared in the story)."
    ],
    "lines": 2,
    "px": 337
@@ -2093,7 +2093,7 @@
    "en": "Nothing's wrong with them. They say there's no need to move them to the hospital on La Vie en Rose.",
    "notes": "[jp] -> 'the hospital on La Vie en Rose' (the supply ship).",
    "uncertain": [
-    "Kept omission: 'They say' stands in for the unnamed source of the medical opinion (～そうです)."
+    "Kept omission: 'They say' stands in for the unnamed source of the medical opinion ([jp])."
    ],
    "lines": 3,
    "px": 337
@@ -2121,7 +2121,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "At least we were able to save those kids. That's some consolation.",
-   "notes": "あの子達 -> 'those kids' (gender-neutral, true to the source).",
+   "notes": "[jp] -> 'those kids' (gender-neutral, true to the source).",
    "uncertain": [],
    "lines": 2,
    "px": 328
@@ -2179,7 +2179,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "No wonder. He's the one who was worn down most by the fight with Haman Karn...",
-   "notes": "無理もない -> 'No wonder'. [jp] -> 'Haman Karn' (full name, as in the source).",
+   "notes": "[jp] -> 'No wonder'. [jp] -> 'Haman Karn' (full name, as in the source).",
    "uncertain": [],
    "lines": 2,
    "px": 345
@@ -2207,7 +2207,7 @@
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
    "en": "Before the battle to liberate Little Baam, when the Federation and Neo Zeon called a truce...",
-   "notes": "Leads into row 143, where the subject 'he' = Judau (あいつ).",
+   "notes": "Leads into row 143, where the subject 'he' = Judau ([jp]).",
    "uncertain": [
     "[jp] -> 'the battle to liberate Little Baam' (event name not in the glossary)."
    ],
@@ -2237,7 +2237,7 @@
    "speaker_jp": "ルー",
    "speaker_en": "Roux",
    "en": "Yeah. But... in the end, Haman and Glemy still came after us...",
-   "notes": "仕掛けてきた -> 'came after us'.",
+   "notes": "[jp] -> 'came after us'.",
    "uncertain": [],
    "lines": 2,
    "px": 340
@@ -2363,7 +2363,7 @@
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
    "en": "They're away from the Earth Sphere on a separate mission. They likely won't join the Giganos war until later.",
-   "notes": "だろう -> 'likely'.",
+   "notes": "[jp] -> 'likely'.",
    "uncertain": [],
    "lines": 3,
    "px": 322
@@ -2393,7 +2393,7 @@
    "en": "If I remember right, the Nadesico's former captain... passed away, right...?",
    "notes": "[jp] = the Nadesico's former captain (in canon Yurika Misumaru, presumed dead in Prince of Darkness). Roux does not name them, so I added no name and no pronoun.",
    "uncertain": [
-    "Gender: the source gives none; I avoided a pronoun. Ending 'passed away, right...?' for ～のよね…"
+    "Gender: the source gives none; I avoided a pronoun. Ending 'passed away, right...?' for [jp]…"
    ],
    "lines": 2,
    "px": 324
@@ -2421,7 +2421,7 @@
    "speaker_jp": "サエグサ",
    "speaker_en": "Saegusa",
    "en": "During the Lizard War, it seems the Nadesico earned quite a grudge from those guys.",
-   "notes": "あいつら = the Titans (row 156). 蜥蜴戦争 -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
+   "notes": "[jp] = the Titans (row 156). [jp] -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
    "uncertain": [
     "Referent: 'those guys' = the Titans (inferred from row 156)."
    ],
@@ -2439,7 +2439,7 @@
    "en": "But then the Titans themselves were wiped out in the Gryps Conflict...",
    "notes": "",
    "uncertain": [
-    "Name: the source says グリプス戦争 (Gryps War); the glossary entry is グリプス戦役 = 'Gryps Conflict'. I used 'Gryps Conflict' for consistency. Please confirm."
+    "Name: the source says [jp] (Gryps War); the glossary entry is [jp] = 'Gryps Conflict'. I used 'Gryps Conflict' for consistency. Please confirm."
    ],
    "lines": 2,
    "px": 342
@@ -2453,7 +2453,7 @@
    "speaker_jp": "トーレス",
    "speaker_en": "Torres",
    "en": "So in the end, the word is that the Nadesico captain's death was probably just an accident.",
-   "notes": "という話だ -> 'the word is'.",
+   "notes": "[jp] -> 'the word is'.",
    "uncertain": [],
    "lines": 2,
    "px": 342
@@ -2657,7 +2657,7 @@
    "en": "And he sees Earth as a sanctuary that must be protected... He is proclaiming that Ereism is in peril.",
    "notes": "",
    "uncertain": [
-    "Name question: エレズム is not in the glossary. Used 'Ereism' (the Gundam UC romanization I found on a wiki via search). Alternative spelling: 'Elezm'. Not checked on akurasu.net."
+    "Name question: [jp] is not in the glossary. Used 'Ereism' (the Gundam UC romanization I found on a wiki via search). Alternative spelling: 'Elezm'. Not checked on akurasu.net."
    ],
    "lines": 3,
    "px": 340
@@ -2689,7 +2689,7 @@
    "en": "this war will be a repeat of the Lizard War and the Gryps Conflict.",
    "notes": "",
    "uncertain": [
-    "Continues 174, so it starts lowercase. Source says グリプス戦争 (War); I used the glossary's 'Gryps Conflict' (its entry is for グリプス戦役) to stay consistent. Used 'Lizard War' from the glossary's 'Lizard War (Jovian War)'."
+    "Continues 174, so it starts lowercase. Source says [jp] (War); I used the glossary's 'Gryps Conflict' (its entry is for [jp]) to stay consistent. Used 'Lizard War' from the glossary's 'Lizard War (Jovian War)'."
    ],
    "lines": 2,
    "px": 330
@@ -2763,7 +2763,7 @@
    "en": "...\"Operation Overlord\"... So the Federation is finally going to strike back at them?",
    "notes": "",
    "uncertain": [
-    "Restored the subject as 'the Federation' (source has none). Inferred that 'them' is Giganos from the earlier scene; the source only says 彼ら."
+    "Restored the subject as 'the Federation' (source has none). Inferred that 'them' is Giganos from the earlier scene; the source only says [jp]."
    ],
    "lines": 3,
    "px": 303
@@ -2849,7 +2849,7 @@
    "en": "They have asked the institutes involved with super robots to work together more closely than ever and assist the military.",
    "notes": "",
    "uncertain": [
-    "Added 'They have asked' to match the source's passive 'a request came'. 特機 is not in the glossary; I used 'super robots'."
+    "Added 'They have asked' to match the source's passive 'a request came'. [jp] is not in the glossary; I used 'super robots'."
    ],
    "lines": 3,
    "px": 341
@@ -2882,7 +2882,7 @@
    "en": "And the one behind this call is Commander Koichiro Misumaru of the Federation Space Force...",
    "notes": "",
    "uncertain": [
-    "司令 rendered as 'Commander'. Federation Space Force (連邦宇宙軍) is not in the glossary."
+    "[jp] rendered as 'Commander'. Federation Space Force ([jp]) is not in the glossary."
    ],
    "lines": 3,
    "px": 332
@@ -2940,7 +2940,7 @@
    "en": "Commander Misumaru is planning to form a new super robot unit centered on the Nahel Argama and Nadesico B.",
    "notes": "",
    "uncertain": [
-    "特機部隊 rendered as 'super robot unit'."
+    "[jp] rendered as 'super robot unit'."
    ],
    "lines": 3,
    "px": 342
@@ -2956,7 +2956,7 @@
    "en": "I see... In the Baam War and the Devil Gundam incident, their teamwork was a major key to resolving things.",
    "notes": "",
    "uncertain": [
-    "Inferred referent: 'their teamwork' (彼らの連携) means the cooperation between the super robot groups and ships just named. The source leaves this open."
+    "Inferred referent: 'their teamwork' ([jp]) means the cooperation between the super robot groups and ships just named. The source leaves this open."
    ],
    "lines": 3,
    "px": 343
@@ -3016,7 +3016,7 @@
    "en": "I'm grateful. Please do.",
    "notes": "",
    "uncertain": [
-    "Direction for お願いします: Saotome is asking Umon to follow through on his offer of help, so I wrote 'I'm grateful. Please do.'"
+    "Direction for [jp]: Saotome is asking Umon to follow through on his offer of help, so I wrote 'I'm grateful. Please do.'"
    ],
    "lines": 1,
    "px": 264
@@ -3032,7 +3032,7 @@
    "en": "One more thing... Lately, those UFOs have been appearing more and more often.",
    "notes": "",
    "uncertain": [
-    "例のUFO rendered as 'those UFOs' (the ones both scientists already know about)."
+    "[jp]UFO rendered as 'those UFOs' (the ones both scientists already know about)."
    ],
    "lines": 2,
    "px": 328
@@ -3090,7 +3090,7 @@
    "en": "It's true we must get ourselves ready before they make any concrete move, but...",
    "notes": "",
    "uncertain": [
-    "Kept the source's 'they' (彼ら) unresolved. From context it is probably the UFO aliens (or possibly the Federation); Umon's thought does not say."
+    "Kept the source's 'they' ([jp]) unresolved. From context it is probably the UFO aliens (or possibly the Federation); Umon's thought does not say."
    ],
    "lines": 2,
    "px": 342
@@ -3148,7 +3148,7 @@
    "en": "I came to help Ryoma, Akira and the others fight the Dinosaur Empire and the Demon Empire.",
    "notes": "",
    "uncertain": [
-    "Restored 'I came' to finish the sentence begun in 205. リョウ君 = Ryoma (glossary en_short) and 洸 = Akira (Hibiki, glossary)."
+    "Restored 'I came' to finish the sentence begun in 205. [jp] = Ryoma (glossary en_short) and [jp] = Akira (Hibiki, glossary)."
    ],
    "lines": 2,
    "px": 348
@@ -3238,7 +3238,7 @@
    "en": "Danbei, eh... He's quite the UFO researcher, you know.",
    "notes": "",
    "uncertain": [
-    "団兵衛さん rendered as 'Danbei' (glossary en_short); the honorific was dropped."
+    "[jp] rendered as 'Danbei' (glossary en_short); the honorific was dropped."
    ],
    "lines": 2,
    "px": 295
@@ -3480,7 +3480,7 @@
    "en": "Father!",
    "notes": "",
    "uncertain": [
-    "父さん rendered as 'Father' to match Daisuke's polite register."
+    "[jp] rendered as 'Father' to match Daisuke's polite register."
    ],
    "lines": 1,
    "px": 130
@@ -3552,7 +3552,7 @@
    "en": "Never mind that. I have something important to tell you.",
    "notes": "",
    "uncertain": [
-    "Free rendering of それより ('Never mind that')."
+    "Free rendering of [jp] ('Never mind that')."
    ],
    "lines": 2,
    "px": 287
@@ -3668,7 +3668,7 @@
    "en": "A red moon... the signal fire for their sortie. ...You should contact the Earth Federation Forces. They will attack, without a doubt.",
    "notes": "",
    "uncertain": [
-    "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' (奴ら) is left unnamed as in the source."
+    "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' ([jp]) is left unnamed as in the source."
    ],
    "lines": 3,
    "px": 335
@@ -3810,7 +3810,7 @@
    "en": "So the time has finally come... But I don't want to pilot it... not that thing, ever again...",
    "notes": "",
    "uncertain": [
-    "あんな物 ('that thing') left unnamed as in the source (it is Grendizer, not yet revealed)."
+    "[jp] ('that thing') left unnamed as in the source (it is Grendizer, not yet revealed)."
    ],
    "lines": 2,
    "px": 335
@@ -3907,7 +3907,7 @@
    "en": "Lord Gades, I served you faithfully! Why won't you come to save me?!",
    "notes": "",
    "uncertain": [
-    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+    "[jp] rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
    ],
    "lines": 2,
    "px": 330
@@ -3941,7 +3941,7 @@
    "en": "Milady! Master Rom! I am terribly sorry!",
    "notes": "",
    "uncertain": [
-    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+    "[jp] = Leina (Jim is Leina's servant) -> 'Milady'; [jp] -> 'Master Rom'."
    ],
    "lines": 1,
    "px": 313
@@ -3958,7 +3958,7 @@
    "en": "What has justice ever done for me? Justice does nothing for anyone...",
    "notes": "",
    "uncertain": [
-    "くれる object not stated; 'for me' / 'for anyone' chosen."
+    "[jp] object not stated; 'for me' / 'for anyone' chosen."
    ],
    "lines": 2,
    "px": 326
@@ -3975,7 +3975,7 @@
    "en": "Pass this on! Tell them I fought a battle no martial artist would be ashamed of!",
    "notes": "",
    "uncertain": [
-    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+    "[jp] has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
    ],
    "lines": 2,
    "px": 310
@@ -4022,7 +4022,7 @@
    "en": "I'm counting on you to carry on!",
    "notes": "",
    "uncertain": [
-    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+    "[jp]: Rom asks the listener (his allies) to take over; listener not named."
    ],
    "lines": 1,
    "px": 265
@@ -4058,7 +4058,7 @@
    "en": "They got me?! No way!!",
    "notes": "",
    "uncertain": [
-    "やられた has no subject; 'They got me' (agent unspecified)."
+    "[jp] has no subject; 'They got me' (agent unspecified)."
    ],
    "lines": 1,
    "px": 219
@@ -4177,7 +4177,7 @@
    "en": "......",
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+    "speaker_en was empty; filled from glossary [jp] = 'Mass-produced EVA'."
    ],
    "lines": 1,
    "px": 188
@@ -4260,7 +4260,7 @@
    "en": "......",
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+    "speaker_en was empty; [jp] speaker filled as 'Gulfer' (glossary term [jp], do_not_touch). Probably the generic Gulfer soldier unit ([jp] = 'Gulfer Soldier'); kept the shorter in-game label."
    ],
    "lines": 1,
    "px": 98
@@ -4277,7 +4277,7 @@
    "en": "O-Oyakata-samaaa!",
    "notes": "",
    "uncertain": [
-    "お館様 kept as 'Oyakata-sama' per glossary term."
+    "[jp] kept as 'Oyakata-sama' per glossary term."
    ],
    "lines": 1,
    "px": 255
@@ -4324,7 +4324,7 @@
    "en": "It's no good! I have to bail out!",
    "notes": "",
    "uncertain": [
-    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+    "[jp] has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
    ],
    "lines": 1,
    "px": 283
@@ -4345,7 +4345,7 @@
    "en": "We have to... bail out...!",
    "notes": "",
    "uncertain": [
-    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+    "[jp] has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
    ],
    "lines": 1,
    "px": 230
@@ -4451,7 +4451,7 @@
    "en": "B-bailing out~! Ryoko, don't get mad at me, okay?!",
    "notes": "",
    "uncertain": [
-    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+    "[jp] has no subject; rendered as 'bailing out' (Hikaru herself)."
    ],
    "lines": 2,
    "px": 337
@@ -4498,7 +4498,7 @@
    "en": "Wha! This is as far as I go?! How pathetic...!",
    "notes": "",
    "uncertain": [
-    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+    "[jp] / [jp]: subject 'I' inferred (Saburota about himself)."
    ],
    "lines": 2,
    "px": 290
@@ -4564,7 +4564,7 @@
    "en": "This is the end... and that's a wrap...",
    "notes": "",
    "uncertain": [
-    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+    "[jp] ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
    ],
    "lines": 1,
    "px": 302
@@ -4598,7 +4598,7 @@
    "en": "Uwaah! Captain, sir!!",
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+    "[jp] = Meio (captain) -> 'Captain, sir'."
    ],
    "lines": 1,
    "px": 192
@@ -4615,7 +4615,7 @@
    "en": "Dammit, you'll pay for this! You Dragonar scum!!",
    "notes": "",
    "uncertain": [
-    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+    "[jp] rendered 'you'll pay for this' (stock threat)."
    ],
    "lines": 2,
    "px": 325
@@ -4662,7 +4662,7 @@
    "en": "Take care of my mom for me...!!",
    "notes": "",
    "uncertain": [
-    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+    "[jp]: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
    ],
    "lines": 1,
    "px": 277
@@ -4679,7 +4679,7 @@
    "en": "C-Colonel!!",
    "notes": "",
    "uncertain": [
-    "大佐 = Gon Jem (colonel)."
+    "[jp] = Gon Jem (colonel)."
    ],
    "lines": 1,
    "px": 124
@@ -4728,7 +4728,7 @@
    "en": "C-Captain, sirrr!",
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio."
+    "[jp] = Meio."
    ],
    "lines": 1,
    "px": 161
@@ -4781,7 +4781,7 @@
    "en": "Tch, that's all for today!",
    "notes": "",
    "uncertain": [
-    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+    "[jp]: impersonal 'that's all for today' kept (Min retreating)."
    ],
    "lines": 1,
    "px": 211
@@ -4828,7 +4828,7 @@
    "en": "Ngh, how could this...",
    "notes": "",
    "uncertain": [
-    "なんという… trails off in the source; kept the omission."
+    "[jp]… trails off in the source; kept the omission."
    ],
    "lines": 1,
    "px": 220
@@ -6586,7 +6586,7 @@
    "en": "Then prove it. Keep the output in the Blue Zone.",
    "notes": "",
    "uncertain": [
-    "'Blue Zone' / 'Yellow Zone' (ブルーゾーン/[jp]) are not in the glossary; capitalised as gauge-zone names."
+    "'Blue Zone' / 'Yellow Zone' ([jp]/[jp]) are not in the glossary; capitalised as gauge-zone names."
    ],
    "lines": 2,
    "px": 332
@@ -6941,7 +6941,7 @@
    "en": "I've almost got it into the Blue Zone! Put some distance between us and the enemy for now!",
    "notes": "",
    "uncertain": [
-    "相手 = the opposing unit (the Medius Locus), written as 'the enemy'."
+    "[jp] = the opposing unit (the Medius Locus), written as 'the enemy'."
    ],
    "lines": 3,
    "px": 336
@@ -6973,7 +6973,7 @@
    "en": "Just follow my instructions! I'll send you the optimal MP data!",
    "notes": "",
    "uncertain": [
-    "'MP data' kept as in the JP (ＭＰデータ); it is not in the glossary, and the expansion is unknown."
+    "'MP data' kept as in the JP ([jp]); it is not in the glossary, and the expansion is unknown."
    ],
    "lines": 2,
    "px": 333
@@ -7137,7 +7137,7 @@
    "en": "I chose them for their aptitude. I knew from the start that their personalities clash.",
    "notes": "",
    "uncertain": [
-    "The source body has a stray '」@　' at the end (a script typo); I ignored it and the en has no bracket."
+    "The source body has a stray '[jp]@[jp]' at the end (a script typo); I ignored it and the en has no bracket."
    ],
    "lines": 2,
    "px": 332
@@ -7361,7 +7361,7 @@
    "en": "Once we're back at the institute, we'll install AI1 in the Medius. Notify her in advance.",
    "notes": "",
    "uncertain": [
-    "彼女 'her' is kept from the source. From context it is Eldy (AI1's developer, female per the glossary), but she is not named here."
+    "[jp] 'her' is kept from the source. From context it is Eldy (AI1's developer, female per the glossary), but she is not named here."
    ],
    "lines": 2,
    "px": 341
@@ -7408,7 +7408,7 @@
    "en": "Ngh...!",
    "notes": "",
    "uncertain": [
-    "The pained grunt う……！ is written as 'Ngh...!'."
+    "The pained grunt [jp]……[jp] is written as 'Ngh...!'."
    ],
    "lines": 1,
    "px": 151
@@ -7511,7 +7511,7 @@
    "en": "If that thing had a pilot... a skilled \"human\" aboard, we might not have come out of it in one piece...",
    "notes": "thought",
    "uncertain": [
-    "[jp] has no subject in the JP. I wrote 'we' (Hugo and Aqua share the machine); 'I' is also possible. 『人間』 is rendered with double quotes as \"human\"."
+    "[jp] has no subject in the JP. I wrote 'we' (Hugo and Aqua share the machine); 'I' is also possible. [jp] is rendered with double quotes as \"human\"."
    ],
    "lines": 3,
    "px": 341
@@ -7561,7 +7561,7 @@
    "en": "It isn't treatment. It's an adjustment.",
    "notes": "",
    "uncertain": [
-    "調整 rendered 'adjustment' (he is modified/cyborg); 'tune-up/maintenance' also possible."
+    "[jp] rendered 'adjustment' (he is modified/cyborg); 'tune-up/maintenance' also possible."
    ],
    "lines": 1,
    "px": 302
@@ -7593,7 +7593,7 @@
    "en": "That is why you need readjusting. Just suppressing your condition with medicine won't let you handle the unexpected.",
    "notes": "",
    "uncertain": [
-    "Object of 抑えている is omitted in JP; supplied 'your condition' (his symptoms) from context."
+    "Object of [jp] is omitted in JP; supplied 'your condition' (his symptoms) from context."
    ],
    "lines": 3,
    "px": 347
@@ -7683,7 +7683,7 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "Very well.",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 131
@@ -7760,7 +7760,7 @@
    "en": "...In that state, he could end up hindering the mission.",
    "notes": "",
    "uncertain": [
-    "あれ = the male lead (just left); 'he' used because the glossary records the male lead (Hugo) as male and the placeholder is #男."
+    "[jp] = the male lead (just left); 'he' used because the glossary records the male lead (Hugo) as male and the placeholder is #男."
    ],
    "lines": 2,
    "px": 292
@@ -7792,7 +7792,7 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "No... For the time being, he can stay as he is.",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [
     "'he' = the male lead, as in row 495."
    ],
@@ -7809,7 +7809,7 @@
    "speaker_jp": "研究員",
    "speaker_en": "Researcher",
    "en": "Because he's easier to tame that way?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [
     "'he' = the male lead, as in row 495."
    ],
@@ -7843,7 +7843,7 @@
    "en": "A wolf? Surely you mean a whipped dog?",
    "notes": "",
    "uncertain": [
-    "負け犬 (loser, lit. beaten dog) rendered 'whipped dog' to keep the wolf/dog contrast."
+    "[jp] (loser, lit. beaten dog) rendered 'whipped dog' to keep the wolf/dog contrast."
    ],
    "lines": 1,
    "px": 326
@@ -7875,7 +7875,7 @@
    "en": "No one did. You needn't worry.",
    "notes": "",
    "uncertain": [
-    "ええ answers 'I trust no one saw you?'; rendered as 'No one did' to keep the sense in English."
+    "[jp] answers 'I trust no one saw you?'; rendered as 'No one did' to keep the sense in English."
    ],
    "lines": 1,
    "px": 254
@@ -7905,7 +7905,7 @@
    "speaker_jp": "？？？",
    "speaker_en": "???",
    "en": "Of course. And on your end?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 243
@@ -7922,7 +7922,7 @@
    "en": "I tested the Medius, but full control was impossible without AI1. Especially that particular Lasmunanium function.",
    "notes": "",
    "uncertain": [
-    "'that particular Lasmunanium function' = 例の機能 (presumably self-regeneration, cf. row 464); not made explicit, as the source keeps it vague."
+    "'that particular Lasmunanium function' = [jp] (presumably self-regeneration, cf. row 464); not made explicit, as the source keeps it vague."
    ],
    "lines": 3,
    "px": 336
@@ -7937,7 +7937,7 @@
    "speaker_jp": "？？？",
    "speaker_en": "???",
    "en": "Then... you will formally adopt my proposal?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 347
@@ -7986,7 +7986,7 @@
    "en": "And that man?",
    "notes": "",
    "uncertain": [
-    "あの男 = unnamed man waiting at the rendezvous (row 3 reply); identity not given in this scene."
+    "[jp] = unnamed man waiting at the rendezvous (row 3 reply); identity not given in this scene."
    ],
    "lines": 1,
    "px": 157
@@ -8001,7 +8001,7 @@
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
    "en": "You work quickly.",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [
     "Speaker ??? is Eldy (hidden), kept ???."
    ],
@@ -8050,7 +8050,7 @@
    "en": "Now then, Dr. Zapat. About the pilots of the #機体名...",
    "notes": "",
    "uncertain": [
-    "搭乗者 rendered 'pilots' (plural: two people named in row 514)."
+    "[jp] rendered 'pilots' (plural: two people named in row 514)."
    ],
    "lines": 2,
    "px": 321
@@ -8068,7 +8068,7 @@
    "notes": "",
    "uncertain": [
     "#男姓名/#女姓名 (full-name placeholders) are not in textfit PLACEHOLDER_PX, so textfit counts them as 64px; re-checked with each expanded to 9 full-width glyphs (144px, length of the JP default full name): still FITS.",
-    "'pilot it' supplied for 決まり (settled as the crew of #機体名, per row 513)."
+    "'pilot it' supplied for [jp] (settled as the crew of #機体名, per row 513)."
    ],
    "lines": 3,
    "px": 348
@@ -8134,7 +8134,7 @@
    "en": "She was your student, wasn't she? Do you feel guilty?",
    "notes": "",
    "uncertain": [
-    "彼女 = #女姓名 (female lead, glossary: Aqua, female); 'She' used."
+    "[jp] = #女姓名 (female lead, glossary: Aqua, female); 'She' used."
    ],
    "lines": 2,
    "px": 326
@@ -8151,7 +8151,7 @@
    "en": "According to the Committee's scenario, the world's deterrent forces will gather on those two ships.",
    "notes": "",
    "uncertain": [
-    "委員会 rendered 'the Committee' (likely the Human Instrumentality Committee of the Eva side, but the source does not say so). 'the world's' added to 抑止力 for readability; その2隻 = Nadesico B and Nahel Argama (row 27)."
+    "[jp] rendered 'the Committee' (likely the Human Instrumentality Committee of the Eva side, but the source does not say so). 'the world's' added to [jp] for readability; [jp]2[jp] = Nadesico B and Nahel Argama (row 27)."
    ],
    "lines": 3,
    "px": 338
@@ -8198,7 +8198,7 @@
    "en": "You certainly do! We agreed we'd hold a debrief together after the test!",
    "notes": "",
    "uncertain": [
-    "反省会 rendered 'debrief' (also rows 533)."
+    "[jp] rendered 'debrief' (also rows 533)."
    ],
    "lines": 2,
    "px": 347
@@ -8230,7 +8230,7 @@
    "en": "Honestly... I searched all over: the gunroom, the training room, your room...",
    "notes": "",
    "uncertain": [
-    "ガンルーム rendered 'gunroom' (naval junior officers' mess); not in glossary."
+    "[jp] rendered 'gunroom' (naval junior officers' mess); not in glossary."
    ],
    "lines": 2,
    "px": 319
@@ -8463,7 +8463,7 @@
    "en": "So the elite pilot from special ops won't rely on instructions from a rookie like me!",
    "notes": "",
    "uncertain": [
-    "特務部隊出身 rendered 'from special ops'; [jp] sarcasm carried by 'the elite pilot'."
+    "[jp] rendered 'from special ops'; [jp] sarcasm carried by 'the elite pilot'."
    ],
    "lines": 2,
    "px": 346
@@ -8478,7 +8478,7 @@
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
    "en": "...Let me remind you, I'm the one actually piloting the machine.",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 2,
    "px": 305
@@ -8495,7 +8495,7 @@
    "en": "So I decide how to fight.",
    "notes": "",
    "uncertain": [
-    "どう戦うか: generic 'how to fight' kept (he pilots; the unit is shared)."
+    "[jp]: generic 'how to fight' kept (he pilots; the unit is shared)."
    ],
    "lines": 1,
    "px": 270
@@ -8572,7 +8572,7 @@
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
    "en": "Ngh...?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 155
@@ -8587,7 +8587,7 @@
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
    "en": "What's wrong?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 208
@@ -8602,7 +8602,7 @@
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
    "en": "My body...!",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [
     "Thought row (kind=thought); textfit CLI checks with dialogue brackets, same width."
    ],
@@ -8619,7 +8619,7 @@
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
    "en": "#男愛称?",
-   "notes": "Source body_jp ends with a stray '」@　' (raw line has '@　' after the closing bracket); en written without it, build must keep the trailing '@　' from jp.",
+   "notes": "Source body_jp ends with a stray '[jp]@[jp]' (raw line has '@[jp]' after the closing bracket); en written without it, build must keep the trailing '@[jp]' from jp.",
    "uncertain": [],
    "lines": 1,
    "px": 200
@@ -8713,7 +8713,7 @@
    "en": "...Thanks.",
    "notes": "",
    "uncertain": [
-    "すまない after receiving the water (row id 63) rendered 'Thanks'."
+    "[jp] after receiving the water (row id 63) rendered 'Thanks'."
    ],
    "lines": 1,
    "px": 175

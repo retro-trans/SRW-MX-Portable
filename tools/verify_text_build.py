@@ -66,6 +66,8 @@ def main(version):
     trans.update(insert_text.narration_slots(bt))
     want = {v: insert_text.encode(en, raw)[:-1] for v, (en, raw) in trans.items()}
     orig = open(os.path.join(ROOT, 'work/build/iso/BOOT.BIN'), 'rb').read()
+    semantic_orig = bytearray(orig)
+    insert_text.patch_narration_script(semantic_orig, bt)
     secs_o, secs_n = insert_text.elf(orig), insert_text.elf(bytearray(boot))
 
     def rels(data, secs, name):
@@ -74,9 +76,10 @@ def main(version):
     w = lambda data, va: struct.unpack_from('<I', data, va + 0x60)[0]
     # data pointers: same relocation offsets in both files
     for off, info in rels(orig, secs_o, '.rel.data'):
-        if info & 0xFF == 2 and w(orig, off) in want:
+        target = w(semantic_orig, off)
+        if info & 0xFF == 2 and target in want:
             got = cstr(boot, w(boot, off) + 0x60)
-            ok, bad = (ok + 1, bad) if got == want[w(orig, off)] else (ok, bad + 1)
+            ok, bad = (ok + 1, bad) if got == want[target] else (ok, bad + 1)
     # code: pair HI16 with its LO16s in the new relocation table
     hi = None
     for off, info in rels(boot, secs_n, '.rel.text'):
@@ -91,6 +94,7 @@ def main(version):
                 got = cstr(boot, target(boot) + 0x60)
                 ok, bad = (ok + 1, bad) if got == want[target(orig)] else (ok, bad + 1)
     print(f'BOOT.BIN references to translated strings: {ok} correct, {bad} wrong')
+    assert not bad, 'A translated BOOT string reference differs'
 
     # STATIC2_ADD.BIN
     d = static2

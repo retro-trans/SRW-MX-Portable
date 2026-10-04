@@ -27,7 +27,18 @@ Commit only selected final `*.en.json` dialogue files. Never commit original Jap
 
 ## Build and release
 
-`tools/build_patch.py` builds the campaign/font/UI/battle base from the original ISO. Pass the prologue and each reviewed `stageNN_campaign_full_merged.json` explicitly with repeated `--scenes-file` options and use `--native-font4x --text --battle`. Its default glob can include experimental files; explicit inputs are required for a release. `tools/patch_screenshot_text.py` applies the 0.4.1 chapter-card and closing-line changes to the 0.4.0 base.
+`tools/build_campaign.py` verifies the exact prologue plus 58 reviewed group files, current review fingerprints, every original readable use and font fit before building from the original ISO. Choose a new version to preserve existing outputs:
+
+```sh
+python tools/build_campaign.py "Super Robot Taisen MX Portable (Japan).iso" 0.4.3 --build
+python tools/verify_campaign_build.py "Super Robot Taisen MX Portable (Japan).iso" 0.4.3
+python tools/battle_quotes.py verify work/output/SRWMX_EN_0.4.3.iso
+python tools/verify_text_build.py 0.4.3
+```
+
+The builder explicitly includes the native 4x font, UI, battle captions and all chapter cards. ISO readback checks all story strings and commands, relocated tables, native font payload/hooks, chapter atlases and unrelated files. Native allocator/reader probes are separate from full gameplay tests. `tools/build_patch.py` remains available for selected inputs; its default glob can include experimental files, so use explicit `--scenes-file` arguments. `tools/patch_screenshot_text.py` reproduces the historical 0.4.1 increment.
+
+Translation and local builds do not authorize a GitHub release. Wait for the project lead's explicit release instruction for the specific build.
 
 Exact reproduction of old test ISOs from a fresh checkout is not yet established. A source rebuild must be verified as a new candidate, including all dialogue and battle checks and gameplay testing, before publication. The published xdelta reproduces the exact released ISO, with complete hash and round-trip evidence.
 

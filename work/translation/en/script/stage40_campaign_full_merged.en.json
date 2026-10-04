@@ -1802,7 +1802,7 @@
     "source": "work/translation/en/script/stage40_campaign.json",
     "id": 105
    },
-   "notes": "Context: Rikudo offers watermelon; Hikaru celebrates bathing and summer. Decision: Source slogan-shaped fragment retained. Tension translates 緊張; Kincho homophone allusion is not independently verified. Coordinator source check: central campaign terms and stage40_terms_batch2_preview record primary cultural/name/scientific-stem evidence; source omissions and licensed fictional wording remain.",
+   "notes": "Context: Rikudo offers watermelon; Hikaru celebrates bathing and summer. Decision: Source slogan-shaped fragment retained. Tension translates [jp]; Kincho homophone allusion is not independently verified. Coordinator source check: central campaign terms and stage40_terms_batch2_preview record primary cultural/name/scientific-stem evidence; source omissions and licensed fictional wording remain.",
    "uncertain": [
     "KINCHO primary advertising confirms the Japanese summer slogan; tension/brand homophone cannot be reproduced directly, so source tension fragment retained."
    ]
@@ -2534,7 +2534,7 @@
     "source": "work/translation/en/script/stage40_campaign.json",
     "id": 147
    },
-   "notes": "Context: Waiting for briefing, pilots joke about operation code name. Decision: Cardboard is literal mistaken code name ダンボール, with phonetic joke limited in English.",
+   "notes": "Context: Waiting for briefing, pilots joke about operation code name. Decision: Cardboard is literal mistaken code name [jp], with phonetic joke limited in English.",
    "uncertain": [
     "Source Cardboard/Downfall near-sound joke cannot be fully reproduced with literal Cardboard."
    ]
@@ -4033,7 +4033,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ガデス様 rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
+    "[jp] rendered 'Lord Gades'; assumed the line is addressed to Gades (rescue plea)."
    ]
   },
   {
@@ -4069,7 +4069,7 @@
    },
    "notes": "",
    "uncertain": [
-    "お嬢様 = Leina (Jim is Leina's servant) -> 'Milady'; ロム様 -> 'Master Rom'."
+    "[jp] = Leina (Jim is Leina's servant) -> 'Milady'; [jp] -> 'Master Rom'."
    ]
   },
   {
@@ -4087,7 +4087,7 @@
    },
    "notes": "",
    "uncertain": [
-    "くれる object not stated; 'for me' / 'for anyone' chosen."
+    "[jp] object not stated; 'for me' / 'for anyone' chosen."
    ]
   },
   {
@@ -4105,7 +4105,7 @@
    },
    "notes": "",
    "uncertain": [
-    "伝えてくれ has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
+    "[jp] has no stated recipient; kept unnamed ('Tell them'). Likely meant for Rom, not asserted."
    ]
   },
   {
@@ -4155,7 +4155,7 @@
    },
    "notes": "",
    "uncertain": [
-    "後を頼む: Rom asks the listener (his allies) to take over; listener not named."
+    "[jp]: Rom asks the listener (his allies) to take over; listener not named."
    ]
   },
   {
@@ -4191,7 +4191,7 @@
    },
    "notes": "",
    "uncertain": [
-    "やられた has no subject; 'They got me' (agent unspecified)."
+    "[jp] has no subject; 'They got me' (agent unspecified)."
    ]
   },
   {
@@ -4312,7 +4312,7 @@
    },
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; filled from glossary ＥＶＡ量産機 = 'Mass-produced EVA'."
+    "speaker_en was empty; filled from glossary [jp] = 'Mass-produced EVA'."
    ]
   },
   {
@@ -4398,7 +4398,7 @@
    },
    "notes": "",
    "uncertain": [
-    "speaker_en was empty; ガルファ speaker filled as 'Gulfer' (glossary term ガルファ, do_not_touch). Probably the generic Gulfer soldier unit (ガルファ素体 = 'Gulfer Soldier'); kept the shorter in-game label."
+    "speaker_en was empty; [jp] speaker filled as 'Gulfer' (glossary term [jp], do_not_touch). Probably the generic Gulfer soldier unit ([jp] = 'Gulfer Soldier'); kept the shorter in-game label."
    ]
   },
   {
@@ -4416,7 +4416,7 @@
    },
    "notes": "",
    "uncertain": [
-    "お館様 kept as 'Oyakata-sama' per glossary term."
+    "[jp] kept as 'Oyakata-sama' per glossary term."
    ]
   },
   {
@@ -4466,7 +4466,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出しないと has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
+    "[jp] has no subject; 'I' inferred (Kirakuni flies the Cell Fighter; not verified that it is solo)."
    ]
   },
   {
@@ -4486,7 +4486,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出しなきゃ has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
+    "[jp] has no subject; 'We' inferred because Dendoh is co-piloted by Ginga and Hokuto. This line is reused in 3 places (s00r00:32/33/173) and may play when Hokuto is in another unit - check."
    ]
   },
   {
@@ -4593,7 +4593,7 @@
    },
    "notes": "",
    "uncertain": [
-    "脱出 has no subject; rendered as 'bailing out' (Hikaru herself)."
+    "[jp] has no subject; rendered as 'bailing out' (Hikaru herself)."
    ]
   },
   {
@@ -4643,7 +4643,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ここまでかよ / 情けねえ: subject 'I' inferred (Saburota about himself)."
+    "[jp] / [jp]: subject 'I' inferred (Saburota about himself)."
    ]
   },
   {
@@ -4712,7 +4712,7 @@
    },
    "notes": "",
    "uncertain": [
-    "一巻の終わり ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
+    "[jp] ('end of the scroll' = 'it's all over'); Izumi is a punster, 'that's a wrap' keeps the media idiom."
    ]
   },
   {
@@ -4747,7 +4747,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio (captain) -> 'Captain, sir'."
+    "[jp] = Meio (captain) -> 'Captain, sir'."
    ]
   },
   {
@@ -4765,7 +4765,7 @@
    },
    "notes": "",
    "uncertain": [
-    "覚えていろ rendered 'you'll pay for this' (stock threat)."
+    "[jp] rendered 'you'll pay for this' (stock threat)."
    ]
   },
   {
@@ -4815,7 +4815,7 @@
    },
    "notes": "",
    "uncertain": [
-    "頼んだぜ: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
+    "[jp]: Kaine asks the listener (unnamed) to look after his mother; direction kept as a request."
    ]
   },
   {
@@ -4833,7 +4833,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大佐 = Gon Jem (colonel)."
+    "[jp] = Gon Jem (colonel)."
    ]
   },
   {
@@ -4884,7 +4884,7 @@
    },
    "notes": "",
    "uncertain": [
-    "大尉殿 = Meio."
+    "[jp] = Meio."
    ]
   },
   {
@@ -4938,7 +4938,7 @@
    },
    "notes": "",
    "uncertain": [
-    "ここまで: impersonal 'that's all for today' kept (Min retreating)."
+    "[jp]: impersonal 'that's all for today' kept (Min retreating)."
    ]
   },
   {
@@ -4988,7 +4988,7 @@
    },
    "notes": "",
    "uncertain": [
-    "なんという… trails off in the source; kept the omission."
+    "[jp]… trails off in the source; kept the omission."
    ]
   },
   {
@@ -5555,7 +5555,7 @@
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 347
    },
-   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full 竜馬 remains Ryoma.",
+   "notes": " Source nickname maps to Ryo per campaign_terms.json and https://srw.wiki.cre.jp/wiki/流竜馬; full [jp] remains Ryoma.",
    "uncertain": [
     "Source says 'Ryou-kun' (nickname for Ryoma). No glossary entry for the nickname; used glossary short name 'Ryoma'. Could be 'Ryo' if the project prefers nicknames. Honorific -kun dropped."
    ]

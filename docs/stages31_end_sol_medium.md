@@ -9,7 +9,9 @@ The queue is `work/output/stages31_end_sol_medium_manifest.json` and uses
 235 separate packets, at most 80 rows each, for 16,661 fresh rows. Six actual
 workers share each group in waves of at most three simultaneous translators.
 All 235 packets and stages/groups 31–58 are translated and coordinator-reviewed;
-local insertion and game testing remain pending.
+all translations are inserted into local 0.4.3. Finished-ISO readback covers every
+original readable use and preserves every script command. Targeted native loader
+and renderer checks pass; full campaign playthrough remains pending.
 
 Source-queue coverage audit: all 203 original scene blocks and 51,366 readable
 scene/string uses are represented by the prologue and all stage/group sources;
@@ -43,9 +45,10 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–56 now total 15,694 reviewed fresh rows, 20,287 full rows and 218 packets.
-Unused-scene and closing-message review are in progress; all drafts are complete. No later
-dialogue has yet been inserted into an ISO.
+Stages/groups 31–58 total 16,661 reviewed fresh rows, 21,257 full rows and 235 packets.
+Unused-scene and closing-message review is complete. All later dialogue is in local
+0.4.3, including every ending, hidden-stage, unused-scene and closing-message use.
+No GitHub release was created. See `docs/HANDOFF.md` for artifact and runtime evidence.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved

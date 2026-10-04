@@ -113,7 +113,7 @@
    "en": "A mass-production Dragonar. A main weapon of the Earth Alliance Forces, built at the secret weapons factory in Chongqing by making use of the combat data of the D-Weapons. Equipped with an excellent auto-sensor, it has, on paper, the combined capabilities of three machines: Dragonar-1, Dragonar-2 and Dragonar-3. Although it was given what, when you think about it, is only natural for a mass-production machine (specs superior to the prototypes), for the sake of the story it ended up as nothing more than a mecha that exists to be beaten.",
    "notes": "",
    "uncertain": [
-    "'Earth Alliance Forces' follows the game's wording (連合); the official Sunrise site says 'Earth Federation'."
+    "'Earth Alliance Forces' follows the game's wording ([jp]); the official Sunrise site says 'Earth Federation'."
    ],
    "_group": "A"
   },
@@ -212,7 +212,7 @@
    "en": "A mystical super robot built through the science of the ancient Mu Empire 12,000 years ago. Normally it is stored in a golden base-body state inside Divine Face Rock, and it starts moving when Akira climbs into it (fade-in). It uses the mysterious energy Mutron, and the Mutron metal used in its armor exhibits self-repair ability by returning to the base-body state. There are also many parts of its interior that remain unexplained, and in the latter half of the original story it showed its true power through a Mutron energy release device called the Star of Ra Mu. Its main finishing move is Godbird, in which it transforms into a bird form and charges at Mach 7. Raideen can be piloted only by Akira, who carries the blood of Ra Mu, emperor of the Mu Empire, and its control method is a unique one that is integrated with Akira's body movements.",
    "notes": "",
    "uncertain": [
-    "'Divine Face Rock' (神面岩): ja Wikipedia writes 人面岩 (Human-Face Rock); kept the game's wording."
+    "'Divine Face Rock' ([jp]): ja Wikipedia writes [jp] (Human-Face Rock); kept the game's wording."
    ],
    "_group": "A"
   },
@@ -242,7 +242,7 @@
    "name_jp": "ガデス",
    "name_en": "Gades",
    "en": "The boss of the space crime organization Gyandlar. Gyandlar's goal is to rule the entire universe and bring darkness and fear. It is also searching for Hyribead, an infinite energy said to grant eternal life. Gades is a villain who has wandered space for thousands of years piling up evil deeds, and trusts no one but himself. His sorcerous power is such that he can paralyze enemies in distant places. He attacked planet Cronos after Hyribead, but his ambition was thwarted by the Cronos tribe warriors, including Rom. He hates having rust form on his body to an extreme degree, and always kept with him a dedicated robot, Bibibi Mouse, to polish his body.",
-   "notes": "Batch label was 'Gades' (kana ガデス) with series Machine Robo: correct.",
+   "notes": "Batch label was 'Gades' (kana [jp]) with series Machine Robo: correct.",
    "uncertain": [
     "Gender male per ja Wikipedia/voice actors (glossary).",
     "'Bibibi Mouse' romanized from kana."
@@ -330,7 +330,7 @@
    "name_jp": "第５使徒ラミエル",
    "name_en": "5th Angel Ramiel",
    "en": "The fifth Angel confirmed. It has a regular octahedral exterior and attacks approaching enemies with a powerful charged particle cannon. To defeat this Angel, NERV used a hastily built modified positron cannon for EVAs (NERV spec) and carried out Operation Yashima, supplying it with electric power from all over Japan.",
-   "notes": "Library entry 166; batch label was '無し' (name from the unit table: [jp]). Cross-series (Evangelion).",
+   "notes": "Library entry 166; batch label was '[jp]' (name from the unit table: [jp]). Cross-series (Evangelion).",
    "uncertain": [],
    "_group": "A"
   },
@@ -399,7 +399,7 @@
    "en": "One of the Machine Professionals that infiltrated Earth hidden in meteorites; this one emerged from a meteorite that fell near Mikazuki Island. Machine Professionals are higher beings than Machine Beasts and possess advanced intelligence. It is good at high-speed aerial combat and can also transform into a flight form. The Photon Rifle is a versatile weapon that can also transform into a Photon Scythe.",
    "notes": "Library entry 173; cross-series (Dendoh).",
    "uncertain": [
-    "'Machine Professional' for 機士 follows English Wikipedia ('Professional Machines')."
+    "'Machine Professional' for [jp] follows English Wikipedia ('Professional Machines')."
    ],
    "_group": "A"
   },
@@ -430,7 +430,7 @@
    "en": "A Machine Beast born by taking in Earth's attack satellites. It was used in Gulfer's first descent operation, and eighteen in total have been confirmed. As they gathered to respond to Dendoh's activation, they were all wiped out together by the Flash Lightning Blade Strike.",
    "notes": "Library entry 176; cross-series (Dendoh).",
    "uncertain": [
-    "'Flash Lightning Blade Strike' (閃光雷刃撃) translated literally; no English source."
+    "'Flash Lightning Blade Strike' ([jp]) translated literally; no English source."
    ],
    "_group": "A"
   },
@@ -660,7 +660,7 @@
    "en": "A machine of Hokushin's Six. Pronounced \"Muzura.\" An airframe that omits the legs and emphasizes mobility, and it is also capable of a single-use boson jump through an external unit. It excels at \"Kugutsu-mai\" (Puppet Dance), an irregular mobile attack that uses rotating turret nozzles. Like Yatenko, it also has a field generator around the cockpit.",
    "notes": "Library entry 200; cross-series (Nadesico movie). The batch label was Iron Sand.",
    "uncertain": [
-    "'Hokushin's Six' is a translation of 北辰６人衆 (no English source)."
+    "'Hokushin's Six' is a translation of [jp] (no English source)."
    ],
    "_group": "A"
   },
@@ -705,7 +705,7 @@
    "name_jp": "ゲイザム",
    "name_en": "Geizum",
    "en": "A prototype Metal Armor of the Giganos forces. A high-performance machine that Gon Jem used as his personal unit, but it seems it never reached mass production. The grenades at the waist and the Azure Dragon sword on the back seem to reflect Gon Jem's tastes. Its attack power was nonetheless high, and the Azure Dragon sword, coated with a special alloy, combined with Gon Jem's skill, was sharp enough to cut through even the D-1's shield. The cobra painted on the shoulder is the emblem of the Gon Jem Squad.",
-   "notes": "Library entry 205; batch label was Zarios. Unit-table name Geizam (ゲイザム).",
+   "notes": "Library entry 205; batch label was Zarios. Unit-table name Geizam ([jp]).",
    "uncertain": [],
    "_group": "A"
   },
@@ -725,7 +725,7 @@
    "en": "A machine made by fitting a MAFFU flight unit to the Gelf, a high-performance Metal Armor deployed only in small numbers to the Practice Squad and the Imperial Guard Armored Division. The Gelfs that the Practice Squad ride are painted in special colors. It can be called a simplified Falguen, and has Simole Type-A passive armor and a radar more sensitive than a maiden's skin.",
    "notes": "Library entry 207; batch label was Devil Saturn 6.",
    "uncertain": [
-    "'Imperial Guard Armored Division' vs. 'Armored Corps' used elsewhere (the library writes both 親衛機甲師団/兵団)."
+    "'Imperial Guard Armored Division' vs. 'Armored Corps' used elsewhere (the library writes both [jp]/[jp])."
    ],
    "_group": "A"
   },
@@ -805,7 +805,7 @@
    "en": "A giant saucer battleship that launches from the Skull Moon base on the Moon. Normally it is hung from the symbol tower of Skull Moon. Under the command of Captain Blacky, it served as a combat mothership carrying Saucer Beasts and Mini Fours. It has powerful beam cannons and sturdy armor.",
    "notes": "Library entry 251; batch label was Gelf Maffu. Cross-series (Grendizer).",
    "uncertain": [
-    "'Mother Barn' vs. 'Mother Burn' (kana マザーバーン)."
+    "'Mother Barn' vs. 'Mother Burn' (kana [jp])."
    ],
    "_group": "A"
   },
@@ -953,7 +953,7 @@
    "en": "A support mecha for Dendoh, developed in GEAR Britain. During battle, it swaps Dendoh's Hyper Dendoh Batteries from the air. It carries 4 batteries, which allows two battery changes. With the arrival of the Cell Fighter, Dendoh's ability to keep fighting improved dramatically, and the range of possible operational formations also widened.",
    "notes": "",
    "uncertain": [
-    "作戦形態の幅 rendered \"range of possible operational formations\""
+    "[jp] rendered \"range of possible operational formations\""
    ],
    "_group": "B"
   },
@@ -982,7 +982,7 @@
    "en": "A dragon-type data weapon that symbolizes \"Compassion.\" It has a calm, hard-to-please personality, is learned, and tends to love solitude. It often materialized to fight. Its attribute is \"Flame.\"",
    "notes": "",
    "uncertain": [
-    "慈愛 rendered \"Compassion\" (could also be \"Benevolence\")"
+    "[jp] rendered \"Compassion\" (could also be \"Benevolence\")"
    ],
    "_group": "B"
   },
@@ -1056,7 +1056,7 @@
    "en": "Dendoh equipped with a number of weapons that Dr. Inoue secretly built in case the data weapons became unusable. Many of the weapons use physical rounds or energy packs, so battery consumption can be kept down. They are basically disposable, and once a weapon is out of ammunition, it is purged so that Dendoh can fight with a lighter body. It was probably made with a hint taken from the line Hokuto said when he first rode Dendoh: \"Don't you have any weapons? Like missiles, or beams, or swords, or bows, or yo-yos?\"",
    "notes": "",
    "uncertain": [
-    "おそらく...と思われる kept as a hedge (\"seems to have been made, probably...\")"
+    "[jp]...[jp] kept as a hedge (\"seems to have been made, probably...\")"
    ],
    "_group": "B"
   },
@@ -1068,7 +1068,7 @@
    "notes": "",
    "uncertain": [
     "Title reading: the text says [jp] is read [jp]; rendered \"GEAR Senshi Dendo\" read \"Gear Fighter Dendoh\"",
-    "反磁力線 rendered \"anti-magnetic lines of force\""
+    "[jp] rendered \"anti-magnetic lines of force\""
    ],
    "_group": "B"
   },
@@ -1249,7 +1249,7 @@
    "en": "An Aestivalis with reinforced armament and output, commonly known as the Super Aestivalis. It is a powered-up version of the machine used exclusively by Akatsuki during the Jovian War. Aestivalis is the general name for a series of close-combat humanoid weapons developed by Nergal Heavy Industries, and by swapping various frames it can adapt to any battlefield. Also, because it has no generator of its own and operates by receiving a gravity beam from a battleship, it is small yet high-output. However, its control uses an IFS (Image Feedback System), and pilots must be injected with IFS nanomachines, so many people dislike it. In fact, after the end of the Jovian War, machines made by the Crimson Group, which do not require nanomachine injection, were officially adopted, but a small number of pilots still use customized Aestivalis.",
    "notes": "",
    "uncertain": [
-    "蜥蜴戦争 rendered \"the Jovian War\" (literal: Lizard War)",
+    "[jp] rendered \"the Jovian War\" (literal: Lizard War)",
     "The entry name is Saburota's Super Aestivalis (Akatsuki's earlier machine is referred to in the text)"
    ],
    "_group": "B"
@@ -1271,7 +1271,7 @@
    "notes": "",
    "uncertain": [
     "Sarutahiko: not found in any English source; kept as romanized name",
-    "チューリップ rendered \"Chulip\" (the Jovian dimensional leap gate)"
+    "[jp] rendered \"Chulip\" (the Jovian dimensional leap gate)"
    ],
    "_group": "B"
   },
@@ -1282,7 +1282,7 @@
    "en": "A Hakke robot bearing the title of \"Heavens.\" Its power is the greatest among the Hakke robots. It was built by Tekkoryu but was stolen after completion. It was then secretly placed under the control of the Japanese government, but with Tekkoryu's start of activity it became a target for recapture. It has no optional equipment at all, and fights with beams and shock waves fired from the light spheres on the backs of its hands, and with melee combat. Its finishing move, the \"Hades Attack,\" fired by bringing the light spheres on its chest and both arms together in front of the chest, has the power to break down every atom. It can also deploy a high-output barrier, making it a machine well balanced in both offense and defense. Each Hakke robot can only be piloted by a specific person, but Zeorymer is a special machine that requires two people: main pilot Masato Akitsu and sub-pilot Miku Himuro. However, Miku is only support, and only Masato can pilot it. Masato alone can also move it, but its power drops. It is housed in the hangar of the Japanese government's secret base \"Last Guardian,\" beneath the Aokigahara sea of trees, in a state divided into four parts: the chest light sphere, upper torso, both arms, and lower body.",
    "notes": "",
    "uncertain": [
-    "メイオウ攻撃 rendered \"Hades Attack\" (SRW wiki term; romaji Meioh Attack)"
+    "[jp] rendered \"Hades Attack\" (SRW wiki term; romaji Meioh Attack)"
    ],
    "_group": "B"
   },
@@ -1300,11 +1300,11 @@
    "name_jp": "ファルゲン・マッフ",
    "name_en": "Falguen MAFFU",
    "en": "Falguen, the dedicated metal armor of Captain Meio Plato, fitted with a MAFFU flight unit. Falguen can be called a prototype of the Dragonar, and is Giganos's newest machine, designed and developed by Dr. Lang Plato, Meio's father. However, because it has a high generator output, it is a touchy machine that requires considerable skill to pilot. It can be said that only Meio, known as the Blue Hawk of Giganos, could handle it. Also worth noting is that it uses Shimour Type-A passive armor, a reversible elastic metal close to hard rubber, as its armor, which allows flexible movement.",
-   "notes": "Batch label was ガルファ皇帝 ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "Names from Dragonar (Meio Plato, Lang Plato, Falguen, MAFFU, Giganos) taken from Wikipedia/Akurasu; Japanese マイヨ is Maiyo (Akurasu episode list uses \"Maio\")",
+    "Names from Dragonar (Meio Plato, Lang Plato, Falguen, MAFFU, Giganos) taken from Wikipedia/Akurasu; Japanese [jp] is Maiyo (Akurasu episode list uses \"Maio\")",
     "[jp] rendered \"Shimour Type-A passive armor\"; no English source found",
-    "マイヨ is called \"Captain\" (大尉) in the text; rank as written"
+    "[jp] is called \"Captain\" ([jp]) in the text; rank as written"
    ],
    "_group": "B"
   },
@@ -1313,12 +1313,12 @@
    "name_jp": "ヤクト・ゲルフ・マッフ",
    "name_en": "Jagd Gelf MAFFU",
    "en": "Jagd Gelf, a long-range support metal armor, fitted with a MAFFU unit. To counter the Dragonars, which excel at three-unit formation attacks, Giganos refitted the Gelf and developed the heavy-artillery Jagd Gelf and the electronic-warfare Reb Gelf. Besides Welner's machine of the Practice Squad, the Jagd Gelf was also used by Chender of Gelbock's unit.",
-   "notes": "Batch label was ガルファ素体 ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "ゲルボック隊 rendered \"Gelbock's unit\" (name of the commander/unit; spelling unverified)",
-    "チェンドル rendered \"Chender\" (spelling unverified)",
+    "[jp] rendered \"Gelbock's unit\" (name of the commander/unit; spelling unverified)",
+    "[jp] rendered \"Chender\" (spelling unverified)",
     "[jp] rendered \"Practice Squad\" (Wikipedia)",
-    "ウェルナー rendered \"Welner\" (Welner Fritz in Wikipedia/Akurasu); the text gives only the first name"
+    "[jp] rendered \"Welner\" (Welner Fritz in Wikipedia/Akurasu); the text gives only the first name"
    ],
    "_group": "B"
   },
@@ -1327,9 +1327,9 @@
    "name_jp": "レビ・ゲルフ・マッフ",
    "name_en": "Reb Gelf MAFFU",
    "en": "Reb Gelf, the electronic-warfare type, fitted with a MAFFU unit. It is less specialized than the D-3, and can also perform direct support combat. It was used for platoon combat, and besides the Practice Squad, Gelbock's unit also used it. Of course, this color scheme is exclusive to the Practice Squad.",
-   "notes": "Batch label was 機士ウィルス ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "ゲルボック隊 rendered 'Gelbock's unit' (spelling unverified)"
+    "[jp] rendered 'Gelbock's unit' (spelling unverified)"
    ],
    "_group": "B"
   },
@@ -1338,9 +1338,9 @@
    "name_jp": "ドーラ",
    "name_en": "Dolla",
    "en": "A metal armor for localized combat. By swapping the lower part for either the bike-type Gunzar or the boat-type Gelfar, it can be used for both land and naval combat, an innovative machine. The state combined with Gunzar is called Gandora, and the state combined with Gelfar is called Geldora. In both forms it was often used for parachute drop operations.",
-   "notes": "Batch label was 機士エラー ([jp]); corrected to ドーラ ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "ガンツァー / ゲルファー / ガンドーラ / ゲルドーラ rendered \"Gunzar / Gelfar / Gandora / Geldora\"; no English source found (Akurasu has \"Stark Gan-Dolla\")"
+    "[jp] / [jp] / [jp] / [jp] rendered \"Gunzar / Gelfar / Gandora / Geldora\"; no English source found (Akurasu has \"Stark Gan-Dolla\")"
    ],
    "_group": "B"
   },
@@ -1349,10 +1349,10 @@
    "name_jp": "ダウツェン",
    "name_en": "Dauzehn",
    "en": "An aerial-combat machine developed to save the trouble of attaching a flight unit to a metal armor, and called a Volg Armor. For high-speed flight, it can fold its legs into a flight form to reduce air resistance. Compared with its sibling machine Schwarg, Dauzehn emphasizes attack power and has the role of an attack aircraft.",
-   "notes": "Batch label was 機士バグ ([jp]); corrected to ダウツェン ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "[jp] rendered \"Volg Armor\"; シュワルグ rendered \"Schwarg\"; no English source found",
-    "ダウツェン = Dauzehn (Akurasu); Wikipedia writes Dauzhen"
+    "[jp] rendered \"Volg Armor\"; [jp] rendered \"Schwarg\"; no English source found",
+    "[jp] = Dauzehn (Akurasu); Wikipedia writes Dauzhen"
    ],
    "_group": "B"
   },
@@ -1363,8 +1363,8 @@
    "en": "One of the Devil Gundam's Four Heavenly Kings, the form Nobel Gundam took after being changed by DG Cells. It is also known as \"Shouhou Kouko.\" It is suited to underwater combat, and has a spherical Attack Mode and a humanoid Standing Mode, and can also close its shutters completely to take a defensive form. After Allenby was rescued, Wong rode in it. It is also equipped with the Berserker System, further strengthened by the influence of the DG Cells.",
    "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "別名 given in kana/kanji: 笑倣江湖 romanized \"Shouhou Kouko\"",
-    "Wong = Wong Yunfat (ウォン); text only says Wong",
+    "[jp] given in kana/kanji: [jp] romanized \"Shouhou Kouko\"",
+    "Wong = Wong Yunfat ([jp]); text only says Wong",
     "[jp]: kept as written (subject who rode: Wong)"
    ],
    "_group": "B"
@@ -1376,8 +1376,8 @@
    "en": "One of the Devil Gundam's Four Heavenly Kings, the form Neros Gundam took after being changed by DG Cells. It is also known as \"Tenken Zettou.\" It is suited to aerial combat and can transform between Attack Mode, a bird-shaped flight form, and humanoid Standing Mode. Because of the DG Cells it has an abnormal regeneration ability. It favors hit-and-run tactics that take advantage of its high speed, and its finishing move has also been upgraded from the \"Silver Foot\" to the \"Rainbow Foot.\"",
    "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "別名 天剣絶刀 romanized \"Tenken Zettou\"",
-    "銀の足 / 虹色の足 rendered \"Silver Foot\" / \"Rainbow Foot\" (could be \"Silver Leg/Kick\")"
+    "[jp] [jp] romanized \"Tenken Zettou\"",
+    "[jp] / [jp] rendered \"Silver Foot\" / \"Rainbow Foot\" (could be \"Silver Leg/Kick\")"
    ],
    "_group": "B"
   },
@@ -1388,7 +1388,7 @@
    "en": "One of the Devil Gundam's Four Heavenly Kings, the form John Bull Gundam took after being changed by DG Cells. It is also known as \"Shiou Souha.\" A machine suited to land combat, it can transform between a four-legged beast Attack Mode and a humanoid Standing Mode. In addition to mid-range combat such as all-range attacks with the extendable Grand Bomber, its super-heavyweight charge attack at point-blank range is immensely powerful.",
    "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "別名 獅王争覇 romanized \"Shiou Souha\"",
+    "[jp] [jp] romanized \"Shiou Souha\"",
     "[jp] rendered \"Grand Bomber\""
    ],
    "_group": "B"
@@ -1400,7 +1400,7 @@
    "en": "The strongest machine, rebuilt by the Devil Gundam inside its own body from the data of the Devil Gundam's Four Heavenly Kings: Master Gundam, Gundam Heaven's Sword, Grand Gundam and Walter Gundam. It is based on the main power furnace of the Neo Japan colony and combines the abilities of all four Heavenly Kings. It is a monster that regenerated even after being defeated by the Shuffle Alliance Fist. Major Urube, infected with DG Cells, boarded it and challenged Domon and the others to a final battle.",
    "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "ウルベ少佐 = Major Ulube Ishikawa; text gives only the surname Ulube",
+    "[jp] = Major Ulube Ishikawa; text gives only the surname Ulube",
     "[jp] rendered \"Shuffle Alliance Fist\""
    ],
    "_group": "B"
@@ -1410,9 +1410,9 @@
    "name_jp": "デスアーミー",
    "name_en": "Death Army",
    "en": "A machine born as part of the Devil Gundam's self-replication ability. There is nothing remarkable in its performance, but it always acts in large units and attacks all at once. It is the base machine of the Death series that the Devil Gundam produces, and there are many variations, such as flying and underwater types. Its weapon is a club-shaped beam rifle that can be used for both melee and shooting.",
-   "notes": "Batch label was [jp] ([jp]); corrected to デスアーミー ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "デスシリーズ rendered \"Death series\""
+    "[jp] rendered \"Death series\""
    ],
    "_group": "B"
   },
@@ -1421,7 +1421,7 @@
    "name_jp": "デスバーディ",
    "name_en": "Death Birdy",
    "en": "A variation of the Death Army. It is joined to a flight unit and takes a bird-like form. It is armed with a large beam cannon, but as with the other series, acting in groups is its greatest weapon. Even if it loses its flight unit, it can continue operating as an ordinary Death Army.",
-   "notes": "Batch label was 機士レガシー ([jp]); corrected to デスバーディ ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [],
    "_group": "B"
   },
@@ -1430,10 +1430,10 @@
    "name_jp": "デビルガンダム（最終）",
    "name_en": "Devil Gundam (Final Form)",
    "en": "The Devil Gundam, born when the Ultimate Gundam that fell to the ground went out of control, in its final evolved form. It has a peculiar shape: an upper body of the same lineage as Shining Gundam and a lower body formed by a giant transformed head. The DG Cells that make up its body inherit the three great theories of the Ultimate Cell, and through terrifying self-replication it absorbs all living things and machines and turns them into DG. Its weapons are enormous extendable claws deployed from both shoulders and beams fired from various parts of its body, and it has overwhelming power. Human spirit is essential for the Devil Gundam to display its true power, and Rain was incorporated as the human best suited to be the living unit.",
-   "notes": "Batch label was 機士ロック ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
     "[jp] rendered \"three great theories of the Ultimate Cells\"",
-    "レイン = Rain Mikamura (surname not in the text)"
+    "[jp] = Rain Mikamura (surname not in the text)"
    ],
    "_group": "B"
   },
@@ -1444,10 +1444,10 @@
    "en": "A mass-produced version of the Great Mazinger that appears in Gosaku Ota's manga version of \"Great Mazinger.\" Shinsuminichi Heavy Industries, which had developed the humanoid weapon GMFA-1, obtained the blueprints of the Great Mazinger by illegal means and built it. Its appearance and performance are basically the same as the original, but the mass-produced type has a number marked on its chest. Also, in the work, in order to distinguish the original from the mass-produced type, Boss painted \"Ganso\" (Original) on the waist of Tetsuya's Great Mazinger. Besides these, there is one mass-produced Great Mazinger with an all-black body.",
    "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "新住日重工 rendered \"Shin Sumi Nichi Heavy Industries\"; no English source found",
-    "ＧＭＦＡ１ rendered \"GMFA1\" unchanged",
-    "桜多吾作 rendered \"Gosaku Ota\" (Mazinger fandom)",
-    "元祖 rendered \"Ganso\" (Original)"
+    "[jp] rendered \"Shin Sumi Nichi Heavy Industries\"; no English source found",
+    "[jp] rendered \"GMFA1\" unchanged",
+    "[jp] rendered \"Gosaku Ota\" (Mazinger fandom)",
+    "[jp] rendered \"Ganso\" (Original)"
    ],
    "_group": "B"
   },
@@ -1456,10 +1456,10 @@
    "name_jp": "合体百鬼ロボット",
    "name_en": "Combined Hyakki Robot",
    "en": "The strongest robot of the Hyakki Empire, manufactured at a secret underground base on Izu Oshima. It was planned to be a combination of six units: Mecha Raidenki, Mecha Renmaki, Mecha Ankyuki, Mecha Kokoki, Mecha Raijuki and Mecha Tenppoki, but because Mecha Raidenki, which sortied to intercept Getter Robo that had flown to Oshima, was destroyed, it became a five-unit combination. General Hidler and Dr. Gura personally boarded it. It has overwhelming firepower and power, including beams from the eyes and drill, flame from the mouth, and missiles on the chest. It can also separate into the individual Hyakki robots. After the separated Hyakki robots were destroyed and its power dropped, it was defeated by Shine Spark.",
-   "notes": "Batch label was ダイテツジン ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "Names of the component robots follow the Getter Robo fandom wiki (Renmaki, Ankyuki, Tenppoki); the Japanese text is 輪魔鬼, 闇虫鬼, 十方鬼; Akurasu romanizes differently",
-    "ヒドラー元帥 rendered \"General Hidler\" (元帥 literally Marshal)"
+    "Names of the component robots follow the Getter Robo fandom wiki (Renmaki, Ankyuki, Tenppoki); the Japanese text is [jp], [jp], [jp]; Akurasu romanizes differently",
+    "[jp] rendered \"General Hidler\" ([jp] literally Marshal)"
    ],
    "_group": "B"
   },
@@ -1468,7 +1468,7 @@
    "name_jp": "メカ一角鬼",
    "name_en": "Mecha Ikkakuki",
    "en": "The first Hyakki robot, which the Hyakki Empire sent out to seize the Getter ray amplifier. Hyakki robots are named by adding \"Mecha\" to the front of the pilot's name. It has a variety of weapons, such as a strange ray from its eyes and beams from its horn. It took Genki, Michiru's younger brother, hostage, but he was rescued thanks to Hayato's quick wits, and it was defeated by the tremendous power of Getter Dragon.",
-   "notes": "Batch label was ダイマジン ([jp]); corrected to メカ一角鬼 ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [],
    "_group": "B"
   },
@@ -1477,10 +1477,10 @@
    "name_jp": "メカ大輪鬼",
    "name_en": "Mecha Tairinki",
    "en": "A Hyakki robot piloted by Dairinki, the Hyakki Empire's strongest man in raw strength. It was scheduled to be mounted on Mecha Yousaiki, but Dairinki, burning to avenge the Hundred Demons who had been defeated up to then, ran ahead and challenged Getter Robo alone. Its weapons are the missiles on both shoulders and the spiked large wheels fitted to both hands. The large wheels can also be used as strong shields. It gave Getter Dragon and Liger a hard time, but Getter Poseidon caught the large wheel, and it was destroyed by Getter Cyclone and Strong Missile.",
-   "notes": "Batch label was デンジン ([jp]); corrected to メカ大輪鬼 ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "百人衆 rendered \"the Hundred Demons\"; 大輪鬼 rendered \"Dairinki\" (Getter fandom); Akurasu writes Tairinki",
-    "メカ要塞鬼 rendered \"Mecha Fortress Demon\" (fandom: Mecha Yosaiki, Fortress Demon)",
+    "[jp] rendered \"the Hundred Demons\"; [jp] rendered \"Dairinki\" (Getter fandom); Akurasu writes Tairinki",
+    "[jp] rendered \"Mecha Fortress Demon\" (fandom: Mecha Yosaiki, Fortress Demon)",
     "Dairinki's gender is not established; no pronoun used"
    ],
    "_group": "B"
@@ -1490,9 +1490,9 @@
    "name_jp": "メカ暴竜鬼",
    "name_en": "Mecha Bouryuki",
    "en": "A Hyakki robot piloted by Isamu, Hayato's childhood friend, who was blinded by money and power and converted by the Hyakki Empire into Boryuki. Its weapons are beams from the horn on its head, a drill at the waist, and convergent beams fired from the horns all over its body. It had all its horns destroyed by Getter Liger, then crashed and exploded.",
-   "notes": "Batch label was カトンボ ([jp]); corrected to メカ暴竜鬼 ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "暴竜鬼 rendered \"Boryuki\" (Getter fandom); Akurasu writes Bouryuki",
+    "[jp] rendered \"Boryuki\" (Getter fandom); Akurasu writes Bouryuki",
     "Isamu's gender not established; no pronoun used for Isamu"
    ],
    "_group": "B"
@@ -1502,10 +1502,10 @@
    "name_jp": "メカ要塞鬼",
    "name_en": "Mecha Yousaiki",
    "en": "A carrier-type Hyakki robot manufactured for the all-out attack on Japan. It is 120 m long, with a volume 8 times that of Getter Robo. Mecha Tairinki and Mecha Hangetsuki are built into the left and right wings, and it was designed to carry 200 fighters and 100 bombers. It launched from Battleship Island while Getter Robo was fighting Mecha Tairinki, and left the Saotome Institute half destroyed. It attacks with missiles fired from its shoulders and by ramming with the auxiliary wings it extends after its wings are destroyed. It was defeated by Getter Dragon's new finishing move, Shine Spark.",
-   "notes": "Batch label was 積尸気 ([jp]); corrected to メカ要塞鬼 ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "メカ半月鬼 rendered \"Mecha Hangetsuki\" (fandom)",
-    "軍艦島 rendered \"Battleship Island\" (Gunkanjima)"
+    "[jp] rendered \"Mecha Hangetsuki\" (fandom)",
+    "[jp] rendered \"Battleship Island\" (Gunkanjima)"
    ],
    "_group": "B"
   },
@@ -1514,11 +1514,11 @@
    "name_jp": "円盤獣ギルギル",
    "name_en": "Saucer Beast Girugiru",
    "en": "The first saucer beast sent by the Vegan Empire. A saucer beast is a robot whose saucer opens and transforms into various forms, and many types exist. It attacks with strange rays from its eyes, high-temperature flame breathed from its mouth, and ramming in its saucer form with extended blades. It took TFO hostage but was easily rescued, and was defeated by the overwhelming power of Grendizer. Also, according to what was told later, the brain of the younger brother of Duke Fleed's lover Naida was apparently used as a living part in Girugiru.",
-   "notes": "Batch label was 六連 ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
-    "ナイーダの弟 read as the younger brother of Duke Fleed's lover Naida (the other reading, Naida being the younger brother, rejected); Naida spelling unverified",
-    "ベガ星連合軍 rendered \"Vega Star Alliance forces\" (Wikipedia: Vegan Empire; Akurasu: Vega Empire)",
-    "ギルギル rendered \"Girugiru\" (Wikipedia/Akurasu spelling)"
+    "[jp] read as the younger brother of Duke Fleed's lover Naida (the other reading, Naida being the younger brother, rejected); Naida spelling unverified",
+    "[jp] rendered \"Vega Star Alliance forces\" (Wikipedia: Vegan Empire; Akurasu: Vega Empire)",
+    "[jp] rendered \"Girugiru\" (Wikipedia/Akurasu spelling)"
    ],
    "_group": "B"
   },
@@ -1527,10 +1527,10 @@
    "name_jp": "円盤獣ジラジラ",
    "name_en": "Saucer Beast Jirajira",
    "en": "A saucer beast piloted by Guard member Jigra. As a guard unit it has higher capabilities than other saucer beasts. Its body in saucer form is covered with Veganium super alloy, which bounced off all of Grendizer's weapons, and it attacks with the rotating cutters on the sides of the machine. After transforming into humanoid form, it uses the saucer as a shield, fires a powerful destruction beam, and extends the whip-like fingers on its right hand to entangle Grendizer.",
-   "notes": "Batch label was 夜天光 ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
+   "notes": "Batch label was [jp] ([jp]); corrected to [jp] ([jp]) per the orchestrator's fix_B.txt. Cross-series entry: translated with the best researched names; please reconcile with the group that owns the series.",
    "uncertain": [
     "[jp] rendered \"Veganium super alloy\"; Grendizer fandom uses \"Vegatron\" for a different substance; no English source found",
-    "親衛隊員 rendered \"Guard member\"; Akurasu calls Jigra \"Commander Jigra\""
+    "[jp] rendered \"Guard member\"; Akurasu calls Jigra \"Commander Jigra\""
    ],
    "_group": "B"
   },
@@ -1539,7 +1539,7 @@
    "name_jp": "ＥＶＡ３号機",
    "name_en": "EVA-03",
    "en": "A production-model Evangelion that follows EVA-02. It is piloted by Toji Suzuhara, who was chosen as the Fourth Child. It was shipped from NERV's 1st Branch in the United States to Japan, and during an activation test at the Second Experimental Site in Matsushiro, it was taken over by the 13th Angel Bardiel with Toji still inside. Incidentally, the reason its designation is written with the plain numeral 3 rather than with the formal kanji numeral for three, as the other units' designations are, is that this unit was built in the United States.",
-   "notes": "The Japanese point is that the unit is written with the plain numeral 3 (3号機) rather than the formal kanji 参 (参号機), as the other Evas are. English cannot show the kanji, so the sentence explains it.",
+   "notes": "The Japanese point is that the unit is written with the plain numeral 3 (3[jp]) rather than the formal kanji [jp] ([jp]), as the other Evas are. English cannot show the kanji, so the sentence explains it.",
    "uncertain": [
     "Wording of the final sentence about 3 vs. the formal numeral kanji is a compromise, since the kanji cannot be shown in ASCII."
    ],
@@ -1590,7 +1590,7 @@
    "en": "EVA-01 in a berserk state. The berserk state is a mysterious behavior seen only in EVA-01. It is triggered mainly in desperate situations, and even Shinji, the pilot, cannot control it. In the berserk state Unit-01 is ferocious and destroys its enemies thoroughly. It also displays regenerative ability, and has even restored a severed arm by itself. In episode 18 of the TV series, it seems that Unit-01 was made to go berserk deliberately by a Dummy System that imitated Rei Ayanami's personality.",
    "notes": "",
    "uncertain": [
-    "Episode 18 (拾八話) rendered as 'episode 18'.",
+    "Episode 18 ([jp]) rendered as 'episode 18'.",
     "'Dummy System' used for [jp], matching the glossary."
    ],
    "_group": "C"
@@ -1755,7 +1755,7 @@
    "en": "A new TERRA weapon. It was brought into TERRA from the Bahbem Foundation and assigned to Alpha Squadron. Since only one unit was deployed at first, Elvy, the squadron leader, became its pilot. Unlike RahXephon, which only Ayato can ride, its cockpit is built very much like the Shinsei's, so even ordinary pilots can operate it with training. It has a weapon called the \"Bausgazal\" that can fire a railgun and wave-light bullets, and its power is such that a single shot blows away a reef. It also has the absolute barrier penetration system TDDU built in, and can break through the TOKYO JUPITER barrier under its own power. While on standby it is housed with a dedicated maintenance arm connected to and holding the thruster section at the waist, and at launch it is shot out directly from this state. Incidentally, the internal structure of the Vermillion is completely unknown.",
    "notes": "",
    "uncertain": [
-    "'Shinsei' here is the fighter 晨星 (Shinsei Type II), not 真聖.",
+    "'Shinsei' here is the fighter [jp] (Shinsei Type II), not [jp].",
     "'Bausgazal' is an unverified romanization."
    ],
    "_group": "C"
@@ -1767,8 +1767,8 @@
    "en": "An Anti-D fighter of the Earth Federation air force. It is armed with high-speed missiles and boasts high maneuverability. However, because it has no effective equipment against Dolems, it often ended up supporting RahXephon. The absolute barrier penetration system TDDU can be installed. The reason the machine Elvy flies is painted red is that it is the squadron leader's machine.",
    "notes": "",
    "uncertain": [
-    "Name 'Shinsei Type II' is a romanization (晨星, morning star); no English source.",
-    "地球連合軍 rendered 'Earth Federation' per the wiki."
+    "Name 'Shinsei Type II' is a romanization ([jp], morning star); no English source.",
+    "[jp] rendered 'Earth Federation' per the wiki."
    ],
    "_group": "C"
   },
@@ -1779,8 +1779,8 @@
    "en": "A giant god that awoke from the dimensional egg in the Seon Temple \"Room of Rah,\" located under the MU Tokyo Government-General in the center of TOKYO JUPITER. It moves by synchronizing with Ayato's consciousness, and no one but Ayato can pilot it. However, it can act autonomously, attack in self-defense, and move on its own in search of Ayato. When the chest armor opens, a core appears, and it takes Ayato into its womb through the core. The inner cavern that corresponds to the cockpit is called the \"Instrumentalist's Seat,\" and its base is filled with water called the \"Spring of Oracles,\" with a feather-shaped chair jutting out from the spring. Incidentally, RahXephon's pilot is called an \"instrumentalist\" by some people. The feathers on both sides of its forehead can be opened and closed freely, and are kept closed when Ayato is not aboard or during autonomous action. RahXephon's eyes are normally red, but beneath them is a golden eyeball called the \"Eye of Truth.\" It also has an openable visor at the brim, which can cover the eyes. It has no armament or options at all; it emits high-frequency sound from its mouth and smashes enemies with light from its palms. Because its material, structure and power source are all unknown, the Earth Federation side classifies it as Mulian Artifact Class 5A (Five-A). A giant god of many mysteries that evolves along with Ayato's mental growth.",
    "notes": "",
    "uncertain": [
-    "'Seon Temple' and 'Spring of Oracles' are literal renderings (世音神殿, 神託の泉); 'Instrumentalist's Seat' (奏者の座) likewise.",
-    "'Eye of Truth' (真理の目) literal; the text says 'eyeball' singular so kept singular."
+    "'Seon Temple' and 'Spring of Oracles' are literal renderings ([jp], [jp]); 'Instrumentalist's Seat' ([jp]) likewise.",
+    "'Eye of Truth' ([jp]) literal; the text says 'eyeball' singular so kept singular."
    ],
    "_group": "C"
   },
@@ -1791,7 +1791,7 @@
    "en": "The form born when Ayato, having reached the true heart \"Yolteotl,\" fused with the vessel \"Xephon\" and the guide \"Ixtli\" and obtained the title of Rah. It has the ability to fill the world with sound and tune the world. It emits rainbow-colored high-frequency waves and also possesses overwhelming arm strength. The white wings are not for flying but for tuning the world. Ayato overcame various hardships and found someone he must protect, and grew mentally; he and Ixtli, who had the form of Reika Mishima, accepted each other and became one, and as a result he obtained the \"title of Rah\" and transformed RahXephon into Shinsei RahXephon.",
    "notes": "",
    "uncertain": [
-    "'Shinsei' (真聖) is kept romanized; game-coined form name.",
+    "'Shinsei' ([jp]) is kept romanized; game-coined form name.",
     "Last sentence: subject Ayato, 'he'."
    ],
    "_group": "C"
@@ -1812,7 +1812,7 @@
    "en": "Experimental Unit No. 7 among the humanoid mobile weapons developed in the \"Tsentr Project\" being pursued within the Federation Army. Also called a TE Absorber, it is a machine that excels at close combat and melee. However, the TE Engine, which applies Terminus Energy, has many problems with power output adjustment and so on, so the drive of the joints and other parts is supplemented by batteries. Also, to allow finer output adjustment of the TE Engine and to assist machine control, DFC (Direct Feeling Control) has been introduced, and an operator wearing a special DFC suit rides along on the machine. Its model number is YTA-07RB. One unit of the same type exists, but since it is mostly meant as spare parts, it is not used for tests or combat.",
    "notes": "",
    "uncertain": [
-    "'Experimental Unit No. 7' follows the SRW wiki (JP: 試作7号機, prototype unit 7)."
+    "'Experimental Unit No. 7' follows the SRW wiki (JP: [jp]7[jp], prototype unit 7)."
    ],
    "_group": "C"
   },
@@ -1895,7 +1895,7 @@
    "notes": "Cross-series (Metal Armor Dragonar). Batch label was 'Thirteenth Angel Bardiel'; corrected per fix_C.txt to Stark Dautzen.",
    "uncertain": [
     "Cross-series spellings ('Dautzen', 'Zin') to reconcile with Group A.",
-    "ジン中尉 rendered 'Lieutenant Zin' (Wikipedia 'Zin'); could be 'Jin'."
+    "[jp] rendered 'Lieutenant Zin' (Wikipedia 'Zin'); could be 'Jin'."
    ],
    "_group": "C"
   },
@@ -1929,7 +1929,7 @@
    "notes": "Cross-series (Metal Armor Dragonar). fix_C.txt lists no owner record for this entry; the name Dragonar-1 Custom is judged from the text, which is identical to Group A entry 71.",
    "uncertain": [
     "Name judged from the text (identical to Group A entry 71, Dragonar-1 Custom).",
-    "'Dr. Plato' (プラート博士) and 'Alliance forces' (連合軍) to reconcile with Group A."
+    "'Dr. Plato' ([jp]) and 'Alliance forces' ([jp]) to reconcile with Group A."
    ],
    "_group": "C"
   },
@@ -2729,7 +2729,7 @@
    "en": "A Cronos tribe warrior and martial artist living on planet Cronos. The son of Kirai, the Taoist master who founded Tenku Chushin Ken, he has attained full mastery of both Tenku Chushin Ken and Tenku Shin Ken. Rom likes to use \"Tenku Chushin Ken: Whirlwind Kick.\" The purpose of Tenku Chushin Ken is to defeat evil and protect justice and truth, and in fact Rom's family are aliens who came to planet Cronos to build up their strength. He values justice above all and has a strong heart that never forgives evil, but he seems to be bad with women. Also, although he is polite and strict with himself, he seems to be a little soft on his younger sister Leina. By drawing out the power of Kenro, the sword inherited from his father, he can merge into the giant robots Kenryuu and Baikanfu. With his many Tenku Chushin Ken techniques and a distinctive catchphrase that he delivers suddenly, from out of nowhere, he plunges villains into the depths of terror, and after defeating Gyandlar, he sets off across dimensions (reincarnates) to save a universe ruled by darkness. Incidentally, in the original story Kenryuu and Baikanfu are petrified and left behind on planet Cronos at that time.",
    "notes": "",
    "uncertain": [
-    "'Taoist master' for 道士.",
+    "'Taoist master' for [jp].",
     "'Whirlwind Kick' is my translation of the technique name."
    ],
    "_group": "A"
@@ -2828,7 +2828,7 @@
    "notes": "",
    "uncertain": [
     "Gender from the game text ('kare') and ja Wikipedia.",
-    "'Training officer' for 兵法教育係."
+    "'Training officer' for [jp]."
    ],
    "_group": "A"
   },
@@ -2850,7 +2850,7 @@
    "en": "One of the refugees aboard the transport ship Idaho, a mysterious beautiful teacher. In truth, however, she is a second lieutenant of Earth Alliance Forces intelligence, in charge of monitoring the D-Weapons and guarding Linda. At 22, she is the most adult of the three heroines. She is a big-sister figure to Linda and Rose, and is calm and composed. Perhaps for that reason she gets along with Light, but it did not progress much. A mature woman full of kindness and consideration for others, she has the flaw of being a bad drunk.",
    "notes": "",
    "uncertain": [
-    "'Second lieutenant' for 少尉 (English Wikipedia says only 'Lt')."
+    "'Second lieutenant' for [jp] (English Wikipedia says only 'Lt')."
    ],
    "_group": "A"
   },
@@ -2933,7 +2933,7 @@
    "en": "A 17-year-old student at the same Astronaut Academy as Kaine, who carries noble blood. He becomes the pilot of Dragonar-3. He is deeply versed in electronics, and seems to have taken to Dragonar-3, the electronic warfare machine, at first sight. Among the three he is comparatively calm and intellectual, but since he is basically a goofball, he often plays the part of the comic handsome guy. His role is to stop Kaine, who runs ahead alone. He is a rich family's young master, but he rebelled against that and entered the Astronaut Academy. However, thanks to the environment he grew up in, he can handle social pleasantries properly and is skilled with ladies, and he also shows off his dandy side, being fussy about food.",
    "notes": "",
    "uncertain": [
-    "'Comic handsome guy' for 二枚目半 (a handsome man who plays the clown)."
+    "'Comic handsome guy' for [jp] (a handsome man who plays the clown)."
    ],
    "_group": "A"
   },
@@ -2971,7 +2971,7 @@
    "en": "The person in charge of Daimobic. He is a father-substitute to Kazuya and his karate teacher. He has also displayed karate techniques such as flying kicks and body strikes, with the \"Swallow Double Kick\" as his specialty. He has a strong sense of justice and is humane, and is highly respected. It is also thanks to Dr. Izumi that Daimobic can fight on its own judgment without being at the beck and call of Commander Miwa, even though Daimobic receives subsidies from the government. He is a first-rate scientist as well, and often holds the key to a turnaround, such as manufacturing the Photon Missile when he felt threatened by the appearance of the Cobrado, and using the power of Daimolite to change Daimos into a pure energy state. However, he loves sweets, and since he sometimes directed battles while licking a lollipop, I cannot help feeling that his dignity was somewhat lacking. In episode 30, \"Danger! Dr. Izumi's Life,\" he was badly injured trying to protect the Daimolite storehouse and was implanted with an artificial cerebellum made by Baam.",
    "notes": "",
    "uncertain": [
-    "'Cobrado' (コブラード) is a Baam command ship per ja Wikipedia; romanized from kana.",
+    "'Cobrado' ([jp]) is a Baam command ship per ja Wikipedia; romanized from kana.",
     "The 'I cannot help feeling' comment is the writer's own voice in the Japanese.",
     "Episode 30 title translated by me ('Danger! Dr. Izumi's Life')."
    ],
@@ -2984,7 +2984,7 @@
    "en": "The daughter of the late Grand Marshal Leon and the sister of Admiral Richter. She had gone to the front lines as a budding doctor to treat soldiers, but the battle saucer she was riding was shot down, and she lost her memory from the shock; Kazuya rescued her and they fell in love. After regaining her memory, she leaves Daimobic, but is confined in the Undersea Castle, and as she is about to be executed for treason, she escapes with the help of her mentor, Hospital Director Worin. After that, too, she is toyed with by a strange fate, drifting from place to place and repeatedly missing her beloved Kazuya. After becoming the new leader of the liberation organization, she resolves to fight for peace by a method different from Kazuya's, and becomes a star of hope for both Baam people who wish for peace and Earth activists. She was originally a woman with the triple qualities of being strong, gentle and beautiful, but her love with Kazuya made her grow greatly in spirit.",
    "notes": "",
    "uncertain": [
-    "'Grand Marshal' for 大元帥 (English Wikipedia says 'Emperor Leon')."
+    "'Grand Marshal' for [jp] (English Wikipedia says 'Emperor Leon')."
    ],
    "_group": "A"
   },
@@ -3017,7 +3017,7 @@
    "en": "The pilot of Daimos and a karate master. A former astronaut who brought Daimolite back aboard Space Daimobic, dispatched by the International Space Agency. Because his father was posted to the Moon base when he was five, he was raised with Dr. Izumi as a surrogate parent, and was taught karate and shooting. After returning to Earth, he belongs to the Daimobic base, and following his father's last wishes he becomes Daimos's pilot and fights the Baam Earth conquest army. He has a straightforward personality and the stubbornness to stick to his own convictions. In an accident during astronaut training he was left completely paralyzed and once almost gave up on his dream, but he has a past of recovering through bloody effort, and his mental strength is guaranteed. He comes to love the amnesiac girl Erika, and that love will in time lead the universe to peace. His hobby of playing drums is at a professional level. Also, there is data that he tends his hair only once every 36 days.",
    "notes": "",
    "uncertain": [
-    "'International Space Agency' (国際宇宙機構) is my translation."
+    "'International Space Agency' ([jp]) is my translation."
    ],
    "_group": "A"
   },
@@ -3055,8 +3055,8 @@
    "en": "A sporty boy who serves as captain of the soccer club at Rinkai Gakuen. He is destined to become one (fade-in) with Raideen, the legacy of King Ra Mu. To prevent the arrival of the Age of Demons, he fights the Demon Empire with Raideen. He is a hot-blooded man of justice with a cheerful personality, and has the strength not to lose to his own destiny and the courage not to flinch even in desperate situations.",
    "notes": "",
    "uncertain": [
-    "'King Ra Mu' here vs. 'emperor' in the Raideen unit entry (the source wording differs: 王 vs 皇帝).",
-    "'Age of Demons' for 悪魔世紀."
+    "'King Ra Mu' here vs. 'emperor' in the Raideen unit entry (the source wording differs: [jp] vs [jp]).",
+    "'Age of Demons' for [jp]."
    ],
    "_group": "A"
   },
@@ -3085,7 +3085,7 @@
    "en": "The commander of the Earth Defense Force Pacific Regional Headquarters, who also serves concurrently as Japan's chief of national defense. He is, above all, a belligerent man who thinks a few sacrifices are unavoidable in order to win battles. He seems to want to become a hero, and in order to produce results he attacks indiscriminately, including civilians, and tortures prisoners. A born militarist who declares that civilians are noncombatants and so are a burden, useless mouths to feed, and lower than dogs. He believes all Baam people should be exterminated, and dislikes Kazuya, who shields Erika. He also has a hysterical side, immediately hurling discriminatory words at anyone who does not follow his wishes. In the end, he is arrested on charges of repeatedly ignoring orders from the military's upper echelons.",
    "notes": "",
    "uncertain": [
-    "'Chief of national defense' for 国防長官 (could be 'Minister of Defense').",
+    "'Chief of national defense' for [jp] (could be 'Minister of Defense').",
     "Name order: Sakimori (given) Miwa (family)."
    ],
    "_group": "A"
@@ -3097,7 +3097,7 @@
    "en": "An operator of the Earth defense organization GEAR. She looks like a trendy girl, but is in fact a woman of many talents, 22 years old and born on Valentine's Day. Her ability with computers is especially high, and she is the only one who has beaten the central computer Meteo at chess. She wanted a clerical job in hopes of retiring early to marry, but she is a super woman who can even serve as a sub-pilot of the Cell Fighter.",
    "notes": "",
    "uncertain": [
-    "寿退社 rendered \"retiring early to marry\" (quitting a job upon marriage)"
+    "[jp] rendered \"retiring early to marry\" (quitting a job upon marriage)"
    ],
    "_group": "B"
   },
@@ -3109,7 +3109,7 @@
    "notes": "",
    "uncertain": [
     "\"it\" used for the chip (JA Wikipedia: Galfa machines have no gender)",
-    "機将 rendered \"Machine General\" (Akurasu); Wikipedia calls the three \"generals\""
+    "[jp] rendered \"Machine General\" (Akurasu); Wikipedia calls the three \"generals\""
    ],
    "_group": "B"
   },
@@ -3163,9 +3163,9 @@
    "en": "Ginga's mother, age 36. She was the 15th leader of Hiroshima's strongest lady gang, \"Andromeda,\" but fell in love at first sight with Genichi Izumo and married him, and had two children, Ginga and Otome. Her Shorinji Kempo, which she has continued since her lady-gang days, is at the level of an instructor's assistant, and every day she drills Ginga hard under the teaching \"Strength is heart.\" She also has a firm, upright character and never forgives injustice or wrongdoing.",
    "notes": "",
    "uncertain": [
-    "出雲源一 rendered \"Genichi Izumo\" (JA Wikipedia gives げんいち)",
+    "[jp] rendered \"Genichi Izumo\" (JA Wikipedia gives [jp])",
     "[jp] rendered \"Andromeda\"",
-    "総長 rendered \"leader\"; 師範代 rendered \"instructor's assistant\""
+    "[jp] rendered \"leader\"; [jp] rendered \"instructor's assistant\""
    ],
    "_group": "B"
   },
@@ -3218,7 +3218,7 @@
    "notes": "",
    "uncertain": [
     "\"it\" used (machine)",
-    "３幹部 rendered \"three executives\" (the other entries say 3機将 = three Machine Generals)"
+    "[jp] rendered \"three executives\" (the other entries say 3[jp] = three Machine Generals)"
    ],
    "_group": "B"
   },
@@ -3229,7 +3229,7 @@
    "en": "One of the three executives of Spiral Castle. In Ginga's words, \"a pompous kendama.\" It generates powerful electromagnetic waves from its main body and has the ability to disable all electronic equipment. Also, as long as its head, the core, is not destroyed, its body will regenerate any number of times.",
    "notes": "",
    "uncertain": [
-    "ケン玉 rendered \"kendama\" (the Japanese cup-and-ball toy)"
+    "[jp] rendered \"kendama\" (the Japanese cup-and-ball toy)"
    ],
    "_group": "B"
   },
@@ -3287,7 +3287,7 @@
    "en": "A pilot of the Earth defense organization GEAR, age 26. He was originally a hero-loving young man working at the Hoshimi Amusement Park, but happened to discover the GEAR headquarters and forcibly became a member. At first he was a candidate for Dendoh pilot together with Vega, but because Hokuto and Ginga were chosen, he became support personnel. He is an expert at clay-pigeon shooting.",
    "notes": "",
    "uncertain": [
-    "The entry name 吉良国進 is read Kirakuni Susumu (family name Kirakuni): rendered \"Susumu Kirakuni\""
+    "The entry name [jp] is read Kirakuni Susumu (family name Kirakuni): rendered \"Susumu Kirakuni\""
    ],
    "_group": "B"
   },
@@ -3349,7 +3349,7 @@
    "en": "The chief of the Earth defense organization GEAR, age 58. GEAR is an abbreviation of Guard Earth and Advanced Reconnaissance, meaning \"an organization for Earth defense and cutting-edge research.\" Chief Shibuya has been deeply involved since its founding and is also the only person who knows the true identity of deputy commander Vega. As commander he sometimes makes harsh decisions, but he is a father figure full of kindness who worries about the children, and keeps together GEAR, which has many young people. He holds 3rd dan in kendo, 2nd dan in judo and 3rd dan in calligraphy, and after retirement he plans to open a pottery class in his hometown of Shizuoka.",
    "notes": "",
    "uncertain": [
-    "長官 rendered \"chief\" (ANN: Chief Shibuya); could be \"Director\" / \"Commissioner\"",
+    "[jp] rendered \"chief\" (ANN: Chief Shibuya); could be \"Director\" / \"Commissioner\"",
     "The original English expansion is written in full-width letters in the game and was kept"
    ],
    "_group": "B"
@@ -3381,7 +3381,7 @@
    "en": "A top Gulfer executive and aide to Gulfer Emperor who commands at the front lines in place of the emperor. He excels at melee combat and is good at staff fighting with an extendable staff (a nyoibo). He also has the terrifying special ability to revive immediately even when destroyed. He often travels, or performs combined attacks, riding on the back of the heavy machine beast Vector, which is capable of interstellar travel.",
    "notes": "",
    "uncertain": [
-    "如意棒 rendered \"extendable staff (a nyoibo)\""
+    "[jp] rendered \"extendable staff (a nyoibo)\""
    ],
    "_group": "B"
   },
@@ -3461,7 +3461,7 @@
    "en": "The deputy commander of the Earth defense organization GEAR. She hides her face behind a mask, and her true identity is kept secret even within GEAR. She was greatly involved in the founding of GEAR and is well versed in information about Dendoh and the data weapons. She was originally a candidate for Dendoh pilot, but since Hokuto and Ginga were chosen, her main duties became directing operations and supporting at the front lines using her dedicated bike, the Valkyrie. She also has astonishing physical ability, and is the only person who can fight Gulfer in person using the latest technology weapons developed by Dr. Inoue, such as beigoma bombs and the Measure. Usually she acts as a strict superior, but now and then she shows cute sides, such as making blunders or repairing her cracked mask with cellophane tape and using it.",
    "notes": "",
    "uncertain": [
-    "ベーゴマ爆弾 rendered \"beigoma bombs\" (beigoma = spinning tops)"
+    "[jp] rendered \"beigoma bombs\" (beigoma = spinning tops)"
    ],
    "_group": "B"
   },
@@ -3499,7 +3499,7 @@
    "en": "The lord of Spiral Castle, sent to conquer Earth, who is called \"Oyakata-sama.\" Under it are the three Machine Generals, and it is the apex of a pyramid that includes the machine beasts below them. Spiral Castle is a unit of the Gulfer army, and countless Spiral Castles exist throughout the universe.",
    "notes": "",
    "uncertain": [
-    "お館様 kept as \"Oyakata-sama\" (lord of the manor)"
+    "[jp] kept as \"Oyakata-sama\" (lord of the manor)"
    ],
    "_group": "B"
   },
@@ -3528,9 +3528,9 @@
    "en": "One of the former Nadesico crew and a Space Force lieutenant colonel, age 25. He is Yurika's childhood friend from her days on Earth and has been in love with her since he was a boy; during the Jovian War he served as Nadesico's assistant captain, but his feelings did not reach her. He is currently captain of the battleship Amaryllis of the Space Force 3rd Fleet and is on colony guard duty, and in the Shirahime Incident he witnessed Black Sarana boson out. He is capable at work but weak with women, so he has long been a plaything of the women. Incidentally, these days he is pushed around by Yukina every day.",
    "notes": "",
    "uncertain": [
-    "ボソンアウト rendered \"boson out\" (emerging from a Boson Jump)",
-    "中佐 rendered \"lieutenant colonel\" (Wikipedia calls him Commander)",
-    "艦長補佐 rendered \"assistant captain\""
+    "[jp] rendered \"boson out\" (emerging from a Boson Jump)",
+    "[jp] rendered \"lieutenant colonel\" (Wikipedia calls him Commander)",
+    "[jp] rendered \"assistant captain\""
    ],
    "_group": "B"
   },
@@ -3551,8 +3551,8 @@
    "notes": "",
    "uncertain": [
     "\"he\": gender from cast listings only (see glossary)",
-    "提督 rendered \"Admiral\"; [jp] rendered \"Assault Yuto Space Corps\" (no English source)",
-    "木連軍人 rendered \"Mokuren soldier\""
+    "[jp] rendered \"Admiral\"; [jp] rendered \"Assault Yuto Space Corps\" (no English source)",
+    "[jp] rendered \"Mokuren soldier\""
    ],
    "_group": "B"
   },
@@ -3565,7 +3565,7 @@
    "uncertain": [
     "\"he\": gender from cast listings only",
     "[jp] rendered \"Earth Alliance Unified Peacekeeping Forces\" (Wikipedia says \"Unified Forces\")",
-    "宇宙軍 rendered \"Space Force\" (UESF)"
+    "[jp] rendered \"Space Force\" (UESF)"
    ],
    "_group": "B"
   },
@@ -3605,7 +3605,7 @@
    "en": "The chairman's secretary of Nergal Heavy Industries, who boarded the old Nadesico partway through as co-helmswoman, age 25. She is strongly career-oriented and tended to be at odds with the Nadesico crew. After the Jovian War she seems to have done various jobs as Akatsuki's right hand, and for a time she is said to have looked after Akito.",
    "notes": "",
    "uncertain": [
-    "副操縦士 rendered \"co-helmswoman\" (Wikipedia: co-helmswoman)"
+    "[jp] rendered \"co-helmswoman\" (Wikipedia: co-helmswoman)"
    ],
    "_group": "B"
   },
@@ -3663,7 +3663,7 @@
    "en": "A lieutenant in the Unified Forces and one of the three Aestivalis pilot girls of the old Nadesico, age 23. She has quite a manly personality and calls herself \"ore.\" She had feelings for Akito, but was shy about romance and could not tell him how she felt. At the time she had dyed her hair green, so at a glance she looks like a different person. After the war she transferred to the Unified Forces and serves as a pilot instructor and Aestivalis squadron leader, and has trained many excellent subordinates.",
    "notes": "",
    "uncertain": [
-    "俺 kept as the romanized pronoun \"ore\" in quotes"
+    "[jp] kept as the romanized pronoun \"ore\" in quotes"
    ],
    "_group": "B"
   },
@@ -3674,7 +3674,7 @@
    "en": "A captain of the United Space Force and the first officer of Nadesico B, age 25. He also commands in combat, flying a Super Aestivalis. He is a former Mokuren soldier and served as first officer of the battleship Kannazuki during the Jovian War. Now he looks like a flirty, flippant guy, but at that time he was a straightforward young man; it is said that when he guarded Ruri on Akiyama's special orders after the war, he disguised himself as a surfer and ended up picking up a light attitude.",
    "notes": "",
    "uncertain": [
-    "大尉 rendered \"captain\" (Wikipedia calls him First Lieutenant; Japanese rank 大尉 corresponds to captain/lieutenant)",
+    "[jp] rendered \"captain\" (Wikipedia calls him First Lieutenant; Japanese rank [jp] corresponds to captain/lieutenant)",
     "The final clause \"he ... picked up a light attitude\" restores the subject Saburota (original has no subject)"
    ],
    "_group": "B"
@@ -3724,7 +3724,7 @@
    "en": "Members of the assassination unit led by Hokushin.",
    "notes": "",
    "uncertain": [
-    "北辰衆 rendered \"Hokushin's Six\" (Hokushin's Six per the English dub credits; the game name carries no number)"
+    "[jp] rendered \"Hokushin's Six\" (Hokushin's Six per the English dub credits; the game name carries no number)"
    ],
    "_group": "B"
   },
@@ -3736,7 +3736,7 @@
    "notes": "",
    "uncertain": [
     "[jp]: \"Haruka\" here is Minato Haruka's family name; rendered \"Minato\"",
-    "少佐 rendered \"major\" (Wikipedia: Lieutenant Commander)",
+    "[jp] rendered \"major\" (Wikipedia: Lieutenant Commander)",
     "Subject of \"met Takasugi / recovered / returned\" is Ruri (restored)"
    ],
    "_group": "B"
@@ -3760,7 +3760,7 @@
    "en": "An ensign of the United Space Force and the assistant first officer of Nadesico B, age 11. Like Ruri, he is a boy born through Nergal's genetic manipulation, and has excellent operation ability. Reflecting on how Ruri was raised, he was placed with an ordinary family from early childhood, and seems to have grown into a bright boy with rich emotional expression. He adores Ruri, who is close in age and similar in background, as an older sister, and Ruri also seems to think of him as a younger brother; the nickname Harry was given by her.",
    "notes": "",
    "uncertain": [
-    "ハーリー rendered \"Harry\""
+    "[jp] rendered \"Harry\""
    ],
    "_group": "B"
   },
@@ -3782,7 +3782,7 @@
    "en": "Captain of the old Nadesico, age 25. She is also one of the Class A Jumpers. A sheltered daughter whose father is commander-in-chief of the United Space Force, she has a fairly carefree personality but is a genius at strategy simulation. She kept waiting for Akito, whom she fell in love with as a small child, and even after they met again on the old Nadesico, she never doubted that Akito loved her very much. Near the end of the Jovian War she made the decision to discard the Mars ruins into the far reaches of space, and as a result the two armies, having lost the purpose of the war, headed toward a truce. In a sense she is the one who deserves credit for ending the war. After the war she stayed in the military while helping at Akito's stall, and happily got married, but on their honeymoon she was abducted by the Martian Successors and used as a human translator for Boson Jumps, joined to the ruins in a state of suspended animation.",
    "notes": "",
    "uncertain": [
-    "連合宇宙軍 rendered \"United Space Force\""
+    "[jp] rendered \"United Space Force\""
    ],
    "_group": "B"
   },
@@ -3794,7 +3794,7 @@
    "notes": "",
    "uncertain": [
     "[jp] rendered \"Megu-nee\" / \"Megu-tan\"",
-    "駆け落ち寸前 rendered \"came close to eloping\"; the partner is not named in the text (presumably Akito)"
+    "[jp] rendered \"came close to eloping\"; the partner is not named in the text (presumably Akito)"
    ],
    "_group": "B"
   },
@@ -3806,7 +3806,7 @@
    "notes": "",
    "uncertain": [
     "\"he\": gender from cast listings only",
-    "次官 rendered \"deputy director\""
+    "[jp] rendered \"deputy director\""
    ],
    "_group": "B"
   },
@@ -3817,7 +3817,7 @@
    "en": "A girl created through genetic manipulation like Ruri. She also has excellent operation ability. She was originally raised at a Nergal laboratory, but was captured by the Martian Successors and later rescued by Akito. Since then she has acted together with Akito, who lost his five senses, as his support. The battleship Eucharis that she operates is the mothership of Black Sarana. She lacks emotional expression even more than Ruri used to, and is a mysterious girl.",
    "notes": "",
    "uncertain": [
-    "ユーチャリス rendered \"Eucharis\" (Wikipedia/Nadesico fandom); kana is Yuchalis"
+    "[jp] rendered \"Eucharis\" (Wikipedia/Nadesico fandom); kana is Yuchalis"
    ],
    "_group": "B"
   },
@@ -3857,7 +3857,7 @@
    "en": "The creator of Masato Akitsu, Miku Himuro and the Hakkeshu. Fifteen years ago, the original Masaki Kihara was an engineer of Tekkoryu, but he fled taking Zeorymer, and immediately afterward was killed by the Japanese government, which feared his defecting. However, he had set into the fertilized egg of his clone Masato that Masaki's personality would awaken when Masato rides Zeorymer, and so he achieves resurrection. The reason Zeorymer can be moved only by Masato and Masaki is that the genes of Masato's fertilized egg were input to the pilot registration system. As an engineer he is a genius, showing talent not only in bioengineering but also in mechanical engineering, and he built the Dimensional Coupler System. He is cruel and cunning, and does not hesitate to sacrifice others for his own aims. His goal is to become the King of the Underworld himself, and having calculated that either the Japanese government or Tekkoryu would rule the world, he left a clone of himself with both of them.",
    "notes": "",
    "uncertain": [
-    "亡命を恐れた rendered \"feared his defecting\" (feared he would defect abroad)",
+    "[jp] rendered \"feared his defecting\" (feared he would defect abroad)",
     "[jp] rendered \"Dimensional Coupler System\" (SRW wiki)"
    ],
    "_group": "B"
@@ -3898,8 +3898,8 @@
    "en": "One of the Hakkeshu and the pilot of Lanstar of the Winds. Read \"Taiha.\" He and Yuratei are lovers, but he feels frustrated by a love that cannot be fully rewarded. To make others acknowledge that he is a man worthy of loving Yuratei, and to prove that he is the strongest warrior of the Hakkeshu, he volunteered as the first assassin to retake Zeorymer. He has a warm heart and is the type who charges straight toward his goal. He fought speaking of his feelings for Yuratei to the end, but fell before the \"Hades Attack.\" Also, each member of the Hakkeshu has a tattoo on the palm of the hand that represents his or her title.",
    "notes": "",
    "uncertain": [
-    "恋仲 rendered \"lovers\"; 報われぬ恋心 rendered \"a love that cannot be fully rewarded\"",
-    "タトゥー bearers \"his or her\" because the Hakkeshu include women"
+    "[jp] rendered \"lovers\"; [jp] rendered \"a love that cannot be fully rewarded\"",
+    "[jp] bearers \"his or her\" because the Hakkeshu include women"
    ],
    "_group": "B"
   },
@@ -3919,8 +3919,8 @@
    "en": "The 20-year-old emperor of Tekkoryu, a giant society plotting world domination. Tekkoryu, known by the nickname Hau Dragon, lay hidden underground for fifteen years behind the hardware company International Electronic Brains, but began to act as soon as the Hakke robots were completed, and is carrying out the Hades Project to turn the world into the underworld and reign as the King of the Underworld herself. Before being chosen as emperor she was one of the Hakkeshu and was supposed to become Zeorymer's pilot. She and Taiha love each other, but because of her position as emperor she cannot love him as a single man. In front of others she behaves with the dignity of an emperor, but she also has womanly weakness, and when Taiha sortied she was crying in her room, holding back her voice.",
    "notes": "",
    "uncertain": [
-    "[jp] rendered \"reign as the King of the Underworld\"; the game uses 冥王 (Hades/Meioh) for both the project and the title",
-    "皇帝 rendered \"emperor\"; Wikipedia says \"Empress\" for this female ruler"
+    "[jp] rendered \"reign as the King of the Underworld\"; the game uses [jp] (Hades/Meioh) for both the project and the title",
+    "[jp] rendered \"emperor\"; Wikipedia says \"Empress\" for this female ruler"
    ],
    "_group": "B"
   },
@@ -3931,7 +3931,7 @@
    "en": "One of the Hakkeshu and a masked warrior who pilots Rose C'est La Vie of the Moon. Read \"Ritsu.\" He gives off a cool, cold air, but inside him swirls an abnormal obsession and hatred toward Zeorymer. Under the mask is the face of a beautiful woman, and that is a trauma for him, who wants to be more manly than anyone. He was the first to learn the secret of his own birth and tried to go against his own fate.",
    "notes": "",
    "uncertain": [
-    "Gender \"he\" stated in the text (彼)"
+    "Gender \"he\" stated in the text ([jp])"
    ],
    "_group": "B"
   },
@@ -3963,9 +3963,9 @@
    "en": "A formerly excellent soldier of the Mokuren Assault Yuto Space Corps. A user of Mokuren-style jujutsu. In the days of the Jovian War he fought Nadesico A several times together with Tsukumo Shiratori. But he fell into Haruki Kusakabe's scheme and assassinated Tsukumo at the peace talks between Mokuren and Earth. Regretting that, he later wrote a manifesto beginning with \"Hot-bloodedness is not blind faith\" and carried out the \"Hot-Blooded Coup\" within Mokuren together with Genpachiro Akiyama. In the course of it he disappeared. After that, he was picked up by Nergal Heavy Industries and, as a member of the Nergal Secret Service, probed the movements of the Martian Successors. Also, together with Goat, he rescued Akito Tenkawa from the Martian Successors and gave him rehabilitation and training in piloting mobile weapons.",
    "notes": "",
    "uncertain": [
-    "檄文 rendered \"manifesto\"",
+    "[jp] rendered \"manifesto\"",
     "[jp] rendered \"Hot-bloodedness is not blind faith\"",
-    "失踪する (\"he disappeared\") subject restored as Tsukiomi"
+    "[jp] (\"he disappeared\") subject restored as Tsukiomi"
    ],
    "_group": "B"
   },
@@ -3976,8 +3976,8 @@
    "en": "Former head cook of Nadesico A. She used spices from around the world with mastery, and for Akito Tenkawa in the Nadesico A days she was something like a teacher. After the end of the Jovian War she opened a diner called \"Hibi Heion,\" which is reputed to have a rich menu starting with the Martian Rice Bowl.",
    "notes": "",
    "uncertain": [
-    "日々平穏 rendered \"Hibi Heion\"; 火星丼 rendered \"Mars bowl\"",
-    "ホウメイ rendered \"Houmei\" (Howmei in the English dub)"
+    "[jp] rendered \"Hibi Heion\"; [jp] rendered \"Mars bowl\"",
+    "[jp] rendered \"Houmei\" (Howmei in the English dub)"
    ],
    "_group": "B"
   },
@@ -3997,7 +3997,7 @@
    "en": "Belongs to Technical Section 1 of the Technology Development Department at NERV Headquarters. She is the daughter of Dr. Naoko Akagi, who built the basic theory of the supercomputer MAGI, and the person in charge of Project E, the Evangelion development project. She has a cool personality, and when faced with the facts she can take a cold attitude toward others. She has been Misato's close friend since their university days. In contrast to her cool personality, her hobby is collecting cat trinkets, and she keeps cats at her family home as well.",
    "notes": "",
    "uncertain": [
-    "'実家' (family home) rendered 'her family home' without specifying parents."
+    "'[jp]' (family home) rendered 'her family home' without specifying parents."
    ],
    "_group": "C"
   },
@@ -4039,7 +4039,7 @@
    "en": "Ritsuko's subordinate, belonging to Technical Section 1 of the Technology Department at NERV Headquarters. She is an operator at the NERV Headquarters Central Operations Command who monitors the Eva pilots. She respects her superior Ritsuko. Because she is a fastidious perfectionist, she loathes things like Gendo's way of using any means to achieve his aims.",
    "notes": "",
    "uncertain": [
-    "'Technology Department' (技術局) vs. Ritsuko's 'Technology Development Department' (技術開発部): kept distinct as in the Japanese."
+    "'Technology Department' ([jp]) vs. Ritsuko's 'Technology Development Department' ([jp]): kept distinct as in the Japanese."
    ],
    "_group": "C"
   },
@@ -4068,7 +4068,7 @@
    "en": "A young man who belongs to NERV's Special Inspection Department. He came to Japan from the German Branch to bring Asuka, Unit-02 and a mysterious object called Adam. In fact he was a triple spy working for NERV, SEELE and the Ministry of the Interior of the Japanese government, but he is assassinated by someone, perhaps because his identity was exposed. He seems a frivolous man who calls out to women he likes, but he is an object of admiration for Asuka, and a caring older-brother type to those younger than himself. His hobby is growing watermelons. Incidentally, he and Misato were lovers in their student days.",
    "notes": "",
    "uncertain": [
-    "'Special Inspection Department' (特殊監察部) is a literal rendering; the eva wiki calls his post 'Special Inspector'."
+    "'Special Inspection Department' ([jp]) is a literal rendering; the eva wiki calls his post 'Special Inspector'."
    ],
    "_group": "C"
   },
@@ -4079,7 +4079,7 @@
    "en": "Belongs to Section 1 of the Operations Bureau, Tactical Operations Department, at NERV Headquarters. Her rank is captain at first (later promoted to major). Her main duties are planning operations for battles with the Angels and commanding those operations. She happened to be at the site of Second Impact in her childhood and lost her father then, so she bears a grudge against the Angels and joined NERV. On the surface she is a cheerful, sloppy and friendly big-sister type who lives with Shinji and gradually opens his heart. However, she herself carries several old wounds inside. She has been Ritsuko's close friend since university, and Kaji was her lover while they were at university. She loves beer and sometimes drinks from the middle of the day, and keeps a hot-spring penguin, Pen Pen, as a pet.",
    "notes": "",
    "uncertain": [
-    "Ranks: game says 一尉 then 三佐; rendered captain / major as in the eva wiki."
+    "Ranks: game says [jp] then [jp]; rendered captain / major as in the eva wiki."
    ],
    "_group": "C"
   },
@@ -4191,7 +4191,7 @@
    "en": "Shinji and the others' classmate and the class representative. A model student whose nickname is also \"Class Rep.\" She secretly has feelings for Toji, and promises to make a lunch box and bring it to Toji, who eats bread bought at the school store for lunch. However, because of the Unit-03 incident, this promise was never fulfilled in the original work. Incidentally, she was apparently drawn to Toji's \"kindness.\" She also has an older sister named Kodama and a younger sister named Nozomi.",
    "notes": "",
    "uncertain": [
-    "Nickname 'Class Rep' renders 委員長 (iinchou)."
+    "Nickname 'Class Rep' renders [jp] (iinchou)."
    ],
    "_group": "C"
   },
@@ -4211,7 +4211,7 @@
    "en": "A civilian boy who lived in Green Noa 1, a colony in Side 7. His hobbies include karate, piloting the Homo Abyss (a one-person small aircraft), and piloting junior mobile suits. He has a strong complex about his feminine-sounding name, and when he punched Jerid for laughing at it, he was taken away by the Titans. After that, through his contact with Quattro, who had infiltrated Green Noa, he joined the AEUG. On that occasion he put up a fight in the Gundam Mk-II, which he was riding for the first time, a performance that made Bright and the others call him \"the return of Amuro Ray.\" After joining the AEUG he continued to achieve great results, and with the blossoming of his Newtype ability he played an ace-class role. He also showed outstanding talent in mobile suit development, and the Mk-II's flying armor and the Zeta Gundam incorporate his ideas. His personality is a complex one in which sensitivity and ferocity, boyish honesty and calculating streaks coexist. At first he joined the fighting out of a vague anger at the Titans, but through his encounters with Quattro, Amuro and Four, he came to fight by his own will in order to bring the war to an end, and grew greatly as a person. He wins the decisive battle against Scirocco on the Colony Laser, but is driven to a mental breakdown. Afterward he spends a life of recuperation with Fa, but in \"Mobile Suit Gundam ZZ\" he guides Judau and Ple several times. He recovers in the final episode of that work.",
    "notes": "",
    "uncertain": [
-    "'Homo Abyss' is an unverified rendering of ホモ・アビス.",
+    "'Homo Abyss' is an unverified rendering of [jp].",
     "'Jerid' and 'Four' are used as short names (Jerid Messa, Four Murasame)."
    ],
    "_group": "C"
@@ -4435,8 +4435,8 @@
    "en": "The form of Ayato who has reached the true heart \"Yolteotl.\" In this form he has lost his human heart and obtained a god's heart, and he is no longer human. For that reason he does not die even if he is shot. He can change into Shinsei RahXephon at will. Ixtli, in the form of Reika Mishima, appears before Ayato, who moved other people's hearts through his painting, and Ayato once rejected Ixtli. But his feelings for Haruka made Ayato grow enough to accept Ixtli. Incidentally, the reason Ayato's Ixtli had the form of Reika Mishima is that it extracted Haruka's appearance as a teenager, and his romantic feelings for her, from his erased memories. In the world of tuning, Ayato had almost lost the memories of other people. The form in which he has obtained the true face \"Ixtli\" and the deified heart \"Yolteotl\" is called \"Ixtli in Yolteotl,\" and it indicates one who has become a complete human.",
    "notes": "",
    "uncertain": [
-    "'Ixtli in Yolteotl' follows the game's [jp] (the game spells the second word differently from ヨロテオトル).",
-    "'it extracted': subject of the extraction read as Ixtli; 'his romantic feelings for her' = 恋心 for Haruka."
+    "'Ixtli in Yolteotl' follows the game's [jp] (the game spells the second word differently from [jp]).",
+    "'it extracted': subject of the extraction read as Ixtli; 'his romantic feelings for her' = [jp] for Haruka."
    ],
    "_group": "C"
   },
@@ -4467,7 +4467,7 @@
    "en": "The younger sister of Itsuki Kisaragi of the TERRA Science Research Department. Her age, birthday, affiliation and so on are all unknown, and although she is not a TERRA employee she is allowed in the command center and to take part in operations. She lives with her brother, and her favorite drink is a blue drink. She likes music, and plays the piano and the violin herself. She undergoes examinations almost every day, and always wears a Life Module because it is necessary for sustaining her life. She is a mysterious girl who now and then murmurs poetic words that accurately capture incidents and features that are yet to occur. She is easygoing and keeps her own pace, and somehow has a world of her own. Her catchphrase is \"Ra-ra...,\" which she often hummed in the middle of conversations. She calls Ayato \"Ollin\" and has a mysterious mark on her abdomen.",
    "notes": "",
    "uncertain": [
-    "Catchphrase rendered 'Ra-ra...' (らら…); the Wikipedia list gives 'Ra-ra' / 'La-la'."
+    "Catchphrase rendered 'Ra-ra...' ([jp]…); the Wikipedia list gives 'Ra-ra' / 'La-la'."
    ],
    "_group": "C"
   },
@@ -4485,7 +4485,7 @@
    "name_jp": "キム・ホタル",
    "name_en": "Kim Hotal",
    "en": "An operator in TERRA's Operations Department. 18 years old, with the rank of second lieutenant. Her emotions run strong, and when the Dolem that killed her parents appeared, she became furiously angry at the insensitive Ayato. She is also a sentimental type who can cry for others. She is secretly going out with Soichi Yakumo without telling anyone around her, and she is troubled when she learns of Megumi's feelings for Soichi. Incidentally, her name is written with the Chinese characters for \"gold,\" \"lake\" and \"moon.\"",
-   "notes": "The Japanese gives the characters 金湖月; rendered by meaning because the kanji cannot be shown in ASCII.",
+   "notes": "The Japanese gives the characters [jp]; rendered by meaning because the kanji cannot be shown in ASCII.",
    "uncertain": [
     "Kanji-by-meaning rendering of the name note."
    ],
@@ -4498,8 +4498,8 @@
    "en": "Commander of the MU Tokyo Government-General Defense Force. Although he was a soldier belonging to the Ministry of National Defense, he defected to the Mu side during the First Mu War and took the post of the person responsible for commanding the defense of the capital. Like the Public Security, he is thought to have been turned into a sub-Mulian. He is servile and timid toward those stronger than himself, and takes an arrogant attitude toward the weak. Because of that, he apparently cannot hold his head up before Maya. He also seems to have a deep-rooted history with Kunugi.",
    "notes": "",
    "uncertain": [
-    "'Ministry of National Defense' (国防部) is a literal rendering; the Rah wiki says 'Nation Defense'.",
-    "'Public Security' = 公安."
+    "'Ministry of National Defense' ([jp]) is a literal rendering; the Rah wiki says 'Nation Defense'.",
+    "'Public Security' = [jp]."
    ],
    "_group": "C"
   },
@@ -4531,8 +4531,8 @@
    "en": "An intelligence analysis officer in TERRA's Operations Department. Her rank is special captain. 29 years old. A professional who handles anything without a hitch, from hand-to-hand combat to piloting fighters. Even when those around her are excited, she does her work at her own pace and sees through what she has decided. During Operation Overlord she infiltrated TOKYO JUPITER, rescued Ayato, who was about to be abducted by Public Security, and told him the truth of the world. Her personality is cheerful with a motherly side, but at times she acts like an adolescent girl, such as by giving Ayato hand-knitted gloves. She seems to have known Itsuki Kisaragi from before she joined TERRA. She is Elvy's drinking buddy, and they often went out for yakiniku. She lives in the Rikudo house with her younger sister Megumi and her uncle Shougo, and has unusual eating habits, such as putting sugar on natto and putting mayonnaise on her rice.",
    "notes": "",
    "uncertain": [
-    "Uncle named by given name only in the Japanese (翔吾) = Shougo Rikudo from the glossary.",
-    "'special captain' = 特務大尉."
+    "Uncle named by given name only in the Japanese ([jp]) = Shougo Rikudo from the glossary.",
+    "'special captain' = [jp]."
    ],
    "_group": "C"
   },
@@ -4543,7 +4543,7 @@
    "en": "A trainee operator in TERRA's Operations Department. 14 years old. She refuses to go to school and has a complex about her older sister Haruka. She has a faint crush on Soichi Yakumo, and she is best friends with fellow operator Kim, but she does not know that Soichi and Kim are going out. When she was 8, she and Haruka were taken in by their uncle Shougo. She is bright and lively, and has a heart capable of attentive consideration. At Shougo's suggestion, she showed Ayato, who had been decided to lodge at the Rikudo house, around Negoro Island, and they drank ramune together at a candy store. Since they were close in age and had been something like quarreling friends, they quickly warmed to each other.",
    "notes": "",
    "uncertain": [
-    "'Negoro Island' is a literal rendering of 根来島; no source.",
+    "'Negoro Island' is a literal rendering of [jp]; no source.",
     "The final sentence's subject is Megumi and Ayato (they)."
    ],
    "_group": "C"
@@ -4555,7 +4555,7 @@
    "en": "A scientist who serves as Itsuki Kisaragi's assistant. 28 years old. Because she secretly harbors feelings for Itsuki, she plays the part of Haruka's friend, but inwardly she holds intense rivalry. She is acutely conscious of being looked at by others and does not wear her glasses in front of men, but when the other person's gaze turns away, her true feelings seem to show on her face. Normally she is calm, but she suddenly snaps, so she seems to be the type who cannot control her emotions. She also has a past in which her father and brother died in the Bahbem Foundation's basic research on TDD.",
    "notes": "",
    "uncertain": [
-    "'TDD' kept as printed (ＴＤＤ), related to the TDDU system."
+    "'TDD' kept as printed ([jp]), related to the TDDU system."
    ],
    "_group": "C"
   },
@@ -4584,7 +4584,7 @@
    "en": "A reporter from Amato News who came to Nirai Kanai for an exclusive interview. 36 years old. His name is read \"Futagami Johji\" (family name first). He excels at gathering and organizing information, and is independently investigating the course of the Mu War and the Shrine of Time and so on. He also links the other party's behavioral psychology and relationships to various mysteries, and asks key persons questions that strike at the heart of the matter. He is capable enough to obtain important secrets and classified documents, yet he speaks in a flippant, grinning manner and is a person whose hidden side cannot be seen.",
    "notes": "",
    "uncertain": [
-    "'Mu War' (ＭＵ大戦) rendered 'the Mu War'; the earlier text says 'First Mu War' for [jp]."
+    "'Mu War' ([jp]) rendered 'the Mu War'; the earlier text says 'First Mu War' for [jp]."
    ],
    "_group": "C"
   },
@@ -4669,7 +4669,7 @@
    "en": "The Director of TERRA. 60 years old. His name is read \"Watari Shirou\" (family name first). Because he flies around the world to coordinate and negotiate with the parties concerned, he is often absent from TERRA headquarters and leaves the running of the organization to Kunugi. His hobby is buying souvenirs at his business trip destinations. For some reason he puts on a solemn expression when he is with Itsuki Kisaragi. Although he has a rugged appearance, he has a humorous side, and on seeing RahXephon and Alpha Squadron he muttered, \"Cool...\"",
    "notes": "",
    "uncertain": [
-    "'イカす' rendered 'Cool...'."
+    "'[jp]' rendered 'Cool...'."
    ],
    "_group": "C"
   },
@@ -4681,7 +4681,7 @@
    "notes": "The Japanese contains the text placeholder #男愛称 (the male protagonist's nickname variable). Kept verbatim because it is a runtime placeholder; count its expanded width, not its 4 characters.",
    "uncertain": [
     "Placeholder #男愛称 kept in the English text (non-ASCII by necessity).",
-    "Rank 少尉 rendered 'ensign' per the SRW wiki."
+    "Rank [jp] rendered 'ensign' per the SRW wiki."
    ],
    "_group": "C"
   },
@@ -4747,7 +4747,7 @@
    "en": "Shinji's classmate. He, Shinji and Toji are called the \"Three Idiots Trio\" by their classmates. He has been Toji's best friend since before Shinji transferred in. A military maniac, he showed an interest in the Eva too, and finally begged Misato to let him ride an Eva. He always carries a video camera, and happily films whenever he finds anything weapon-related.",
    "notes": "",
    "uncertain": [
-    "'Three Idiots Trio' is a literal rendering of 三バカトリオ."
+    "'Three Idiots Trio' is a literal rendering of [jp]."
    ],
    "_group": "C"
   },
@@ -4777,7 +4777,7 @@
    "name_jp": "ダミー",
    "name_en": "Dummy",
    "en": "None.",
-   "notes": "fix_C.txt lists no owner record for this pilot entry; the Japanese text is なし ('none'), so it is a placeholder.",
+   "notes": "fix_C.txt lists no owner record for this pilot entry; the Japanese text is [jp] ('none'), so it is a placeholder.",
    "uncertain": [
     "No owner record; placeholder entry."
    ],

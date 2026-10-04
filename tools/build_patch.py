@@ -1,6 +1,6 @@
 """Build a patched ISO of SRW MX Portable (ULJS00041).
 
-usage: python build_patch.py <original.iso> <version> [--scenes-file <merged.json> ...] [--native-font4x] [--text] [--battle]
+usage: python build_patch.py <original.iso> <version> [--scenes-file <merged.json> ...] [--native-font4x] [--text] [--battle] [--chapter-cards]
   --text  also insert the non-dialogue translations (BOOT.BIN strings, STATIC2_ADD.BIN, PARAM.SFO; insert_text.py)
 
 Steps
@@ -27,9 +27,11 @@ SECTION_TABLE = 0x2791F0        # BOOT file offset, MAP_ADD sections
 SCRIPT_SECTION = 10
 SECTION_END = 17                # entry 17 = end of MAP_ADD (sectors)
 MAX_BLOCK = 0x25000             # largest original block
-# Script blocks are malloc'ed at their exact size from the heap object at 0x2F0E70 (base UseArea +
-# 0x421400, size 0x125240 = 1.2 MB, read at run time). Blocks above the original maximum are allowed
-# up to HARD_MAX_BLOCK and listed by the build, because peak heap use during a stage is unknown.
+# Script blocks are allocated at their exact size. The native map loader uses the scene
+# controller's heap at +0x10040 (0x40000 bytes); other live allocations share that pool.
+# The module+0x2F0E70 resource heap is unrelated. HARD_MAX_BLOCK is a build ceiling,
+# not a guarantee of free space: native allocation/loading checks are required for growth.
+# All five enlarged blocks in local 0.4.3 passed actual replacement allocation and ISO reads.
 HARD_MAX_BLOCK = 0x40000
 BIG_BLOCKS = []
 
@@ -48,8 +50,8 @@ def load_translations(files):
     for fn in files:
         d = json.load(open(fn, encoding='utf-8'))
         for r in d['rows']:
-            en = (r.get('en') or '').strip()
-            if not en:
+            en = r.get('en') or ''
+            if not en.strip():
                 continue
             jp = r['jp']
             if r['kind'] in ('dialogue', 'thought'):
@@ -59,7 +61,7 @@ def load_translations(files):
                 o = '（' if r['kind'] == 'thought' else '「'
                 lines, ok = textfit.wrap(spk + o, en, close)
                 if not ok:
-                    print(f"WARNING row {r['id']} does not fit: {len(lines)} lines")
+                    raise ValueError(f"{fn} row {r['id']} does not fit: {len(lines)} lines")
                 text = '@'.join(lines)
             else:
                 text = en
@@ -129,6 +131,9 @@ def patch_map_add(map_add, boot, trans):
 
 
 def main(iso_path, version, *rest):
+    out = os.path.join(ROOT, 'work', 'output', f'SRWMX_EN_{version}.iso')
+    if os.path.exists(out):
+        raise FileExistsError('Choose a new version/output; existing builds are preserved.')
     files = [rest[i + 1] for i in range(len(rest)) if rest[i] == '--scenes-file']
     if not files:
         files = sorted(glob.glob(os.path.join(ROOT, 'work/translation/en/script/*_merged.json')))
@@ -162,6 +167,10 @@ def main(iso_path, version, *rest):
         boot_new = insert_text.patch_overflow(boot_new, overflow)
         boot_new = insert_text.patch_centering(boot_new)
         repl['/PSP_GAME/PARAM.SFO'] = insert_text.patch_sfo(iso_read(iso, '/PSP_GAME/PARAM.SFO'))
+        import redraw_banners                       # battle / status-effect banners, both copies
+        static2_new = redraw_banners.patch(static2_new, 'STATIC2_ADD.BIN', os.path.join(build, 'banners.png'))
+        assert len(redraw_banners.textures(map_new)) == len(redraw_banners.textures(map_add)), 'MAP_ADD textures moved'
+        map_new = redraw_banners.patch(map_new, 'MAP_ADD.BIN')
         import redraw_wnd                           # battle / status icons (English letters)
         repl['/PSP_GAME/USRDIR/WND.BIN'] = redraw_wnd.patch_wnd(iso_read(iso, '/PSP_GAME/USRDIR/WND.BIN'),
                                                                 os.path.join(build, 'wnd_icons.png'))
@@ -178,6 +187,15 @@ def main(iso_path, version, *rest):
         boot_new = battle_quotes.patch_boot_quotes(boot_new, quote_overflow)
         big['/PSP_GAME/USRDIR/BATTLE2.BIN'] = dst
 
+    chapter_results = None
+    if '--chapter-cards' in rest:
+        import patch_chapter_cards
+        specs = json.load(open(os.path.join(ROOT, 'work/translation/en/ui/all_chapter_cards.json'), encoding='utf-8'))
+        archive, chapter_results = patch_chapter_cards.patch_archive(
+            iso_read(iso, patch_chapter_cards.ASSET), specs,
+            patch_chapter_cards.ROOT / 'work/build/chapter_cards/english')
+        repl[patch_chapter_cards.ASSET] = archive
+
     repl.update({'/PSP_GAME/SYSDIR/EBOOT.BIN': boot_new, '/PSP_GAME/SYSDIR/BOOT.BIN': boot_new,
                  '/PSP_GAME/USRDIR/STATIC2_ADD.BIN': static2_new, '/PSP_GAME/USRDIR/MAP_ADD.BIN': map_new})
     for path, data in repl.items():
@@ -188,12 +206,23 @@ def main(iso_path, version, *rest):
         iso.rm_file(iso_path=path)
         handles.append(open(local, 'rb'))
         iso.add_fp(handles[-1], os.path.getsize(local), iso_path=path)
-    out = os.path.join(ROOT, 'work', 'output', f'SRWMX_EN_{version}.iso')
     os.makedirs(os.path.dirname(out), exist_ok=True)
     iso.write(out)
     iso.close()
     for h in handles:
         h.close()
+    if chapter_results is not None:
+        report = dict(version=version, native_asset_patch=True, texture_replacement=False,
+                      title_atlases_covered=len(chapter_results),
+                      translated_atlases=sum(r['translated'] for r in chapter_results),
+                      native_english_atlases_preserved=sum(not r['translated'] for r in chapter_results),
+                      scenario_titles_covered=67, cards=chapter_results)
+        with open(os.path.join(ROOT, 'work/output', f'chapter_cards_{version}_build.json'), 'w', encoding='utf-8') as f:
+            json.dump(report, f, indent=1)
+    if '--native-font4x' in rest:
+        import shutil
+        shutil.copyfile(os.path.join(ROOT, 'incoming/fonts/FONT_LICENSE.txt'),
+                        out[:-4] + '_FONT_LICENSE.txt')
     print('written', out)
 
 

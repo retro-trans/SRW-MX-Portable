@@ -8,7 +8,9 @@ Bug reports, proofreading and playtesting are welcome. Include your build versio
 
 ## Play it
 
-The latest public release is [v0.4.1](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1). The complete chapter-card update is available locally as build 0.4.2 and is awaiting release approval. This is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. Local build 0.4.2 has all 67 chapter titles in English, including route variants and the hidden and final stages. The public 0.4.1 patch has only the Stage 1 Super card translated. Later story stages and many closing messages remain Japanese.
+The latest public release is [v0.4.1](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1). It is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. Its later story stages and many closing messages remain Japanese, and only the Stage 1 Super chapter card is translated.
+
+**Local development build 0.4.3** includes all story dialogue through the ending, every mapped route, the hidden stage, unused scenes and closing/save messages, plus all 67 chapter titles. All original readable script uses pass ISO readback and all script commands are preserved. This build has targeted emulator loading and rendering checks; full campaign playtesting remains pending. It has no published patch or GitHub release. A release requires the project lead's explicit instruction.
 
 You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.1.xdelta` from the release page.
 
@@ -32,12 +34,12 @@ Use an in-game save when switching builds and restart the game. Emulator save st
 
 ## Status
 
-- Prologue and stages 1–30 story translations are inserted; all route branches represented by the reviewed stage files are included.
+- Local 0.4.3 includes the prologue and all story dialogue through the ending: 51,366 original scene/string uses across 203 blocks. Every mapped route, the hidden stage, unused scenes and closing/save messages are included.
 - Battle caption insertion was checked across 51,892 entries with no mismatches.
 - Latin dialogue uses a proportional Genei LateGo font with a native 4× atlas. Descenders, including the bottom of `g`, are preserved.
 - All 67 chapter titles are covered across 205 native bitmap copies: 160 copies translated and 45 existing English copies preserved. Kaine's closing line from v0.4.1 is retained.
-- PPSSPP checks cover selected dialogue, interface screens and the translated chapter card. A complete campaign playthrough and physical PSP testing remain pending.
-- Stage 8's expanded script exceeds the original game's largest block. Its allocation uses the actual block size, but peak gameplay memory remains unverified. Please report any **Malloc Memory Over** error.
+- PPSSPP checks cover boot, copied-save loading, selected dialogue, interface screens, native font hooks and a translated chapter card. Exact ending text also passes a temporary renderer probe; the ending scene itself was not played. A complete campaign playthrough and physical PSP testing remain pending.
+- All five enlarged map scripts pass native replacement allocation and ISO-read checks in the actual 256 KB script heap. Peak memory use throughout every map event remains unverified. Please report any **Malloc Memory Over** error.
 
 See [the changelog](docs/CHANGELOG.md) for each build's changes and testing limits.
 
@@ -63,7 +65,7 @@ Start with [TRANSLATING.md](TRANSLATING.md). Translation rules are in [BASE_RULE
 
 ## How it was translated
 
-This is **machine translation produced with language models and then edited**. The stages 1–30 campaign pass used Sol 6.1 at Medium effort, followed by context, terminology and text-fit review. Model experiments are separate from the selected campaign translation. Full human proofreading has not been completed; automated checks do not establish translation accuracy or complete gameplay compatibility.
+This is **machine translation produced with language models and then edited**. The complete campaign pass used Sol 6.1 at Medium effort, with six translators sharing each stage/group, followed by context, terminology and text-fit review. Model experiments are separate from the selected campaign translation. Full human proofreading has not been completed; automated checks do not establish translation accuracy or complete gameplay compatibility.
 
 ## Credits
 

@@ -14918,11 +14918,6 @@
  ],
  "translation_model_tag": "sol61medium",
  "context_review_pending": false,
- "full_checks": {
-  "rows": 877,
-  "uses": 1010,
-  "problems": []
- },
  "context_review": {
   "stage": 56,
   "fingerprint": "afb549282774d6c84dc243455470246f6ac0cbf2539e884e388a5971ac22d4d3",
@@ -15122,5 +15117,10 @@
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
   "note": "Root paired-reviewed all687 fresh source/final rows and every flag, all47 non-template reused rows in all81 original uses with final neighbors, and143 generic defeat templates with205 registrations andzero ordinary uses. Independently verified877FULL rows/all1010 uses in originalMAP_ADD.orig, including both explicit0x0E space/Earth choice options and targets. Allfinalactualfont fits; only draft558/673 needed overflow shortening, immutable drafts preserved. Source qualifications, variants No.9/No.8, unknown-gender Grujios acknowledgement414, clone/reincarnation claims, 5/7/5 poem, rank/ship role distinction and provisional technical terms retained. Reuse865 is locally deliberative Lets see, independently checked by actualworker1 androot against original251-261; earlier45 owner unchanged. Not inserted into ISO or playtested; no release."
+ },
+ "full_checks": {
+  "rows": 877,
+  "uses": 1010,
+  "problems": []
  }
 }

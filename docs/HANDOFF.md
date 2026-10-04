@@ -5,7 +5,33 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
-**Current build: 0.4.2.** Corrects the incomplete chapter-card coverage in 0.4.1:
+**Current local build: 0.4.3.** Rebuilt from the original Japanese ISO with the
+prologue and all translated groups through 58, including the ending, hidden
+stage, unused scenes and closing/save messages. All 51,366 original readable
+script uses and 98,686 unchanged commands passed finished-ISO readback.
+Includes the native 4x font, all 67 chapter titles, battle quotes and current UI
+work. Output: `work/output/SRWMX_EN_0.4.3.iso`; SHA-256:
+`e3d88c4a93c355e2e79ca5a99b45ddabe9957cb3d08397e519b43b4f47c4b352`.
+Reports: `work/output/campaign_0.4.3_inputs.json`,
+`work/output/campaign_0.4.3_verification.json`, and
+`work/output/campaign_0.4.3_runtime.json`.
+Boot and copied-save loading passed in isolated PPSSPP with texture replacement
+disabled; the live native font and all 18 hooks match. The actual map-script heap
+has 262,144 bytes, separate from the 1,200,704-byte resource pool. All five enlarged
+map scripts (s0210, s0950, s1040, s1050, s1060) passed native replacement allocation
+and complete ISO-read comparison; the test scene's non-script allocations were retained and the
+original map script/allocator restored. Native ending/closing loading also passed.
+Exact ending text displayed in a temporary renderer probe; the ending scene itself
+was not played. Reports: `campaign_0.4.3_scene_loading.json`,
+`campaign_0.4.3_extra_scene_loading.json`, and `campaign_0.4.3_ending_renderer.json`
+under `work/output/`. The public English exports restore all 59 canonical inputs
+and reproduce all review fingerprints and preflight checks; evidence is
+`work/output/campaign_0.4.3_restoration_audit.json`. Full playthrough and physical
+PSP testing remain pending. The isolated
+instance is `work/build/campaign043_test`, debugger port 45379. User emulator
+settings and saves were not modified. No GitHub release is authorized.
+
+**Earlier local build: 0.4.2.** Corrects the incomplete chapter-card coverage in 0.4.1:
 all 67 scenario titles are now covered across 205 atlases (160 translated,
 45 existing English copies preserved). Build is `work/output/SRWMX_EN_0.4.2.iso`.
 Only `PACKMAPC2_ADD.BIN` changes; all other 31 ISO files match 0.4.1 exactly.
@@ -23,7 +49,7 @@ uploaded assets were downloaded and checked before withdrawal. A future
 approved release should use a new version because the catalog withdrawal is
 permanent. Do not publish any further release without the user's instruction.
 
-Active task: translate dialogue after stage 30 through the ending, using
+Completed translation task: dialogue after stage 30 through the ending, using
 Sol 6.1 Medium sub-agents. Keep source Japanese local and preserve initial
 drafts, context decisions, measured fit checks and every route/scene use.
 Stages/groups 31–58 are translated and reviewed: 16,661 fresh rows and 21,257
@@ -31,9 +57,10 @@ full rows across 235 packets. Coordinator review includes all unused scenes
 and all 14 independent closing/save-message sketches. Every final line fits
 the actual native font; original drafts, context, measurements and original-use
 evidence remain. Legacy unused-scene reachability is unverified. Local insertion
-and game testing remain pending; no GitHub release is authorized. Queue:
+is complete and targeted native loading/rendering checks pass; full playthrough
+remains pending. No GitHub release is authorized. Queue:
 `work/output/stages31_end_sol_medium_manifest.json`; review notes and tooling:
-`docs/stages31_end_sol_medium.md`. These later translations are not yet in an ISO.
+`docs/stages31_end_sol_medium.md`. These later translations are in local 0.4.3.
 
 **Earlier released build: 0.4.1.** Published at
 https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1 in the now-public
@@ -386,10 +413,10 @@ python tools/build_patch.py "Super Robot Taisen MX Portable (Japan).iso" 0.1.0 -
 - **Do not put code at 0xE4EAC in BOOT.BIN.** It looks unused but is called once at boot from code in
   `.data`. The patch lives at 0x250944. BOOT.BIN is relocatable: any patched instruction that holds an
   address needs a relocation entry (`vwf_patch.patch_boot` handles this).
-- **Script size cap is ours, not the game's.** `build_patch.py` refuses a scene script above 0x25000
-  bytes (151,552), the largest original. The game loads scripts into a memory pool of unknown size.
-  The maps of stages 8, 49 and 54 will exceed the cap once translated. Either read the pool's capacity
-  with the debugger and raise the cap, or add a 1-byte encoding for Latin text.
+- **Script size and shared memory.** The build ceiling is 0x40000, while the actual map loader
+  uses a 0x40000-byte heap shared with other allocations. Local 0.4.3's five enlarged scripts
+  (largest 0x32000) passed native replacement allocation and ISO reads with existing non-script
+  allocations retained. This does not prove peak memory use throughout every map event.
 - **The build only rewrites scenes listed in the rows' `uses`.** Shared defeat lines are therefore
   translated only inside the scenes that have been built, not game-wide.
 - **PPSSPP**: the debugger needs `RemoteDebuggerOnStartup = True`, `RemoteDebuggerLocal = True`,

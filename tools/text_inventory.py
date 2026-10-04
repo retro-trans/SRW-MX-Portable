@@ -63,7 +63,8 @@ def jp_text(t):
     """True for real text: printable, no half-width katakana, at least one full-width character."""
     if any('｡' <= c <= 'ﾟ' for c in t):
         return False
-    if not all(c == '\n' or 0x20 <= ord(c) < 0x7F or ord(c) > 0x2000 for c in t):
+    # Greek and Cyrillic are full-width SJIS too (rows 0x83/0x84): the game spells Zeta Gundam with Greek Ζ
+    if not all(c == '\n' or 0x20 <= ord(c) < 0x7F or 0x391 <= ord(c) <= 0x451 or ord(c) > 0x2000 for c in t):
         return False
     if any('' <= c <= '' for c in t):           # user-defined SJIS area: binary data
         return False

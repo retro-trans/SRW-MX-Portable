@@ -1,6 +1,61 @@
 # Changelog
 
-## Translation work — 2026-10-04 (not yet inserted into a build)
+## 0.4.3 — 2026-10-04 (local test build, no GitHub release)
+
+- Inserted the prologue and every translated stage/group through the ending,
+  hidden stage, unused scenes and closing/save messages: all 51,366 original
+  readable script uses across 203 blocks. Preserved all 98,686 script commands
+  and all source-required blank segments.
+- Rebuilt from the original Japanese ISO with the native Genei LateGo 4x font,
+  all 67 chapter titles, battle quotes, UI translations and the narration,
+  banners, series-name and dialogue fixes described below.
+- Verified the finished ISO against every translation input, original script
+  command, chapter atlas, native font payload and unrelated ISO file. Battle
+  quote readback checked 51,892 entries with no mismatches.
+- Booted in an isolated PPSSPP instance and loaded a copied test save with
+  texture replacement disabled. Verified the live native font payload and all
+  18 hooks. Located the actual 262,144-byte map-script heap; the previously noted
+  1,200,704-byte pool holds other resources. All five enlarged map scripts passed
+  native replacement allocation and complete ISO-read comparison with the test
+  scene's non-script allocations retained. The original map script and allocator were restored.
+- Native loading also passed for the ending and closing-message blocks. Exact
+  ending text displayed in a temporary dialogue renderer probe, with source bytes
+  restored afterward. This verifies rendering, not playing the ending scene.
+  A complete playthrough and physical PSP testing remain pending.
+- Restored all 59 canonical story inputs from public English files and the
+  original ISO; all review fingerprints, source-use coverage and font checks
+  reproduced without private coordinator journals. Public annotation cleanup
+  preserves the English text apart from the three separately reviewed seed fixes.
+- Local ISO: `work/output/SRWMX_EN_0.4.3.iso`; SHA-256:
+  `e3d88c4a93c355e2e79ca5a99b45ddabe9957cb3d08397e519b43b4f47c4b352`.
+  No GitHub release is authorized or created.
+
+## UI and narration work — 2026-10-04 (included in local 0.4.3)
+
+- **Opening / ending narration.**
+  - **Gap fixed:** the narration is a script of (delay, 7, line) records with blank-line records at
+    the Japanese paragraph positions. The English paragraphs break elsewhere, which left gaps
+    mid-paragraph.
+  - **Stall fixed:** unused line slots were empty strings, which the script treats as its end
+    marker, so the narration stopped and waited for START.
+  - **Change:** both scripts are rewritten (`insert_text.patch_narration_script`): the English
+    lines, one blank line between paragraphs, the original trailing blanks, then the end.
+- **Battle / status-effect banners redrawn in English** (援護攻撃 → Support Attack, パイロット気力減少 →
+  Pilot Will Down, barriers, and so on). 58 images, in both copies (STATIC2_ADD and MAP_ADD).
+  `tools/redraw_banners.py` uses each banner's own colour ramp, Bahnschrift Bold Condensed and a
+  dark outline. The pointer arrows under Gravity Wave Beam / Entrance / EWAC are kept.
+- **Series names:** Zeta Gundam and Gundam ZZ on the series pick screen were Japanese. That copy
+  spells them with the Greek letter Ζ, which the string scanner skipped. `text_inventory.jp_text` now
+  accepts Greek / Cyrillic, which found only these two strings.
+- **Support / assist command menus:** items left-aligned. "Status" and "Done" had per-item offsets
+  that centred the short Japanese words (data table at 0x28BD68 / 0x28BDF8).
+- **Dialogue fixes:**
+  - prologue ??? line: "...the closer of the two first" (was "the nearest" with no object);
+  - Beecha (prologue and stage 1): "If it's a bad time for us, it's a bad time for the enemy too...".
+- **Script blocks:** s0950 (0x2F000) is now also above the old maximum block size, like s0210.
+- Not checked in game; the narration plays over a movie that the test capture cannot see.
+
+## Translation work — 2026-10-04 (inserted into local 0.4.3)
 
 - Completed coordinator review of all remaining dialogue: 16,661 fresh rows,
   21,257 full rows and 235 packets. All final lines fit the native font.
@@ -8,7 +63,7 @@
   seven unsupported ejection-method inferences and retained source cutoffs.
 - Closing/save messages: 91 fresh rows and all 95 uses checked within their
   14 separate sketches, preserving jokes, poems and interrupted quotes.
-  Local insertion and game testing remain pending. No release created.
+  Inserted into local 0.4.3; broader game testing remains pending. No release created.
 - Masked short source excerpts in public review notes and omitted source-text
   expectations; retained English explanations, names, placeholders and links.
 - Completed hidden-stage review: 687 fresh rows, 877 full rows and all 1,010
