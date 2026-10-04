@@ -990,3 +990,51 @@ Far East Command were reconciled in final text with persistent spelling guards;
 these enforce existing entries rather than override Akurasu. Immutable drafts
 remain unchanged, all corrected lines were remeasured, and no fit compression
 was needed for those names. All provisional provenance flags remain.
+
+## Stage 54 terminology preparation — 2026-10-04
+
+Akurasu remains the main authority; ten absent terms supplement it without
+overrides. **EVA series** follows the source-short designation and reviewed
+stage 53. **First** keeps the source-short pilot title. **half-god** preserves
+the divine counterpart image explained in the source as a complementary other
+self, without importing a mortal-parent genealogy. **absorbers**, **pooled data**
+and **psychological flag** remain provisional fictional labels. The last is
+distinct from the earlier psychological graph; no source correction is implied.
+The unfinished pooled-data action stays unfinished despite a later explicit
+overload command.
+
+**Anti-AT Field** uses [Akurasu's AT Field spelling](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities)
+and the [secondary Evangelion anti-field term](https://evangelion.fandom.com/wiki/List_of_scientific_terms_in_Evangelion).
+**Tree of Life** has [secondary English corroboration](https://wiki.evageeks.org/Tree_of_Life).
+**destrudo** is corroborated as an Evangelion telemetry stem in Betty Stojnic's
+[original research](https://iopn.library.illinois.edu/journals/jams/article/download/822/730),
+Journal of Anime and Manga Studies 2 (2021), page 32. The MX source's becoming
+metaphysical wording is preserved rather than replaced by a different film
+translation. **Designer Children** is provisional source-loanword English;
+[Japanese secondary terminology](https://ja.wikipedia.org/wiki/ラーゼフォン)
+corroborates the source designation. Its D allusion accompanies Dolem and
+defective. None establishes an exact licensed MX English label or adds outside
+plot, technical mechanisms or identities.
+## Stage 54 additional source compounds
+
+Registered M-type Sample No. 1 as the source's explicit Sample variation of the
+earlier Specimen designation, TERRA JUPITER with the source's capitalized
+TOKYO JUPITER wordplay, RahXephon system with the established main name, and
+title of Rah with the existing Room of Rah / Xephon stems. These add no Akurasu
+override; exact licensed MX compound wording remains unverified. The Japanese
+[RahXephon entry](https://srw.wiki.cre.jp/wiki/ラーゼフォン) and
+[true RahXephon entry](https://srw.wiki.cre.jp/wiki/真聖ラーゼフォン)
+corroborate the title distinction and system compound only. The translation
+does not import their external plot details. Boson Out's established spelling
+is guarded against the hyphenated boson-out form; natural verbal casing in
+the existing glossary remains permissible.
+
+Lord Bahbem retains the explicit source title and main surname; Tabris retains
+the source-short form of the main 17th Angel Tabris name. Exact licensed title
+wording remains flagged. For Lemuria's Raideen address, **deity** follows
+[Akurasu's scenario 3 title](https://akurasu.net/wiki/Super_Robot_Wars/MX/Complete_Chart),
+The Deity Awakens. No new character or RahXephon category is introduced.
+Gilgazamune follows the actual main glossary and
+[Akurasu mech list](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List);
+the single current Gilgazamne form is corrected and guarded. Differences in
+ordinary collective-noun casing (EVA Series / EVA series) remain permissible.

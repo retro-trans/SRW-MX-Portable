@@ -202,7 +202,9 @@
   "Ouga": "Ogre",
   "Highlebead": "Hyribead",
   "Seele": "SEELE",
-  "Far East Army": "Far East Command"
+  "Far East Army": "Far East Command",
+  "boson-out": "Boson Out",
+  "Gilgazamne": "Gilgazamune"
  },
  "quoted_system_terms": {
   "Infight Lv": "In-fight Lv",
@@ -283,6 +285,14 @@
     "my lord": "Oyakata-sama"
    },
    "reason": "Existing sourced fixed title in the main glossary, restricted to exact source title; other lords unchanged."
+  },
+  {
+   "source_contains": "神人",
+   "variants": {
+    "divine one": "deity",
+    "divine being": "deity"
+   },
+   "reason": "Main Akurasu deity stem in scenario3; only this source designation. Do not rewrite unrelated divine language."
   }
  ],
  "context_exceptions": [

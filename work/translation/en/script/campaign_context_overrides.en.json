@@ -1,0 +1,52 @@
+{
+ "overrides": [
+  {
+   "stage": 28,
+   "full_id": 502,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage07_campaign.json",
+    "id": 195
+   },
+   "expected_jp": "[jp]…！」",
+   "expected_en": "Th-that was...!",
+   "en": "Th-that's...!",
+   "reason": "Stage28-only context correction: Masato trails off answering Ritsu about current suffering; past tense was unsupported. Independently reviewed by Stage28 worker5 and root; earlier owner unchanged."
+  },
+  {
+   "stage": 28,
+   "full_id": 689,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage18_campaign.json",
+    "id": 203
+   },
+   "expected_jp": "[jp]",
+   "expected_en": "We are.",
+   "en": "That's right.",
+   "reason": "Stage28-only context correction: Albero affirms that he trained the male lead that way; We are cannot answer the causal question. Independently reviewed by Stage28 worker4 and root; earlier owner unchanged."
+  },
+  {
+   "stage": 49,
+   "full_id": 826,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage08_campaign_full_merged.json",
+    "id": 768
+   },
+   "expected_jp": "[jp]",
+   "expected_en": "Scared of what?",
+   "en": "What are you thanking me for?",
+   "reason": "Stage49-only context correction independently reviewed by worker6 and root: Rei responds to Shinji thanking her for rescue, not his earlier fear. The complete question restores the contextual subject and predicate. Stage08 owner remains unchanged."
+  },
+  {
+   "stage": 54,
+   "full_id": 797,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage18_campaign_full_merged.json",
+    "id": 205
+   },
+   "expected_jp": "[jp]",
+   "expected_en": "We are.",
+   "en": "That's right.",
+   "reason": "Stage54-only contextual agreement independently checked by actual Sol Medium worker2 and root against both original uses:787 affirms that Albero taught the lead to survive,807 affirms defeating the present enemies to achieve that purpose. That's right. covers both; inherited We are. invents a plural copula. Earlier stage18 owner is unchanged."
+  }
+ ]
+}

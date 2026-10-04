@@ -5304,6 +5304,170 @@
     "https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/6616/index.html"
    ],
    "notes": "Primary MAFF English cultural entry confirms kabayaki is glaze-grilled eel. Source unusual katakana spelling retained as key; adjacent eel insult confirms cooking image. Natural localized phrase preserves the cooking threat; no hippo claim, recipe details or explanatory aside added to dialogue. Absent from Akurasu term tables; no main override."
+  },
+  {
+   "jp": "プールデータ",
+   "en": "pooled data",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:119",
+    "work/translation/en/script/stage54_campaign.json:724"
+   ],
+   "notes": "Provisional source-literal fictional AI1 technical label. Absent from refreshed Akurasu MX table and main/campaign glossaries; exact licensed English and technical mechanism unverified. Preserve the incomplete intended action at119; the explicit overload at724 does not complete that earlier unfinished clause. No assertion of a real-world database mechanism or added stored-experience expansion."
+  },
+  {
+   "jp": "ＥＶＡシリーズ",
+   "aliases_jp": [
+    "EVAシリーズ"
+   ],
+   "en": "EVA series",
+   "sources": [
+    "work/translation/en/script/stage53_campaign.json:644",
+    "work/translation/en/script/stage54_campaign.json:194"
+   ],
+   "notes": "Source-short collective designation, kept consistent with reviewed stage53. Absent from refreshed Akurasu term table; exact licensed MX group wording unverified. Do not expand to production units when source only says series; preserve counts when explicitly supplied."
+  },
+  {
+   "jp": "半神",
+   "en": "half-god",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:192",
+    "work/translation/en/script/stage54_campaign.json:369"
+   ],
+   "notes": "Provisional literal RahXephon counterpart label. Source369 explains mutually complementary other self;192 Quon addresses Ayato. Preserve the divine-half image rather than import the conventional mortal-parent meaning of demigod. Exact licensed English unverified and no Akurasu entry; no added genealogy."
+  },
+  {
+   "jp": "アブソーバー",
+   "en": "absorbers",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:208"
+   ],
+   "notes": "Transparent English component loanword. Fictional plural component terminology and exact licensed form unverified; no Akurasu entry. Source states maximizing them can endure the still-physical shock wave; no invented component location or damping mechanism."
+  },
+  {
+   "jp": "ファースト",
+   "en": "First",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:239",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Source-short EVA designation, using First from existing full First Child title without expanding to Child/Children. Exact source shorthand preserved, no new numbered pilot identity added."
+  },
+  {
+   "jp": "アンチＡ．Ｔ．フィールド",
+   "aliases_jp": [
+    "アンチＡ.Ｔ.フィールド"
+   ],
+   "en": "Anti-AT Field",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:201",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+    "https://evangelion.fandom.com/wiki/List_of_scientific_terms_in_Evangelion"
+   ],
+   "notes": "Secondary Evangelion terminology corroborates the anti-field stem; main Akurasu MX AT Field spelling governs formatting. Anti form absent from Akurasu table; exact licensed MX English unverified. Do not add mechanisms or outside-film outcomes."
+  },
+  {
+   "jp": "生命の樹",
+   "en": "Tree of Life",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:241",
+    "https://wiki.evageeks.org/Tree_of_Life"
+   ],
+   "notes": "Secondary Evangelion English terminology corroborates the literal phrase. Absent from Akurasu MX table; exact licensed MX form unverified. Preserve source embryo-of-life apposition and unfinished predicate without importing Kabbalistic counts or outside plot."
+  },
+  {
+   "jp": "心理フラグ",
+   "en": "psychological flag",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:244"
+   ],
+   "notes": "Provisional literal fictional telemetry label. No exact Akurasu/main entry or licensed English authority found. Distinct from earlier psychological graph label; do not silently correct source flag to graph. Retain signal down report without inventing medical diagnosis."
+  },
+  {
+   "jp": "デストルドー",
+   "en": "destrudo",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:245",
+    "https://iopn.library.illinois.edu/journals/jams/article/download/822/730"
+   ],
+   "notes": "Peer-reviewed original research by Betty Stojnic, Journal of Anime and Manga Studies2(2021),p32, corroborates destrudo as an Evangelion telemetry stem; not an MX licensed translation. No Akurasu entry. Preserve source becoming metaphysical wording, not the differently worded materializing report in outside film translations; no invented clinical or physical mechanism."
+  },
+  {
+   "jp": "デザイナーズチルドレン",
+   "en": "Designer Children",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:439",
+    "https://ja.wikipedia.org/wiki/ラーゼフォン"
+   ],
+   "notes": "Provisional source-loanword English designation; Japanese secondary entry corroborates the source term, exact licensed English unverified. No Akurasu entry or main override. Keep D allusion with Dolem and defective in439/443, without importing other-series engineered-child lore or identities."
+  },
+  {
+   "jp": "Ｍ型サンプル１号",
+   "en": "M-type Sample No. 1",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:398",
+    "work/translation/en/script/stage35_campaign.json:0"
+   ],
+   "notes": "Source explicitly varies Sample loanword from earlier Specimen designation; provisional literal compound, exact licensed English unverified. No Akurasu exact designation entry found. Same numbered sample referent, not an invented additional specimen or expanded M abbreviation."
+  },
+  {
+   "jp": "ＴＥＲＲＡ　ＪＵＰＩＴＥＲ",
+   "en": "TERRA JUPITER",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:495",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Literal English-capital source label and explicit TOKYO JUPITER/TERRA JUPITER wordplay. No exact Akurasu term entry. Main TOKYO JUPITER capitalization retained; no invented organization acronym expansion or astronomy explanation."
+  },
+  {
+   "jp": "ラーゼフォンシステム",
+   "en": "RahXephon system",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:463",
+    "work/translation/en/script/stage54_campaign.json:466",
+    "work/translation/en/script/stage54_campaign.json:470",
+    "https://srw.wiki.cre.jp/wiki/真聖ラーゼフォン",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Transparent source compound with established main RahXephon stem and ordinary system noun. Japanese SRW entry corroborates the compound; exact licensed English unverified and no Akurasu exact compound. Do not invent system components or outside-plot outcomes."
+  },
+  {
+   "jp": "ラーの称号",
+   "en": "title of Rah",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:533",
+    "work/glossary/glossary.json",
+    "https://srw.wiki.cre.jp/wiki/ラーゼフォン"
+   ],
+   "notes": "Established main Room of Rah stem and Xephon/RahXephon segmentation. Japanese SRW entry corroborates source title distinction; exact licensed MX phrase unverified and no Akurasu exact term. No Egyptology or external identities added."
+  },
+  {
+   "jp": "バーベム卿",
+   "en": "Lord Bahbem",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:456",
+    "work/translation/en/script/stage54_campaign.json:686",
+    "https://srw.wiki.cre.jp/wiki/弐神譲二",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Explicit source honorific lord plus established main Bahbem surname. Japanese SRW source corroborates the address; licensed exact English title unverified and no Akurasu exact title entry. Do not expand the title into a new rank, genealogy or hidden speaker reveal."
+  },
+  {
+   "jp": "タブリス",
+   "en": "Tabris",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:702",
+    "work/glossary/glossary.json"
+   ],
+   "notes": "Source-short form of main 17th Angel Tabris; preserve the abbreviated source name without adding ordinal or Angel label."
+  },
+  {
+   "jp": "神人",
+   "en": "deity",
+   "sources": [
+    "work/translation/en/script/stage54_campaign.json:775",
+    "https://akurasu.net/wiki/Super_Robot_Wars/MX/Complete_Chart"
+   ],
+   "notes": "Main Akurasu renders the same source stem in scenario3 title The Deity Awakens. Here Lemuria uses poetic vocative for Raideen. Lowercase ordinary noun within address; no new divine entity, human ancestry or RahXephon-specific category invented."
   }
  ],
  "characters": [

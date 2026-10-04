@@ -25,6 +25,7 @@
   "Blacky",
   "Blue Jet (Jet)",
   "Bluegar",
+  "Boson Out",
   "Briest of the Fires",
   "Burrstone of the Mountains",
   "Cerberus Ignited (G)",
@@ -91,6 +92,7 @@
   "Getter Queen",
   "Gewai",
   "Gewai MAFFU",
+  "Gilgazamune",
   "Giso",
   "God Gundam + Fuunsaiki",
   "Godbird",
@@ -232,7 +234,8 @@
   "Yatsugatake Mountains",
   "Yell",
   "Zuisen",
-  "Zuril"
+  "Zuril",
+  "deity"
  ],
  "source_scoped_notes": {
   "Ryo": "Use for リョウ nickname only per campaign_terms.json; 竜馬 remains Ryoma. Never globally replace Ryoma."

@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–53 now total 13,088 reviewed fresh rows, 17,074 full rows and 184 packets.
-Stage 54 is next. No later dialogue has yet been inserted into an ISO.
+Stages 31–54 now total 14,007 reviewed fresh rows, 18,200 full rows and 196 packets.
+Stage 55 is next. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -358,7 +358,7 @@ and source hypotheses remain; spirit-vessel identity and the strike object
 are explicitly unresolved. Hyribead follows the existing main glossary, with
 persistent spelling guards. Exact review fingerprint:
 `a95fb9e91918bedf60a99fa405c9c86712bc8ca97562bc5b959b9a6fd6f99d0b`.
-Completion audit through 52 has no problems. Stage 54 is next. Later
+Completion audit through 52 has no problems. Stage 53 is next. Later
 dialogue insertion and playtesting remain pending; no release is authorized.
 
 Stage 53, **Soul's Refrain**, is complete: 836 fresh rows, 1,023 full
@@ -378,4 +378,25 @@ SEELE and Far East Command enforce existing glossary entries. Licensed names
 and fictional technical labels without primary corroboration stay flagged.
 Exact review fingerprint: `77a08be91b55ff4538bd692f13fcfd64e199eba923121e46f56625914ec19f5b`.
 Completion audit through 53 has no problems. Stage 54 is next. Later dialogue
+insertion and playtesting remain pending; no release is authorized.
+
+Stage 54, **Across Infinite Time**, is complete: 919 fresh rows, 1,126 full
+rows and 1,246 original uses in twelve packets from six actual Sol 6.1
+Medium translators. Coordinator reviewed every fresh source/final pair,
+all 329 flagged fresh rows and every occurrence of 64 non-template reused rows
+(109 uses). The 143 generic defeat templates have 205 registrations and no
+ordinary uses. Only dialogue 305, 313 and 616 required measured shortening;
+plain 87 required reflow with full canonical names and two original segments.
+Every final row fits; full immutable drafts and original uses remain.
+
+Review preserves separate conditional handlers, two/three divine counts,
+qualified cosmology and theater claims, the D wordplay, source dates and
+family or bodily identity reveals. Interrupted ritual, farewell and final
+replies remain unfinished. Unresolved audience and encounter objects remain
+explicitly qualified. Meaning repairs and canonical spelling scripts are
+measured separately. Boson Out, Gilgazamune and the source-bound deity address
+follow established entries and Akurasu. The reused FULL 797 agreement was
+independently corrected only for this stage; its earlier owner is unchanged.
+Exact review fingerprint: `64ab333f3894b5a885d818d104f9eeacbc489bb08ab6111362834a49dca97ba2`.
+Completion audit through 54 has no problems. Stage 55 is next. Later dialogue
 insertion and playtesting remain pending; no release is authorized.
