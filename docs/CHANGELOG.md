@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.4.9 release update — 2026-10-04
+
+- Added `SRWMX-English-v0.4.1-to-v0.4.9.xdelta` at the project lead's request.
+  It accepts the exact published v0.4.1 image, SHA-256
+  `cf4af0243dadd37718866d7ee1a6f1f8d8974d5f55dd827644227f4e58d1c7d5`.
+  Reconstructed that source from the published full patch and checked its hash.
+- Both full and upgrade patches passed complete Retro Trans round trips to the
+  unchanged v0.4.9 image. The full patch is byte-identical to its original release;
+  the upgrade is 853,344 bytes, SHA-256
+  `d5d8d5bc6f0a9cbc34a739df55631452f7f37a9fc81be896d283cabb6171b2da`.
+- Extended the manifest, validation and checksum files for both paths. Updated
+  the README and release instructions with source selection and upgrade commands.
+  Release tag, game-source commit and all existing binary identities are preserved.
+- `tools/build_release.py` now supports repeatable `--upgrade-source VERSION ISO`
+  arguments and an explicit `--source-commit` for an existing target release.
+
 ## Documentation — 2026-10-04
 
 - Removed the README's Native font and artwork section and its screenshot at

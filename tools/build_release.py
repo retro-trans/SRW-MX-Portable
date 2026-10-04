@@ -20,9 +20,15 @@ def main():
     parser.add_argument('version')
     parser.add_argument('--retro-trans-root', type=Path)
     parser.add_argument('--output', type=Path)
+    parser.add_argument('--upgrade-source', nargs=2, action='append', default=[],
+                        metavar=('VERSION', 'ISO'), help='Add a patch from an exact published English image.')
+    parser.add_argument('--source-commit', help='Keep the original game-source commit when extending an existing release.')
     args = parser.parse_args()
     if not re.fullmatch(r'0\.\d+\.\d+', args.version):
         parser.error('Use a 0.x.y build version.')
+    for version, _ in args.upgrade_source:
+        if not re.fullmatch(r'0\.\d+\.\d+', version) or version == args.version:
+            parser.error('Upgrade source versions must be distinct 0.x.y versions.')
     if args.retro_trans_root:
         sys.path.insert(0, str(args.retro_trans_root.resolve()))
     import retro_trans.release as release
@@ -47,8 +53,8 @@ def main():
         if result.returncode:
             raise PatchError('Could not encode patch: ' + result.stderr[:4096].decode('utf8', errors='replace'))
     release.encode = encode_full_source
-    commit = subprocess.check_output(['git', '-c', 'safe.directory=' + str(ROOT), 'rev-parse', 'HEAD'], cwd=str(ROOT), text=True).strip()
-    local = ROOT / 'work/build' / ('release_' + args.version)
+    commit = args.source_commit or subprocess.check_output(['git', '-c', 'safe.directory=' + str(ROOT), 'rev-parse', 'HEAD'], cwd=str(ROOT), text=True).strip()
+    local = ROOT / 'work/build' / ('release_' + args.version + ('_upgrades' if args.upgrade_source else ''))
     local.mkdir(parents=True, exist_ok=True)
     config = {
         'game_id': 'srw-mx-portable', 'game_name': 'Super Robot Taisen MX Portable',
@@ -60,6 +66,13 @@ def main():
             'source': str(args.source.resolve()), 'target': str(args.target.resolve())
         }]
     }
+    for version, path in args.upgrade_source:
+        config['patches'].append({
+            'patch': 'SRWMX-English-v%s-to-v%s.xdelta' % (version, args.version),
+            'edition': 'ULJS-00041', 'language': 'en', 'source_version': version,
+            'source_format': 'iso', 'target_format': 'iso',
+            'source': str(Path(path).resolve()), 'target': str(args.target.resolve())
+        })
     config_path = local / 'config.json'
     config_path.write_text(json.dumps(config, indent=2) + '\n', encoding='utf8')
     output = args.output or ROOT / 'work/output' / ('release-v' + args.version)

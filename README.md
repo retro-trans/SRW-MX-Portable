@@ -18,7 +18,7 @@ Include the build version, route, stage and an in-game screenshot.
 
 The latest release is **[v0.4.9](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.9)**,
 for the original Japanese PSP edition **ULJS-00041**. You need your own matching
-Japanese ISO.
+Japanese ISO, or the exact published English v0.4.1 image for an upgrade.
 
 This release includes all story dialogue through the ending, every mapped route
 branch, the hidden stage, closing/save messages and all 67 chapter titles.
@@ -31,12 +31,11 @@ notes for changes and remaining playtesting checks.
 **The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools)
 provides a desktop interface for applying translation patches. Download the app
 from its Releases page, refresh its catalog, choose **Automatic**, select your
-original ISO, wait for analysis and click **Patch**. v0.4.9 is registered in the
+source ISO, wait for analysis and click **Patch**. v0.4.9 is registered in the
 verified catalog. You can also choose **Apply xdelta** with the downloaded patch.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
-accepts the same `.xdelta` file. Select your Japanese ISO as the original file
-and the patch as the delta.
+accepts the same `.xdelta` files. Select the matching source ISO and patch.
 
 **Command line:** Get [xdelta3](https://github.com/jmacd/xdelta) and use the patch
 that matches your source image:
@@ -44,6 +43,7 @@ that matches your source image:
 | Your source image | Patch |
 |---|---|
 | Original Japanese PSP release, ULJS-00041 | [SRWMX-English-v0.4.9.xdelta](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.9/SRWMX-English-v0.4.9.xdelta) |
+| Published English v0.4.1, ULJS-00041 | [SRWMX-English-v0.4.1-to-v0.4.9.xdelta](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.9/SRWMX-English-v0.4.1-to-v0.4.9.xdelta) |
 
 **Original Japanese edition:**
 
@@ -51,10 +51,17 @@ that matches your source image:
 xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.9.xdelta "SRWMX English v0.4.9.iso"
 ```
 
-This is a full patch from the original Japanese ISO. Earlier English builds are
-not supported sources. If the patcher reports a checksum mismatch, compare your
-source with `README-v0.4.9.txt` or `BUILD-MANIFEST.json` from the release. Keep
-source verification enabled.
+**Already on the published v0.4.1?** Use the upgrade patch:
+
+```sh
+xdelta3 -d -s "SRWMX English v0.4.1.iso" SRWMX-English-v0.4.1-to-v0.4.9.xdelta "SRWMX English v0.4.9.iso"
+```
+
+The upgrade requires the exact published v0.4.1 output; local test builds with
+the same version label may differ. Both patches produce the identical v0.4.9
+image. If the patcher reports a checksum mismatch, compare your source with
+`README-v0.4.9.txt` or `BUILD-MANIFEST.json` from the release. Keep source
+verification enabled. Other English versions are not supported upgrade sources.
 
 Use an **in-game save** and restart when changing builds. Emulator save states
 retain the old executable and resources.

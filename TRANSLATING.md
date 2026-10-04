@@ -43,3 +43,10 @@ Translation and local builds do not authorize a GitHub release. Wait for the pro
 Exact reproduction of old test ISOs from a fresh checkout is not yet established. A source rebuild must be verified as a new candidate, including all dialogue and battle checks and gameplay testing, before publication. The published xdelta reproduces the exact released ISO, with complete hash and round-trip evidence.
 
 Every release must use the [Retro Trans game release standard](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/RELEASE_STANDARD.md). `tools/build_release.py` prepares the local configuration and invokes the standard builder. Supply a committed source revision, your original ISO and verified output ISO. It emits only the patch, manifest, checksums and validation report, after applying the patch locally and checking the complete output. See `docs/releases/v0.4.9.md` for the complete-campaign release's scope and validation.
+
+Add `--upgrade-source 0.4.1 path/to/published-0.4.1.iso` to include an upgrade
+patch. The source must match the exact previously published output hash. Repeat
+the option for additional supported versions. When extending an existing
+release, use `--source-commit` with its original game-source commit and a fresh
+`--output` directory. Verify that all existing patch bytes and target identities
+are unchanged before updating published metadata.

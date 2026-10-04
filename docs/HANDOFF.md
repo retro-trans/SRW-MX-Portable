@@ -5,6 +5,19 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
+**v0.4.9 upgrade added from published v0.4.1.** Exact upgrade source SHA-256:
+`cf4af0243dadd37718866d7ee1a6f1f8d8974d5f55dd827644227f4e58d1c7d5`,
+1,313,292,288 bytes. Do not substitute the existing local ISO labeled 0.4.1;
+it differs from the published output. The verified source was reconstructed
+from the original Japanese ISO and downloaded published 0.4.1 patch into
+`work/build/upgrade_041_to_049/SRWMX_EN_0.4.1_published.iso`.
+Full and upgrade patches passed standard round trips to the unchanged 0.4.9
+target. The upgrade is 853,344 bytes, SHA-256
+`d5d8d5bc6f0a9cbc34a739df55631452f7f37a9fc81be896d283cabb6171b2da`.
+Extended local assets: `work/output/release-v0.4.9-with-upgrade/`. The original
+full patch and release tag/source commit stay unchanged. Current metadata lists
+both source paths; the older eight-asset publication record below is historical.
+
 **Latest public release: 0.4.9.** Incremental update of 0.4.8 translating the native
 intermission bitmap header in WND.BIN texture #0 to INTERMISSION. All other 31
 ISO files are unchanged, preserving the intervening 0.4.4–0.4.8 story/UI fixes
