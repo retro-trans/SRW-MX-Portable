@@ -5,7 +5,23 @@ retained; the continuation status describes the latest work on disk.
 
 ## Continuation status — 2026-10-04
 
-**Current local build: 0.4.3.** Rebuilt from the original Japanese ISO with the
+**Latest local build: 0.4.9.** Incremental update of 0.4.8 translating the native
+intermission bitmap header in WND.BIN texture #0 to INTERMISSION. All other 31
+ISO files are unchanged, preserving the intervening 0.4.4–0.4.8 story/UI fixes
+listed in CHANGELOG.md. Verified on the actual intermission screen in isolated
+PPSSPP with a copied save and texture replacement disabled; live native texture
+bytes match the ISO. Capture: `work/ui/intermission_header_0.4.9_ingame.png`;
+report: `work/output/wnd_headers_0.4.9_verification.json`. Reproduce with
+`python tools/patch_wnd_headers.py work/output/SRWMX_EN_0.4.8.iso 0.4.9`.
+The normal `redraw_wnd.patch_wnd` build path produces the identical WND asset.
+The separate sortie-preparation bitmap header (#39) still awaits translation.
+The project lead explicitly requested a GitHub release for 0.4.9 on 2026-10-04.
+Release preparation includes full final-ISO readback, source commit, standard
+Retro Trans patch round trip, asset upload checks and catalog registration.
+Any future build still requires its own explicit release instruction.
+Earlier build evidence follows.
+
+**Complete campaign baseline: 0.4.3.** Rebuilt from the original Japanese ISO with the
 prologue and all translated groups through 58, including the ending, hidden
 stage, unused scenes and closing/save messages. All 51,366 original readable
 script uses and 98,686 unchanged commands passed finished-ISO readback.

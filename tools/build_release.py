@@ -47,7 +47,7 @@ def main():
         if result.returncode:
             raise PatchError('Could not encode patch: ' + result.stderr[:4096].decode('utf8', errors='replace'))
     release.encode = encode_full_source
-    commit = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=str(ROOT), text=True).strip()
+    commit = subprocess.check_output(['git', '-c', 'safe.directory=' + str(ROOT), 'rev-parse', 'HEAD'], cwd=str(ROOT), text=True).strip()
     local = ROOT / 'work/build' / ('release_' + args.version)
     local.mkdir(parents=True, exist_ok=True)
     config = {

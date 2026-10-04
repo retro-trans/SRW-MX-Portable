@@ -173,11 +173,11 @@
   "画面サイズ": "Screen Size",
   "戦闘デモ再生時の画面比１６：９の『ズーム』です。": "Battle scenes in 16:9 \"Zoom\".",
   "上下をカットして表示されます。": "The top and bottom are cut off.",
-  "戦闘デモ再生時の画面比４：３の『標準』です。": "Battle scenes in 4:3 \"Standard\".",
+  "戦闘デモ再生時の画面比４：３の『標準』です。": "Battle scenes in standard 4:3 (\"Std.\").",
   "戦闘デモ再生時の画面比１６：９の『ワイド』です。": "Battle scenes in 16:9 \"Wide\".",
   "横方向に引き伸ばして表示されます。": "The picture is stretched sideways.",
   "ムービー再生時の画面比１６：９の『ズーム』です。": "Movies in 16:9 \"Zoom\".",
-  "ムービー再生時の画面比４：３の『標準』です。": "Movies in 4:3 \"Standard\".",
+  "ムービー再生時の画面比４：３の『標準』です。": "Movies in standard 4:3 (\"Std.\").",
   "ムービー再生時の画面比１６：９の『ワイド』です。": "Movies in 16:9 \"Wide\".",
   "省電力モードを稼動します。本ゲーム内にて、電力消費を": "Power Save on: the game switches off its",
   "要する主なシステムが強制的にカットされます。": "main power-hungry systems.",
@@ -214,7 +214,7 @@
   "個別": "Custom",
   "固定": "Fixed",
   "切替え": "Switch",
-  "標準": "Standard",
+  "標準": "Std.",
   "属性": "Side",
   "点滅": "Blink",
   "画面": "Screen",
@@ -359,7 +359,7 @@
   "登録": "Set",
   "残り選択数": "Picks Left",
   "ＳＰ": null,
-  "精": "S",
+  "精": "Spr",
   "加": "Ac",
   "手": "Me",
   "閃": "Fl",
@@ -1100,6 +1100,56 @@
    "jp": "防御",
    "en": "Def",
    "why": "Raise Stats screen: the value is drawn about 35 px after the label (seen in game, 0.3.3); same short forms as the status screen"
+  },
+  "28B4F8": {
+   "jp": "精神コマンド",
+   "en": "Spirits",
+   "why": "Level Up screen: the header ran into \"Skills\" (seen in game, 0.4.4)"
+  },
+  "295248": {
+   "jp": "援護攻撃",
+   "en": "Support Atk",
+   "why": "battle setup Support value: ran past the box (seen in game, 0.4.4); same short form as the skill"
+  },
+  "295254": {
+   "jp": "支援攻撃",
+   "en": "Assist Atk",
+   "why": "battle setup Support value: same short form family as Support Atk"
+  },
+  "29526C": {
+   "jp": "援護防御",
+   "en": "Support Def",
+   "why": "battle setup Support value: same short form as the skill"
+  },
+  "292F08": {
+   "jp": "超強気",
+   "en": "Strong+",
+   "why": "personality 超強気: \"Super Strong\" ran into the Will label (seen in game, 0.4.4)"
+  },
+  "298930": {
+   "jp": "超強気",
+   "en": "Strong+",
+   "why": "personality 超強気: same short form as the status screen"
+  },
+  "28AFE8": {
+   "jp": "キャラクター事典",
+   "en": "Characters",
+   "why": "intermission Library submenu: the box is sized for the Japanese (seen in game, 0.4.5)"
+  },
+  "28AFFC": {
+   "jp": "ロボット大図鑑",
+   "en": "Robots",
+   "why": "intermission Library submenu: same box"
+  },
+  "28BC50": {
+   "jp": "個別",
+   "en": "Cust.",
+   "why": "option screen BGM Mode: \"Custom\" ran into the column divider (seen in game, 0.4.5)"
+  },
+  "28BE88": {
+   "jp": "個別選択",
+   "en": "Cust.",
+   "why": "option screen Power Save: \"Custom\" ran past the box edge (seen in game, 0.4.5)"
   }
  },
  "pairs": {
@@ -1178,6 +1228,10 @@
   "0.2.2 pilot status spirit list: Accelerate / Inspiration / Super Guts / Encourage / Disturbance use the short forms of the map spirit list; the cost column moved 14 px right (insert_text.CODE_PATCHES).",
   "0.2.2 pilot status skill list: Support Attack / Support Defend / Enhanced Human / Clear Mind Still Water use short forms (also in STATIC2 skill names).",
   "0.2.2 hero / partner setup: labels Name / Nick / Age without colons (\"Name:\" ran into the name).",
-  "0.3.4 Raise Stats screen: stat labels shortened to Mel / Rng / Acc / Eva / Skl / Def (they ran into the values)."
+  "0.3.4 Raise Stats screen: stat labels shortened to Mel / Rng / Acc / Eva / Skl / Def (they ran into the values).",
+  "0.4.5 Level Up header \"Spirits\"; battle setup support values Support Atk / Assist Atk / Support Def; personality 超強気 \"Strong+\" (all overlapped in game).",
+  "0.4.6 option values: 標準 \"Std.\" (Standard ran into Side / Wide); Library submenu Characters / Robots; menus left-aligned (search, transfer, upgrade, pilot training, yes/no, battle setup); search grid centring by real width.",
+  "0.4.7 option screen: Custom -> \"Cust.\" for BGM Mode and Power Save.",
+  "0.4.8 active-spirit row: label 精 \"Spr\" (was \"S\"); spirit codes 24 px apart (they ran together)."
  ]
 }

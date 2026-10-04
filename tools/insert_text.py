@@ -128,8 +128,8 @@ def patch_narration_script(data, bt, offset=0x60):
     """Rewrite the opening / ending narration scripts for the English line layout.
     The Japanese script shows its 32 / 24 lines with blank records between paragraphs at fixed
     positions, and ends at a record pointing to NARRATION_END (''). English has a different number
-    of lines per paragraph, so each script is refilled: the lines, one blank between paragraphs, the
-    original number of trailing blanks, then the end. Unused line slots are never referenced (an empty slot
+    of lines per paragraph, so each script is refilled with the English lines and blank lines between
+    paragraphs, keeping the original timing (see the comment in the loop). Unused line slots are never referenced (an empty slot
     would act as an end marker and stall the narration). Pointer words keep their relocations."""
     paras = narration_paragraphs(bt)
     recs = []
@@ -144,19 +144,26 @@ def patch_narration_script(data, bt, offset=0x60):
     starts = [i for i, r in enumerate(recs) if r[1] == 207]
     assert len(ends) == 2 and len(starts) == 2, 'narration script differs'
     for name, first, last in (('opening', starts[0], ends[0]), ('ending', starts[1], ends[1])):
-        seq = []
-        for k, para in enumerate(paras[name]):
-            if k:
-                seq.append(NARRATION_BLANK)
-            seq += para
-        # keep the original run of blank lines after the last text (9 / 20), then end; the opening and
-        # ending scripts have separate start pointers (0x171594 / 0x1715AC), so the end can move up
+        # Timing: the narration runs against fixed visuals, and reaching the end record early stalls
+        # or repeats it (seen in game, 0.4.2 / 0.4.5). So the end record stays where it was, the last
+        # English line lands on the record of the last Japanese line, and the extra records are
+        # spread as blank lines between paragraphs (any remainder goes before the first line).
         texts = [i for i in range(first, last) if recs[i][2] != NARRATION_BLANK]
-        trail = last - texts[-1] - 1
-        room = last - first
-        seq += [NARRATION_BLANK] * trail
-        assert len(seq) <= room, f'{name}: {len(seq)} records needed, {room} available'
-        seq += [NARRATION_END] * (room - len(seq))
+        target = texts[-1] - first + 1                     # records up to and including the last line
+        paras_ = paras[name]
+        n_lines = sum(len(p) for p in paras_)
+        gaps = len(paras_) - 1
+        spare = target - n_lines
+        assert spare >= gaps, f'{name}: not enough records ({target}) for {n_lines} lines'
+        per, extra = divmod(spare, gaps) if gaps else (0, spare)
+        lead = extra if gaps else spare
+        seq = [NARRATION_BLANK] * lead
+        for k, para in enumerate(paras_):
+            if k:
+                seq += [NARRATION_BLANK] * per
+            seq += para
+        seq += [NARRATION_BLANK] * (last - first - len(seq))
+        assert len(seq) == last - first
         for i, ptr in zip(range(first, last), seq):
             struct.pack_into('<I', data, recs[i][0] + 8 + offset, ptr)
 
@@ -195,6 +202,16 @@ CODE_PATCHES = [
     (0x28BE14, 0x0000001E, 0x0000000F, 'support menus: left-align item at x+15 (was 30, centred Japanese)'),
     (0x28BE1C, 0x0000000A, 0x0000000F, 'support menus: left-align item at x+15 (was 10, centred Japanese)'),
     (0x28BE2C, 0x00000014, 0x0000000F, 'support menus: left-align item at x+15 (was 20, centred Japanese)'),
+    # active spirit codes (Fl, Fc ...) after the 'Spr' label: 16 px apart fitted one kanji each; 24 px
+    (0x1D5304, 0x26100010, 0x26100018, 'active spirit codes: step 16 -> 24 px'),
+    # more menus whose per-item x offsets centred the Japanese words (0.4.6)
+    (0x1FA9A4, 0x246600AC, 0x246600A6, 'battle setup: Battle Anim. at x+0xAC like the other rows (x+0xA6)'),
+    (0x1B2AD0, 0x24030017, 0x24030012, 'yes/no box: Yes at x+0x12 like No (was 0x17, centred Japanese)'),
+    (0x28AF38, 0x000F001E, 0x000F000F, 'search menu: Spirit at x+15 like Skills / Abilities (was 30)'),
+    (0x296538, 0x00000007, 0x00000001, 'transfer menu: Sub at x+1 like Main (was 7)'),
+    (0x296660, 0x0000000B, 0x00000001, 'upgrade menu: Weapons at x+1 like Status (was 11)'),
+    (0x29666C, 0x00000006, 0x00000001, 'upgrade menu: Shield at x+1 like Status (was 6)'),
+    (0x296678, 0x00000018, 0x00000008, 'pilot training menu: Raise Stats at x+8 like Learn Skills (was 24)'),
 ]
 
 
@@ -215,6 +232,14 @@ CODE_BLOCKS = [
       (2 << 21) | (4 << 11) | 0x21,   # move  a0, v0 (width)
       0, 0, 0, 0, 0, 0, 0, 0, 0],
      [(2, 4)], 'series pick screen: centre the series name by its real width'),
+    # spirit / skill search grids: their own width estimate (20 px per kanji, 14 per other character)
+    # centred English far off; it now returns the real width from W1 in the screen's text context
+    # (object + 0x190, the context the grid is drawn with)
+    (0x1EAE70, '0000a3802130000016006010',
+     [(9 << 26) | (4 << 21) | (4 << 16) | 0x190,   # addiu a0, a0, 0x190
+      (2 << 26) | (0xB03E4 >> 2),                  # j     W1
+      0],
+     [(1, 4)], 'search grids: centre names by their real width'),
 ]
 
 

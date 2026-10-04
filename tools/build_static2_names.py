@@ -31,6 +31,40 @@ SPRT_FIELD = 12                     # bytes, inline in each Sprt record (incl. N
 # (seen in game, 0.2.0); longer glossary names get a short form there.
 # Pilot skills are listed on the pilot status screen with the level digit appended, in 121 px before
 # the level column (x+0x117 .. x+0x190; seen in game, 0.2.1). Longer ones get a short form.
+# Weapon names are listed in the weapon list with about 150 px (14 px font) before the Attack
+# column (seen in game, 0.4.4); 30 longer glossary names get a short display form.
+WEAPON_SHORT = {
+    'Tenku Shinken Secret: Twin Kamaitachi': 'Shinken: Twin Kamaitachi',
+    'Tenku Shin Ken: Lightning Double Slash': 'Shinken: Lightning 2-Slash',
+    'Tenku Shin Ken: Explosive Aerial Spin': 'Shinken: Explosive Spin',
+    'Deadly Gale Correct Fist Thrust Kai': 'Gale Fist Thrust Kai',
+    'Deadly Gale Correct Fist Thrust': 'Gale Fist Thrust',
+    'Mandala Formation: Gokuraku Ojo': 'Mandala: Gokuraku Ojo',
+    'Tenku Chushin Ken: Straight Punch': 'Chushin: Straight Punch',
+    'Tenku Chushin Ken: Rapid-Fire Fist': 'Chushin: Rapid-Fire Fist',
+    'Lightning Cyclone Bedrock Splitter': 'Lightning Rock Splitter',
+    'Tenku Shin Ken: Swallow Reversal': 'Shinken: Swallow Reversal',
+    'Tenku Shin Ken: Vacuum Tornado': 'Shinken: Vacuum Tornado',
+    'Tenku Chushin Ken: Rock Splitter': 'Chushin: Rock Splitter',
+    'Multi-Convergence Impact Laser': 'Multi-Conv. Impact Laser',
+    'Fate-Severing Sword Twin Blade': 'Fate-Severing Twin Blade',
+    'High Mega Cannon (Full Power)': 'High Mega Cannon (Full)',
+    'Double Tomahawk Boomerang': 'D. Tomahawk Boomerang',
+    'Tenku Chushin Ken: Mantis Fist': 'Chushin: Mantis Fist',
+    'Large Vegatron Beam Cannon': 'Large Vegatron Cannon',
+    'Tenku Shinken: Piercing Thrust': 'Shinken: Piercing Thrust',
+    'Super Vegatron Beam Cannon': 'Super Vegatron Cannon',
+    'Twin 25 mm Machine Cannon': 'Twin 25mm Autocannon',
+    'Twin 20 mm Machine Cannon': 'Twin 20mm Autocannon',
+    'Bueikyaku (No-Shadow Kick)': 'Bueikyaku',
+    'Sekiha Love Love Tenkyoken': 'Love Love Tenkyoken',
+    'Dimensional Coupler Cannon': 'Dim. Coupler Cannon',
+    'Hyper Mega Particle Cannon': 'Hyper Mega Part. Cannon',
+    'Large Mega Particle Cannon': 'Lg. Mega Particle Cannon',
+    'Tenku Shin Ken: Falling Leaf': 'Shinken: Falling Leaf',
+    'Large-Caliber Beam Cannon': 'Large-Cal. Beam Cannon',
+    'Tenku Shin Ken: Kamaitachi': 'Shinken: Kamaitachi',
+}
 SKILL_SHORT = {'Support Attack Lv': 'Support Atk Lv', 'Support Attack+': 'Support Atk+',
                'Support Defend Lv': 'Support Def Lv', 'Support Defend+': 'Support Def+',
                'Enhanced Human Lv': 'Enh. Human Lv', 'Clear Mind Still Water': 'Clear Mind'}
@@ -55,6 +89,8 @@ def main():
             en = FIXES.get(g.get(t), g.get(t))
             if 'skill' in own:
                 en = SKILL_SHORT.get(en, en)
+            if 'weapon' in own:
+                en = WEAPON_SHORT.get(en, en)
             if en is None:
                 missing.append(x)
         elif 'voice_actor' in own:

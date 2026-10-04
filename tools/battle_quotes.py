@@ -329,7 +329,7 @@ def build_subfile(s, static2_bytes):
                 data_at[o] = t.encode('cp932')
                 kept += 1
         # strings that do not fit the 0x4800 read go to the PRX overflow table, longest first
-        uniq_data = sorted(set(data_at.values()), key=len, reverse=True)
+        uniq_data = sorted(set(data_at.values()), key=lambda d: (-len(d), d))   # deterministic order
         size = str_start + sum(len(d) + 1 for d in uniq_data) + 1
         out_of_block = set()
         for d in uniq_data:

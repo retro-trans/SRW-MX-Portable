@@ -1,4 +1,4 @@
-"""Redraw the battle and status icons in WND.BIN with English (work/translation/en/ui/textures.json).
+"""Redraw configured headers and battle/status icons in WND.BIN with English.
 
 The icons are 8-bit TX48 textures (own 256-colour palette each, linear pixels):
 - large battle icons (攻 反 援 同 戦 支 避 防): 28x28 square in a 32x32 texture, 2 px gold border,
@@ -21,6 +21,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 FONT = r'C:\Windows\Fonts\arialbd.ttf'
+HEADER_FONT = r'C:\Windows\Fonts\arialbi.ttf'
 # kind -> (inner box x0, y0, x1, y1 (exclusive), letter cap height in px)
 BOXES = {'large': (2, 2, 26, 26, 11), 'small': (2, 2, 16, 16, 8), 'small2': (1, 1, 15, 15, 8), 'status': (1, 2, 14, 13, 7)}
 
@@ -52,10 +53,10 @@ def lum(c):
     return 0.3 * c[0] + 0.59 * c[1] + 0.11 * c[2]
 
 
-def render_text(text, cap, max_w):
+def render_text(text, cap, max_w, font_path=FONT):
     """Anti-aliased mask (L) of `text` with cap height `cap`, squeezed to max_w if needed."""
     scale = 8
-    font = ImageFont.truetype(FONT, cap * scale * 100 // 72)
+    font = ImageFont.truetype(font_path, cap * scale * 100 // 72)
     bbox = font.getbbox(text)
     im = Image.new('L', (bbox[2] - bbox[0] + 8, bbox[3] - bbox[1] + 8))
     ImageDraw.Draw(im).text((4 - bbox[0], 4 - bbox[1]), text, font=font, fill=255)
@@ -64,6 +65,45 @@ def render_text(text, cap, max_w):
     w = round(im.width * h / im.height)
     w = min(w, max_w)
     return im.resize((w, h), Image.LANCZOS)
+
+
+def redraw_header(data, o, entry):
+    """Replace lettering in an explicitly configured, flat-background rectangle.
+
+    The 512x32 texture includes the entire slanted header bar. Its palette,
+    decorative lines, transparent area and all pixels outside the box stay intact.
+    """
+    pal, (t, w, h, do) = palette(data, o)
+    assert t == 1, 'expected an 8-bit header texture'
+    px = bytearray(data[o + do:o + do + w * h])
+    x0, y0, x1, y1 = entry['native_text_box']
+    assert 0 <= x0 < x1 <= w and 0 <= y0 < y1 <= h
+    bg = entry['native_background_index']
+    # An intact background ring proves the rectangle excludes the bar decoration.
+    assert all(px[y*w+x] == bg for y in range(y0, y1) for x in range(x0, x1)
+               if x in (x0, x1-1) or y in (y0, y1-1)), 'header background changed'
+    body = max(range(len(pal)), key=lambda i: sum(pal[i][:3]) if pal[i][3] else -1)
+    dark = min((i for i in range(len(pal)) if pal[i][3] == pal[bg][3]),
+               key=lambda i: sum(pal[i][:3]))
+    ox, oy = entry['native_text_origin']
+    mask = render_text(entry['en'], entry['native_cap_height'], x1-ox-2, HEADER_FONT)
+    assert ox-1 >= x0 and oy-1 >= y0 and oy+mask.height+2 <= y1
+    for y in range(y0, y1):
+        px[y*w+x0:y*w+x1] = bytes([bg]) * (x1-x0)
+    ink = {(ox+x, oy+y): v for y in range(mask.height) for x in range(mask.width)
+           for v in [mask.getpixel((x, y))] if v >= 24}
+    for x, y in ink:
+        for dx, dy in ((-1,0),(1,0),(0,-1),(0,1),(1,1)):
+            px[(y+dy)*w+x+dx] = dark
+    opaque = [i for i in range(len(pal)) if pal[i][3] == pal[bg][3]]
+    colors = {}
+    for (x, y), coverage in ink.items():
+        if coverage not in colors:
+            rgb = [round((pal[body][c]*coverage + pal[bg][c]*(255-coverage))/255)
+                   for c in range(3)]
+            colors[coverage] = min(opaque, key=lambda i: sum((pal[i][c]-rgb[c])**2 for c in range(3)))
+        px[y*w+x] = colors[coverage]
+    return bytes(px), (t, w, h, do), pal
 
 
 def redraw(data, o, text, kind):
@@ -105,20 +145,25 @@ def patch_wnd(data, preview=None):
     out = bytearray(data)
     offs = textures(data)
     shots = []
+    headers = []
     done = 0
     for idx, e in sorted(tr.items(), key=lambda kv: int(kv[0])):
         kind = kind_of(e)
-        if not kind:
+        header = e['kind'] == 'screen header' and 'native_text_box' in e
+        if not kind and not header:
             continue
         o = offs[int(idx)]
         text = e.get('en_icon') or e['en']
-        px, (t, w, h, do), pal = redraw(data, o, text, kind)
+        if header:
+            px, (t, w, h, do), pal = redraw_header(data, o, e)
+        else:
+            px, (t, w, h, do), pal = redraw(data, o, text, kind)
         out[o + do:o + do + w * h] = px
         done += 1
         if preview:
             im = Image.new('RGBA', (w, h))
             im.putdata([pal[i][:3] + (min(255, pal[i][3] * 2),) for i in px])
-            shots.append(im)
+            (headers if header else shots).append(im)
     if preview and shots:
         sheet = Image.new('RGB', (len(shots) * 36 * 4, 36 * 4), (60, 60, 80))
         for n, im in enumerate(shots):
@@ -126,7 +171,13 @@ def patch_wnd(data, preview=None):
             bg.alpha_composite(im)
             sheet.paste(bg.convert('RGB').resize((im.width * 4, im.height * 4), Image.NEAREST), (n * 36 * 4, 0))
         sheet.save(preview)
-    print(f'WND.BIN: {done} icons redrawn')
+    if preview and headers:
+        sheet = Image.new('RGBA', (512, len(headers)*36), (3,3,25,255))
+        for n, im in enumerate(headers):
+            sheet.alpha_composite(im, (0,n*36))
+        stem, ext = os.path.splitext(preview)
+        sheet.convert('RGB').resize((1024,len(headers)*72), Image.NEAREST).save(stem+'_headers'+ext)
+    print(f'WND.BIN: {done} configured graphics redrawn')
     return bytes(out)
 
 

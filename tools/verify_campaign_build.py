@@ -18,6 +18,8 @@ import native_font4x
 import patch_chapter_cards
 import play_order
 import redraw_banners
+import redraw_wnd
+import insert_tiles
 import textfit
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -98,6 +100,8 @@ def verify(original, version):
     # The local build also contains the existing native English banner work.
     # Compare all non-script bytes against that explicitly scoped asset patch.
     banner_map = redraw_banners.patch(omap, 'MAP_ADD.BIN')
+    if report.get('map_terrain_translated'):
+        banner_map = insert_tiles.patch(banner_map)
     assert mmap[:base] == banner_map[:base], 'Unexpected pre-script asset changes'
     assert mmap[base+newrel[-1]*0x800:] == banner_map[base+oldrel[-1]*0x800:], 'Unexpected post-script asset changes'
     del banner_map
@@ -128,6 +132,9 @@ def verify(original, version):
     specs = read(ROOT/'work/translation/en/ui/all_chapter_cards.json')
     expected_cards, cards = patch_chapter_cards.patch_archive(iso_bytes(old,patch_chapter_cards.ASSET), specs, ROOT/'work/build/chapter_cards/verification')
     assert iso_bytes(new,patch_chapter_cards.ASSET) == expected_cards
+    if report.get('configured_wnd_headers_translated'):
+        expected_wnd = redraw_wnd.patch_wnd(iso_bytes(old, '/PSP_GAME/USRDIR/WND.BIN'))
+        assert iso_bytes(new, '/PSP_GAME/USRDIR/WND.BIN') == expected_wnd
     changed_files, unchanged_files = [], []
     for folder, _, names in old.walk(iso_path='/'):
         for name in names:
@@ -148,7 +155,10 @@ def verify(original, version):
                   translated_string_records=changed, untouched_technical_records=preserved,
                   script_blocks=203, raw_commands_preserved=commands, blocks=blocks,
                   relocated_block_and_section_tables_verified=True,
-                  non_script_map_assets_preserved_except_58_native_banners=True,
+                  non_script_map_assets_verified=True,
+                  native_banner_translation_verified=True,
+                  map_terrain_translated=bool(report.get('map_terrain_translated')),
+                  configured_wnd_headers_verified=bool(report.get('configured_wnd_headers_translated')),
                   native_font4x_payload_and_hooks_verified=True, native_font_relocations_verified=True,
                   high_resolution_descender_masks_verified=True, native_atlas_sha256=hashlib.sha256(high).hexdigest(),
                   native_font_hook_count=len(hooks), texture_replacement_required=False,

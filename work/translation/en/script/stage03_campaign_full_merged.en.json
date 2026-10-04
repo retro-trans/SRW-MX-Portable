@@ -121,7 +121,7 @@
    "kind": "dialogue",
    "speaker_jp": "ブラッキー",
    "speaker_en": "Blacky",
-   "en": "By the way, Commander Gandal, what shall we do about those Earthlings on the Moon's near side, the group called Giganos?",
+   "en": "By the way, Commander Gandal, what of the Earthling forces on the near side of the Moon, the ones called Giganos?",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 6
@@ -13264,7 +13264,7 @@
    "kind": "dialogue",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "Captain Shitow, I'm asking this knowing you're in intelligence. A yes or no will do.",
+   "en": "Captain Shitow, I know you're with Intelligence, and I'm asking anyway. Just answer yes or no.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 662
@@ -15285,7 +15285,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 3,
-  "fingerprint": "3cd2149285afdc5faeb9a73c1f5ef793a0432534cbb713e67a4f254fbecc1543",
+  "fingerprint": "47dc3056c0f5baacf03c4a2d6a86d2e5778c870e83a1708865c1038df254e9b4",
   "reviewed_reused_ids": [
    48,
    136,
@@ -15443,7 +15443,15 @@
   "reviewed_reused_rows": 152,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 6 and 813. Blacky asks about the Earthling forces called Giganos on the near side of the Moon. Elvy explicitly addresses Shitow as an Intelligence officer and asks for a yes/no answer. The selected 0.4.4 English corrections preserve these meanings. No other source, use or English changes.",
+  "release_delta_review": {
+   "version": "0.4.9",
+   "prior_fingerprint": "3cd2149285afdc5faeb9a73c1f5ef793a0432534cbb713e67a4f254fbecc1543",
+   "reviewed_full_ids": [
+    6,
+    813
+   ]
+  }
  },
  "full_checks": {
   "rows": 939,

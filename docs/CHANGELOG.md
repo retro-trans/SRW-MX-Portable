@@ -1,5 +1,105 @@
 # Changelog
 
+## 0.4.9 — 2026-10-04 (complete-campaign release)
+
+- Full patch from the original Japanese ULJS-00041 ISO, prepared at the project
+  lead's explicit release request. Includes all stages and route branches,
+  ending, hidden/unused scenes and closing messages, all 67 chapter titles,
+  and every cumulative fix through 0.4.8.
+- Final release readback verifies 51,366 original readable script uses,
+  98,686 unchanged commands, 205 chapter-card atlases and the native 4x font.
+  Battle captions: 51,892 entries, no mismatches; BOOT references: 1,761
+  correct, none wrong; STATIC2 names: 1,500/1,500. Full playtesting remains pending.
+
+- Translated the intermission screen's bitmap header to **INTERMISSION**.
+  WND.BIN texture #0 now uses bold italic English inside the original text area;
+  its palette, navy bar, diagonal edge and decorative lines are preserved.
+  The normal full-build tool also applies this header translation.
+- Based on local 0.4.8. All 31 other ISO files are byte-identical, preserving
+  its story translation and intervening UI fixes. No texture replacement.
+- Verified ISO readback and the intermission screen in isolated PPSSPP using
+  a copied save. The live native header pixels exactly match the patched ISO.
+  Capture: `work/ui/intermission_header_0.4.9_ingame.png`; verification:
+  `work/output/wnd_headers_0.4.9_verification.json`.
+- ISO: `work/output/SRWMX_EN_0.4.9.iso`; SHA-256:
+  `3ddfe20a125fde4932d977c6a2c23a87c6e31e4bf3c021fe99f58180a4e9d2d5`.
+  Release scope and application instructions: `docs/releases/v0.4.9.md`.
+
+## 0.4.8 — 2026-10-04 (local test build, `work/output/SRWMX_EN_0.4.8.iso`, no GitHub release)
+
+- **Active-spirit row** (unit panels):
+  - label 精 is "Spr" instead of "S";
+  - the codes of the active spirit commands (Fl, Fc, Ac ...) are drawn 24 px apart instead of 16
+    (`insert_text.CODE_PATCHES`, 0x1D5304); 16 px fitted one kanji each, and the English codes ran
+    together ("FlFc").
+- Otherwise the same as 0.4.7. All checks pass; battle quotes 51,892 / 0 mismatches. Not checked in
+  game.
+
+## 0.4.7 — 2026-10-04 (local test build, `work/output/SRWMX_EN_0.4.7.iso`, no GitHub release)
+
+- **Option screen:** "Custom" -> "Cust." for BGM Mode and Power Save. It ran into the column
+  divider and past the box edge. The battle-setup "Custom ON / OFF" values have room and are
+  unchanged.
+- Otherwise the same as 0.4.6. All checks pass; battle quotes 51,892 / 0 mismatches. Not checked in
+  game.
+
+## 0.4.6 — 2026-10-04 (local test build, `work/output/SRWMX_EN_0.4.6.iso`, no GitHub release)
+
+- **Menu alignment.** Per-item x offsets that centred the short Japanese words are now equal
+  (`insert_text.CODE_PATCHES`): Yes / No box, Search (Spirit), Transfer (Sub), Upgrade (Weapons,
+  Shield), Pilot Training (Raise Stats), battle setup (Battle Anim.).
+- **Spirit / skill search grids** centred names with their own estimate (20 px a kanji, 14 px other
+  characters). The estimator now returns the real width (`CODE_BLOCKS`, jump to W1 in the grid's text
+  context), so "Sure Hit" lines up with its column.
+- **Option screen:** 標準 "Standard" -> "Std." (it ran into Side / Wide); the two help lines explain
+  it as standard 4:3.
+- **Library submenu:** "Characters" / "Robots"; the box is sized for the Japanese.
+- **Map terrain names translated** (暗礁空域 -> Debris Field ...): 104 names, 404 records in MAP_ADD
+  MPTI (`tools/insert_tiles.py`, `work/translation/en/ui/map_tiles.json`). Earlier skipped as
+  internal, but the map info box shows them. Names are at most 15 letters; 98 developer notes after
+  '@' were dropped to fit.
+- **Opening / ending narration timing:** the end record is back at its original position, and the
+  last English line lands on the record of the last Japanese line; blank lines are spread between
+  paragraphs. In 0.4.2-0.4.5 the end came about 20 lines early, and the last line repeated.
+- Same story inputs as 0.4.3-0.4.5. All checks pass; battle quotes 51,892 / 0 mismatches. Patches
+  read back from the built BOOT. Not checked in game.
+
+## 0.4.5 — 2026-10-04 (local test build, `work/output/SRWMX_EN_0.4.5.iso`, no GitHub release)
+
+- **Weapon names:** 30 names too long for the weapon list (about 150 px before Attack) get short
+  display forms (`WEAPON_SHORT` in `tools/build_static2_names.py`; the glossary keeps the full
+  names). Examples:
+  - "D. Tomahawk Boomerang";
+  - Tenku Shin Ken / Chushin Ken moves as "Shinken: ..." / "Chushin: ...";
+  - "Twin 25mm Autocannon".
+- **Level Up screen:** header "Spirit Commands" -> "Spirits". It ran into "Skills".
+- **Battle setup:** Support values Support Atk / Assist Atk / Support Def. "Support Attack" ran past
+  the box.
+- **Pilot status:** personality 超強気 "Super Strong" -> "Strong+". It ran into the Will label; both
+  copies changed.
+- **Koji, stage 2:** "It's a TFO, not a UFO. I built it back when I was at the Watson Institute in
+  America." It answers Beecha calling it a UFO.
+- Same inputs as 0.4.3 / 0.4.4 otherwise. Checks pass; battle quotes 51,892 / 0 mismatches. Not
+  checked in game.
+
+## 0.4.4 — 2026-10-04 (local test build, `work/output/SRWMX_EN_0.4.4.iso`, no GitHub release)
+
+- Same inputs as local 0.4.3 (all 59 story files, chapter cards, battle quotes, UI), plus three
+  dialogue fixes reported in game:
+  - Aqua, stage 2: "Besides, if anything, I like them older, not younger."
+  - Blacky, stage 3: "...what of the Earthling forces on the near side of the Moon, the ones called
+    Giganos?" (勢力 = forces, not "group").
+  - Elvy, stage 3: "Captain Shitow, I know you're with Intelligence, and I'm asking anyway. Just
+    answer yes or no." ("in intelligence" read as "smart").
+  - The archived first drafts keep their original text.
+- **Battle-quote overflow choice is now deterministic.** Lines of equal length were picked in
+  Python's per-run set order, so two builds could differ in one block. Both were valid.
+- **Checks:**
+  - every ISO file other than MAP_ADD.BIN and BATTLE2.BIN is byte-identical to 0.4.3;
+  - battle quotes: 51,892 entries, 0 mismatches;
+  - the three new lines are present and the old ones are gone.
+- Not checked in game.
+
 ## 0.4.3 — 2026-10-04 (local test build, no GitHub release)
 
 - Inserted the prologue and every translated stage/group through the ending,

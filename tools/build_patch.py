@@ -171,6 +171,8 @@ def main(iso_path, version, *rest):
         static2_new = redraw_banners.patch(static2_new, 'STATIC2_ADD.BIN', os.path.join(build, 'banners.png'))
         assert len(redraw_banners.textures(map_new)) == len(redraw_banners.textures(map_add)), 'MAP_ADD textures moved'
         map_new = redraw_banners.patch(map_new, 'MAP_ADD.BIN')
+        import insert_tiles                         # map cursor terrain names
+        map_new = insert_tiles.patch(map_new)
         import redraw_wnd                           # battle / status icons (English letters)
         repl['/PSP_GAME/USRDIR/WND.BIN'] = redraw_wnd.patch_wnd(iso_read(iso, '/PSP_GAME/USRDIR/WND.BIN'),
                                                                 os.path.join(build, 'wnd_icons.png'))

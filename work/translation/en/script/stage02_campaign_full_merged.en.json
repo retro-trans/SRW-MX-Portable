@@ -438,7 +438,7 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Besides, I prefer someone older to someone younger.",
+   "en": "Besides, if anything, I like them older, not younger.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 24
@@ -16433,7 +16433,7 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "It's a TFO, a TFO. I built it when I was at the Watson Institute in America.",
+   "en": "It's a TFO, not a UFO. I built it back when I was at the Watson Institute in America.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 843
@@ -17622,7 +17622,7 @@
  },
  "context_review": {
   "stage": 2,
-  "fingerprint": "37e353372593bb28cf4e7b772a51898825a6109f9efdf3846cf6de4aaeea25b5",
+  "fingerprint": "2b552ae78265f3f9579d6d082d8aa6a0d0fbed0f955cc91c5eb9d190053911e8",
   "reviewed_reused_ids": [
    21,
    87,
@@ -17779,6 +17779,14 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Canonical spelling-only follow-up: root checked source797 and all final-corpus occurrences; Reideen becomes main Akurasu Raideen by script. Current font347/161 becomes347/162, both two lines; initial draft immutable. Meaning and all earlier scene-context reviews unchanged."
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Canonical spelling-only follow-up: root checked source797 and all final-corpus occurrences; Reideen becomes main Akurasu Raideen by script. Current font347/161 becomes347/162, both two lines; initial draft immutable. Meaning and all earlier scene-context reviews unchanged. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 25 and 994. Aqua explicitly prefers older partners; Koji corrects Beecha calling the craft a UFO to TFO. The selected 0.4.4/0.4.5 English corrections preserve both meanings. No other source, use or English changes.",
+  "release_delta_review": {
+   "version": "0.4.9",
+   "prior_fingerprint": "37e353372593bb28cf4e7b772a51898825a6109f9efdf3846cf6de4aaeea25b5",
+   "reviewed_full_ids": [
+    25,
+    994
+   ]
+  }
  }
 }

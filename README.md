@@ -8,33 +8,33 @@ Bug reports, proofreading and playtesting are welcome. Include your build versio
 
 ## Play it
 
-The latest public release is [v0.4.1](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.1). It is a **partial, experimental English translation**, covering the prologue and numbered stages **1–30**, including their translated route branches. It also includes battle captions, menus, names, library entries and other interface text. Its later story stages and many closing messages remain Japanese, and only the Stage 1 Super chapter card is translated.
+The latest release is [v0.4.9](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.9). It includes **all story dialogue through the ending**: the prologue, all 54 numbered stages, the final stage, the hidden stage and every mapped route branch. Unused scenes and closing/save messages are also translated. **All 67 chapter titles** are covered across 205 native title-card copies and variants.
 
-**Local development build 0.4.3** includes all story dialogue through the ending, every mapped route, the hidden stage, unused scenes and closing/save messages, plus all 67 chapter titles. All original readable script uses pass ISO readback and all script commands are preserved. This build has targeted emulator loading and rendering checks; full campaign playtesting remains pending. It has no published patch or GitHub release. A release requires the project lead's explicit instruction.
+This is an **experimental English translation**. Battle captions, menus, names, library entries, terrain labels and much of the interface are translated; some bitmap interface labels still remain Japanese. All original readable script uses pass ISO readback and all script commands are preserved. Targeted emulator loading and rendering checks pass; full campaign playtesting and complete human proofreading remain pending.
 
-You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.1.xdelta` from the release page.
+You need your own matching Japanese ISO. Download `SRWMX-English-v0.4.9.xdelta` from the release page.
 
 ### Apply
 
-**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic**: select the source ISO, wait for analysis, then click **Patch**. v0.4.1 is registered in the verified catalog. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
+**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) provides a desktop interface for applying translation patches. Download the app from its Releases page and use **Automatic** after refreshing its catalog: select the source ISO, wait for analysis, then click **Patch**. You can also use **Apply xdelta**: choose your original ISO, the downloaded patch and a new output filename.
 
 **Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) accepts the same `.xdelta` file. Select your Japanese ISO as the original file and the patch as the delta.
 
 **Command line:** Get [xdelta3](https://github.com/jmacd/xdelta), then run:
 
 ```sh
-xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.1.xdelta "SRWMX English v0.4.1.iso"
+xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.9.xdelta "SRWMX English v0.4.9.iso"
 ```
 
-The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.1.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier local English test builds as its source.
+The source and output hashes are recorded in the release's `BUILD-MANIFEST.json` and `README-v0.4.9.txt`. Keep source checksum verification enabled. This release provides a full patch from the original Japanese ISO; it does not accept earlier English builds as its source.
 
 Use an in-game save when switching builds and restart the game. Emulator save states retain the old executable and resources. The font and translated artwork are native game patches; no emulator texture replacement is required.
 
-![Stage 1 Super chapter card in v0.4.2](work/ui/chapter_card_0.4.2.png)
+![Translated intermission header in v0.4.9](work/ui/intermission_header_0.4.9_ingame.png)
 
 ## Status
 
-- Local 0.4.3 includes the prologue and all story dialogue through the ending: 51,366 original scene/string uses across 203 blocks. Every mapped route, the hidden stage, unused scenes and closing/save messages are included.
+- v0.4.9 includes the prologue and all story dialogue through the ending: 51,366 original scene/string uses across 203 blocks. Every mapped route, the hidden stage, unused scenes and closing/save messages are included.
 - Battle caption insertion was checked across 51,892 entries with no mismatches.
 - Latin dialogue uses a proportional Genei LateGo font with a native 4× atlas. Descenders, including the bottom of `g`, are preserved.
 - All 67 chapter titles are covered across 205 native bitmap copies: 160 copies translated and 45 existing English copies preserved. Kaine's closing line from v0.4.1 is retained.

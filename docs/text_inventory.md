@@ -34,7 +34,7 @@ shown to the player.
 | 17 | Stage location names (stage select / intro) | STATIC2 0x1FD3F0 | 138 / 41 | 203 | **done** `static2/scenario.json` | inline 0x40-byte field |
 | 18 | Stage titles (two copies per stage) | STATIC2 0x1FF898 | 138 / 68 | 630 | **done** `static2/scenario.json` (27-letter limit) | **inline 0x38-byte field** |
 | 19 | Stage summaries (`＠` = new line) | STATIC2 0x201B18 | 69 / 68 | 4,546 | **done** `static2/scenario.json` | pointer table; 4 lines x 448 px |
-| 20 | Graphics: window headers, battle command / status icons | WND.BIN | 26 images | — | **done** (text) `ui/textures.json`; icons redrawn in 0.2.3 (`tools/redraw_wnd.py`), the 2 headers not yet | redraw TX48 |
+| 20 | Graphics: window headers, battle command / status icons | WND.BIN | 26 images | — | **done** (text) `ui/textures.json`; icons redrawn in 0.2.3; intermission header native English in 0.4.9 (`tools/redraw_wnd.py`), sortie-preparation header pending | redraw TX48 |
 | 21 | Graphics: battle and status-effect banners | STATIC2 + MAP_ADD (same set twice) | 58 + 58 images | — | **done** (text) `ui/textures.json` | redraw TX48, both copies |
 | 22 | Title logo | OPWND.BIN #44 | 1 | — | **done** (text) `ui/textures.json` | redraw TX48 (512x256) |
 | 23 | XMB / save icons with the logo | ICON0.PNG, SAVE.BIN (2 PNG) | 3 | — | **done** (text) `ui/textures.json` | PNG |

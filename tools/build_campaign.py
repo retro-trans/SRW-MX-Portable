@@ -100,6 +100,7 @@ def prepare(original, version):
                   original_map_sha256=hashlib.sha256(map_data).hexdigest(),
                   font_sha256=hashlib.sha256((ROOT/'work/build/STATIC2_ADD.BIN').read_bytes()).hexdigest(),
                   larger_than_original_limit=[b for b in blocks if b['translated_size']>build_patch.MAX_BLOCK],
+                  map_terrain_translated=True, configured_wnd_headers_translated=True,
                   runtime_heap_verified=False, problems=[])
     return files, result
 

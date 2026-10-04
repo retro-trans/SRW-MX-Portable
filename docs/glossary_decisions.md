@@ -1098,3 +1098,7 @@ Term IDs, stem sources and licensed/reachability limits are in campaign_terms.
 Plain legacy embedded labels have no frozen speaker prefill: the source-short
 Harry nickname rule applies there. Main Hari Makibi and earlier immutable
 Hari speaker fields remain protected.
+
+Weapon names wider than the weapon list column (2026-10-04) also get a short display form, listed in
+`WEAPON_SHORT` in `tools/build_static2_names.py`. Tenku Shin Ken (sword) moves are shown as
+"Shinken: ..." and Tenku Chushin Ken (fist) moves as "Chushin: ..."; machine cannons as autocannons.
