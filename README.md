@@ -59,14 +59,6 @@ source verification enabled.
 Use an **in-game save** and restart when changing builds. Emulator save states
 retain the old executable and resources.
 
-### Native font and artwork
-
-The proportional Genei LateGo font uses a native **4× Latin atlas**, with intact
-descenders. English chapter cards and the INTERMISSION header are also included
-inside the game patch. No emulator texture replacement is needed.
-
-![English intermission screen](work/ui/intermission_header_0.4.9_ingame.png)
-
 ## Check the translation
 
 Read the Japanese beside the selected English using your own original ISO:

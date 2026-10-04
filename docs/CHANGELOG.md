@@ -2,6 +2,8 @@
 
 ## Documentation — 2026-10-04
 
+- Removed the README's Native font and artwork section and its screenshot at
+  the project lead's request.
 - Adapted the repository README and published v0.4.9 release page to SRW-Z's
   structure: installation and source/patch table, changes since the previous
   public release, testing status, translation method, credits and contribution
