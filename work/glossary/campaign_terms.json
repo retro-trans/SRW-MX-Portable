@@ -4722,6 +4722,65 @@
     "work/translation/en/script/stage45_campaign.json:807"
    ],
    "notes": "Akurasu establishes name but no exact English rank. Source explicitly says 少佐, main profile is former Jovian officer; provisional naval convention Lieutenant Commander scoped to this rank, independently licensed English unverified. Do not import different-era BX Lieutenant Colonel or globally convert other Majors."
+  },
+  {
+   "jp": "統一帝国ギガノス",
+   "en": "United Lunar Empire Giganos",
+   "sources": [
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar",
+    "https://www.dragonar.net/staffcast/"
+   ],
+   "notes": "Akurasu Dragonar faction heading explicitly gives United Lunar Empire Giganos. Official Japanese synopsis corroborates exact source organization. Canonical full-name correction supersedes the old compact United Empire Giganos main record; source-short Giganos Empire and United Empire remain short. Do not add facts about the Moon to other descriptive lines. Licensed MX wording not independently verified."
+  },
+  {
+   "jp": "ＳＰ隊",
+   "en": "SP squad",
+   "aliases": [
+    "SP隊"
+   ],
+   "sources": [
+    "https://www.dragonar.net/episode/index.php?id=46",
+    "work/translation/en/script/stage46_campaign.json:417"
+   ],
+   "notes": "No exact Akurasu entry located. Official Dragonar episode47 synopsis corroborates SP as Dorchenov subordinates, without expanding acronym. Preserve literal SP; do not invent Special Police/Forces expansion or import anime broadcast mechanism into the game."
+  },
+  {
+   "jp": "ベルネ",
+   "en": "Borne",
+   "sources": [
+    "https://textgridrep.org/browse/kpp8.0",
+    "work/translation/en/script/stage47_campaign.json:150"
+   ],
+   "notes": "No exact Akurasu entry located. Source four-part government/sail, people/wind, state/ship, era/sea quote identifies Ludwig Börne: primary Aphorismen und Miszellen46 has all four mappings. Source-short surname stays ASCII Borne for current font; not Verne and no full-name expansion or author biography. Translate game wording rather than substitute a third-party translation. Exact licensed MX spelling unverified."
+  },
+  {
+   "jp": "三途の川",
+   "en": "Sanzu River",
+   "sources": [
+    "https://akurasu.net/wiki/Mobile_Suit_Gundam:_Side_Stories/Flow_Chart"
+   ],
+   "notes": "Akurasu scenario15 pairs the exact Japanese cultural name with Sanzu River in its English title. Use the established stem in the horse/death pun; no Styx substitution, ferry mechanics or facts from another game. Exact licensed MX dialogue wording unverified."
+  },
+  {
+   "jp": "バトルターン",
+   "en": "Battle Turn",
+   "aliases": [
+    "バトル・ターン"
+   ],
+   "sources": [
+    "https://akurasu.net/wiki/BGM_List",
+    "work/translation/en/script/stage47_campaign.json:116"
+   ],
+   "notes": "Akurasu Daimos BGM table gives Battle Turn for the corresponding Japanese stem. Source is elongated transformation cry; preserve shouted length in dialogue (Battle Tuuurn). BGM stem supports spelling, not independently licensed MX cry wording."
+  },
+  {
+   "jp": "サブ",
+   "en": "Sabu",
+   "sources": [
+    "work/translation/en/script/stage47_campaign.json:108",
+    "work/translation/en/script/stage47_campaign_all_source.json"
+   ],
+   "notes": "Source-short nickname addressed to Saburota in the immediately connected horse banter. No exact Akurasu nickname entry located; literal romanization Sabu is provisional. Do not expand to full Saburota or confuse a different character; licensed nickname spelling unverified."
   }
  ],
  "characters": [

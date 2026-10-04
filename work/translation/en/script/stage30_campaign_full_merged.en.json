@@ -12339,12 +12339,12 @@
    "kind": "dialogue",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "...Our United Empire Giganos is the sword that will cut down the corruption-breeding Federation and vanquish evil...",
+   "en": "...Our United Lunar Empire Giganos is the sword that will cut down the corruption-breeding Federation and vanquish evil...",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 587
    },
-   "notes": "United Empire Giganos and evil-vanquishing sword retained.",
+   "notes": "United Empire Giganos and evil-vanquishing sword retained. Coordinator delta: Full organization name follows explicit Akurasu faction heading, superseding compact glossary form; source-short forms unchanged.",
    "uncertain": []
   },
   {
@@ -13858,7 +13858,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 30,
-  "fingerprint": "47834df1a02439dd971ee5db22e62c1bdc09798e5c94688dd73b276e0c896507",
+  "fingerprint": "b97467af40c50e3fb464d7e2009fa8c91e4e4e92f536b68a40a837336f865aaf",
   "reviewed_reused_ids": [
    65,
    90,
@@ -14023,7 +14023,7 @@
   "reviewed_reused_rows": 159,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-04 ranked-address delta: root scanned all original source-ranked Zuril uses and reviewed their original neighbors. Source-short title follows Chief Zuril per main science-chief profile; final fresh91/113 Minister changed to Chief, and missing titles restored in290/297/310. All five new final rows measured FITS; immutable drafts and original sources remain unchanged. Prior whole-stage review remains valid, delta fingerprint updated."
+  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-04 ranked-address delta: root scanned all original source-ranked Zuril uses and reviewed their original neighbors. Source-short title follows Chief Zuril per main science-chief profile; final fresh91/113 Minister changed to Chief, and missing titles restored in290/297/310. All five new final rows measured FITS; immutable drafts and original sources remain unchanged. Prior whole-stage review remains valid, delta fingerprint updated. 2026-10-04 full organization-name delta reviewed against exact source and original neighbors at stage6 FULL362 / fresh212 and stage30 FULL744 / fresh587. Akurasu Dragonar explicitly names United Lunar Empire Giganos; only this full name changed in final, source-short names unchanged. Both affected packets remeasured FITS and immutable initial drafts retained. Prior full-stage context review remains applicable."
  },
  "full_checks": {
   "rows": 839,

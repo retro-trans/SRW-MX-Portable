@@ -745,3 +745,42 @@ Akurasu entry. Twelve supplemental records are in `campaign_terms.json`.
 The quoted archaic admonition retains its literal wording and uncertain literary
 provenance without attribution. Source-short Pros and Hari follow existing
 records; the main nickname Megu-tan is retained. Initial drafts remain unchanged.
+
+## Stage 46 terminology review — 2026-10-04
+
+**United Lunar Empire Giganos** follows the explicit faction name in
+[Akurasu's Dragonar page](https://akurasu.net/wiki/Metal_Armor_Dragonar).
+The [official Japanese synopsis](https://www.dragonar.net/staffcast/) confirms
+the source organization. This corrects the older compact full-name glossary
+entry, rather than overriding Akurasu. Source-short Giganos Empire and United
+Empire remain short. A corpus scan found the older full form in stages 6 and
+30; their final name pass and renewed review are complete alongside stage 46.
+All affected final rows fit the actual font, and both completion audits pass.
+Initial translation drafts stay unchanged.
+
+**SP squad** preserves the unexpanded acronym in the game. No exact Akurasu
+entry was located. The [official episode 47 synopsis](https://www.dragonar.net/episode/index.php?id=46)
+corroborates SP as Dorchenov's subordinates without establishing an English
+expansion. Do not add Special Police, Special Forces, or the anime's different
+broadcast mechanism. Exact licensed English wording remains unverified.
+
+## Stage 47 terminology review — 2026-10-04 (translation in progress)
+
+- **Borne** is the source-short author surname, rendered in ASCII for the font.
+  No exact Akurasu entry was found. The four metaphor mappings identify Ludwig
+  Börne: [primary Aphorismen und Miszellen, aphorism 46](https://textgridrep.org/browse/kpp8.0)
+  gives government/sail, people/wind, state/ship and era/sea. Preserve the game's
+  wording and short attribution; do not substitute Verne or add a biography.
+- **Sanzu River** follows the exact Japanese/English stem pair in
+  [Akurasu's Side Stories scenario 15](https://akurasu.net/wiki/Mobile_Suit_Gundam:_Side_Stories/Flow_Chart).
+  Keep the horse/death pun without substituting Styx or importing other-game lore.
+- **Battle Turn** follows the Daimos stem in [Akurasu's BGM list](https://akurasu.net/wiki/BGM_List).
+  The transformation cry retains its source elongation. The BGM spelling does
+  not independently establish licensed MX dialogue wording.
+- **Sabu** preserves the source-short nickname addressed to Saburota in the
+  connected horse banter. No exact Akurasu nickname entry was found; this is a
+  provisional source-grounded romanization. The nursemaid's ordinary **my lady**
+  address follows Erika's existing princess profile without a new fixed name.
+
+Exact licensed MX spellings remain unverified where stated. Initial drafts stay
+unchanged; these decisions do not override Akurasu entries.

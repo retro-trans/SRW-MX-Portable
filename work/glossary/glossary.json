@@ -20574,14 +20574,15 @@
   },
   {
    "jp": "統一帝国ギガノス",
-   "en": "United Empire Giganos",
+   "en": "United Lunar Empire Giganos",
    "category": "organization",
    "series": "機甲戦記ドラグナー",
    "sources": [
+    "https://akurasu.net/wiki/Metal_Armor_Dragonar",
     "https://en.wikipedia.org/wiki/Metal_Armor_Dragonar",
     "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=50"
    ],
-   "notes": "English Wikipedia: 'United Lunar Empire Giganos'.",
+   "notes": "Akurasu Dragonar faction heading explicitly gives United Lunar Empire Giganos. Corrected old compact full-name entry; source-short Giganos Empire and United Empire remain short. Exact licensed MX wording not independently verified.",
    "_group": "A"
   },
   {

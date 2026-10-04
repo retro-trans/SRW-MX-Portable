@@ -6012,12 +6012,12 @@
    "kind": "thought",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "But I must defeat him. I am a soldier of United Empire Giganos!",
+   "en": "But I must defeat him. I am a soldier of United Lunar Empire Giganos!",
    "translation_owner": {
     "source": "work/translation/en/script/stage06_campaign.json",
     "id": 212
    },
-   "notes": "Thought: Meio reasserts duty to defeat Duke as United Empire Giganos soldier.",
+   "notes": "Thought: Meio reasserts duty to defeat Duke as United Empire Giganos soldier. Coordinator delta: Full organization name follows explicit Akurasu faction heading, superseding compact glossary form; source-short forms unchanged.",
    "uncertain": []
   },
   {
@@ -9572,7 +9572,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 6,
-  "fingerprint": "d160a3d9ebd68953d26b7a98ff0869569ffc87af4fce3c0594eec5f96ced0ac7",
+  "fingerprint": "fdd78e440df736f9f6012ee21c66cbc011070231244cc6229052cde837028fe2",
   "reviewed_reused_ids": [
    52,
    60,
@@ -9731,7 +9731,7 @@
   "reviewed_reused_rows": 153,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed153 reused rows, including every non-template use and original neighbors: neutral silences/reactions, radar acknowledgement, unchanged mission objective, Vega Hokuto thought and computer-name reactions; generic143-row battle template retains reviewed source and wording. Fresh flags353 love,397 broad responsibility and400 Hokuto referent checked against original postbattle neighbors and retained honestly. All final checks pass. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass."
+  "note": "Reviewed153 reused rows, including every non-template use and original neighbors: neutral silences/reactions, radar acknowledgement, unchanged mission objective, Vega Hokuto thought and computer-name reactions; generic143-row battle template retains reviewed source and wording. Fresh flags353 love,397 broad responsibility and400 Hokuto referent checked against original postbattle neighbors and retained honestly. All final checks pass. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for 竜馬. All full checks pass. 2026-10-04 full organization-name delta reviewed against exact source and original neighbors at stage6 FULL362 / fresh212 and stage30 FULL744 / fresh587. Akurasu Dragonar explicitly names United Lunar Empire Giganos; only this full name changed in final, source-short names unchanged. Both affected packets remeasured FITS and immutable initial drafts retained. Prior full-stage context review remains applicable."
  },
  "full_checks": {
   "rows": 582,

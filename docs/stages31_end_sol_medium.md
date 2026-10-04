@@ -42,8 +42,8 @@ inspecting the preview. This does not insert translations into the game.
 
 ## Progress
 
-Stages 31–45 now total 8,680 reviewed fresh rows, 11,292 full rows and 120 packets.
-Stage 46 is next in the queue. No later dialogue has yet been inserted into an ISO.
+Stages 31–46 now total 9,357 reviewed fresh rows, 12,133 full rows and 129 packets.
+Stage 47 is underway. No later dialogue has yet been inserted into an ISO.
 
 Stage 31 is complete: 726 fresh rows in ten packets, 899 full rows and 1,225
 original scene uses. Six distinct Sol 6.1 Medium translators produced preserved
@@ -203,7 +203,7 @@ epithet retain licensed-provenance limits; Altair's human-fear clause retains
 its bounded grammatical ambiguity. Exact review fingerprint:
 `f98b15cd5bcfee3ea8dac49998fbb988dc9915c32fa4d89dd8d3a00fe62a0eef`.
 
-Stage 46 is next. Full-game local insertion and playtesting remain pending.
+Stage 47 is underway. Full-game local insertion and playtesting remain pending.
 No further GitHub release is authorized.
 
 Stage 45, **Dearest**, is complete: 834 fresh rows, 1,019 full rows and 1,130
@@ -225,3 +225,23 @@ literary allusions have explicit provenance notes. Exact review fingerprint:
 `26e8b21007de48c055dbbd5f7e9d45fc0581431c0dc812115e110331b74d123b`.
 Completion audit through 45 has no problems. No later dialogue is inserted into
 an ISO, and no GitHub release was created.
+
+Stage 46, **Starlight Serenade**, is complete: 677 fresh rows, 841 full rows
+and 934 original uses in nine packets from six actual Sol 6.1 Medium translators.
+Coordinator reviewed every fresh row, all 60 fresh flags and all 21 non-template
+reused rows at every occurrence. The 143 defeat-template rows retain 205
+registrations and no ordinary uses. Initial row 60 required measured shortening;
+canonical-name expansion in row 523 caused a separate measured overflow,
+resolved with a translator-reviewed minimal change. All final rows fit. Full
+initial drafts remain unchanged.
+
+Review preserves concealed pilot identity, compulsory hostage rescue and its
+cover story, firing-squad threats, explicit enemy scope and AND/OR objectives,
+82% confidence, Dorchenov’s false accusation and later confession, deliberate
+microphone broadcast, reduction to 15%, the Mrs/Miss gag and the future
+brother-in-law joke. United Lunar Empire Giganos follows Akurasu; prior full-name
+occurrences in stages 6 and 30 were corrected and re-reviewed with passing
+font and completion checks. SP, PD and SFF remain unexpanded. Exact review
+fingerprint: `ea50ed27f558bf1c5c8388115d2d94cda0692f709391b622a00104cbb2783173`.
+Completion audit through 46 has no problems. Stage 47 is underway. Full-game
+local insertion and playtesting remain pending; no release is authorized.
