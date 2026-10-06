@@ -1,0 +1,92 @@
+{
+  "version": "0.1.17",
+  "source_build": "0.1.16",
+  "labels": [
+    {
+      "asset": "IM_IC00S",
+      "english": "AT",
+      "pixel_offset": "0x15e9c0",
+      "pixel_bytes": 1024,
+      "source_sha256": "ea70aa625df8ffadeff4001db42e8cb96514ecc91b01e506a5f78e16cac03f47",
+      "target_sha256": "3c55123100918e1b12841c8f1715dba23a5627af6c79fb6f35cab59d0b70c57a",
+      "native_original_sha256": "aca94dbb6d683752f9755b34bd6da573707152a6b28ed48e5962f894a8d31f03",
+      "texture_size": [
+        32,
+        32
+      ],
+      "visible_box": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "inner_box": [
+        2,
+        2,
+        22,
+        22
+      ],
+      "ink_box": [
+        3,
+        7,
+        21,
+        17
+      ],
+      "cap_height": 10,
+      "horizontal_rescaling": false,
+      "frame_and_padding_restored": true
+    },
+    {
+      "asset": "IM_IC01S",
+      "english": "CT",
+      "pixel_offset": "0x15f240",
+      "pixel_bytes": 1024,
+      "source_sha256": "d4c1e1f9a8d1678f1d51a7168aac7aab690d8f4ed64d65ec21c9aacc670ab151",
+      "target_sha256": "8f6011972ceef58946f7008463c6793d42921fb42ee18dfa67b146aafce0ce45",
+      "native_original_sha256": "cfc2cbdee8140b47f8cd9a8ad888a898f2147efad26686875375696b8b9a325a",
+      "texture_size": [
+        32,
+        32
+      ],
+      "visible_box": [
+        0,
+        0,
+        24,
+        24
+      ],
+      "inner_box": [
+        2,
+        2,
+        22,
+        22
+      ],
+      "ink_box": [
+        3,
+        7,
+        20,
+        17
+      ],
+      "cap_height": 10,
+      "horizontal_rescaling": false,
+      "frame_and_padding_restored": true
+    }
+  ],
+  "source_wnd_sha256": "8e7ab031069f454257e94ee910388c1aa39df14b3944423efc33d1b2ce64ce0c",
+  "target_wnd_sha256": "c249c1f52750be4fb5e8f52876062ce01c27129a682a497528497a6513d93f34",
+  "changed_pixel_ranges": [
+    [
+      1436096,
+      1437120
+    ],
+    [
+      1438272,
+      1439296
+    ]
+  ],
+  "executable_and_other_resources_unchanged": true,
+  "headers_palettes_and_uvs_unchanged": true,
+  "native_pixel_edits": true,
+  "texture_replacement": false,
+  "github_release": false,
+  "visual_validation": "native asset previews checked; in-game confirmation pending"
+}

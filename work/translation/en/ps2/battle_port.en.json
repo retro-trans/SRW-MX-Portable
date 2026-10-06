@@ -1,0 +1,14 @@
+{
+  "original_bytes": 2768896,
+  "english_bytes": 3362816,
+  "native_read_limit": 18432,
+  "pilot_blocks": 370,
+  "translated_entries": 51434,
+  "overflow_strings": 44,
+  "overflow_bytes": 5383,
+  "message": "battle quotes: 370 blocks, 0x335000 bytes (was 0x2a4000); strings kept in Japanese: 0; in the PRX overflow table: 44 (5383 bytes)",
+  "original_quote_sha256": "b387b298f689411a4affcfd7e2a768ae95240c76a1dfd0de3b5017bcd7b377fb",
+  "english_quote_sha256": "b4cb59a76688f1082ca99c23c2dbf1344e4aac4d8c3fab5e4bb2bcb2b425b751",
+  "static_sha256": "ea1f014e5f9b7cdc99baa896a63ea829383e9648b03ab749db684f702a0c545b",
+  "numeric_gameplay_data_unchanged": true
+}

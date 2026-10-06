@@ -18,6 +18,7 @@ def main():
     parser.add_argument('source', type=Path)
     parser.add_argument('target', type=Path)
     parser.add_argument('version')
+    parser.add_argument('--platform', choices=('PSP', 'PS2'), default='PSP')
     parser.add_argument('--retro-trans-root', type=Path)
     parser.add_argument('--output', type=Path)
     parser.add_argument('--upgrade-source', nargs=2, action='append', default=[],
@@ -54,28 +55,32 @@ def main():
             raise PatchError('Could not encode patch: ' + result.stderr[:4096].decode('utf8', errors='replace'))
     release.encode = encode_full_source
     commit = args.source_commit or subprocess.check_output(['git', '-c', 'safe.directory=' + str(ROOT), 'rev-parse', 'HEAD'], cwd=str(ROOT), text=True).strip()
-    local = ROOT / 'work/build' / ('release_' + args.version + ('_upgrades' if args.upgrade_source else ''))
+    local = ROOT / 'work/build' / ('release_' + args.platform.lower() + '_' + args.version + ('_upgrades' if args.upgrade_source else ''))
     local.mkdir(parents=True, exist_ok=True)
+    is_ps2 = args.platform == 'PS2'
+    prefix = 'SRWMX-PS2-English' if is_ps2 else 'SRWMX-English'
+    edition = 'SLPS-25345' if is_ps2 else 'ULJS-00041'
     config = {
-        'game_id': 'srw-mx-portable', 'game_name': 'Super Robot Taisen MX Portable',
-        'platform': 'PSP', 'version': args.version, 'source_commit': commit,
+        'game_id': 'srw-mx' if is_ps2 else 'srw-mx-portable',
+        'game_name': 'Super Robot Taisen MX' if is_ps2 else 'Super Robot Taisen MX Portable',
+        'platform': args.platform, 'version': args.version, 'source_commit': commit,
         'patches': [{
-            'patch': 'SRWMX-English-v%s.xdelta' % args.version,
-            'edition': 'ULJS-00041', 'language': 'en', 'source_version': 'original',
+            'patch': '%s-v%s.xdelta' % (prefix, args.version),
+            'edition': edition, 'language': 'en', 'source_version': 'original',
             'source_format': 'iso', 'target_format': 'iso',
             'source': str(args.source.resolve()), 'target': str(args.target.resolve())
         }]
     }
     for version, path in args.upgrade_source:
         config['patches'].append({
-            'patch': 'SRWMX-English-v%s-to-v%s.xdelta' % (version, args.version),
-            'edition': 'ULJS-00041', 'language': 'en', 'source_version': version,
+            'patch': '%s-v%s-to-v%s.xdelta' % (prefix, version, args.version),
+            'edition': edition, 'language': 'en', 'source_version': version,
             'source_format': 'iso', 'target_format': 'iso',
             'source': str(Path(path).resolve()), 'target': str(args.target.resolve())
         })
     config_path = local / 'config.json'
     config_path.write_text(json.dumps(config, indent=2) + '\n', encoding='utf8')
-    output = args.output or ROOT / 'work/output' / ('release-v' + args.version)
+    output = args.output or ROOT / 'work/output' / ('release-' + args.platform.lower() + '-v' + args.version)
     previous = [None]
     def progress(message, fraction=None):
         if message != previous[0]:

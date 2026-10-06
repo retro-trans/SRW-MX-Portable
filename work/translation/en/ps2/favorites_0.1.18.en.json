@@ -1,0 +1,272 @@
+{
+  "version": "0.1.18",
+  "feature": "Three favorite series in both balance modes",
+  "state_va": "0x7d2fc0",
+  "saved_mask_offset": "0x5e8",
+  "scenario_buffer_offset": "0x1008",
+  "save_format_changed": false,
+  "old_saves_preserve_existing_favorites": true,
+  "new_game_plus": "Native favorite union is preserved; three distinct choices per setup.",
+  "strings": {
+    "intro": {
+      "va": "0x7d2fe0",
+      "english": "Choose 3 favorite series."
+    },
+    "bonus_exp": {
+      "va": "0x7d3013",
+      "english": "Their characters gain 1.5x EXP in battle,"
+    },
+    "bonus_upgrades": {
+      "va": "0x7d3066",
+      "english": "and their units get +2 to every upgrade limit."
+    },
+    "confirm": {
+      "va": "0x7d30c3",
+      "english": "Use these 3 favorites?"
+    },
+    "controls": {
+      "va": "0x7d30f0",
+      "english": "Confirm: pick/remove    Cancel: undo last pick"
+    },
+    "empty": {
+      "va": "0x7d314d",
+      "english": "--"
+    },
+    "count0": {
+      "va": "0x7d3152",
+      "english": "Favorite Series: 0 / 3"
+    },
+    "count1": {
+      "va": "0x7d317f",
+      "english": "Favorite Series: 1 / 3"
+    },
+    "count2": {
+      "va": "0x7d31ac",
+      "english": "Favorite Series: 2 / 3"
+    },
+    "count3": {
+      "va": "0x7d31d9",
+      "english": "Favorite Series: 3 / 3"
+    },
+    "slot0": {
+      "va": "0x7d3206",
+      "english": "1."
+    },
+    "slot1": {
+      "va": "0x7d320b",
+      "english": "2."
+    },
+    "slot2": {
+      "va": "0x7d3210",
+      "english": "3."
+    }
+  },
+  "routines": {
+    "reset": {
+      "va": "0x7d3220",
+      "bytes": 56,
+      "assembly": "\n        addiu $sp,$sp,-16\n        sd $ra,0($sp)\n        jal 0x1660d0\n        nop\n        li $v0,8204224\n        sw $zero,0($v0)\n        sw $zero,4($v0)\n        sw $zero,8($v0)\n        sw $zero,12($v0)\n        sw $zero,16($v0)\n        ld $ra,0($sp)\n        jr $ra\n        addiu $sp,$sp,16\n    "
+    },
+    "choose": {
+      "va": "0x7d3260",
+      "bytes": 260,
+      "assembly": "\n        addiu $sp,$sp,-32\n        sd $ra,0($sp)\n        jal 0x1661e0\n        move $a0,$s0\n        li $t8,8204224\n        addiu $t9,$zero,1\n        sllv $t9,$t9,$v0\n        lw $v1,0($t8)\n        lw $a1,4($t8)\n        and $a2,$v1,$t9\n        bnez $a2,remove\n        lw $a0,0x3ac($s0)\n        sltiu $a2,$a1,3\n        beqz $a2,stay\n        nop\n        sll $a2,$a1,2\n        addu $a2,$a2,$t8\n        sw $a0,8($a2)\n        addiu $a1,$a1,1\n        or $v1,$v1,$t9\n        sw $a1,4($t8)\n        sw $v1,0($t8)\n        addiu $a2,$zero,3\n        bne $a1,$a2,stay\n        nop\n        ld $ra,0($sp)\n        addiu $sp,$sp,32\n        lw $s1,0x134($s0)\n        bnez $s1,complete\n        nop\n        j 0x165ba0\n        nop\n    complete:\n        j 0x165b84\n        nop\n    remove:\n        nor $t9,$t9,$zero\n        and $v1,$v1,$t9\n        sw $v1,0($t8)\n        move $a2,$zero\n    find:\n        sll $a3,$a2,2\n        addu $a3,$a3,$t8\n        lw $v0,8($a3)\n        beq $v0,$a0,compact\n        nop\n        addiu $a2,$a2,1\n        sltu $v0,$a2,$a1\n        bnez $v0,find\n        nop\n        b stay\n        nop\n    compact:\n        addiu $a1,$a1,-1\n        sw $a1,4($t8)\n    shift:\n        sltu $v0,$a2,$a1\n        beqz $v0,clear\n        nop\n        lw $v0,12($a3)\n        sw $v0,8($a3)\n        addiu $a2,$a2,1\n        b shift\n        addiu $a3,$a3,4\n    clear:\n        sw $zero,8($a3)\n    stay:\n        ld $ra,0($sp)\n        addiu $sp,$sp,32\n        j 0x165ba0\n        nop\n    "
+    },
+    "undo": {
+      "va": "0x7d3370",
+      "bytes": 164,
+      "assembly": "\n        li $t8,8204224\n        lw $v0,4($t8)\n        beqz $v0,exit_menu\n        nop\n        addiu $sp,$sp,-32\n        sd $ra,0($sp)\n        addiu $v0,$v0,-1\n        sw $v0,4($t8)\n        sll $v1,$v0,2\n        addu $v1,$v1,$t8\n        lw $v0,8($v1)\n        sw $zero,8($v1)\n        lw $a1,0x3ac($s0)\n        sw $a1,8($sp)\n        sw $v0,0x3ac($s0)\n        jal 0x1661e0\n        move $a0,$s0\n        lw $a1,8($sp)\n        sw $a1,0x3ac($s0)\n        li $t8,8204224\n        addiu $v1,$zero,1\n        sllv $v1,$v1,$v0\n        nor $v1,$v1,$zero\n        lw $v0,0($t8)\n        and $v0,$v0,$v1\n        sw $v0,0($t8)\n        ld $ra,0($sp)\n        addiu $sp,$sp,32\n        lui $a0,0x3d\n        j 0x165be0\n        nop\n    exit_menu:\n        lw $a2,0x138($s0)\n        lui $a0,0x3d\n        bnez $a2,exit_event\n        nop\n        j 0x165be0\n        nop\n    exit_event:\n        j 0x165bcc\n        nop\n    "
+    },
+    "commit": {
+      "va": "0x7d3420",
+      "bytes": 48,
+      "assembly": "\n        li $v0,8204224\n        lw $v1,4($v0)\n        addiu $a2,$zero,3\n        bne $v1,$a2,done\n        nop\n        lw $v0,0($v0)\n        lw $v1,0x5e8($a0)\n        or $v0,$v0,$v1\n        sw $v0,0x5e8($a0)\n    done:\n        jr $ra\n        nop\n    "
+    },
+    "fit_row": {
+      "va": "0x7d3450",
+      "bytes": 156,
+      "assembly": "\n        addiu $sp,$sp,-64\n        sd $ra,56($sp)\n        sd $a0,0($sp)\n        sd $a1,8($sp)\n        sw $a2,16($sp)\n        sw $a3,20($sp)\n        lw $t8,0($a0)\n        sw $t8,24($sp)\n        lw $t8,4($a0)\n        sw $t8,28($sp)\n        jal 0x131ba0\n        nop\n        lui $at,0x4406\n        mtc1 $at,$f1\n        c.ole.s $f0,$f1\n        bc1t draw\n        nop\n        div.s $f2,$f1,$f0\n        ld $a0,0($sp)\n        lwc1 $f3,24($sp)\n        mul.s $f3,$f3,$f2\n        swc1 $f3,0($a0)\n        lwc1 $f3,28($sp)\n        mul.s $f3,$f3,$f2\n        swc1 $f3,4($a0)\n    draw:\n        ld $a0,0($sp)\n        ld $a1,8($sp)\n        lw $a2,16($sp)\n        lw $a3,20($sp)\n        jal 0x130610\n        addiu $8,$zero,-1\n        ld $t8,0($sp)\n        lw $t9,24($sp)\n        sw $t9,0($t8)\n        lw $t9,28($sp)\n        sw $t9,4($t8)\n        ld $ra,56($sp)\n        jr $ra\n        addiu $sp,$sp,64\n    "
+    },
+    "render": {
+      "va": "0x7d34f0",
+      "bytes": 648,
+      "assembly": "\n        addiu $sp,$sp,-64\n        sd $ra,56($sp)\n        sd $s0,0($sp)\n        sd $s1,8($sp)\n        sd $s3,16($sp)\n        lw $t8,0x190($s2)\n        sw $t8,24($sp)\n        lw $t8,0x194($s2)\n        sw $t8,28($sp)\n        move $a0,$s2\n        lw $a1,0x9c($s2)\n        lw $a2,0xa0($s2)\n        addiu $a1,$a1,16\n        addiu $a2,$a2,12\n        addiu $a3,$zero,608\n        jal 0x1438a0\n        addiu $8,$zero,124\n        li $t8,8204224\n        lw $v0,4($t8)\n        li $a1,8204626\n    addiu $v1,$zero,1\nbne $v0,$v1,count_next1\nnop\nli $a1,8204671\ncount_next1:\naddiu $v1,$zero,2\nbne $v0,$v1,count_next2\nnop\nli $a1,8204716\ncount_next2:\naddiu $v1,$zero,3\nbne $v0,$v1,count_next3\nnop\nli $a1,8204761\ncount_next3:\n\n        lui $t8,0x41a0\n        sw $t8,0x190($s2)\n        sw $t8,0x194($s2)\n        addiu $a0,$s2,0x190\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,28\n        addiu $a3,$a3,20\n        jal 8205392\n        nop\n        lui $t8,0x4180\n        sw $t8,0x190($s2)\n        sw $t8,0x194($s2)\n    \n        addiu $a0,$s2,0x190\n        li $a1,8204806\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,28\n        addiu $a3,$a3,48\n        jal 8205392\n        nop\n        li $t8,8204224\n        lw $v0,4($t8)\n        sltiu $v0,$v0,1\n        bnez $v0,empty0\n        li $a1,8204621\n        lw $v0,8($t8)\n        sll $v0,$v0,2\n        li $a1,0x470d38\n        addu $a1,$a1,$v0\n        lw $a1,0($a1)\n    empty0:\n        addiu $a0,$s2,0x190\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,58\n        addiu $a3,$a3,48\n        jal 8205392\n        nop\n    \n        addiu $a0,$s2,0x190\n        li $a1,8204811\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,28\n        addiu $a3,$a3,68\n        jal 8205392\n        nop\n        li $t8,8204224\n        lw $v0,4($t8)\n        sltiu $v0,$v0,2\n        bnez $v0,empty1\n        li $a1,8204621\n        lw $v0,12($t8)\n        sll $v0,$v0,2\n        li $a1,0x470d38\n        addu $a1,$a1,$v0\n        lw $a1,0($a1)\n    empty1:\n        addiu $a0,$s2,0x190\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,58\n        addiu $a3,$a3,68\n        jal 8205392\n        nop\n    \n        addiu $a0,$s2,0x190\n        li $a1,8204816\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,28\n        addiu $a3,$a3,88\n        jal 8205392\n        nop\n        li $t8,8204224\n        lw $v0,4($t8)\n        sltiu $v0,$v0,3\n        bnez $v0,empty2\n        li $a1,8204621\n        lw $v0,16($t8)\n        sll $v0,$v0,2\n        li $a1,0x470d38\n        addu $a1,$a1,$v0\n        lw $a1,0($a1)\n    empty2:\n        addiu $a0,$s2,0x190\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,58\n        addiu $a3,$a3,88\n        jal 8205392\n        nop\n    \n        lui $t8,0x4160\n        sw $t8,0x190($s2)\n        sw $t8,0x194($s2)\n        addiu $a0,$s2,0x190\n        li $a1,8204528\n        lw $a2,0x9c($s2)\n        lw $a3,0xa0($s2)\n        addiu $a2,$a2,28\n        addiu $a3,$a3,112\n        jal 8205392\n        nop\n        lw $t8,24($sp)\n        sw $t8,0x190($s2)\n        lw $t8,28($sp)\n        sw $t8,0x194($s2)\n        ld $s0,0($sp)\n        ld $s1,8($sp)\n        ld $s3,16($sp)\n        ld $ra,56($sp)\n        addiu $sp,$sp,64\n        ld $s0,0x60($sp)\n        ld $s1,0x68($sp)\n        j 0x1660b8\n        nop\n    "
+    }
+  },
+  "hooks": [
+    {
+      "name": "favorites_reset",
+      "va": "0x2bde64",
+      "old": "3498050c",
+      "new": "884c1f0c",
+      "target": "0x7d3220"
+    },
+    {
+      "name": "favorites_choose",
+      "va": "0x165b78",
+      "old": "3401118e09002052",
+      "new": "984c1f0800000000",
+      "target": "0x7d3260"
+    },
+    {
+      "name": "favorites_undo",
+      "va": "0x165bc0",
+      "old": "3801068e0600c010",
+      "new": "dc4c1f0800000000",
+      "target": "0x7d3370"
+    },
+    {
+      "name": "favorites_commit",
+      "va": "0x2be484",
+      "old": "9cdc0c0c",
+      "new": "084d1f0c",
+      "target": "0x7d3420"
+    },
+    {
+      "name": "favorites_render",
+      "va": "0x1660b0",
+      "old": "6000b0df6800b1df",
+      "new": "3c4d1f0800000000",
+      "target": "0x7d34f0"
+    }
+  ],
+  "instruction_words": [
+    {
+      "va": "0x2bde64",
+      "old": "3498050c",
+      "new": "884c1f0c",
+      "name": "favorites_reset"
+    },
+    {
+      "va": "0x165b78",
+      "old": "3401118e",
+      "new": "984c1f08",
+      "name": "favorites_choose"
+    },
+    {
+      "va": "0x165b7c",
+      "old": "09002052",
+      "new": "00000000",
+      "name": "favorites_choose_delay"
+    },
+    {
+      "va": "0x165bc0",
+      "old": "3801068e",
+      "new": "dc4c1f08",
+      "name": "favorites_undo"
+    },
+    {
+      "va": "0x165bc4",
+      "old": "0600c010",
+      "new": "00000000",
+      "name": "favorites_undo_delay"
+    },
+    {
+      "va": "0x2be484",
+      "old": "9cdc0c0c",
+      "new": "084d1f0c",
+      "name": "favorites_commit"
+    },
+    {
+      "va": "0x1660b0",
+      "old": "6000b0df",
+      "new": "3c4d1f08",
+      "name": "favorites_render"
+    },
+    {
+      "va": "0x1660b4",
+      "old": "6800b1df",
+      "new": "00000000",
+      "name": "favorites_render_delay"
+    },
+    {
+      "va": "0x2bdec8",
+      "old": "7800053c",
+      "new": "7d00053c",
+      "name": "favorites_intro"
+    },
+    {
+      "va": "0x2bdecc",
+      "old": "b7b4a524",
+      "new": "e02fa524",
+      "name": "favorites_intro"
+    },
+    {
+      "va": "0x2bdedc",
+      "old": "7800053c",
+      "new": "7d00053c",
+      "name": "favorites_bonus_exp"
+    },
+    {
+      "va": "0x2bdee0",
+      "old": "fab4a524",
+      "new": "1330a524",
+      "name": "favorites_bonus_exp"
+    },
+    {
+      "va": "0x2bdef0",
+      "old": "7800053c",
+      "new": "7d00053c",
+      "name": "favorites_bonus_upgrades"
+    },
+    {
+      "va": "0x2bdef8",
+      "old": "49b5a524",
+      "new": "6630a524",
+      "name": "favorites_bonus_upgrades"
+    },
+    {
+      "va": "0x2be164",
+      "old": "7800053c",
+      "new": "7d00053c",
+      "name": "favorites_confirm"
+    },
+    {
+      "va": "0x2be170",
+      "old": "a2b5a524",
+      "new": "c330a524",
+      "name": "favorites_confirm"
+    },
+    {
+      "va": "0x166040",
+      "old": "1c004014",
+      "new": "1b004014",
+      "name": "favorites_render_while_scrolling"
+    }
+  ],
+  "controls": "Confirm toggles a series. Third pick opens confirmation. No returns to editing. Cancel undoes last pick; at zero picks it cancels setup.",
+  "layout": {
+    "panel": [
+      16,
+      12,
+      624,
+      136
+    ],
+    "title": [
+      28,
+      20
+    ],
+    "rows": [
+      [
+        58,
+        48
+      ],
+      [
+        58,
+        68
+      ],
+      [
+        58,
+        88
+      ]
+    ],
+    "controls": [
+      28,
+      112
+    ],
+    "row_width": 536
+  },
+  "native_bonuses": "Original EXP and upgrade-limit checks read all chosen bits without replacement.",
+  "visual_validation": "pending",
+  "github_release": false
+}

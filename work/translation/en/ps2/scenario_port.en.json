@@ -1,0 +1,2355 @@
+{
+  "chapters": 14,
+  "scenario_records": 66,
+  "scenario_title_fields": 132,
+  "summaries": 66,
+  "numeric_route_records_unchanged": true,
+  "source_sha256": "b68084ed903e8dffa87655df99a3a1907aefc50c2b5b3019e259cdcb7668eb6d",
+  "target_sha256": "352c77e2debd98a576a93f34a3e96daca95f27c08a0c1fd9ba5ccbd306222bcc",
+  "original_bytes": 28270,
+  "english_bytes": 38478,
+  "texts": [
+    {
+      "kind": "chapter",
+      "offset": 416,
+      "field_bytes": 64,
+      "source_sha256": "ff4909ad7405f95028a33cede0c1086177368e36223e292fb691a30c2aac3971",
+      "english": "Prologue"
+    },
+    {
+      "kind": "chapter",
+      "offset": 504,
+      "field_bytes": 64,
+      "source_sha256": "ff4909ad7405f95028a33cede0c1086177368e36223e292fb691a30c2aac3971",
+      "english": "Prologue"
+    },
+    {
+      "kind": "chapter",
+      "offset": 592,
+      "field_bytes": 64,
+      "source_sha256": "525c41ed163deb4fffbe7a1b2c4c21fa161fc855b4d8cc322ae6f57460e44707",
+      "english": "Warning From the Past"
+    },
+    {
+      "kind": "chapter",
+      "offset": 680,
+      "field_bytes": 64,
+      "source_sha256": "1f2673157cff953991e2eeb267a5712a4b51bf57468e34dca16c7a337ea0f3ac",
+      "english": "Encounter of Giants"
+    },
+    {
+      "kind": "chapter",
+      "offset": 768,
+      "field_bytes": 64,
+      "source_sha256": "980ef009f704b484f29b7792365abfd72c827143194313b00eb42924c1ff7235",
+      "english": "Messenger from Mars"
+    },
+    {
+      "kind": "chapter",
+      "offset": 856,
+      "field_bytes": 64,
+      "source_sha256": "40ca8b3d01195a92d5361b0bd2d23cd60d228905ddb7b50e8df90439430824bf",
+      "english": "Turbulent Continent"
+    },
+    {
+      "kind": "chapter",
+      "offset": 944,
+      "field_bytes": 64,
+      "source_sha256": "654d726707dfc97174cc5e542308d52328ec27a40152e03cb8a3554be3f9424e",
+      "english": "Dark Clouds"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1032,
+      "field_bytes": 64,
+      "source_sha256": "48e845c3d18131aac7681e035cbb04c91900e84f7dde0bbfe176a4b9ebbf7ec3",
+      "english": "Hades Project"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1120,
+      "field_bytes": 64,
+      "source_sha256": "61c72f10eb9bba57e6f2b72670e83e769942f4141b3f11fb0354644a182d7385",
+      "english": "Operation Moonraker"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1208,
+      "field_bytes": 64,
+      "source_sha256": "4b3ce1ec8e4c16b7e5787e3e5685039b1bbaef91127a5a86ec51181834fad556",
+      "english": "Struggle Without End"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1296,
+      "field_bytes": 64,
+      "source_sha256": "2e2b0114c08510c96bbb1cadd65a6a8880e89640a708555a6a78069bd1a94f16",
+      "english": "End of Days"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1384,
+      "field_bytes": 64,
+      "source_sha256": "b10262bd24282a5b2b1f08f277821d6c8ef8d6c712bcc28f9311f4bdd42412bc",
+      "english": "Aliens Strike Back"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1472,
+      "field_bytes": 64,
+      "source_sha256": "eb92b644c28951a6995e70008ecb89fdd8de2603e8e030eb18bc8c2993f6e1e5",
+      "english": "Operation Bagration"
+    },
+    {
+      "kind": "chapter",
+      "offset": 1560,
+      "field_bytes": 64,
+      "source_sha256": "df03d1ccda79003a84b18dd17f0ff48d8258043205d20c795e9e76cfaa5ff526",
+      "english": "Towards the Promised Land"
+    },
+    {
+      "kind": "location",
+      "offset": 1652,
+      "field_bytes": 64,
+      "source_sha256": "a988950514c236adb1fa5c8c50c871fdc8fb725b8a17fb3023afda6cb1455c25",
+      "english": "Near-Earth Space"
+    },
+    {
+      "kind": "location",
+      "offset": 1732,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 1788,
+      "field_bytes": 64,
+      "source_sha256": "bca485c4ad016e4b252e9c1353fb0985b3d11c676c0ec95aaf771f9b0e3435d2",
+      "english": "Open Sea"
+    },
+    {
+      "kind": "location",
+      "offset": 1868,
+      "field_bytes": 12,
+      "source_sha256": "b3ef57028f624bd036ab3c24057a6d840ceb200c95d38def153dc8f14c992bd7",
+      "english": "Sea"
+    },
+    {
+      "kind": "location",
+      "offset": 1924,
+      "field_bytes": 64,
+      "source_sha256": "eeed0165145f8b7c98c05110f71538b628259860ed0d2a52ede83e7378cb803e",
+      "english": "Institute of Space Science"
+    },
+    {
+      "kind": "location",
+      "offset": 2004,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2060,
+      "field_bytes": 64,
+      "source_sha256": "1fd2b51ad44e9faa207d5e17359487c926ee45fb31304946a70983b041066d15",
+      "english": "Saotome Institute"
+    },
+    {
+      "kind": "location",
+      "offset": 2140,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2196,
+      "field_bytes": 64,
+      "source_sha256": "1e29b61600d3644accaccee6ddfadade76d3a38001023c819e85d5844485ca19",
+      "english": "Waters off TOKYO JUPITER"
+    },
+    {
+      "kind": "location",
+      "offset": 2276,
+      "field_bytes": 12,
+      "source_sha256": "b3ef57028f624bd036ab3c24057a6d840ceb200c95d38def153dc8f14c992bd7",
+      "english": "Sea"
+    },
+    {
+      "kind": "location",
+      "offset": 2332,
+      "field_bytes": 64,
+      "source_sha256": "4b6de24748bac0521c2116e036a7a0b158e00a20175dbe36627ff9d9ebb0b84e",
+      "english": "Hoshimi Town"
+    },
+    {
+      "kind": "location",
+      "offset": 2412,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2468,
+      "field_bytes": 64,
+      "source_sha256": "be8daadad637cb4b1ce8b76ba499ed6ad3d8670c2dd01035793b0b863ffff6be",
+      "english": "Kanto Ruins"
+    },
+    {
+      "kind": "location",
+      "offset": 2548,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2604,
+      "field_bytes": 64,
+      "source_sha256": "eeed0165145f8b7c98c05110f71538b628259860ed0d2a52ede83e7378cb803e",
+      "english": "Institute of Space Science"
+    },
+    {
+      "kind": "location",
+      "offset": 2684,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2740,
+      "field_bytes": 64,
+      "source_sha256": "dbcf6b327a26909dd77859d137bffdd33e1d6e7a5a66d3101164a1283b00ff82",
+      "english": "Fuji Sea of Trees"
+    },
+    {
+      "kind": "location",
+      "offset": 2820,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 2876,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 2956,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3012,
+      "field_bytes": 64,
+      "source_sha256": "d6e29ed4518d7fb54a24cd6c565b6ae1c791149c827763f3e11de29c2e3fe52c",
+      "english": "Mutropolis"
+    },
+    {
+      "kind": "location",
+      "offset": 3092,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3148,
+      "field_bytes": 64,
+      "source_sha256": "30c6fdd163c81e2e08d42a2ec9c4be497c1a7e11c5137e859724267a3c59b238",
+      "english": "Robot Museum"
+    },
+    {
+      "kind": "location",
+      "offset": 3228,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3284,
+      "field_bytes": 64,
+      "source_sha256": "fc490267f45a2891adbd1aeeb39f02f43c3a1d4b5bf293274b2c4ace16c32505",
+      "english": "Kyoto"
+    },
+    {
+      "kind": "location",
+      "offset": 3364,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3420,
+      "field_bytes": 64,
+      "source_sha256": "1fd2b51ad44e9faa207d5e17359487c926ee45fb31304946a70983b041066d15",
+      "english": "Saotome Institute"
+    },
+    {
+      "kind": "location",
+      "offset": 3500,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3556,
+      "field_bytes": 64,
+      "source_sha256": "dc74acd3a7d1493e205f4480ae43c3dee173a19d49a73d5ac1a8b2647dfdacc7",
+      "english": "Nirai Kanai"
+    },
+    {
+      "kind": "location",
+      "offset": 3636,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3692,
+      "field_bytes": 64,
+      "source_sha256": "4b6de24748bac0521c2116e036a7a0b158e00a20175dbe36627ff9d9ebb0b84e",
+      "english": "Hoshimi Town"
+    },
+    {
+      "kind": "location",
+      "offset": 3772,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3828,
+      "field_bytes": 64,
+      "source_sha256": "9f4039abca8c01314fbd392960cf46b8acf72fd014b64587317213ba05b1125c",
+      "english": "Spiral Castle"
+    },
+    {
+      "kind": "location",
+      "offset": 3908,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 3964,
+      "field_bytes": 64,
+      "source_sha256": "242f4232afddc9c23952bed21774833d0ff3df0c26f5688d61529577f10bf397",
+      "english": "La Vie en Rose"
+    },
+    {
+      "kind": "location",
+      "offset": 4044,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 4100,
+      "field_bytes": 64,
+      "source_sha256": "87fe0f7fe99923b054e8aa8ebe288501021f5ef1bc0dabb5fe06c34d5425aae3",
+      "english": "Amaterasu Station"
+    },
+    {
+      "kind": "location",
+      "offset": 4180,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 4236,
+      "field_bytes": 64,
+      "source_sha256": "a988950514c236adb1fa5c8c50c871fdc8fb725b8a17fb3023afda6cb1455c25",
+      "english": "Near-Earth Space"
+    },
+    {
+      "kind": "location",
+      "offset": 4316,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 4372,
+      "field_bytes": 64,
+      "source_sha256": "eeed0165145f8b7c98c05110f71538b628259860ed0d2a52ede83e7378cb803e",
+      "english": "Institute of Space Science"
+    },
+    {
+      "kind": "location",
+      "offset": 4452,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 4508,
+      "field_bytes": 64,
+      "source_sha256": "803c0c304ed12d9780108d886d571441e7458335605a09f84094faa7554c5728",
+      "english": "Shaolin Temple"
+    },
+    {
+      "kind": "location",
+      "offset": 4588,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 4644,
+      "field_bytes": 64,
+      "source_sha256": "5722c8dfc40b73379e40e920523aa06810f9629754df86e856f11683652c173b",
+      "english": "Shanghai"
+    },
+    {
+      "kind": "location",
+      "offset": 4724,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 4780,
+      "field_bytes": 64,
+      "source_sha256": "8042bf339e1ca14a0b7077f35e9fc5939745fae0858535de601c3543a30d2398",
+      "english": "Chongqing"
+    },
+    {
+      "kind": "location",
+      "offset": 4860,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 4916,
+      "field_bytes": 64,
+      "source_sha256": "caa27289e4dc70c6fd061cbf34cd5ba3f02f0879b46289389cf0c965dff3ad6a",
+      "english": "Science Fortress Laboratory"
+    },
+    {
+      "kind": "location",
+      "offset": 4996,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5052,
+      "field_bytes": 64,
+      "source_sha256": "ec8b1092c821aca427573783be22403463498369f4cf93374b24deb13303e30f",
+      "english": "Photon Power Laboratory"
+    },
+    {
+      "kind": "location",
+      "offset": 5132,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5188,
+      "field_bytes": 64,
+      "source_sha256": "dbcf6b327a26909dd77859d137bffdd33e1d6e7a5a66d3101164a1283b00ff82",
+      "english": "Fuji Sea of Trees"
+    },
+    {
+      "kind": "location",
+      "offset": 5268,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5324,
+      "field_bytes": 64,
+      "source_sha256": "381712f0bdc7c67ce4bca18e82faf3c7807d50d9acf861d01ebf0a3ac5715b0f",
+      "english": "Sea of Japan Coast"
+    },
+    {
+      "kind": "location",
+      "offset": 5404,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5460,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 5540,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5596,
+      "field_bytes": 64,
+      "source_sha256": "73636d06b519291ff131cf3d47fd818cb787fe4a50a1aa05dbb2c540241bace7",
+      "english": "Waters off Japan"
+    },
+    {
+      "kind": "location",
+      "offset": 5676,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5732,
+      "field_bytes": 64,
+      "source_sha256": "90850d30742d0cd268a120261fd6e8e8e2b2ed65e7b0ef2a4c777dcd5123e7d1",
+      "english": "Desert"
+    },
+    {
+      "kind": "location",
+      "offset": 5812,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 5868,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 5948,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 6004,
+      "field_bytes": 64,
+      "source_sha256": "73636d06b519291ff131cf3d47fd818cb787fe4a50a1aa05dbb2c540241bace7",
+      "english": "Waters off Japan"
+    },
+    {
+      "kind": "location",
+      "offset": 6084,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 6140,
+      "field_bytes": 64,
+      "source_sha256": "dbcf6b327a26909dd77859d137bffdd33e1d6e7a5a66d3101164a1283b00ff82",
+      "english": "Fuji Sea of Trees"
+    },
+    {
+      "kind": "location",
+      "offset": 6220,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 6276,
+      "field_bytes": 64,
+      "source_sha256": "99dbd96d255bb062fe77aa4a809cd0a9cfe494b54bd0a9c45a011c00b2944247",
+      "english": "Tekkoryu Fortress"
+    },
+    {
+      "kind": "location",
+      "offset": 6356,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 6412,
+      "field_bytes": 64,
+      "source_sha256": "a988950514c236adb1fa5c8c50c871fdc8fb725b8a17fb3023afda6cb1455c25",
+      "english": "Near-Earth Space"
+    },
+    {
+      "kind": "location",
+      "offset": 6492,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 6548,
+      "field_bytes": 64,
+      "source_sha256": "9f4039abca8c01314fbd392960cf46b8acf72fd014b64587317213ba05b1125c",
+      "english": "Spiral Castle"
+    },
+    {
+      "kind": "location",
+      "offset": 6628,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 6684,
+      "field_bytes": 64,
+      "source_sha256": "3f5888676af43613109bfe4643bc6a9947f7697becce4337d57f63fc3dc3d98e",
+      "english": "Giganos HQ"
+    },
+    {
+      "kind": "location",
+      "offset": 6764,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 6820,
+      "field_bytes": 64,
+      "source_sha256": "9531534428d3ed009fd201c46809415fc1d585a70188c87c97ce6d864c3fe88c",
+      "english": "Aldebaran"
+    },
+    {
+      "kind": "location",
+      "offset": 6900,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 6956,
+      "field_bytes": 64,
+      "source_sha256": "3a310596a0bbcc0be1264493d926dcd98cdea3883881d14b4fa48cadf66b5f60",
+      "english": "Nansei Islands"
+    },
+    {
+      "kind": "location",
+      "offset": 7036,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7092,
+      "field_bytes": 64,
+      "source_sha256": "1fd2b51ad44e9faa207d5e17359487c926ee45fb31304946a70983b041066d15",
+      "english": "Saotome Institute"
+    },
+    {
+      "kind": "location",
+      "offset": 7172,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7228,
+      "field_bytes": 64,
+      "source_sha256": "dbcf6b327a26909dd77859d137bffdd33e1d6e7a5a66d3101164a1283b00ff82",
+      "english": "Fuji Sea of Trees"
+    },
+    {
+      "kind": "location",
+      "offset": 7308,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7364,
+      "field_bytes": 64,
+      "source_sha256": "d6e29ed4518d7fb54a24cd6c565b6ae1c791149c827763f3e11de29c2e3fe52c",
+      "english": "Mutropolis"
+    },
+    {
+      "kind": "location",
+      "offset": 7444,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7500,
+      "field_bytes": 64,
+      "source_sha256": "dc74acd3a7d1493e205f4480ae43c3dee173a19d49a73d5ac1a8b2647dfdacc7",
+      "english": "Nirai Kanai"
+    },
+    {
+      "kind": "location",
+      "offset": 7580,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7636,
+      "field_bytes": 64,
+      "source_sha256": "3a310596a0bbcc0be1264493d926dcd98cdea3883881d14b4fa48cadf66b5f60",
+      "english": "Nansei Islands"
+    },
+    {
+      "kind": "location",
+      "offset": 7716,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 7772,
+      "field_bytes": 64,
+      "source_sha256": "1e29b61600d3644accaccee6ddfadade76d3a38001023c819e85d5844485ca19",
+      "english": "Waters off TOKYO JUPITER"
+    },
+    {
+      "kind": "location",
+      "offset": 7852,
+      "field_bytes": 12,
+      "source_sha256": "b3ef57028f624bd036ab3c24057a6d840ceb200c95d38def153dc8f14c992bd7",
+      "english": "Sea"
+    },
+    {
+      "kind": "location",
+      "offset": 7908,
+      "field_bytes": 64,
+      "source_sha256": "b5c36c2398a61bdc71ac1102955b42919618bf654726e8d1dfacd6dc00fa4d9e",
+      "english": "Near Tokyo"
+    },
+    {
+      "kind": "location",
+      "offset": 7988,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 8044,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 8124,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 8180,
+      "field_bytes": 64,
+      "source_sha256": "a988950514c236adb1fa5c8c50c871fdc8fb725b8a17fb3023afda6cb1455c25",
+      "english": "Near-Earth Space"
+    },
+    {
+      "kind": "location",
+      "offset": 8260,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 8316,
+      "field_bytes": 64,
+      "source_sha256": "9f4039abca8c01314fbd392960cf46b8acf72fd014b64587317213ba05b1125c",
+      "english": "Spiral Castle"
+    },
+    {
+      "kind": "location",
+      "offset": 8396,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 8452,
+      "field_bytes": 64,
+      "source_sha256": "1e29b61600d3644accaccee6ddfadade76d3a38001023c819e85d5844485ca19",
+      "english": "Waters off TOKYO JUPITER"
+    },
+    {
+      "kind": "location",
+      "offset": 8532,
+      "field_bytes": 12,
+      "source_sha256": "b3ef57028f624bd036ab3c24057a6d840ceb200c95d38def153dc8f14c992bd7",
+      "english": "Sea"
+    },
+    {
+      "kind": "location",
+      "offset": 8588,
+      "field_bytes": 64,
+      "source_sha256": "dc74acd3a7d1493e205f4480ae43c3dee173a19d49a73d5ac1a8b2647dfdacc7",
+      "english": "Nirai Kanai"
+    },
+    {
+      "kind": "location",
+      "offset": 8668,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 8724,
+      "field_bytes": 64,
+      "source_sha256": "1fd2b51ad44e9faa207d5e17359487c926ee45fb31304946a70983b041066d15",
+      "english": "Saotome Institute"
+    },
+    {
+      "kind": "location",
+      "offset": 8804,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 8860,
+      "field_bytes": 64,
+      "source_sha256": "4b6de24748bac0521c2116e036a7a0b158e00a20175dbe36627ff9d9ebb0b84e",
+      "english": "Hoshimi Town"
+    },
+    {
+      "kind": "location",
+      "offset": 8940,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 8996,
+      "field_bytes": 64,
+      "source_sha256": "eed3d6f0affd48ca4e54d889f83e76e191d0f419735d23167bb48eccb325f657",
+      "english": "Heavenly Demon Castle"
+    },
+    {
+      "kind": "location",
+      "offset": 9076,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 9132,
+      "field_bytes": 64,
+      "source_sha256": "a988950514c236adb1fa5c8c50c871fdc8fb725b8a17fb3023afda6cb1455c25",
+      "english": "Near-Earth Space"
+    },
+    {
+      "kind": "location",
+      "offset": 9212,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 9268,
+      "field_bytes": 64,
+      "source_sha256": "87e5b89f2d3127539bba98c586f05d8ef28afdb4d5ccfea211991b43007412e4",
+      "english": "Lunar Space"
+    },
+    {
+      "kind": "location",
+      "offset": 9348,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 9404,
+      "field_bytes": 64,
+      "source_sha256": "1cf0b34ba2f7771cb12fde6c504dfc41e2372bbf3a0a2e44b4de5541b960107c",
+      "english": "Mars"
+    },
+    {
+      "kind": "location",
+      "offset": 9484,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 9540,
+      "field_bytes": 64,
+      "source_sha256": "8fca3fb1b28a06445ccd8135f9d4a6245960022b40c0318384f738fc4a9c3e4e",
+      "english": "Skull Moon Base"
+    },
+    {
+      "kind": "location",
+      "offset": 9620,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 9676,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 9756,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 9812,
+      "field_bytes": 64,
+      "source_sha256": "15397610da10e1f14547ccb6ce0ffba7f5aad830cf38dfc18cbbbba54b64e319",
+      "english": "Giganos HQ Ruins"
+    },
+    {
+      "kind": "location",
+      "offset": 9892,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 9948,
+      "field_bytes": 64,
+      "source_sha256": "82706223bb84896cfba674fefbf59e9916faeda67f223184dccf3311d34ab03c",
+      "english": "Gulfer Home Planet Space"
+    },
+    {
+      "kind": "location",
+      "offset": 10028,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 10084,
+      "field_bytes": 64,
+      "source_sha256": "fc1aaa209563b3ff71c844f61e9b9603004efb925d8e51c004c6f2624f60f851",
+      "english": "Gulfer Home Planet"
+    },
+    {
+      "kind": "location",
+      "offset": 10164,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 10220,
+      "field_bytes": 64,
+      "source_sha256": "b0c835a20a1ee72ac59f239d0bd018102cf6f2a8fb80c9018b7085db2ac4e9b2",
+      "english": "Tokyo-3"
+    },
+    {
+      "kind": "location",
+      "offset": 10300,
+      "field_bytes": 12,
+      "source_sha256": "4c54ba9c6a65677ac3263a85b639bb917f319c7fe6ffab3c4c825a2e4520dc36",
+      "english": "Land"
+    },
+    {
+      "kind": "location",
+      "offset": 10356,
+      "field_bytes": 64,
+      "source_sha256": "af105fea1ed80fd8ed37b4054cba2bce484012db44fa61dd5443779be56242e7",
+      "english": "Outer Space"
+    },
+    {
+      "kind": "location",
+      "offset": 10436,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "location",
+      "offset": 10492,
+      "field_bytes": 64,
+      "source_sha256": "c8266fed981d24fef3a8aaf3f5a65b7abd1ec0569d7087c63bd54740899d76cf",
+      "english": "Boundary Space"
+    },
+    {
+      "kind": "location",
+      "offset": 10572,
+      "field_bytes": 12,
+      "source_sha256": "f28862d850b58be82e856aa64ca055be942e3c2d2df173e56494341c1303826c",
+      "english": "Space"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10640,
+      "field_bytes": 56,
+      "source_sha256": "d99ccf171bd9421760d9ef426b4ba3973cd0b3419d15824608ed5a3b651caa66",
+      "english": "Pursuer"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10696,
+      "field_bytes": 56,
+      "source_sha256": "d99ccf171bd9421760d9ef426b4ba3973cd0b3419d15824608ed5a3b651caa66",
+      "english": "Pursuer"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10768,
+      "field_bytes": 56,
+      "source_sha256": "c6f09ed95d023faaf68851e8f16b717a334a9a42ca35b061db30170cab4622b4",
+      "english": "D and E"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10824,
+      "field_bytes": 56,
+      "source_sha256": "c6f09ed95d023faaf68851e8f16b717a334a9a42ca35b061db30170cab4622b4",
+      "english": "D and E"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10896,
+      "field_bytes": 56,
+      "source_sha256": "f51380523ca7df82181370e055e9c00e39eef7258be751b8165abd554dfaf145",
+      "english": "Visitors from the Beyond"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 10952,
+      "field_bytes": 56,
+      "source_sha256": "f51380523ca7df82181370e055e9c00e39eef7258be751b8165abd554dfaf145",
+      "english": "Visitors from the Beyond"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11024,
+      "field_bytes": 56,
+      "source_sha256": "caf201764a551af446cc78fa16f1c2757646c7414b3ef9867de0e201b77d823c",
+      "english": "Indestructible Getter Robo"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11080,
+      "field_bytes": 56,
+      "source_sha256": "caf201764a551af446cc78fa16f1c2757646c7414b3ef9867de0e201b77d823c",
+      "english": "Indestructible Getter Robo"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11152,
+      "field_bytes": 56,
+      "source_sha256": "3bad56be9ab3f8085be437bb612592e9796b1267d25ec8ea5b0ac8b081377a00",
+      "english": "The Deity Awakens"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11208,
+      "field_bytes": 56,
+      "source_sha256": "3bad56be9ab3f8085be437bb612592e9796b1267d25ec8ea5b0ac8b081377a00",
+      "english": "The Deity Awakens"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11280,
+      "field_bytes": 56,
+      "source_sha256": "1a18c96ba6d09eb3c8994d88b48f776edbd1cb57d1e1c14acbbe5c161bd6b569",
+      "english": "Blue Miracle"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11336,
+      "field_bytes": 56,
+      "source_sha256": "1a18c96ba6d09eb3c8994d88b48f776edbd1cb57d1e1c14acbbe5c161bd6b569",
+      "english": "Blue Miracle"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11408,
+      "field_bytes": 56,
+      "source_sha256": "10292bf4ada58bb1207e738309a42e9c0f1a91c2fb4f6aacbd5945aa26c77123",
+      "english": "The Nightmare Gundam Fight"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11464,
+      "field_bytes": 56,
+      "source_sha256": "10292bf4ada58bb1207e738309a42e9c0f1a91c2fb4f6aacbd5945aa26c77123",
+      "english": "The Nightmare Gundam Fight"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11536,
+      "field_bytes": 56,
+      "source_sha256": "513a49fb0bc6f9ae8c7506515da5f6aebba3894d27b7a8f2e2740a2a1687b2c8",
+      "english": "Sad Eyes Beneath the Mask"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11592,
+      "field_bytes": 56,
+      "source_sha256": "513a49fb0bc6f9ae8c7506515da5f6aebba3894d27b7a8f2e2740a2a1687b2c8",
+      "english": "Sad Eyes Beneath the Mask"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11664,
+      "field_bytes": 56,
+      "source_sha256": "5dbbd7a399f1bf8af07e0fcb8c505cb2ac373107a9c45cb3ee3747f02af30ac7",
+      "english": "King of Hades: \"Heaven\""
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11720,
+      "field_bytes": 56,
+      "source_sha256": "5dbbd7a399f1bf8af07e0fcb8c505cb2ac373107a9c45cb3ee3747f02af30ac7",
+      "english": "King of Hades: \"Heaven\""
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11792,
+      "field_bytes": 56,
+      "source_sha256": "c1bb1c84d4dbf64cd1f38241118fdd057059dc35f0c5122c9ad2cd83dcaf293d",
+      "english": "CONFLICT"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11848,
+      "field_bytes": 56,
+      "source_sha256": "c1bb1c84d4dbf64cd1f38241118fdd057059dc35f0c5122c9ad2cd83dcaf293d",
+      "english": "CONFLICT"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11920,
+      "field_bytes": 56,
+      "source_sha256": "965c5c9b2707f42e1cd9dc72f671b2a07fa5a730ee76d0ba7a9a71f55773b0ad",
+      "english": "The Star of La Mu, Targeted"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 11976,
+      "field_bytes": 56,
+      "source_sha256": "965c5c9b2707f42e1cd9dc72f671b2a07fa5a730ee76d0ba7a9a71f55773b0ad",
+      "english": "The Star of La Mu, Targeted"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12048,
+      "field_bytes": 56,
+      "source_sha256": "b372c2488b5bebe329bb3dd9dd3ee60105ad90d99cccb46be9b7e70cb69e8a48",
+      "english": "The Manipulated Demon God"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12104,
+      "field_bytes": 56,
+      "source_sha256": "b372c2488b5bebe329bb3dd9dd3ee60105ad90d99cccb46be9b7e70cb69e8a48",
+      "english": "The Manipulated Demon God"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12176,
+      "field_bytes": 56,
+      "source_sha256": "c3feaa95803b80849bdd69661dd9b95ee5fb8b722f13eff3ca562c017c709a8f",
+      "english": "do justice to"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12232,
+      "field_bytes": 56,
+      "source_sha256": "c3feaa95803b80849bdd69661dd9b95ee5fb8b722f13eff3ca562c017c709a8f",
+      "english": "do justice to"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12304,
+      "field_bytes": 56,
+      "source_sha256": "793ee7a160f98f45007a8ba0d9608da08485762184ffb422f53ba3d644c4e0fe",
+      "english": "Burning Water, Frozen Fire"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12360,
+      "field_bytes": 56,
+      "source_sha256": "793ee7a160f98f45007a8ba0d9608da08485762184ffb422f53ba3d644c4e0fe",
+      "english": "Burning Water, Frozen Fire"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12432,
+      "field_bytes": 56,
+      "source_sha256": "81aaf03f8f2ceb6f85352b26a4e09d0d19403e454914cc19285dab3f3d9c89af",
+      "english": "Meeting the Machine God"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12488,
+      "field_bytes": 56,
+      "source_sha256": "81aaf03f8f2ceb6f85352b26a4e09d0d19403e454914cc19285dab3f3d9c89af",
+      "english": "Meeting the Machine God"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12560,
+      "field_bytes": 56,
+      "source_sha256": "40b9348c803478d38dfe59b9f9f9d2ac200ff08c444300fcbc8b7da54d9238c1",
+      "english": "COUNT DOWN to Disaster"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12616,
+      "field_bytes": 56,
+      "source_sha256": "40b9348c803478d38dfe59b9f9f9d2ac200ff08c444300fcbc8b7da54d9238c1",
+      "english": "COUNT DOWN to Disaster"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12688,
+      "field_bytes": 56,
+      "source_sha256": "d388e775f326ed1df47ac540e36a6ee07e856d2cdfcf2a557a96dc2b01ae1480",
+      "english": "Spiral Shakes, Memory Stirs"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12744,
+      "field_bytes": 56,
+      "source_sha256": "d388e775f326ed1df47ac540e36a6ee07e856d2cdfcf2a557a96dc2b01ae1480",
+      "english": "Spiral Shakes, Memory Stirs"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12816,
+      "field_bytes": 56,
+      "source_sha256": "777017532a6678911503361b3571de7203888b4d0038745db0d208168f3844b7",
+      "english": "Blue meets White"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12872,
+      "field_bytes": 56,
+      "source_sha256": "777017532a6678911503361b3571de7203888b4d0038745db0d208168f3844b7",
+      "english": "Blue meets White"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 12944,
+      "field_bytes": 56,
+      "source_sha256": "fbdf1c6bb88477ec69ed43678e4723f5e3c257a9c31d6186849781602db9d3dc",
+      "english": "Your Memories"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13000,
+      "field_bytes": 56,
+      "source_sha256": "fbdf1c6bb88477ec69ed43678e4723f5e3c257a9c31d6186849781602db9d3dc",
+      "english": "Your Memories"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13072,
+      "field_bytes": 56,
+      "source_sha256": "a030a6088a733b79852fadf012bf26ea0479e733311eded451e5ade4e469b14a",
+      "english": "Fugitive from Mars"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13128,
+      "field_bytes": 56,
+      "source_sha256": "a030a6088a733b79852fadf012bf26ea0479e733311eded451e5ade4e469b14a",
+      "english": "Fugitive from Mars"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13200,
+      "field_bytes": 56,
+      "source_sha256": "bb2189ab0158d56088acd814466f6654828472afc992ee9aeb1b29e75928adf1",
+      "english": "Bond upon Twin Wings"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13256,
+      "field_bytes": 56,
+      "source_sha256": "bb2189ab0158d56088acd814466f6654828472afc992ee9aeb1b29e75928adf1",
+      "english": "Bond upon Twin Wings"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13328,
+      "field_bytes": 56,
+      "source_sha256": "5d5d0caad360b735aeeeb4a63192b0924a6294f0ac9911f838bd494a59a04781",
+      "english": "Bright you now"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13384,
+      "field_bytes": 56,
+      "source_sha256": "5d5d0caad360b735aeeeb4a63192b0924a6294f0ac9911f838bd494a59a04781",
+      "english": "Bright you now"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13456,
+      "field_bytes": 56,
+      "source_sha256": "62c1933ff8dae62f44a1988c55937312e9193cea15bb284462e7270a33ed93d0",
+      "english": "The Space Monster Gilgilgan"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13512,
+      "field_bytes": 56,
+      "source_sha256": "62c1933ff8dae62f44a1988c55937312e9193cea15bb284462e7270a33ed93d0",
+      "english": "The Space Monster Gilgilgan"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13584,
+      "field_bytes": 56,
+      "source_sha256": "9539a9ef6910adc969c126f9174adbe5d6362f796d127c74e9d26dbc5ede7500",
+      "english": "Burning heart, Flying high"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13640,
+      "field_bytes": 56,
+      "source_sha256": "9539a9ef6910adc969c126f9174adbe5d6362f796d127c74e9d26dbc5ede7500",
+      "english": "Burning heart, Flying high"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13712,
+      "field_bytes": 56,
+      "source_sha256": "23e03f16757b7516ee39c5358228647911a73736d0e7918e7627dc701e8cc096",
+      "english": "Great Wings, Heaven's Light"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13768,
+      "field_bytes": 56,
+      "source_sha256": "23e03f16757b7516ee39c5358228647911a73736d0e7918e7627dc701e8cc096",
+      "english": "Great Wings, Heaven's Light"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13840,
+      "field_bytes": 56,
+      "source_sha256": "4ce9eb9ab7213f14df7e61e4c43ed585c11df799d0922c8fc51ac4c8898fe908",
+      "english": "Strange bait"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13896,
+      "field_bytes": 56,
+      "source_sha256": "4ce9eb9ab7213f14df7e61e4c43ed585c11df799d0922c8fc51ac4c8898fe908",
+      "english": "Strange bait"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 13968,
+      "field_bytes": 56,
+      "source_sha256": "d2c022ecd1d6a5a24c10a3ec5c64a78c6fc668e456f6b5b5510beaa0740f9b89",
+      "english": "The Man with Two Faces"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14024,
+      "field_bytes": 56,
+      "source_sha256": "d2c022ecd1d6a5a24c10a3ec5c64a78c6fc668e456f6b5b5510beaa0740f9b89",
+      "english": "The Man with Two Faces"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14096,
+      "field_bytes": 56,
+      "source_sha256": "cadcab32441a2b8a50149dd714afb97c4bd5a09464daec4f581bd851ce1837ab",
+      "english": "Time Lag of 90 Seconds"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14152,
+      "field_bytes": 56,
+      "source_sha256": "cadcab32441a2b8a50149dd714afb97c4bd5a09464daec4f581bd851ce1837ab",
+      "english": "Time Lag of 90 Seconds"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14224,
+      "field_bytes": 56,
+      "source_sha256": "fab8a5c9e330092fb7b854a2af4fc93eaf55c4b2dbc3812a8a8e0ed9ec5b25f1",
+      "english": "Infinite Corridor"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14280,
+      "field_bytes": 56,
+      "source_sha256": "fab8a5c9e330092fb7b854a2af4fc93eaf55c4b2dbc3812a8a8e0ed9ec5b25f1",
+      "english": "Infinite Corridor"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14352,
+      "field_bytes": 56,
+      "source_sha256": "357291f3d8a12d3d2b6ae82ced03aac6f4747a115d5e833eb3d21475cd628f9d",
+      "english": "The Gates of Hell"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14408,
+      "field_bytes": 56,
+      "source_sha256": "357291f3d8a12d3d2b6ae82ced03aac6f4747a115d5e833eb3d21475cd628f9d",
+      "english": "The Gates of Hell"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14480,
+      "field_bytes": 56,
+      "source_sha256": "0aa36dc68bbe094ba9d5bb23ee8249ef776ded152b54008b876d7dc5156478b7",
+      "english": "Ones Guided By the Light"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14536,
+      "field_bytes": 56,
+      "source_sha256": "0aa36dc68bbe094ba9d5bb23ee8249ef776ded152b54008b876d7dc5156478b7",
+      "english": "Ones Guided By the Light"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14608,
+      "field_bytes": 56,
+      "source_sha256": "679a4044ae6551218d9c680569575394def6ad6b48eea1b65c81d79c6b87d624",
+      "english": "A Rigged Trigger"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14664,
+      "field_bytes": 56,
+      "source_sha256": "679a4044ae6551218d9c680569575394def6ad6b48eea1b65c81d79c6b87d624",
+      "english": "A Rigged Trigger"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14736,
+      "field_bytes": 56,
+      "source_sha256": "e749daadd2502dc48001468e68f72d064db33953e5b75da7f7a2a287c57fd4a4",
+      "english": "Viper Squad's Onslaught"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14792,
+      "field_bytes": 56,
+      "source_sha256": "e749daadd2502dc48001468e68f72d064db33953e5b75da7f7a2a287c57fd4a4",
+      "english": "Viper Squad's Onslaught"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14864,
+      "field_bytes": 56,
+      "source_sha256": "1dc6ee6cc5534d2c8347b310db43d9483f35d69370cd99eddcb0499bafee616f",
+      "english": "Tragedy Beneath the Moon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14920,
+      "field_bytes": 56,
+      "source_sha256": "1dc6ee6cc5534d2c8347b310db43d9483f35d69370cd99eddcb0499bafee616f",
+      "english": "Tragedy Beneath the Moon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 14992,
+      "field_bytes": 56,
+      "source_sha256": "ead40b3a873f0564d4948ae71a9fe38003c76bd590f0312614876dab40df2aab",
+      "english": "Hades Sorties at Dawn"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15048,
+      "field_bytes": 56,
+      "source_sha256": "ead40b3a873f0564d4948ae71a9fe38003c76bd590f0312614876dab40df2aab",
+      "english": "Hades Sorties at Dawn"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15120,
+      "field_bytes": 56,
+      "source_sha256": "0a18803e3a77d0261d7f331e44bedc5b1068c1df8881836d5598cf9f2b150d20",
+      "english": "Break through the Falcon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15176,
+      "field_bytes": 56,
+      "source_sha256": "0a18803e3a77d0261d7f331e44bedc5b1068c1df8881836d5598cf9f2b150d20",
+      "english": "Break through the Falcon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15248,
+      "field_bytes": 56,
+      "source_sha256": "c7ebf7cc02cf8624693d9413bca34a048b9d6cffdd71f9a5df03a43bb58c3cb1",
+      "english": "Shining Blade Is With Us"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15304,
+      "field_bytes": 56,
+      "source_sha256": "c7ebf7cc02cf8624693d9413bca34a048b9d6cffdd71f9a5df03a43bb58c3cb1",
+      "english": "Shining Blade Is With Us"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15376,
+      "field_bytes": 56,
+      "source_sha256": "c1d55e6066c96f87606fc211738fcbd8791544610dd54a26d118a3bb5b6c18ed",
+      "english": "MOONRAKER"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15432,
+      "field_bytes": 56,
+      "source_sha256": "c1d55e6066c96f87606fc211738fcbd8791544610dd54a26d118a3bb5b6c18ed",
+      "english": "MOONRAKER"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15504,
+      "field_bytes": 56,
+      "source_sha256": "3c9c7532c81f1df9175b57c78fe653f32b0a8044682df66f68c94a08ea08a347",
+      "english": "Over the Rainbow"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15560,
+      "field_bytes": 56,
+      "source_sha256": "3c9c7532c81f1df9175b57c78fe653f32b0a8044682df66f68c94a08ea08a347",
+      "english": "Over the Rainbow"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15632,
+      "field_bytes": 56,
+      "source_sha256": "1cd0dd278e8757437e0048e21c93d55260c1d5106fada053481fbf625b241a27",
+      "english": "Severed LOOP"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15688,
+      "field_bytes": 56,
+      "source_sha256": "1cd0dd278e8757437e0048e21c93d55260c1d5106fada053481fbf625b241a27",
+      "english": "Severed LOOP"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15760,
+      "field_bytes": 56,
+      "source_sha256": "89371df04480503ba46d1b2cea6f9e63bf550bf0cdbd61a7e534d62c3c7e0dd5",
+      "english": "Shine of the Red Dragon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15816,
+      "field_bytes": 56,
+      "source_sha256": "89371df04480503ba46d1b2cea6f9e63bf550bf0cdbd61a7e534d62c3c7e0dd5",
+      "english": "Shine of the Red Dragon"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15888,
+      "field_bytes": 56,
+      "source_sha256": "3fe80e579b07c903a7df565c1511ae7ad919677b20be751709904438064a2c98",
+      "english": "The Ravaging Knight"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 15944,
+      "field_bytes": 56,
+      "source_sha256": "3fe80e579b07c903a7df565c1511ae7ad919677b20be751709904438064a2c98",
+      "english": "The Ravaging Knight"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16016,
+      "field_bytes": 56,
+      "source_sha256": "005acb1cf1305bb1c6059609cbd0f8b51d7537c3fd0d22fd2a737a94076aebcb",
+      "english": "Invitation to the Abyss"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16072,
+      "field_bytes": 56,
+      "source_sha256": "005acb1cf1305bb1c6059609cbd0f8b51d7537c3fd0d22fd2a737a94076aebcb",
+      "english": "Invitation to the Abyss"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16144,
+      "field_bytes": 56,
+      "source_sha256": "34d6b6b68104e783b2434869a5c4bae376a8f3884255a2e2bf8827bce7951461",
+      "english": "Showdown! Great Sea Beast"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16200,
+      "field_bytes": 56,
+      "source_sha256": "34d6b6b68104e783b2434869a5c4bae376a8f3884255a2e2bf8827bce7951461",
+      "english": "Showdown! Great Sea Beast"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16272,
+      "field_bytes": 56,
+      "source_sha256": "eede6b36a862ca257fa4ced555a67b84f1bc2088c09b7d3058ecb0c8803892ef",
+      "english": "Knight of the Flame and Sky"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16328,
+      "field_bytes": 56,
+      "source_sha256": "eede6b36a862ca257fa4ced555a67b84f1bc2088c09b7d3058ecb0c8803892ef",
+      "english": "Knight of the Flame and Sky"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16400,
+      "field_bytes": 56,
+      "source_sha256": "69d6db4a31e6aa7c034b9808e42452e50cf94ff828fc15d72c220ace5cf92f5b",
+      "english": "Hemisphere"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16456,
+      "field_bytes": 56,
+      "source_sha256": "69d6db4a31e6aa7c034b9808e42452e50cf94ff828fc15d72c220ace5cf92f5b",
+      "english": "Hemisphere"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16528,
+      "field_bytes": 56,
+      "source_sha256": "918af703370f7de0fef363fe62753f6c3d8bf2a1ddfe43ff567e61f4b9743548",
+      "english": "The Whereabouts of Life"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16584,
+      "field_bytes": 56,
+      "source_sha256": "918af703370f7de0fef363fe62753f6c3d8bf2a1ddfe43ff567e61f4b9743548",
+      "english": "The Whereabouts of Life"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16656,
+      "field_bytes": 56,
+      "source_sha256": "64cea78366e83bfaf31fe5b89232274082c8592e69f09e963bb417a0886d4c19",
+      "english": "A Man's Battle"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16712,
+      "field_bytes": 56,
+      "source_sha256": "64cea78366e83bfaf31fe5b89232274082c8592e69f09e963bb417a0886d4c19",
+      "english": "A Man's Battle"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16784,
+      "field_bytes": 56,
+      "source_sha256": "beb07b829c70ab7183300401c184fabb4fa5d016bbcca32a7ee079c26226fa8a",
+      "english": "For the Peace Once Sworn"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16840,
+      "field_bytes": 56,
+      "source_sha256": "beb07b829c70ab7183300401c184fabb4fa5d016bbcca32a7ee079c26226fa8a",
+      "english": "For the Peace Once Sworn"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16912,
+      "field_bytes": 56,
+      "source_sha256": "85cd627ee8ba64d28c615d1e48f80f920c1d30ba8548671f74fbcd727b2136a6",
+      "english": "Spiral Stairs to the End"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 16968,
+      "field_bytes": 56,
+      "source_sha256": "85cd627ee8ba64d28c615d1e48f80f920c1d30ba8548671f74fbcd727b2136a6",
+      "english": "Spiral Stairs to the End"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17040,
+      "field_bytes": 56,
+      "source_sha256": "3805a814301d8b9462edac26ba55d5e0c74567fa0db9cfe13a83e078761de583",
+      "english": "Bye-bye Jupiter"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17096,
+      "field_bytes": 56,
+      "source_sha256": "3805a814301d8b9462edac26ba55d5e0c74567fa0db9cfe13a83e078761de583",
+      "english": "Bye-bye Jupiter"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17168,
+      "field_bytes": 56,
+      "source_sha256": "e29d37b8d48a7bf5783470782379617c596d758c34d9aebe89c746d83a728813",
+      "english": "From Here to Eternity"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17224,
+      "field_bytes": 56,
+      "source_sha256": "e29d37b8d48a7bf5783470782379617c596d758c34d9aebe89c746d83a728813",
+      "english": "From Here to Eternity"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17296,
+      "field_bytes": 56,
+      "source_sha256": "7241004518fc5f5cd3b5adad3fdb6ea7abbcfcdbdc76e376afaf185b5f4f7d9f",
+      "english": "God, Weep for the Hyakki"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17352,
+      "field_bytes": 56,
+      "source_sha256": "7241004518fc5f5cd3b5adad3fdb6ea7abbcfcdbdc76e376afaf185b5f4f7d9f",
+      "english": "God, Weep for the Hyakki"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17424,
+      "field_bytes": 56,
+      "source_sha256": "39e9b6083041ed90ad2f23178906ae68268a8199e5ffb07c5671454831e37921",
+      "english": "Zero or Infinity?"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17480,
+      "field_bytes": 56,
+      "source_sha256": "39e9b6083041ed90ad2f23178906ae68268a8199e5ffb07c5671454831e37921",
+      "english": "Zero or Infinity?"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17552,
+      "field_bytes": 56,
+      "source_sha256": "3be55e5c285ac803811227304dbb0b2de3e55d18ed397cf4cf10edb295820905",
+      "english": "Revenge of Chronos"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17608,
+      "field_bytes": 56,
+      "source_sha256": "3be55e5c285ac803811227304dbb0b2de3e55d18ed397cf4cf10edb295820905",
+      "english": "Revenge of Chronos"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17680,
+      "field_bytes": 56,
+      "source_sha256": "870ef277c782bfc550265bb90b7577c646072b859c817831735721f64fec55ee",
+      "english": "Dearest"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17736,
+      "field_bytes": 56,
+      "source_sha256": "870ef277c782bfc550265bb90b7577c646072b859c817831735721f64fec55ee",
+      "english": "Dearest"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17808,
+      "field_bytes": 56,
+      "source_sha256": "fbfdd316022058d68dca93088f17d4de7eeedbb5bd83e1b9b1c5086797a81d27",
+      "english": "Starlight serenade"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17864,
+      "field_bytes": 56,
+      "source_sha256": "fbfdd316022058d68dca93088f17d4de7eeedbb5bd83e1b9b1c5086797a81d27",
+      "english": "Starlight serenade"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17936,
+      "field_bytes": 56,
+      "source_sha256": "d6e26eb57ba1cc3e8c828801a51fea27294b4186d87d279006d6d96069348381",
+      "english": "Farewell to your Memories"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 17992,
+      "field_bytes": 56,
+      "source_sha256": "d6e26eb57ba1cc3e8c828801a51fea27294b4186d87d279006d6d96069348381",
+      "english": "Farewell to your Memories"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18064,
+      "field_bytes": 56,
+      "source_sha256": "caffc0544353a10356bec3cfb871c34c070def63253f53cb2c6aea091ead17bb",
+      "english": "A Flower and a Green Planet"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18120,
+      "field_bytes": 56,
+      "source_sha256": "caffc0544353a10356bec3cfb871c34c070def63253f53cb2c6aea091ead17bb",
+      "english": "A Flower and a Green Planet"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18192,
+      "field_bytes": 56,
+      "source_sha256": "30f687c9ba9d244005d470b98c4de114834d02a3c277d7dace6a9a847cfcfb86",
+      "english": "Death and Rebirth"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18248,
+      "field_bytes": 56,
+      "source_sha256": "30f687c9ba9d244005d470b98c4de114834d02a3c277d7dace6a9a847cfcfb86",
+      "english": "Death and Rebirth"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18320,
+      "field_bytes": 56,
+      "source_sha256": "88b9c93045441a37f1bc00cadd9d25f80532e447700af2b2c0c1c23b5fc28a41",
+      "english": "Anthem for the Victors"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18376,
+      "field_bytes": 56,
+      "source_sha256": "88b9c93045441a37f1bc00cadd9d25f80532e447700af2b2c0c1c23b5fc28a41",
+      "english": "Anthem for the Victors"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18448,
+      "field_bytes": 56,
+      "source_sha256": "3828580c3f6b2627de7c06b5293478aa3ad85a0f9cdc17ac94d52e6956b0eda7",
+      "english": "Hope Is the Final GEAR"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18504,
+      "field_bytes": 56,
+      "source_sha256": "3828580c3f6b2627de7c06b5293478aa3ad85a0f9cdc17ac94d52e6956b0eda7",
+      "english": "Hope Is the Final GEAR"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18576,
+      "field_bytes": 56,
+      "source_sha256": "c040e9233293e3eb0d7d6cd8af6821b75e2b33a16938d97133e283e638e25074",
+      "english": "W-Infinity"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18632,
+      "field_bytes": 56,
+      "source_sha256": "c040e9233293e3eb0d7d6cd8af6821b75e2b33a16938d97133e283e638e25074",
+      "english": "W-Infinity"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18704,
+      "field_bytes": 56,
+      "source_sha256": "cc3b825978f6bf552c92715bd45059f098446e322b429f15e4026010e14081a0",
+      "english": "Refrain of Soul"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18760,
+      "field_bytes": 56,
+      "source_sha256": "cc3b825978f6bf552c92715bd45059f098446e322b429f15e4026010e14081a0",
+      "english": "Refrain of Soul"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18832,
+      "field_bytes": 56,
+      "source_sha256": "ba66446f5675901713e2993fad8f4d511bf6034b35bba70ada9be608a88f31e6",
+      "english": "Across Infinite Time"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18888,
+      "field_bytes": 56,
+      "source_sha256": "ba66446f5675901713e2993fad8f4d511bf6034b35bba70ada9be608a88f31e6",
+      "english": "Across Infinite Time"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 18960,
+      "field_bytes": 56,
+      "source_sha256": "4ee86649806aa16fe79ef5c744e75b9f78bf9784b3c11853582276fa46ab1027",
+      "english": "The Promised Land"
+    },
+    {
+      "kind": "scenario_title",
+      "offset": 19016,
+      "field_bytes": 56,
+      "source_sha256": "4ee86649806aa16fe79ef5c744e75b9f78bf9784b3c11853582276fa46ab1027",
+      "english": "The Promised Land"
+    },
+    {
+      "kind": "summary",
+      "index": 0,
+      "source_sha256": "1967dc1782f35dfaa0600a4d79fab72edd9b90a8cd44a4a71abdfd93b3c1d4df",
+      "english": "On Federation orders, the Nahel Argama sets off after a Giganos platoon descending to Earth. In the middle of the battle, two unidentified robots appear..."
+    },
+    {
+      "kind": "summary",
+      "index": 1,
+      "source_sha256": "4741365fbf267546dae829e07a96598c8b238be204f76b9b4c995b7e08532202",
+      "english": "The Nahel Argama team meets the carrier Aquapolis at sea to transport EVA-02 and the D-Weapons. But the Blue Hawk of Giganos has arrived there first..."
+    },
+    {
+      "kind": "summary",
+      "index": 2,
+      "source_sha256": "c94d4670ed72fbe2e1089b2b3d0fd9327f66fb0c492cf99c1b4be8414803cf47",
+      "english": "Back from studying in America, Koji Kabuto runs into a mysterious group of saucers at the Institute of Space Science..."
+    },
+    {
+      "kind": "summary",
+      "index": 3,
+      "source_sha256": "958891e5affb6837a813e023053bfbe3383717015fe65eab4737f98855d9e7c4",
+      "english": "On their way to the Saotome Institute to join the Getter Team, Koji and the others are told some sad news..."
+    },
+    {
+      "kind": "summary",
+      "index": 4,
+      "source_sha256": "bec29002c0b7386e8369f4533edfaa31355ca56c38d4029e9d17bc8ece255717",
+      "english": "The Nahel Argama team contacts TERRA, the anti-MU research agency, to join Operation Overlord, the assault on TOKYO JUPITER. Meanwhile, inside TOKYO JUPITER..."
+    },
+    {
+      "kind": "summary",
+      "index": 5,
+      "source_sha256": "29abb469c25af2ff23f6d883fbd6eb5ef1f661c335922e17854c6fd26f358a54",
+      "english": "A mysterious group suddenly enters the atmosphere and starts wreaking havoc. In response, GEAR HQ launches Operation D."
+    },
+    {
+      "kind": "summary",
+      "index": 6,
+      "source_sha256": "fe8803e9257fa2c01b4eee707b9b12af708c62019c74e0ff7863db88224c0336",
+      "english": "A machine that looks like a mobile suit appears in the ruins around TOKYO JUPITER. Bright recognizes it and rushes the Nahel Argama there."
+    },
+    {
+      "kind": "summary",
+      "index": 7,
+      "source_sha256": "351541413e20b797f2bcd4764d2d18239607efded214dc0ccaac3a719e18c27d",
+      "english": "After a call from Dr. Umon, Daisuke heads alone to the Institute of Space Science. But he is not the only one headed there..."
+    },
+    {
+      "kind": "summary",
+      "index": 8,
+      "source_sha256": "6b1692884a11e8368875a03d56cede0b391c4aa6a868be1473924b41f0185899",
+      "english": "The secret society Tekkoryu makes its move. To take back one of the Hakke robots stolen from them 15 years ago, they attack the Last Guardian base..."
+    },
+    {
+      "kind": "summary",
+      "index": 9,
+      "source_sha256": "2616972a886694983142342b5f3bf21a4d88cacfba2122a21fd84bb0a25c92f0",
+      "english": "A massive blackout hits the Japan district. It is the start of a terrible Gulfer operation. Hokuto and Ginga sortie to meet Ogre, which has landed in Tokyo-3..."
+    },
+    {
+      "kind": "summary",
+      "index": 10,
+      "source_sha256": "fe08dace8902428653adaf1315a650dc3ddc8ee6c4c8330516e55261d5194eff",
+      "english": "Mutropolis is attacked by a mysterious group of mobile weapons. Akira sorties in Raideen to fight them, and runs into yet another enemy..."
+    },
+    {
+      "kind": "summary",
+      "index": 11,
+      "source_sha256": "4322896302c0a7620fb9efdbb990fe0d73cee911d9008384ed6d45d67f024368",
+      "english": "Preparing for the battles ahead, Koji Kabuto decides to fly his old machine again, and heads alone to the Robot Museum..."
+    },
+    {
+      "kind": "summary",
+      "index": 12,
+      "source_sha256": "8ba2d850b67d0c19520c9ed49822247b3e1c1f4705e87366b8891e981158a63e",
+      "english": "Giganos asks the Nahel Argama for a secret meeting: Kaine Wakaba, and Meio Plato, the Blue Hawk of Giganos. Sensing a plot, Kaine's group still heads for the meeting place, Kyoto."
+    },
+    {
+      "kind": "summary",
+      "index": 13,
+      "source_sha256": "891708e6a64f6eaa553866184279d8687a99df781e21cc798a3f873ff9738303",
+      "english": "The Nahel Argama team rushes to the Saotome Institute after an SOS. Waiting for them there is an army of oni..."
+    },
+    {
+      "kind": "summary",
+      "index": 14,
+      "source_sha256": "a6084f644c8ac7c2121d986ec75ab39ca9af3d1095c6929cab67dd5969b9b9de",
+      "english": "Nirai Kanai, home of TERRA HQ. Ayato Kamina, brought there, is ordered to fight in RahXephon. And when he refuses, what appears before him..."
+    },
+    {
+      "kind": "summary",
+      "index": 15,
+      "source_sha256": "168c714bcfad1079022f56827bc776cb9a30f67560e71ee95578cd3ae69b63f1",
+      "english": "Hokuto, Ginga and the others return to GEAR HQ to test the Data Weapon tracking program. There, an unexpected accident and enemies await them..."
+    },
+    {
+      "kind": "summary",
+      "index": 16,
+      "source_sha256": "436924cf28949124790d85a4cb8268ef62e173fa435b43f66256ed0d99a86c0d",
+      "english": "To rescue Dendoh, held in Spiral Castle, the Nadesico B descends to the sealed-off lunar surface. Gulfer machine beasts are, of course, waiting for them..."
+    },
+    {
+      "kind": "summary",
+      "index": 17,
+      "source_sha256": "b9e6cff64583d549b067074204a456d7934459af8e2619201ea11dd5e6dfa777",
+      "english": "The Blue Hawk of Giganos swoops down on Amuro Ray as he makes the final adjustments to the Nu Gundam inside La Vie en Rose. How will their duel end...?"
+    },
+    {
+      "kind": "summary",
+      "index": 18,
+      "source_sha256": "aa32fd50b1ba3c4008a765181d88c114493368d2c2298c21e72b4c6d23647778",
+      "english": "The Nadesico B heads to inspect Amaterasu to investigate the attacks on the Terminal Colonies. And what Ruri and the others find there..."
+    },
+    {
+      "kind": "summary",
+      "index": 19,
+      "source_sha256": "37b8ef6ee2fb0312aedf474004723182d1fc8b2ea53bfd35e1b780a9bbc01c93",
+      "english": "The Nadesico B tries to enter the atmosphere, headed for Chongqing. Meanwhile, in the space behind it, someone is being chased by Giganos forces..."
+    },
+    {
+      "kind": "summary",
+      "index": 20,
+      "source_sha256": "a848e7d42f19c80456bfa0603b1da771629be2bd719e9f06d4122e62ada26d97",
+      "english": "Daisuke and the others go to the Institute of Space Science to collect the Double Spazer. There, he meets someone he never expected to see again..."
+    },
+    {
+      "kind": "summary",
+      "index": 21,
+      "source_sha256": "8b7c3786065ab62c0a7e34ea049732420885eb569580234f3eb1ce835f9a4b4b",
+      "english": "Sai Saici waits at the Shaolin Temple for his friends to arrive. But the one who appears is..."
+    },
+    {
+      "kind": "summary",
+      "index": 22,
+      "source_sha256": "0f55c009b1e0897efa6af1319918b5dd5398728382c310b2332f0cdaf371bec2",
+      "english": "On its way to Chongqing, China, the Nahel Argama stops in Shanghai. Waiting for the crew there is..."
+    },
+    {
+      "kind": "summary",
+      "index": 23,
+      "source_sha256": "41ac155a2c27f14e67eea65d51ff28e624325c2edcee5344a76dc9c790e8f663",
+      "english": "Kaine and the others finally reach Chongqing Base. There the D-Weapon data is moved to the mass-produced Dragoons, and their mission comes to an end..."
+    },
+    {
+      "kind": "summary",
+      "index": 24,
+      "source_sha256": "167bd40481eec82b7fe159166603df6f80d473d590e24252c5a6ba6c2bee8bcc",
+      "english": "Tetsuya and Jun return to the Science Fortress Laboratory for the Great Booster's final adjustments. A mysterious robot and a glowing beast attack..."
+    },
+    {
+      "kind": "summary",
+      "index": 25,
+      "source_sha256": "a87629db956e01a2049e50c53f93cd308d5a06acc3aa655283556e53f935f8eb",
+      "english": "Koji Kabuto returns to the Photon Power Laboratory to readjust Mazinger Z. And there, the Gyandlar launch an attack..."
+    },
+    {
+      "kind": "summary",
+      "index": 26,
+      "source_sha256": "d2c7dc1bb5a042769ad0305d1e9f52f5d69485b93a37facfbc0b50fc93b28e70",
+      "english": "Masato and Miku return to the Last Guardian base. But Masato has changed into what could be called a different person. And there, a new Hakke robot appears..."
+    },
+    {
+      "kind": "summary",
+      "index": 27,
+      "source_sha256": "6e560827767280d0d843c22572c70e12b57d2260521dff498ee12a577bd2312f",
+      "english": "Kaine's group heads to the Sea of Japan coast on patrol. There, they run into a band of Giganos outlaws..."
+    },
+    {
+      "kind": "summary",
+      "index": 28,
+      "source_sha256": "cc13d44289f27d348ac61e7421e4d52ae27d121aca1a6b1ea02ccf0232958d61",
+      "english": "A Dolem appears in Tokyo-3. Shinji and Ayato go out to intercept it and come under an unexpected attack..."
+    },
+    {
+      "kind": "summary",
+      "index": 29,
+      "source_sha256": "e1f7cf543a0ebdb5a5557f8063b9746f54db0bf38b8686610dd9f9addfaa6562",
+      "english": "With the war between the Federation and Giganos at a stalemate, Tekkoryu decides to launch its final plan. At last, the gates of Hades open..."
+    },
+    {
+      "kind": "summary",
+      "index": 30,
+      "source_sha256": "2a34f996e7f34ea3ba84beb0598389aba7687cca30ce8f6ffe89aaf353a927ef",
+      "english": "Hokuto, Ginga and the others try to save the last three Data Weapons with the Meteo Cube's energy. But Knight Ogre appears before them..."
+    },
+    {
+      "kind": "summary",
+      "index": 31,
+      "source_sha256": "78f936698da6375ed8ee14b59ca639494a9dccc1fc86c0da17a37f27b8993d1b",
+      "english": "Hearing that the Hakke robots Burrstone of the Mountains and Dinodilos of the Earth have appeared in Tokyo-3, the Nahel Argama rushes there..."
+    },
+    {
+      "kind": "summary",
+      "index": 32,
+      "source_sha256": "3aee3f342ad5fe3f172e9e07a199f92fef6379c369d0cc9d10c66212e254dcff",
+      "english": "Kaine, Daisuke and the others go to intercept the Giganos forces. Waiting for them there is the Gon Jem Squad..."
+    },
+    {
+      "kind": "summary",
+      "index": 33,
+      "source_sha256": "b19a2253a120526d4b46dd5b3a33f5fde5b029952c5dbb0ade5322df166d9ee5",
+      "english": "Tekkoryu reaches for Miku Himuro to learn Zeorymer's secret. Without her, can Masato and Zeorymer overcome the coming danger...?"
+    },
+    {
+      "kind": "summary",
+      "index": 34,
+      "source_sha256": "1a716a78cb626d5da854999a057024576cda9d9a43954187b9de3baafe849c61",
+      "english": "Having lost most of its Hakke robots, Tekkoryu makes its final move. Who will become the ruler of the underworld: Masato Akitsu or Empress Yuratei...?"
+    },
+    {
+      "kind": "summary",
+      "index": 35,
+      "source_sha256": "df3eeedcbcff541f4710eddad6cd5fb7e7e4b0ca445a13830a2ea65a6539c28a",
+      "english": "The Nadesico B heads for the Moon to get Lagowe's data. But the Blue Hawk of Giganos blocks its way..."
+    },
+    {
+      "kind": "summary",
+      "index": 36,
+      "source_sha256": "18fa6726dd00bde693be475dd09ac211278d71038d4f1142321515515343d265",
+      "english": "The Nadesico B comes to Spiral Castle to save the virus-infected Unicorn Drill and Leo Circle. Can they pull off the diversion and capture, and take sample data from Lagowe...?"
+    },
+    {
+      "kind": "summary",
+      "index": 37,
+      "source_sha256": "06d4a8274a05ce533f891200d964d5a5571d8b972c26f817d182e529c977568f",
+      "english": "The Federation's Operation Moonraker drives Giganos onto the back foot. Following Marshal Guiltorre's last wishes, Meio sets out to destroy the Mass Driver..."
+    },
+    {
+      "kind": "summary",
+      "index": 38,
+      "source_sha256": "b5439f941cb68ef45cb3c9e20912f1698ad1625c63cd1f1621c21b83b38fe1ab",
+      "english": "Having lost every Data Weapon, Hokuto and Ginga are shaken by the truth about Dendoh and Vega. Can they find their fighting spirit and save Vega from Altair...?"
+    },
+    {
+      "kind": "summary",
+      "index": 39,
+      "source_sha256": "26a5384ddeffabeab80482d1051c103f3484505e57e70af66e9b793f479b1153",
+      "english": "Aldebaran falls toward the surface with Dendoh still aboard. The Nadesico B gives chase to rescue Hokuto, Ginga and Vega."
+    },
+    {
+      "kind": "summary",
+      "index": 40,
+      "source_sha256": "493ce5b1f19af5bb21a37c550f8d79c7a268ab815284db1eeddadd72632fe905",
+      "english": "The Vegan Empire and the Hyakki Empire ally against the Gulfer and the Gyandlar. Meanwhile, Ryoma and the others head to the Saotome Institute to power up Getter Robo..."
+    },
+    {
+      "kind": "summary",
+      "index": 41,
+      "source_sha256": "d2c760008c127dff94bf6ac73d9e4da728459f3dd9b92cf6e5f63dbd0ae58b8c",
+      "english": "Gon Jem challenges Kaine's group to a final showdown in the prototype Metal Armor Gilgazamune. But the Gilgazamune hides a terrible secret..."
+    },
+    {
+      "kind": "summary",
+      "index": 42,
+      "source_sha256": "3f0e3771f406d3bc213ec1b7e97838a13f38eb4ddd0429208a9f4de65a2564a6",
+      "english": "Helena Bahbem visits Mutropolis to survey the Mutron ruins. Just as Dr. Hibiki and Director Higashiyama begin to doubt her motives, another visitor appears..."
+    },
+    {
+      "kind": "summary",
+      "index": 43,
+      "source_sha256": "babf2e3e1e03af483df8898e9de4ce0b05d23f1ce37ffab895ebf8088f5c33f3",
+      "english": "A great sea monster suddenly attacks Nirai Kanai: Dragonsaurus. How will Koji, Tetsuya, Daisuke and the others face this monster, a victim of human civilization...?"
+    },
+    {
+      "kind": "summary",
+      "index": 44,
+      "source_sha256": "60a633cc1f126cd6e4c19ba91e23e201d79b3fe613b7dedfe533cc86317494b5",
+      "english": "Aldebaran, a Gulfer battleship, falls from orbit. To save Dendoh inside it, the Nahel Argama heads for the rendezvous point with the Nadesico B..."
+    },
+    {
+      "kind": "summary",
+      "index": 45,
+      "source_sha256": "28abd95bb2c94417f259221713368fb06f2312ea38effa6e304badc88dc21d26",
+      "english": "Lured by Quon, Ayato decides to return to TOKYO JUPITER to learn the truth. As RahXephon leaves Nirai Kanai, Makoto Isshiki of TERRA orders Bright's group to pursue it."
+    },
+    {
+      "kind": "summary",
+      "index": 46,
+      "source_sha256": "296aad71f3d92112270cad0ee9591189bd5e962473ae5a55931b439eff7f64a1",
+      "english": "At NERV HQ, preparations for EVA-03's activation test are underway. Who has been chosen as its pilot...? And what fate awaits Ayato and Hiroko, who escaped TOKYO JUPITER...?"
+    },
+    {
+      "kind": "summary",
+      "index": 47,
+      "source_sha256": "a2dabca27f4feb564cd5a5eb0ad13a6f7e8f380b80f18e849f118f7516347374",
+      "english": "Unable to forgive Gendo for trying to let Toji die, Shinji decides to quit EVA-01. Ayato agonizes over failing to protect those he should have. Then a Dotem and an Angel appear..."
+    },
+    {
+      "kind": "summary",
+      "index": 48,
+      "source_sha256": "4e25f3e946823d00b7d9375dd47170b6ec1c8b67014aceb2454ca8c6d8d7b51e",
+      "english": "The Nahel Argama and the Nadesico go up into space to stop Spiral Castle. But waiting for them is not the Gulfer but the Vegan Empire... and an old friend of Duke Fleed."
+    },
+    {
+      "kind": "summary",
+      "index": 49,
+      "source_sha256": "b437b8fdacb144a86590bde031387e62945ffbee0a99d6579586378a2a3bd91b",
+      "english": "Spiral Castle draws closer to Earth by the minute... Hokuto, Ginga and their friends try to break through the middle of the Gulfer machine beasts to stop it. What will become of Earth?"
+    },
+    {
+      "kind": "summary",
+      "index": 50,
+      "source_sha256": "e1728aa010b380df7e14aad3c804cc2862cb5e4fcb70a7aaddb71cee734de2f6",
+      "english": "TERRA launches Operation Downfall to erase TOKYO JUPITER's absolute barrier. Is there still hope left inside Pandora's box...?"
+    },
+    {
+      "kind": "summary",
+      "index": 51,
+      "source_sha256": "df6da9b8cbad4dc9831ea9bb839c445885f48cfc8e8cb214351ada4b19964540",
+      "english": "Kuki's Dolem, Largo, attacks Nirai Kanai. But at TERRA HQ, where no one should be, a man lies in wait..."
+    },
+    {
+      "kind": "summary",
+      "index": 52,
+      "source_sha256": "01df1733c6416bafa90ae6c21b15c669cc7214d41ab96ceb830aba1bde9dcd1e",
+      "english": "The Hyakki Empire launches its final operation and attacks the Saotome Institute with Hyakki Fortress Island. Can the Getter Team make it in time? And the showdown with Emperor Burai...?"
+    },
+    {
+      "kind": "summary",
+      "index": 53,
+      "source_sha256": "2903b6290506f091de1e18bd3372a330fa54519009759a5400e9dee5067d74f5",
+      "english": "Hokuto, Ginga and Vega return to GEAR HQ. There Zero, the Gulfer's strongest warrior, attacks along with Subaru and the Gyandlar."
+    },
+    {
+      "kind": "summary",
+      "index": 54,
+      "source_sha256": "5caf5ec8e3870b81f465e8580d41f1ffc89ffb3e72d183065d5cfa068f02d192",
+      "english": "Rise up, storm! Roar, Dendoh! Rage, Baikanfu! Now begins the final battle against those who wield darkness and devour hearts!"
+    },
+    {
+      "kind": "summary",
+      "index": 55,
+      "source_sha256": "b6ac97bbca5d71ac61d71a5e976c7c523c8a7d45f634e4324a448d577d6786e3",
+      "english": "The Nahel Argama team heads to the Moon to collect the Nadesico C. But Giganos forces appear, and Kaine learns a shocking truth..."
+    },
+    {
+      "kind": "summary",
+      "index": 56,
+      "source_sha256": "76091bb023a3c5ea042234ef3cfa5125a569fa3a4745539246ffb61c5847288e",
+      "english": "The Nahel Argama team heads for the mobile fortress to end the war with the Giganos Empire. Waiting for them is Kaine, whose mother Aoi has been taken hostage..."
+    },
+    {
+      "kind": "summary",
+      "index": 57,
+      "source_sha256": "19e4702da3deeab710bbb4152bdeca8c26cbb29866bff0a39eb0801b6bb0c207",
+      "english": "With the Nadesico C, Ruri makes a Boson Jump to Mars to subdue the Martian Successors. Can Kazuya save Erika? And how will Akito's showdown with Hokushin end...?"
+    },
+    {
+      "kind": "summary",
+      "index": 58,
+      "source_sha256": "565cd322a7236fbed3d1cfff3d4237e3bec0589621c3276067e36655a080ba22",
+      "english": "Daisuke and the others take on the Vegan Empire in the final battle."
+    },
+    {
+      "kind": "summary",
+      "index": 59,
+      "source_sha256": "8f5eb43d50167053871dd82b90fe4aa110c844390d59d25b9483918ef4f5db42",
+      "english": "Asuka struggles with her falling sync rate; Misato tries to learn the truth behind the EVA mass production plan. Before them appear a Dolem and the Fifth Child..."
+    },
+    {
+      "kind": "summary",
+      "index": 60,
+      "source_sha256": "c25dee77f8570799a089a13f706c7519abf50bcb6bed46bbe678ba3c0b0c558e",
+      "english": "After Operation Moonraker, the Giganos lunar base held by the Federation suddenly goes silent. To find out why, the Nahel Argama and the Nadesico C join up again and head for the Moon..."
+    },
+    {
+      "kind": "summary",
+      "index": 61,
+      "source_sha256": "aea08695868ebb1c6416fb8ac0f71657d60cb64595f9cbf81352b0aa1917c5e2",
+      "english": "The Gulfer home planet closes in on the Earth Sphere. Hokuto, Ginga and the others take on the Gulfer in a final battle to stop it. Time is almost up... can they seize hope and a future?"
+    },
+    {
+      "kind": "summary",
+      "index": 62,
+      "source_sha256": "d4fa452a68ea7d6426db1a74f79551c3ddc6c2c8902bb418d055ee718023aeb2",
+      "english": "Ginga and the others finally land on the Gulfer home planet, where the truth of Alktos and the Gulfer is revealed. Will the legend of the stars come true? Will a new day come for the Earth Sphere?"
+    },
+    {
+      "kind": "summary",
+      "index": 63,
+      "source_sha256": "2dac0a77bbead6307cef165d6e709e001d9210bf45a8a9abcd145c215d3325fd",
+      "english": "To stop the two worlds annihilating each other, TERRA prepares Operation Doolittle to rebuild the absolute barrier. Meanwhile, an ominous shadow closes in on NERV after the last Angel's defeat..."
+    },
+    {
+      "kind": "summary",
+      "index": 64,
+      "source_sha256": "cd69f1d16098d1338c82ed598e5eb2b10257ab05e708a2dc958f188f5081f4a6",
+      "english": "Twisted though it is, the Multiverse Instrumentality Project has begun. Tuning, Instrumentality... or stopping them both. The final choice now faces the world and mankind...!"
+    },
+    {
+      "kind": "summary",
+      "index": 65,
+      "source_sha256": "b63ea0b75383b91024aa7920aeef446c1bac7a29191856142a3ff6b02906f89c",
+      "english": "The beginning is for the end... and the end is for the beginning. When everything is settled, can people reach the Promised Land...?"
+    }
+  ]
+}

@@ -1,0 +1,2067 @@
+{
+  "version": "0.1.12",
+  "source_build": "0.1.11",
+  "data_references": [
+    {
+      "site": "0x499218",
+      "source": "0x4c2080",
+      "old": "0x4c2080",
+      "target": "0x7cff90",
+      "english": "Attr."
+    },
+    {
+      "site": "0x49997c",
+      "source": "0x4c2080",
+      "old": "0x4c2080",
+      "target": "0x7cff90",
+      "english": "Attr."
+    },
+    {
+      "site": "0x3c5af0",
+      "source": "0x4c0c48",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x3c5d58",
+      "source": "0x4c0c48",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x3c64e4",
+      "source": "0x4c0c48",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x492960",
+      "source": "0x4c19c0",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x4929d0",
+      "source": "0x4c19c0",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x49783c",
+      "source": "0x4c1d98",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x497c5c",
+      "source": "0x4c1d98",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x4987c0",
+      "source": "0x4c1d98",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x498930",
+      "source": "0x4c1d98",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x499f40",
+      "source": "0x4c2178",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x49a158",
+      "source": "0x4c2178",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x49a73c",
+      "source": "0x4c22b8",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    },
+    {
+      "site": "0x49a854",
+      "source": "0x4c22b8",
+      "old": "0x77b731",
+      "target": "0x7d0041",
+      "english": "Will"
+    }
+  ],
+  "instruction_words": [
+    {
+      "va": "0x18f550",
+      "old": "0x3c02004a",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x18f560",
+      "old": "0x3c02004a",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x18f568",
+      "old": "0x2445c8d0",
+      "new": "0x2445ffb4"
+    },
+    {
+      "va": "0x18f570",
+      "old": "0x2445c8e0",
+      "new": "0x2445ff9b"
+    },
+    {
+      "va": "0x147ef8",
+      "old": "0x3c020049",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x147f14",
+      "old": "0x3c020049",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x147f28",
+      "old": "0x3c020049",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x147f38",
+      "old": "0x3c020049",
+      "new": "0x3c02007d"
+    },
+    {
+      "va": "0x147f24",
+      "old": "0x244518a8",
+      "new": "0x2445ffd1"
+    },
+    {
+      "va": "0x147f30",
+      "old": "0x244518b8",
+      "new": "0x2445ffea"
+    },
+    {
+      "va": "0x147f40",
+      "old": "0x244518c8",
+      "new": "0x24450001"
+    },
+    {
+      "va": "0x147f48",
+      "old": "0x244518d8",
+      "new": "0x2445001c"
+    },
+    {
+      "va": "0x173db0",
+      "old": "0x24100050",
+      "new": "0x24100070"
+    },
+    {
+      "va": "0x1114f8",
+      "old": "0xc04c184",
+      "new": "0xc1f4028"
+    },
+    {
+      "va": "0x11173c",
+      "old": "0xc04c184",
+      "new": "0xc1f402c"
+    },
+    {
+      "va": "0x1158a4",
+      "old": "0xc04c184",
+      "new": "0xc1f4030"
+    },
+    {
+      "va": "0x115960",
+      "old": "0xc04c184",
+      "new": "0xc1f4034"
+    },
+    {
+      "va": "0x115c64",
+      "old": "0xc04c184",
+      "new": "0xc1f4038"
+    },
+    {
+      "va": "0x174be4",
+      "old": "0xc05ad52",
+      "new": "0xc1f403c"
+    }
+  ],
+  "storage": [
+    {
+      "va": "0x778689",
+      "english": "Asst",
+      "bytes": 13,
+      "segment": true
+    },
+    {
+      "va": "0x48fa30",
+      "english": "Edit",
+      "bytes": 12
+    },
+    {
+      "va": "0x498d20",
+      "english": "Will",
+      "bytes": 12
+    },
+    {
+      "va": "0x498d40",
+      "english": "Critical",
+      "bytes": 20
+    },
+    {
+      "va": "0x498d58",
+      "english": "Skill",
+      "bytes": 12
+    }
+  ],
+  "draw_stubs": [
+    {
+      "site": "0x1114f8",
+      "target": "0x7d00a0",
+      "text_target": "0x7d0053",
+      "english": "Status",
+      "bytes": 16
+    },
+    {
+      "site": "0x11173c",
+      "target": "0x7d00b0",
+      "text_target": "0x7d0038",
+      "english": "Info",
+      "bytes": 16
+    },
+    {
+      "site": "0x1158a4",
+      "target": "0x7d00c0",
+      "text_target": "0x7d0041",
+      "english": "Will",
+      "bytes": 16
+    },
+    {
+      "site": "0x115960",
+      "target": "0x7d00d0",
+      "text_target": "0x7d004a",
+      "english": "Move",
+      "bytes": 16
+    },
+    {
+      "site": "0x115c64",
+      "target": "0x7d00e0",
+      "text_target": "0x7d004a",
+      "english": "Move",
+      "bytes": 16
+    }
+  ],
+  "description_rows": [
+    {
+      "table": "XSkl",
+      "entry": 1,
+      "english": "??????",
+      "source_english": "??????",
+      "lines": [
+        "??????"
+      ],
+      "sentence_ids": [
+        9498
+      ],
+      "widths": [
+        72
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 2,
+      "english": "Hit and evasion rates rise with the skill level.",
+      "source_english": "Hit and evasion rates rise with the skill level.",
+      "lines": [
+        "Hit and evasion rates rise with the skill level."
+      ],
+      "sentence_ids": [
+        9499
+      ],
+      "widths": [
+        431
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 3,
+      "english": "Hit and evasion rates rise with the skill level.",
+      "source_english": "Hit and evasion rates rise with the skill level.",
+      "lines": [
+        "Hit and evasion rates rise with the skill level."
+      ],
+      "sentence_ids": [
+        9499
+      ],
+      "widths": [
+        431
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 4,
+      "english": "Melee weapon damage and Move rise with the skill level.",
+      "source_english": "Melee weapon damage and Move rise with the skill level.",
+      "lines": [
+        "Melee weapon damage and",
+        "Move rise with the skill level."
+      ],
+      "sentence_ids": [
+        9500,
+        9501
+      ],
+      "widths": [
+        263,
+        281
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 5,
+      "english": "Melee weapon damage and Move rise with the skill level.",
+      "source_english": "Melee weapon damage and Move rise with the skill level.",
+      "lines": [
+        "Melee weapon damage and",
+        "Move rise with the skill level."
+      ],
+      "sentence_ids": [
+        9500,
+        9501
+      ],
+      "widths": [
+        263,
+        281
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 6,
+      "english": "Ranged weapon damage and range rise with the skill level.",
+      "source_english": "Ranged weapon damage and range rise with the skill level.",
+      "lines": [
+        "Ranged weapon damage and",
+        "range rise with the skill level."
+      ],
+      "sentence_ids": [
+        9502,
+        9503
+      ],
+      "widths": [
+        276,
+        281
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 7,
+      "english": "Ranged weapon damage and range rise with the skill level.",
+      "source_english": "Ranged weapon damage and range rise with the skill level.",
+      "lines": [
+        "Ranged weapon damage and",
+        "range rise with the skill level."
+      ],
+      "sentence_ids": [
+        9502,
+        9503
+      ],
+      "widths": [
+        276,
+        281
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 8,
+      "english": "Max SP rises with the skill level.",
+      "source_english": "Max SP rises with the skill level.",
+      "lines": [
+        "Max SP rises with the skill level."
+      ],
+      "sentence_ids": [
+        9504
+      ],
+      "widths": [
+        309
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 9,
+      "english": "Max SP rises with the skill level.",
+      "source_english": "Max SP rises with the skill level.",
+      "lines": [
+        "Max SP rises with the skill level."
+      ],
+      "sentence_ids": [
+        9504
+      ],
+      "widths": [
+        309
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 10,
+      "english": "As HP drops, hit, evasion, Armor and critical rates rise. The effect grows with the skill level.",
+      "source_english": "As HP drops, hit, evasion, Armor and critical rates rise. The effect grows with the skill level.",
+      "lines": [
+        "As HP drops, hit, evasion, Armor and critical rates",
+        "rise. The effect grows with the skill level."
+      ],
+      "sentence_ids": [
+        9505,
+        9506
+      ],
+      "widths": [
+        479,
+        402
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 11,
+      "english": "As HP drops, hit, evasion, Armor and critical rates rise. The effect grows with the skill level.",
+      "source_english": "As HP drops, hit, evasion, Armor and critical rates rise. The effect grows with the skill level.",
+      "lines": [
+        "As HP drops, hit, evasion, Armor and critical rates",
+        "rise. The effect grows with the skill level."
+      ],
+      "sentence_ids": [
+        9505,
+        9506
+      ],
+      "widths": [
+        479,
+        402
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 12,
+      "english": "When it activates, nullifies an enemy's physical weapon. The activation rate rises with the skill level.",
+      "source_english": "When it activates, nullifies an enemy's physical weapon. The activation rate rises with the skill level.",
+      "lines": [
+        "When it activates, nullifies an enemy's physical",
+        "weapon. The activation rate rises with the skill level."
+      ],
+      "sentence_ids": [
+        9507,
+        9508
+      ],
+      "widths": [
+        453,
+        508
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 13,
+      "english": "When it activates, nullifies an enemy's physical weapon. The activation rate rises with the skill level.",
+      "source_english": "When it activates, nullifies an enemy's physical weapon. The activation rate rises with the skill level.",
+      "lines": [
+        "When it activates, nullifies an enemy's physical",
+        "weapon. The activation rate rises with the skill level."
+      ],
+      "sentence_ids": [
+        9507,
+        9508
+      ],
+      "widths": [
+        453,
+        508
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 14,
+      "english": "The damage a shield can reduce rises with the skill level.",
+      "source_english": "The damage a shield can reduce rises with the skill level.",
+      "lines": [
+        "The damage a shield can",
+        "reduce rises with the skill level."
+      ],
+      "sentence_ids": [
+        9509,
+        9510
+      ],
+      "widths": [
+        238,
+        299
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 15,
+      "english": "The damage a shield can reduce rises with the skill level.",
+      "source_english": "The damage a shield can reduce rises with the skill level.",
+      "lines": [
+        "The damage a shield can",
+        "reduce rises with the skill level."
+      ],
+      "sentence_ids": [
+        9509,
+        9510
+      ],
+      "widths": [
+        238,
+        299
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 16,
+      "english": "Joins in support attacks for adjacent allies. The number of supports rises with the skill level.",
+      "source_english": "Joins in support attacks for adjacent allies. The number of supports rises with the skill level.",
+      "lines": [
+        "Joins in support attacks for adjacent allies. The",
+        "number of supports rises with the skill level."
+      ],
+      "sentence_ids": [
+        9511,
+        9512
+      ],
+      "widths": [
+        455,
+        424
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 17,
+      "english": "Joins in support attacks for adjacent allies. The number of supports rises with the skill level.",
+      "source_english": "Joins in support attacks for adjacent allies. The number of supports rises with the skill level.",
+      "lines": [
+        "Joins in support attacks for adjacent allies. The",
+        "number of supports rises with the skill level."
+      ],
+      "sentence_ids": [
+        9511,
+        9512
+      ],
+      "widths": [
+        455,
+        424
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 18,
+      "english": "Joins in support defense for adjacent allies. The number of supports rises with the skill level.",
+      "source_english": "Joins in support defense for adjacent allies. The number of supports rises with the skill level.",
+      "lines": [
+        "Joins in support defense for adjacent allies. The",
+        "number of supports rises with the skill level."
+      ],
+      "sentence_ids": [
+        9513,
+        9512
+      ],
+      "widths": [
+        458,
+        424
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 19,
+      "english": "Joins in support defense for adjacent allies. The number of supports rises with the skill level.",
+      "source_english": "Joins in support defense for adjacent allies. The number of supports rises with the skill level.",
+      "lines": [
+        "Joins in support defense for adjacent allies. The",
+        "number of supports rises with the skill level."
+      ],
+      "sentence_ids": [
+        9513,
+        9512
+      ],
+      "widths": [
+        458,
+        424
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 20,
+      "english": "When attacked, strikes back before the enemy attacks. The number of activations rises with the skill level.",
+      "source_english": "When attacked, strikes back before the enemy attacks. The number of activations rises with the skill level.",
+      "lines": [
+        "When attacked, strikes back before the enemy",
+        "attacks. The number of activations rises with the",
+        "skill level."
+      ],
+      "sentence_ids": [
+        9514,
+        9515,
+        9516
+      ],
+      "widths": [
+        451,
+        475,
+        93
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 21,
+      "english": "When attacked, strikes back before the enemy attacks. The number of activations rises with the skill level.",
+      "source_english": "When attacked, strikes back before the enemy attacks. The number of activations rises with the skill level.",
+      "lines": [
+        "When attacked, strikes back before the enemy",
+        "attacks. The number of activations rises with the",
+        "skill level."
+      ],
+      "sentence_ids": [
+        9514,
+        9515,
+        9516
+      ],
+      "widths": [
+        451,
+        475,
+        93
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 22,
+      "english": "Can be used with adjacent units (up to 4). Higher levels let more units take part.",
+      "source_english": "Can be used with adjacent units (up to 4). Higher levels let more units take part.",
+      "lines": [
+        "Can be used with adjacent units (up to 4). Higher",
+        "levels let more units take part."
+      ],
+      "sentence_ids": [
+        9517,
+        9518
+      ],
+      "widths": [
+        472,
+        294
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 23,
+      "english": "Can be used with adjacent units (up to 4). Higher levels let more units take part.",
+      "source_english": "Can be used with adjacent units (up to 4). Higher levels let more units take part.",
+      "lines": [
+        "Can be used with adjacent units (up to 4). Higher",
+        "levels let more units take part."
+      ],
+      "sentence_ids": [
+        9517,
+        9518
+      ],
+      "widths": [
+        472,
+        294
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 24,
+      "english": "Support attackers join in a combined support attack.",
+      "source_english": "Support attackers join in a combined support attack.",
+      "lines": [
+        "Support attackers join in a combined support attack."
+      ],
+      "sentence_ids": [
+        9519
+      ],
+      "widths": [
+        502
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 25,
+      "english": "At the start of each player phase, restores 20% of max SP.",
+      "source_english": "At the start of each player phase, restores 20% of max SP.",
+      "lines": [
+        "At the start of each player",
+        "phase, restores 20% of max SP."
+      ],
+      "sentence_ids": [
+        9520,
+        9521
+      ],
+      "widths": [
+        261,
+        305
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 26,
+      "english": "One extra action per turn.",
+      "source_english": "One extra action per turn.",
+      "lines": [
+        "One extra action per turn."
+      ],
+      "sentence_ids": [
+        9522
+      ],
+      "widths": [
+        248
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 27,
+      "english": "At 130 Will, the pilot can Boson Jump.",
+      "source_english": "At 130 Will, the pilot can Boson Jump.",
+      "lines": [
+        "At 130 Will, the pilot can Boson Jump."
+      ],
+      "sentence_ids": [
+        9523
+      ],
+      "widths": [
+        367
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 28,
+      "english": "At 120 Will, raises the stats of the pilot and the boarded unit.",
+      "source_english": "At 120 Will, raises the stats of the pilot and the boarded unit.",
+      "lines": [
+        "At 120 Will, raises the stats of the pilot and the",
+        "boarded unit."
+      ],
+      "sentence_ids": [
+        9524,
+        9525
+      ],
+      "widths": [
+        465,
+        123
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 29,
+      "english": "At 120 Will, raises the stats of the pilot and the boarded unit.",
+      "source_english": "At 120 Will, raises the stats of the pilot and the boarded unit.",
+      "lines": [
+        "At 120 Will, raises the stats of the pilot and the",
+        "boarded unit."
+      ],
+      "sentence_ids": [
+        9524,
+        9525
+      ],
+      "widths": [
+        465,
+        123
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 30,
+      "english": "Spirit Commands cost 80% of their SP.",
+      "source_english": "Spirit Commands cost 80% of their SP.",
+      "lines": [
+        "Spirit Commands cost 80% of their SP."
+      ],
+      "sentence_ids": [
+        9526
+      ],
+      "widths": [
+        370
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 31,
+      "english": "Will is 5 higher on sortie.",
+      "source_english": "Will is 5 higher on sortie.",
+      "lines": [
+        "Will is 5 higher on sortie."
+      ],
+      "sentence_ids": [
+        9527
+      ],
+      "widths": [
+        239
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 32,
+      "english": "Will rises by 2 whenever the pilot takes damage in battle.",
+      "source_english": "Will rises by 2 whenever the pilot takes damage in battle.",
+      "lines": [
+        "Will rises by 2 whenever the",
+        "pilot takes damage in battle."
+      ],
+      "sentence_ids": [
+        9528,
+        9529
+      ],
+      "widths": [
+        275,
+        274
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 33,
+      "english": "At 120 Will, Effort is cast at the start of each player phase.",
+      "source_english": "At 120 Will, Effort is cast at the start of each player phase.",
+      "lines": [
+        "At 120 Will, Effort is cast at the start of each",
+        "player phase."
+      ],
+      "sentence_ids": [
+        9530,
+        9531
+      ],
+      "widths": [
+        450,
+        127
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 34,
+      "english": "At 110 Will, the pilot's hit and evasion rates rise.",
+      "source_english": "At 110 Will, the pilot's hit and evasion rates rise.",
+      "lines": [
+        "At 110 Will, the pilot's hit and evasion rates rise."
+      ],
+      "sentence_ids": [
+        9532
+      ],
+      "widths": [
+        471
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 35,
+      "english": "Funds from destroyed enemy units are multiplied by 1.2.",
+      "source_english": "Funds from destroyed enemy units are multiplied by 1.2.",
+      "lines": [
+        "Funds from destroyed enemy",
+        "units are multiplied by 1.2."
+      ],
+      "sentence_ids": [
+        9533,
+        9534
+      ],
+      "widths": [
+        281,
+        254
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 36,
+      "english": "At 110 Will, evasion rises, but only against enemy first strikes.",
+      "source_english": "At 110 Will, evasion rises, but only against enemy first strikes.",
+      "lines": [
+        "At 110 Will, evasion rises, but",
+        "only against enemy first strikes."
+      ],
+      "sentence_ids": [
+        9535,
+        9536
+      ],
+      "widths": [
+        291,
+        313
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 37,
+      "english": "At the start of each player phase, restores 10% of max SP.",
+      "source_english": "At the start of each player phase, restores 10% of max SP.",
+      "lines": [
+        "At the start of each player",
+        "phase, restores 10% of max SP."
+      ],
+      "sentence_ids": [
+        9520,
+        9537
+      ],
+      "widths": [
+        261,
+        305
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 38,
+      "english": "After attacking without moving, the unit can still move.",
+      "source_english": "After attacking without moving, the unit can still move.",
+      "lines": [
+        "After attacking without",
+        "moving, the unit can still move."
+      ],
+      "sentence_ids": [
+        9538,
+        9539
+      ],
+      "widths": [
+        230,
+        299
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 39,
+      "english": "At 130 Will, attack power is multiplied by 1.2.",
+      "source_english": "At 130 Will, attack power is multiplied by 1.2.",
+      "lines": [
+        "At 130 Will, attack power is multiplied by 1.2."
+      ],
+      "sentence_ids": [
+        9540
+      ],
+      "widths": [
+        447
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 40,
+      "english": "Attack power is multiplied by 1.2 when counterattacking.",
+      "source_english": "Attack power is multiplied by 1.2 when counterattacking.",
+      "lines": [
+        "Attack power is multiplied by 1.2 when",
+        "counterattacking."
+      ],
+      "sentence_ids": [
+        9541,
+        9542
+      ],
+      "widths": [
+        379,
+        166
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 41,
+      "english": "Will rises by 2 at the start of each player phase.",
+      "source_english": "Will rises by 2 at the start of each player phase.",
+      "lines": [
+        "Will rises by 2 at the start of each player phase."
+      ],
+      "sentence_ids": [
+        9543
+      ],
+      "widths": [
+        469
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 42,
+      "english": "Weapons use 80% of their normal EN.",
+      "source_english": "Weapons use 80% of their normal EN.",
+      "lines": [
+        "Weapons use 80% of their normal EN."
+      ],
+      "sentence_ids": [
+        9544
+      ],
+      "widths": [
+        364
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 43,
+      "english": "Max weapon ammo is 1.5 times normal.",
+      "source_english": "Max weapon ammo is 1.5 times normal.",
+      "lines": [
+        "Max weapon ammo is 1.5 times normal."
+      ],
+      "sentence_ids": [
+        9545
+      ],
+      "widths": [
+        389
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 44,
+      "english": "EXP gained is multiplied by 1.2.",
+      "source_english": "EXP gained is multiplied by 1.2.",
+      "lines": [
+        "EXP gained is multiplied by 1.2."
+      ],
+      "sentence_ids": [
+        9546
+      ],
+      "widths": [
+        299
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 45,
+      "english": "At 130 Will, damage taken in battle drops to 80%.",
+      "source_english": "At 130 Will, damage taken in battle drops to 80%.",
+      "lines": [
+        "At 130 Will, damage taken in battle drops to 80%."
+      ],
+      "sentence_ids": [
+        9547
+      ],
+      "widths": [
+        486
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 46,
+      "english": "HP restored by Repair is multiplied by 1.2.",
+      "source_english": "HP restored by Repair is multiplied by 1.2.",
+      "lines": [
+        "HP restored by Repair is multiplied by 1.2."
+      ],
+      "sentence_ids": [
+        9548
+      ],
+      "widths": [
+        402
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 47,
+      "english": "Resupply can be used even after moving.",
+      "source_english": "Resupply can be used even after moving.",
+      "lines": [
+        "Resupply can be used even after moving."
+      ],
+      "sentence_ids": [
+        9549
+      ],
+      "widths": [
+        394
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 48,
+      "english": "Adds Scan to the unit's commands.",
+      "source_english": "Adds Scan to the unit's commands.",
+      "lines": [
+        "Adds Scan to the unit's commands."
+      ],
+      "sentence_ids": [
+        9550
+      ],
+      "widths": [
+        333
+      ]
+    },
+    {
+      "table": "XSkl",
+      "entry": 49,
+      "english": "At 130 Will, raises the boarded unit's stats.",
+      "source_english": "At 130 Will, raises the boarded unit's stats.",
+      "lines": [
+        "At 130 Will, raises the boarded unit's stats."
+      ],
+      "sentence_ids": [
+        9551
+      ],
+      "widths": [
+        417
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 1,
+      "english": "With 5+ EN, reduces beam damage by 700 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN, reduces beam damage by 700 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN, reduces beam damage by 700 (not",
+        "against field-nullifying or piercing weapons)."
+      ],
+      "sentence_ids": [
+        9552,
+        9553
+      ],
+      "widths": [
+        459,
+        426
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 2,
+      "english": "With 5+ EN, reduces beam damage by 850 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN, reduces beam damage by 850 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN, reduces beam damage by 850 (not",
+        "against field-nullifying or piercing weapons)."
+      ],
+      "sentence_ids": [
+        9554,
+        9553
+      ],
+      "widths": [
+        459,
+        426
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 3,
+      "english": "With 5+ EN and 110+ Will, reduces beam damage by 900 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN and 110+ Will, reduces beam damage by 900 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN and 110+ Will, reduces beam damage by",
+        "900 (not against field-nullifying or piercing",
+        "weapons)."
+      ],
+      "sentence_ids": [
+        9555,
+        9556,
+        9557
+      ],
+      "widths": [
+        510,
+        413,
+        98
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 4,
+      "english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN and 120+ Will, reduces all damage by",
+        "1500 (not against field-nullifying or piercing",
+        "weapons)."
+      ],
+      "sentence_ids": [
+        9558,
+        9559,
+        9557
+      ],
+      "widths": [
+        480,
+        426,
+        98
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 5,
+      "english": "With 20+ EN, reduces gravity damage by 2500, beam damage by 1500 and other damage by 1000 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 20+ EN, reduces gravity damage by 2500, beam damage by 1500 and other damage by 1000 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 20+ EN, reduces gravity damage by 2500,",
+        "beam damage by 1500 and other damage by 1000",
+        "(not against field-nullifying or piercing weapons)."
+      ],
+      "sentence_ids": [
+        9560,
+        9561,
+        9562
+      ],
+      "widths": [
+        462,
+        496,
+        472
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 6,
+      "english": "Needs 5+ EN; blocks attacks up to 4000 damage. Field-nullifying or AT Field-neutralizing weapons bypass it. If broken, full damage gets through.",
+      "source_english": "With 5+ EN, blocks all attacks of up to 4000 damage (not against field-nullifying or AT Field neutralizing weapons). If broken, all damage gets through.",
+      "lines": [
+        "Needs 5+ EN; blocks attacks up to 4000 damage.",
+        "Field-nullifying or AT Field-neutralizing weapons",
+        "bypass it. If broken, full damage gets through."
+      ],
+      "sentence_ids": [
+        9563,
+        9564,
+        9565
+      ],
+      "widths": [
+        476,
+        459,
+        444
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 7,
+      "english": "With 10+ EN, reduces all damage by 1000 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 10+ EN, reduces all damage by 1000 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 10+ EN, reduces all damage by 1000 (not",
+        "against field-nullifying or piercing weapons)."
+      ],
+      "sentence_ids": [
+        9566,
+        9553
+      ],
+      "widths": [
+        455,
+        426
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 8,
+      "english": "With 5+ EN and 120+ Will, reduces all damage by 1000 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN and 120+ Will, reduces all damage by 1000 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN and 120+ Will, reduces all damage by",
+        "1000 (not against field-nullifying or piercing",
+        "weapons)."
+      ],
+      "sentence_ids": [
+        9558,
+        9567,
+        9557
+      ],
+      "widths": [
+        480,
+        426,
+        98
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 9,
+      "english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN and 120+ Will, reduces all damage by",
+        "1500 (not against field-nullifying or piercing",
+        "weapons)."
+      ],
+      "sentence_ids": [
+        9558,
+        9559,
+        9557
+      ],
+      "widths": [
+        480,
+        426,
+        98
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 10,
+      "english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "source_english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "lines": [
+        "With 130+ pilot Will, evades",
+        "enemy attacks 50% of the time."
+      ],
+      "sentence_ids": [
+        9568,
+        9569
+      ],
+      "widths": [
+        274,
+        311
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 11,
+      "english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "source_english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "lines": [
+        "With 130+ pilot Will, evades",
+        "enemy attacks 50% of the time."
+      ],
+      "sentence_ids": [
+        9568,
+        9569
+      ],
+      "widths": [
+        274,
+        311
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 12,
+      "english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "source_english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "lines": [
+        "With 130+ pilot Will, evades",
+        "enemy attacks 50% of the time."
+      ],
+      "sentence_ids": [
+        9568,
+        9569
+      ],
+      "widths": [
+        274,
+        311
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 13,
+      "english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "source_english": "With 130+ pilot Will, evades enemy attacks 50% of the time.",
+      "lines": [
+        "With 130+ pilot Will, evades",
+        "enemy attacks 50% of the time."
+      ],
+      "sentence_ids": [
+        9568,
+        9569
+      ],
+      "widths": [
+        274,
+        311
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 14,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 15,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 16,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 17,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 18,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 19,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 20,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 21,
+      "english": "The unit can change into another form.",
+      "source_english": "The unit can change into another form.",
+      "lines": [
+        "The unit can change into another form."
+      ],
+      "sentence_ids": [
+        9570
+      ],
+      "widths": [
+        375
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 22,
+      "english": "With 130+ pilot Will, adds Combine to the unit's commands so it can become Baikanfu.",
+      "source_english": "With 130+ pilot Will, adds Combine to the unit's commands so it can become Baikanfu.",
+      "lines": [
+        "With 130+ pilot Will, adds Combine to the unit's",
+        "commands so it can become Baikanfu."
+      ],
+      "sentence_ids": [
+        9571,
+        9572
+      ],
+      "widths": [
+        461,
+        368
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 23,
+      "english": "Combines two units into a unit of another form.",
+      "source_english": "Combines two units into a unit of another form.",
+      "lines": [
+        "Combines two units into a unit of another form."
+      ],
+      "sentence_ids": [
+        9573
+      ],
+      "widths": [
+        463
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 24,
+      "english": "With 130+ main pilot Will, the unit gains EN Regen (L), HP Regen (S), After Image and Barrier.",
+      "source_english": "With 130+ main pilot Will, the unit gains EN Regen (L), HP Regen (S), After Image and Barrier.",
+      "lines": [
+        "With 130+ main pilot Will, the unit gains EN Regen",
+        "(L), HP Regen (S), After Image and Barrier."
+      ],
+      "sentence_ids": [
+        9574,
+        9575
+      ],
+      "widths": [
+        486,
+        409
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 25,
+      "english": "Can resupply units that have the Hyper Plasma Drive ability.",
+      "source_english": "Can resupply units that have the Hyper Plasma Drive ability.",
+      "lines": [
+        "Can resupply units that have",
+        "the Hyper Plasma Drive ability."
+      ],
+      "sentence_ids": [
+        9576,
+        9577
+      ],
+      "widths": [
+        276,
+        298
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 26,
+      "english": "Can be resupplied by units that have the Hyper Dendoh Batteries ability.",
+      "source_english": "Can be resupplied by units that have the Hyper Dendoh Batteries ability.",
+      "lines": [
+        "Can be resupplied by units that have the Hyper",
+        "Dendoh Batteries ability."
+      ],
+      "sentence_ids": [
+        9578,
+        9579
+      ],
+      "widths": [
+        451,
+        234
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 27,
+      "english": "Fully restores EN at the start of each player phase.",
+      "source_english": "Fully restores EN at the start of each player phase.",
+      "lines": [
+        "Fully restores EN at the start of each player phase."
+      ],
+      "sentence_ids": [
+        9580
+      ],
+      "widths": [
+        492
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 28,
+      "english": "Adds Scan to the unit's commands.",
+      "source_english": "Adds Scan to the unit's commands.",
+      "lines": [
+        "Adds Scan to the unit's commands."
+      ],
+      "sentence_ids": [
+        9550
+      ],
+      "widths": [
+        333
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 29,
+      "english": "The unit can move over water.",
+      "source_english": "The unit can move over water.",
+      "lines": [
+        "The unit can move over water."
+      ],
+      "sentence_ids": [
+        9581
+      ],
+      "widths": [
+        297
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 30,
+      "english": "Revives once when its HP reaches 0.",
+      "source_english": "Revives once when its HP reaches 0.",
+      "lines": [
+        "Revives once when its HP reaches 0."
+      ],
+      "sentence_ids": [
+        9582
+      ],
+      "widths": [
+        350
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 31,
+      "english": "Allied units within 2 squares gain +30 hit and evasion rates. Also adds Scan to the unit's commands.",
+      "source_english": "Allied units within 2 squares gain +30 hit and evasion rates. Also adds Scan to the unit's commands.",
+      "lines": [
+        "Allied units within 2 squares gain +30 hit and",
+        "evasion rates. Also adds Scan to the unit's",
+        "commands."
+      ],
+      "sentence_ids": [
+        9583,
+        9584,
+        9585
+      ],
+      "widths": [
+        435,
+        406,
+        107
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 32,
+      "english": "Allied units within 2 squares gain +15 hit and evasion rates. Also adds Scan to the unit's commands.",
+      "source_english": "Allied units within 2 squares gain +15 hit and evasion rates. Also adds Scan to the unit's commands.",
+      "lines": [
+        "Allied units within 2 squares gain +15 hit and",
+        "evasion rates. Also adds Scan to the unit's",
+        "commands."
+      ],
+      "sentence_ids": [
+        9586,
+        9584,
+        9585
+      ],
+      "widths": [
+        435,
+        406,
+        107
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 33,
+      "english": "Nullifies attacks by homing weapons.",
+      "source_english": "Nullifies attacks by homing weapons.",
+      "lines": [
+        "Nullifies attacks by homing weapons."
+      ],
+      "sentence_ids": [
+        9587
+      ],
+      "widths": [
+        359
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 34,
+      "english": "Adds Connect beside a power source. While connected, EN fully recovers each player phase; movement is limited to 10 squares from the source.",
+      "source_english": "Next to a power source, adds Connect to the unit's commands. While connected, EN fully recovers each player phase, but the unit can't move over 10 squares from the source.",
+      "lines": [
+        "Adds Connect beside a power source. While",
+        "connected, EN fully recovers each player phase;",
+        "movement is limited to 10 squares from the source."
+      ],
+      "sentence_ids": [
+        9588,
+        9589,
+        9590
+      ],
+      "widths": [
+        419,
+        457,
+        499
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 35,
+      "english": "Fully restores EN at the start of each player phase.",
+      "source_english": "Fully restores EN at the start of each player phase.",
+      "lines": [
+        "Fully restores EN at the start of each player phase."
+      ],
+      "sentence_ids": [
+        9580
+      ],
+      "widths": [
+        492
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 36,
+      "english": "The unit can no longer be controlled when its HP reaches 0.",
+      "source_english": "The unit can no longer be controlled when its HP reaches 0.",
+      "lines": [
+        "The unit can no longer be",
+        "controlled when its HP reaches 0."
+      ],
+      "sentence_ids": [
+        9591,
+        9592
+      ],
+      "widths": [
+        243,
+        318
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 37,
+      "english": "The unit can no longer be controlled when its HP reaches 0.",
+      "source_english": "The unit can no longer be controlled when its HP reaches 0.",
+      "lines": [
+        "The unit can no longer be",
+        "controlled when its HP reaches 0."
+      ],
+      "sentence_ids": [
+        9591,
+        9592
+      ],
+      "widths": [
+        243,
+        318
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 38,
+      "english": "Nullifies all status effects.",
+      "source_english": "Nullifies all status effects.",
+      "lines": [
+        "Nullifies all status effects."
+      ],
+      "sentence_ids": [
+        9593
+      ],
+      "widths": [
+        253
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 39,
+      "english": "At the start of each player phase, restores 10% of max EN if the unit is on terrain without air (space, etc.).",
+      "source_english": "At the start of each player phase, restores 10% of max EN if the unit is on terrain without air (space, etc.).",
+      "lines": [
+        "At the start of each player phase, restores 10% of",
+        "max EN if the unit is on terrain without air (space,",
+        "etc.)."
+      ],
+      "sentence_ids": [
+        9594,
+        9595,
+        9596
+      ],
+      "widths": [
+        490,
+        483,
+        47
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 40,
+      "english": "Nullifies attacks by light-beam weapons.",
+      "source_english": "Nullifies attacks by light-beam weapons.",
+      "lines": [
+        "Nullifies attacks by light-beam weapons."
+      ],
+      "sentence_ids": [
+        9597
+      ],
+      "widths": [
+        390
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 41,
+      "english": "Fully restores EN and ammo (except Hyper Dendoh Batteries) of adjacent units, except those with Hyper Plasma Drive.",
+      "source_english": "Fully restores EN and ammo (except Hyper Dendoh Batteries) of adjacent units, except those with Hyper Plasma Drive.",
+      "lines": [
+        "Fully restores EN and ammo (except Hyper Dendoh",
+        "Batteries) of adjacent units, except those with Hyper",
+        "Plasma Drive."
+      ],
+      "sentence_ids": [
+        9598,
+        9599,
+        9600
+      ],
+      "widths": [
+        489,
+        510,
+        131
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 42,
+      "english": "Restores HP and status effects of adjacent units (not the inability to act from running out of EN).",
+      "source_english": "Restores HP and status effects of adjacent units (not the inability to act from running out of EN).",
+      "lines": [
+        "Restores HP and status effects of adjacent units",
+        "(not the inability to act from running out of EN)."
+      ],
+      "sentence_ids": [
+        9601,
+        9602
+      ],
+      "widths": [
+        469,
+        465
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 43,
+      "english": "Restores 30% of max HP at the start of each player phase.",
+      "source_english": "Restores 30% of max HP at the start of each player phase.",
+      "lines": [
+        "Restores 30% of max HP at",
+        "the start of each player phase."
+      ],
+      "sentence_ids": [
+        9603,
+        9604
+      ],
+      "widths": [
+        268,
+        297
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 44,
+      "english": "Restores 10% of max HP at the start of each player phase.",
+      "source_english": "Restores 10% of max HP at the start of each player phase.",
+      "lines": [
+        "Restores 10% of max HP at",
+        "the start of each player phase."
+      ],
+      "sentence_ids": [
+        9605,
+        9604
+      ],
+      "widths": [
+        268,
+        297
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 45,
+      "english": "Restores 30% of max EN at the start of each player phase.",
+      "source_english": "Restores 30% of max EN at the start of each player phase.",
+      "lines": [
+        "Restores 30% of max EN at",
+        "the start of each player phase."
+      ],
+      "sentence_ids": [
+        9606,
+        9604
+      ],
+      "widths": [
+        268,
+        297
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 46,
+      "english": "Restores 10% of max EN at the start of each player phase.",
+      "source_english": "Restores 10% of max EN at the start of each player phase.",
+      "lines": [
+        "Restores 10% of max EN at",
+        "the start of each player phase."
+      ],
+      "sentence_ids": [
+        9607,
+        9604
+      ],
+      "widths": [
+        268,
+        297
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 47,
+      "english": "Gives every pilot aboard the SP Recover skill.",
+      "source_english": "Gives every pilot aboard the SP Recover skill.",
+      "lines": [
+        "Gives every pilot aboard the SP Recover skill."
+      ],
+      "sentence_ids": [
+        9608
+      ],
+      "widths": [
+        435
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 48,
+      "english": "At the start of each player phase, supplies EN to units that need gravity wave energy.",
+      "source_english": "At the start of each player phase, supplies EN to units that need gravity wave energy.",
+      "lines": [
+        "At the start of each player phase, supplies EN to",
+        "units that need gravity wave energy."
+      ],
+      "sentence_ids": [
+        9609,
+        9610
+      ],
+      "widths": [
+        468,
+        357
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 49,
+      "english": "Fully restores EN at the start of each player phase while inside the Gravity Wave Beam's range.",
+      "source_english": "Fully restores EN at the start of each player phase while inside the Gravity Wave Beam's range.",
+      "lines": [
+        "Fully restores EN at the start of each player phase",
+        "while inside the Gravity Wave Beam's range."
+      ],
+      "sentence_ids": [
+        9611,
+        9612
+      ],
+      "widths": [
+        487,
+        430
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 50,
+      "english": "Moves through enemies and walls, and every terrain costs 1 to move through.",
+      "source_english": "Moves through enemies and walls, and every terrain costs 1 to move through.",
+      "lines": [
+        "Moves through enemies and walls, and every terrain",
+        "costs 1 to move through."
+      ],
+      "sentence_ids": [
+        9613,
+        9614
+      ],
+      "widths": [
+        504,
+        242
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 51,
+      "english": "Can use its equipped parts (those usable as a command) on adjacent units.",
+      "source_english": "Can use its equipped parts (those usable as a command) on adjacent units.",
+      "lines": [
+        "Can use its equipped parts (those usable as a",
+        "command) on adjacent units."
+      ],
+      "sentence_ids": [
+        9615,
+        9616
+      ],
+      "widths": [
+        434,
+        276
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 52,
+      "english": "With 120+ main pilot Will, evades enemy attacks 25% of the time.",
+      "source_english": "With 120+ main pilot Will, evades enemy attacks 25% of the time.",
+      "lines": [
+        "With 120+ main pilot Will, evades enemy attacks",
+        "25% of the time."
+      ],
+      "sentence_ids": [
+        9617,
+        9618
+      ],
+      "widths": [
+        477,
+        161
+      ]
+    },
+    {
+      "table": "Xabl",
+      "entry": 53,
+      "english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "source_english": "With 5+ EN and 120+ Will, reduces all damage by 1500 (not against field-nullifying or piercing weapons).",
+      "lines": [
+        "With 5+ EN and 120+ Will, reduces all damage by",
+        "1500 (not against field-nullifying or piercing",
+        "weapons)."
+      ],
+      "sentence_ids": [
+        9558,
+        9559,
+        9557
+      ],
+      "widths": [
+        480,
+        426,
+        98
+      ]
+    }
+  ],
+  "native_font": true,
+  "texture_replacement": false,
+  "psp_opening_preserved": true,
+  "ammo_value_x": {
+    "old": 80,
+    "new": 112,
+    "label_x": 32
+  },
+  "weapon_flags": {
+    "site": "0x174be4",
+    "target": "0x7d00f0",
+    "bytes": 400,
+    "labels": [
+      "None",
+      "Yes",
+      "Pierce",
+      "Spread",
+      "Null",
+      "Weaken"
+    ],
+    "right_alignment_uses_vwf": true
+  },
+  "descriptions": {
+    "width_limit": 512,
+    "font_size": 24,
+    "new_sentence_rows": 121,
+    "added_pool_bytes": 9145,
+    "source_sha256": "cf11b7d5d69d6cd99f71bfb4841f4958d157861a93f4e9ac863cab07942bc8d6",
+    "target_sha256": "131f56750b7ce9cbf219fd832f2bf8b582daab18b10ea3abdc350f4b0c40bda2",
+    "numeric_records_preserved": true
+  }
+}

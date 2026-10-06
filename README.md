@@ -1,7 +1,7 @@
-# Super Robot Taisen MX Portable — translation project
+# Super Robot Taisen MX / MX Portable — translation project
 
-An open toolchain for translating **Super Robot Taisen MX Portable** (PSP,
-Japanese edition **ULJS-00041**), plus the English translation built with it.
+English translations and an open toolchain for **Super Robot Taisen MX**
+(PS2, **SLPS-25345**) and **MX Portable** (PSP, **ULJS-00041**).
 
 ## Contribute
 
@@ -16,55 +16,42 @@ Include the build version, route, stage and an in-game screenshot.
 
 ## Play it
 
-The latest release is **[v0.4.9](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.9)**,
-for the original Japanese PSP edition **ULJS-00041**. You need your own matching
-Japanese ISO, or the exact published English v0.4.1 image for an upgrade.
+The latest release is **[v0.4.12](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.12)**
+for both PSP and PS2. You need your own matching Japanese ISO. PSP also has an
+upgrade from the exact published English v0.4.9 image.
 
-This release includes all story dialogue through the ending, every mapped route
-branch, the hidden stage, closing/save messages and all 67 chapter titles.
-It also includes battle captions, interface translations and the cumulative
-menu, font and dialogue fixes. The build remains experimental; see the release
-notes for changes and remaining playtesting checks.
+Both builds include the English campaign and interface with a native
+proportional 4× Latin font. PSP adds crash, layout, music-title and thought
+spacing fixes since v0.4.9. The first public PS2 build includes the adapted
+PSP content, two balance modes and three favorite series in both modes.
+These remain experimental builds; see the [release notes](docs/releases/v0.4.12.md)
+for changes, exact source/output hashes and remaining playtesting checks.
 
 ### Apply
 
-**The easiest way:** [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools)
-provides a desktop interface for applying translation patches. Download the app
-from its Releases page, refresh its catalog, choose **Automatic**, select your
-source ISO, wait for analysis and click **Patch**. v0.4.9 is registered in the
-verified catalog. You can also choose **Apply xdelta** with the downloaded patch.
+Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools):
 
-**Other ways:** [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher)
-accepts the same `.xdelta` files. Select the matching source ISO and patch.
+- **PSP:** refresh the catalog, choose **Automatic**, select your original
+  Japanese ISO or published English v0.4.9 ISO, and patch. You can also use
+  **Apply xdelta** with the corresponding patch below.
+- **PS2:** extract the PS2 ZIP, choose **Apply xdelta**, and select your original
+  Japanese PS2 ISO and the extracted patch. The ZIP includes separate build
+  metadata and validation; PS2 uses the manual route because the catalog
+  currently supports one platform per GitHub release.
 
-**Command line:** Get [xdelta3](https://github.com/jmacd/xdelta) and use the patch
-that matches your source image:
-
-| Your source image | Patch |
+| Your source | Download |
 |---|---|
-| Original Japanese PSP release, ULJS-00041 | [SRWMX-English-v0.4.9.xdelta](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.9/SRWMX-English-v0.4.9.xdelta) |
-| Published English v0.4.1, ULJS-00041 | [SRWMX-English-v0.4.1-to-v0.4.9.xdelta](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.9/SRWMX-English-v0.4.1-to-v0.4.9.xdelta) |
+| Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-English-v0.4.12.xdelta) |
+| Published English PSP v0.4.9 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-English-v0.4.9-to-v0.4.12.xdelta) |
+| Japanese PS2, SLPS-25345 | [PS2 package](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-PS2-English-v0.4.12.zip) |
 
-**Original Japanese edition:**
-
-```sh
-xdelta3 -d -s "Super Robot Taisen MX Portable (Japan).iso" SRWMX-English-v0.4.9.xdelta "SRWMX English v0.4.9.iso"
-```
-
-**Already on the published v0.4.1?** Use the upgrade patch:
-
-```sh
-xdelta3 -d -s "SRWMX English v0.4.1.iso" SRWMX-English-v0.4.1-to-v0.4.9.xdelta "SRWMX English v0.4.9.iso"
-```
-
-The upgrade requires the exact published v0.4.1 output; local test builds with
-the same version label may differ. Both patches produce the identical v0.4.9
-image. If the patcher reports a checksum mismatch, compare your source with
-`README-v0.4.9.txt` or `BUILD-MANIFEST.json` from the release. Keep source
-verification enabled. Other English versions are not supported upgrade sources.
+Keep checksum verification enabled. Patches require the exact supported image;
+local test builds can differ despite having the same version label. PSP v0.4.1
+can upgrade through v0.4.9 using the previous release. Other patchers supporting
+xdelta3 work with the same patch files.
 
 Use an **in-game save** and restart when changing builds. Emulator save states
-retain the old executable and resources.
+retain old code and resources. PS2 and PSP patches are separate platform builds.
 
 ## Check the translation
 

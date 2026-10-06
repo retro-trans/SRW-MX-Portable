@@ -1,5 +1,479 @@
 # Changelog
 
+## Shared PSP / PS2 v0.4.12 — 2026-10-06 (public release)
+
+- User authorized publication of both platforms with the PSP version number.
+  PSP 0.4.12 and the final PS2 0.1.18 image are packaged as public v0.4.12;
+  historical PS2 test labels remain in their original reports.
+- Added platform-aware release packaging. PSP provides original-source and
+  published 0.4.9 upgrade patches for the Retro Trans Automatic catalog. PS2
+  provides a separate ZIP with its own Retro Trans manifest, validation and
+  patch for Apply xdelta. Both formats require exact source/output hashes.
+- Release notes document cumulative changes, application steps and remaining
+  visual, memory-card and complete-campaign playtesting checks.
+
+
+## PS2 0.1.18 — 2026-10-06 (three favorite series)
+
+- Added three distinct favorite-series choices to New Game setup in both
+  PS2 – Original and PSP – Harder modes, as requested. The selector shows a
+  counter, all three titles and controls. Confirm toggles a choice; Cancel
+  undoes the last pick. The third choice opens the existing Yes/No flow.
+- All three series use the native EXP and upgrade-limit bonuses and existing
+  saved bitset. Save sizes, checksums and balance persistence are unchanged.
+  Old saves retain their existing favorites; New Game Plus retains its union.
+- Native tests pass for all 1,632 triple/mode combinations, 29,376 membership
+  checks, 1,632 save-field round trips, 18 EXP and 270 upgrade-limit cases,
+  both confirmation branches, undo/toggle/reset and bounded text rendering.
+- Prior campaign/font/balance/UI regressions pass. Only the executable changes
+  from 0.1.17. Local build only; no release. Visual menu and actual memory-card
+  reload testing remain pending because desktop automation denied input.
+- ISO: `work/output/SRWMX_PS2_EN_0.1.18.iso`, 4,663,269,376 bytes. SHA-256:
+  `10d491a0ce7331ecaf94270f5112c375276f0a987c1150e104fd22a67833dbdf`. All 37 disc-file readbacks pass.
+- Final fresh-boot PCSX2 readback matches the native segment and all 199
+  hook/reference checks at 4x, with no unknown-opcode or TLB warnings.
+
+## PSP 0.4.12 — 2026-10-06 (thought dialogue spacing)
+
+- Added a space between speaker names and opening parentheses in 1,173
+  thought dialogue lines, including the reported Daisuke line. All 1,176
+  thought rows now have exactly one separator; three already had it.
+- The shared dialogue formatter applies the rule to future builds. Ordinary
+  dialogue quotes and anonymous parentheses retain their existing formatting.
+- Readback of all 203 scripts confirms exact space insertions, unchanged
+  wording, line breaks, string counts and commands. All affected rows fit;
+  maximum width is 345 px within the 352 px dialogue limit. No blocks grow.
+- Only MAP_ADD.BIN changes from 0.4.11; the other 31 disc files match it.
+  Local ISO: `work/output/SRWMX_EN_0.4.12.iso` (1,317,414,912 bytes), SHA-256
+  `80f9d24f682884059742c89b0e60ab3a53f611ee384e0cb46b068b4478d9acae`.
+  No GitHub release has been created.
+
+## PSP 0.4.11 — 2026-10-06 (local menu alignment and music titles)
+
+- Centered Change name / Keep name in Hero Setup, Partner Setup and Rename
+  Unit using the actual English font width and the native choice panel.
+- Centered the four Options entries and the Sound Select / Demo Select rows
+  using native VWF measurement. Selection, styles and vertical spacing remain
+  unchanged; pilot field labels retain their original positions.
+- Added 80 music titles using the refreshed Akurasu MX BGM list. Covers the
+  reported Japanese rows and later unlocked tracks; the two long G Gundam
+  titles use Akurasu's shorter romanized names.
+- Fresh-boot PPSSPP visual checks pass for all affected screens. Controlled
+  in-memory list fixtures additionally display the user's nine music rows and
+  all three demo entries; no unlock flags or savedata are changed.
+- Native VWF/wrapper execution checks pass for every title (maximum 413 px
+  in the 427 px music text area). Prior Level Up and narration regressions
+  still pass. All 1,763 BOOT references and 1,580 English names read back.
+  All 32 ISO file checks pass; only BOOT, EBOOT and STATIC2 change from 0.4.10.
+- Local ISO: `work/output/SRWMX_EN_0.4.11.iso`, 1,317,414,912 bytes.
+  SHA-256 `50e6440438778cc6da32d963c9500e0b4265afb6142bdc360913b55081600f58`.
+  No GitHub release has been created.
+
+## PSP 0.4.10 — 2026-10-06 (local Level Up and narration fixes)
+
+- Moved the post-battle Level Up skill strings from six 32-byte rows to six
+  256-byte rows. Full names and level suffixes no longer overwrite adjacent
+  rows; skill values, learning flags and the renderer are preserved.
+- Wrapped opening and ending narration against the native 128-byte row
+  capacity as well as the screen width. Wording and record timing remain
+  unchanged. Opening uses 26 lines; ending uses 21; each is at most 127 bytes
+  including its end marker.
+- Native copy/row-building regression fixtures reproduce both old failures
+  and pass with the fixes. All 1,763 translated BOOT references and 1,500
+  English names read back correctly. All 32 ISO file checks pass; only
+  BOOT.BIN and EBOOT.BIN change from 0.4.9.
+- Local testing ISO: `work/output/SRWMX_EN_0.4.10.iso`. SHA-256:
+  `c4a7eca06a4606426c0f9109c4288ca2db474cb2ac507c7ecb908a0566026444`.
+  No GitHub release has been created.
+- Fresh-boot PPSSPP testing completes the unskipped opening and reaches
+  Hugo's first prologue dialogue. Native Level Up array relocation passes;
+  a full Judau Level Up battle playthrough remains unverified.
+
+## PS2 0.1.17 — 2026-10-06 (local CT/AT badge fixes)
+
+- Centered CT and AT inside their actual 24×24 visible badge area.
+- Restored the lower/right gold frame and transparent texture padding.
+  Letter proportions, palettes and draw positions are preserved.
+- Only two native WND image payloads change; the executable, MAP and
+  all other resources retain 0.1.16 content. Asset checks pass; in-game
+  visual confirmation remains pending. Local build only.
+- All 37 disc-file checks pass. The full shared graphics renderer matches
+  the incremental WND patch exactly. ISO SHA-256:
+  `5e181905226266c4ea51f769acf219e24c62ee18e2edf851011a1924cbb3739f`.
+
+## PS2 0.1.16 — 2026-10-06 (local weapon and battle UI fixes)
+
+- Translated Weapons and the solid/physical weapon flag (S). Assist uses
+  A to fit the native one-character attribute buffer.
+- Fixed its missing terminator, preventing stale weapon names from
+  spilling into attribute columns. Long weapon names fit their column
+  with proportional scaling and a shared baseline.
+- Abbreviated Giganos Soldier to Giganos Sldr. only in battle forecasts.
+- Translated the shared Critical image and added exact whole-label English
+  fallbacks for cached Will, Critical and Weapons strings.
+- Native execution and preservation checks pass. Battle-animation visual
+  confirmation of Will/Critical remains pending. Local build only.
+- All 37 disc-file checks pass. Fresh 4x PCSX2 boot confirms all
+  177 hook/reference checks and the native segment, with no opcode/TLB
+  warnings. ISO SHA-256:
+  `d5d904e771e2f72410b757f250d2eca89568cefa547628b5bc0eb75419b4d066`.
+
+## PS2 0.1.15 — 2026-10-06 (local map support captions)
+
+- Translated the native map overlays to Support Atk (red), Assist Atk
+  (yellow) and Support Def (blue), following the PSP UI terminology.
+- Decoded and re-encoded the native PSMT4 image upload layout. Fitted the
+  English captions with a shared baseline and natural font proportions.
+- Preserved the palettes, image bounds, numeric counters, executable and
+  all non-caption content. Local build only; no release or push.
+- Pixel round trips and all 4,096 GS address positions pass. Decoded
+  assets are visually verified; actual in-game confirmation remains pending.
+- Native campaign/font/difficulty checks and all 37 disc readbacks pass.
+  Final ISO SHA-256:
+  `ecdaa12f194f5db0a9a6b0abefde5bcec4240047311254332e9f22e1db452360`.
+
+## Save converter handoff 0.1.0 — 2026-10-06 (documentation and references)
+
+- Created the Retro Trans Tools handoff for PS2 ↔ PSP MX save conversion,
+  including destination campaign profiles, user-selected PS2 balance and
+  the existing in-game New Game difficulty selection.
+- Documented observed containers, checksums, the MXBD difficulty marker,
+  PSP crypto requirements, added-stage constraints and unmapped fields.
+- Packaged numeric balance evidence, extraction-only card reader, pure
+  checksum/marker reference functions, tests and a SHA-256 file manifest.
+  Synthetic corruption/unknown-marker tests and read-only private fixture
+  checks pass. No cross-platform conversion or emulator acceptance claimed.
+- Local handoff only; game build remains PS2 0.1.14. No release or push.
+
+## PS2 0.1.14 — 2026-10-06 (local save/setup/series UI fixes)
+
+- Translated memory-card checking, system-data overwrite and saving dialogs,
+  covering the alternate checking paths. Retained the native progress bar.
+- Aligned Yes and No to the same left edge in the confirmation menu.
+- Translated Protagonist Setup and removed the Japanese age suffix. Moved
+  the Name/Nick/Age value column 32 pixels right to clear the labels.
+- Replaced the partial Garmraid and Cerberus descriptions with complete
+  English lines fitted to the existing portrait area. Translated Change
+  Settings and Finish Setup on the final new-game confirmation screen.
+- Centered series selector titles using native VWF measurements, with
+  uniform scaling for long names inside the title box. Font proportions,
+  baseline and the original font context are preserved.
+- Native validation covers nine save-dialog branches, both protagonists,
+  both six-row unit descriptions, the actual Yes/No initializer and 40
+  series-title cases, including Japanese fallback and an extra-long title.
+- PSP opening, both extra stages, balance and all campaign/database files
+  retained. Previous builds preserved. No GitHub release requested.
+- All 37 disc resource checks and fresh PCSX2 loaded-byte checks pass.
+  Protagonist Setup is visually confirmed; remaining reported panels
+  have native validation, with visual confirmation pending.
+
+## PS2 0.1.13 — 2026-10-06 (local roster/System UI fixes)
+
+- Shortened the native roster's scrolling headings to Wpn, Cost, Und, Rng,
+  P.Rng and Atk. Translated the two direct roster Repair draw paths to Cost.
+- Translated the actual Objectives header, including the second literal's
+  pointer formed in the header call's delay slot.
+- Translated all eight System rows and their choices. Used Std for the
+  standard unit display choice to keep the original option spacing clear.
+- Native checks execute all 18 setting selections and their 26 text draws,
+  14 roster descriptors, both direct Cost paths, Objectives and fallback.
+  Label/choice widths and original option values pass validation.
+- Prior font, description, footer and header fixes retained. PSP opening,
+  both extra scenarios, balance, campaign/database resources and prior
+  local ISO builds preserved. No GitHub release requested.
+
+## PS2 0.1.12 — 2026-10-06 (local detail/search/roster UI fixes)
+
+- Translated Skill Search, Ability Search and Allied Units headers, including
+  their Enemy/Neutral/Unit Info variants. Translated roster Status/Edit/Info,
+  Will and the remaining GP-relative Move labels.
+- Translated weapon Attr. and cached None/Yes/Pierce/Spread/Null/Weaken flags.
+  Right-aligned values now use real VWF measurements. Used Asst in the native
+  four-character attribute buffer to prevent the clipped Assist label.
+- Kept compact Will/Critical/Skill labels on original storage paths as well
+  as translated pointers, and moved Ammo values right to clear their label.
+- Reflowed 102 skill/ability descriptions using PS2 glyph advances, at most
+  512 pixels and three lines. Condensed two long ability descriptions while
+  retaining their conditions, effects and exceptions.
+- Native checks cover six header branches, five GP-relative draw paths,
+  27 flag/width cases and 179 description-line reads. Original sentence IDs
+  and all numeric database records are retained. Campaign/font/balance and
+  Prologue checks pass. Visual checks are recorded separately in the reports.
+- PSP opening, both extra scenarios and prior builds retained. Local only.
+
+## PS2 0.1.11 — 2026-10-06 (local font and battle UI fixes)
+
+- Corrected Latin dialogue proportions: native 20-by-30 dialogue cells now
+  draw Latin letters at 20-by-20, with matching width measurements. The 4x
+  glyph atlas and shared baseline are retained; Japanese cells are unchanged.
+- Preserved full-height numbers in native half-width numeric fields, and
+  shortened the terrain movement heading to Mv to leave room for the grades.
+- Translated the remaining Move/Status commands, repair/personality labels,
+  combat stats, Spirit Commands heading, terrain markers and weapon accuracy
+  and support labels. Compact terrain labels are A/L/Sp/W/U.
+- Shortened weapon headings to Power/Range/Hit and footer labels to Will,
+  Critical and Skill so they leave room for their values.
+- Moved Pilot Stats SP costs to the right. Longer Spirit names scale uniformly
+  inside their own field and keep the baseline aligned with neighboring rows.
+- Preserved the PSP opening, both extra scenarios, all existing translated
+  scripts and portraits, and selectable balance. Local build only; no release.
+- Native font geometry, UI name-fit/cost layout and campaign regression checks
+  pass. All disc resources pass validation. PCSX2 screenshots confirm the PSP
+  opening, corrected researcher dialogue and English command menu. Final
+  Unit Stats, Pilot Stats and Weapon Data visual checks remain pending.
+
+## PS2 0.1.10 — 2026-10-05 (local Prologue corrections)
+
+- Restored the PSP's empty pre-battle events on both routes. The first spoken
+  line is Hugo's Wolf 1 radio call; removed the substituted PS2 lab opening.
+- Fixed Game Over falling into an unusable Intermission during the Prologue.
+  Its native first-battle retry now includes the added Prologue battle slot.
+- Ported the correct researcher bust-up and its dialogue expression into the
+  native PS2 portrait archive. Original portrait assets and all other 201
+  script blocks remain unchanged; no emulator texture replacement is used.
+- Passed 98 native defeat dispatch/retry cases, native researcher portrait
+  archive reads and the font/translation/balance/campaign regressions.
+  Fresh PCSX2 new game confirms Hugo's PSP opening and the correct researcher
+  portrait. All 37 disc resources pass validation; prior builds are preserved.
+  Full in-game defeat/clear and memory-card save/load validation remains pending.
+- Local build only; no GitHub publication.
+
+## PS2 0.1.9 — 2026-10-05 (local second PSP extra scenario)
+
+- Added PSP scenario 30, Zeorymer Sorties at Dawn, and its reworked scenario
+  29, What Gnaws at the "Heart", with all six reviewed English scenes.
+- Added the seventh native chapter location, deployments, native PS2 asset
+  references for the additional Dragoon/Aqua rows and an English title card.
+  Preserved original PS2 terrain heights, graphics and selectable balance.
+- Adapted nine PSP portrait-cache commands to the native PS2 no-op, keeping
+  event operands and jump indexes. Fixed objective-title group/index mapping,
+  including the Prologue footer; retained the 0.1.8 chapter-number repair.
+- Native loaders, progression/history, branch masks, save-field serialization,
+  card reads and font/translation/difficulty/Prologue regressions pass.
+  Full stage 29/30 battle clear and in-game save/load remain pending.
+- Packaged from the original disc with current English resources to fit a
+  single-layer DVD. New games only; no existing-save migration or GitHub release.
+- Fresh PCSX2 boot and read-only loaded-byte checks pass for all hooks and
+  tables, with no CPU-opcode/TLB warnings. The opening FMV was observed.
+
+## PS2 0.1.8 — 2026-10-05 (local chapter-number fix)
+
+- Fixed the first story title card displaying Chapter 2 after the added
+  Prologue. Both native card-animation paths now display Chapter 1 there;
+  subsequent story numbers also exclude the training Prologue.
+- Corrected both objective-window number paths to use the same convention.
+  Changed four display instructions only; native battle-clear counts, save
+  fields, campaign progression, font and translated resources are retained.
+- Passed 64 native card-animation cases and 24 objective-number cases across
+  both robot routes, including reproduction of the old off-by-one behavior.
+  Entry, scene/deployment, font/translation and difficulty checks also pass;
+  retained disc resources were rehashed and both filesystems read the new ELF.
+- The 0.1.8 card has not yet been visually checked in PCSX2. Objective-footer
+  title lookup is a separate pending issue; battle clear/save-load and stage
+  30 remain pending. No GitHub push or release.
+
+## PS2 0.1.7 — 2026-10-05 (local Prologue entry fix)
+
+- Fixed New Game skipping the added Prologue. Its native completion event
+  hard-coded deployment group zero for both robot routes, bypassing the
+  extended campaign list. Both starts now use Prologue group four; campaign
+  state agrees while retaining the original initial history slot zero.
+- Added execution checks for the actual New Game completion event. They
+  reproduce the old skip and verify both robot routes in both balance modes,
+  with unchanged stack, difficulty and initial campaign history.
+- Both Prologue mission screens were reached in isolated PCSX2: Garmraid
+  with PS2 balance and Cerberus with PSP balance. These UI tests resumed an
+  owned New Game setup checkpoint with the entry fix migrated; fresh disc
+  boot was verified separately. The objectives footer still shows the
+  original stage-1 title, recorded for follow-up.
+- Retained the 0.1.6 resources and added scenes. Stage 30 and full battle-clear /
+  memory-card acceptance remain pending. No GitHub push or release.
+
+## PS2 0.1.6 — 2026-10-05 (local playable Prologue candidate)
+
+- Added the PSP Prologue battles for both robot routes, with eight English
+  scene blocks, two native deployments and campaign links into stage 1.
+  Reused the exact existing PS2 battlefield and matching selection image.
+- Added the faceless Researcher record in unused pilot slot 433. Preserved
+  all existing gameplay records, translations, native 4x VWF and balance mode.
+- Fixed chapter-name writes overwriting progression counts/first locations.
+  Restored the fourteen chapter records and corrected the clean builder's
+  field boundary from 64 to 56 bytes.
+- Native scene/deployment loads, route selectors, database checks and six
+  campaign save-field round trips pass. In-game battle clear/save-load checks
+  remain pending. This candidate is for new games with a separate test card;
+  existing-save location migration is not implemented. Stage 30 is not yet
+  ported. No GitHub push or release.
+- Packaged disc boots in isolated PCSX2: added code/hooks/tables match live
+  memory; opening FMV and English title-demo dialogue observed; no opcode/TLB
+  warnings. Isolated controller toggle macros work around missed short taps;
+  New Game setup opens. The user subsequently confirmed it skips the Prologue
+  and starts the original stage 1; corrected in 0.1.7. Prologue battle
+  completion and memory-card acceptance are still pending.
+
+## PS2 0.1.5 — 2026-10-05 (local difficulty selection fix)
+
+- Fixed the missing PS2 / PSP choices below the New Game balance message.
+  The opening animation passed its fifth argument in the wrong register, so
+  it never advanced. Corrected the PS2 calling convention and copied the
+  complete confirmation-window vtable, including its cursor geometry methods.
+- Added checks that execute five opening frames and the native render
+  dispatcher, verify both labels/positions, and navigate up/down through both
+  choices. Deliberately reintroducing either bug now fails the checks.
+- Retained all English resources byte-for-byte, checked every preserved disc
+  file hash, and verified the corrected executable through ISO9660 and UDF.
+  Font/translation, 3,072 balance cases and save-marker tests continue to pass.
+- Isolated PCSX2 boot passes: full native segment/hooks match RAM, opening FMV
+  observed, zero opcode/TLB warnings. Visual acceptance and real save/reload
+  remain pending because Windows activation returned Access is denied twice.
+  No GitHub push or release.
+
+## PS2 0.1.4 — 2026-10-05 (local optional PSP balance prototype)
+
+- Added a native New Game dialogue with **PS2 - Original** and **PSP - Harder**
+  choices. PS2 is selected initially; Cancel retains the existing mode and
+  returns through the original title-menu path. Restored normal Yes/No labels
+  afterward because another title-screen prompt reuses the same window.
+- Harder mode uses the original PSP database's exact 139 shared enemy HP values
+  (+50%) and 294 nonzero shared unit funds rewards (-20%). Excluded the PSP-only
+  Dragoon occupying an empty PS2 slot. Allied HP and all other numeric fields
+  retain PS2 values; the live database is never multiplied or rewritten.
+- Stored a versioned difficulty marker in unused settings-tail padding for
+  scenario and system/battle saves, covered by both native save checksums.
+  Kept payload lengths unchanged. Old/invalid markers select PS2 balance;
+  scenario mode restores before unit deserialization. No save conversion.
+- Retained all English campaign/database/battle/title-card translations and
+  the native 4x VWF. The PS2 campaign and one favorite-series selection remain;
+  this first implementation does not bring in PSP-exclusive scenarios or all
+  possible PSP event changes. No GitHub push or release.
+- Passed 3,072 native record cases, fallback, original controller-handler
+  notifications, confirmation/cancellation, shared-box cleanup, save-marker
+  round trips and native checksum checks using both extracted save formats.
+  Complete campaign-disc readback passed; final menu cleanup changed only the
+  appended ELF, independently checked through ISO9660 and UDF. All other
+  verified resource extents and bytes remain. Translation/font checks pass.
+- Isolated PCSX2 2.8.2 boots to the opening FMV. Full native segment, all hooks
+  and script tables match RAM; no unknown CPU opcodes or TLB misses. Windows
+  activation still returns `GetCursorPos failed: Access is denied (0x80070005)`.
+  Visual menu checks, starting/playing both modes, real save/reload and physical
+  PS2 acceptance remain pending; this is a local test build.
+
+## PS2 0.1.3 — 2026-10-05 (local campaign port)
+
+- Ported all 49,659 readable story string slots across 186 PS2 scenes from
+  the reviewed PSP campaign. Reviewed PS2 wording differences separately;
+  preserved every original command array across all 192 archive blocks.
+- Ported all 51,434 battle-caption entries across 370 pilot blocks. Added
+  native overflow handling while retaining the original 0x4800-byte read.
+- Ported 1,499 database names and all non-dummy library/help/ability/skill/
+  part descriptions. Numeric gameplay records retain their original bytes.
+- Ported 14 chapter names, 66 scenario records/summaries, all 198 title-card
+  atlases and 404 nonempty names among 630 terrain records. Kept the PS2-only
+  title "Hades Sorties at Dawn" and its source-specific summary.
+- Ported opening/ending narration with original timing/end markers, 776 menu
+  string locations, 32 spirit names, 23 window icons and the intermission header.
+- Retained the corrected native 4x Genei LateGo VWF. No emulator texture
+  replacement, gameplay rebalance, save conversion or GitHub release.
+- Fixed a startup resource-heap overflow found during testing: released
+  unreferenced source sentence storage and moved 2,054 long translated rows
+  (320,050 bytes) to the executable pool. FIX00 is now 516,744 bytes, slightly
+  smaller than the original. Sentence IDs and referenced dummy rows remain valid.
+- Disc readback passes for all 37 files through ISO9660 and all eight replaced
+  files through UDF. The 29 unrelated files retain their bytes and disc locations.
+  All script blocks, native font checks, 45 caption/spirit cases and 4,332
+  description-row reads pass. Isolated PCSX2 boot/RAM checks pass, including
+  the complete English database, appended font/text segment and native hooks.
+- Remaining: shared battle/status atlas artwork, other PS2 menu/layout differences,
+  in-game visual/full-campaign checks and physical PS2 testing. Automated desktop
+  activation returned Access is denied; screenshots did not provide usable visual QA.
+
+## PS2 0.1.2 — 2026-10-05 (local font baseline correction)
+
+- Corrected uneven letter alignment reported in the user's opening and stage-1
+  dialogue screenshots. The old atlas resized each 80px glyph vertically to
+  its independently hinted 20px bounds, producing a full original-pixel
+  difference between letter bottoms.
+- Retained the font's common high-resolution baseline and natural vertical
+  outlines. Deep descenders have two guard rows; ordinary letter bottoms now
+  vary by at most one high-resolution pixel (one quarter of an original pixel).
+- Kept every glyph advance, all renderer hooks and the complete dialogue MAP
+  archive byte-identical to 0.1.1. Only Latin atlas pixels change. Coverage is
+  still the opening and both stage-1 routes; native 4x VWF remains in use.
+- Added 85 baseline/vertical-bound checks alongside existing font execution
+  and atlas tests. Stored the four user captures and a labeled atlas comparison
+  in work/ui/ps2. The comparison is a specimen, not an in-game screenshot.
+- Finished-disc readback passed for all 37 files and 192 scripts. Boot/RAM
+  verification passes in an isolated PCSX2 profile, including the corrected
+  atlas, all font/heap patches and both script/MAP tables; no unknown CPU
+  opcodes. The user's running 0.1.1 session was not interrupted.
+- No GitHub push/release. Corrected dialogue appearance requires a new
+  in-game check; the original 0.1.1 test disc is preserved.
+
+## PS2 0.1.1 — 2026-10-05 (local opening/stage-1 dialogue build)
+
+- Ported the opening and both stage-1 routes from reviewed PSP English:
+  1,321 translated string-table entries across five PS2 scenes. Four technical
+  scene labels are retained. Later scenes and other translation areas remain pending.
+- Reviewed seven PS2 variants covering 11 slots, including source differences
+  involving Medius/AI1, Aqua's role, Hugo's thought and an enemy taunt. Stored
+  English-only overrides with source hashes and reasons.
+- Added a PS2 SRWL/archive builder preserving all 192 original command arrays
+  and every untranslated string. Adjusted script-sector and MAP section tables
+  for the enlarged text, retained the native 4x VWF and appended the rebuilt
+  MAP/ELF while keeping all unrelated disc sectors unchanged.
+- Added ISO9660/UDF readback, all-block script verification and input/source
+  identity checks. The finished ISO boots in isolated PCSX2; font patches and
+  updated script/MAP tables match RAM. In-game English dialogue/descender and physical PS2 checks
+  remain pending. Reproduce and test instructions: docs/ps2_dialogue.md.
+- User captures subsequently confirmed opening and stage-1 dialogue appears
+  in English, with intact portraits/backgrounds. Uneven letter alignment was
+  reported and addressed in 0.1.2; this is not a font visual acceptance pass.
+- Local development build only; no GitHub push/release or save conversion.
+
+## PS2 0.1.0 — 2026-10-05 (local font-only development build)
+
+- Recorded the user's actual unit-stats screenshot: Latin labels and numbers,
+  Japanese fallback and unit/pilot graphics show no visible clipping or overlap.
+  Fresh RAM verification still passes. This is a partial visual pass; lowercase
+  descenders, dialogue, other renderer contexts and physical PS2 remain pending.
+- Started the separate SLPS-25345 translation port with native Genei LateGo
+  Medium Latin glyphs at 96×96 (4× the original 24×24 cells), proportional
+  drawing and matching width measurement. Original Japanese fallback is retained.
+- Added an ELF segment for 86 glyphs and 17 hooks, moved the heap boundary,
+  and kept the original BSS clear and STATIC/font region. Emulator texture
+  replacement is disabled; this font is stored inside the game executable.
+- Added repeatable font/disc builders, MIPS execution verification and a
+  read-only PINE debugging client. Corrected EE register aliases and R5900
+  floating comparison encoding during validation.
+- Appended the enlarged ELF while preserving all original asset LBAs; updated
+  both ISO9660 and UDF metadata, including full-sector UDF descriptor CRCs.
+- Packed Latin ink into the quad's actual UV interval to avoid clipping narrow
+  glyphs. Added bounds checks for all 86 atlas cells, including descenders.
+- Passed 1,368 width, 20 Japanese fallback, 344 renderer and 86 glyph/upload
+  execution cases. Runtime and disc verification are recorded under work/output.
+  Remaining in-game visual checks and physical PS2 testing remain pending.
+- No PS2 story/UI translation insertion, save conversion, GitHub push or release.
+  Technical details and continuation steps: docs/ps2_vwf.md.
+
+## Documentation — 2026-10-05
+
+- Compared the new PS2 MX scenario/system saves with integrity-checked, offline
+  decoded PSP samples. Confirmed identical payload sizes and verified both PS2
+  checksum pairs; documented conversion limits in `docs/save_conversion_assessment.md`.
+- Added a read-only PS2 memory-card extractor and recorded save comparison
+  hashes under `work/output/`. Original saves remain unchanged; no converted
+  save, game build or release was created.
+- Inspected the original PS2 SLPS-25345 ISO without modifying it and documented
+  measured reuse with the PSP translation in `docs/ps2_reuse_assessment.md`.
+- Verified the PS2 script scene/sector tables, tagged database, battle caption
+  block format and scenario title records. Recorded inventory and comparison
+  counts under `work/output/`; extracted source text stays ignored.
+- Recommended shared translation sources with separate PS2/PSP build tools,
+  verification and Retro Trans release identities. No PS2 build or release.
+- Follow-up difficulty assessment confirmed 139 matching units with exactly
+  50% higher base HP on PSP. Verified that English PSP 0.4.9 preserves all 512
+  original PSP HP and reward fields; recorded the comparison in `work/output/`.
+
 ## 0.4.9 release update — 2026-10-04
 
 - Added `SRWMX-English-v0.4.1-to-v0.4.9.xdelta` at the project lead's request.

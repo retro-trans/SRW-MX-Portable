@@ -166,6 +166,10 @@ def main(iso_path, version, *rest):
         static2_new, overflow = insert_text.patch_static2(static2_new)
         boot_new = insert_text.patch_overflow(boot_new, overflow)
         boot_new = insert_text.patch_centering(boot_new)
+        import fix_psp_levelup
+        boot_new = fix_psp_levelup.patch_boot(boot_new)
+        import fix_psp_menu_alignment
+        boot_new = fix_psp_menu_alignment.patch_boot(boot_new)
         repl['/PSP_GAME/PARAM.SFO'] = insert_text.patch_sfo(iso_read(iso, '/PSP_GAME/PARAM.SFO'))
         import redraw_banners                       # battle / status-effect banners, both copies
         static2_new = redraw_banners.patch(static2_new, 'STATIC2_ADD.BIN', os.path.join(build, 'banners.png'))

@@ -1,5 +1,12 @@
 # Glossary decisions
 
+The PS2-only scenario title uses **Hades Sorties at Dawn**, following the
+[Akurasu MX flow chart](https://akurasu.net/wiki/Super_Robot_Wars/MX/Flow_Chart).
+The PSP title differs, so its English title/card is not copied into that PS2
+scenario. The PS2 summary likewise retains "most" Hakke robots lost and the
+final move, rather than importing the changed PSP premise. These are
+source-version differences, not global glossary overrides.
+
 Stage24 uses Akurasu's Terminal Colony, Operation Moonraker and source-short
 Anaheim. Getter energy and Mutron energy are literal compounds preserving the
 source wording. Hokushin's ritual seven/nine luminaries is supported by academic
@@ -1102,3 +1109,11 @@ Hari speaker fields remain protected.
 Weapon names wider than the weapon list column (2026-10-04) also get a short display form, listed in
 `WEAPON_SHORT` in `tools/build_static2_names.py`. Tenku Shin Ken (sword) moves are shown as
 "Shinken: ..." and Tenku Chushin Ken (fist) moves as "Chushin: ..."; machine cannons as autocannons.
+
+## PS2 weapon and battle UI abbreviations 0.1.16
+
+Giganos Soldier remains the full name; only battle forecasts use Giganos Sldr.
+to clear Lv. The Assist marker uses A because the native attribute buffer
+holds one encoded character plus a terminator. S denotes the solid/physical
+weapon flag beside the existing B beam flag. These are compact UI labels,
+not canonical name changes. Akurasu MX terms were refreshed for this build.

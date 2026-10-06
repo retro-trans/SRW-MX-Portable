@@ -1,0 +1,294 @@
+{
+  "version": "0.1.10",
+  "source_build": "0.1.9",
+  "scene_count": 203,
+  "scenes": [
+    {
+      "scene": "i056a",
+      "index": 65,
+      "commands": 72,
+      "bytes": 10240,
+      "translated_strings": 45,
+      "source_sha256": "e9e14dc7951accd265dc0cd74cc4875b74a84d5a33d198ab2804c2d77bb4816d",
+      "target_sha256": "c68662dedf163321d0f459e8c52b2482216da64b70f9ca879339a878504fba86",
+      "psp_portrait_cache_commands": []
+    },
+    {
+      "scene": "i056b",
+      "index": 66,
+      "commands": 209,
+      "bytes": 28672,
+      "translated_strings": 156,
+      "source_sha256": "299701875342a1f984ab066dcf1a6f9c403f4c958c1686dccc97c5377a64777e",
+      "target_sha256": "9a4b6bd069f5f3bdabf65f38332d18220593342ccbd077701a3097217f6c3b9e",
+      "psp_portrait_cache_commands": []
+    },
+    {
+      "scene": "s0560",
+      "index": 159,
+      "commands": 1003,
+      "bytes": 83968,
+      "translated_strings": 410,
+      "source_sha256": "4153c50ca1cdeca1357ce8cd72cebd7f5c2b2b561ee632a993cebe57cb6708c6",
+      "target_sha256": "7c59727751a65514e8002c87a0e357bd5af536f05b8fa6bb4c07a49ec396a044",
+      "psp_portrait_cache_commands": []
+    },
+    {
+      "scene": "i057a",
+      "index": 200,
+      "commands": 278,
+      "bytes": 45056,
+      "translated_strings": 221,
+      "source_sha256": "255d208d2b21b156bdec8fa673b19ae3c0e6ccb8de47a45852f10367b0ee2f56",
+      "target_sha256": "6ebef68d8e3e4cf97d7f1ed293d29258ac51da0b161263fcaf7ad4357833f879",
+      "psp_portrait_cache_commands": [
+        5,
+        253,
+        255,
+        259
+      ]
+    },
+    {
+      "scene": "i057b",
+      "index": 201,
+      "commands": 71,
+      "bytes": 10240,
+      "translated_strings": 41,
+      "source_sha256": "cd85773f6c5af6833f6384e666e0ef5b9e01616cb1bc2ac307cd7894fd2fcbeb",
+      "target_sha256": "57557beab8275991bcbe95d50246e480b0b829470e47d9d76a3460c5c38961d1",
+      "psp_portrait_cache_commands": [
+        9
+      ]
+    },
+    {
+      "scene": "s0570",
+      "index": 202,
+      "commands": 1505,
+      "bytes": 145408,
+      "translated_strings": 748,
+      "source_sha256": "6fe578d0db34a3fcc4fb1b29d53960f71f587de5a56d0ba93bebc96c5fd092c6",
+      "target_sha256": "2dc83bef1e54e47a595f1bf4b6581f0a58d2c7535d0ecb40b8ba29bcc07fd59d",
+      "psp_portrait_cache_commands": [
+        801,
+        850,
+        1122,
+        1201
+      ]
+    }
+  ],
+  "script_sector_table_va": "0x7cea80",
+  "script_name_table_va": "0x7cedb0",
+  "scenario_id": 68,
+  "location_id": 68,
+  "chapter": 7,
+  "location_order": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    68,
+    34
+  ],
+  "story_order": [
+    {
+      "number": 29,
+      "group": 12,
+      "scene": "s0570",
+      "title": "What Gnaws at the \"Heart\""
+    },
+    {
+      "number": 30,
+      "group": 10,
+      "scene": "s0560",
+      "title": "Zeorymer Sorties at Dawn"
+    }
+  ],
+  "native_map_id": 90,
+  "native_map_dimensions": [
+    24,
+    32
+  ],
+  "all_terrain_ids_match": true,
+  "ps2_map_bytes_preserved": true,
+  "psp_portrait_cache_adapted_without_changing_jump_indexes": true,
+  "deployments": [
+    {
+      "scene": "s0570",
+      "chapter": 7,
+      "group": 12,
+      "units": 132
+    },
+    {
+      "scene": "s0560",
+      "chapter": 7,
+      "group": 10,
+      "units": 46
+    }
+  ],
+  "added_unit": {
+    "id": 156,
+    "template_id": 69,
+    "name": "Dragoon",
+    "native_weapons": [
+      301,
+      302,
+      303,
+      304
+    ]
+  },
+  "added_pilots": [
+    {
+      "id": 431,
+      "name": "Aqua",
+      "native_portrait": 315,
+      "native_caption_bank": 315
+    },
+    {
+      "id": 432,
+      "name": "Aqua",
+      "native_portrait": 315,
+      "native_caption_bank": 315
+    }
+  ],
+  "original_scenario_ids_preserved": true,
+  "prologue_preserved": true,
+  "graphics": {
+    "animation_id": 166,
+    "animation_bytes": 532480,
+    "animation_offset": 72757248,
+    "descriptor": [
+      72757248,
+      73019392,
+      73086976,
+      73154560,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      73222144
+    ],
+    "english": "What Gnaws at the \"Heart\"",
+    "stage30_english": "Zeorymer Sorties at Dawn",
+    "title_layouts": [
+      {
+        "font_size": 20,
+        "lines": [
+          "What Gnaws",
+          "at the \"Heart\""
+        ],
+        "bounds": [
+          62,
+          7,
+          193,
+          44
+        ]
+      },
+      {
+        "font_size": 20,
+        "lines": [
+          "What Gnaws",
+          "at the \"Heart\""
+        ],
+        "bounds": [
+          62,
+          7,
+          193,
+          44
+        ]
+      }
+    ],
+    "texture_replacement": false,
+    "native_ps2_animation": true
+  },
+  "native": {
+    "objective_title_wrapper_va": "0x7cf610",
+    "psp_hp": 3900,
+    "psp_reward": 2000
+  },
+  "hooks": [
+    {
+      "name": "stage30_script_names",
+      "va": "0x339754",
+      "old": "7d00123c",
+      "new": "7d00123c"
+    },
+    {
+      "name": "stage30_script_names",
+      "va": "0x33975c",
+      "old": "24e24326",
+      "new": "b0ed4326"
+    },
+    {
+      "name": "stage30_script_sizes",
+      "va": "0x339588",
+      "old": "7d00023c",
+      "new": "7d00023c"
+    },
+    {
+      "name": "stage30_script_sizes",
+      "va": "0x339594",
+      "old": "00df4224",
+      "new": "80ea4224"
+    },
+    {
+      "name": "stage30_script_reads",
+      "va": "0x3396f4",
+      "old": "7d00013c",
+      "new": "7d00013c"
+    },
+    {
+      "name": "stage30_script_reads",
+      "va": "0x3396fc",
+      "old": "00df278c",
+      "new": "80ea278c"
+    },
+    {
+      "name": "stage30_debug_names",
+      "va": "0x306bdc",
+      "old": "7d00033c",
+      "new": "7d00033c"
+    },
+    {
+      "name": "stage30_debug_names",
+      "va": "0x306bec",
+      "old": "24e26324",
+      "new": "b0ed6324"
+    },
+    {
+      "name": "stage30_chapter_card_list",
+      "va": "0x4826cc",
+      "old": "10cf4b00",
+      "new": "f0f57c00"
+    },
+    {
+      "name": "stage30_objective_title_lookup",
+      "va": "0x224f18",
+      "old": "f41c0d0c",
+      "new": "843d1f0c"
+    },
+    {
+      "name": "stage30_objective_title_lookup",
+      "va": "0x2fe7d0",
+      "old": "f41c0d0c",
+      "new": "843d1f0c"
+    },
+    {
+      "name": "stage30_dragoon_balance",
+      "va": "0x7cd110",
+      "old": "00000000",
+      "new": "3c0f0000"
+    },
+    {
+      "name": "stage30_dragoon_balance",
+      "va": "0x7cd7d8",
+      "old": "0000",
+      "new": "d007"
+    }
+  ],
+  "existing_save_migration": "not implemented; new games only",
+  "gameplay_validation": "pending",
+  "github_release": false
+}

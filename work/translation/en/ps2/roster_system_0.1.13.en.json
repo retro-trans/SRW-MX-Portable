@@ -1,0 +1,400 @@
+{
+  "version": "0.1.13",
+  "source_build": "0.1.12",
+  "data_references": [
+    {
+      "site": "0x3c578c",
+      "source": "0x4c0ba0",
+      "old": "0x7cff06",
+      "target": "0x7d2647",
+      "english": "Cost"
+    },
+    {
+      "site": "0x3c58a4",
+      "source": "0x48f8b0",
+      "old": "0x7780b1",
+      "target": "0x7d2640",
+      "english": "Wpn"
+    },
+    {
+      "site": "0x3c59a0",
+      "source": "0x4c0bf0",
+      "old": "0x77b6df",
+      "target": "0x7d2650",
+      "english": "Und"
+    },
+    {
+      "site": "0x3c59bc",
+      "source": "0x4c0bf8",
+      "old": "0x77b6e8",
+      "target": "0x7d2657",
+      "english": "Rng"
+    },
+    {
+      "site": "0x3c59d8",
+      "source": "0x4c0c00",
+      "old": "0x4c0c00",
+      "target": "0x7d265e",
+      "english": "P.Rng"
+    },
+    {
+      "site": "0x3c59f4",
+      "source": "0x4c0c08",
+      "old": "0x77b5b9",
+      "target": "0x7d2669",
+      "english": "Atk"
+    },
+    {
+      "site": "0x3c5dc8",
+      "source": "0x4c0ba0",
+      "old": "0x7cff06",
+      "target": "0x7d2647",
+      "english": "Cost"
+    },
+    {
+      "site": "0x3c5fc4",
+      "source": "0x4c0ba0",
+      "old": "0x7cff06",
+      "target": "0x7d2647",
+      "english": "Cost"
+    },
+    {
+      "site": "0x3c6278",
+      "source": "0x4c0ba0",
+      "old": "0x7cff06",
+      "target": "0x7d2647",
+      "english": "Cost"
+    },
+    {
+      "site": "0x3c6340",
+      "source": "0x48f8b0",
+      "old": "0x7780b1",
+      "target": "0x7d2640",
+      "english": "Wpn"
+    },
+    {
+      "site": "0x3c63f4",
+      "source": "0x4c0bf0",
+      "old": "0x77b6df",
+      "target": "0x7d2650",
+      "english": "Und"
+    },
+    {
+      "site": "0x3c6408",
+      "source": "0x4c0bf8",
+      "old": "0x77b6e8",
+      "target": "0x7d2657",
+      "english": "Rng"
+    },
+    {
+      "site": "0x3c641c",
+      "source": "0x4c0c00",
+      "old": "0x4c0c00",
+      "target": "0x7d265e",
+      "english": "P.Rng"
+    },
+    {
+      "site": "0x3c6430",
+      "source": "0x4c0c08",
+      "old": "0x77b5b9",
+      "target": "0x7d2669",
+      "english": "Atk"
+    }
+  ],
+  "instruction_words": [
+    {
+      "va": "0x154ebc",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x154f50",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x154fe8",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x1550b0",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x155148",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x1551e0",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x1552a8",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x155340",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x1553d8",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x1159b0",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x115cb4",
+      "old": "0xc04c184",
+      "new": "0xc1f4a18"
+    },
+    {
+      "va": "0x153b4c",
+      "old": "0x3c050049",
+      "new": "0x3c05007d"
+    },
+    {
+      "va": "0x153b58",
+      "old": "0x24a52a88",
+      "new": "0x24a52782"
+    }
+  ],
+  "draw_mappings": [
+    {
+      "source": "0x492e90",
+      "target": "0x7d2670",
+      "english": "Grid"
+    },
+    {
+      "source": "0x492ea0",
+      "target": "0x7d2679",
+      "english": "Sound"
+    },
+    {
+      "source": "0x492eb0",
+      "target": "0x7d2684",
+      "english": "BGM Source"
+    },
+    {
+      "source": "0x492ec8",
+      "target": "0x7d2699",
+      "english": "BGM Switch"
+    },
+    {
+      "source": "0x492ee0",
+      "target": "0x7d26ae",
+      "english": "Rumble"
+    },
+    {
+      "source": "0x492ef8",
+      "target": "0x7d26bb",
+      "english": "Unit Display"
+    },
+    {
+      "source": "0x492f08",
+      "target": "0x7d26d4",
+      "english": "Cursor"
+    },
+    {
+      "source": "0x492f20",
+      "target": "0x7d26e1",
+      "english": "Rotation"
+    },
+    {
+      "source": "0x492f30",
+      "target": "0x7d26f2",
+      "english": "Stereo"
+    },
+    {
+      "source": "0x492f40",
+      "target": "0x7d26ff",
+      "english": "Mono"
+    },
+    {
+      "source": "0x4c1a48",
+      "target": "0x7d2708",
+      "english": "Each"
+    },
+    {
+      "source": "0x492f50",
+      "target": "0x7d2711",
+      "english": "Unit"
+    },
+    {
+      "source": "0x492f60",
+      "target": "0x7d271a",
+      "english": "Pilot"
+    },
+    {
+      "source": "0x4c1a50",
+      "target": "0x7d2725",
+      "english": "Fixed"
+    },
+    {
+      "source": "0x4c1a58",
+      "target": "0x7d2730",
+      "english": "Switch"
+    },
+    {
+      "source": "0x4c1a60",
+      "target": "0x7d273d",
+      "english": "Std"
+    },
+    {
+      "source": "0x4c1a68",
+      "target": "0x7d2744",
+      "english": "Type"
+    },
+    {
+      "source": "0x4c1a70",
+      "target": "0x7d274d",
+      "english": "Blink"
+    },
+    {
+      "source": "0x4c1a78",
+      "target": "0x7d2758",
+      "english": "Screen"
+    },
+    {
+      "source": "0x4c1a80",
+      "target": "0x7d2765",
+      "english": "Map"
+    },
+    {
+      "source": "0x492f70",
+      "target": "0x7d276c",
+      "english": "90 deg"
+    },
+    {
+      "source": "0x4c1a88",
+      "target": "0x7d2779",
+      "english": "Free"
+    },
+    {
+      "source": "0x4c0ba0",
+      "target": "0x7d2647",
+      "english": "Cost"
+    }
+  ],
+  "native_font": true,
+  "texture_replacement": false,
+  "psp_opening_preserved": true,
+  "draw_wrapper": {
+    "va": "0x7d2860",
+    "bytes": 48,
+    "table_va": "0x7d27a0",
+    "system_sites": [
+      "0x154ebc",
+      "0x154f50",
+      "0x154fe8",
+      "0x1550b0",
+      "0x155148",
+      "0x1551e0",
+      "0x1552a8",
+      "0x155340",
+      "0x1553d8"
+    ],
+    "repair_sites": [
+      "0x1159b0",
+      "0x115cb4"
+    ]
+  },
+  "roster_columns": [
+    {
+      "source": "0x48f8b0",
+      "english": "Wpn",
+      "font_size": 24,
+      "width": 43,
+      "minimum_spacing": 60
+    },
+    {
+      "source": "0x4c0ba0",
+      "english": "Cost",
+      "font_size": 24,
+      "width": 45,
+      "minimum_spacing": 60
+    },
+    {
+      "source": "0x4c0bf0",
+      "english": "Und",
+      "font_size": 24,
+      "width": 36,
+      "minimum_spacing": 60
+    },
+    {
+      "source": "0x4c0bf8",
+      "english": "Rng",
+      "font_size": 24,
+      "width": 36,
+      "minimum_spacing": 60
+    },
+    {
+      "source": "0x4c0c00",
+      "english": "P.Rng",
+      "font_size": 24,
+      "width": 52,
+      "minimum_spacing": 60
+    },
+    {
+      "source": "0x4c0c08",
+      "english": "Atk",
+      "font_size": 24,
+      "width": 36,
+      "minimum_spacing": 60
+    }
+  ],
+  "system_layout": {
+    "label_x": 28,
+    "first_option_x": 172,
+    "labels": [
+      {
+        "english": "Grid",
+        "width": 39
+      },
+      {
+        "english": "Sound",
+        "width": 56
+      },
+      {
+        "english": "BGM Source",
+        "width": 116
+      },
+      {
+        "english": "BGM Switch",
+        "width": 116
+      },
+      {
+        "english": "Rumble",
+        "width": 69
+      },
+      {
+        "english": "Unit Display",
+        "width": 116
+      },
+      {
+        "english": "Cursor",
+        "width": 64
+      },
+      {
+        "english": "Rotation",
+        "width": 81
+      }
+    ],
+    "row_spacing": 26
+  },
+  "retained_headers": {
+    "roster": "Allied Units",
+    "objectives": "Objectives",
+    "roster_branch": "0x147ed8",
+    "objective_text_setup": "0x153b4c"
+  }
+}

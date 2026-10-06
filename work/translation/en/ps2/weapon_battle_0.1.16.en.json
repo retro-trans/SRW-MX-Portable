@@ -1,0 +1,180 @@
+{
+  "version": "0.1.16",
+  "source_build": "0.1.15",
+  "instruction_words": [
+    {
+      "va": "0x173444",
+      "old": "0x90430002",
+      "new": "0x1821"
+    },
+    {
+      "va": "0x1799cc",
+      "old": "0xc04c184",
+      "new": "0xc1f4b30"
+    },
+    {
+      "va": "0x17a43c",
+      "old": "0xc04c184",
+      "new": "0xc1f4b30"
+    },
+    {
+      "va": "0x130610",
+      "old": "0x27bdff50",
+      "new": "0x81f4b54"
+    },
+    {
+      "va": "0x130614",
+      "old": "0x3c020047",
+      "new": "0x0"
+    },
+    {
+      "va": "0x1309b0",
+      "old": "0x27bdff50",
+      "new": "0x81f4b88"
+    },
+    {
+      "va": "0x1309b4",
+      "old": "0x3c020047",
+      "new": "0x0"
+    },
+    {
+      "va": "0x17348c",
+      "old": "0xc04c184",
+      "new": "0xc1f4bbc"
+    }
+  ],
+  "storage": [
+    {
+      "va": "0x4c20e8",
+      "english": "A",
+      "old": "8260829300000000",
+      "new": "8260000000000000"
+    },
+    {
+      "va": "0x4c20f8",
+      "english": "S",
+      "old": "8ec0000000000000",
+      "new": "8272000000000000"
+    },
+    {
+      "va": "0x493020",
+      "english": "Weapons",
+      "old": "95908aed914991f00000000000000000",
+      "new": "8276828582818290828f828e82930000"
+    },
+    {
+      "va": "0x4992b0",
+      "english": "Weapons",
+      "old": "95908aed914991f00000000000000000",
+      "new": "8276828582818290828f828e82930000"
+    },
+    {
+      "va": "0x49af68",
+      "english": "Critical",
+      "old": "834e838a83658342834a838b000000004486770014000000",
+      "new": "8262829282898294828982838281828c0000000000000000"
+    }
+  ],
+  "native_font": true,
+  "texture_replacement": false,
+  "psp_opening_preserved": true,
+  "forecast": {
+    "sites": [
+      "0x1799cc",
+      "0x17a43c"
+    ],
+    "wrapper": "0x7d2cc0",
+    "full": "0x7d2c80",
+    "short": "0x7d2c9f",
+    "english": "Giganos Sldr.",
+    "full_name_preserved": true,
+    "name_x": [
+      345,
+      44
+    ],
+    "level_x": [
+      517,
+      224
+    ]
+  },
+  "cached_labels": [
+    {
+      "entry": "0x130610",
+      "wrapper": "0x7d2d50",
+      "resume": "0x130618",
+      "original_prefix": "50ffbd274700023c",
+      "labels": [
+        {
+          "english": "Will",
+          "source": "0x7d2d00",
+          "target": "0x7d2d05"
+        },
+        {
+          "english": "Critical",
+          "source": "0x7d2d0e",
+          "target": "0x7d2d1b"
+        },
+        {
+          "english": "Weapons",
+          "source": "0x7d2d2c",
+          "target": "0x7d2d35"
+        }
+      ]
+    },
+    {
+      "entry": "0x1309b0",
+      "wrapper": "0x7d2e20",
+      "resume": "0x1309b8",
+      "original_prefix": "50ffbd274700023c",
+      "labels": [
+        {
+          "english": "Will",
+          "source": "0x7d2d00",
+          "target": "0x7d2d05"
+        },
+        {
+          "english": "Critical",
+          "source": "0x7d2d0e",
+          "target": "0x7d2d1b"
+        },
+        {
+          "english": "Weapons",
+          "source": "0x7d2d2c",
+          "target": "0x7d2d35"
+        }
+      ]
+    }
+  ],
+  "weapon_names": {
+    "site": "0x17348c",
+    "wrapper": "0x7d2ef0",
+    "column": 0,
+    "name_width": 182,
+    "fit_width": 174,
+    "uniform_scaling": true,
+    "baseline_preserved": true
+  },
+  "map_caption": {
+    "asset": "M_19",
+    "english": "Critical",
+    "pixel_offset": "0x7437300",
+    "bytes": 2048,
+    "source_sha256": "e07a36e6cd2f27bc096858210dcd57c9473d06757ec4baf6df8c2a46e9b5055b",
+    "target_sha256": "cdb7d08aa155f24739cee27a9c3bf62ff59f5baee52bee965c40d342d4701850",
+    "layout": {
+      "font": "Bahnschrift Bold Condensed",
+      "font_size": 26,
+      "shared_baseline": 24,
+      "center_x": 63.5,
+      "ink_bounds": [
+        33,
+        5,
+        95,
+        25
+      ],
+      "horizontal_rescaling": false
+    },
+    "source_map_sha256": "725897f817392baa92c15caf42638aff7858cb6fa865c2deb6cf4a3a5d9c0942",
+    "target_map_sha256": "ecfaefde75c84581027d62d7a1d1279e366ab89c237a9e92df942b14e6972447"
+  }
+}

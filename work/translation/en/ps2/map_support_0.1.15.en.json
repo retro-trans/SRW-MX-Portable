@@ -1,0 +1,96 @@
+{
+  "version": "0.1.15",
+  "source_build": "0.1.14",
+  "labels": [
+    {
+      "asset": "M_65",
+      "english": "Support Atk",
+      "pixel_offset": "0x746b900",
+      "pixel_bytes": 2048,
+      "source_sha256": "b98a7a597d4117dadae3744ec5c5b0b9fcb8aacb920d5ac74346426b5d7ee788",
+      "target_sha256": "c18a251538bdd784eee680b96fabe31594d4e93bcdaacb66c37e2e1eb0b240ff",
+      "layout": {
+        "font": "Bahnschrift Bold Condensed",
+        "font_size": 26,
+        "shared_baseline": 24,
+        "center_x": 63.5,
+        "ink_bounds": [
+          13,
+          5,
+          115,
+          30
+        ],
+        "horizontal_rescaling": false
+      },
+      "palette_sha256": "50d5a0f97d088528254a11bbe5d281bb216cb611929a1fd4163305cb63836a19"
+    },
+    {
+      "asset": "M_66",
+      "english": "Support Def",
+      "pixel_offset": "0x746c200",
+      "pixel_bytes": 2048,
+      "source_sha256": "a146fa2c7a51c01db17d5ed82d8bdeda9b28a27b4d446fe149bfb04cb75fef92",
+      "target_sha256": "762fe8317ac3e50d13b63d6b67fde6d8d675c32560fe99d7f9bced90e2599dae",
+      "layout": {
+        "font": "Bahnschrift Bold Condensed",
+        "font_size": 26,
+        "shared_baseline": 24,
+        "center_x": 63.5,
+        "ink_bounds": [
+          13,
+          5,
+          114,
+          30
+        ],
+        "horizontal_rescaling": false
+      },
+      "palette_sha256": "61e4bfe02e5bb10cddc974ce3f485a5ca9fda8fda083a7fca3eea1d1067577bf"
+    },
+    {
+      "asset": "M_67",
+      "english": "Assist Atk",
+      "pixel_offset": "0x746cb00",
+      "pixel_bytes": 2048,
+      "source_sha256": "2e47fa562c3c79e69da75f47972b1a2d2cc05689c9da728fdd2e9b17c94cc396",
+      "target_sha256": "bce1abd5219db671027d51b30a37dffea4c7f19f5c4e6487777c861ae78db81a",
+      "layout": {
+        "font": "Bahnschrift Bold Condensed",
+        "font_size": 26,
+        "shared_baseline": 24,
+        "center_x": 63.5,
+        "ink_bounds": [
+          20,
+          5,
+          106,
+          25
+        ],
+        "horizontal_rescaling": false
+      },
+      "palette_sha256": "bfa3c40b3f0544159dbbd23c7200d90108a9aff27621fbeeaa053119f76b5848"
+    }
+  ],
+  "changed_pixel_ranges": [
+    [
+      122075392,
+      122077440
+    ],
+    [
+      122077696,
+      122079744
+    ],
+    [
+      122080000,
+      122082048
+    ]
+  ],
+  "headers_and_palettes_preserved": true,
+  "counters_and_positions_preserved": true,
+  "executable_unchanged": true,
+  "source_map_sha256": "f3ecd3e16655de6507defe5963fa222f58e970be9fc5a18c6481bc56d74fdf4d",
+  "target_map_sha256": "725897f817392baa92c15caf42638aff7858cb6fa865c2deb6cf4a3a5d9c0942",
+  "native_pixel_edits": true,
+  "texture_replacement": false,
+  "decoded_preview": "work/ui/ps2/map_support_0.1.15/support_before_after.png",
+  "visual_validation": "decoded assets verified; in-game confirmation pending",
+  "github_release": false
+}

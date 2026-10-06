@@ -8,7 +8,7 @@ reports names without English, characters the font cannot draw, and names wider 
 
 Rules: display names (units, weapons, pilots, skills, abilities, parts) take the glossary English;
 voice actors take voice_actors.json; unit height/weight strings are converted to ASCII digits;
-sort readings, BGM titles (out of scope) and placeholders keep their Japanese bytes (null).
+sort readings and placeholders keep their Japanese bytes (null); BGM takes music.en.json.
 A string shared by a display name and a reading is translated (the display wins).
 """
 import json, os, re, sys
@@ -75,6 +75,7 @@ SPRT_SHORT = {'Accelerate': 'Accel', 'Disturbance': 'Disturb', 'Inspiration': 'I
 def main():
     g = glossary_map()
     va = json.load(open(os.path.join(OUT, 'voice_actors.json'), encoding='utf-8'))
+    music = json.load(open(os.path.join(OUT, 'music.en.json'), encoding='utf-8'))['titles']
     names = json.load(open(os.path.join(SRC, 'static2_names.json'), encoding='utf-8'))
     allowed = set(textfit.ASCII) | {'"'}
     out, missing, chars, wide = {}, [], [], []
@@ -97,6 +98,8 @@ def main():
             en = va.get(t)
             if en is None:
                 missing.append(x)
+        elif 'bgm' in own:
+            en = music.get(str(x['idx']))
         elif 'unit_size_weight' in own:
             en = ''.join(FULLWIDTH[c] for c in t)
         out[str(x['idx'])] = en

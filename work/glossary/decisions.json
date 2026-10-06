@@ -39,5 +39,22 @@
    "en": "Zeorymer Sorties at Dawn",
    "reason": "The actual Portable bitmap names Zeorymer; Akurasu lists a different title naming Hades."
   }
+ },
+ "ps2_ui_abbreviations_0_1_16": {
+  "Giganos Soldier": {
+   "en": "Giganos Sldr.",
+   "scope": "battle forecast only",
+   "reason": "Avoid overlap with Lv; full database/dialogue name retained."
+  },
+  "Assist weapon marker": {
+   "en": "A",
+   "scope": "weapon-table one-character attribute cell",
+   "reason": "Native formatter buffer holds one encoded character and NUL; As overflowed."
+  },
+  "Solid weapon marker": {
+   "en": "S",
+   "scope": "weapon-table one-character attribute cell",
+   "reason": "Translate physical/solid flag in original compact cell; B beam marker preserved."
+  }
  }
 }

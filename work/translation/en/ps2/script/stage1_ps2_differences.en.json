@@ -1,0 +1,79 @@
+{
+  "scope": "Reviewed PS2 stage-1 differences; original Japanese stays in the owned ISO",
+  "rows": [
+    {
+      "uses": [
+        "s00r10:304"
+      ],
+      "source_sha256": "5166c1f06bfad31cda9d6a5b46a1bb12a17051cfe74336b3d55e7555d8c2febe",
+      "speaker_en": "???",
+      "kind": "dialogue",
+      "en": "First, we must teach Medius and AI1 the terror of real combat.",
+      "reason": "PS2 names both Medius and AI1; PSP names AI1 only."
+    },
+    {
+      "uses": [
+        "s00r10:306",
+        "s00s10:369"
+      ],
+      "source_sha256": "31616516dbb719c813088f9e58a98a89b6d8b2e14e4f6136f3cf67b0c5c98bf6",
+      "speaker_en": "???",
+      "kind": "dialogue",
+      "en": "That's how AI1 works, isn't it?",
+      "reason": "Translated the distinct PS2 wording instead of copying the changed PSP question."
+    },
+    {
+      "uses": [
+        "s00r10:307"
+      ],
+      "source_sha256": "2d4a924e8a84da87571b341fb35f7f3045ab8c05967fa4917cdc45ccd8c1d762",
+      "speaker_en": "???",
+      "kind": "dialogue",
+      "en": "This child has no need for emotions.",
+      "reason": "Exact PSP source and English occur in the opposite stage-1 route; reviewed the shared scene context."
+    },
+    {
+      "uses": [
+        "s00r10:354",
+        "s00s10:393"
+      ],
+      "source_sha256": "519e120d83ddaf424611c8e919a8c1404abe5893ce1dacd762fd7d6ad430d595",
+      "speaker_en": "#女愛称",
+      "kind": "dialogue",
+      "en": "No way! I'll show you I can do my job properly!",
+      "reason": "PS2 omits the reference to other duties found in PSP."
+    },
+    {
+      "uses": [
+        "s00r10:355",
+        "s00s10:394"
+      ],
+      "source_sha256": "107b3e1491d6a97dee157421fa52f6fe39816c164a8528c4ec50c307d6321985",
+      "speaker_en": "#男愛称",
+      "kind": "thought",
+      "en": "This is her first real battle... It's only natural she'd be nervous, but...",
+      "reason": "PS2-only thought; Aqua is discussing her role immediately before this line."
+    },
+    {
+      "uses": [
+        "s00r10:358",
+        "s00s10:396"
+      ],
+      "source_sha256": "8f9f60ce37ae21b60197cf29bc56311ee6cab75ad9e96254d1dec79034e43a22",
+      "speaker_en": "???",
+      "kind": "dialogue",
+      "en": "It's a defective product. Just like its pilots.",
+      "reason": "PS2-only taunt. Preserve the hidden speaker and the comparison with the pilots."
+    },
+    {
+      "uses": [
+        "s00s10:367"
+      ],
+      "source_sha256": "ffc984b180ba80ac7e7387cd8dff6e5abff91a9194967d93c4c386f0907fd9a5",
+      "speaker_en": "???",
+      "kind": "dialogue",
+      "en": "Very well... Then let's teach Medius and AI1 how terrifying real combat can be.",
+      "reason": "PS2 names both Medius and AI1; PSP names AI1 only."
+    }
+  ]
+}

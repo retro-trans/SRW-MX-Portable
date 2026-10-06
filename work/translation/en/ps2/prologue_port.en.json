@@ -1,0 +1,258 @@
+{
+  "version": "0.1.8",
+  "source_build": "0.1.7",
+  "new_scene_blocks": [
+    {
+      "scene": "i00r0a",
+      "commands": 176,
+      "bytes": 24576,
+      "translated_strings": 140,
+      "target_sha256": "9a3f24db260072c917ae439af8846bd06505aba5a8aac5b740e7119172921ab2",
+      "opening_redirect": false
+    },
+    {
+      "scene": "i00r0b",
+      "commands": 318,
+      "bytes": 49152,
+      "translated_strings": 257,
+      "target_sha256": "ff60baff51686c02e7ee80708f433843ed5e653329555432e8e0865e330414c1",
+      "opening_redirect": true
+    },
+    {
+      "scene": "i00r1b",
+      "commands": 99,
+      "bytes": 16384,
+      "translated_strings": 78,
+      "target_sha256": "520ddd823fb5cf32e4a28001600423e150ff72eb56e413f857b9e29d993ad7af",
+      "opening_redirect": false
+    },
+    {
+      "scene": "i00s0a",
+      "commands": 176,
+      "bytes": 24576,
+      "translated_strings": 140,
+      "target_sha256": "02c4fa2b4dc41e4993fa15a990ac8d2485ac0c99b7183fcc9cdc4a1696a54f4e",
+      "opening_redirect": false
+    },
+    {
+      "scene": "i00s0b",
+      "commands": 318,
+      "bytes": 49152,
+      "translated_strings": 257,
+      "target_sha256": "ff60baff51686c02e7ee80708f433843ed5e653329555432e8e0865e330414c1",
+      "opening_redirect": true
+    },
+    {
+      "scene": "i00s1b",
+      "commands": 99,
+      "bytes": 16384,
+      "translated_strings": 75,
+      "target_sha256": "fb2ed3add315cfad4a6075b671624fc9469509071590eedc0a74e67c988ce0d7",
+      "opening_redirect": false
+    },
+    {
+      "scene": "s00r00",
+      "commands": 655,
+      "bytes": 57344,
+      "translated_strings": 299,
+      "target_sha256": "2ec8be488afb57426f2722ec86f3bac538753adcd60dacce63db15ec0559fbe3",
+      "opening_redirect": false
+    },
+    {
+      "scene": "s00s00",
+      "commands": 655,
+      "bytes": 57344,
+      "translated_strings": 299,
+      "target_sha256": "a91c25cac68ba5982ff243fcbf782d81d009b04006d861f401d0f54022afdb0f",
+      "opening_redirect": false
+    }
+  ],
+  "scene_count": 200,
+  "script_sector_table_va": "0x7cdf00",
+  "script_name_table_va": "0x7ce224",
+  "unit_groups": [
+    {
+      "chapter": 0,
+      "group": 4,
+      "scene": "s00r00"
+    },
+    {
+      "chapter": 1,
+      "group": 4,
+      "scene": "s00s00"
+    }
+  ],
+  "native_map_id": 390,
+  "exact_native_battlefield": true,
+  "terrain_table_identical": true,
+  "scenario_ids": [
+    66,
+    67
+  ],
+  "location_ids": [
+    66,
+    67
+  ],
+  "original_scenario_ids_preserved": true,
+  "chapter_progression_fields_repaired": true,
+  "original_stage1_intro_replaced": true,
+  "opening_runs_before_prologue": true,
+  "researcher_pilot_id": 433,
+  "researcher_has_no_portrait": true,
+  "map_selection_thumbnails": "Matching native battlefield 390 image, 640x640",
+  "visual_validation": "pending",
+  "gameplay_clear_and_save_validation": "pending",
+  "stage30_port": "not included",
+  "github_release": false,
+  "hooks": [
+    {
+      "name": "prologue_script_names",
+      "va": "0x339754",
+      "old": "4800123c",
+      "new": "7d00123c"
+    },
+    {
+      "name": "prologue_script_names",
+      "va": "0x33975c",
+      "old": "48124326",
+      "new": "24e24326"
+    },
+    {
+      "name": "prologue_script_size_table",
+      "va": "0x339588",
+      "old": "4800023c",
+      "new": "7d00023c"
+    },
+    {
+      "name": "prologue_script_size_table",
+      "va": "0x339594",
+      "old": "400f4224",
+      "new": "00df4224"
+    },
+    {
+      "name": "prologue_script_read_table",
+      "va": "0x3396f4",
+      "old": "4800013c",
+      "new": "7d00013c"
+    },
+    {
+      "name": "prologue_script_read_table",
+      "va": "0x3396fc",
+      "old": "400f278c",
+      "new": "00df278c"
+    },
+    {
+      "name": "prologue_debug_scene_names",
+      "va": "0x306bdc",
+      "old": "4800033c",
+      "new": "7d00033c"
+    },
+    {
+      "name": "prologue_debug_scene_names",
+      "va": "0x306bec",
+      "old": "f8a56324",
+      "new": "24e26324"
+    },
+    {
+      "name": "prologue_new_game_deployment",
+      "va": "0x134d88",
+      "old": "2d300000",
+      "new": "04000624"
+    },
+    {
+      "name": "prologue_new_game_deployment",
+      "va": "0x134da8",
+      "old": "2d300000",
+      "new": "04000624"
+    },
+    {
+      "name": "prologue_new_game_campaign_group",
+      "va": "0x134dc0",
+      "old": "ce1b0d0c",
+      "new": "943a1f0c"
+    },
+    {
+      "name": "prologue_chapter_number",
+      "va": "0x348634",
+      "old": "0100e724",
+      "new": "0000e724"
+    },
+    {
+      "name": "prologue_chapter_number_alternate",
+      "va": "0x3489b4",
+      "old": "0100e724",
+      "new": "0000e724"
+    },
+    {
+      "name": "prologue_objective_number",
+      "va": "0x224f08",
+      "old": "01003126",
+      "new": "00003126"
+    },
+    {
+      "name": "prologue_script_objective_number",
+      "va": "0x2fe7cc",
+      "old": "01001026",
+      "new": "00001026"
+    }
+  ],
+  "new_game_entry": {
+    "native_completion_event": "0x2d6",
+    "first_group": 4,
+    "history_slot": 0,
+    "routine_va": "0x7cea50",
+    "routine_bytes": 36,
+    "hooks": [
+      {
+        "name": "prologue_new_game_deployment",
+        "va": "0x134d88",
+        "old": "2d300000",
+        "new": "04000624"
+      },
+      {
+        "name": "prologue_new_game_deployment",
+        "va": "0x134da8",
+        "old": "2d300000",
+        "new": "04000624"
+      },
+      {
+        "name": "prologue_new_game_campaign_group",
+        "va": "0x134dc0",
+        "old": "ce1b0d0c",
+        "new": "943a1f0c"
+      }
+    ]
+  },
+  "chapter_numbering": {
+    "displayed_prologue_number": 0,
+    "first_story_chapter_number": 1,
+    "native_cleared_battle_count_preserved": true,
+    "original_save_fields_preserved": true,
+    "hooks": [
+      {
+        "name": "prologue_chapter_number",
+        "va": "0x348634",
+        "old": "0100e724",
+        "new": "0000e724"
+      },
+      {
+        "name": "prologue_chapter_number_alternate",
+        "va": "0x3489b4",
+        "old": "0100e724",
+        "new": "0000e724"
+      },
+      {
+        "name": "prologue_objective_number",
+        "va": "0x224f08",
+        "old": "01003126",
+        "new": "00003126"
+      },
+      {
+        "name": "prologue_script_objective_number",
+        "va": "0x2fe7cc",
+        "old": "01001026",
+        "new": "00001026"
+      }
+    ]
+  }
+}

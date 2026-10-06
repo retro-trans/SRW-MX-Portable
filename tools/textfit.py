@@ -103,6 +103,10 @@ def wrap(prefix, body, suffix='', line_px=LINE_PX, indent=INDENT):
     """Greedy word wrap. prefix ('Hugo「') sits on line 1, suffix ('」') must fit on the last line.
     indent starts every continuation line (the dialogue box indents; help and narration use '').
     Returns (lines, ok)."""
+    # Thought dialogue must separate the speaker from its opening parenthesis.
+    # Normalize an existing separator too; an anonymous parenthesis stays bare.
+    if prefix.endswith(('（', '(')) and prefix[:-1].strip():
+        prefix = prefix[:-1].rstrip(' 　') + ' ' + prefix[-1]
     words = body.replace('\n', ' ').split(' ')
     lines, cur = [], prefix
     for w in words:

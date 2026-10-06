@@ -1,0 +1,2229 @@
+{
+  "version": "0.1.5",
+  "feature": "Optional PSP balance at New Game",
+  "mode_va": "0x7cce90",
+  "hp_table_va": "0x7ccea0",
+  "reward_table_va": "0x7cd6a0",
+  "vtable_va": "0x7cdaa0",
+  "vtable_bytes": 216,
+  "strings": {
+    "question": "0x7cdb78",
+    "details": "0x7cdba9",
+    "ps2": "0x7cdbe8",
+    "psp": "0x7cdc05"
+  },
+  "routines": {
+    "hp": {
+      "va": "0x7cdc20",
+      "bytes": 88
+    },
+    "reward": {
+      "va": "0x7cdc80",
+      "bytes": 88
+    },
+    "opening": {
+      "va": "0x7cdce0",
+      "bytes": 52
+    },
+    "setup": {
+      "va": "0x7cdd20",
+      "bytes": 104
+    },
+    "accept": {
+      "va": "0x7cdd90",
+      "bytes": 56
+    },
+    "cleanup": {
+      "va": "0x7cddd0",
+      "bytes": 44
+    },
+    "save_stamp": {
+      "va": "0x7cde00",
+      "bytes": 68
+    },
+    "restore": {
+      "va": "0x7cde50",
+      "bytes": 76
+    },
+    "settings_load": {
+      "va": "0x7cdea0",
+      "bytes": 40
+    },
+    "scenario_load": {
+      "va": "0x7cded0",
+      "bytes": 48
+    }
+  },
+  "hooks": [
+    {
+      "name": "difficulty_hp",
+      "va": "0x332a10",
+      "old": "f0ffbd270000bfff",
+      "new": "08371f0800000000",
+      "target": "0x7cdc20"
+    },
+    {
+      "name": "difficulty_reward",
+      "va": "0x332af0",
+      "old": "f0ffbd270000bfff",
+      "new": "20371f0800000000",
+      "target": "0x7cdc80"
+    },
+    {
+      "name": "difficulty_prompt",
+      "va": "0x2bd084",
+      "old": "7800053c",
+      "new": "7d00053c"
+    },
+    {
+      "name": "difficulty_prompt",
+      "va": "0x2bd090",
+      "old": "98b4a524",
+      "new": "78dba524"
+    },
+    {
+      "name": "difficulty_menu_setup",
+      "va": "0x2bd120",
+      "old": "450000109456828e",
+      "new": "48371f0800000000",
+      "target": "0x7cdd20"
+    },
+    {
+      "name": "difficulty_menu_accept",
+      "va": "0x2bd1bc",
+      "old": "985683de01000224",
+      "new": "64371f0800000000",
+      "target": "0x7cdd90"
+    },
+    {
+      "name": "difficulty_menu_cleanup",
+      "va": "0x2bd2ac",
+      "old": "985680ae40af828f",
+      "new": "74371f0800000000",
+      "target": "0x7cddd0"
+    },
+    {
+      "name": "difficulty_save_stamp",
+      "va": "0x335ad8",
+      "old": "0000b0df0800b1df",
+      "new": "80371f0800000000",
+      "target": "0x7cde00"
+    },
+    {
+      "name": "difficulty_settings_load",
+      "va": "0x335eb0",
+      "old": "b0ffbd273800b1ff",
+      "new": "a8371f0800000000",
+      "target": "0x7cdea0"
+    },
+    {
+      "name": "difficulty_scenario_load_early",
+      "va": "0x13b850",
+      "old": "1803428e01004224",
+      "new": "b4371f0800000000",
+      "target": "0x7cded0"
+    }
+  ],
+  "balance_changes": [
+    {
+      "id": 0,
+      "ps2_hp": 4400,
+      "psp_hp": 4400,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 1,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 2,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 3,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 1600,
+      "psp_reward": 1280
+    },
+    {
+      "id": 4,
+      "ps2_hp": 2700,
+      "psp_hp": 2700,
+      "ps2_reward": 1200,
+      "psp_reward": 960
+    },
+    {
+      "id": 5,
+      "ps2_hp": 2700,
+      "psp_hp": 2700,
+      "ps2_reward": 1100,
+      "psp_reward": 880
+    },
+    {
+      "id": 6,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2400,
+      "psp_reward": 1920
+    },
+    {
+      "id": 7,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2400,
+      "psp_reward": 1920
+    },
+    {
+      "id": 8,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 9,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 10,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 11,
+      "ps2_hp": 6300,
+      "psp_hp": 6300,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 12,
+      "ps2_hp": 5500,
+      "psp_hp": 5500,
+      "ps2_reward": 12000,
+      "psp_reward": 9600
+    },
+    {
+      "id": 13,
+      "ps2_hp": 5500,
+      "psp_hp": 5500,
+      "ps2_reward": 20000,
+      "psp_reward": 16000
+    },
+    {
+      "id": 14,
+      "ps2_hp": 5500,
+      "psp_hp": 5500,
+      "ps2_reward": 20000,
+      "psp_reward": 16000
+    },
+    {
+      "id": 15,
+      "ps2_hp": 5200,
+      "psp_hp": 5200,
+      "ps2_reward": 9000,
+      "psp_reward": 7200
+    },
+    {
+      "id": 16,
+      "ps2_hp": 5600,
+      "psp_hp": 5600,
+      "ps2_reward": 10000,
+      "psp_reward": 8000
+    },
+    {
+      "id": 17,
+      "ps2_hp": 5400,
+      "psp_hp": 5400,
+      "ps2_reward": 12000,
+      "psp_reward": 9600
+    },
+    {
+      "id": 18,
+      "ps2_hp": 8000,
+      "psp_hp": 8000,
+      "ps2_reward": 20000,
+      "psp_reward": 16000
+    },
+    {
+      "id": 19,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 20,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 21,
+      "ps2_hp": 3300,
+      "psp_hp": 3300,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 22,
+      "ps2_hp": 3300,
+      "psp_hp": 3300,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 23,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 24,
+      "ps2_hp": 2500,
+      "psp_hp": 2500,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 25,
+      "ps2_hp": 4500,
+      "psp_hp": 4500,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 26,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 27,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 28,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 29,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 30,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 31,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 32,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 33,
+      "ps2_hp": 4300,
+      "psp_hp": 4300,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 34,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 35,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 36,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 37,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 38,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 39,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 40,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 41,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 42,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 43,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 44,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 45,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 46,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 47,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 48,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 49,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 50,
+      "ps2_hp": 4800,
+      "psp_hp": 4800,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 51,
+      "ps2_hp": 4600,
+      "psp_hp": 4600,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 52,
+      "ps2_hp": 4700,
+      "psp_hp": 4700,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 53,
+      "ps2_hp": 1600,
+      "psp_hp": 1600,
+      "ps2_reward": 1000,
+      "psp_reward": 800
+    },
+    {
+      "id": 54,
+      "ps2_hp": 5300,
+      "psp_hp": 5300,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 55,
+      "ps2_hp": 3200,
+      "psp_hp": 3200,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 56,
+      "ps2_hp": 3200,
+      "psp_hp": 3200,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 57,
+      "ps2_hp": 3200,
+      "psp_hp": 3200,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 58,
+      "ps2_hp": 5000,
+      "psp_hp": 5000,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 59,
+      "ps2_hp": 4500,
+      "psp_hp": 4500,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 60,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 61,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 2600,
+      "psp_reward": 2080
+    },
+    {
+      "id": 62,
+      "ps2_hp": 12000,
+      "psp_hp": 12000,
+      "ps2_reward": 16000,
+      "psp_reward": 12800
+    },
+    {
+      "id": 63,
+      "ps2_hp": 14000,
+      "psp_hp": 14000,
+      "ps2_reward": 18000,
+      "psp_reward": 14400
+    },
+    {
+      "id": 64,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 65,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 3300,
+      "psp_reward": 2640
+    },
+    {
+      "id": 66,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 67,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 68,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 69,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 70,
+      "ps2_hp": 3600,
+      "psp_hp": 3600,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 71,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 72,
+      "ps2_hp": 4000,
+      "psp_hp": 4000,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 73,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 74,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 75,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 76,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 77,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 78,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 79,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 1700,
+      "psp_reward": 1360
+    },
+    {
+      "id": 80,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 81,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 82,
+      "ps2_hp": 3600,
+      "psp_hp": 3600,
+      "ps2_reward": 1700,
+      "psp_reward": 1360
+    },
+    {
+      "id": 83,
+      "ps2_hp": 4000,
+      "psp_hp": 4000,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 84,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 1800,
+      "psp_reward": 1440
+    },
+    {
+      "id": 85,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 86,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 87,
+      "ps2_hp": 4000,
+      "psp_hp": 4000,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 88,
+      "ps2_hp": 4000,
+      "psp_hp": 4000,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 89,
+      "ps2_hp": 13000,
+      "psp_hp": 13000,
+      "ps2_reward": 7200,
+      "psp_reward": 5760
+    },
+    {
+      "id": 90,
+      "ps2_hp": 4500,
+      "psp_hp": 4500,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 91,
+      "ps2_hp": 4100,
+      "psp_hp": 4100,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 92,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 93,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 94,
+      "ps2_hp": 3600,
+      "psp_hp": 3600,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 95,
+      "ps2_hp": 3600,
+      "psp_hp": 3600,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 96,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 97,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 98,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 99,
+      "ps2_hp": 4500,
+      "psp_hp": 4500,
+      "ps2_reward": 6500,
+      "psp_reward": 5200
+    },
+    {
+      "id": 100,
+      "ps2_hp": 3700,
+      "psp_hp": 3700,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 101,
+      "ps2_hp": 4500,
+      "psp_hp": 4500,
+      "ps2_reward": 6500,
+      "psp_reward": 5200
+    },
+    {
+      "id": 102,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 103,
+      "ps2_hp": 3500,
+      "psp_hp": 3500,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 104,
+      "ps2_hp": 3600,
+      "psp_hp": 3600,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 105,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 106,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 107,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 108,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 2400,
+      "psp_reward": 1920
+    },
+    {
+      "id": 109,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 110,
+      "ps2_hp": 4800,
+      "psp_hp": 4800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 111,
+      "ps2_hp": 4600,
+      "psp_hp": 4600,
+      "ps2_reward": 5,
+      "psp_reward": 4
+    },
+    {
+      "id": 112,
+      "ps2_hp": 5300,
+      "psp_hp": 5300,
+      "ps2_reward": 3250,
+      "psp_reward": 2600
+    },
+    {
+      "id": 113,
+      "ps2_hp": 5500,
+      "psp_hp": 5500,
+      "ps2_reward": 2500,
+      "psp_reward": 2000
+    },
+    {
+      "id": 114,
+      "ps2_hp": 5000,
+      "psp_hp": 5000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 115,
+      "ps2_hp": 5000,
+      "psp_hp": 5000,
+      "ps2_reward": 1600,
+      "psp_reward": 1280
+    },
+    {
+      "id": 116,
+      "ps2_hp": 5500,
+      "psp_hp": 5500,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 117,
+      "ps2_hp": 5300,
+      "psp_hp": 5300,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 118,
+      "ps2_hp": 5000,
+      "psp_hp": 5000,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 119,
+      "ps2_hp": 5800,
+      "psp_hp": 5800,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 120,
+      "ps2_hp": 5800,
+      "psp_hp": 5800,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 121,
+      "ps2_hp": 5800,
+      "psp_hp": 5800,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 122,
+      "ps2_hp": 5400,
+      "psp_hp": 5400,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 123,
+      "ps2_hp": 5600,
+      "psp_hp": 5600,
+      "ps2_reward": 4600,
+      "psp_reward": 3680
+    },
+    {
+      "id": 124,
+      "ps2_hp": 5400,
+      "psp_hp": 5400,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 125,
+      "ps2_hp": 4200,
+      "psp_hp": 4200,
+      "ps2_reward": 1600,
+      "psp_reward": 1280
+    },
+    {
+      "id": 126,
+      "ps2_hp": 2600,
+      "psp_hp": 2600,
+      "ps2_reward": 1300,
+      "psp_reward": 1040
+    },
+    {
+      "id": 127,
+      "ps2_hp": 6900,
+      "psp_hp": 6900,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 128,
+      "ps2_hp": 6900,
+      "psp_hp": 6900,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 129,
+      "ps2_hp": 3200,
+      "psp_hp": 3200,
+      "ps2_reward": 1200,
+      "psp_reward": 960
+    },
+    {
+      "id": 130,
+      "ps2_hp": 6700,
+      "psp_hp": 6700,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 131,
+      "ps2_hp": 3100,
+      "psp_hp": 3100,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 132,
+      "ps2_hp": 6500,
+      "psp_hp": 6500,
+      "ps2_reward": 3200,
+      "psp_reward": 2560
+    },
+    {
+      "id": 133,
+      "ps2_hp": 6500,
+      "psp_hp": 6500,
+      "ps2_reward": 3200,
+      "psp_reward": 2560
+    },
+    {
+      "id": 134,
+      "ps2_hp": 3000,
+      "psp_hp": 3000,
+      "ps2_reward": 1300,
+      "psp_reward": 1040
+    },
+    {
+      "id": 135,
+      "ps2_hp": 5800,
+      "psp_hp": 5800,
+      "ps2_reward": 2600,
+      "psp_reward": 2080
+    },
+    {
+      "id": 137,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 2900,
+      "psp_reward": 2320
+    },
+    {
+      "id": 138,
+      "ps2_hp": 100000,
+      "psp_hp": 100000,
+      "ps2_reward": 26100,
+      "psp_reward": 20880
+    },
+    {
+      "id": 139,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 2900,
+      "psp_reward": 2320
+    },
+    {
+      "id": 140,
+      "ps2_hp": 5400,
+      "psp_hp": 5400,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 141,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 3100,
+      "psp_reward": 2480
+    },
+    {
+      "id": 142,
+      "ps2_hp": 5900,
+      "psp_hp": 5900,
+      "ps2_reward": 3100,
+      "psp_reward": 2480
+    },
+    {
+      "id": 143,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 144,
+      "ps2_hp": 4300,
+      "psp_hp": 4300,
+      "ps2_reward": 2700,
+      "psp_reward": 2160
+    },
+    {
+      "id": 145,
+      "ps2_hp": 4300,
+      "psp_hp": 4300,
+      "ps2_reward": 2600,
+      "psp_reward": 2080
+    },
+    {
+      "id": 146,
+      "ps2_hp": 8000,
+      "psp_hp": 8000,
+      "ps2_reward": 20000,
+      "psp_reward": 16000
+    },
+    {
+      "id": 147,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 148,
+      "ps2_hp": 3900,
+      "psp_hp": 3900,
+      "ps2_reward": 1500,
+      "psp_reward": 1200
+    },
+    {
+      "id": 149,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 150,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 151,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 152,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 153,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 154,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 155,
+      "ps2_hp": 6000,
+      "psp_hp": 6000,
+      "ps2_reward": 5500,
+      "psp_reward": 4400
+    },
+    {
+      "id": 200,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 4800,
+      "psp_reward": 3840
+    },
+    {
+      "id": 201,
+      "ps2_hp": 32000,
+      "psp_hp": 48000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 202,
+      "ps2_hp": 87000,
+      "psp_hp": 130500,
+      "ps2_reward": 10000,
+      "psp_reward": 8000
+    },
+    {
+      "id": 203,
+      "ps2_hp": 3400,
+      "psp_hp": 5100,
+      "ps2_reward": 1800,
+      "psp_reward": 1440
+    },
+    {
+      "id": 204,
+      "ps2_hp": 57000,
+      "psp_hp": 85500,
+      "ps2_reward": 5800,
+      "psp_reward": 4640
+    },
+    {
+      "id": 205,
+      "ps2_hp": 3600,
+      "psp_hp": 5400,
+      "ps2_reward": 1800,
+      "psp_reward": 1440
+    },
+    {
+      "id": 206,
+      "ps2_hp": 19000,
+      "psp_hp": 28500,
+      "ps2_reward": 5100,
+      "psp_reward": 4080
+    },
+    {
+      "id": 207,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 208,
+      "ps2_hp": 3900,
+      "psp_hp": 5850,
+      "ps2_reward": 1900,
+      "psp_reward": 1520
+    },
+    {
+      "id": 209,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 3900,
+      "psp_reward": 3120
+    },
+    {
+      "id": 210,
+      "ps2_hp": 30000,
+      "psp_hp": 45000,
+      "ps2_reward": 6000,
+      "psp_reward": 4800
+    },
+    {
+      "id": 211,
+      "ps2_hp": 38000,
+      "psp_hp": 57000,
+      "ps2_reward": 6200,
+      "psp_reward": 4960
+    },
+    {
+      "id": 212,
+      "ps2_hp": 48000,
+      "psp_hp": 72000,
+      "ps2_reward": 6300,
+      "psp_reward": 5040
+    },
+    {
+      "id": 213,
+      "ps2_hp": 56000,
+      "psp_hp": 84000,
+      "ps2_reward": 0,
+      "psp_reward": 0
+    },
+    {
+      "id": 214,
+      "ps2_hp": 55000,
+      "psp_hp": 82500,
+      "ps2_reward": 8000,
+      "psp_reward": 6400
+    },
+    {
+      "id": 215,
+      "ps2_hp": 190000,
+      "psp_hp": 285000,
+      "ps2_reward": 12000,
+      "psp_reward": 9600
+    },
+    {
+      "id": 216,
+      "ps2_hp": 2800,
+      "psp_hp": 4200,
+      "ps2_reward": 1700,
+      "psp_reward": 1360
+    },
+    {
+      "id": 217,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 3500,
+      "psp_reward": 2800
+    },
+    {
+      "id": 218,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3400,
+      "psp_reward": 2720
+    },
+    {
+      "id": 219,
+      "ps2_hp": 14000,
+      "psp_hp": 21000,
+      "ps2_reward": 3300,
+      "psp_reward": 2640
+    },
+    {
+      "id": 220,
+      "ps2_hp": 5000,
+      "psp_hp": 7500,
+      "ps2_reward": 2200,
+      "psp_reward": 1760
+    },
+    {
+      "id": 221,
+      "ps2_hp": 6200,
+      "psp_hp": 9300,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 222,
+      "ps2_hp": 53000,
+      "psp_hp": 79500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 223,
+      "ps2_hp": 57000,
+      "psp_hp": 85500,
+      "ps2_reward": 5400,
+      "psp_reward": 4320
+    },
+    {
+      "id": 224,
+      "ps2_hp": 62000,
+      "psp_hp": 93000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 225,
+      "ps2_hp": 40000,
+      "psp_hp": 60000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 226,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 3600,
+      "psp_reward": 2880
+    },
+    {
+      "id": 227,
+      "ps2_hp": 48000,
+      "psp_hp": 72000,
+      "ps2_reward": 0,
+      "psp_reward": 0
+    },
+    {
+      "id": 228,
+      "ps2_hp": 68000,
+      "psp_hp": 102000,
+      "ps2_reward": 0,
+      "psp_reward": 0
+    },
+    {
+      "id": 229,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 230,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 231,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 232,
+      "ps2_hp": 5500,
+      "psp_hp": 8250,
+      "ps2_reward": 2400,
+      "psp_reward": 1920
+    },
+    {
+      "id": 233,
+      "ps2_hp": 59000,
+      "psp_hp": 88500,
+      "ps2_reward": 5600,
+      "psp_reward": 4480
+    },
+    {
+      "id": 234,
+      "ps2_hp": 77000,
+      "psp_hp": 115500,
+      "ps2_reward": 6000,
+      "psp_reward": 4800
+    },
+    {
+      "id": 235,
+      "ps2_hp": 45000,
+      "psp_hp": 67500,
+      "ps2_reward": 8000,
+      "psp_reward": 6400
+    },
+    {
+      "id": 236,
+      "ps2_hp": 3200,
+      "psp_hp": 4800,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 237,
+      "ps2_hp": 3400,
+      "psp_hp": 5100,
+      "ps2_reward": 1800,
+      "psp_reward": 1440
+    },
+    {
+      "id": 238,
+      "ps2_hp": 3000,
+      "psp_hp": 4500,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 239,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 4900,
+      "psp_reward": 3920
+    },
+    {
+      "id": 240,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 4700,
+      "psp_reward": 3760
+    },
+    {
+      "id": 241,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 4500,
+      "psp_reward": 3600
+    },
+    {
+      "id": 242,
+      "ps2_hp": 14000,
+      "psp_hp": 21000,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 243,
+      "ps2_hp": 4600,
+      "psp_hp": 6900,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 244,
+      "ps2_hp": 12000,
+      "psp_hp": 18000,
+      "ps2_reward": 4200,
+      "psp_reward": 3360
+    },
+    {
+      "id": 245,
+      "ps2_hp": 27000,
+      "psp_hp": 40500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 246,
+      "ps2_hp": 62000,
+      "psp_hp": 93000,
+      "ps2_reward": 6500,
+      "psp_reward": 5200
+    },
+    {
+      "id": 247,
+      "ps2_hp": 78000,
+      "psp_hp": 117000,
+      "ps2_reward": 8000,
+      "psp_reward": 6400
+    },
+    {
+      "id": 248,
+      "ps2_hp": 27000,
+      "psp_hp": 40500,
+      "ps2_reward": 4900,
+      "psp_reward": 3920
+    },
+    {
+      "id": 249,
+      "ps2_hp": 26000,
+      "psp_hp": 39000,
+      "ps2_reward": 5600,
+      "psp_reward": 4480
+    },
+    {
+      "id": 250,
+      "ps2_hp": 3600,
+      "psp_hp": 5400,
+      "ps2_reward": 2100,
+      "psp_reward": 1680
+    },
+    {
+      "id": 251,
+      "ps2_hp": 8900,
+      "psp_hp": 13350,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 252,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 253,
+      "ps2_hp": 23000,
+      "psp_hp": 34500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 254,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 5100,
+      "psp_reward": 4080
+    },
+    {
+      "id": 255,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 256,
+      "ps2_hp": 3900,
+      "psp_hp": 5850,
+      "ps2_reward": 2100,
+      "psp_reward": 1680
+    },
+    {
+      "id": 257,
+      "ps2_hp": 3500,
+      "psp_hp": 5250,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 258,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 259,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 260,
+      "ps2_hp": 9000,
+      "psp_hp": 13500,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 261,
+      "ps2_hp": 8900,
+      "psp_hp": 13350,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 262,
+      "ps2_hp": 4200,
+      "psp_hp": 6300,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 263,
+      "ps2_hp": 4300,
+      "psp_hp": 6450,
+      "ps2_reward": 2400,
+      "psp_reward": 1920
+    },
+    {
+      "id": 264,
+      "ps2_hp": 33000,
+      "psp_hp": 49500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 265,
+      "ps2_hp": 28000,
+      "psp_hp": 42000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 266,
+      "ps2_hp": 47000,
+      "psp_hp": 70500,
+      "ps2_reward": 6000,
+      "psp_reward": 4800
+    },
+    {
+      "id": 267,
+      "ps2_hp": 85000,
+      "psp_hp": 127500,
+      "ps2_reward": 8000,
+      "psp_reward": 6400
+    },
+    {
+      "id": 268,
+      "ps2_hp": 3800,
+      "psp_hp": 5700,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 269,
+      "ps2_hp": 4200,
+      "psp_hp": 6300,
+      "ps2_reward": 2100,
+      "psp_reward": 1680
+    },
+    {
+      "id": 270,
+      "ps2_hp": 150000,
+      "psp_hp": 225000,
+      "ps2_reward": 8600,
+      "psp_reward": 6880
+    },
+    {
+      "id": 271,
+      "ps2_hp": 36000,
+      "psp_hp": 54000,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 272,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 273,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 274,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 275,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 276,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 277,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 278,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 279,
+      "ps2_hp": 85000,
+      "psp_hp": 127500,
+      "ps2_reward": 7000,
+      "psp_reward": 5600
+    },
+    {
+      "id": 280,
+      "ps2_hp": 7000,
+      "psp_hp": 10500,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 281,
+      "ps2_hp": 8500,
+      "psp_hp": 12750,
+      "ps2_reward": 3200,
+      "psp_reward": 2560
+    },
+    {
+      "id": 282,
+      "ps2_hp": 12000,
+      "psp_hp": 18000,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 283,
+      "ps2_hp": 19000,
+      "psp_hp": 28500,
+      "ps2_reward": 5500,
+      "psp_reward": 4400
+    },
+    {
+      "id": 284,
+      "ps2_hp": 7200,
+      "psp_hp": 10800,
+      "ps2_reward": 3200,
+      "psp_reward": 2560
+    },
+    {
+      "id": 285,
+      "ps2_hp": 23000,
+      "psp_hp": 34500,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 286,
+      "ps2_hp": 98000,
+      "psp_hp": 147000,
+      "ps2_reward": 8200,
+      "psp_reward": 6560
+    },
+    {
+      "id": 287,
+      "ps2_hp": 14000,
+      "psp_hp": 21000,
+      "ps2_reward": 3900,
+      "psp_reward": 3120
+    },
+    {
+      "id": 288,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 4200,
+      "psp_reward": 3360
+    },
+    {
+      "id": 289,
+      "ps2_hp": 25000,
+      "psp_hp": 37500,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 290,
+      "ps2_hp": 12000,
+      "psp_hp": 18000,
+      "ps2_reward": 3900,
+      "psp_reward": 3120
+    },
+    {
+      "id": 291,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 5500,
+      "psp_reward": 4400
+    },
+    {
+      "id": 292,
+      "ps2_hp": 2800,
+      "psp_hp": 4200,
+      "ps2_reward": 1900,
+      "psp_reward": 1520
+    },
+    {
+      "id": 293,
+      "ps2_hp": 2500,
+      "psp_hp": 3750,
+      "ps2_reward": 1700,
+      "psp_reward": 1360
+    },
+    {
+      "id": 294,
+      "ps2_hp": 8500,
+      "psp_hp": 12750,
+      "ps2_reward": 3400,
+      "psp_reward": 2720
+    },
+    {
+      "id": 295,
+      "ps2_hp": 14000,
+      "psp_hp": 21000,
+      "ps2_reward": 3500,
+      "psp_reward": 2800
+    },
+    {
+      "id": 296,
+      "ps2_hp": 7300,
+      "psp_hp": 10950,
+      "ps2_reward": 3500,
+      "psp_reward": 2800
+    },
+    {
+      "id": 297,
+      "ps2_hp": 5000,
+      "psp_hp": 7500,
+      "ps2_reward": 2000,
+      "psp_reward": 1600
+    },
+    {
+      "id": 298,
+      "ps2_hp": 26000,
+      "psp_hp": 39000,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 299,
+      "ps2_hp": 33000,
+      "psp_hp": 49500,
+      "ps2_reward": 5500,
+      "psp_reward": 4400
+    },
+    {
+      "id": 300,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 3600,
+      "psp_reward": 2880
+    },
+    {
+      "id": 301,
+      "ps2_hp": 8000,
+      "psp_hp": 12000,
+      "ps2_reward": 3700,
+      "psp_reward": 2960
+    },
+    {
+      "id": 302,
+      "ps2_hp": 48000,
+      "psp_hp": 72000,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 303,
+      "ps2_hp": 55000,
+      "psp_hp": 82500,
+      "ps2_reward": 5700,
+      "psp_reward": 4560
+    },
+    {
+      "id": 304,
+      "ps2_hp": 52000,
+      "psp_hp": 78000,
+      "ps2_reward": 5800,
+      "psp_reward": 4640
+    },
+    {
+      "id": 305,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 306,
+      "ps2_hp": 41000,
+      "psp_hp": 61500,
+      "ps2_reward": 5600,
+      "psp_reward": 4480
+    },
+    {
+      "id": 307,
+      "ps2_hp": 43000,
+      "psp_hp": 64500,
+      "ps2_reward": 5400,
+      "psp_reward": 4320
+    },
+    {
+      "id": 308,
+      "ps2_hp": 35000,
+      "psp_hp": 52500,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 309,
+      "ps2_hp": 36000,
+      "psp_hp": 54000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 310,
+      "ps2_hp": 49000,
+      "psp_hp": 73500,
+      "ps2_reward": 5700,
+      "psp_reward": 4560
+    },
+    {
+      "id": 311,
+      "ps2_hp": 18000,
+      "psp_hp": 27000,
+      "ps2_reward": 3900,
+      "psp_reward": 3120
+    },
+    {
+      "id": 312,
+      "ps2_hp": 13000,
+      "psp_hp": 19500,
+      "ps2_reward": 4000,
+      "psp_reward": 3200
+    },
+    {
+      "id": 313,
+      "ps2_hp": 60000,
+      "psp_hp": 90000,
+      "ps2_reward": 5600,
+      "psp_reward": 4480
+    },
+    {
+      "id": 314,
+      "ps2_hp": 100000,
+      "psp_hp": 150000,
+      "ps2_reward": 13000,
+      "psp_reward": 10400
+    },
+    {
+      "id": 315,
+      "ps2_hp": 23000,
+      "psp_hp": 34500,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 316,
+      "ps2_hp": 3000,
+      "psp_hp": 4500,
+      "ps2_reward": 1800,
+      "psp_reward": 1440
+    },
+    {
+      "id": 317,
+      "ps2_hp": 25000,
+      "psp_hp": 37500,
+      "ps2_reward": 4500,
+      "psp_reward": 3600
+    },
+    {
+      "id": 318,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 3600,
+      "psp_reward": 2880
+    },
+    {
+      "id": 319,
+      "ps2_hp": 79000,
+      "psp_hp": 118500,
+      "ps2_reward": 5600,
+      "psp_reward": 4480
+    },
+    {
+      "id": 320,
+      "ps2_hp": 200000,
+      "psp_hp": 300000,
+      "ps2_reward": 44000,
+      "psp_reward": 35200
+    },
+    {
+      "id": 321,
+      "ps2_hp": 400000,
+      "psp_hp": 600000,
+      "ps2_reward": 45000,
+      "psp_reward": 36000
+    },
+    {
+      "id": 322,
+      "ps2_hp": 40000,
+      "psp_hp": 60000,
+      "ps2_reward": 7000,
+      "psp_reward": 5600
+    },
+    {
+      "id": 323,
+      "ps2_hp": 28000,
+      "psp_hp": 42000,
+      "ps2_reward": 7200,
+      "psp_reward": 5760
+    },
+    {
+      "id": 324,
+      "ps2_hp": 3200,
+      "psp_hp": 4800,
+      "ps2_reward": 2800,
+      "psp_reward": 2240
+    },
+    {
+      "id": 325,
+      "ps2_hp": 4200,
+      "psp_hp": 6300,
+      "ps2_reward": 3000,
+      "psp_reward": 2400
+    },
+    {
+      "id": 326,
+      "ps2_hp": 16000,
+      "psp_hp": 24000,
+      "ps2_reward": 5100,
+      "psp_reward": 4080
+    },
+    {
+      "id": 327,
+      "ps2_hp": 53000,
+      "psp_hp": 79500,
+      "ps2_reward": 5500,
+      "psp_reward": 4400
+    },
+    {
+      "id": 328,
+      "ps2_hp": 15000,
+      "psp_hp": 22500,
+      "ps2_reward": 5100,
+      "psp_reward": 4080
+    },
+    {
+      "id": 329,
+      "ps2_hp": 14000,
+      "psp_hp": 21000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 330,
+      "ps2_hp": 13000,
+      "psp_hp": 19500,
+      "ps2_reward": 5000,
+      "psp_reward": 4000
+    },
+    {
+      "id": 331,
+      "ps2_hp": 17000,
+      "psp_hp": 25500,
+      "ps2_reward": 5300,
+      "psp_reward": 4240
+    },
+    {
+      "id": 332,
+      "ps2_hp": 28000,
+      "psp_hp": 42000,
+      "ps2_reward": 0,
+      "psp_reward": 0
+    },
+    {
+      "id": 333,
+      "ps2_hp": 45000,
+      "psp_hp": 67500,
+      "ps2_reward": 5800,
+      "psp_reward": 4640
+    },
+    {
+      "id": 334,
+      "ps2_hp": 35000,
+      "psp_hp": 52500,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 335,
+      "ps2_hp": 36000,
+      "psp_hp": 54000,
+      "ps2_reward": 5200,
+      "psp_reward": 4160
+    },
+    {
+      "id": 336,
+      "ps2_hp": 49000,
+      "psp_hp": 73500,
+      "ps2_reward": 5700,
+      "psp_reward": 4560
+    },
+    {
+      "id": 337,
+      "ps2_hp": 4500,
+      "psp_hp": 6750,
+      "ps2_reward": 8000,
+      "psp_reward": 6400
+    },
+    {
+      "id": 338,
+      "ps2_hp": 100000,
+      "psp_hp": 150000,
+      "ps2_reward": 26100,
+      "psp_reward": 20880
+    },
+    {
+      "id": 400,
+      "ps2_hp": 4900,
+      "psp_hp": 4900,
+      "ps2_reward": 3800,
+      "psp_reward": 3040
+    },
+    {
+      "id": 408,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 409,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    },
+    {
+      "id": 410,
+      "ps2_hp": 3800,
+      "psp_hp": 3800,
+      "ps2_reward": 2300,
+      "psp_reward": 1840
+    }
+  ],
+  "enemy_hp_changes": 139,
+  "reward_changes": 294,
+  "save_tail_offset": "0x3e0",
+  "save_magic": "0x4442584d",
+  "save_version": 1,
+  "original_saves_default": "PS2",
+  "psp_only_unit_156_excluded": true,
+  "inputs": {
+    "ps2_database_sha256": "b5e10e2089b10b94d62eadc5db2f2ba5adc3b49c7254b0d205ae5b008c30c5f7",
+    "psp_database_sha256": "771f05848997a60d76e988e0763ce7f2257091baefa0356d27bdf75a6ab55e9b"
+  },
+  "scope": "Shared enemy base HP and unit funds rewards; original PS2 campaign and one favorite-series selection retained",
+  "visual_validation": "pending",
+  "save_reload_gameplay_validation": "pending"
+}

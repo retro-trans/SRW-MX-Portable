@@ -72,6 +72,27 @@ def wrap(text, width, indent=''):
     return textfit.wrap('', text, '', line_px=width, indent=indent)[0]
 
 
+def wrap_narration(text):
+    """Fit the native 128-byte row buffer as well as the 416-pixel text area.
+
+    The scrolling renderer copies two-byte glyphs and a NUL without checking
+    capacity. A visually short English line can still exceed its byte limit.
+    """
+    lines, line = [], ''
+    for word in text.split():
+        candidate = (line + ' ' + word).strip()
+        if len(encode(candidate)) <= 128 and textfit.px(candidate) <= 416:
+            line = candidate
+        else:
+            assert line, 'Narration word exceeds the native row capacity'
+            lines.append(line)
+            line = word
+            assert len(encode(line)) <= 128 and textfit.px(line) <= 416
+    if line:
+        lines.append(line)
+    return lines
+
+
 # ---------------------------------------------------------------------------------------- BOOT.BIN
 
 def elf(data):
@@ -120,7 +141,7 @@ def narration_paragraphs(bt):
     for n, (start, slots, name) in enumerate(tables):
         end = tables[n + 1][0] if n + 1 < len(tables) else 1 << 32
         mine = iter(v for v in vas if start <= v < end)
-        out[name] = [[next(mine) for _ in wrap(p, 416)] for p in bt['narration'][name]]
+        out[name] = [[next(mine) for _ in wrap_narration(p)] for p in bt['narration'][name]]
     return out
 
 
@@ -180,7 +201,7 @@ def narration_slots(bt):
         assert len(mine) == slots, f'{name}: {len(mine)} line strings, expected {slots}'
         lines = []
         for p in bt['narration'][name]:
-            lines += wrap(p, 416)
+            lines += wrap_narration(p)
         assert len(lines) <= slots, f'{name}: {len(lines)} lines > {slots}'
         lines += [''] * (slots - len(lines))
         for v, l in zip(mine, lines):

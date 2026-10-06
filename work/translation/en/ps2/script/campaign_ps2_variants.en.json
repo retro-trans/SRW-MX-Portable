@@ -1,0 +1,1625 @@
+{
+  "scope": "Original PS2 campaign wording, preserving gameplay objectives and custom-name tokens",
+  "rows": [
+    {
+      "source_sha256": "08b4cebb49b6f00b2ff1a737ab6b0aacd0ee58d956d734ae81aee17ca17e926f",
+      "english": "#女愛称「#男愛称's seat... The seat...!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b0b32b584f8310dcec280fe7df5c2761ebb250931de2a2797bb33d37b188e6b7",
+      "english": "#女愛称「#男愛称...! I... I...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "81ea265e61e8c67c01d75e11fc55e6617b1ec3220a5cf414081b6212c4a3b4f4",
+      "english": "#女愛称「#男愛称! We'll be immobilized in 34@　seconds! Destroy Medius, quickly!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "52036669613b8a539cfe7b1c8759b7d3605a59d6557c0540bc42c0a8c404365d",
+      "english": "#女愛称「...#男愛称, are you feeling all@　right?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "339d54121f918cc04bee1529374f5224d26e92899fa58f94993ef6537e186c5f",
+      "english": "#女愛称「...How is #男愛称 doing...?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6a8bd73fdb66661e7f1be0f76eceac5bb5eb05d16ceab90012538278b143010d",
+      "english": "#女愛称「......#男愛称......」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "37eecf98fb5343f3750584900aa478e668b746b1aaac19bad607322dc75aacf0",
+      "english": "#女愛称「...I'm sorry... #男愛称.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "44db39eb55b1166be6c4e9da58e495ab5d8db39380911a1dfdb7b5ea0d90bbd3",
+      "english": "#女愛称「...Being single is hard on both of us, isn't@　it?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "344a8fcd4160def2a121b074d822fd854b4b2e68bddcac1345e94a3ab4f060e1",
+      "english": "#女愛称「...Wh-what do we do, #男愛称!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "424bd845efd5cb1833b68334fa5c22ece96be0eb5b67c13ebeee4b10e156523e",
+      "english": "#女愛称「...Honestly. You're younger than me, yet@　you aren't cute at all.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e7baf14da3c5a0a7c024e65724a20e91185fb41ccb9befd384c0b48974e5881c",
+      "english": "#女愛称「...All right. I'll run a simulation.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2b3f2878cbc0937967d137299a8562bac8dbd690ca9985eababc932fb3b4100a",
+      "english": "#女愛称「...Dr. Zapato, right?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "53e94fc558c518c88f582b38f167cf8476d4fb5cf12d8395bb3321428662f47e",
+      "english": "#女愛称「...The TE limiter?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "544142fdf9869caf07e0b4f7a7236a458725020ea2f0d73921b110b7b5786ab0",
+      "english": "#女愛称「Ah... I-I'm sorry.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "540b90bc35b63610701c452ea7a9e927981faef868953c4adb41908b254a6fd7",
+      "english": "#女愛称「Um...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4165da9217459688fd71c17d874f2a7d51b37e556a39abeb77410999cfc28371",
+      "english": "#女愛称「Why would you do something like@　that...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "aed2265cc7d081f1cf12a746e82e10fa201225f0dcd5afd1879f99d254f2f87f",
+      "english": "#女愛称「N-no...!! This can't... It can't be!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bc2541c8b67a617cc841a1e4e5a62eb7d52269edbcc58b9fdb8231f6c7bef63a",
+      "english": "#女愛称「Y-yes......」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f19a23d77c20631aef1639dc2dbce85dede1b6088df25c0b8bee01cbf9f54f90",
+      "english": "#女愛称「Yes. As your partner, I'll do what I can...@　so we can get results together.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d1ca747b22cc04edfe097a6d9fa00947d477fa6a9ca17897d92493c7f546274c",
+      "english": "#女愛称「Right! If it becomes a long-range fight,@　leave it to my Form S!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "520d1662bc2c070f9f24c7f417bcf1282dff867a31d0433b462ebffad5dc128c",
+      "english": "#女愛称「I-I'm sorry... I... I...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e4ebfd0e1c31989a1a129869a3566a5952548b1781c14644c951bab45c88a498",
+      "english": "#女愛称「I-I'm sorry... I said such awful things to@　you without knowing any of that...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "7342794182ad7d8155764945ffb8068dd95a75b18ebd58ed9e57498310e1321d",
+      "english": "#女愛称「Th-then...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "758a6765d095481f38b0a2b4f5cccabf0e72c243e71c7894a8d8941508862c45",
+      "english": "#女愛称「You're sorry...? You...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "494d835b6513c8668bce9bd9e5ff2d9710250c3331f421246b152ecdb4834372",
+      "english": "#女愛称「Th-the front seat... It's been...@　crushed!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "77c85da7460d6ab2f1b5075fe94cd9ad754e5fde069c2b70883199aa200c38fd",
+      "english": "#女愛称「That's not it... I don't intend to die...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "64427ab2a971696cd3bde4ef9308de3c49bfe877588f80b1064b51b27d930223",
+      "english": "#女愛称「That's right! I'm not getting out until we@　get proper results!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a0031df53d08d77d38baa0ee882fd7adfd3e7fcc357b09d98ec233b831ff7a98",
+      "english": "#女愛称「You only just recovered, like Akito. Your@　body still needs time.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "62799fccf61af1e7c08cbcad8391fd508f7ac5d3a7cdb055b40b6fcba632bc70",
+      "english": "#女愛称「Then what happens to the TE Engine's@　output adjustments?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "fa0048c7ef0ea16ef77e358f9e49ffc5c3338d1b41c3f47864011ce9360e78dd",
+      "english": "#女愛称「And... what's the new unit called?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bcfa57e4d128f962f2b77aeea7655a6dbcbede93539cea3a2c870c8ba9b7506b",
+      "english": "#女愛称「Even so... I...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "aa4897c31c56f2c622a08ba41d37a36218911d92f386c8b86dd761a182e972b7",
+      "english": "#女愛称「And what are these optional parts?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a050c877cdbd622d5b395beec6d60fe9a7c2c70b44625dcc164a9c7e85741b0c",
+      "english": "#女愛称「And what are those wolf and bird@　machines?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a375c8031c0a43b6dae409abe1f863ef6b30f82f046f6701d386de499c92dab7",
+      "english": "#女愛称「Besides, don't you have some connection@　to Ms. Eldeh Mitte, Doctor?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "537df5f0c9a63f02b6d953ee3669d19deaef5f0297c0625a96a5e858149f1396",
+      "english": "#女愛称「I know that perfectly well.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "53901e69a663cfa1e5644c0d093a677bdf3f6c17b4541a4c90fb69c33727c409",
+      "english": "#女愛称「Never mind that! What's wrong!? You're@　deathly pale!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b19f04b87abb2e048e11cf7a4a9a6317e601eda5e2af51d94f8653a21589cee1",
+      "english": "#女愛称「I can't do that!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "73690c2963984460cb3102da1bf8cd9114c08fdfe4c9e7b6d1bf73c0ea7c3c9b",
+      "english": "#女愛称「This isn't a little risk! We could end up@　unable to move!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "81e6319edab7eb89fd53f39619926db3c237397fa39b39ccc9aa8c8b111e19cd",
+      "english": "#女愛称「It's just... I want to talk to my teacher@　again...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "badd06b5d99f9690a60d2b97d4f5fe094c23bb4994b202e7a0f3f502c8f19fd1",
+      "english": "#女愛称「Hey! Where are you going!? Wait!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a22f52e31e433a90b7af11a81b7922ae68f286b28b40bc58fccf4a63e0775006",
+      "english": "#女愛称「B-but... She stole Medius... She became@　my enemy...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "99e035635871da681f223059b74bd06f97d62f49fb15593905f9e57e59407535",
+      "english": "#女愛称「B-but your body...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "73ca1c66e6e5f080af57a1d0f1d3df79e4ed5a8e4efc08cb684f458a3b3bc441",
+      "english": "#女愛称「B-but I don't know...! I can't predict it!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5da73a82313c82feb5b7c0484cee54c5417a5da554eb5ea19b4b306f92a2f2c5",
+      "english": "#女愛称「B-but I can't! I can't fight my teacher!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ce2890e829292ead308a9aab8c96a441753045da81675db8dd5e41e069763ca6",
+      "english": "#女愛称「Still, take it easy for a while, all right?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d44bbfc0903acd66eaba09b95eaec35260b1970bee2b34d93e72e9e0d8c6333e",
+      "english": "#女愛称「What should I do...? I...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f5e5e48332262a7a97963a87610adf48c8ce08c78c93c6c366465fa7cc4932ac",
+      "english": "#女愛称「Wh-why...? Why...? Why would my@　teacher do that...?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "7d5861903197df4c36a2eea69c58e35a45c93ef0292800964bb4cfb5bf3767a5",
+      "english": "#女愛称「Then why won't you get examined?@　Don't tell me you're afraid of needles!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "583c35f3dc643950c92b0dce1908dced5b66adc547b9607cdb2c0f83befc9b6e",
+      "english": "#女愛称「H-hey, are you really all right? Shouldn't@　you go to the infirmary?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2db491b526163e4f92904c15ed44f8124a6dbe2138fefe2756b02640b0c9dee2",
+      "english": "#女愛称「Yes, yes. I'm just a co-pilot with hardly@　any combat experience.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f93d66bb2a43da2894068e03d8e0e99257ee3dfb7a74f0cae742583d6c01e440",
+      "english": "#女愛称「Don't give me that! You always tell me@　to leave piloting #機体名 and fighting to@　you!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "68e21c1fb7bbfda8856df02dd3b20e6fc70dfdac35f5f51673372f01348a6e72",
+      "english": "#女愛称「If something else happens, you might@　have to pilot #機体名 again...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "12fde783cdc77fb08238839a6220f75a63083ace2e1d26ee7baa7beb9e9e31a3",
+      "english": "#女愛称「A-all right! I'm disengaging the limiter!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0ef83fc1b69f27e4264ed806bf5cfda9995b4265d6d7dc23c62390e75f7e99b4",
+      "english": "#女愛称「I-I don't know...! So much has@　happened...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b042b543b48119c4d28d2da66c0924b091db1fa5bf8e74426455d5dee94d03a6",
+      "english": "#女愛称「All right. Whatever happens, Medius has@　to...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "76bd3ae98063651963d4c53e25eccb82eff1917ee3782f4dfc97e2d8f62a58f5",
+      "english": "#女愛称「All right! Deploying Terminus Energy@　absorption plates! Opening the bypass!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6ef000b3cc91fccdddf2ef6dd6b271dc7002c3ed081f1552778db7c40ae545cc",
+      "english": "#女愛称「D-Dr. Zapato...! Why are you aboard@　the Nadesico!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d79e40affb4fb0796100c9f7eb0edf90dbd6f87a14ac024cf89df9e77e0822d8",
+      "english": "#女愛称「Medius has stopped moving...! This is our@　chance, #男愛称!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cb908e00c36308dd5c08ca81fe670a8aaab86ff2a1b63822c74e4be527817b53",
+      "english": "#女愛称「So you're just going to shrug it off!?@　Now I'm furious! I'll stay aboard out of sheer spite!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d8f51c914a525549d4f95935b6065ca5a80bd7c64278e5bec001364b2f2acb28",
+      "english": "#女愛称「Why would my teacher do this to@　me...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9382a403786ccb88b3271e97a345bd07880eb1ee83d02319ab1ff6381f77869e",
+      "english": "#女愛称「What's with that attitude!? Who do you@　think you are!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8a8eafc223fb7dc20aa2daa9a709cb30bc5ebd406fc3efae77f2ebb7f7259f57",
+      "english": "#女愛称「Why do I have to fight my@　teacher...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0099de69f8e98377e994b34277aca52bea83717d026ed0c375490b008890359d",
+      "english": "#女愛称「I'll talk to her... If that doesn't work,@　then...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "519e120d83ddaf424611c8e919a8c1404abe5893ce1dacd762fd7d6ad430d595",
+      "english": "#女愛称「No way! I'll show you I can do my job@　properly!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "396e6675ef2f2b5a7069eb450786e26a4d532770d3d417165b43e441166a52aa",
+      "english": "#女愛称「It's fine. I promised Rain, too.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "06605d5090e3a4d59befa8898b444a99b368cef44efeade81074c3ee649b22fb",
+      "english": "#女愛称「Orders...? But Dr. Zapato isn't here@　anymore...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bce9a2734c08f5b9258d2c96da77efde99fa2089d43f145ad52705c78617e1a4",
+      "english": "#女愛称「It transforms...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8cd5f6a1ccc902567b8c46d2eeff345fdbdd942035b27b0c145b260fe8ee6804",
+      "english": "#女愛称「Finding out we've been sitting on a@　bomb... That's no joke!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d174d21c8d35bed87a4b5ef414aec5f04b61342116d8d4a275ee76eea76774fe",
+      "english": "#女愛称「The unit's shape is changing...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0b6d77855d5179128f8da446a145b561b15ad239624d2f4ac3f9880069aa93e3",
+      "english": "#女愛称「Confirm...? You...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "574a2e092792b68905e9622bc2af61651ac9fda9979162b948ccd96b9c9781ac",
+      "english": "#女愛称「What... should I do...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "be0d55c4ecf11a0b8ed5f59bcb85f1c2790baa524d839bfedeb2aaa95d48ed78",
+      "english": "#女愛称「I... I don't know what to do...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9b7f41eabef308851ba6baccada0f40446d19783780daaa127bf6c61b3b75807",
+      "english": "#女愛称「I'm a TE Absorber pilot starting today,@　too, you know?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8ec7821b9484c5e4414ed7f4160016a72181b5b2648a26fb65eea6973e279141",
+      "english": "#女愛称「I don't want to put it behind me... My@　teacher... My relationship with her...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5b5d9ac8f0dcf5d9102a385a54a94fd1ba408cd60e19013b1a1291d674426a26",
+      "english": "#女愛称「Disengage it...!? That'll overheat the@　engine, won't it?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2d2e09de10cfe1423cfc8415cfcafc8cd206a7884d434aef2fd375846646ba4b",
+      "english": "#女愛称「Training? Is that acquaintance the@　commander of your old special forces unit?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cccfa61cace71b1e4745a63ee25dfc82113e118176f0515a90d75b73b5269fc9",
+      "english": "#女愛称「Answer me!! #男愛称!!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ed5edb7ee220ee249ae96e08ffb2606912dad033ba85b91f8cd6e8aa327a310d",
+      "english": "#女愛称「The TE Engine's output is stable! We're@　going after Medius!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "34c081ca8e45f85f08900350ac123f63b571d9baa598a420dc268fae49b8d2e5",
+      "english": "#女愛称（! Repairs...!?）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5e6f21be141461540833a31754e898707482717df449e1ac06709d7dad4928a2",
+      "english": "#男愛称「#女愛称...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0b05783cf648d5606a8f53d7261300b8d570d6a82bf95527155c4d703eda2423",
+      "english": "#男愛称「#女愛称, full TE Engine output!@　Don't let it drop into the yellow zone!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "059c4338679979e6cf5b8c577dc79081e794fa08536d69753be563c197bae72b",
+      "english": "#男愛称「#女愛称! Don't let him distract you!@　The output's entering the yellow zone!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a07c9b5f3ec9b62b2368945edd8a9b9d58c2058f31de5cf0996dd9d1fcda4b36",
+      "english": "#男愛称「......!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "167b3a8dad6502ceaa850c8c495057c6977fb64da207e20af6db31d0c5571e62",
+      "english": "#男愛称「...Very well. We'll take charge of the@　new unit.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3d13c832d4d89bfd395e27af251f20e56483d9c79ee4670d0d9fb1f4ff522688",
+      "english": "#男愛称「...No, it's fine. The rest...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5eca49fb05e9f3db4dac5f6ec8b6c30bb8cecbdec43db56688c4789ddbb0123f",
+      "english": "#男愛称「...I'm sorry. I never meant to deceive you@　or the others...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6ba0e540d23f9bf6fa1f192d7cb77a8e4ed6c66011739bec2440ca56fe04f03b",
+      "english": "#男愛称「...It seems there's more going on behind@　this than we thought.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b44e4fa5e9ba6ebec7455f62ab47899006a2ece31debdb7fda9f1401f22f6ffb",
+      "english": "#男愛称「...Testing the temperamental units before@　Medius required a strong body.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e36e554c534b894ce6fc2b9b4901b792cb2fd2d70b9caf3573598d8865e3eb74",
+      "english": "#男愛称「...It's all or nothing. #女愛称,@　disengage the TE limiter!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4745d78b2e46ae2fdc2771f9a773e5cf5a7ca5cfa5ab2739a3b9ccfc62fcf2b2",
+      "english": "#男愛称「...What do you want?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a0b7645a2c9cad88806fe1f3b8ee1ec30242c8689c5457154e82b126a76effb7",
+      "english": "#男愛称「...An acquaintance of mine is fond of@　Japan.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "910d10488d001212724fc25e1a631c0b1bb3fdef99342ff619006bebb3de0f5a",
+      "english": "#男愛称「...I am fighting.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6b667483c3bb4a365fb0f49fff0e4b36b670db6bce30e5b6bb5bfa3e9074f2d3",
+      "english": "#男愛称「...If you've got a complaint, I'll end our@　partnership anytime. Get out of@　#機体名.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "55aead60d8f5d1e9f658eb382bc2a8108d6486a02cc42754f81bc45d7644809b",
+      "english": "#男愛称「...Are you trying to get yourself killed?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f86c88e2e2a9761c306370f644a4483641204c5a5dce2ccb263700186d488ca2",
+      "english": "#男愛称「Y-yeah...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b7229718535bdfeed977977b4b557971f9dc102a44548d07a864cebff6a24161",
+      "english": "#男愛称「Yeah... When the Cry Wolves fought the@　Devil Gundam... I was mortally wounded.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0cebe7c7ffe7453ceabe80547d9d9cf4334c96f7d77dcb86a0a4779b9a4ddcb3",
+      "english": "#男愛称「Yeah, it's impossible...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e9b27c8f17f64c122a17ffc293302be963190271635827c27b937f07ac586ff5",
+      "english": "#男愛称「Yeah. Albero, Eldeh, Medius... He's@　behind all of them.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4ba6601dcaeb2416daaa203fe6256c788fcaec5c4d3dcd63ac92aa0d38da7179",
+      "english": "#男愛称「Yeah. More to the point, it's@　#機体名's first battle...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e5e60d855c3cacb873bef1badda7acee62255b3273679f33e31aa6103765f7a5",
+      "english": "#男愛称「Who is that woman?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2c9731bde37bf2eeb1013886c016528ee4d72daaec528e92f2a61a7b358ac487",
+      "english": "#男愛称「Don't think everything will go your@　way!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f8bbe4481e3df35f0e325eca9c3f5d171bb006ddcaff4868df895e827664a219",
+      "english": "#男愛称「Just control the output!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8d7aea3ec877e383ed1e25bed42d23c6aad837647f80069adae3bee2b89258a4",
+      "english": "#男愛称「No......」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8f10cb43798a19cb9483d0ab2df204b27831376114a86524edaea824f5022f5b",
+      "english": "#男愛称「I understand how you feel about Eldeh@　Mitte after what you said earlier.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "745e3f0cc7639a580a52d20ec0b5ce207cdf732bc534c1f5dbabdb05607fb7dd",
+      "english": "#男愛称「G-ugh...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b20271bb4ba0bd9e1357c4ca2b7fac1060f42a4e8c375d6a91f398ab01bd5fcd",
+      "english": "#男愛称「And that power Medius has... Are you@　hiding something from us?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5f999bef7593041225b84876850d5737c148dda048b3f1da6615cf6f2929dc71",
+      "english": "#男愛称「Otherwise, the Cry Wolves who died will@　never rest in peace...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ece495aa3840a220e2b123706ce54860df47d86ad6c1095f03d0f121a4efea34",
+      "english": "#男愛称「That's not it. I'm actually rather fond of@　it.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "70d8e1cad266d1e0bff2314390c25311174836a67ed7cafc438d9ba0095a6d31",
+      "english": "#男愛称「Right. Simulate the unit's condition with it@　disengaged.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d0910964228d9271318a8964ed3d778ad1ddec90fa225bbbc3d2601a066ed0c7",
+      "english": "#男愛称「That's right. All right, let's go!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0c7659364219f2347d9676e235b2382de7762636fda49ccfa8e21551f03fb801",
+      "english": "#男愛称「And you should have left the battlefield@　to mourn my comrades and your son!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "53449e10dedd0bd302fc9557b11bbb08e7bfe16a114a1b852bf24671cd203777",
+      "english": "#男愛称「Then you'll have to steel yourself.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9831f5ef9ad5e3b2b2220d7041a46c2ca038e9f5d4962367d795b4cf446f479b",
+      "english": "#男愛称「Besides... Whatever started this, I joined@　the project of my own free will.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "236c32c4a11541c1b197094b2376a4e7979105c3ac44b3e4d08a2ea8c7583765",
+      "english": "#男愛称「And now even the project itself looks@　suspicious...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "210d9ee871d71499920cd3e5e33d25c3cb9b6c9deb8032dd35e3bce95bdf059f",
+      "english": "#男愛称「Besides, I have my duties as a member@　of #部隊名!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f012c8202373e214f32715603322276512f64b36267a7bd8a08a13beb6686f0e",
+      "english": "#男愛称「Besides, the transformed Medius is too@　dangerous...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4248e9fb6a33bbe916a84e732a4de50949fe3ac1207abf82d59bd32dc82277c9",
+      "english": "#男愛称「I also trained at a Zen temple nearby as@　part of my training.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "533b306df1b11afd9749cb954258edcab688532ed1d96152812259bbef9f1bdf",
+      "english": "#男愛称「Don't worry about that, either. Broken@　parts can be replaced. Just like an MS or super@　robot.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e96a565e8b74fde8f8fde696e822902f99869779169a0de16321c6f598840a80",
+      "english": "#男愛称「I wanted to pass those things on to the@　next generation.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "57af6c720de546a0a806b4fae849b3cb69a0a50861388c9cd15d08316182abe0",
+      "english": "#男愛称「Do I look that much like a child?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4bb10845e8a2ac37b097040ba2eb7b40cd8d4d2ec229aee3ecad9fdcfae7c998",
+      "english": "#男愛称「Don't look so miserable. As you can see,@　I'm alive.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3dfdf0ba10bbb15beeb1e48b867e75de23047aa0f4b9451c3b496add92092c72",
+      "english": "#男愛称「But it should raise the output@　temporarily.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8998e0171870e53341fe43ce3ed38101c53fc7e972b6be466b2be3efcac939fd",
+      "english": "#男愛称「But we don't know how she feels about@　you.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "237853596108d737958b8578ff0bf1f843b6a2b52428e4aa128ce0e459817ad2",
+      "english": "#男愛称「It's like a mild seizure. It happens@　sometimes.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f7f761897779157bea879b6bd200d007d2fb460a85de8baf533ec7d7b3bed64a",
+      "english": "#男愛称「Then that's fine.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ee535ddaa27f2fd7face8d74679dba960d15e25da3332b4a7ba61a94722f803e",
+      "english": "#男愛称「More or less.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "03cf1fa0edb38e62628caf6b9ac6b27f4b1c2ed41ae781834ed220dc7ab0de5c",
+      "english": "#男愛称「I-I'm all right now... Sorry...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "38f65f520ba3428651b740c5d8a6e7867186470a258f1348261dcdb64ac05173",
+      "english": "#男愛称「All right! Disengage the TE limiter!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a110bf867c1ef1f80c16594fbf4d3ccacd10b5db2f10a46ee6bf376cda425099",
+      "english": "#男愛称「All right. Then let's get my body@　\"repaired\" soon.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4b3fcdce0f3262b4a8c8b9e4d61c949f649c80838d208eb1f2d7d5ae4debc40d",
+      "english": "#男愛称「I know! Adjust the output again!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "17c51e2bae054168a9aa1a433e24f5dddee3d66cd6ea4eb96ae3a2e9134691aa",
+      "english": "#男愛称「Tch, planning to sit back and watch...!@　Bastard!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a84af58acb3e948baf2b89c5a36c3ebce838e9686cf81384c0c3e707a21aab5a",
+      "english": "#男愛称「The bridge. I'll confirm the mission details@　with Lieutenant Douglas.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8ac30ffea4c2e86805f8bda644e90faf24bf49a8052c2e79075f1ff3bbaa6321",
+      "english": "#男愛称「That wasn't in the project's@　specifications.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b65b8404495f0f1b36ffdf1b5551531785d49e965ee12e282bd8e3d45b21c147",
+      "english": "#男愛称「To bring down Medius Locus.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "07f4770eddfe8d0d9c15f75886a377e27a04192eba82b34503d4ff83253fb8d0",
+      "english": "#男愛称「To Rain...?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6c210b15bbcb2851cec8799d509fca8944aa121ef01009e9f73d6a9f156fb8a1",
+      "english": "#男愛称「As our battles have shown, as long as it@　has Lasmunanium...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e2e38529650321ff5e659cf7ea081f4052c90f508d885f0fb7cba1a2abcb5c7e",
+      "english": "#男愛称「This time, I'm here to destroy you for@　good.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ce54e3c68377d060c9acb6d1ad612895df762e5e66682943e0dff771d185d313",
+      "english": "#男愛称「That's... what I think.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "743e3211776ee3d5327eb2a2f380c2ca7777b405da56bf949ba944707102a62b",
+      "english": "#男愛称「I'm fighting Albero Esto to survive.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "6b4150b1e65cc0ddc1ed4a80cbd19d0ed4f4fced31f3387fd9ce76046de02e82",
+      "english": "#男愛称「I was shaken when I learned the@　commander was piloting Medius, too...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bd2df37f4c6cb7200202ddc31d0f5f5f72d65f5ca7bb86174ce65d0b748eb59d",
+      "english": "#男愛称「If you can't accept it, you'll die.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e67c04f95775a69149ebfb0a1fe3afe7cc9ae0c19791809cf16fd9fd951a9244",
+      "english": "#男愛称「I knew there'd be some risk.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e2f3909c1a9a048ebe43ab654a0388976f38876d5fd74ddbb40df60938899af7",
+      "english": "#男愛称「I knew there'd be some risk.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a07b62825a0e49d0f31970882162250348973517f71f12cabbcb15de3e34bf73",
+      "english": "#男愛称「They have no intention of being friendly.@　If we don't fight, they'll kill us.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d9eaca2891a4cb809a7b036d6cb1e5c07bc9c461e6da845262ff41dd8294ad3d",
+      "english": "#男愛称「I don't want a lecture. Give me stronger@　medicine.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ea6a3d9189ed043aa9aa1cfde9e1f1871792ef514f90a1cbafc5c11fc0b6e765",
+      "english": "#男愛称「Focus on the battle, #女愛称! Show@　an opening and they'll get you!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "31e0deed2a5d4b216d89fd7c920afe47bb032b677d4a65f7bfc601be4f2651c8",
+      "english": "#男愛称「My medicine...! My medicine...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e94d9e23ce27adc5ed5af37d29e0183997cf03e1602d0f5c4a838a501276440c",
+      "english": "#男愛称「Focus. Don't get careless just because@　adjusting the output has gotten easier.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "20b012623f28dc7d92df89b7d7c8ab0d7dae24d7c8c98eebda8eddc2821b9582",
+      "english": "#男愛称「Unit 8...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9cdccc87cd1f6096fd863239d85e0a966aab3690f0d8f52b15ef8294924a0076",
+      "english": "#男愛称「I'd heard about Unit 8, but your timing in@　bringing it here is a little too good.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8c0acb3fb0b66fbe763b7a0f8f5f47647aea84302a7e7c0c23ad7f142e34b398",
+      "english": "#男愛称「Unit 9...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4621a59f5d288326ffc8217f611f77c4e1ce9e2ed5d3ba5e1eab2a303edf25a6",
+      "english": "#男愛称「I'd heard about Unit 9, but your timing in@　bringing it here is a little too good.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b3bf81b4462c6e07f5e7257dcbe36199af4033ccf06e5338d738e00e7c23b0a4",
+      "english": "#男愛称（...My arms and legs still move. I'll@　manage...!）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2bd213442da9d3e1653697111d49bc547fcd33610a09285581461a8700054cdd",
+      "english": "#男愛称（Damn, the medicine... It's gradually@　losing its effect...）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "87b9dae46f3240b5b2d20c0247ee34b2788b3e8b549d0fcb2e7e0be8d707444d",
+      "english": "#男愛称（Damn it! If only my hand had moved@　back then...!）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e7819bbe14da7b9a1de23f017ff822754bc683f28a95f70eca2bbdca647fb031",
+      "english": "#男愛称（At this rate... I won't be able to move@　my limbs properly much longer...）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "107b3e1491d6a97dee157421fa52f6fe39816c164a8528c4ec50c307d6321985",
+      "english": "#男愛称（It's her first real battle... No wonder she's@　nervous, but...）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1c1bc33bdab9ebba67c2dae6f7106e094cd245149d271cf1fda143f7c9ecfc87",
+      "english": "#男愛称（A new unit......）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "180b277623556eacb44402a348d4caa882ca5f435ce5bb40a60387dbba1580f3",
+      "english": "#男愛称（Impossible...! My medicine shouldn't have@　worn off yet...!）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d0f19c5daa41406319d177f36b1ff766b1fda632842ec7e11fa9eb7bd30f0d91",
+      "english": "Jun「Black Sarena...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "74cde6ddf13a97822885a072ec8e39726c75fbd8a4cc3d90e0feefde34224cd9",
+      "english": "Asuka「You never get tired of this, do you...? It's been@　three days already.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9d924892a7fe163b276ab9bab1d28a32ba91ac01876894ca1825dbf16d7fc542",
+      "english": "Amuro「We must never forget that the bonds between@　people give us strength.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b2f8e56619b67f3d13cfff2120c9bed62e525ae9faed60c4979a36ca7838d652",
+      "english": "Altair「Whoever obtains every Data Weapon shall@　become the king of the universe...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9ff84cb9ea5500006c41fdb498ed865fe01a7983bba0e3ae1ebe85205b31c528",
+      "english": "Albero「If you can't forgive me, do as you please once@　this battle is over. But for now...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c143b892272cbe345ea9dcb1b8f544487c2a922b416ad846bfcdc5ed783d3afd",
+      "english": "Albero「Is that how it works?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e267c43b208a27fabbd51a954841bf0f55d0e31197a221988cc0630937499bb5",
+      "english": "Albero「If you won't fight me, die here. What's the@　point of living in that body?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d0137263d872d333f499c82437aa5f5a730c55b05e2c89c58bd0327a86af57e0",
+      "english": "Albero「Defeat the enemy we must defeat and return@　alive. Everything else... comes after that.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4b1b12fc471afe6f628bef0dc50dfa169ae3c8d7d54123c9dbff79b061a95536",
+      "english": "Albero「Your unit's movements are sluggish. Has your@　medicine worn off?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1f503a06c57ab549a95a22c750400a6f4bf8092e3b44cc0b44c3e784e9af4dc6",
+      "english": "Allenby「You must have been lucky enough to cheat@　death.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "eb18d02217becb850e8864f7370354d878ce85e18c3ca9b04dfb173f6c59b74e",
+      "english": "Allenby「Could it be... you heard that@　#機体名 was destroyed...?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "453386088c3cd50a4870266d3fcb06a00d1e64eac5251d8037d1ffdc2a7dbd80",
+      "english": "Allenby「You're safe... Thank goodness...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "7ea80173d7bbc098e837af4b675353a3a9ca4729dbed00af6bbde72d2c0c7f97",
+      "english": "Eldy「...I believe it's a side effect of the medicine.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cdd52bf5f198248bbda637e71974ae7f8400e03525d3889edc41395b811f575e",
+      "english": "Eldy「...Y...es......」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "fecd5313811f6ced447d3338f017a699255ed058c7deb746769767eb33f383d2",
+      "english": "Eldy「Yes, if he takes more than the prescribed dose at@　once.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2c770ffedafe690098c47f5591c04d755df39e8aecdc319e58c7243bf6d21437",
+      "english": "Eldy「And he hasn't received Dr. Zapato's adjustments@　lately, has he?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8059e357182f58abeb94d1c608aaaf28aeaf5072171af8d0ac08bd6fc456ff45",
+      "english": "Eldy「Dr. Zapato contacted us. He says he'll give him@　new medicine.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bc845b4792ae231df0c2def15d166781620dd2b578427f77a58f3dd58c9d8f51",
+      "english": "Kyral「My staff has drunk human blood, and my soul@　has drunk human lives...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b91cccf188fcaf29c22863ec0043d016188fa3ad9f5ae22fa4c59f088e894560",
+      "english": "Gon Jem「I'm honored by your praise! In return, I'll give@　you a taste of my broadsword!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "fe901ccaa90b8f8d8f475cbe3ec6e85014b6a8e5597a978daec9c7830f89860e",
+      "english": "Kaine「Hey! Everyone, we're back!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "20fda2cd119e4e66809e0ca65717dc1a9b30b0cae99b323a316444177d65c429",
+      "english": "Kaine「Looks like they've already hit it off with people@　their own age.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4ca35d4ff887fc6d28af1682318bae58f1b7eea8ff5edc97ea283895677eba07",
+      "english": "Kaine「What's next...? The Federation took the@　Giganos moon base, right? Is there more?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cd4321fac54ef6f679c1f2850677c6de0ffb305068441519cf991ac9afef85d9",
+      "english": "Saburota「To put it simply... I helped her draw@　manga...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e90d8a3b23acdf5e82937825e063ffcf0e7717d3fb662ae38156ce08f5f93d74",
+      "english": "Shigeru「The bombers will enter the airspace over@　Tokyo-3 shortly!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "790ed45db5e5ebdd306e3071004ecd41fad09d6044f40d16c1403dd7af059847",
+      "english": "Shinji「Toji! Toji, answer me!!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "fd1afab9248e3e529a0699526a2fe0b07334fb71659273862746db64bccb0550",
+      "english": "Judau「Yeah. This is the infirmary, you know?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2ee85c67ced3ec274aa2c549050a2f8e9b6c39bfd524afe272fbdec399543e03",
+      "english": "Judau「But what happened? Your hand suddenly@　stopped moving...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "82380d1137d0c8803fe017db9b7e795e7795fccd1431f0ab89783635291d9e4d",
+      "english": "George「Yes...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "762ce162d384c4b631a4936fdedcaf0ab95706cef95dd6c241dec05fcde0ced9",
+      "english": "George「Yes, he's in charge of developing@　#機体名.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "234a34a1cb653286b2899c097dbed41f81e93d270f91ccc475522ec1ad9e572b",
+      "english": "Zero「Even if you have the seventh, I shall not lose!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "afe7666ad2805949f3d349e6d32b47c237c68983f6c7ed77af34ce268d983b8e",
+      "english": "Zero「If you intend to take me down with you, it's@　futile... Altair.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "943f0d39a3b1ffea0394af7ca87f7cef3b5fe7ba77928c0ef9fa84df45c8272f",
+      "english": "Tapp「Yeah. Having a family really is nice...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d8d9bf860e392a396b13f1d185492499c8929e41004fabf5d8721ea34a0a9279",
+      "english": "Chibodee「Still, he's one tough guy.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "86f0592c0b24329c42cefcde4c9497b3005e4eb5993a12f95af7697d36555ff4",
+      "english": "Chibodee「What's he doing coming here now?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "02a7f55e5447d5e116953f2174046dcb940d9c203db4281a757c6e6d6fa88a01",
+      "english": "Chibodee「It's amazing he survived nearly being crushed@　inside the cockpit.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0876d926a5f9b57a26967cd0bfe339fe3f278db16e9b2b5414b6a198f3acfd94",
+      "english": "Devil Saturn 6「Oh, right. Just to be clear, don't get@　your hopes up.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "63bb682d6433b12211b31559725d43bd9666dbf6e279f83eb61791b44c970e72",
+      "english": "Devil Saturn 6「He's really not going to show up@　here.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c11e535b36458116ac7338abe3ff3b81c9e7452be6e8272d2c50461560317d72",
+      "english": "Devil Saturn 6「We were just looking for somewhere to@　move to.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "faf18e38b616db41932a5ae3251563ae6208d430c28470e27193e1685c4ddd86",
+      "english": "Torres「All units are in position.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "a35b3c3c5bdc2535d74b8758cb450c752812d47d748f285f1b5e6d3222ca62f0",
+      "english": "Domon「Wh... What!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "872c9f6d50a4a50786123c8203fb812991db49272a0c6a0df8cc354c86111491",
+      "english": "Domon「What...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3d8f9f89b0a380d8f98d2fe1b725c2684d5ff58929e4dcfd111f86b8d4668a5d",
+      "english": "Domon「Answer me! What are you planning to do with@　Dendoh and the Data Weapons!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "23d044f6709ff3b9bf56dfb04b41a73dabbaf741e2e5bb67487c8d43469e2ea5",
+      "english": "Domon「! R-really!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "88a537b9e014c72c9d9bf9915244cb9b1b5dbceef0e153fde15045dffa4fa2ad",
+      "english": "Dorchenov「I'd like your cooperation in bringing this@　war to a swift conclusion.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "28a2644335cd819d8bd077805a4cc0c694e3ddea3072f6e797e97a3293ccc330",
+      "english": "Hari「I think #女愛称 is safe, but #男愛称...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e4dfb9b8ba2bc163c6f6b453ab4b2ccbafcbbfd8a9b0722f78a9647f16af2676",
+      "english": "Hari「H-he was crushed between the console and the@　seat by Medius Locus's attack...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "462fde1bbd33b2df16b591265f3939cf7ac49457c8658a9416a59f11bbd6915f",
+      "english": "Hari「Huh...!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9976b4f53b108ada28edc26c60672e4c29cd40b6a1724b7e9490441e07788f3c",
+      "english": "Hari「W-we managed to recover them...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9ec5f565b23ab4b255f3ce2bc9ff5a7fe166b8c08f6c1691a077995308200517",
+      "english": "Hari「Y-yes.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "541e08399d7be84e725c38b121ab780040eb3a0e5870a25ec805ef857afb9606",
+      "english": "Hari「Hm? This is... Captain, a Federation transport is@　requesting permission to land.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "aaf7f019a184f2c87170f9916778cd2642394ec340b11fd77b6d467df3a32917",
+      "english": "Bug「Hmph... You've grown bigger, but you're still a@　child in the head!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "bb00400ef30f436c8ca7dac731f93fb4f00a2891667906e062d0f274f7c0fab2",
+      "english": "Hikari「I make lunches for my sisters, too...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "85439a35b9d33286f02beffcc335faed24ec9c27fb23fd2d64e7d2f34abbf39f",
+      "english": "Hikaru「Because he's perfect as the hero of the@　hot-blooded boys' manga I'm drawing!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "13f4f1425c3a70184aa8064c5286199022a6fddbe430586f5c5b05dc77de027e",
+      "english": "Bright「All right! The Nahel Argama will descend to@　Gulfer's home planet! All units, follow us!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d4794d535194f4d726ca1712c809f3708db0ce3ffe995610f37e0b94508aba58",
+      "english": "Dr. Plato「Heh... Even so, I have no intention of@　apologizing to you.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b8074edf73de7036cf1eca7818378cc22bcd5d5be17378fcb5cb961ddbcb4da1",
+      "english": "Vega「......About that, actually......」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c2b687489d13e54c7205db5c7e5bca8278cc19c0af60c5b8a26453203a07c070",
+      "english": "Vega「No, it's the opposite. #男愛称 is alive.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "631471b6bf3a1fac1b98dd9700ec633d014c07efb1cb41d7158688913c294821",
+      "english": "Vega「But that is the sin and fate of the people of@　Arctos, who created Gulfer...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "06d5c6603176ed2e92aaa957816d39795a3ee7c66bf9fd4c2e960179c93bd299",
+      "english": "Vega「Ruri...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b09ac364b050749289b8e061d73809a08c191efdbd535aeb3533c020ca9343ca",
+      "english": "Vega「Brother, aren't you the one who is mistaken...@　who has been deceived!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cb80c5dc9a608b7ceae848b6288416815087f3843bd8aab420608a3b5c2bd3de",
+      "english": "King Vega「Oh... Rubina... Why can't you understand@　my thinking...?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d017a9f8b41b449a59addf5f00f98cd3d175b9f2a8e68e493530d321e5415dfc",
+      "english": "Vega（But... I haven't reported this incident to the@　military yet.）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "83abd62e9d3b3d385cb9a90ccdb0fc69d3ea389256cbb778420c24b150953912",
+      "english": "Vega（How did he find out about@　#機体名?）",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8d7d7a203a773a828447fe5b8b500c453dbc8536caa8af3be821a905af5ca29d",
+      "english": "Mitar「#男愛称, I've brought parts for your body...@　and TE Absorber Unit 8.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f327b6e94657aa9ad1c3d9417462ec61741d79fe535ba145af8642535ad06973",
+      "english": "Mitar「#男愛称, I've brought parts for your body...@　and TE Absorber Unit 9.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "55f31af2d1eae3cb80f929e6714b29bf986f5130b98f9f029a7620e253019e7e",
+      "english": "Mitar「Once #男愛称's repairs are finished, take it@　out for a shakedown.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "398478dfe535e74946a93a500e5e9bb29cc8c57233c36cf86be0e3bbd1049b9c",
+      "english": "Mitar「...That's quite a harsh assessment.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1cdccb54615a547985e014688c17bcf4f72f7acb7041bf57ec3975b01d672c84",
+      "english": "Mitar「Yes, leave it to me. I'll adjust you so you can@　move without medicine this time...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "36b1b9b73a5a2b60246b26d38d579af4d29f15c698355b336af588882e2c8924",
+      "english": "Mitar「#男愛称... you'll be responsible for piloting@　this form.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "96aacfab77aa59642b8a746fbebd1c91a91e675298546e5c4890183809386e98",
+      "english": "Mitar「Yes, your new #機体名.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e671691edbbb3c211e9edeb8f9989d773c2e6cca070419eebed68a65fdcccacd",
+      "english": "Mitar「Yes. Unlike before, you won't be a co-pilot...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "869f3dfe800724e3b5628277475bc9f806b83128ad008c01772342c7b04fe703",
+      "english": "Mitar「Right. This is Form G... specialized for@　close-range and melee combat.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "91d92cdc8a1f332a15206e0be35896fcf94dbc65311b934e1aa7e945c4201198",
+      "english": "Mitar「And this is Form G... specialized for close-range@　and melee combat.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f46128d84390c17707eb06dc8a068834b682b12797a10137f13d65c26f6ef935",
+      "english": "Mitar「In short, fewer engine problems mean you can@　concentrate more on combat.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "483d495aeba91a2b1fc8dfa95f5901104ecd090258cca900a694c42312f295df",
+      "english": "Mitar「Though all that actually changes is where@　Rouga and Hiou are attached.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "15338edd33df20144fd3dc05be6fbe84acea6875c882352632512b770913bef7",
+      "english": "Mitar「The unit's adjustments are already complete.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e42e13e82d7cce929ce2d47c859a2a4aebd66ee61b31851529da10af5cedf504",
+      "english": "Mitar「I received a report about this incident.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "87066053ec0503b4b276902085b8c1f35823eda11e15bd64ca2e8ca32c879216",
+      "english": "Mitar「I'm counting on your performance, Second@　Lieutenant #男姓名.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "eaf8264452b486f693699a0b1abd9ba12ff0a219575ebcf1896004b5ea0c6331",
+      "english": "Mitar「I'll arrange new medicine at once. It's improved,@　with no side effects. That should do for now.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0bef8b8b6d1b9251090ce2f687f7ef315bc721c4fb35f9c13d85fecd5b64f964",
+      "english": "Mitar「The new #機体名 itself transforms@　between two forms.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "88ae435307e41b9af5517b7c77cb81b6da75603922cd91b2342b3955c62c9ec0",
+      "english": "Mitar「The new #機体名 has an improved@　TE Engine.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4b4684a120176858d387a1f49a291cd9b16cd8fc1acdd54c3bb78581ba017e2e",
+      "english": "Mitar「Look. These are the specifications for the new@　unit.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d18feb3e747de58f8f8b5ae172ea6b7b747f1757bc7ebf061a4a7ad9f92d021d",
+      "english": "Mitar「They're normally attached to the base unit.@　Depending on their position and use...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "aaaa38dee4ff4dc5d3aa1072c8e60138cc516ddaf3cc2b9334de29a440c8e619",
+      "english": "Mitar「They're normally attached at various points on@　the base unit. Depending on their position and use...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f1f2de3aa4ca0003e32cf04c8c0ee6c2ba6fa1dc893254e70863acb7b42ff17f",
+      "english": "Leina「U-um... Please don't fight.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "2d9bfea7f102e9fc8946a183e03cb334339b4aa0ab794be90379efababa4e505",
+      "english": "Leina「He wouldn't let us examine him, so we don't@　know his actual condition.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c40315c54b73bdda892be8485a4acf972bac44bdc055df355adb0982ea21a9b6",
+      "english": "Ruri「...Harry, please give the transport permission to@　land for now.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d2b4a3f29492a0b9a468a52d56a7f9c9c78566b6cf7c9d8134a21e23f3871dd8",
+      "english": "Ruri「We... We can't let the ship sink here...!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "333d062d2dd27047774fb1f9c2657ce6c2c001919f6829023b819eb49f7dedc2",
+      "english": "Ruri「There's no need for that.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "921b4fda61d8d3d470197e8cc5f05f186f54d465c84bf4a52502f7bd4299f054",
+      "english": "Ruri「Yes. Rain is giving him emergency treatment@　now.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1bc21a57f73d5bd3cf8bfcbdcfa6954c9d0e4f843d8d7acf309a201c9cf3f634",
+      "english": "Ruri「I understand. We should be on guard, just in@　case.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1bfa334d12d017d07a5cb0be8e4b2c007f5f72930bd82f893dccbd4e32c05bb7",
+      "english": "Rain「...As you can see.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8244642fda0379aca8e8e42f3eae59dc20c317f405ef515f10b2f196d3854c41",
+      "english": "Rain「...I'll fetch his medicine. Please look after him for@　a while.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e67be12b3df8e8f8cac786ae21957c7e0ba6d66248c3bf0dc7d88c8223906b21",
+      "english": "Rain「But we've finished emergency treatment... and@　he's regained consciousness.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b054db434c11796f3fe98ea11b0573fb4bd9551b0647f3bcd71dff93daafdb00",
+      "english": "Rain「! #女愛称...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "265f8a0b79b5a12e863e03bae58948b84316458933f755577d508b5b920a1220",
+      "english": "Kazuya「Yeah, you're right... Let's check on him in@　intensive care...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "212d760f335c1e4071d1b4041217e146068ab8af4e7dcedba0d903983a9993f9",
+      "english": "Kazuya「Yeah. #女愛称 was in the rear seat,@　but...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5f106ffd03cc2d6975bd4e52f61886ec86e34132970a86c7074a85a01bcb0ebd",
+      "english": "Kazuya「Then try it! Let's see who wins: my fist,@　bearing others' hopes, or a villain like you!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9de77a25fc41e27654a8fb3cfce2d784092603145746f816dfec492dc57c6372",
+      "english": "Kazuya「He was in the front seat, yet he survived that@　impact...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "95503bbab80d3938624700871b66c56145d13573883eec56a134ba365dadcfde",
+      "english": "Kazuya「Your fists, steeped in malice, are no match for@　me and Daimos!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e083e54c9ce9935f81ce883f3adce27eea94b182411abcc5dffd094bde584ab4",
+      "english": "Kuki「What if that mechanical god appears from@　\"outside\"?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "79118ea10264453d129c6b595230d1f213ddc6993d904d15da945bb1649aa605",
+      "english": "Kaji「And the being that brings the out-of-control play@　to its close.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5b16c514caa03ab8eb4558b95ec3d00737a1529e9e8aee73563a199168be1425",
+      "english": "Hokuto「Don't you have any weapons!? A huge@　hammer, a guitar, anything!?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "67289799b150df24a5b6f0d40ecb633f0e042e3e409b46423149f79264e9480a",
+      "english": "Hokuto「Even without the seventh, we've got to do@　something... We've got to defeat Gulfer!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4771972eb8f3708485eef3b73deac109987f6e25356a494d8ac68afdc31b140f",
+      "english": "Hokuto「Mom says he still hasn't woken up, so we@　don't really know...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "053c4d4ae9544a8d50f4fe8edff94a2408018fcb00fd46e86d46523214090097",
+      "english": "Futagami「And... once again, a deus ex machina was@　brought in to bring the play to its close.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3b5ca9e58e5f99e3cf914fde81aaa7c775140b0b9c2ba85a5fc4b454d815a1a6",
+      "english": "Itsuki「Even so, I wanted to change things. To sever@　your ties to the past, too.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c651186a1099d9383cf5870d833950ae763476bd40dba2a12838ba254d82fa5b",
+      "english": "Hiroko「Some theories say it's the Shadow Mirror, the@　Ruina... or the Einst something...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "42ae6f08c511f863e2c548afcccad1ff2b332bf33f319f5b2753d21127da26ad",
+      "english": "Ryoma「...Anyway, all we can do now is pray he's@　safe...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "4f68bc39543d91fd89bdfa0046f480dbf2c5c9e1fb017261e5178eb8da325ed5",
+      "english": "Ryoma「Could that person be...」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "aca37e0ef4cccddf2f1fb17eed221a802b5cfc0dd8c1e9e4924c669052b11411",
+      "english": "Soichi「We must protect the T-Buster at all costs for@　Operation Doolittle!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d68b0585430c57ff6c1c9d545a09f0cc270009bb57b8133d577cd7b82454cd9f",
+      "english": "Mamoru「Wasn't it the Guests or the Aerogaters?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "7d4707420a61df300a6357ebb75e870a262f9ecd534aa7eba0fb48bcb1fe8f66",
+      "english": "Maya「You are RahXephon's rightful Instrumentalist...@　You were born that way.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ccef3dc21aee3092dd8ef0002c6a970c6bfe044223667de34cab7f112cbc1fcc",
+      "english": "1. Gulfer Emperor and Vector Zero are not@   defeated in the same turn.@2. An allied mothership is shot down.@3. Dendoh or Ogre is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "70282cef3a5f38259a1134e76bb97bcc63ef605d0e2b8858b6837bb1bcbdb7ee",
+      "english": "1. Kaine, Tapp, Light or Quattro is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "30de03e1ddc3ff0f11360709f980ba64b238ac6de5eba34983e49c81ab6ef128",
+      "english": "1. Zeorymer or #機体名 is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "dbb461021262009adc737061fc316bb317eb809383a7bb7bcfe06d3d047d1b63",
+      "english": "1. Zeorymer is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c601fea48fbd42e77a02b6eb9265fa5d623c0b94b01acc0f46e704ee9691ef3e",
+      "english": "1. Zeorymer is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "064d75c67b8f5ee2ead389b278a8d7b10e1cc4febb3289c023ffa1417759d0ab",
+      "english": "1. Destroy all enemies except Zero and Legacy.@2. Reduce Legacy's HP to 30% or less.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "62976e5e0d78d8b470d72f6af640c6dca7ef8b8eb94bb10d5ee4a2ba6313d5f7",
+      "english": "1. Dragonar-1 Custom or Ogre is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c2536b3e9d7a115509c78e5da65e6572168d4a05d8936516afbfde761dfa9041",
+      "english": "1. Dragon Flare or Gatling Boar is shot down,@   or Ogre moves adjacent to either.@2. Any allied unit is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "f3532017d8e7d8821ae2f347c11d0a7ab376eddf2489ae55dca3b8e58db852fd",
+      "english": "1. Baikanfu, Power Riser, Dendoh or Valhalla@   is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "28be8c72c01fe9ee7e8da28546f77afd3e068383f6ffb4007ec3644798d6356a",
+      "english": "1. Unicorn Drill is shot down.@2. Dendoh is shot down.@3. Valkyrie is shot down.@4. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "da4f179481acfd08690302b6d10d02d47ffd725ba81ce9407b3cfe5f34232e3b",
+      "english": "1. Lagowe is shot down.@2. Dendoh or Rom is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "dfe0731694b7f3ac7853cf84a2bad5b3e49da9a1c5028f73b0b52bbdc1d98acc",
+      "english": "1. Lagowe is shot down.@2. Dendoh is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9693c49998084b659c5e1b09cc53afb8385755e2ef6dac8dc4a7ed14493866de",
+      "english": "1. Legacy is shot down.@2. Dragonar-1 Custom or Ogre is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "982981e21bbb8fd3ca65539d0bf24ee178f55d20c21f07c809ee0f2cfadd5d91",
+      "english": "1. Reduce Legacy's HP to 30% or less.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1080f402ba6dea9096135a67d7ac2c0b6c20782bedbfe862d07db9cf51a84a30",
+      "english": "1. Rom or Quattro is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "fd7350ae98ca12aa935828c6aaac4eb21142446ebaf8cd38a1d44096c7a75380",
+      "english": "1. Ogre, Baikanfu, Power Riser, Dendoh or@   Valhalla is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cad94a82cb0d17dffca84564b285a45471dfe87f82e5181540a5f5685b076395",
+      "english": "1. Destroy all enemies except Ogre, Legacy@   and Zero.@2. Reduce Ogre's HP to 10% or less.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "c4c0ffe8bd0115e81d9ab4ee3093c7fa9e68274d7d9c5116388f9678c2d18a98",
+      "english": "1. Find Ogre and Vega.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e10015249e6f3c29075f331dc5d488863e763cd9080012b5239b4bf6b22f55c3",
+      "english": "1. Ogre is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "45d8467b4bff74d03f791b5ed5c892f56a64691be58efb502ac4ecc8f3b6226b",
+      "english": "1. Ogre is shot down.@2. Baikanfu, Power Riser, Dendoh or Valhalla@   is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d2045d379b51b78ec2c63d828f56efab4d7cace384f897f95dd3e1c4314da84d",
+      "english": "1. Reduce Ogre's HP to 20% or less.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "72aa58ea32781066649bf6886221ea02fec129bea494b4c0a70dadf95beaedc6",
+      "english": "1. Fail to defeat the Spiral Castle Lord@   before the turn limit.@2. Dendoh or Ogre is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "96d68d86096c3fde4ca281b3de9ab3e4109599b7aa7121b8259becb11ea94431",
+      "english": "1. Any allied unit is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "779a01994c6a83cce6954b062ae5c1b1641e1f51e7dfe3538f59c6d3c09212af",
+      "english": "1. Any allied unit is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "72955101239cb7a65a966594344a904b112eaaef0f528aeef22bcc52e0fef7ba",
+      "english": "1. Any allied unit is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9893de2df0355830af912592f9934ad7f57f27baef978f9eca58ee7c4a3a485f",
+      "english": "1. Any allied unit is destroyed.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0ed9cf1d83b8a926bb0a479d0e2384bac3775fc1601bddd6efccfae06a39d58a",
+      "english": "1. Destroy all enemies.@2. Dendoh reaches its destination.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "58693360a058bed6bdf2a4d6525199f6871a1dfe81b36ceaef1b49eb7dfafaa7",
+      "english": "1. Shinsei Type II is shot down.@2. A mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8cf91c5ed5ea99c7b0a24ec9e94e9a6792ccee40e2ceaf0784100f5b93c9e283",
+      "english": "1. Dendoh or Rom is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d57aa885d62ed0dea9fdef0595242136ddb8b724eb44fdde69cdc0296f3f9ea2",
+      "english": "1. Dendoh or Ogre is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1a50c8fbe14dd36ce7d103999fde54187242e8e74e6c3ac1f4b466aedc3c0393",
+      "english": "1. Dendoh or Dragon Flare is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "da17b552d0ccb0f5f9060a13f0317378f59daebcb43495cea03b398ea8e0a459",
+      "english": "1. Dendoh, Unicorn Drill, Leo Circle or@   Dragon Flare is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "85a22d38bec423613b1eb503e8159bf690a722d019d9f0c587ae22c22fd01f4c",
+      "english": "1. Dendoh or Ogre is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "80a9b9a73a01e47e34111353980010704cd6640347ebc30585dd1806cbdf6493",
+      "english": "1. Dendoh enters the Gulfer palace basement@   (lower map).",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "72b2d288c365cccc0b58faaf4b5d3e14ceba9dc40c0b10b14df1b37952647cf0",
+      "english": "1. Dendoh moves adjacent to Dragon Flare@   and Gatling Boar.@2. Destroy all enemies.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3b960c3df05e875453f1eba135054ff7d010a45a1b3690fe502d9dcb09a68c87",
+      "english": "1. Dendoh moves adjacent to Unicorn Drill.@2. Destroy all enemies.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "3eedc780e23899e91553d074cddf41f3fac9908bd4c02b603605460fab6029d1",
+      "english": "1. Dendoh and Ogre are shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "b84412b21db653ad2a3f52b30c14c210558b78e45832ccf57df7208d2c28ed36",
+      "english": "1. Dendoh and EVA-01 are attacked at least once.@2. Kenryu or Baikanfu is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "32850f08d934e7ccb55154fb755bbab8c734635b69e2e2df07102f5da92941c4",
+      "english": "1. Dendoh and EVA-01 are attacked at least once.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "9f68589e38f2d0af0a7013f89c196692f75f967e68aff0acb0972441909a98d1",
+      "english": "1. Dendoh is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "1e730cc96c6885f16c4de2761297bdd0d6234139fc2a8abfd3ceba0ce4b0726e",
+      "english": "1. Dendoh is shot down.@2. Rom is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "314d0dccea6e00624a3be52238c5d70bccb931f84661824d5b977a4733f05f94",
+      "english": "1. Dendoh is shot down.@2. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "cc08ce5aee8a89a9f80c6e3f9a78dca4b2d8d161d992700d9d0f8fc8cec8ba98",
+      "english": "1. Dendoh is shot down.@2. An allied mothership is shot down.@3. Unicorn Drill, Leo Circle, Dragon Flare@   or Gatling Boar is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "d7f7555375aeb79cad68f15ad54d8cf1ada3d0fea928745ff6a67d0d68710a92",
+      "english": "1. Turn 9 begins.@2. Dendoh, Ogre or Valhalla is shot down.@3. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8a97c6aaabc01f9a70dffcef15312936d995020af5313a31d12228816c52811b",
+      "english": "1. EVA-01 is attacked at least once.@2. Kenryu or Baikanfu is shot down.@3. Dendoh is shot down.@4. An allied mothership is shot down.",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "98009133eb9e519b957ede9f9168f1c91983713afbec2067613a4dfd82909e91",
+      "english": "???「#男愛称, it's me. May I come in?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "0908196b7d9ef66f3596cd8bb6d90e3bfb2f8635f788aa09910f23422aab2a55",
+      "english": "???「#男愛称? What's wrong? Hey,@　#男愛称!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "31616516dbb719c813088f9e58a98a89b6d8b2e14e4f6136f3cf67b0c5c98bf6",
+      "english": "???「That's how AI1 works, isn't it?」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "5166c1f06bfad31cda9d6a5b46a1bb12a17051cfe74336b3d55e7555d8c2febe",
+      "english": "???「First, we must teach Medius and AI1 the terror of@　real combat.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "ffc984b180ba80ac7e7387cd8dff6e5abff91a9194967d93c4c386f0907fd9a5",
+      "english": "???「Very well... Let's teach Medius and AI1 the terror@　of real combat.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "e9f8c89df8b5b7bc380938db5f2f7dda708ca02aa32720833e79cc1e578a1154",
+      "english": "???「Black Wolf to all units! Fall back at once! Get@　away from the main body!」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    },
+    {
+      "source_sha256": "8f9f60ce37ae21b60197cf29bc56311ee6cab75ad9e96254d1dec79034e43a22",
+      "english": "???「They're defective, after all. So are their pilots.」",
+      "reason": "Translated original PS2 wording; PSP revision differs."
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "version": "0.1.14",
+  "source_build": "0.1.13",
+  "native_font": true,
+  "texture_replacement": false,
+  "psp_opening_preserved": true,
+  "data_references": [
+    {
+      "site": "0x49d3c0",
+      "old": "0x49d3a0",
+      "target": "0x7d29b5",
+      "english": "Change Settings"
+    },
+    {
+      "site": "0x49d3d0",
+      "old": "0x49d3b0",
+      "target": "0x7d29d4",
+      "english": "Finish Setup"
+    },
+    {
+      "site": "0x4974c8",
+      "old": "0x497400",
+      "target": "0x7d29ed",
+      "english": "Tsentr Project prototype:"
+    },
+    {
+      "site": "0x497538",
+      "old": "0x497400",
+      "target": "0x7d29ed",
+      "english": "Tsentr Project prototype:"
+    },
+    {
+      "site": "0x497610",
+      "old": "0x497400",
+      "target": "0x7d29ed",
+      "english": "Tsentr Project prototype:"
+    },
+    {
+      "site": "0x497628",
+      "old": "0x497400",
+      "target": "0x7d29ed",
+      "english": "Tsentr Project prototype:"
+    },
+    {
+      "site": "0x4974cc",
+      "old": "0x778f68",
+      "target": "0x7d2a20",
+      "english": "A humanoid mobile weapon"
+    },
+    {
+      "site": "0x49753c",
+      "old": "0x778f68",
+      "target": "0x7d2a20",
+      "english": "A humanoid mobile weapon"
+    },
+    {
+      "site": "0x497614",
+      "old": "0x778f68",
+      "target": "0x7d2a20",
+      "english": "A humanoid mobile weapon"
+    },
+    {
+      "site": "0x49762c",
+      "old": "0x778f68",
+      "target": "0x7d2a20",
+      "english": "A humanoid mobile weapon"
+    },
+    {
+      "site": "0x4974d0",
+      "old": "0x778fa3",
+      "target": "0x7d2a51",
+      "english": "powered by Terminus Energy."
+    },
+    {
+      "site": "0x497540",
+      "old": "0x778fa3",
+      "target": "0x7d2a51",
+      "english": "powered by Terminus Energy."
+    },
+    {
+      "site": "0x497618",
+      "old": "0x778fa3",
+      "target": "0x7d2a51",
+      "english": "powered by Terminus Energy."
+    },
+    {
+      "site": "0x497630",
+      "old": "0x778fa3",
+      "target": "0x7d2a51",
+      "english": "powered by Terminus Energy."
+    },
+    {
+      "site": "0x4974d4",
+      "old": "0x778fe2",
+      "target": "0x7d2a88",
+      "english": "Garmraid specializes in"
+    },
+    {
+      "site": "0x49761c",
+      "old": "0x778fe2",
+      "target": "0x7d2a88",
+      "english": "Garmraid specializes in"
+    },
+    {
+      "site": "0x4974d8",
+      "old": "0x4974a0",
+      "target": "0x7d2ab7",
+      "english": "close-range melee combat."
+    },
+    {
+      "site": "0x497620",
+      "old": "0x4974a0",
+      "target": "0x7d2ab7",
+      "english": "close-range melee combat."
+    },
+    {
+      "site": "0x497544",
+      "old": "0x77901f",
+      "target": "0x7d2aea",
+      "english": "Cerberus specializes in"
+    },
+    {
+      "site": "0x497634",
+      "old": "0x77901f",
+      "target": "0x7d2aea",
+      "english": "Cerberus specializes in"
+    },
+    {
+      "site": "0x497548",
+      "old": "0x77905c",
+      "target": "0x7d2b19",
+      "english": "high-mobility combat and"
+    },
+    {
+      "site": "0x497638",
+      "old": "0x77905c",
+      "target": "0x7d2b19",
+      "english": "high-mobility combat and"
+    },
+    {
+      "site": "0x49754c",
+      "old": "0x779099",
+      "target": "0x7d2b4a",
+      "english": "long-range bombardment."
+    },
+    {
+      "site": "0x49763c",
+      "old": "0x779099",
+      "target": "0x7d2b4a",
+      "english": "long-range bombardment."
+    }
+  ],
+  "instruction_words": [
+    {
+      "va": "0x19743c",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x19744c",
+      "old": "0x24a5d4f0",
+      "new": "0x24a52890",
+      "kind": "literal"
+    },
+    {
+      "va": "0x197460",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x197470",
+      "old": "0x24a5d530",
+      "new": "0x24a528dd",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25d050",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25d058",
+      "old": "0x24a55c68",
+      "new": "0x24a52890",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25d064",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25d06c",
+      "old": "0x24a55ca0",
+      "new": "0x24a528dd",
+      "kind": "literal"
+    },
+    {
+      "va": "0x2c0860",
+      "old": "0x3c05004b",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x2c0868",
+      "old": "0x24a59108",
+      "new": "0x24a52890",
+      "kind": "literal"
+    },
+    {
+      "va": "0x2c0874",
+      "old": "0x3c05004b",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x2c0878",
+      "old": "0x24a59148",
+      "new": "0x24a528dd",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25df34",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x25df38",
+      "old": "0x24a55fa8",
+      "new": "0x24a52926",
+      "kind": "literal"
+    },
+    {
+      "va": "0x196e7c",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x196e8c",
+      "old": "0x24a5d460",
+      "new": "0x24a52953",
+      "kind": "literal"
+    },
+    {
+      "va": "0x196ea0",
+      "old": "0x3c05004a",
+      "new": "0x3c05007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x196eb0",
+      "old": "0x24a5d4a0",
+      "new": "0x24a528dd",
+      "kind": "literal"
+    },
+    {
+      "va": "0x16a670",
+      "old": "0x3c020049",
+      "new": "0x3c02007d",
+      "kind": "literal"
+    },
+    {
+      "va": "0x16a678",
+      "old": "0x244575a8",
+      "new": "0x24452992",
+      "kind": "literal"
+    },
+    {
+      "va": "0x16a380",
+      "old": "0x24c6006c",
+      "new": "0x24c6008c",
+      "kind": "name_value_x"
+    },
+    {
+      "va": "0x151ebc",
+      "old": "0x24050012",
+      "new": "0x2405001a",
+      "kind": "yes_left_alignment"
+    },
+    {
+      "va": "0x1660a8",
+      "old": "0xc04c184",
+      "new": "0xc1f4ae0",
+      "kind": "series_title_fit"
+    }
+  ],
+  "strings": [
+    {
+      "source": "0x49d4f0",
+      "target": "0x7d2890",
+      "english": "Checking data. Do not insert or remove"
+    },
+    {
+      "source": "0x49d530",
+      "target": "0x7d28dd",
+      "english": "the memory card (PS2) or controller."
+    },
+    {
+      "source": "0x4a5c68",
+      "target": "0x7d2890",
+      "english": "Checking data. Do not insert or remove"
+    },
+    {
+      "source": "0x4a5ca0",
+      "target": "0x7d28dd",
+      "english": "the memory card (PS2) or controller."
+    },
+    {
+      "source": "0x4a9108",
+      "target": "0x7d2890",
+      "english": "Checking data. Do not insert or remove"
+    },
+    {
+      "source": "0x4a9148",
+      "target": "0x7d28dd",
+      "english": "the memory card (PS2) or controller."
+    },
+    {
+      "source": "0x4a5fa8",
+      "target": "0x7d2926",
+      "english": "Overwrite system data?"
+    },
+    {
+      "source": "0x49d460",
+      "target": "0x7d2953",
+      "english": "Saving. Do not insert or remove"
+    },
+    {
+      "source": "0x49d4a0",
+      "target": "0x7d28dd",
+      "english": "the memory card (PS2) or controller."
+    },
+    {
+      "source": "0x4975a8",
+      "target": "0x7d2992",
+      "english": "Protagonist Setup"
+    },
+    {
+      "source": "0x49d3a0",
+      "target": "0x7d29b5",
+      "english": "Change Settings"
+    },
+    {
+      "source": "0x49d3b0",
+      "target": "0x7d29d4",
+      "english": "Finish Setup"
+    },
+    {
+      "source": "0x497400",
+      "target": "0x7d29ed",
+      "english": "Tsentr Project prototype:"
+    },
+    {
+      "source": "0x497428",
+      "target": "0x7d2a20",
+      "english": "A humanoid mobile weapon"
+    },
+    {
+      "source": "0x497450",
+      "target": "0x7d2a51",
+      "english": "powered by Terminus Energy."
+    },
+    {
+      "source": "0x497478",
+      "target": "0x7d2a88",
+      "english": "Garmraid specializes in"
+    },
+    {
+      "source": "0x4974a0",
+      "target": "0x7d2ab7",
+      "english": "close-range melee combat."
+    },
+    {
+      "source": "0x4974e0",
+      "target": "0x7d2aea",
+      "english": "Cerberus specializes in"
+    },
+    {
+      "source": "0x497508",
+      "target": "0x7d2b19",
+      "english": "high-mobility combat and"
+    },
+    {
+      "source": "0x497528",
+      "target": "0x7d2b4a",
+      "english": "long-range bombardment."
+    }
+  ],
+  "storage": [
+    {
+      "va": "0x4c1ce0",
+      "old": "8251824f8dce0000",
+      "new": "8251824f00000000",
+      "english": "20"
+    },
+    {
+      "va": "0x4c1ce8",
+      "old": "825182528dce0000",
+      "new": "8251825200000000",
+      "english": "23"
+    }
+  ],
+  "series_title": {
+    "hook": "0x1660a8",
+    "wrapper": "0x7d2b80",
+    "bytes": 256,
+    "width": 456,
+    "box": [
+      80,
+      560
+    ],
+    "padding": 12,
+    "center": 320,
+    "baseline": 0.7708333333333334,
+    "uniform_fit": true
+  },
+  "setup_layout": {
+    "label_x": 54,
+    "value_x": 140,
+    "description_x": 28,
+    "description_max_width": 300,
+    "yes_x": 26,
+    "no_x": 26,
+    "age_suffix_removed": true
+  },
+  "description_tables": [
+    {
+      "unit": "Garmraid",
+      "va": "0x497610",
+      "lines": [
+        "Tsentr Project prototype:",
+        "A humanoid mobile weapon",
+        "powered by Terminus Energy.",
+        "Garmraid specializes in",
+        "close-range melee combat.",
+        " "
+      ]
+    },
+    {
+      "unit": "Cerberus",
+      "va": "0x497628",
+      "lines": [
+        "Tsentr Project prototype:",
+        "A humanoid mobile weapon",
+        "powered by Terminus Energy.",
+        "Cerberus specializes in",
+        "high-mobility combat and",
+        "long-range bombardment."
+      ]
+    }
+  ]
+}

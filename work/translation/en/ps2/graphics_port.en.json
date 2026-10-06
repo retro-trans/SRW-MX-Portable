@@ -1,0 +1,2724 @@
+{
+  "PACKMAPC.BIN": {
+    "scenario_titles": 66,
+    "title_atlases": 198,
+    "translated_atlases": 153,
+    "native_english_atlases_preserved": 45,
+    "palettes_preserved": true,
+    "non_title_pixels_preserved": true,
+    "cards": [
+      {
+        "pixel_offset": 31310848,
+        "english": "Pursuer",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Pursuer"
+        ],
+        "bounds": [
+          92,
+          18,
+          163,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 31513600,
+        "english": "Pursuer",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Pursuer"
+        ],
+        "bounds": [
+          92,
+          18,
+          163,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 31843328,
+        "english": "D and E",
+        "translated": false
+      },
+      {
+        "pixel_offset": 32046080,
+        "english": "D and E",
+        "translated": false
+      },
+      {
+        "pixel_offset": 32375808,
+        "english": "Visitors from the Beyond",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Visitors from the Beyond"
+        ],
+        "bounds": [
+          8,
+          16,
+          247,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 32578560,
+        "english": "Visitors from the Beyond",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Visitors from the Beyond"
+        ],
+        "bounds": [
+          8,
+          16,
+          247,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 32908288,
+        "english": "The Indestructible Machine, Getter Robo",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Indestructible",
+          "Machine, Getter Robo"
+        ],
+        "bounds": [
+          23,
+          6,
+          233,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 33111040,
+        "english": "The Indestructible Machine, Getter Robo",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Indestructible",
+          "Machine, Getter Robo"
+        ],
+        "bounds": [
+          23,
+          6,
+          233,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 33440768,
+        "english": "The Deity Awakens",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Deity Awakens"
+        ],
+        "bounds": [
+          35,
+          16,
+          220,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 33643520,
+        "english": "The Deity Awakens",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Deity Awakens"
+        ],
+        "bounds": [
+          35,
+          16,
+          220,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 33973248,
+        "english": "Blue Miracle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blue Miracle"
+        ],
+        "bounds": [
+          69,
+          18,
+          187,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 34176000,
+        "english": "Blue Miracle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blue Miracle"
+        ],
+        "bounds": [
+          69,
+          18,
+          187,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 34505728,
+        "english": "The Nightmare Gundam Fight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Nightmare",
+          "Gundam Fight"
+        ],
+        "bounds": [
+          56,
+          3,
+          200,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 34708480,
+        "english": "The Nightmare Gundam Fight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Nightmare",
+          "Gundam Fight"
+        ],
+        "bounds": [
+          56,
+          3,
+          200,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 35038208,
+        "english": "The Sad Eyes Beneath the Mask",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Sad Eyes",
+          "Beneath the Mask"
+        ],
+        "bounds": [
+          42,
+          6,
+          214,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 35240960,
+        "english": "The Sad Eyes Beneath the Mask",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Sad Eyes",
+          "Beneath the Mask"
+        ],
+        "bounds": [
+          42,
+          6,
+          214,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 35570688,
+        "english": "The King of Hades, His Name Is \"Heaven\"",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The King of Hades,",
+          "His Name Is \"Heaven\""
+        ],
+        "bounds": [
+          24,
+          5,
+          232,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 35773440,
+        "english": "The King of Hades, His Name Is \"Heaven\"",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The King of Hades,",
+          "His Name Is \"Heaven\""
+        ],
+        "bounds": [
+          24,
+          5,
+          232,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 36103168,
+        "english": "CONFLICT",
+        "translated": false
+      },
+      {
+        "pixel_offset": 36305920,
+        "english": "CONFLICT",
+        "translated": false
+      },
+      {
+        "pixel_offset": 36635648,
+        "english": "The Star of La Mu, Targeted",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Star of",
+          "La Mu, Targeted"
+        ],
+        "bounds": [
+          50,
+          6,
+          206,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 36838400,
+        "english": "The Star of La Mu, Targeted",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Star of",
+          "La Mu, Targeted"
+        ],
+        "bounds": [
+          50,
+          6,
+          206,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 37168128,
+        "english": "The Manipulated Demon God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Manipulated",
+          "Demon God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 37370880,
+        "english": "The Manipulated Demon God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Manipulated",
+          "Demon God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 37700608,
+        "english": "do justice to",
+        "translated": false
+      },
+      {
+        "pixel_offset": 37903360,
+        "english": "do justice to",
+        "translated": false
+      },
+      {
+        "pixel_offset": 38233088,
+        "english": "Blazing Water, Freezing Flame",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blazing Water,",
+          "Freezing Flame"
+        ],
+        "bounds": [
+          57,
+          3,
+          198,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 38435840,
+        "english": "Blazing Water, Freezing Flame",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blazing Water,",
+          "Freezing Flame"
+        ],
+        "bounds": [
+          57,
+          3,
+          198,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 38765568,
+        "english": "Encountering the Machine God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Encountering the",
+          "Machine God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 38968320,
+        "english": "Encountering the Machine God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Encountering the",
+          "Machine God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 39298048,
+        "english": "COUNT DOWN to Disaster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "COUNT DOWN",
+          "to Disaster"
+        ],
+        "bounds": [
+          52,
+          8,
+          203,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 39500800,
+        "english": "COUNT DOWN to Disaster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "COUNT DOWN",
+          "to Disaster"
+        ],
+        "bounds": [
+          52,
+          8,
+          203,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 39830528,
+        "english": "Trembling Spiral, Resurrected Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Trembling Spiral,",
+          "Resurrected Memories"
+        ],
+        "bounds": [
+          22,
+          6,
+          233,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 40033280,
+        "english": "Trembling Spiral, Resurrected Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Trembling Spiral,",
+          "Resurrected Memories"
+        ],
+        "bounds": [
+          22,
+          6,
+          233,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 40363008,
+        "english": "Blue meets White",
+        "translated": false
+      },
+      {
+        "pixel_offset": 40565760,
+        "english": "Blue meets White",
+        "translated": false
+      },
+      {
+        "pixel_offset": 40895488,
+        "english": "Your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Your Memories"
+        ],
+        "bounds": [
+          55,
+          18,
+          201,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 41098240,
+        "english": "Your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Your Memories"
+        ],
+        "bounds": [
+          55,
+          18,
+          201,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 41427968,
+        "english": "Fugitive from Mars",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Fugitive from Mars"
+        ],
+        "bounds": [
+          38,
+          15,
+          218,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 41630720,
+        "english": "Fugitive from Mars",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Fugitive from Mars"
+        ],
+        "bounds": [
+          38,
+          15,
+          218,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 41960448,
+        "english": "Bond upon Twin Wings",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Bond upon Twin Wings"
+        ],
+        "bounds": [
+          17,
+          15,
+          239,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 42163200,
+        "english": "Bond upon Twin Wings",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Bond upon Twin Wings"
+        ],
+        "bounds": [
+          17,
+          15,
+          239,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 42492928,
+        "english": "Bright you now",
+        "translated": false
+      },
+      {
+        "pixel_offset": 42695680,
+        "english": "Bright you now",
+        "translated": false
+      },
+      {
+        "pixel_offset": 43025408,
+        "english": "The Space Monster Gilgilgan",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Space",
+          "Monster Gilgilgan"
+        ],
+        "bounds": [
+          43,
+          4,
+          213,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 43228160,
+        "english": "The Space Monster Gilgilgan",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Space",
+          "Monster Gilgilgan"
+        ],
+        "bounds": [
+          43,
+          4,
+          213,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 43557888,
+        "english": "Burning heart, Flying high",
+        "translated": false
+      },
+      {
+        "pixel_offset": 43760640,
+        "english": "Burning heart, Flying high",
+        "translated": false
+      },
+      {
+        "pixel_offset": 44090368,
+        "english": "Great Wings, and the Light of Heaven",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Great Wings, and",
+          "the Light of Heaven"
+        ],
+        "bounds": [
+          33,
+          3,
+          222,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 44293120,
+        "english": "Great Wings, and the Light of Heaven",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Great Wings, and",
+          "the Light of Heaven"
+        ],
+        "bounds": [
+          33,
+          3,
+          222,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 44622848,
+        "english": "Strange bait",
+        "translated": false
+      },
+      {
+        "pixel_offset": 44825600,
+        "english": "Strange bait",
+        "translated": false
+      },
+      {
+        "pixel_offset": 45155328,
+        "english": "The Man with Two Faces",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Man with Two Faces"
+        ],
+        "bounds": [
+          8,
+          18,
+          248,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 45358080,
+        "english": "The Man with Two Faces",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Man with Two Faces"
+        ],
+        "bounds": [
+          8,
+          18,
+          248,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 45687808,
+        "english": "Time Lag of 90 Seconds",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Time Lag of 90 Seconds"
+        ],
+        "bounds": [
+          15,
+          15,
+          241,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 45890560,
+        "english": "Time Lag of 90 Seconds",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Time Lag of 90 Seconds"
+        ],
+        "bounds": [
+          15,
+          15,
+          241,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 46220288,
+        "english": "Infinite Corridor",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Infinite Corridor"
+        ],
+        "bounds": [
+          50,
+          18,
+          205,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 46423040,
+        "english": "Infinite Corridor",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Infinite Corridor"
+        ],
+        "bounds": [
+          50,
+          18,
+          205,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 46752768,
+        "english": "The Gates of Hell",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Gates of Hell"
+        ],
+        "bounds": [
+          45,
+          18,
+          211,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 46955520,
+        "english": "The Gates of Hell",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Gates of Hell"
+        ],
+        "bounds": [
+          45,
+          18,
+          211,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 47285248,
+        "english": "Ones Guided By the Light",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Ones Guided",
+          "By the Light"
+        ],
+        "bounds": [
+          66,
+          6,
+          189,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 47488000,
+        "english": "Ones Guided By the Light",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Ones Guided",
+          "By the Light"
+        ],
+        "bounds": [
+          66,
+          6,
+          189,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 47817728,
+        "english": "A Rigged Trigger",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Rigged Trigger"
+        ],
+        "bounds": [
+          47,
+          15,
+          209,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 48020480,
+        "english": "A Rigged Trigger",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Rigged Trigger"
+        ],
+        "bounds": [
+          47,
+          15,
+          209,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 48350208,
+        "english": "The Onslaught of the Viper Squad",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Onslaught of",
+          "the Viper Squad"
+        ],
+        "bounds": [
+          44,
+          4,
+          212,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 48552960,
+        "english": "The Onslaught of the Viper Squad",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Onslaught of",
+          "the Viper Squad"
+        ],
+        "bounds": [
+          44,
+          4,
+          212,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 48882688,
+        "english": "Tragedy Beneath the Moon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Tragedy Beneath",
+          "the Moon"
+        ],
+        "bounds": [
+          47,
+          6,
+          209,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 49085440,
+        "english": "Tragedy Beneath the Moon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Tragedy Beneath",
+          "the Moon"
+        ],
+        "bounds": [
+          47,
+          6,
+          209,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 49415168,
+        "english": "Hades Sorties at Dawn",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hades Sorties at Dawn"
+        ],
+        "bounds": [
+          20,
+          18,
+          236,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 49617920,
+        "english": "Hades Sorties at Dawn",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hades Sorties at Dawn"
+        ],
+        "bounds": [
+          20,
+          18,
+          236,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 49947648,
+        "english": "Break through the Falcon",
+        "translated": false
+      },
+      {
+        "pixel_offset": 50150400,
+        "english": "Break through the Falcon",
+        "translated": false
+      },
+      {
+        "pixel_offset": 50480128,
+        "english": "The Shining Sword Is With Us",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Shining",
+          "Sword Is With Us"
+        ],
+        "bounds": [
+          45,
+          6,
+          211,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 50682880,
+        "english": "The Shining Sword Is With Us",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Shining",
+          "Sword Is With Us"
+        ],
+        "bounds": [
+          45,
+          6,
+          211,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 51012608,
+        "english": "MOONRAKER",
+        "translated": false
+      },
+      {
+        "pixel_offset": 51215360,
+        "english": "MOONRAKER",
+        "translated": false
+      },
+      {
+        "pixel_offset": 51545088,
+        "english": "Over the Rainbow",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Over the Rainbow"
+        ],
+        "bounds": [
+          42,
+          18,
+          214,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 51747840,
+        "english": "Over the Rainbow",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Over the Rainbow"
+        ],
+        "bounds": [
+          42,
+          18,
+          214,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 52077568,
+        "english": "Severed LOOP",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Severed LOOP"
+        ],
+        "bounds": [
+          59,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 52280320,
+        "english": "Severed LOOP",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Severed LOOP"
+        ],
+        "bounds": [
+          59,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 52610048,
+        "english": "Shine of the Red Dragon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Shine of the Red Dragon"
+        ],
+        "bounds": [
+          11,
+          15,
+          245,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 52812800,
+        "english": "Shine of the Red Dragon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Shine of the Red Dragon"
+        ],
+        "bounds": [
+          11,
+          15,
+          245,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 53142528,
+        "english": "The Ravaging Knight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Ravaging Knight"
+        ],
+        "bounds": [
+          28,
+          15,
+          228,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 53345280,
+        "english": "The Ravaging Knight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Ravaging Knight"
+        ],
+        "bounds": [
+          28,
+          15,
+          228,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 53675008,
+        "english": "Invitation to the Depths of Defeat",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Invitation to the",
+          "Depths of Defeat"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 53877760,
+        "english": "Invitation to the Depths of Defeat",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Invitation to the",
+          "Depths of Defeat"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 54207488,
+        "english": "The Final Battle vs the Great Sea Monster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Final Battle vs the",
+          "Great Sea Monster"
+        ],
+        "bounds": [
+          20,
+          8,
+          235,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 54410240,
+        "english": "The Final Battle vs the Great Sea Monster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Final Battle vs the",
+          "Great Sea Monster"
+        ],
+        "bounds": [
+          20,
+          8,
+          235,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 54739968,
+        "english": "Knight of the Flame and Sky",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Knight of the",
+          "Flame and Sky"
+        ],
+        "bounds": [
+          59,
+          4,
+          197,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 54942720,
+        "english": "Knight of the Flame and Sky",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Knight of the",
+          "Flame and Sky"
+        ],
+        "bounds": [
+          59,
+          4,
+          197,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 55272448,
+        "english": "Hemisphere",
+        "translated": false
+      },
+      {
+        "pixel_offset": 55475200,
+        "english": "Hemisphere",
+        "translated": false
+      },
+      {
+        "pixel_offset": 55804928,
+        "english": "The Whereabouts of Life",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Whereabouts of Life"
+        ],
+        "bounds": [
+          11,
+          18,
+          245,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 56007680,
+        "english": "The Whereabouts of Life",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Whereabouts of Life"
+        ],
+        "bounds": [
+          11,
+          18,
+          245,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 56337408,
+        "english": "A Man's Battle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Man's Battle"
+        ],
+        "bounds": [
+          57,
+          17,
+          198,
+          35
+        ]
+      },
+      {
+        "pixel_offset": 56540160,
+        "english": "A Man's Battle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Man's Battle"
+        ],
+        "bounds": [
+          57,
+          17,
+          198,
+          35
+        ]
+      },
+      {
+        "pixel_offset": 56869888,
+        "english": "For the Peace We Once Sought",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "For the Peace",
+          "We Once Sought"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 57072640,
+        "english": "For the Peace We Once Sought",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "For the Peace",
+          "We Once Sought"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 57402368,
+        "english": "Spiral Staircase Towards the End",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Spiral Staircase",
+          "Towards the End"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 57605120,
+        "english": "Spiral Staircase Towards the End",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Spiral Staircase",
+          "Towards the End"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 57934848,
+        "english": "Bye-bye Jupiter",
+        "translated": false
+      },
+      {
+        "pixel_offset": 58137600,
+        "english": "Bye-bye Jupiter",
+        "translated": false
+      },
+      {
+        "pixel_offset": 58467328,
+        "english": "From Here to Eternity",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "From Here to Eternity"
+        ],
+        "bounds": [
+          23,
+          16,
+          232,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 58670080,
+        "english": "From Here to Eternity",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "From Here to Eternity"
+        ],
+        "bounds": [
+          23,
+          16,
+          232,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 58999808,
+        "english": "God, Weep for the Hyakki Empire",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "God, Weep for the",
+          "Hyakki Empire"
+        ],
+        "bounds": [
+          40,
+          4,
+          216,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 59202560,
+        "english": "God, Weep for the Hyakki Empire",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "God, Weep for the",
+          "Hyakki Empire"
+        ],
+        "bounds": [
+          40,
+          4,
+          216,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 59532288,
+        "english": "Zero or Infinity?",
+        "translated": false
+      },
+      {
+        "pixel_offset": 59735040,
+        "english": "Zero or Infinity?",
+        "translated": false
+      },
+      {
+        "pixel_offset": 60064768,
+        "english": "Revenge of Chronos",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Revenge of Chronos"
+        ],
+        "bounds": [
+          33,
+          15,
+          223,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 60267520,
+        "english": "Revenge of Chronos",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Revenge of Chronos"
+        ],
+        "bounds": [
+          33,
+          15,
+          223,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 60597248,
+        "english": "Dearest",
+        "translated": false
+      },
+      {
+        "pixel_offset": 60800000,
+        "english": "Dearest",
+        "translated": false
+      },
+      {
+        "pixel_offset": 61129728,
+        "english": "Starlight serenade",
+        "translated": false
+      },
+      {
+        "pixel_offset": 61332480,
+        "english": "Starlight serenade",
+        "translated": false
+      },
+      {
+        "pixel_offset": 61662208,
+        "english": "Farewell to your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Farewell to",
+          "your Memories"
+        ],
+        "bounds": [
+          56,
+          6,
+          199,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 61864960,
+        "english": "Farewell to your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Farewell to",
+          "your Memories"
+        ],
+        "bounds": [
+          56,
+          6,
+          199,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 62194688,
+        "english": "A Single Flower and the Green Planet",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Single Flower and",
+          "the Green Planet"
+        ],
+        "bounds": [
+          33,
+          6,
+          223,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 62397440,
+        "english": "A Single Flower and the Green Planet",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Single Flower and",
+          "the Green Planet"
+        ],
+        "bounds": [
+          33,
+          6,
+          223,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 62727168,
+        "english": "Death and Rebirth",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Death and Rebirth"
+        ],
+        "bounds": [
+          41,
+          18,
+          215,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 62929920,
+        "english": "Death and Rebirth",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Death and Rebirth"
+        ],
+        "bounds": [
+          41,
+          18,
+          215,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 63259648,
+        "english": "Anthem for the Victors",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Anthem for the Victors"
+        ],
+        "bounds": [
+          18,
+          18,
+          238,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 63462400,
+        "english": "Anthem for the Victors",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Anthem for the Victors"
+        ],
+        "bounds": [
+          18,
+          18,
+          238,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 63792128,
+        "english": "Hope, Which is the Final GEAR",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hope, Which is",
+          "the Final GEAR"
+        ],
+        "bounds": [
+          54,
+          6,
+          201,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 63994880,
+        "english": "Hope, Which is the Final GEAR",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hope, Which is",
+          "the Final GEAR"
+        ],
+        "bounds": [
+          54,
+          6,
+          201,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 64324608,
+        "english": "W-Infinity",
+        "translated": false
+      },
+      {
+        "pixel_offset": 64527360,
+        "english": "W-Infinity",
+        "translated": false
+      },
+      {
+        "pixel_offset": 64857088,
+        "english": "Refrain of Soul",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Refrain of Soul"
+        ],
+        "bounds": [
+          58,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 65059840,
+        "english": "Refrain of Soul",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Refrain of Soul"
+        ],
+        "bounds": [
+          58,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 65389568,
+        "english": "Across Infinite Time",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Across Infinite Time"
+        ],
+        "bounds": [
+          32,
+          18,
+          223,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 65592320,
+        "english": "Across Infinite Time",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Across Infinite Time"
+        ],
+        "bounds": [
+          32,
+          18,
+          223,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 65922048,
+        "english": "The Promised Land",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Promised Land"
+        ],
+        "bounds": [
+          36,
+          18,
+          219,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 66124800,
+        "english": "The Promised Land",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Promised Land"
+        ],
+        "bounds": [
+          36,
+          18,
+          219,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 66522112,
+        "english": "Pursuer",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Pursuer"
+        ],
+        "bounds": [
+          92,
+          18,
+          163,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 66589696,
+        "english": "D and E",
+        "translated": false
+      },
+      {
+        "pixel_offset": 66657280,
+        "english": "Visitors from the Beyond",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Visitors from the Beyond"
+        ],
+        "bounds": [
+          8,
+          16,
+          247,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 66724864,
+        "english": "The Indestructible Machine, Getter Robo",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Indestructible",
+          "Machine, Getter Robo"
+        ],
+        "bounds": [
+          23,
+          6,
+          233,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 66792448,
+        "english": "The Deity Awakens",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Deity Awakens"
+        ],
+        "bounds": [
+          35,
+          16,
+          220,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 66860032,
+        "english": "Blue Miracle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blue Miracle"
+        ],
+        "bounds": [
+          69,
+          18,
+          187,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 66927616,
+        "english": "The Nightmare Gundam Fight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Nightmare",
+          "Gundam Fight"
+        ],
+        "bounds": [
+          56,
+          3,
+          200,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 66995200,
+        "english": "The Sad Eyes Beneath the Mask",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Sad Eyes",
+          "Beneath the Mask"
+        ],
+        "bounds": [
+          42,
+          6,
+          214,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 67062784,
+        "english": "The King of Hades, His Name Is \"Heaven\"",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The King of Hades,",
+          "His Name Is \"Heaven\""
+        ],
+        "bounds": [
+          24,
+          5,
+          232,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 67392512,
+        "english": "CONFLICT",
+        "translated": false
+      },
+      {
+        "pixel_offset": 67460096,
+        "english": "The Star of La Mu, Targeted",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Star of",
+          "La Mu, Targeted"
+        ],
+        "bounds": [
+          50,
+          6,
+          206,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 67527680,
+        "english": "The Manipulated Demon God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Manipulated",
+          "Demon God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 67595264,
+        "english": "do justice to",
+        "translated": false
+      },
+      {
+        "pixel_offset": 67662848,
+        "english": "Blazing Water, Freezing Flame",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Blazing Water,",
+          "Freezing Flame"
+        ],
+        "bounds": [
+          57,
+          3,
+          198,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 67730432,
+        "english": "Encountering the Machine God",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Encountering the",
+          "Machine God"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 67798016,
+        "english": "COUNT DOWN to Disaster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "COUNT DOWN",
+          "to Disaster"
+        ],
+        "bounds": [
+          52,
+          8,
+          203,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 67865600,
+        "english": "Trembling Spiral, Resurrected Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Trembling Spiral,",
+          "Resurrected Memories"
+        ],
+        "bounds": [
+          22,
+          6,
+          233,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 67933184,
+        "english": "Blue meets White",
+        "translated": false
+      },
+      {
+        "pixel_offset": 68000768,
+        "english": "Your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Your Memories"
+        ],
+        "bounds": [
+          55,
+          18,
+          201,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 68330496,
+        "english": "Fugitive from Mars",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Fugitive from Mars"
+        ],
+        "bounds": [
+          38,
+          15,
+          218,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 68398080,
+        "english": "Bond upon Twin Wings",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Bond upon Twin Wings"
+        ],
+        "bounds": [
+          17,
+          15,
+          239,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 68465664,
+        "english": "Bright you now",
+        "translated": false
+      },
+      {
+        "pixel_offset": 68533248,
+        "english": "The Space Monster Gilgilgan",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Space",
+          "Monster Gilgilgan"
+        ],
+        "bounds": [
+          43,
+          4,
+          213,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 68600832,
+        "english": "Burning heart, Flying high",
+        "translated": false
+      },
+      {
+        "pixel_offset": 68668416,
+        "english": "Great Wings, and the Light of Heaven",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Great Wings, and",
+          "the Light of Heaven"
+        ],
+        "bounds": [
+          33,
+          3,
+          222,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 68736000,
+        "english": "Strange bait",
+        "translated": false
+      },
+      {
+        "pixel_offset": 68803584,
+        "english": "The Man with Two Faces",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Man with Two Faces"
+        ],
+        "bounds": [
+          8,
+          18,
+          248,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 68871168,
+        "english": "Time Lag of 90 Seconds",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Time Lag of 90 Seconds"
+        ],
+        "bounds": [
+          15,
+          15,
+          241,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 68938752,
+        "english": "Infinite Corridor",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Infinite Corridor"
+        ],
+        "bounds": [
+          50,
+          18,
+          205,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 69268480,
+        "english": "The Gates of Hell",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Gates of Hell"
+        ],
+        "bounds": [
+          45,
+          18,
+          211,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 69336064,
+        "english": "Ones Guided By the Light",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Ones Guided",
+          "By the Light"
+        ],
+        "bounds": [
+          66,
+          6,
+          189,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 69403648,
+        "english": "A Rigged Trigger",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Rigged Trigger"
+        ],
+        "bounds": [
+          47,
+          15,
+          209,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 69471232,
+        "english": "The Onslaught of the Viper Squad",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Onslaught of",
+          "the Viper Squad"
+        ],
+        "bounds": [
+          44,
+          4,
+          212,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 69538816,
+        "english": "Tragedy Beneath the Moon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Tragedy Beneath",
+          "the Moon"
+        ],
+        "bounds": [
+          47,
+          6,
+          209,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 69606400,
+        "english": "Hades Sorties at Dawn",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hades Sorties at Dawn"
+        ],
+        "bounds": [
+          20,
+          18,
+          236,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 69673984,
+        "english": "Break through the Falcon",
+        "translated": false
+      },
+      {
+        "pixel_offset": 69741568,
+        "english": "The Shining Sword Is With Us",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Shining",
+          "Sword Is With Us"
+        ],
+        "bounds": [
+          45,
+          6,
+          211,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 69809152,
+        "english": "MOONRAKER",
+        "translated": false
+      },
+      {
+        "pixel_offset": 69876736,
+        "english": "Over the Rainbow",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Over the Rainbow"
+        ],
+        "bounds": [
+          42,
+          18,
+          214,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 70206464,
+        "english": "Severed LOOP",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Severed LOOP"
+        ],
+        "bounds": [
+          59,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 70274048,
+        "english": "Shine of the Red Dragon",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Shine of the Red Dragon"
+        ],
+        "bounds": [
+          11,
+          15,
+          245,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 70341632,
+        "english": "The Ravaging Knight",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Ravaging Knight"
+        ],
+        "bounds": [
+          28,
+          15,
+          228,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 70409216,
+        "english": "Invitation to the Depths of Defeat",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Invitation to the",
+          "Depths of Defeat"
+        ],
+        "bounds": [
+          47,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 70476800,
+        "english": "The Final Battle vs the Great Sea Monster",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Final Battle vs the",
+          "Great Sea Monster"
+        ],
+        "bounds": [
+          20,
+          8,
+          235,
+          43
+        ]
+      },
+      {
+        "pixel_offset": 70544384,
+        "english": "Knight of the Flame and Sky",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Knight of the",
+          "Flame and Sky"
+        ],
+        "bounds": [
+          59,
+          4,
+          197,
+          48
+        ]
+      },
+      {
+        "pixel_offset": 70611968,
+        "english": "Hemisphere",
+        "translated": false
+      },
+      {
+        "pixel_offset": 70679552,
+        "english": "The Whereabouts of Life",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Whereabouts of Life"
+        ],
+        "bounds": [
+          11,
+          18,
+          245,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 70747136,
+        "english": "A Man's Battle",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Man's Battle"
+        ],
+        "bounds": [
+          57,
+          17,
+          198,
+          35
+        ]
+      },
+      {
+        "pixel_offset": 70814720,
+        "english": "For the Peace We Once Sought",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "For the Peace",
+          "We Once Sought"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 71144448,
+        "english": "Spiral Staircase Towards the End",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Spiral Staircase",
+          "Towards the End"
+        ],
+        "bounds": [
+          48,
+          6,
+          208,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 71212032,
+        "english": "Bye-bye Jupiter",
+        "translated": false
+      },
+      {
+        "pixel_offset": 71279616,
+        "english": "From Here to Eternity",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "From Here to Eternity"
+        ],
+        "bounds": [
+          23,
+          16,
+          232,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 71347200,
+        "english": "God, Weep for the Hyakki Empire",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "God, Weep for the",
+          "Hyakki Empire"
+        ],
+        "bounds": [
+          40,
+          4,
+          216,
+          47
+        ]
+      },
+      {
+        "pixel_offset": 71414784,
+        "english": "Zero or Infinity?",
+        "translated": false
+      },
+      {
+        "pixel_offset": 71482368,
+        "english": "Revenge of Chronos",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Revenge of Chronos"
+        ],
+        "bounds": [
+          33,
+          15,
+          223,
+          36
+        ]
+      },
+      {
+        "pixel_offset": 71549952,
+        "english": "Dearest",
+        "translated": false
+      },
+      {
+        "pixel_offset": 71617536,
+        "english": "Starlight serenade",
+        "translated": false
+      },
+      {
+        "pixel_offset": 71685120,
+        "english": "Farewell to your Memories",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Farewell to",
+          "your Memories"
+        ],
+        "bounds": [
+          56,
+          6,
+          199,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 71752704,
+        "english": "A Single Flower and the Green Planet",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "A Single Flower and",
+          "the Green Planet"
+        ],
+        "bounds": [
+          33,
+          6,
+          223,
+          46
+        ]
+      },
+      {
+        "pixel_offset": 72082432,
+        "english": "Death and Rebirth",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Death and Rebirth"
+        ],
+        "bounds": [
+          41,
+          18,
+          215,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 72150016,
+        "english": "Anthem for the Victors",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Anthem for the Victors"
+        ],
+        "bounds": [
+          18,
+          18,
+          238,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 72217600,
+        "english": "Hope, Which is the Final GEAR",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Hope, Which is",
+          "the Final GEAR"
+        ],
+        "bounds": [
+          54,
+          6,
+          201,
+          45
+        ]
+      },
+      {
+        "pixel_offset": 72285184,
+        "english": "W-Infinity",
+        "translated": false
+      },
+      {
+        "pixel_offset": 72352768,
+        "english": "Refrain of Soul",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Refrain of Soul"
+        ],
+        "bounds": [
+          58,
+          18,
+          197,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 72420352,
+        "english": "Across Infinite Time",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "Across Infinite Time"
+        ],
+        "bounds": [
+          32,
+          18,
+          223,
+          34
+        ]
+      },
+      {
+        "pixel_offset": 72487936,
+        "english": "The Promised Land",
+        "translated": true,
+        "font_size": 20,
+        "lines": [
+          "The Promised Land"
+        ],
+        "bounds": [
+          36,
+          18,
+          219,
+          34
+        ]
+      }
+    ],
+    "target_sha256": "96a47d03864a3bba7dd0b4f15c2402066c34731ba0283eac921ee3a58efbd284"
+  },
+  "WND.BIN": {
+    "native_pixel_edits": [
+      {
+        "asset": "IM_IC00",
+        "english": "ATK",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC01",
+        "english": "CTR",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC02",
+        "english": "SUP",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC03",
+        "english": "SIM",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC04",
+        "english": "SHP",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC05",
+        "english": "AST",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC07",
+        "english": "ST",
+        "kind": "status"
+      },
+      {
+        "asset": "IM_IC08",
+        "english": "MB",
+        "kind": "status"
+      },
+      {
+        "asset": "IM_IC09",
+        "english": "AR",
+        "kind": "status"
+      },
+      {
+        "asset": "IM_IC10",
+        "english": "DS",
+        "kind": "status"
+      },
+      {
+        "asset": "IM_IC12",
+        "english": "MV",
+        "kind": "status"
+      },
+      {
+        "asset": "IM_IC26",
+        "english": "EVA",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC27",
+        "english": "DEF",
+        "kind": "large"
+      },
+      {
+        "asset": "IM_IC00S",
+        "english": "AT",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC01S",
+        "english": "CT",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC02S",
+        "english": "SP",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC03S",
+        "english": "SM",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC04S",
+        "english": "SH",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC05S",
+        "english": "AS",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC26S",
+        "english": "EV",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_IC27S",
+        "english": "DF",
+        "kind": "small"
+      },
+      {
+        "asset": "IM_W00_0",
+        "english": "INTERMISSION",
+        "kind": "header"
+      }
+    ],
+    "palettes_and_headers_preserved": true,
+    "target_sha256": "8e7ab031069f454257e94ee910388c1aa39df14b3944423efc33d1b2ce64ce0c"
+  }
+}
