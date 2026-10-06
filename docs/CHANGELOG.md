@@ -11,6 +11,9 @@
   patch for Apply xdelta. Both formats require exact source/output hashes.
 - Release notes document cumulative changes, application steps and remaining
   visual, memory-card and complete-campaign playtesting checks.
+- PS2 release encoding uses a sliding source window for the retained original
+  disc layout, avoiding an oversized full-window delta. Patch application still
+  verifies the complete output image against the same final test-build hash.
 
 
 ## PS2 0.1.18 — 2026-10-06 (three favorite series)

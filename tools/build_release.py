@@ -34,15 +34,18 @@ def main():
         sys.path.insert(0, str(args.retro_trans_root.resolve()))
     import retro_trans.release as release
     from retro_trans.release import build_release, validate_directory
-    # ISO file relocation can exceed xdelta's default source window. Let it
-    # reference the full original image; otherwise unchanged large game files
-    # become literal patch data. Decoding and validation stay with Retro Trans.
+    # PSP file relocation needs the full original source window. PS2 retains
+    # original LBAs; use a sliding window instead of indexing its entire >2GB
+    # image, which produces an unnecessarily large patch with the Windows engine.
+    # Decoding and validation stay with Retro Trans.
     def encode_full_source(engine, source, modified, destination, cancel=None, progress=None):
         from retro_trans.core import check_cancel, PatchError
         check_cancel(cancel)
         if progress:
-            progress('Creating xdelta patch with full source window', None)
+            progress('Creating xdelta patch', None)
         window = 1 << max(20, (source.stat().st_size - 1).bit_length())
+        if args.platform == 'PS2':
+            window = min(window, 512 * 1024 * 1024)
         import os
         env = os.environ.copy()
         env.pop('XDELTA', None)
