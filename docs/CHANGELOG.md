@@ -2,6 +2,12 @@
 
 ## Shared PSP / PS2 v0.4.12 — 2026-10-06 (public release)
 
+- Published [v0.4.12](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.12)
+  for both platforms. All 11 downloads match their uploaded SHA-256 digests;
+  downloaded PS2 Apply xdelta output matches the final test image. The scoped
+  Retro Trans catalog workflow passed and live PSP routes from original,
+  0.4.1 and 0.4.9 reach 0.4.12. Evidence: `docs/releases/v0.4.12_validation.json`.
+
 - User authorized publication of both platforms with the PSP version number.
   PSP 0.4.12 and the final PS2 0.1.18 image are packaged as public v0.4.12;
   historical PS2 test labels remain in their original reports.
