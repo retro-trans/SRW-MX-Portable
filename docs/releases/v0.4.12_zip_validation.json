@@ -9,18 +9,18 @@
   "assets": [
     {
       "name": "BUILD-MANIFEST.json",
-      "bytes": 2107,
-      "sha256": "9e6f2232909c8b8fee4f1c6544e7d447713e5d49122c43d99c131e11ca7c5658"
+      "bytes": 1398,
+      "sha256": "425147d2865bdfe9fee6ebd3da94cdee0071de8826a20b1d11785c6c65b72b9b"
     },
     {
       "name": "BUILD-TESTS-v0.4.12.json",
-      "bytes": 1634,
-      "sha256": "efacd30355fb35e71a65da7ccc6bb34fd80056e5c8741c1ef9936baeff552d4f"
+      "bytes": 1529,
+      "sha256": "34d7f45fb4a32cdf0db4ee74fcdae5019a398d2779003a51f938d82510bdc530"
     },
     {
       "name": "CHANGELOG-v0.4.12.md",
-      "bytes": 117637,
-      "sha256": "bfefccf24084a931aa6b57e55f0c67aea30c76d8c65ccb74f0be3085d6d1ff55"
+      "bytes": 116629,
+      "sha256": "ae524d980019e812515d219b0f71ba7d7d1eca896eb2c4bd08f7f0230065924d"
     },
     {
       "name": "FONT-LICENSE.txt",
@@ -29,18 +29,18 @@
     },
     {
       "name": "README-v0.4.12.txt",
-      "bytes": 5478,
-      "sha256": "d9c9b55602251c89b1c81fc8d08aa0e5d9d41bfadc78e59fdef55362ce7cbfb6"
+      "bytes": 5569,
+      "sha256": "b83938face8261dbe100e65f9de68f9ebea7aa33c7c9337f84e68234c53e1802"
     },
     {
       "name": "SHA256SUMS-v0.4.12.txt",
-      "bytes": 904,
-      "sha256": "00068ce62618d9380c6a6607873aa4c3bec99d9f02b4b0b3c1a57a55f29329d1"
+      "bytes": 901,
+      "sha256": "bf059526869b305b4bc46524295da9f18e43bf2ff9a6b2a015eb06aad3f5385c"
     },
     {
       "name": "SHA256SUMS.txt",
-      "bytes": 472,
-      "sha256": "bc54c58f54513ad30e1c03e9c4d75169c09a9c9e6dc68b258b6c67d8b41c76d9"
+      "bytes": 372,
+      "sha256": "fb5429e32084f25660e1a65cc7cf55242e4bd8da5c580b352947c5739379497b"
     },
     {
       "name": "SRWMX-English-v0.4.12.xdelta",
@@ -53,42 +53,34 @@
       "sha256": "ec53e056890da11ee9d405d19353874d7d95a70c4cf37dfbccbb47265ee434a2"
     },
     {
-      "name": "SRWMX-PS2-English-v0.4.12.xdelta",
-      "bytes": 126429718,
-      "sha256": "3bbf9bf6203b712408fe8b7249b6a0c4687ffd9ad1bcd0afd386a6c2baf857c8"
+      "name": "SRWMX-PS2-English-v0.4.12.zip",
+      "bytes": 126466798,
+      "sha256": "7d0b6ce589a23a25aef57700565641912bf498d03edd37d8aea1c4821f13ff9b"
     },
     {
       "name": "VALIDATION.json",
-      "bytes": 721,
-      "sha256": "b1cb741c5f3c0927d4f81c8db4e9bdcdf82fa42a5c666353d0db069a8a2c33a6"
+      "bytes": 512,
+      "sha256": "cdbca01240d432d16d279dade42044895a7a796acc9b00edf3c4a243326c7094"
     }
   ],
   "release_url": "https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.12",
   "published_at": "2026-10-06T10:13:04Z",
   "public_asset_digests_verified": true,
+  "catalog_workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/37448308226",
+  "catalog_workflow_result": "success",
+  "catalog_commit": "902c20b",
   "live_catalog_routes": {
-    "ULJS-00041:original": [
+    "original": [
       "SRWMX-English-v0.4.12.xdelta"
     ],
-    "ULJS-00041:0.4.1": [
+    "0.4.1": [
       "SRWMX-English-v0.4.1-to-v0.4.9.xdelta",
       "SRWMX-English-v0.4.9-to-v0.4.12.xdelta"
     ],
-    "ULJS-00041:0.4.9": [
+    "0.4.9": [
       "SRWMX-English-v0.4.9-to-v0.4.12.xdelta"
-    ],
-    "SLPS-25345:original": [
-      "SRWMX-PS2-English-v0.4.12.xdelta"
     ]
   },
   "ps2_patch_bytes": 126429718,
-  "ps2_source_window_bytes": 536870912,
-  "packaging": "bare xdelta; ZIP removed at user request",
-  "bare_patch_same_bytes_as_previous_verified_zip_member": true,
-  "retro_trans_platform_support_commit": "491df9b",
-  "retro_trans_regression_tests": 42,
-  "catalog_workflow_result": "success",
-  "catalog_workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/37450635156",
-  "platform_labels_verified": true,
-  "retro_trans_checks_workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/37450319038"
+  "ps2_source_window_bytes": 536870912
 }

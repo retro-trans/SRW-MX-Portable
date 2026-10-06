@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.4.12 packaging update — 2026-10-06
+
+- Replaced the PS2 ZIP with the bare `SRWMX-PS2-English-v0.4.12.xdelta`,
+  as requested. Patch bytes and both platform outputs are unchanged.
+- Extended the shared manifest and round-trip validation to include the PS2
+  edition. Added per-patch platform/name support in Retro Trans Tools; 42
+  catalog, builder, release and multi-file regression tests pass. Existing PSP
+  routes remain unchanged, and the new PS2 edition has its own exact hashes.
+- Updated download instructions and checksums; PS2 uses Apply xdelta directly.
+- Published the bare patch, removed the ZIP, verified all 11 downloaded assets
+  and their public digests, and confirmed the live catalog's PS2 platform/route
+  and unchanged PSP routes. Retro Trans checks and catalog refresh both pass.
+
 ## Shared PSP / PS2 v0.4.12 — 2026-10-06 (public release)
 
 - Published [v0.4.12](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.12)

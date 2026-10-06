@@ -34,16 +34,15 @@ Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools):
 - **PSP:** refresh the catalog, choose **Automatic**, select your original
   Japanese ISO or published English v0.4.9 ISO, and patch. You can also use
   **Apply xdelta** with the corresponding patch below.
-- **PS2:** extract the PS2 ZIP, choose **Apply xdelta**, and select your original
-  Japanese PS2 ISO and the extracted patch. The ZIP includes separate build
-  metadata and validation; PS2 uses the manual route because the catalog
-  currently supports one platform per GitHub release.
+- **PS2:** download the bare PS2 patch, choose **Apply xdelta**, and select your
+  original Japanese PS2 ISO and the downloaded `.xdelta` file. No extraction
+  is needed. All patches are covered by the shared manifest and validation.
 
 | Your source | Download |
 |---|---|
 | Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-English-v0.4.12.xdelta) |
 | Published English PSP v0.4.9 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-English-v0.4.9-to-v0.4.12.xdelta) |
-| Japanese PS2, SLPS-25345 | [PS2 package](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-PS2-English-v0.4.12.zip) |
+| Japanese PS2, SLPS-25345 | [PS2 patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.12/SRWMX-PS2-English-v0.4.12.xdelta) |
 
 Keep checksum verification enabled. Patches require the exact supported image;
 local test builds can differ despite having the same version label. PSP v0.4.1

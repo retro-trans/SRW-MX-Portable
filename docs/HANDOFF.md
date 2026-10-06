@@ -1,10 +1,13 @@
 # Shared public release v0.4.12 — 2026-10-06
 
 Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.12
-All 11 release assets were downloaded and verified. The downloaded PS2 ZIP
-passes Retro Trans Apply xdelta with the exact tested output hash. The scoped
-catalog workflow passed; live PSP routes from original, 0.4.1 and 0.4.9 reach
-0.4.12. Publication evidence: `docs/releases/v0.4.12_validation.json`.
+All 11 current release assets were downloaded and verified. PS2 is now a bare
+`.xdelta` at the user's request; the ZIP has been removed. Its bytes match the
+previously verified Apply xdelta patch. The shared manifest covers both platforms.
+The catalog refresh and Retro Trans checks passed, with accurate platform
+metadata, all previous PSP routes retained and the PS2 original-to-0.4.12 route.
+Publication evidence: `docs/releases/v0.4.12_validation.json`; initial ZIP
+publication evidence is preserved in `docs/releases/v0.4.12_zip_validation.json`.
 Public local images are `work/output/SRWMX_EN_0.4.12.iso` and
 `work/output/SRWMX_PS2_EN_0.4.12.iso` (hard link to the preserved 0.1.18 image).
 
@@ -13,8 +16,8 @@ Public PS2 v0.4.12 is byte-identical to the final local 0.1.18 image
 (`10d491a0ce7331ecaf94270f5112c375276f0a987c1150e104fd22a67833dbdf`).
 PSP v0.4.12 retains its existing image and number. Release notes and exact
 source/output hashes are in `docs/releases/v0.4.12.md`. PSP uses the existing
-Retro Trans Automatic catalog; the PS2 ZIP has separate metadata and is applied
-with Apply xdelta. Earlier local-only statements below are historical.
+Retro Trans Automatic catalog; the bare PS2 patch is applied directly with
+Apply xdelta and has its own entry in the shared manifest. Earlier local-only statements below are historical.
 
 # Handoff — SRW MX Portable English translation
 

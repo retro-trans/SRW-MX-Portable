@@ -16,6 +16,7 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- Publish bare `.xdelta` patches for both platforms; do not wrap the PS2 patch in a ZIP.
 - Public PSP and PS2 releases share the PSP version number; preserve historical PS2 test labels in verification records.
 - Thought dialogue must have exactly one space between the speaker name and opening parenthesis: `Daisuke (thought...)`.
 - Do not create or publish a GitHub release until the user explicitly requests a release for that build. Translation and local builds do not imply release permission.
