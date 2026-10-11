@@ -1,5 +1,21 @@
 # Changelog
 
+## PSP / PS2 v0.4.29 release — 2026-10-11
+
+- Prepared the shared public version requested by the user: bare full patches
+  and upgrades from the exact published v0.4.12 image for each platform.
+- PSP uses the verified 0.4.29 candidate. PS2 advances its 0.4.26 candidate to
+  the shared version and shortens the rename caption to Name. Its native title
+  version/credit is now visibly verified after a fresh boot at native resolution.
+- Native ISO footer checks, PS2 renderer checks and complete patch round trips
+  verify both outputs. Packaging includes a Retro Trans Tools manifest, output
+  identities, checksums, validation and scoped emulator-test evidence.
+- Includes the accumulated interface/name/layout fixes since v0.4.12. Later
+  whole-campaign proofreading, Saburota and Hau Dragon source edits await a
+  full rebuild and are excluded. Full playthrough and physical tests remain pending.
+- Historical platform-specific test versions and their verification records
+  remain unchanged. Publication details are recorded in the release validation.
+
 ## Local PSP 0.4.29 — 2026-10-11
 
 - Returned the two-line credit/version to the bottom right and removed the

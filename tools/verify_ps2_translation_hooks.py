@@ -6,7 +6,7 @@ from ps2_battle_port import SITES
 from port_ps2_translations import ROOT,read_json
 import insert_text as it
 
-def verify(data,native):
+def verify(data,native,build_base=None):
     u=machine(data);initial=u.context_save();checks=0
     table=int(native['battle']['overflow_table_va'],16)
     overflow=read_json(ROOT/'work/build/ps2/campaign/quote_overflow.json')
@@ -43,10 +43,22 @@ def verify(data,native):
     result=dict(battle_normal_and_overflow_cases=12,spirit_names=32,spirit_out_of_range_fallback=True,cases=checks+1)
     if 'sentences' in native:
         from static2_extract import sections,index
-        fix=(ROOT/'work/build/ps2/campaign/FIX00.DAT').read_bytes();s=sections(fix,0)
+        fix=((build_base or ROOT/'work/build/ps2/campaign')/'FIX00.DAT').read_bytes();s=sections(fix,0)
         u.mem_write(0xa00000,fix);u.mem_write(0x940000,struct.pack('<I',0xa00000+s['Sent'][0]))
         initial=u.context_save();rows=0;external=0
         report=read_json(ROOT/'work/translation/en/ps2/database_port.en.json')
+        # Incremental builds reflow reviewed library and skill paragraphs while
+        # preserving the native IDs of all other database categories.
+        if build_base is not None:
+            import copy
+            report=copy.deepcopy(report)
+            replacements={}
+            for filename,key in [('library.json','description_rows'),('ui_details.json','description_rows')]:
+                if (build_base/filename).exists():
+                    for row in read_json(build_base/filename)[key]:replacements[(row['table'],row['entry'])]=row
+            for item in report['texts']:
+                if (item['table'],item['entry']) in replacements:item['lines']=replacements[(item['table'],item['entry'])]['lines']
+                if item['table']=='Strg' and item['entry']==1133 and (build_base/'battle_labels.json').exists():item['english']='AI'
         names_checked=0
         for item in report['texts']:
             if item['table']!='Strg':continue

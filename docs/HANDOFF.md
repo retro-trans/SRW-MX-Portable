@@ -1,3 +1,19 @@
+# Shared v0.4.29 release preparation — 2026-10-11
+
+The user explicitly requested a release. PSP 0.4.29 and PS2 0.4.29 are complete;
+PS2 applies the Name caption and exact footer over its historical 0.4.26 image.
+The PS2 fresh boot visibly verifies both footer lines at native resolution;
+loaded immutable renderer bytes and all hooks match the candidate. Forty-two
+title state/phase execution cases pass. Both platforms' title evidence is in
+`work/ui/{psp,ps2}/title_footer_0.4.29/title_menu.png`.
+
+Release packaging creates full original-image and exact published 0.4.12
+upgrade patches for each edition, with full decoded-output hashes and the
+shared Retro Trans Tools manifest. Source snapshot: 8714e03980396e4b5ef07214d3e8fa1d7a4c7782.
+Later campaign proofreading/Hau Dragon remain source-only and are explicitly
+excluded in the release notes. Publication/catalog verification will be recorded
+in `docs/releases/v0.4.29_validation.json`.
+
 # PSP footer placement, local 0.4.29 — 2026-10-11
 
 `work/output/SRWMX_EN_0.4.29.iso` is complete, SHA256

@@ -39,16 +39,23 @@ def main(version,retro_trans_root):
     psp=json.loads((ROOT/f'work/output/psp_title_footer_{version}_runtime.json').read_text())
     ps2=json.loads((ROOT/f'work/output/ps2_font_{version}_runtime.json').read_text())
     title=json.loads((ROOT/f'work/output/ps2_title_footer_{version}_execution.json').read_text())
+    footer_records=[json.loads((ROOT/f'work/output/{p}_title_footer_{version}_verification.json').read_text()) for p in ('psp','ps2')]
+    assert psp['version']==ps2['version']==version
+    assert footer_records[0]['output_sha256']==manifests[0]['patches'][0]['target_sha256']
+    assert ps2['iso_sha256']==manifests[1]['patches'][0]['target_sha256']
     assert psp['full_native_title_texture_matches_candidate']
     assert ps2['immutable_segment_equal'] and all(h['equal'] for h in ps2['hook_checks'])
+    assert ps2['fresh_boot'] and ps2['visual_validation'].startswith('passed:')
+    assert (ROOT/ps2['title_screenshot']).is_file()
     assert title['passed']
     write(dest/f'BUILD-TESTS-v{version}.json',dict(version=version,
+        native_iso_footer_readback={p:r['footer']['readback'] for p,r in zip(('PSP','PS2'),footer_records)},
         psp_title_fresh_boot=psp,ps2_title_fresh_boot={k:v for k,v in ps2.items() if k not in ('hook_checks','mutable_ranges')},
         ps2_native_title_execution=dict(passed=True,cases=len(title['cases']),native_width_executed=title['native_width_executed']),
         psp_name_caption_validation='Fresh-boot verified in 0.4.28; executable and save unchanged in 0.4.29',
         later_campaign_proofreading_included=False,physical_console_tested=False,complete_playthrough_tested=False))
     notes=ROOT/f'docs/releases/v{version}.md'
-    text=notes.read_text(encoding='utf8')
+    text=notes.read_text(encoding='utf8').split('\n### Exact images\n',1)[0]
     text+='\n### Exact images\n\n| Platform / image | Bytes | SHA-256 |\n|---|---:|---|\n'
     seen=set()
     for row in manifest['patches']:
@@ -57,7 +64,6 @@ def main(version,retro_trans_root):
                                   (f"{row['platform']} v{version} output",row['target_bytes'],row['target_sha256'])]:
             if (label,digest) in seen:continue
             seen.add((label,digest));text+=f'| {label} | {size:,} | `{digest}` |\n'
-    notes.write_text(text,encoding='utf8')
     (dest/f'README-v{version}.txt').write_text(text,encoding='utf8')
     shutil.copyfile(ROOT/'docs/CHANGELOG.md',dest/f'CHANGELOG-v{version}.md')
     license_files=[ROOT/f'work/output/{prefix}{version}_FONT_LICENSE.txt' for prefix in ('SRWMX_EN_','SRWMX_PS2_EN_')]
