@@ -389,8 +389,9 @@ wording decisions rather than invented technical terminology.
 
 Stage 18: Operation Maelstrom follows official Apple TV episode47 synopsis;
 Salem Medal is a source-literal decoration, with MAHQ corroborating Salem award
-context but no independent licensed medal label. Folia Esto derives from Akurasu
-Folia and the established Esto surname; SRW Wiki explicitly confirms gender and
+context but no independent licensed medal label. Folia Est combines Akurasu's
+Folia given name with the user's requested Est family spelling. Earlier
+reference pages use the Esto variant; SRW Wiki explicitly confirms gender and
 family relationship, not independently licensed full English spelling.
 Dr. Plato is the main glossary approved short form (en_short); Dr. Lang Plato
 is the full name. A source-scoped checker exception preserves the correct short
@@ -1117,3 +1118,111 @@ to clear Lv. The Assist marker uses A because the native attribute buffer
 holds one encoded character plus a terminator. S denotes the solid/physical
 weapon flag beside the existing B beam flag. These are compact UI labels,
 not canonical name changes. Akurasu MX terms were refreshed for this build.
+
+## User surname correction and English music titles — 2026-10-07
+
+Use **George De Sand**. The user explicitly requested a space in the surname.
+This overrides Akurasu MX Character List's `George DeSand`; the Japanese name
+and short name George retain the same identity. The canonical name, variant
+map, current story inputs, library name and battle speaker metadata agree.
+Historical translation drafts and test/release records retain their labels.
+
+The two long G Gundam music titles previously used Akurasu romanization to
+fit one music-list row. The user's request to translate the Japanese titles
+now uses compact English: **Burning Spirit - Defying Fate** (native Strg 1744)
+and **A Serene Mind, A Blazing Palm** (1745). Both clauses are represented.
+The former calls for fighting spirit to blaze and overcome an accursed fate;
+the latter contrasts a clear, serene mind with a palm blazing like fire.
+Akurasu's full glosses remain provenance, while the compact display forms
+measure 226 and 241 pixels in the actual 20px font against a 427px limit.
+Sources refreshed: [MX Character List](https://akurasu.net/wiki/Super_Robot_Wars/MX/Character_List)
+and [MX BGM](https://akurasu.net/wiki/Super_Robot_Wars/MX/BGM).
+
+## User surname correction: Albero Est — 2026-10-07
+
+Use **Albero Est**, as explicitly requested by the user. The refreshed MX
+term tables have no Albero entry. This replaces the Esto spelling used in
+earlier glossary sources and Akurasu's character-page URL. The short name
+Albero is unchanged. Current story, battle, library, glossary and platform
+port inputs use the requested surname; historical drafts and verification
+records keep their original labels. Local 0.4.17 applies this to both platforms.
+
+## User unit-name correction: Black Selena — 2026-10-07
+
+Use **Black Selena** for the standard unit and **High-maneuver Black Selena**
+for its high-maneuver form. This explicitly requested spelling overrides
+Akurasu MX Mech List's Black Sarana / High-maneuver Black Sarana and the
+Sarena variant in earlier inputs. It supersedes the earlier Nadesico spelling
+decision above. Current glossary, protected-name list, alias fixes, names,
+library descriptions and related dialogue agree. The associated soundtrack
+label uses **Black Selena III**. Historical drafts and evidence retain their
+original labels. Both native fonts render Selena narrower than either old
+variant, allowing all existing line breaks and allocation sizes to remain.
+
+## Spoken doctor titles — 2026-10-09
+
+**Genzo Umon** remains the full character name. When the source uses only
+his surname and doctor title, dialogue should say **Dr. Umon**. The contextual
+name checker permits this spoken form, as it already does for Dr. Plato.
+This preserves the source's respectful address rather than replacing it
+with a full-name address. See `doctor_title_context_2026_10_09` in
+`work/glossary/decisions.json` and the Chapters 1–14 proofreading report.
+
+Albero's **Commander** address denotes his role leading the Cry Wolves;
+his explicit former military rank remains **Major**. Chapter 5's flashback
+and Chapter 11 now use the same squad-leader title. Other captains and guard
+commanders are not automatically converted.
+
+
+## Folia Est — 2026-10-09
+
+Use **Folia Est**, matching his father **Albero Est** and the user's explicit surname preference. The refreshed Akurasu MX character list has no Folia entry. This extends the established family spelling rather than introducing a different surname for the son. Applied contextually to the reviewed Chapter 18 dialogue; older unrevised campaign inputs remain outside this proofreading scope.
+# Screenshot terminology corrections — 2026-10-10
+
+The user explicitly requests **Bryst**, overriding the Akurasu MX Mech List's
+Briest spelling. Use **Bryst of the Fires** in the unit-name field, retaining
+its existing epithet, and **Bryst** in short references and associated text.
+The user also requests **Mu** for the RahXephon faction, rather than uppercase
+MU. Use **the Mu** in running text when the article is required, and **The Mu**
+at the beginning of a sentence. Existing compounds such as La Mu are retained.
+Akurasu terms were refreshed with `tools/akurasu_terms.py` before this review.
+Both decisions are recorded in `work/glossary/decisions.json` and applied to
+PSP and PS2 current translation inputs and local 0.4.21 builds.
+# Hau Dragon — 2026-10-11
+
+Use **Hau Dragon** for the organization written as 鉄甲龍 or ハウドラゴン,
+following the user's explicit consistency correction. Remove the ordinary
+Tekkoryu spelling and the added parenthetical Iron Dragon gloss. The refreshed
+Akurasu MX tables have no organization entry; the user's choice is recorded in
+`work/glossary/decisions.json` under `hau_dragon_display`.
+
+Three dialogue lines explicitly contrast both name forms (Chapter 12 entry 53,
+Chapter 21 entry 371, Chapter 56 entry 477). Retain **the Iron Dragon** as a
+literal alias there to preserve the original pause or self-correction, rather
+than making the speaker say Hau Dragon twice. Current ordinary mentions in
+54 assembled dialogue entries and seven encyclopedia entries now use the
+consistent name. Historical contributor packets remain unchanged; guarded
+context overrides reproduce the current dialogue edits.
+
+## Est surname, all current inputs — 2026-10-11
+
+Use **Albero Est** and **Folia Est** everywhere in current game text. The user
+explicitly confirms that **Esto** should be **Est**, extending the previous
+Albero correction to every mention of the family surname. Akurasu supplies
+Folia's given name but does not independently establish the full surname;
+the explicit user choice takes precedence over the reference-page variant.
+See `est_surname_policy` in `work/glossary/decisions.json`. Both full Esto
+variants are now rejected by the name checker. Historical correction baselines
+and linked page URLs remain unchanged so their provenance stays accurate.
+
+## Default squad name: Magnet X — 2026-10-11
+
+Use **Magnet X** for the native default squad name マグネイト・テン, following
+the user's explicit choice. This supersedes the earlier literal Magnate Ten
+rendering; the old boot-UI uncertainty noted no exact Akurasu organization
+entry. The eight-character name, including its space, fits the native limit.
+The shared boot-UI input feeds both PSP and PS2. Keep the `#部隊名` placeholder
+in dialogue: it must display the player's chosen or saved name. Do not replace
+Ruri's line with a hardcoded default. Existing save contents are preserved;
+the naming screen's Reset action selects the new default. See
+`squad_name_default` in `work/glossary/decisions.json`.

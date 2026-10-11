@@ -1015,12 +1015,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -5283,12 +5283,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "Vega and the children of Dendoh shattered my false mask!",
+   "en": "Vega and Dendoh's young pilots shattered my false mask!",
    "translation_owner": {
     "source": "work/translation/en/script/stage34_campaign.json",
     "id": 143
    },
-   "notes": "False mask is his imposed false persona; Vega and Dendoh children broke it.",
+   "notes": "False mask is his imposed false persona; Vega and Dendoh children broke it. Chapters 31-58 proofreading: Identify the children as Dendoh's pilots; children of Dendoh sounds like descendants rather than the boys operating the machine.",
    "uncertain": []
   },
   {
@@ -7013,12 +7013,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "By Vega, the children of Dendoh... and #部隊名!!",
+   "en": "By Vega, Dendoh's young pilots... and #部隊名!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage34_campaign.json",
     "id": 241
    },
-   "notes": "Continues 240, naming rescuers. Retained source cross-row fragment; runtime squad placeholder unchanged.",
+   "notes": "Continues 240, naming rescuers. Retained source cross-row fragment; runtime squad placeholder unchanged. Chapters 31-58 proofreading: Refer to the children as Dendoh's pilots, consistently with the earlier description of who broke the false mask.",
    "uncertain": []
   },
   {
@@ -8753,12 +8753,12 @@
    "kind": "dialogue",
    "speaker_jp": "カミーユ",
    "speaker_en": "Kamille",
-   "en": "...Whether the assassination or the culprit is real or not, Marshal Guiltorre's fall from power is probably a fact.",
+   "en": "...Whatever the truth about the assassination and the culprit, Marshal Guiltorre has probably fallen from power.",
    "translation_owner": {
     "source": "work/translation/en/script/stage34_campaign.json",
     "id": 331
    },
-   "notes": "Fall from power remains distinct from assassination, which Kamille has not established.",
+   "notes": "Fall from power remains distinct from assassination, which Kamille has not established. Chapters 31-58 proofreading: The doubt concerns whether the reports are true and who was responsible, not whether a culprit is real.",
    "uncertain": []
   },
   {
@@ -8993,12 +8993,12 @@
    "kind": "dialogue",
    "speaker_jp": "大介",
    "speaker_en": "Daisuke",
-   "en": "True. Much of what we've heard has parts that sound like a deliberate attempt to discredit him.",
+   "en": "True. Much of what we've heard sounds like a deliberate attempt to discredit him.",
    "translation_owner": {
     "source": "work/translation/en/script/stage34_campaign.json",
     "id": 346
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Remove awkward nesting about information having parts while preserving the observation that the rumors deliberately discredit Meio.",
    "uncertain": []
   },
   {
@@ -10537,12 +10537,12 @@
    "kind": "dialogue",
    "speaker_jp": "タップ",
    "speaker_en": "Tapp",
-   "en": "But thanks to you and the others, Lieutenant, Operation Moonraker was a huge success...",
+   "en": "But thanks to you and the others, Captain, Operation Moonraker was a huge success...",
    "translation_owner": {
     "source": "work/translation/en/script/stage34_campaign.json",
     "id": 440
    },
-   "notes": "Lieutenant address refers to Quattro and comrades; operation success continuation ellipsis retained.",
+   "notes": "Lieutenant address refers to Quattro and comrades; operation success continuation ellipsis retained. Chapters 31-58 proofreading: Tapp addresses Quattro with the same rank rendered Captain elsewhere; Lieutenant is the wrong rank.",
    "uncertain": []
   },
   {
@@ -12344,7 +12344,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 34,
-  "fingerprint": "3822fb8b42430653a043d3ae382ef485c20370c58fa0a40509eae8dcb5414755",
+  "fingerprint": "fb483a39cdd6fd784ed2d8dcbb5fb226396e9e684407be1b9a5d48b9c62e843b",
   "reviewed_reused_ids": [
    35,
    36,
@@ -12527,7 +12527,7 @@
   "reviewed_reused_rows": 177,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 11 fresh uncertainty rows against original route neighbors and every use of all 34 non-template reused rows, including five Ginga silences, paired Data Weapon silences, Linda comfort and Amuro Vermillion context. All 143 generic prologue defeat rows have 410 opcode0x7D registered uses, verified from original commands. Two measured overflow condition rows207/423 preserve either-unit defeat and mothership loss; duplicated Knight source typo follows canonical title. Asona reading, Double G metareference, invented Getter attack guesses and licensed command/place provenance remain explicitly uncertain. Buddhist ringed staff and Pure Land wording sourced; no sect inferred. Family and memory references align across both routes, with source omissions retained."
+  "note": "Reviewed all 11 fresh uncertainty rows against original route neighbors and every use of all 34 non-template reused rows, including five Ginga silences, paired Data Weapon silences, Linda comfort and Amuro Vermillion context. All 143 generic prologue defeat rows have 410 opcode0x7D registered uses, verified from original commands. Two measured overflow condition rows207/423 preserve either-unit defeat and mothership loss; duplicated Knight source typo follows canonical title. Asona reading, Double G metareference, invented Getter attack guesses and licensed command/place provenance remain explicitly uncertain. Buddhist ringed staff and Pure Land wording sourced; no sect inferred. Family and memory references align across both routes, with source omissions retained. 2026-10-09: All Chapter 34 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 729,

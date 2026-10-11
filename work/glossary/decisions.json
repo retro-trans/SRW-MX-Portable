@@ -11,7 +11,16 @@
   "マッフユニット": "MAFFU unit",
   "統率": "Leadership",
   "ガルファ": "Gulfer",
-  "凰牙": "Ogre"
+  "凰牙": "Ogre",
+  "ジョルジュ・ド・サンド": "George De Sand",
+  "アルベロ・エスト": "Albero Est",
+  "ブラックサレナ": "Black Selena",
+  "高機動型ブラックサレナ": "High-maneuver Black Selena",
+  "フォリア・エスト": "Folia Est",
+  "火のブライスト": "Bryst of the Fires",
+  "鉄甲龍": "Hau Dragon",
+  "ハウドラゴン": "Hau Dragon",
+  "マグネイト・テン": "Magnet X"
  },
  "no_text_fix": [
   "少林寺拳法"
@@ -24,7 +33,15 @@
   "Muff": "MAFFU",
   "Galfa": "Gulfer",
   "Oger": "Ogre",
-  "Ouga": "Ogre"
+  "Ouga": "Ogre",
+  "George DeSand": "George De Sand",
+  "Albero Esto": "Albero Est",
+  "Black Sarana": "Black Selena",
+  "Black Sarena": "Black Selena",
+  "Briest": "Bryst",
+  "MU": "Mu",
+  "Folia Esto": "Folia Est",
+  "Esto": "Est"
  },
  "chapter_card_titles_0_4_2": {
   "冥府の王、その名は『天』": {
@@ -56,5 +73,57 @@
    "scope": "weapon-table one-character attribute cell",
    "reason": "Translate physical/solid flag in original compact cell; B beam marker preserved."
   }
+ },
+ "user_spelling_0_4_14": {
+  "en": "George De Sand",
+  "akurasu": "George DeSand",
+  "reason": "Explicit user correction on 2026-10-07 takes precedence over Akurasu joined surname."
+ },
+ "music_display_0_4_14": {
+  "1744": {
+   "en": "Burning Spirit - Defying Fate",
+   "reason": "Compact English translation of both title clauses; requested translation rather than romanization and must fit a single 427px music row."
+  },
+  "1745": {
+   "en": "A Serene Mind, A Blazing Palm",
+   "reason": "Compact English translation of both title clauses; requested translation rather than romanization and must fit a single 427px music row."
+  }
+ },
+ "albero_surname_reason": "User explicitly requested Albero Est on 2026-10-07. MX term tables have no Albero entry; retain the requested spelling over the Esto variant in character reference pages.",
+ "black_selena_reason": "User explicitly requested Black Selena on 2026-10-07. Overrides the refreshed Akurasu MX Mech List Sarana spelling, and the Sarena variant in older inputs, consistently for both forms and associated text.",
+ "doctor_title_context_2026_10_09": {
+  "name": "Genzo Umon",
+  "spoken_title": "Dr. Umon",
+  "source_name": "宇門博士",
+  "reason": "The full character name remains Genzo Umon. Dialogue that uses only the doctor title and surname should say Dr. Umon; treating this title as a misspelling produced unnatural full-name addresses. This is a context-sensitive form, not a canonical-name override."
+ },
+ "folia_surname_reason": "Extend the user-requested Albero Est surname to his son Folia Est for consistency within the same family. The refreshed Akurasu MX character table has no Folia entry; this is an explicit documented project spelling choice.",
+ "screenshot_terms_0_4_21": {
+  "bryst": "Explicit user correction 2026-10-10 overrides Akurasu MX Mech List Briest; retain the established of the Fires epithet.",
+  "mu": "Explicit user correction 2026-10-10: RahXephon faction Mu, with the article the in running text, rather than the uppercase acronym MU."
+ },
+ "hau_dragon_display": {
+  "date": "2026-10-11",
+  "en": "Hau Dragon",
+  "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+  "source": "Explicit user request; Akurasu MX term tables have no organization entry.",
+  "explicit_alias_exception": "Only lines explicitly naming/contrasting both readings retain the literal Iron Dragon alias."
+ },
+ "est_surname_policy": {
+  "date": "2026-10-11",
+  "names": [
+   "Albero Est",
+   "Folia Est"
+  ],
+  "reason": "2026-10-11 user correction: use Est for both Albero and Folia in every current game-facing input.",
+  "provenance": "Explicit user choice; overrides the reference-page variant surname."
+ },
+ "squad_name_default": {
+  "date": "2026-10-11",
+  "en": "Magnet X",
+  "previous": "Magnate Ten",
+  "reason": "Explicit user request: Magnet X is the default squad name. Eight characters including the space fit the native name limit.",
+  "dialogue_policy": "Keep #部隊名 substitution so user-selected names appear naturally in dialogue.",
+  "existing_saves": "Preserve saved names; Reset selects the new default."
  }
 }

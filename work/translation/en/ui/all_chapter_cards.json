@@ -332,12 +332,13 @@
    "scenario_record": 12,
    "jp": "ｄｏ　ｊｕｓｔｉｃｅ　ｔｏ",
    "en": "do justice to",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 24618112,
    "palette_sha256": "4f91e2589da94f505ab1e55aabb251579b377e7ac86464c22338c148cc6743d8",
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
-   ]
+   ],
+   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
   },
   {
    "id": "card_12_duplicate",
@@ -345,12 +346,13 @@
    "scenario_record": 12,
    "jp": "ｄｏ　ｊｕｓｔｉｃｅ　ｔｏ",
    "en": "do justice to",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 24817792,
    "palette_sha256": "4f91e2589da94f505ab1e55aabb251579b377e7ac86464c22338c148cc6743d8",
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
-   ]
+   ],
+   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
   },
   {
    "id": "card_13_main",
@@ -461,26 +463,28 @@
    "asset_index": 17,
    "scenario_record": 17,
    "jp": "Ｂｌｕｅ　ｍｅｅｔｓ　Ｗｈｉｔｅ",
-   "en": "Blue meets White",
-   "needs_translation": false,
+   "en": "Blue Meets White",
+   "needs_translation": true,
    "pixel_offset": 25980032,
    "palette_sha256": "a9e63272a03193406690376133369e1cead69dc3fa132d9784b963d654a76761",
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
-   ]
+   ],
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
   },
   {
    "id": "card_17_duplicate",
    "asset_index": 17,
    "scenario_record": 17,
    "jp": "Ｂｌｕｅ　ｍｅｅｔｓ　Ｗｈｉｔｅ",
-   "en": "Blue meets White",
-   "needs_translation": false,
+   "en": "Blue Meets White",
+   "needs_translation": true,
    "pixel_offset": 26179712,
    "palette_sha256": "a9e63272a03193406690376133369e1cead69dc3fa132d9784b963d654a76761",
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
-   ]
+   ],
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
   },
   {
    "id": "card_18_main",
@@ -1983,12 +1987,13 @@
    "scenario_record": 12,
    "jp": "ｄｏ　ｊｕｓｔｉｃｅ　ｔｏ",
    "en": "do justice to",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 41018368,
    "palette_sha256": "4f91e2589da94f505ab1e55aabb251579b377e7ac86464c22338c148cc6743d8",
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
-   ]
+   ],
+   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
   },
   {
    "id": "card_14_gallery",
@@ -2047,13 +2052,14 @@
    "asset_index": 18,
    "scenario_record": 17,
    "jp": "Ｂｌｕｅ　ｍｅｅｔｓ　Ｗｈｉｔｅ",
-   "en": "Blue meets White",
-   "needs_translation": false,
+   "en": "Blue Meets White",
+   "needs_translation": true,
    "pixel_offset": 41356288,
    "palette_sha256": "a9e63272a03193406690376133369e1cead69dc3fa132d9784b963d654a76761",
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
-   ]
+   ],
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
   },
   {
    "id": "card_19_gallery",

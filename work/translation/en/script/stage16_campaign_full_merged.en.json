@@ -198,12 +198,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "But on the Yangtze route, Tekkoryu may target us. Their headquarters are said to be in southern China.",
+   "en": "But on the Yangtze route, Hau Dragon may target us. Their headquarters are said to be in southern China.",
    "translation_owner": {
     "source": "work/translation/en/script/stage16_campaign.json",
     "id": 10
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -4128,12 +4128,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミケロ",
    "speaker_en": "Michelo",
-   "en": "Hya-ha-ha-ha! A fly could fly as fast as it can and still never catch Heaven's Sword!",
+   "en": "Hya-ha-ha-ha! Even at top speed, a fly could never catch Heaven's Sword!",
    "translation_owner": {
     "source": "work/translation/en/script/stage16_campaign.json",
     "id": 87
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Remove the repetitive fly/could fly/as fast as it can phrasing while retaining the insult.",
    "uncertain": []
   },
   {
@@ -9056,12 +9056,12 @@
    "kind": "dialogue",
    "speaker_jp": "エマリー",
    "speaker_en": "Emary",
-   "en": "Don't worry. Captain Bright is the man I love in my heart.",
+   "en": "Don't worry. Captain Bright is the man of my dreams.",
    "translation_owner": {
     "source": "work/translation/en/script/stage16_campaign.json",
     "id": 389
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Replace the literal heart-lover phrasing with a natural English expression for her romantic ideal.",
    "uncertain": []
   },
   {
@@ -10416,7 +10416,7 @@
    "kind": "dialogue",
    "speaker_jp": "ジョルジュ",
    "speaker_en": "George",
-   "en": "Jack in Diamond, George DeSand... I have come to defend this great rose in bloom.",
+   "en": "Jack in Diamond, George De Sand... I have come to defend this great rose in bloom.",
    "translation_owner": {
     "source": "work/translation/en/script/stage16_campaign.json",
     "id": 474
@@ -11845,7 +11845,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 16,
-  "fingerprint": "114957ffdb82ef289861b9db0ccd1b121fa575102c1b1e02b68915bf7da7823b",
+  "fingerprint": "b72e55b21c9ef8bab8c4571f9d8e9e5accb9545d0812739519a0dc00dae24951",
   "reviewed_reused_ids": [
    13,
    40,
@@ -12002,7 +12002,7 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 562 fresh finals and original uncertainty windows; reviewed every use of all 151 reused rows, including 143 generic failure rows verified exactly against Stage 15 and eight special context-sensitive rows. Three measured compressions (2, 12, 551) preserve actors/actions/endings. Five fresh source/provenance flags retained: unnamed referents, water allusion, literal epithet and provisional Federation affiliation. White Devil exact Akurasu provenance resolved; Dr. Kasshu alias, Ryo and fixed names verified. Initial drafts retained."
+  "note": "Coordinator read all 562 fresh finals and original uncertainty windows; reviewed every use of all 151 reused rows, including 143 generic failure rows verified exactly against Stage 15 and eight special context-sensitive rows. Three measured compressions (2, 12, 551) preserve actors/actions/endings. Five fresh source/provenance flags retained: unnamed referents, water allusion, literal epithet and provisional Federation affiliation. White Devil exact Akurasu provenance resolved; Dr. Kasshu alias, Ryo and fixed names verified. Initial drafts retained. PSP 0.4.14: user requested George De Sand spelling; Rockfell favor/arrogance phrasing checked against source and made idiomatic. 2026-10-09: All Chapter 16 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 713,

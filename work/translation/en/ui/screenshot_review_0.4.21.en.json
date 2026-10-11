@@ -1,0 +1,920 @@
+{
+ "version": "0.4.21",
+ "base_version": "0.4.20",
+ "changes": [
+  {
+   "source_file": "work/translation/en/script/stage02_campaign_full_merged.json",
+   "id": 66,
+   "uses": [
+    "i00r2b:66"
+   ],
+   "speaker": "Misumaru",
+   "old_en": "Soon, the Federation's Far East Forces and TERRA, the anti-MU strategic research agency, will launch a major operation.",
+   "en": "Soon, the Federation's Far East Forces and TERRA, the anti-Mu strategic research agency, will launch a major operation."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 470,
+   "uses": [
+    "s0110:236"
+   ],
+   "speaker": "Koji",
+   "old_en": "Damn it... Is MU about to start another invasion...?!",
+   "en": "Damn it... Is Mu about to start another invasion...?!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 517,
+   "uses": [
+    "s0110:288"
+   ],
+   "speaker": "Beecha",
+   "old_en": "Sure, but I want to see for myself what those MU Dolems, or doughnuts, or whatever they're called, can do.",
+   "en": "Sure, but I want to see for myself what those Mu Dolems, or doughnuts, or whatever they're called, can do."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 745,
+   "uses": [
+    "i011a:85"
+   ],
+   "speaker": "Kunugi",
+   "old_en": "Yes. TERRA is an anti-MU strategy research agency. We investigate why MU invaded and develop countermeasures.",
+   "en": "Yes. TERRA is an anti-Mu strategy research agency. We investigate why Mu invaded and develop countermeasures."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 782,
+   "uses": [
+    "i011a:125"
+   ],
+   "speaker": "Haruka",
+   "old_en": "The people inside it only identified themselves as MU. They never responded to our attempts to contact them.",
+   "en": "The people inside it only identified themselves as Mu. They never responded to our attempts to contact them."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 785,
+   "uses": [
+    "i011a:128"
+   ],
+   "speaker": "Haruka",
+   "old_en": "Then humanity was overwhelmed by the nightmare it had imagined, and launched an attack on MU's floating city...",
+   "en": "Then humanity was overwhelmed by the nightmare it had imagined, and launched an attack on Mu's floating city..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 786,
+   "uses": [
+    "i011a:129"
+   ],
+   "speaker": "Ayato",
+   "old_en": "What did MU do?",
+   "en": "What did Mu do?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 789,
+   "uses": [
+    "i011a:132"
+   ],
+   "speaker": "Haruka",
+   "old_en": "And in just one day, city after city was annihilated. As humanity braced for an all-out war with MU...",
+   "en": "And in just one day, city after city was annihilated. As humanity braced for an all-out war with Mu..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage03_campaign_full_merged.json",
+   "id": 790,
+   "uses": [
+    "i011a:133"
+   ],
+   "speaker": "Haruka",
+   "old_en": "Suddenly, a spherical dimensional barrier covered Tokyo, and MU shut themselves inside it.",
+   "en": "Suddenly, a spherical dimensional barrier covered Tokyo, and Mu shut themselves inside it."
+  },
+  {
+   "source_file": "work/translation/en/script/stage07_campaign_full_merged.json",
+   "id": 46,
+   "uses": [
+    "i015b:47"
+   ],
+   "speaker": "Shi-Aen",
+   "old_en": "No, I ask that Briest of the Fires and...",
+   "en": "No, I ask that Bryst of the Fires and..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage13_campaign_full_merged.json",
+   "id": 8,
+   "uses": [
+    "i026b:8"
+   ],
+   "speaker": "Bahbem",
+   "old_en": "They are ideal for buying time... No, as decoys to draw our gaze and the enemy to them.",
+   "en": "They're ideal for stalling... No, as decoys to draw our attention and lure the enemy."
+  },
+  {
+   "source_file": "work/translation/en/script/stage14_campaign_full_merged.json",
+   "id": 43,
+   "uses": [
+    "i027b:43"
+   ],
+   "speaker": "Dr. Inoue",
+   "old_en": "Yes. They've been researching and analyzing the MU for some time, so their technology is highly advanced.",
+   "en": "Yes. They've been researching and analyzing the Mu for some time, so their technology is highly advanced."
+  },
+  {
+   "source_file": "work/translation/en/script/stage18_campaign_full_merged.json",
+   "id": 1095,
+   "uses": [
+    "i03e4a:277"
+   ],
+   "speaker": "Ryoma",
+   "old_en": "And on Earth, there's the Hyakki Empire, Hau Dragon... and MU too.",
+   "en": "And on Earth, there's the Hyakki Empire, Hau Dragon... and Mu too."
+  },
+  {
+   "source_file": "work/translation/en/script/stage18_campaign_full_merged.json",
+   "id": 1201,
+   "uses": [
+    "i03s4b:82"
+   ],
+   "speaker": "Prospector",
+   "old_en": "Giganos, Gulfer, MU... The Hyakki Empire and Tekkoryu... Then the Vegan Empire, and on top of that, the Angels.",
+   "en": "Giganos, Gulfer, Mu... The Hyakki Empire and Tekkoryu... Then the Vegan Empire, and on top of that, the Angels."
+  },
+  {
+   "source_file": "work/translation/en/script/stage19_campaign_full_merged.json",
+   "id": 1,
+   "uses": [
+    "i041b:1"
+   ],
+   "speaker": "Luhran",
+   "old_en": "Twin Lord uses Briest of the Fires' Plasma Bullet Magrash and...",
+   "en": "Twin Lord uses Bryst of the Fires' Plasma Bullet Magrash and..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage19_campaign_full_merged.json",
+   "id": 14,
+   "uses": [
+    "i041b:14"
+   ],
+   "speaker": "Shi-Tau",
+   "old_en": "You call it teamwork... But isn't my Gallowin just there to support your Briest?",
+   "en": "You call it teamwork... But isn't my Gallowin just there to support your Bryst?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage19_campaign_full_merged.json",
+   "id": 560,
+   "uses": [
+    "s0410:391"
+   ],
+   "speaker": "Shi-Tau",
+   "old_en": "with Briest's Magrash delivering the finishing blow... My sister attacks the target, and all I do is support her...!",
+   "en": "with Bryst's Magrash delivering the finishing blow... My sister attacks the target, and all I do is support her...!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage19_campaign_full_merged.json",
+   "id": 613,
+   "uses": [
+    "s0410:444"
+   ],
+   "speaker": "Shi-Aen",
+   "old_en": "Tau! Transfer all of Gallowin's energy to Briest!",
+   "en": "Tau! Transfer all of Gallowin's energy to Bryst!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage19_campaign_full_merged.json",
+   "id": 618,
+   "uses": [
+    "s0410:449"
+   ],
+   "speaker": "Shi-Tau",
+   "old_en": "Sister... If I transfer the power to Briest, this Gallowin won't be able to move.",
+   "en": "Sister... If I transfer the power to Bryst, this Gallowin won't be able to move."
+  },
+  {
+   "source_file": "work/translation/en/script/stage23_campaign_full_merged.json",
+   "id": 959,
+   "uses": [
+    "i045a:3"
+   ],
+   "speaker": "???",
+   "old_en": "In that incident... wasn't MU attempting to make direct contact with the EVA-01 pilot?",
+   "en": "In that incident... wasn't Mu attempting to make direct contact with the EVA-01 pilot?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage23_campaign_full_merged.json",
+   "id": 964,
+   "uses": [
+    "i045a:8"
+   ],
+   "speaker": "???",
+   "old_en": "Didn't MU use the Dolem to look into the EVA-01 pilot's memories?",
+   "en": "Didn't Mu use the Dolem to look into the EVA-01 pilot's memories?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage23_campaign_full_merged.json",
+   "id": 966,
+   "uses": [
+    "i045a:10"
+   ],
+   "speaker": "Misato",
+   "old_en": "Why did MU make contact with the EVA?",
+   "en": "Why did Mu make contact with the EVA?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage23_campaign_full_merged.json",
+   "id": 971,
+   "uses": [
+    "i045a:16"
+   ],
+   "speaker": "Misato",
+   "old_en": "As I thought, there's some connection between EVA and MU...",
+   "en": "As I thought, there's some connection between EVA and Mu..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage32_campaign_full_merged.json",
+   "id": 189,
+   "uses": [
+    "s06e30:228"
+   ],
+   "speaker": "Helena",
+   "old_en": "It is an anti-MU weapon... a mobile weapon built to provide TERRA with a new fighting force.",
+   "en": "It is an anti-Mu weapon... a mobile weapon built to provide TERRA with a new fighting force."
+  },
+  {
+   "source_file": "work/translation/en/script/stage32_campaign_full_merged.json",
+   "id": 193,
+   "uses": [
+    "s06e30:232"
+   ],
+   "speaker": "Elvy",
+   "old_en": "Then I can fight the MU without relying on RahXephon or Kamina...!",
+   "en": "Then I can fight the Mu without relying on RahXephon or Kamina...!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage32_campaign_full_merged.json",
+   "id": 235,
+   "uses": [
+    "s06e30:275"
+   ],
+   "speaker": "Elvy",
+   "old_en": "Fine, I'll do it. When I settle things with the MU, I'll have to face much worse than this anyway.",
+   "en": "Fine, I'll do it. When I settle things with the Mu, I'll have to face much worse than this anyway."
+  },
+  {
+   "source_file": "work/translation/en/script/stage33_campaign_full_merged.json",
+   "id": 300,
+   "uses": [
+    "s06e40:346"
+   ],
+   "speaker": "Isshiki",
+   "old_en": "TERRA is a strategic organization for fighting the MU. It was not created to fight monsters like that.",
+   "en": "TERRA is a strategic organization for fighting the Mu. It was not created to fight monsters like that."
+  },
+  {
+   "source_file": "work/translation/en/script/stage35_campaign_full_merged.json",
+   "id": 109,
+   "uses": [
+    "i071b:113"
+   ],
+   "speaker": "Elvy",
+   "old_en": "Hey! Did Kamina show a MU phase response!? Are you saying he's a Mulian!?",
+   "en": "Hey! Did Kamina show a Mu phase response!? Are you saying he's a Mulian!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage35_campaign_full_merged.json",
+   "id": 149,
+   "uses": [
+    "i071b:159"
+   ],
+   "speaker": "Haruka",
+   "old_en": "You don't have to worry... MU or human, it doesn't matter. Really...",
+   "en": "You don't have to worry... Mu or human, it doesn't matter. Really..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage35_campaign_full_merged.json",
+   "id": 421,
+   "uses": [
+    "s0710:258"
+   ],
+   "speaker": "Isshiki",
+   "old_en": "Your surprise is understandable. However, his blood has already tested positive for MU.",
+   "en": "Your surprise is understandable. However, his blood has already tested positive for Mu."
+  },
+  {
+   "source_file": "work/translation/en/script/stage37_campaign_full_merged.json",
+   "id": 906,
+   "uses": [
+    "i073a:263"
+   ],
+   "speaker": "Futagami",
+   "old_en": "The former Demon Empire, perhaps? Or MU?",
+   "en": "The former Demon Empire, perhaps? Or Mu?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 182,
+   "uses": [
+    "i081b:189"
+   ],
+   "speaker": "Isshiki",
+   "old_en": "Then we will send an assault force led by #部隊名 into Tokyo... and subdue MU in one decisive strike.",
+   "en": "Then we will send an assault force led by #部隊名 into Tokyo... and subdue Mu in one decisive strike."
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 526,
+   "uses": [
+    "s0810:358"
+   ],
+   "speaker": "Quattro",
+   "old_en": "EVA and Raideen... And MU and RahXephon... The fate of this world...",
+   "en": "EVA and Raideen... And Mu and RahXephon... The fate of this world..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 537,
+   "uses": [
+    "s0810:369"
+   ],
+   "speaker": "Kim",
+   "old_en": "A MU aerial city has appeared above New York!!",
+   "en": "A Mu aerial city has appeared above New York!!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 540,
+   "uses": [
+    "s0810:372"
+   ],
+   "speaker": "Kim",
+   "old_en": "MU aerial cities appear to be emerging one after another above cities around the world!!",
+   "en": "Mu aerial cities appear to be emerging one after another above cities around the world!!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 541,
+   "uses": [
+    "s0810:373"
+   ],
+   "speaker": "Soichi",
+   "old_en": "MU is multiplying...!?",
+   "en": "Mu is multiplying...!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 551,
+   "uses": [
+    "s0810:383"
+   ],
+   "speaker": "Misato",
+   "old_en": "Former Colonel Masayoshi Kuki of the Far East Command...! Wasn't he reported missing after the outbreak of the MU War...!?",
+   "en": "Former Colonel Masayoshi Kuki of the Far East Command...! Wasn't he reported missing after the outbreak of the Mu War...!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 552,
+   "uses": [
+    "s0810:384"
+   ],
+   "speaker": "Haruka",
+   "old_en": "No, he was inside the absolute barrier. As commander of the MU Government-General's Defense Force...!",
+   "en": "No, he was inside the absolute barrier. As commander of the Mu Government-General's Defense Force...!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 565,
+   "uses": [
+    "s0810:397"
+   ],
+   "speaker": "Duke",
+   "old_en": "Does he mean MU will launch an all-out attack...?",
+   "en": "Does he mean Mu will launch an all-out attack...?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage40_campaign_full_merged.json",
+   "id": 567,
+   "uses": [
+    "s0810:399"
+   ],
+   "speaker": "Ruri",
+   "old_en": "Are you sure? If this goes badly, the MU above every city may start attacking, you know.",
+   "en": "Are you sure? If this goes badly, the Mu above every city may start attacking, you know."
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 326,
+   "uses": [
+    "s0820:286"
+   ],
+   "speaker": "Kuki",
+   "old_en": "Stop your futile resistance and meekly accept MU's judgment.",
+   "en": "Stop your futile resistance and meekly accept Mu's judgment."
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 328,
+   "uses": [
+    "s0820:288"
+   ],
+   "speaker": "Misato",
+   "old_en": "Don't tell me it's MU!?",
+   "en": "Don't tell me it's Mu!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 426,
+   "uses": [
+    "s0820:387"
+   ],
+   "speaker": "Kunugi",
+   "old_en": "The chaos caused by the appearance of MU's aerial cities gives other enemy organizations a perfect opportunity...",
+   "en": "The chaos caused by the appearance of Mu's aerial cities gives other enemy organizations a perfect opportunity..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 564,
+   "uses": [
+    "i082a:39"
+   ],
+   "speaker": "Futagami",
+   "old_en": "Yes. Probably because they're under MU's mind control.",
+   "en": "Yes. Probably because they're under Mu's mind control."
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 568,
+   "uses": [
+    "i082a:43"
+   ],
+   "speaker": "Rikudo",
+   "old_en": "If Quon makes contact with MU again, it too will be like Ayato's RahXephon...",
+   "en": "If Quon makes contact with Mu again, it too will be like Ayato's RahXephon..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage41_campaign_full_merged.json",
+   "id": 622,
+   "uses": [
+    "i082a:102"
+   ],
+   "speaker": "Chief Shibuya",
+   "old_en": "Damn the Hyakki Empire! They're exploiting the chaos caused by the MU!",
+   "en": "Damn the Hyakki Empire! They're exploiting the chaos caused by the Mu!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage42_campaign_full_merged.json",
+   "id": 51,
+   "uses": [
+    "i083b:51"
+   ],
+   "speaker": "Amuro",
+   "old_en": "The absolute barrier has vanished, and the MU have appeared. The whole world is in chaos.",
+   "en": "The absolute barrier has vanished, and the Mu have appeared. The whole world is in chaos."
+  },
+  {
+   "source_file": "work/translation/en/script/stage43_campaign_full_merged.json",
+   "id": 577,
+   "uses": [
+    "i084a:62"
+   ],
+   "speaker": "Bright",
+   "old_en": "Yes. We must defeat them before the MU, the Giganos remnants or the Martian Successors make their move.",
+   "en": "Yes. We must defeat them before the Mu, the Giganos remnants or the Martian Successors make their move."
+  },
+  {
+   "source_file": "work/translation/en/script/stage45_campaign_full_merged.json",
+   "id": 337,
+   "uses": [
+    "i091b:356"
+   ],
+   "speaker": "Dorchenov",
+   "old_en": "You can deal a fatal blow to the Earth Federation and its forces, already in chaos over the MU's airborne cities.",
+   "en": "You can deal a fatal blow to the Earth Federation and its forces, already in chaos over the Mu's airborne cities."
+  },
+  {
+   "source_file": "work/translation/en/script/stage45_campaign_full_merged.json",
+   "id": 776,
+   "uses": [
+    "s0910:472"
+   ],
+   "speaker": "Kusakabe",
+   "old_en": "The Earth Sphere now faces an unprecedented crisis, threatened by outside enemies such as MU and Gulfer!",
+   "en": "The Earth Sphere now faces an unprecedented crisis, threatened by outside enemies such as Mu and Gulfer!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage46_campaign_full_merged.json",
+   "id": 21,
+   "uses": [
+    "i092b:21"
+   ],
+   "speaker": "Min",
+   "old_en": "MU's floating cities... I've heard about those and Gulfer too.",
+   "en": "Mu's floating cities... I've heard about those and Gulfer too."
+  },
+  {
+   "source_file": "work/translation/en/script/stage46_campaign_full_merged.json",
+   "id": 42,
+   "uses": [
+    "i092b:42"
+   ],
+   "speaker": "Ben",
+   "old_en": "It seems we were fortunate that MU has made no move.",
+   "en": "It seems we were fortunate that Mu has made no move."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 2,
+   "uses": [
+    "i095b:2"
+   ],
+   "speaker": "Fuyutsuki",
+   "old_en": "That leaves MU, Gulfer, the Devil Gundam... and the Angels.",
+   "en": "That leaves Mu, Gulfer, the Devil Gundam... and the Angels."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 4,
+   "uses": [
+    "i095b:4"
+   ],
+   "speaker": "Gendo",
+   "old_en": "How are MU's floating cities... the Hiranipra?",
+   "en": "How are Mu's floating cities... the Hiranipra?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 8,
+   "uses": [
+    "i095b:8"
+   ],
+   "speaker": "Misato",
+   "old_en": "There is still no change. The whereabouts of Maya Kamina and the other suspected MU leaders remain unknown.",
+   "en": "There is still no change. The whereabouts of Maya Kamina and the other suspected Mu leaders remain unknown."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 11,
+   "uses": [
+    "i095b:11"
+   ],
+   "speaker": "Gendo",
+   "old_en": "...How long until the MU world completely merges with our side?",
+   "en": "...How long until the Mu world completely merges with our side?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 86,
+   "uses": [
+    "i095b:89"
+   ],
+   "speaker": "Futagami",
+   "old_en": "You mean it is more likely to be MU?",
+   "en": "You mean it is more likely to be Mu?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 89,
+   "uses": [
+    "i095b:92"
+   ],
+   "speaker": "Dr. Hibiki",
+   "old_en": "Since MU appeared over a decade ago, I have been investigating their connection to the ancient Mu Empire...",
+   "en": "Since Mu appeared over a decade ago, I have been investigating their connection to the ancient Mu Empire..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 94,
+   "uses": [
+    "i095b:97"
+   ],
+   "speaker": "Futagami",
+   "old_en": "So, in the end... you still don't really know how Raideen, RahXephon and MU are connected?",
+   "en": "So, in the end... you still don't really know how Raideen, RahXephon and Mu are connected?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 177,
+   "uses": [
+    "i095b:183"
+   ],
+   "speaker": "Asuka",
+   "old_en": "You mean merging with the MU world...!?",
+   "en": "You mean merging with the Mu world...!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 201,
+   "uses": [
+    "i095b:210"
+   ],
+   "speaker": "Makoto",
+   "old_en": "The source is reliable. I think they're probably meant to counter MU...",
+   "en": "The source is reliable. I think they're probably meant to counter Mu..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 236,
+   "uses": [
+    "i095b:246"
+   ],
+   "speaker": "#男愛称",
+   "old_en": "That leaves Gulfer, the Devil Gundam and MU as our enemies.",
+   "en": "That leaves Gulfer, the Devil Gundam and Mu as our enemies."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 240,
+   "uses": [
+    "i095b:250"
+   ],
+   "speaker": "Elvy",
+   "old_en": "Did you forget? Once our world and the MU world become one, everything will be over.",
+   "en": "Did you forget? Once our world and the Mu world become one, everything will be over."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 404,
+   "uses": [
+    "s0950:211"
+   ],
+   "speaker": "Misato",
+   "old_en": "Does that mean the Human Instrumentality Project is more of a threat to MU than that is?",
+   "en": "Does that mean the Human Instrumentality Project is more of a threat to Mu than that is?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 414,
+   "uses": [
+    "s0950:221"
+   ],
+   "speaker": "Fuyutsuki",
+   "old_en": "...Has MU noticed the Fifth's presence?",
+   "en": "...Has Mu noticed the Fifth's presence?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 669,
+   "uses": [
+    "s0950:521"
+   ],
+   "speaker": "Gendo",
+   "old_en": "And the MU, who have moved to stop our plan directly...",
+   "en": "And the Mu, who have moved to stop our plan directly..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 759,
+   "uses": [
+    "s0950:614"
+   ],
+   "speaker": "Member A",
+   "old_en": "...This has stopped the MU from interfering with us.",
+   "en": "...This has stopped the Mu from interfering with us."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 846,
+   "uses": [
+    "s0950:714"
+   ],
+   "speaker": "Fuyutsuki",
+   "old_en": "...In any case, MU and the Fifth are unwelcome visitors to us...",
+   "en": "...In any case, Mu and the Fifth are unwelcome visitors to us..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 970,
+   "uses": [
+    "s0950:844"
+   ],
+   "speaker": "Misato",
+   "old_en": "Then, like the MU... are EVAs and Angels from another world...!?",
+   "en": "Then, like the Mu... are EVAs and Angels from another world...!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage49_campaign_full_merged.json",
+   "id": 1186,
+   "uses": [
+    "i095a:22"
+   ],
+   "speaker": "Haruka",
+   "old_en": "And the MU, too...",
+   "en": "And the Mu, too..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage50_campaign_full_merged.json",
+   "id": 217,
+   "uses": [
+    "s1010:219"
+   ],
+   "speaker": "Michelo",
+   "old_en": "You bastards know it too, don't you? If MU's floating cities keep multiplying like that, this world will come to an end!",
+   "en": "You bastards know it too, don't you? If Mu's floating cities keep multiplying like that, this world will come to an end!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage50_campaign_full_merged.json",
+   "id": 275,
+   "uses": [
+    "s1010:277"
+   ],
+   "speaker": "Urube",
+   "old_en": "MU keeps multiplying, and Gulfer is bringing its homeworld toward Earth! Humanity has no choice but to perish!!",
+   "en": "Mu keeps multiplying, and Gulfer is bringing its homeworld toward Earth! Humanity has no choice but to perish!!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage50_campaign_full_merged.json",
+   "id": 532,
+   "uses": [
+    "i101a:15"
+   ],
+   "speaker": "Akiyama",
+   "old_en": "The Earth Sphere is still in chaos over MU. We should keep the fleets here in reserve in case of an emergency.",
+   "en": "The Earth Sphere is still in chaos over Mu. We should keep the fleets here in reserve in case of an emergency."
+  },
+  {
+   "source_file": "work/translation/en/script/stage51_campaign_full_merged.json",
+   "id": 391,
+   "uses": [
+    "s1020:226"
+   ],
+   "speaker": "Ginga",
+   "old_en": "Yeah, I'm worried about the MU guys, too.",
+   "en": "Yeah, I'm worried about the Mu guys, too."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 88,
+   "uses": [
+    "i104b:90"
+   ],
+   "speaker": "Soichi",
+   "old_en": "... It'll be all right. Thanks to the Federation forces and our friends, every enemy organization except MU has been neutralized...",
+   "en": "... It'll be all right. Thanks to the Federation forces and our friends, every enemy organization except Mu has been neutralized..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 117,
+   "uses": [
+    "i104b:122"
+   ],
+   "speaker": "Itsuki",
+   "old_en": "Long ago, Lord Bahbem acquired twin girls who were Ollins sent into this world by MU.",
+   "en": "Long ago, Lord Bahbem acquired twin girls who were Ollins sent into this world by Mu."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 144,
+   "uses": [
+    "i104b:150"
+   ],
+   "speaker": "Makoto",
+   "old_en": "Apart from MU... That means we don't have any enemies left.",
+   "en": "Apart from Mu... That means we don't have any enemies left."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 149,
+   "uses": [
+    "i104b:155"
+   ],
+   "speaker": "Makoto",
+   "old_en": "If Operation Doolittle succeeds, the war with MU will probably drag on... We'd solve their personnel shortage.",
+   "en": "If Operation Doolittle succeeds, the war with Mu will probably drag on... We'd solve their personnel shortage."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 580,
+   "uses": [
+    "s1040:398"
+   ],
+   "speaker": "Fuyutsuki",
+   "old_en": "On top of that, there's MU's massive offensive... No wonder the elders are impatient.",
+   "en": "On top of that, there's Mu's massive offensive... No wonder the elders are impatient."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 585,
+   "uses": [
+    "s1040:403"
+   ],
+   "speaker": "Shigeru",
+   "old_en": "Fighting between Federation forces and MU is escalating everywhere. But we haven't confirmed any D1 incursions toward Hakone.",
+   "en": "Fighting between Federation forces and Mu is escalating everywhere. But we haven't confirmed any D1 incursions toward Hakone."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 599,
+   "uses": [
+    "s1040:417"
+   ],
+   "speaker": "Fuyutsuki",
+   "old_en": "How bold of them... The fighting against MU outside is only escalating.",
+   "en": "How bold of them... The fighting against Mu outside is only escalating."
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 618,
+   "uses": [
+    "s1040:436"
+   ],
+   "speaker": "Misato",
+   "old_en": "What did you say...!? MU is launching an all-out attack outside right now!?",
+   "en": "What did you say...!? Mu is launching an all-out attack outside right now!?"
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 621,
+   "uses": [
+    "s1040:439"
+   ],
+   "speaker": "Commander Miwa",
+   "old_en": "Therefore, you are enemies of humanity! Just like those Baam aliens and MU!!",
+   "en": "Therefore, you are enemies of humanity! Just like those Baam aliens and Mu!!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage53_campaign_full_merged.json",
+   "id": 789,
+   "uses": [
+    "s1040:620"
+   ],
+   "speaker": "Saiga",
+   "old_en": "Yes... I will be the king who rules the new world! Not SEELE or MU... Me!",
+   "en": "Yes... I will be the king who rules the new world! Not SEELE or Mu... Me!"
+  }
+ ],
+ "current_inputs": [
+  "work/glossary/campaign_terms.json",
+  "work/glossary/do_not_touch.json",
+  "work/glossary/glossary.json",
+  "work/glossary/glossary_B.json",
+  "work/glossary/glossary_C.json",
+  "work/glossary/name_fixes.json",
+  "work/translation/en/battle/batch_22.json",
+  "work/translation/en/library.json",
+  "work/translation/en/library_C.json",
+  "work/translation/en/ps2/database_port.en.json",
+  "work/translation/en/ps2/script/campaign_port.en.json",
+  "work/translation/en/script/campaign_context_overrides.json",
+  "work/translation/en/script/stage02_campaign_full_merged.json",
+  "work/translation/en/script/stage02_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage03_campaign_full_merged.json",
+  "work/translation/en/script/stage03_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage07_campaign_full_merged.json",
+  "work/translation/en/script/stage07_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage13_campaign_full_merged.json",
+  "work/translation/en/script/stage13_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage14_campaign_full_merged.json",
+  "work/translation/en/script/stage14_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage18_campaign_full_merged.json",
+  "work/translation/en/script/stage18_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage19_campaign_full_merged.json",
+  "work/translation/en/script/stage19_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage23_campaign_full_merged.json",
+  "work/translation/en/script/stage23_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage32_campaign_full_merged.json",
+  "work/translation/en/script/stage32_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage33_campaign_full_merged.json",
+  "work/translation/en/script/stage33_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage35_campaign_full_merged.json",
+  "work/translation/en/script/stage35_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage37_campaign_full_merged.json",
+  "work/translation/en/script/stage37_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage40_campaign_full_merged.json",
+  "work/translation/en/script/stage40_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage41_campaign_full_merged.json",
+  "work/translation/en/script/stage41_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage42_campaign_full_merged.json",
+  "work/translation/en/script/stage42_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage43_campaign_full_merged.json",
+  "work/translation/en/script/stage43_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage45_campaign_full_merged.json",
+  "work/translation/en/script/stage45_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage46_campaign_full_merged.json",
+  "work/translation/en/script/stage46_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage49_campaign_full_merged.json",
+  "work/translation/en/script/stage49_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage50_campaign_full_merged.json",
+  "work/translation/en/script/stage50_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage51_campaign_full_merged.json",
+  "work/translation/en/script/stage51_campaign_sol61medium_merged.json",
+  "work/translation/en/script/stage53_campaign_full_merged.json",
+  "work/translation/en/script/stage53_campaign_sol61medium_merged.json",
+  "work/translation/en/static2/names.json"
+ ],
+ "rom": {
+  "changed": false,
+  "english": "I have no name to give the likes of you!!",
+  "meaning": "I refuse to give my name to the likes of you.",
+  "stage": 15,
+  "full_id": 869
+ },
+ "bahbem": {
+  "stage": 13,
+  "full_id": 8,
+  "old_en": "They are ideal for buying time... No, as decoys to draw our gaze and the enemy to them.",
+  "en": "They're ideal for stalling... No, as decoys to draw our attention and lure the enemy.",
+  "meaning": "Attract our attention and the enemy; not draw them out."
+ },
+ "chapter16": "Blue Meets White"
+}

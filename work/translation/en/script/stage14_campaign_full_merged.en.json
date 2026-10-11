@@ -715,7 +715,7 @@
    "kind": "dialogue",
    "speaker_jp": "井上博士",
    "speaker_en": "Dr. Inoue",
-   "en": "Yes. They've been researching and analyzing the MU for some time, so their technology is highly advanced.",
+   "en": "Yes. They've been researching and analyzing the Mu for some time, so their technology is highly advanced.",
    "translation_owner": {
     "source": "work/translation/en/script/stage14_campaign.json",
     "id": 43
@@ -2031,12 +2031,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3141,12 +3141,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3654,12 +3654,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -5123,12 +5123,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Get out of the way! Ginga and Hokuto are getting away!!",
+   "en": "Get out of the way! They're taking Ginga and Hokuto away!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage14_campaign.json",
     "id": 156
    },
-   "notes": "Immediate following Altair reply identifies the pair leaving as the enemies' objective; direction retained without inventing a destination.",
+   "notes": "Immediate following Altair reply identifies the pair leaving as the enemies' objective; direction retained without inventing a destination. Chapters 1-14 proofreading: Makes clear that Ginga and Hokuto are being abducted, rather than escaping from their allies.",
    "uncertain": []
   },
   {
@@ -7934,12 +7934,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "And Second Lieutenant #男愛称... Since you have a mission to pursue the Medius Locus...",
+   "en": "And Ensign #男愛称... Since you have a mission to pursue the Medius Locus...",
    "translation_owner": {
     "source": "work/translation/en/script/stage14_campaign.json",
     "id": 325
    },
-   "notes": "Misato addresses Second Lieutenant Hugo using the exact runtime nickname; plural you includes the protagonist team. Since-clause continues in 326.",
+   "notes": "Misato addresses Second Lieutenant Hugo using the exact runtime nickname; plural you includes the protagonist team. Since-clause continues in 326. Chapters 1-14 proofreading: Uses Hugo's established translated rank, consistent with the glossary and earlier chapters.",
    "uncertain": []
   },
   {
@@ -8126,7 +8126,7 @@
    "kind": "thought",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Besides... Albero Esto made contact with Giganos. There's a good chance he's gone into space too...",
+   "en": "Besides... Albero Est made contact with Giganos. There's a good chance he's gone into space too...",
    "translation_owner": {
     "source": "work/translation/en/script/stage14_campaign.json",
     "id": 337
@@ -8253,7 +8253,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 14,
-  "fingerprint": "dbe0f665a851cbffeadfa0cd050d601fb8f89a9ff3bcbec21d61d168b6094d9c",
+  "fingerprint": "c6c1a42c255abd593b53fdbc6569c5ef19c62056c7adf2727decffbb8585a262",
   "reviewed_reused_ids": [
    78,
    79,
@@ -8416,7 +8416,7 @@
   "reviewed_reused_rows": 157,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed 157 reused rows: 143 generic defeat rows exactly match reviewed Stage 13, fourteen special rows checked in every original numeric-use window, including route-choice silence and two Data Weapon silences. Read all 345 fresh English lines and six fresh uncertainty flags against context; retained hidden referent, drones interpretation, literal drive/load labels, inferred controller plurality and Ruri recognition/rank decision. Objective/menu breaks preserved, Earth/Moon branch directions distinct. Only262 compressed after measured overflow, preserving urgent data transfer, mass production and war consequence."
+  "note": "Reviewed 157 reused rows: 143 generic defeat rows exactly match reviewed Stage 13, fourteen special rows checked in every original numeric-use window, including route-choice silence and two Data Weapon silences. Read all 345 fresh English lines and six fresh uncertainty flags against context; retained hidden referent, drones interpretation, literal drive/load labels, inferred controller plurality and Ruri recognition/rank decision. Objective/menu breaks preserved, Earth/Moon branch directions distinct. Only262 compressed after measured overflow, preserving urgent data transfer, mass production and war consequence. 2026-10-09: All Chapter 14 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 502,

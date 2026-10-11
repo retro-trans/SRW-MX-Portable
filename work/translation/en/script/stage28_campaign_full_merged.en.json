@@ -2315,12 +2315,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "Well, either way... A mere Zeorymer is no foe of mine.",
+   "en": "Well, either way... A mere Zeorymer isn't the enemy I'm after.",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 130
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Saiga is implying that his real ambitions concern a greater enemy. 'No foe of mine' can instead suggest that Zeorymer is not hostile to him.",
    "uncertain": []
   },
   {
@@ -6127,7 +6127,7 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Let's settle this, Commander... No, Albero Esto!",
+   "en": "Let's settle this, Commander... No, Albero Est!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 211
@@ -6943,12 +6943,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "The me who tried to attack even if it dragged everyone in #部隊名 into it...!",
+   "en": "That other me who tried to attack without caring if everyone in #部隊名 was caught in it...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 261
    },
-   "notes": "Continues row260 as a fragment; friendly squad caught in the proposed attack, not stated as intended targets.",
+   "notes": "Continues row260 as a fragment; friendly squad caught in the proposed attack, not stated as intended targets. Chapters 15-30 proofreading: Clarifies Masato's reference to his other personality endangering his allies, replacing the awkward and unclear 'dragged everyone ... into it'.",
    "uncertain": []
   },
   {
@@ -7426,12 +7426,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "...You're saying we should settle this, Captain!",
+   "en": "...You're saying we should settle this, Commander!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 289
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Hugo is addressing his former squad leader, Albero. Uses the established 'Commander' translation of this address, rather than assigning him a Captain rank.",
    "uncertain": []
   },
   {
@@ -7762,12 +7762,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Here I come, Captain!!",
+   "en": "Here I come, Commander!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 310
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Keeps Hugo's address for Albero consistent with 'Commander' elsewhere in the chapter.",
    "uncertain": []
   },
   {
@@ -8132,12 +8132,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "Why do you hate Masaki Kihara!? Because he betrayed Tekkoryu!?",
+   "en": "Why do you hate Masaki Kihara!? Because he betrayed Hau Dragon!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 330
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -8728,12 +8728,12 @@
    "kind": "dialogue",
    "speaker_jp": "葎",
    "speaker_en": "Ritsu",
-   "en": "That's right! That woman is now being held captive inside Tekkoryu's fortress!",
+   "en": "That's right! That woman is now being held captive inside Hau Dragon's fortress!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 365
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -8840,12 +8840,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "Zeorymer! Call it back! Your Dimensional Coupler System!!",
+   "en": "Zeorymer! Call it back! Bring back your Dimensional Coupler System!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 372
    },
-   "notes": "Masaki commands return of Miku as the missing Dimensional Coupler System; preserve source system apposition.",
+   "notes": "Masaki commands return of Miku as the missing Dimensional Coupler System; preserve source system apposition. Chapters 15-30 proofreading: Completes the English command: Masato is ordering the missing system component recalled, which the following scene reveals as Miku.",
    "uncertain": []
   },
   {
@@ -9608,12 +9608,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "Put this experience to use and become a proper TE Absorber pilot.",
+   "en": "Put this experience to use and become a fully qualified TE Absorber pilot.",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 417
    },
-   "notes": "Proper pilot contrasts with the current supporting role; no pilot promotion rank invented.",
+   "notes": "Proper pilot contrasts with the current supporting role; no pilot promotion rank invented. Chapters 15-30 proofreading: The source refers to becoming a regular, qualified pilot rather than merely a 'proper' or well-behaved pilot.",
    "uncertain": []
   },
   {
@@ -11153,7 +11153,7 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "I'll end this now, Albero Esto!!",
+   "en": "I'll end this now, Albero Est!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 505
@@ -12726,12 +12726,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "All shall perish except the chosen people of Tekkoryu, and I shall become the Lord of Hades!",
+   "en": "All shall perish except the chosen people of Hau Dragon, and I shall become the Lord of Hades!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 599
    },
-   "notes": "Annihilation excludes only chosen Tekkoryu people; Lord of Hades follows sourced campaign title.",
+   "notes": "Annihilation excludes only chosen Tekkoryu people; Lord of Hades follows sourced campaign title. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -13187,7 +13187,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 28,
-  "fingerprint": "302a93803a9cabe5fc103639e3553d9866972f3c9a70d9965ab64bfdf1b63b8d",
+  "fingerprint": "f5c532865c3111dad98607937b312a0e0a4b1b1f61a38c58b1bbb32a9620b35b",
   "reviewed_reused_ids": [
    18,
    27,
@@ -13369,7 +13369,7 @@
   "reviewed_reused_rows": 176,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Root reviewed all626 fresh English rows, initial/final changes and eight packet reports; all176 reused rows original source and every actual-use final English neighbor verified, including143 previously compared identical generic battle rows. All8 fresh flags reviewed in Japanese context. Only measured plain316 compressed. Exact stage28-only copies502 and689 corrected after independent translator review; owner outputs unchanged. Activation471 meaning corrected to separate listed commands from singular limiter release;209 explicit rank uses glossary Ensign consistently. Source ambiguities and English provenance retained; names/nicknames preview clear."
+  "note": "Root reviewed all626 fresh English rows, initial/final changes and eight packet reports; all176 reused rows original source and every actual-use final English neighbor verified, including143 previously compared identical generic battle rows. All8 fresh flags reviewed in Japanese context. Only measured plain316 compressed. Exact stage28-only copies502 and689 corrected after independent translator review; owner outputs unchanged. Activation471 meaning corrected to separate listed commands from singular limiter release;209 explicit rank uses glossary Ensign consistently. Source ambiguities and English provenance retained; names/nicknames preview clear. 2026-10-09: All Chapter 28 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 802,

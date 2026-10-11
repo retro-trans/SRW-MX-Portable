@@ -1396,12 +1396,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3697,12 +3697,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミケロ",
    "speaker_en": "Michelo",
-   "en": "You bastards know it too, don't you? If MU's floating cities keep multiplying like that, this world will come to an end!",
+   "en": "You bastards know it too, don't you? If Mu's floating cities keep multiplying like that, this world will come to an end!",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 67
    },
-   "notes": "Michelo addresses the allies; conditional prediction about MU floating-city proliferation.",
+   "notes": "Michelo addresses the allies; conditional prediction about Mu floating-city proliferation.",
    "uncertain": []
   },
   {
@@ -4635,12 +4635,12 @@
    "kind": "dialogue",
    "speaker_jp": "ウルベ",
    "speaker_en": "Urube",
-   "en": "MU keeps multiplying, and Gulfer is bringing its homeworld toward Earth! Humanity has no choice but to perish!!",
+   "en": "Mu keeps multiplying, and Gulfer is bringing its homeworld toward Earth! Humanity has no choice but to perish!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 122
    },
-   "notes": "Urube specifies MU growth and the Gulfer homeworld's approach; retains his extinction claim.",
+   "notes": "Urube specifies Mu growth and the Gulfer homeworld's approach; retains his extinction claim.",
    "uncertain": []
   },
   {
@@ -5586,12 +5586,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Any Shuffle Alliance unit, Rising Gundam, lead unit,@   or Medius Locus shot down@2. Any allied mothership shot down",
+   "en": "1. Any Shuffle Alliance unit, Rising Gundam,@   protagonist unit or Medius Locus shot down.@2. Any allied mothership shot down",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 175
    },
-   "notes": "Three original @ lines preserved. ANY one of four protected unit categories, plus separate allied-mothership defeat. Verified all uses 337/457/510. Measured first line 378 px; protagonist unit tightened to lead unit without removing the protected player-unit category.",
+   "notes": "Three original @ lines preserved. ANY one of four protected unit categories, plus separate allied-mothership defeat. Verified all uses 337/457/510. Measured first line 378 px; protagonist unit tightened to lead unit without removing the protected player-unit category. Chapters 31-58 proofreading: Use protagonist unit consistently; lead unit could be mistaken for a tactical formation position.",
    "uncertain": []
   },
   {
@@ -6714,7 +6714,7 @@
    "kind": "dialogue",
    "speaker_jp": "ウルベ",
    "speaker_en": "Urube",
-   "en": "Oh... If it isn't Albero Esto of the Cry Wolves.",
+   "en": "Oh... If it isn't Albero Est of the Cry Wolves.",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 241
@@ -8585,12 +8585,12 @@
    "kind": "dialogue",
    "speaker_jp": "秋山",
    "speaker_en": "Akiyama",
-   "en": "...At 0730 today, we confirmed that object's presence again on the solar system's eighth alert line.",
+   "en": "...At 07:30 today, we confirmed that object's presence again on the solar system's eighth alert line.",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 353
    },
-   "notes": "Military report retains0730 today, solar system, eighth line and reconfirmation.",
+   "notes": "Military report retains0730 today, solar system, eighth line and reconfirmation. Chapters 31-58 proofreading: Format the reported time consistently as a 24-hour clock.",
    "uncertain": []
   },
   {
@@ -8831,12 +8831,12 @@
    "kind": "dialogue",
    "speaker_jp": "秋山",
    "speaker_en": "Akiyama",
-   "en": "The Earth Sphere is still in chaos over MU. We should keep the fleets here in reserve in case of an emergency.",
+   "en": "The Earth Sphere is still in chaos over Mu. We should keep the fleets here in reserve in case of an emergency.",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 368
    },
-   "notes": "Earth Sphere MU chaos; local fleets retained in reserve against emergency.",
+   "notes": "Earth Sphere Mu chaos; local fleets retained in reserve against emergency.",
    "uncertain": []
   },
   {
@@ -8895,12 +8895,12 @@
    "kind": "dialogue",
    "speaker_jp": "プロスペクター",
    "speaker_en": "Prospector",
-   "en": "I'll prepare the booster for battleships to travel through outer space that our company is developing right away.",
+   "en": "I'll immediately prepare the deep-space navigation booster our company is developing for battleships.",
    "translation_owner": {
     "source": "work/translation/en/script/stage50_campaign.json",
     "id": 372
    },
-   "notes": "Our company developing battleship outer-space booster; current development retained.",
+   "notes": "Our company developing battleship outer-space booster; current development retained. Chapters 31-58 proofreading: Replace the tangled relative clause with a clear description of the battleship booster.",
    "uncertain": []
   },
   {
@@ -8974,7 +8974,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 50,
-  "fingerprint": "6b7ddc2532e871cc660861b254a7f7254685e4f5d63f15d89e4c345932fae425",
+  "fingerprint": "7bae8d4ddfb070e1385a88a2c9ad53fa227d27e993533af01dd4a0df6b1fb157",
   "reviewed_reused_ids": [
    7,
    12,
@@ -9144,7 +9144,7 @@
   "reviewed_reused_rows": 164,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator compared all 377 fresh source/final pairs, all 58 fresh flags and all 21 non-template reused rows in every occurrence. Original template audit: 143 rows, 205 registrations, no ordinary uses. All 541 full rows and 612 uses retained. Three measured draft overflows (56, 175, 274) compressed with immutable drafts and actual before/after metrics. Preserved conditional handlers, living-core claims, maternal list, Urube cloning and Bahbem reveal, ally truce, all defeat alternatives, first Grand Master then Devil order, soul attack, DG-erasure duty, solar alert location and fleet distinction. Independent workers 5 and 6 corrected row 180 stutter and row 244 Commander title with metrics; source Michiru attribution in 218 and unresolved Eldy addressee in 158 remain flagged. All final fit and full checks pass; no build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Coordinator compared all 377 fresh source/final pairs, all 58 fresh flags and all 21 non-template reused rows in every occurrence. Original template audit: 143 rows, 205 registrations, no ordinary uses. All 541 full rows and 612 uses retained. Three measured draft overflows (56, 175, 274) compressed with immutable drafts and actual before/after metrics. Preserved conditional handlers, living-core claims, maternal list, Urube cloning and Bahbem reveal, ally truce, all defeat alternatives, first Grand Master then Devil order, soul attack, DG-erasure duty, solar alert location and fleet distinction. Independent workers 5 and 6 corrected row 180 stutter and row 244 Commander title with metrics; source Michiru attribution in 218 and unresolved Eldy addressee in 158 remain flagged. All final fit and full checks pass; no build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 50 rows proofread against the original source in scene context, including all applicable routes and reused rows. 4 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 541,

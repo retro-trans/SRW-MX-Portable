@@ -282,12 +282,12 @@
    "kind": "dialogue",
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
-   "en": "Wh-why, it was nothing, really...",
+   "en": "N-no, it was nothing, really...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 117
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Beecha's embarrassed denial is not a question asking why.",
    "uncertain": []
   },
   {
@@ -940,12 +940,12 @@
    "kind": "dialogue",
    "speaker_jp": "サエグサ",
    "speaker_en": "Saegusa",
-   "en": "During the Lizard War, it seems the Nadesico earned quite a grudge from those guys.",
+   "en": "During the Lizard War, the Nadesico seems to have earned those guys' lasting resentment.",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 157
    },
-   "notes": "[jp] = the Titans (row 156). [jp] -> 'Lizard War' (glossary: Lizard War (Jovian War)).",
+   "notes": "[jp] = the Titans (row 156). [jp] -> 'Lizard War' (glossary: Lizard War (Jovian War)). Chapters 1-14 proofreading: A ship earns someone's resentment; it does not earn a grudge from them.",
    "uncertain": [
     "Referent: 'those guys' = the Titans (inferred from row 156)."
    ]
@@ -1224,12 +1224,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "And if Neo Zeon remnants or the hawks exiled from Mokuren were to side with him...",
+   "en": "And if Neo Zeon remnants or the hardliners expelled from the Jovian Federation were to side with him...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 174
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Expand the untranslated faction abbreviation and preserve the conditional alliance warning.",
    "uncertain": [
     "Used 'Mokuren' (short form of the glossary's 'Mokuren (Jovian Federation)'). Inferred that 'him' is Guiltorre (source: 'side with' has no stated object)."
    ]
@@ -1724,12 +1724,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2919,12 +2919,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3467,12 +3467,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -4390,12 +4390,12 @@
    "kind": "dialogue",
    "speaker_jp": "カール",
    "speaker_en": "Karl",
-   "en": "Exactly! To recapture the D-Weapons, too, we should take on the Gundam Team ourselves!",
+   "en": "Exactly! To ensure we recapture the D-Weapons, we should take on the Gundam Team ourselves!",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 25
    },
-   "notes": "Karl to Meio; eager proposal; D-Weapon recapture motivates independent engagement. Decision: Source trails off after Gundam Team, but context supplies proposed engagement; restored take on rather than grammatical fragment.",
+   "notes": "Karl to Meio; eager proposal; D-Weapon recapture motivates independent engagement. Decision: Source trails off after Gundam Team, but context supplies proposed engagement; restored take on rather than grammatical fragment. Chapters 1-14 proofreading: Make the causal link between clearing the pursuers and recovering the weapons clear.",
    "uncertain": []
   },
   {
@@ -5276,12 +5276,12 @@
    "kind": "dialogue",
    "speaker_jp": "カール",
    "speaker_en": "Karl",
-   "en": "Just what I'd expect from Captain Bright Noa, the renowned captain. You won't let us have our way so easily!",
+   "en": "Just what I'd expect from Bright Noa, the renowned captain. You won't let us have our way so easily!",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 78
    },
-   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank [jp] to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
+   "notes": "Karl to Bright; grudging praise; cannot easily overwhelm renowned captain. Decision: Restore settled subjects/actions in natural spoken English; preserve tone and row boundary. Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank [jp] to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained. Chapters 1-14 proofreading: Avoid calling Bright a captain twice; retain his ship-command role without imposing an uncertain rank conversion.",
    "uncertain": []
   },
   {
@@ -5782,12 +5782,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルー",
    "speaker_en": "Roux",
-   "en": "Before that, is it an enemy or an ally?",
+   "en": "More importantly, is it an enemy or an ally?",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 109
    },
-   "notes": "Roux redirects discussion to friend-or-foe status.",
+   "notes": "Roux redirects discussion to friend-or-foe status. Chapters 1-14 proofreading: The speaker prioritizes identifying allegiance; before that misleadingly suggests a time sequence.",
    "uncertain": []
   },
   {
@@ -6918,12 +6918,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Its existence was predicted alongside the four forces: gravity, electromagnetism, the strong interaction and the weak interaction.",
+   "en": "Its existence was predicted in addition to the four forces: gravity, electromagnetism, and the strong and weak interactions.",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 177
    },
-   "notes": "Four forces named individually; existence prediction concerns Terminus Energy.",
+   "notes": "Four forces named individually; existence prediction concerns Terminus Energy. Chapters 1-14 proofreading: Terminus Energy is described as an additional force, not one predicted alongside the four established forces.",
    "uncertain": []
   },
   {
@@ -7366,12 +7366,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Like the TE Engine, Lasmunanium is a new material developed by Dr. Zapat...",
+   "en": "Lasmunanium is a new material developed by Dr. Zapat, who also developed the TE Engine...",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 205
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The shared feature is the inventor; the TE Engine itself is not a material.",
    "uncertain": []
   },
   {
@@ -7624,12 +7624,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "More to the point, Lieutenant #女愛称... Does Lasmunanium have the same properties as DG Cells?",
+   "en": "More to the point, Ensign #女愛称... Does Lasmunanium have the same properties as DG Cells?",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 221
    },
-   "notes": "Lieutenant renders rank in naval conversation; female nickname placeholder retained.",
+   "notes": "Lieutenant renders rank in naval conversation; female nickname placeholder retained. Chapters 1-14 proofreading: Use the same rank as the pilot's introduction and Bright's earlier order; the Japanese rank is unchanged.",
    "uncertain": []
   },
   {
@@ -8214,12 +8214,12 @@
    "kind": "dialogue",
    "speaker_jp": "早乙女博士",
    "speaker_en": "Dr. Saotome",
-   "en": "My Saotome Institute, your Institute of Space Science, Genzo Umon...",
+   "en": "My Saotome Institute, your Institute of Space Science, Dr. Umon...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 184
    },
-   "notes": " Campaign assembly reconciles legacy spelling to name_fixes.json; original prologue retained.",
+   "notes": " Campaign assembly reconciles legacy spelling to name_fixes.json; original prologue retained. Chapters 1-14 proofreading: Address the scientist as Dr. Umon, as the Japanese does, rather than inserting his full name into a formal address.",
    "uncertain": []
   },
   {
@@ -8537,12 +8537,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "Hello, Genzo Umon. I'm Koji Kabuto.",
+   "en": "Hello, Dr. Umon. I'm Koji Kabuto.",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 203
    },
-   "notes": " Campaign assembly reconciles legacy spelling to name_fixes.json; original prologue retained.",
+   "notes": " Campaign assembly reconciles legacy spelling to name_fixes.json; original prologue retained. Chapters 1-14 proofreading: Restore the respectful title in Koji's introduction.",
    "uncertain": []
   },
   {
@@ -9177,12 +9177,12 @@
    "kind": "dialogue",
    "speaker_jp": "大介",
    "speaker_en": "Daisuke",
-   "en": "A red moon... the signal fire for their sortie. ...You should contact the Earth Federation Forces. They will attack, without a doubt.",
+   "en": "A red moon... the signal that they're going on the offensive. ...Contact the Earth Federation Forces. They'll attack for certain.",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 242
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Replace the literal signal fire for their sortie with the meaning of the warning, retaining the imminent attack.",
    "uncertain": [
     "'You should contact' - Daisuke is addressing his father (row 238-241 exchange); 'they' ([jp]) is left unnamed as in the source."
    ]
@@ -10824,12 +10824,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "Genzo Umon!",
+   "en": "Dr. Umon!",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 343
    },
-   "notes": "Koji recognizes Umon's voice; title retained. Coordinator spelling reconciliation: Dr. Umon -> fixed canonical Genzo Umon; original full draft retained.",
+   "notes": "Koji recognizes Umon's voice; title retained. Coordinator spelling reconciliation: Dr. Umon -> fixed canonical Genzo Umon; original full draft retained. Chapters 1-14 proofreading: Restore the scientist's title in Koji's call rather than using his full name as an address.",
    "uncertain": []
   },
   {
@@ -10952,12 +10952,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブラッキー",
    "speaker_en": "Blacky",
-   "en": "Then sound the true opening salvo of our invasion of Earth...!",
+   "en": "And mark the true beginning of our invasion of Earth...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 351
    },
-   "notes": "Blacky frames destruction as signal marking Earth invasion; metaphor rendered opening salvo.",
+   "notes": "Blacky frames destruction as signal marking Earth invasion; metaphor rendered opening salvo. Chapters 1-14 proofreading: Avoid mixing sound with a salvo; the metaphor announces the invasion's true beginning.",
    "uncertain": []
   },
   {
@@ -12124,12 +12124,12 @@
    "kind": "dialogue",
    "speaker_jp": "大介",
    "speaker_en": "Daisuke",
-   "en": "Koji, it seems I couldn't fool your eyes...",
+   "en": "It seems I couldn't fool you, Koji...",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 424
    },
-   "notes": "Daisuke admits Koji recognized him as pilot.",
+   "notes": "Daisuke admits Koji recognized him as pilot. Chapters 1-14 proofreading: Koji has recognized Daisuke; fool your eyes is unnecessarily literal English.",
    "uncertain": []
   },
   {
@@ -13122,12 +13122,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "...I'm Second Lieutenant #女姓名, of the Federation Forces' Tsentr Project.",
+   "en": "...I'm Ensign #女姓名, of the Federation Forces' Tsentr Project.",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 486
    },
-   "notes": "Female lead to group; formal introduction; project affiliation and rank. Decision: Restore settled subject/action; keep spoken tone and source row boundary.",
+   "notes": "Female lead to group; formal introduction; project affiliation and rank. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Chapters 1-14 proofreading: Use the established protagonist rank from the project glossary, matching the Real-route introduction.",
    "uncertain": []
   },
   {
@@ -13138,12 +13138,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "I'm Second Lieutenant #男姓名, also with the Federation Forces' Tsentr Project.",
+   "en": "I'm Ensign #男姓名, also with the Federation Forces' Tsentr Project.",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 487
    },
-   "notes": "Male lead to group; curt matching introduction; same rank and affiliation as preceding female lead. Decision: Meaning review restores both Federation/Tsentr affiliation and rank in likewise; full name placeholder preserved.",
+   "notes": "Male lead to group; curt matching introduction; same rank and affiliation as preceding female lead. Decision: Meaning review restores both Federation/Tsentr affiliation and rank in likewise; full name placeholder preserved. Chapters 1-14 proofreading: Use the established protagonist rank from the project glossary, matching the Real-route introduction.",
    "uncertain": []
   },
   {
@@ -13554,12 +13554,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "When you say adjust... does that have anything to do with that swimsuit-like outfit you're wearing, Lieutenant?",
+   "en": "When you say adjust... does that have anything to do with that swimsuit-like outfit you're wearing, Ensign?",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 513
    },
-   "notes": "Koji to female lead; curious potentially embarrassing outfit question; rank as address. Decision: Restore settled subject/action; keep spoken tone and source row boundary.",
+   "notes": "Koji to female lead; curious potentially embarrassing outfit question; rank as address. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Chapters 1-14 proofreading: Keep the protagonist's rank consistent with the glossary and introduction.",
    "uncertain": []
   },
   {
@@ -13698,12 +13698,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Like the TE Engine, Lasmunanium is a new material developed by Dr. Zapat...",
+   "en": "Lasmunanium is a new material developed by Dr. Zapat, who also developed the TE Engine...",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 522
    },
-   "notes": "Female lead to Daisuke; explains material origin; same developer as TE Engine. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Retained source fragment/continuation: Material-origin explanation trails into plain-language definition; subject/predicate retained.",
+   "notes": "Female lead to Daisuke; explains material origin; same developer as TE Engine. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Retained source fragment/continuation: Material-origin explanation trails into plain-language definition; subject/predicate retained. Chapters 1-14 proofreading: The shared feature is the inventor; the TE Engine itself is not a material.",
    "uncertain": []
   },
   {
@@ -13890,12 +13890,12 @@
    "kind": "dialogue",
    "speaker_jp": "宇門博士",
    "speaker_en": "Genzo Umon",
-   "en": "Then, Lieutenant... Does Lasmunanium have properties similar to DG Cells?",
+   "en": "Then, Ensign... Does Lasmunanium have properties similar to DG Cells?",
    "translation_owner": {
     "source": "work/translation/en/script/stage01_campaign.json",
     "id": 534
    },
-   "notes": "Genzo to female lead; asks DG Cells comparison; respectful rank address. Decision: Restore settled subject/action; keep spoken tone and source row boundary.",
+   "notes": "Genzo to female lead; asks DG Cells comparison; respectful rank address. Decision: Restore settled subject/action; keep spoken tone and source row boundary. Chapters 1-14 proofreading: Keep the protagonist's rank consistent with the glossary and introduction.",
    "uncertain": []
   },
   {
@@ -14570,7 +14570,7 @@
  },
  "context_review": {
   "stage": 1,
-  "fingerprint": "1d48184460dbeeeabc377078f9e1537ced7eb068c2a3c7d8dbb853e8124cd572",
+  "fingerprint": "ced641454f1212502745c05b2290656e1bd6db249c8627b2d5b8002b55a3e24b",
   "reviewed_reused_ids": [
    0,
    1,
@@ -14874,6 +14874,6 @@
   "reviewed_reused_rows": 298,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Pre-build coordinator reviewed the only subsequent English delta, FULL7 Beecha timing comparison, against original i00r1b:5-9. Equivalent prologue109 checked at i001b:109-113; prologue30 now explicitly identifies the closer of two ships, verified in all three original uses with prior two-ship references. Reconstructed prior stage1 fingerprint exactly matches previous review; labels, kinds, source and uses unchanged. Actual font fit rechecked for all current source rows."
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Pre-build coordinator reviewed the only subsequent English delta, FULL7 Beecha timing comparison, against original i00r1b:5-9. Equivalent prologue109 checked at i001b:109-113; prologue30 now explicitly identifies the closer of two ships, verified in all three original uses with prior two-ship references. Reconstructed prior stage1 fingerprint exactly matches previous review; labels, kinds, source and uses unchanged. Actual font fit rechecked for all current source rows. 2026-10-09: All Chapter 1 rows proofread against the original source in scene context, including all applicable routes and reused rows. 23 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  }
 }

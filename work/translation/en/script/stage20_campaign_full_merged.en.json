@@ -1117,12 +1117,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "Neither Mu nor Tekkoryu has made any notable moves.",
+   "en": "Neither Mu nor Hau Dragon has made any notable moves.",
    "translation_owner": {
     "source": "work/translation/en/script/stage20_campaign.json",
     "id": 68
    },
-   "notes": "Completes force-status report. Central source review confirms glossary parenthetical Iron Dragon is explanatory, not spoken; source-only Tekkoryu retained. Meaning correction, not fit compression.",
+   "notes": "Completes force-status report. Central source review confirms glossary parenthetical Iron Dragon is explanatory, not spoken; source-only Tekkoryu retained. Meaning correction, not fit compression. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1213,12 +1213,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "Do not be hasty, Hidler. In this war... whoever judges the times will win in the end. Thus, we must first build up our strength now.",
+   "en": "Do not be hasty, Hidler. In this war, whoever reads the tide of events will win in the end. For now, we must build up our strength.",
    "translation_owner": {
     "source": "work/translation/en/script/stage20_campaign.json",
     "id": 74
    },
-   "notes": "Burai rejects haste, explains judging the times and prioritizes strength; no claim that invasion is abandoned. Measured four-line initial overflow compressed by tightening triumph/priority phrasing, preserving all propositions.",
+   "notes": "Burai rejects haste, explains judging the times and prioritizes strength; no claim that invasion is abandoned. Measured four-line initial overflow compressed by tightening triumph/priority phrasing, preserving all propositions. Chapters 15-30 proofreading: Replaces the literal 'judges the times' with natural English for assessing the changing strategic situation, while preserving Burai's instruction to wait and build strength.",
    "uncertain": []
   },
   {
@@ -1661,12 +1661,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "What's wrong with showing Maria around the lab? It's not like it'll lose anything.",
+   "en": "What's wrong with showing Maria around the lab? It won't hurt anything.",
    "translation_owner": {
     "source": "work/translation/en/script/stage20_campaign.json",
     "id": 102
    },
-   "notes": "Koji misses jealousy and defends showing Maria the laboratory; nothing is lost idiom retained.",
+   "notes": "Koji misses jealousy and defends showing Maria the laboratory; nothing is lost idiom retained. Chapters 15-30 proofreading: The Japanese idiom means there is no harm in showing her around; 'it'll lose anything' sounds as though the laboratory itself loses possessions.",
    "uncertain": []
   },
   {
@@ -8039,7 +8039,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 20,
-  "fingerprint": "698a24225c94d6687df487162af5d97f44576290d091404ac4d59f990daf4510",
+  "fingerprint": "4176a76acb66b857c2efdcfa0e2128a978a0473f1a2c6a74f088e0226ace315f",
   "reviewed_reused_ids": [
    113,
    114,
@@ -8194,7 +8194,7 @@
   "reviewed_reused_rows": 149,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 339 fresh English rows and six reports, all 18 flagged original Japanese contexts, and all 149 reused rows at their actual scene uses. Generic 143 rows match previously reviewed JP, kind and effective speaker. Reviewed six special reused rows with final neighbors and every use. Only measured overflow row74 compressed, preserving every proposition. Names checked after meaning review; no pending fixes."
+  "note": "Coordinator read all 339 fresh English rows and six reports, all 18 flagged original Japanese contexts, and all 149 reused rows at their actual scene uses. Generic 143 rows match previously reviewed JP, kind and effective speaker. Reviewed six special reused rows with final neighbors and every use. Only measured overflow row74 compressed, preserving every proposition. Names checked after meaning review; no pending fixes. 2026-10-09: All Chapter 20 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 488,

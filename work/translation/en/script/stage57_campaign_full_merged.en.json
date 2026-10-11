@@ -91,12 +91,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Emary@\"...I am Emary Ounce,@acting captain of La Vie en Rose.",
+   "en": "Emary@\"... I am Emary Ounce,@acting captain of La Vie en Rose.",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 4
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Introduction continues5."
    ]
@@ -209,12 +209,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Amuro@\"...Acting Captain Emary,@how is the battle going?\"",
+   "en": "Amuro@\"... Acting Captain Emary,@how is the battle going?\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 11
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -359,12 +359,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Amuro@(Could that have happened in Giganos, too...?)",
+   "en": "Amuro (Could that have@happened in Giganos, too...?)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 20
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Unfinished internal conjecture; no assassination asserted in Giganos."
    ]
@@ -513,12 +513,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Domon@(Master... My brother Kyoji... Schwarz...@I defeated the DG Cells with my own hands...)",
+   "en": "Domon (Master... My brother@Kyoji... Schwarz... I defeated the@DG Cells with my own hands...)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 29
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Brother relationship explicit; source addresses Kyoji as brother."
    ]
@@ -924,12 +924,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Domon@\"...He beat them with his bare hands.\"",
+   "en": "Domon@\"... He beat them with his bare hands.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 53
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Subject he settled by49; Death Army referent them restored."
    ]
@@ -1215,12 +1215,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Min@\"...Could I@be one of you?",
+   "en": "Min@\"... Could I@be one of you?",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 70
    },
-   "notes": "Plain source segments and visible embedded speaker label preserved.",
+   "notes": "Plain source segments and visible embedded speaker label preserved. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Join request continues71."
    ]
@@ -1566,12 +1566,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Meio@\"...I'm counting on you,@Red Rose of the Desert.\"",
+   "en": "Meio@\"... I'm counting on you,@Red Rose of the Desert.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 90
    },
-   "notes": "Meio accepts/request direction HEcounts on HER; source epithet Red Rose of the Desert literal provisional, no added romance. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed.",
+   "notes": "Meio accepts/request direction HEcounts on HER; source epithet Red Rose of the Desert literal provisional, no added romance. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Meio accepts/request direction HEcounts on HER; source epithet Red Rose of the Desert literal provisional, no added romance."
    ]
@@ -2396,12 +2396,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Meio@(Dorchenov!@You'd better be ready to lose your head!)",
+   "en": "Meio (Dorchenov!@You'd better be ready@to lose your head!)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 139
    },
-   "notes": "Meio explicit parenthesized thought within immutableplain row; neckwashingidiom localized beheadingthreat, no literalwashing added. Plain3segments notthoughtkind. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed.",
+   "notes": "Meio explicit parenthesized thought within immutableplain row; neckwashingidiom localized beheadingthreat, no literalwashing added. Plain3segments notthoughtkind. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Meio explicit parenthesized thought within immutableplain row; neckwashingidiom localized beheadingthreat, no literalwashing added. Plain3segments notthoughtkind."
    ]
@@ -2448,12 +2448,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...AI1...\"",
+   "en": "Eldy@\"... AI1...\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 142
    },
-   "notes": "Eldy repeatsAI1 whileabsorbed, nominalcall omission retained. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed.",
+   "notes": "Eldy repeatsAI1 whileabsorbed, nominalcall omission retained. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Eldy repeatsAI1 whileabsorbed, nominalcall omission retained."
    ]
@@ -2913,12 +2913,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kaine@\"...All right.\"",
+   "en": "Kaine@\"... All right.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 168
    },
-   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order. ",
+   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order.  Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Unused legacy script: current-engine display/registration/guard semantics and reachability unconfirmed; source-kind plain preserved."
    ]
@@ -3061,12 +3061,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Douglas@(When did she get here...?)",
+   "en": "Douglas (When did@she get here...?)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 176
    },
-   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order. ",
+   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order.  Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Unstated arrival referent inferred as Ruri from175; reachability unconfirmed.",
     "Unused legacy script: current-engine display/registration/guard semantics and reachability unconfirmed; source-kind plain preserved."
@@ -3562,12 +3562,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Amuro@\"...His mother.\"",
+   "en": "Amuro@\"... His mother.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 203
    },
-   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order. ",
+   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order.  Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Retained elliptical echo of mother, not new assertion.",
     "Unused legacy script: current-engine display/registration/guard semantics and reachability unconfirmed; source-kind plain preserved."
@@ -3991,12 +3991,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Bright@(We must allow for unforeseen developments...@ But...)",
+   "en": "Bright (We must@allow for unforeseen@developments... But...)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 226
    },
-   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order. ",
+   "notes": "Plain source label is first segment; original segment count and source punctuation boundary retained. Original binary string and every assigned use independently verified; legacy opcode source-reference neighbors examined, not asserted chronological play order.  Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Retained unfinished thought after but; plain source parentheses preserved.",
     "Unused legacy script: current-engine display/registration/guard semantics and reachability unconfirmed; source-kind plain preserved."
@@ -4475,12 +4475,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Giga Absolute@\"O-Oyakata-samaaa!\"",
+   "en": "Giga Absolute@\"M-My Looord!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 253
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Giga Absolute calls Oyakata-sama using protected fixed title.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Giga Absolute calls Oyakata-sama using protected fixed title. Chapters 31-58 proofreading: Translate the honorific address consistently as My Lord, preserving the stammer and cry.",
    "uncertain": [
     "Source fixed honorific shout preserved with vocal stretch."
    ]
@@ -4669,12 +4669,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kusakabe@\"What a disgrace...!@ Hurry, everyone evacuate!\"",
+   "en": "Kusakabe@\"Damn it...!@ Hurry, everyone evacuate!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 264
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Kusakabe laments then orders immediate evacuation for everyone.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Kusakabe laments then orders immediate evacuation for everyone. Chapters 31-58 proofreading: The original expresses frustrated regret at defeat rather than personal disgrace.",
    "uncertain": []
   },
   {
@@ -4756,12 +4756,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six A@\"What a disgrace!!\"",
+   "en": "Hokushin's Six A@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 269
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -4774,12 +4774,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six B@\"What a disgrace!!\"",
+   "en": "Hokushin's Six B@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 270
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -4792,12 +4792,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six C@\"What a disgrace!!\"",
+   "en": "Hokushin's Six C@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 271
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -4810,12 +4810,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six D@\"What a disgrace!!\"",
+   "en": "Hokushin's Six D@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 272
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -4828,12 +4828,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six E@\"What a disgrace!!\"",
+   "en": "Hokushin's Six E@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 273
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -4846,12 +4846,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Hokushin's Six F@\"What a disgrace!!\"",
+   "en": "Hokushin's Six F@\"Curse it!!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 274
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. Defeat reaction preserves source force, settled first-person subject and original segment boundaries. Chapters 31-58 proofreading: Render the cry of frustrated regret without adding a claim of disgrace.",
    "uncertain": [
     "Legacy lettered squad alias uses confirmed Hokushin's Six with literal A-F suffix; exact alias provenance retained."
    ]
@@ -5508,12 +5508,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "George@\"W-what a disgrace...@ My fate ends here, too...\"",
+   "en": "George@\"H-how bitter...@ My fate ends here, too...\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 313
    },
-   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. George laments and states his own fate also ends; subject and too retained. Meaning review: fate is the grammatical subject of ends here.",
+   "notes": "Legacy fixed-segment reference text in s0760 0x7B c2; this is not a chronological conversation or proof of firing. Embedded label is translated in segment 1, frozen speaker remains blank. George laments and states his own fate also ends; subject and too retained. Meaning review: fate is the grammatical subject of ends here. Chapters 31-58 proofreading: The original expresses bitter regret at defeat rather than personal disgrace.",
    "uncertain": []
   },
   {
@@ -6124,12 +6124,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Ritsu@\"...I was caught off guard... I've... lost...\"",
+   "en": "Ritsu@\"... I was caught off guard... I've... lost...\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 347
    },
-   "notes": "Legacy visible source label canonically translated; full emotion/content retained in original fixed segments.",
+   "notes": "Legacy visible source label canonically translated; full emotion/content retained in original fixed segments. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Unused legacy script; opcode semantics and runtime reachability unconfirmed."
    ]
@@ -7954,12 +7954,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Rain@\"To do that, we must infiltrate that mobile fortress@and put a computer terminal",
+   "en": "Rain@\"To do that, we must infiltrate the fortress@and access a computer terminal.",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 437
    },
-   "notes": "Rain names infiltrating fortress and computer terminal; object cutoff continues in 438.",
+   "notes": "Rain names infiltrating fortress and computer terminal; object cutoff continues in 438. Chapters 31-58 proofreading: Use natural English for the infiltration and terminal-access requirement.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -7978,12 +7978,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Rain@to use. There is no other way.\"",
+   "en": "Rain@That is the only way.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 438
    },
-   "notes": "Rain completes terminal use as sole method; exclusive scope retained.",
+   "notes": "Rain completes terminal use as sole method; exclusive scope retained. Chapters 31-58 proofreading: Complete the preceding sentence naturally while retaining the stated lack of alternatives.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -8450,12 +8450,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Dorchenov@\"...I want you to do me a favor.\"",
+   "en": "Dorchenov@\"... I want you to do me a favor.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 459
    },
-   "notes": "Dorchenov requests favor from Kusakabe; requester and direction explicit.",
+   "notes": "Dorchenov requests favor from Kusakabe; requester and direction explicit. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -8495,12 +8495,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Dorchenov@(Grr... That damned Kusakabe!)",
+   "en": "Dorchenov (Grr... That@damned Kusakabe!)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 461
    },
-   "notes": "Dorchenov's inner curse, parentheses in immutable plain kind; no outside identity expansion.",
+   "notes": "Dorchenov's inner curse, parentheses in immutable plain kind; no outside identity expansion. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -8586,12 +8586,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kusakabe@(Dorchenov...@He is not a man capable of leading a nation...)",
+   "en": "Kusakabe (Dorchenov...@He is not a man capable@of leading a nation...)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 465
    },
-   "notes": "Kusakabe privately judges Dorchenov unfit to lead nation; source opinion not narrator fact.",
+   "notes": "Kusakabe privately judges Dorchenov unfit to lead nation; source opinion not narrator fact. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -8611,12 +8611,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eris@\"Bose particle response confirmed!\"",
+   "en": "Eris@\"Boson particle response confirmed!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 466
    },
-   "notes": "Eris confirms particle response; established provisional Bose particles term, singular modifier only.",
+   "notes": "Eris confirms particle response; established provisional Bose particles term, singular modifier only. Chapters 31-58 proofreading: Use the established Boson terminology consistently with the following Boson Jump line.",
    "uncertain": [
     "legacy_unused_material",
     "plain_visible_label",
@@ -9013,12 +9013,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Linda@(Brother...)",
+   "en": "Linda (Brother...)@",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 484
    },
-   "notes": "Plain fixed source segments and embedded visible speaker label retained.",
+   "notes": "Plain fixed source segments and embedded visible speaker label retained. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Brother-only internal address retained; identity as Meio settled by nearby arrival/profile, not inserted."
    ]
@@ -9319,12 +9319,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@(Dr. Zapat... I understand that we must@complete our plan as soon as possible...",
+   "en": "Eldy (Dr. Zapat... I understand@that we must complete our@plan as soon as possible...",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 502
    },
-   "notes": "Plain fixed source segments and embedded visible speaker label retained.",
+   "notes": "Plain fixed source segments and embedded visible speaker label retained. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Internal explanation continues503; plan must finish soon, not asserted complete."
    ]
@@ -9733,12 +9733,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...Doctor... That is dangerous.\"",
+   "en": "Eldy@\"... Doctor... That is dangerous.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 526
    },
-   "notes": "Plain fixed source segments and embedded visible speaker label retained.",
+   "notes": "Plain fixed source segments and embedded visible speaker label retained. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -9869,12 +9869,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...I can't do it.\"",
+   "en": "Eldy@\"... I can't do it.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 534
    },
-   "notes": "Plain fixed source segments and embedded visible speaker label retained.",
+   "notes": "Plain fixed source segments and embedded visible speaker label retained. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -9971,12 +9971,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...Following AI1's judgment,@the Medius will withdraw from this sector!\"",
+   "en": "Eldy@\"... Following AI1's judgment,@the Medius will withdraw from this sector!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 540
    },
-   "notes": "Plain fixed source segments and embedded visible speaker label retained.",
+   "notes": "Plain fixed source segments and embedded visible speaker label retained. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Following AI1 judgment; Medius source-short form."
    ]
@@ -10435,12 +10435,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kaine@\"...Mom... Aaaaaah!\"",
+   "en": "Kaine@\"... Mom... Aaaaaah!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 567
    },
-   "notes": "Kaine mothercall plus long shout, source omission retained without inventing tears. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed.",
+   "notes": "Kaine mothercall plus long shout, source omission retained without inventing tears. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Kaine mothercall plus long shout, source omission retained without inventing tears."
    ]
@@ -10746,12 +10746,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kaine@(I see... I'm going to be the Blue Hawk's...@future brother-in-law, after all...)",
+   "en": "Kaine (I see... I'm going to@be the Blue Hawk's... future@brother-in-law, after all...)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 585
    },
-   "notes": "Kaine parenthesizedthought in immutableplain3segments. Future[jp] interpretedbrother-in-law throughLinda crush, inferredjoke not factualfuturemarriage. Source-shortBlueHawk kept, notfullGiganosepithet. Immediate scene: Linda calls Meio brother580, asks Kaine to believe her brother583, then Kaine calls Linda584 before this thought585. Brother-in-law is a contextual joke inference, not explicit marriage or guaranteed future; literal subordinate/younger-brother wording remains ambiguous. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed.",
+   "notes": "Kaine parenthesizedthought in immutableplain3segments. Future[jp] interpretedbrother-in-law throughLinda crush, inferredjoke not factualfuturemarriage. Source-shortBlueHawk kept, notfullGiganosepithet. Immediate scene: Linda calls Meio brother580, asks Kaine to believe her brother583, then Kaine calls Linda584 before this thought585. Brother-in-law is a contextual joke inference, not explicit marriage or guaranteed future; literal subordinate/younger-brother wording remains ambiguous. Legacy plain layout: translated visible speaker label in first segment; empty speaker prefill and source @ count retained. Runtime reachability unconfirmed. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Kaine parenthesizedthought in immutableplain3segments. Future[jp] interpretedbrother-in-law throughLinda crush, inferredjoke not factualfuturemarriage. Source-shortBlueHawk kept, notfullGiganosepithet.",
     "Kaine parenthesizedthought in immutableplain3segments. Future[jp] interpretedbrother-in-law throughLinda crush, inferredjoke not factualfuturemarriage. Source-shortBlueHawk kept, notfullGiganosepithet. Immediate scene: Linda calls Meio brother580, asks Kaine to believe her brother583, then Kaine calls Linda584 before this thought585. Brother-in-law is a contextual joke inference, not explicit marriage or guaranteed future; literal subordinate/younger-brother wording remains ambiguous."
@@ -11808,12 +11808,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Kaine@\"...Captain.\"",
+   "en": "Kaine@\"... Captain.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 647
    },
-   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked. ",
+   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked.  Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Retained source address-only reaction with no predicate.",
     "Unused legacy script: current-engine opcode/guard semantics and reachability unconfirmed; exact source-kind plain retained."
@@ -11972,12 +11972,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Linda@(Kaine... I'm so glad you're safe...)",
+   "en": "Linda (Kaine... I'm so@glad you're safe...)",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 656
    },
-   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked. ",
+   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked.  Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Plain source thought parentheses preserved, no automatic dialogue wrapping.",
     "Unused legacy script: current-engine opcode/guard semantics and reachability unconfirmed; exact source-kind plain retained."
@@ -11991,12 +11991,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Aoi@\"...Is that... Kaine?\"",
+   "en": "Aoi@\"... Is that... Kaine?\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 657
    },
-   "notes": "Plain source embedded label and all original @ segments preserved. Kaine/Aoi mother-son relation explicitly established in local dialogue. Every original use and +-2 legacy source-reference neighbors independently checked. ",
+   "notes": "Plain source embedded label and all original @ segments preserved. Kaine/Aoi mother-son relation explicitly established in local dialogue. Every original use and +-2 legacy source-reference neighbors independently checked.  Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Unused legacy script: current-engine opcode/guard semantics and reachability unconfirmed; exact source-kind plain retained."
    ]
@@ -12045,12 +12045,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Aoi@\"...Kaine.\"",
+   "en": "Aoi@\"... Kaine.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 660
    },
-   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked. ",
+   "notes": "Plain source embedded label and all original @ segments preserved. Every original use and +-2 legacy source-reference neighbors independently checked.  Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Retained name-only reaction.",
     "Unused legacy script: current-engine opcode/guard semantics and reachability unconfirmed; exact source-kind plain retained."
@@ -13870,12 +13870,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...To disengage AI1's limiter,@ it is still far too early.\"",
+   "en": "Eldy@\"... To disengage AI1's limiter,@ it is still far too early.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 761
    },
-   "notes": "Legacy fixed plain segments; translated embedded label remains segment 1 and frozen speaker is blank. Eldy says far too early to disengage limiter.",
+   "notes": "Legacy fixed plain segments; translated embedded label remains segment 1 and frozen speaker is blank. Eldy says far too early to disengage limiter. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -14807,12 +14807,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@\"...Doctor!\"",
+   "en": "Eldy@\"... Doctor!\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 811
    },
-   "notes": "Source visible label canonically translated; statement/emotion retained within exact original fixed segments.",
+   "notes": "Source visible label canonically translated; statement/emotion retained within exact original fixed segments. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Unused legacy source; command semantics/runtime reachability unconfirmed."
    ]
@@ -15223,12 +15223,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Albero@\"...Yes.\"",
+   "en": "Albero@\"... Yes.\"",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 833
    },
-   "notes": "Source visible label canonically translated; statement/emotion retained within exact original fixed segments.",
+   "notes": "Source visible label canonically translated; statement/emotion retained within exact original fixed segments. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Unused legacy source; command semantics/runtime reachability unconfirmed."
    ]
@@ -15394,12 +15394,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "Eldy@(Doctor... Weren't you the only one...@in the world who needed me...?",
+   "en": "Eldy (Doctor... Weren't@you the only one... in the@world who needed me...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage57_campaign.json",
     "id": 842
    },
-   "notes": "Literal thought opening parenthesis kept in plain body, no separate thought mode; question completed boundary, source quotation remains open until846. Semantic/boundary review: Mark rhetorical question grammatically complete at source interrogative boundary while thought parenthesis remains open.",
+   "notes": "Literal thought opening parenthesis kept in plain body, no separate thought mode; question completed boundary, source quotation remains open until846. Semantic/boundary review: Mark rhetorical question grammatically complete at source interrogative boundary while thought parenthesis remains open. Chapters 31-58 proofreading: Keep exactly one space between the speaker name and the opening thought parenthesis. Reflow the same number of source lines within the font limit.",
    "uncertain": [
     "Unused legacy source; command semantics/runtime reachability unconfirmed.",
     "Original quote/parenthesis continuation boundary retained; no new opening/closing delimiter.",
@@ -16037,7 +16037,7 @@
  },
  "context_review": {
   "stage": 57,
-  "fingerprint": "40c4c47a119616606810f7e86398340648945ac4ccfb2782ea9246d917b9a140",
+  "fingerprint": "086ab61876458668499d65ec6ece8fa8a3e8864f0bb4f612282fa995071f40aa",
   "reviewed_reused_ids": [
    374,
    375
@@ -16045,6 +16045,6 @@
   "reviewed_reused_rows": 2,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator paired-read all 876 fresh sources/finals and flags; all 26 repeated fresh rows in 69 uses and both inherited condition rows in two uses checked with literal original-reference neighbors. Original proof covers 878 rows, 921 uses and 1444 commands; legacy opcode framing and reachability remain unverified. All 11 immutable drafts and final measurements audited against actual native font; 12 initial width overflows and the independent row195 segment repair retained. Seven escape-method inferences removed, source nominal blunder clarified, canonical embedded Harry retained; hypotheses, metaphor, crude jokes and source sentence/quote/blank boundaries preserved. All final rows fit. No ISO or release created."
+  "note": "Coordinator paired-read all 876 fresh sources/finals and flags; all 26 repeated fresh rows in 69 uses and both inherited condition rows in two uses checked with literal original-reference neighbors. Original proof covers 878 rows, 921 uses and 1444 commands; legacy opcode framing and reachability remain unverified. All 11 immutable drafts and final measurements audited against actual native font; 12 initial width overflows and the independent row195 segment repair retained. Seven escape-method inferences removed, source nominal blunder clarified, canonical embedded Harry retained; hypotheses, metaphor, crude jokes and source sentence/quote/blank boundaries preserved. All final rows fit. No ISO or release created. 2026-10-09: All Chapter 57 rows proofread against the original source in scene context, including all applicable routes and reused rows. 44 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  }
 }

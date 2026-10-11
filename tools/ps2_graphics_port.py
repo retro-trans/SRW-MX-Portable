@@ -37,8 +37,9 @@ def chapter_cards(original):
     last=0
     for a,z in allowed:assert output[last:a]==original[last:a];last=z
     assert output[last:]==original[last:] and len(output)==len(original)
-    return bytes(output),dict(scenario_titles=66,title_atlases=198,translated_atlases=153,
-                             native_english_atlases_preserved=45,palettes_preserved=True,
+    translated=sum(r['translated'] for r in results)
+    return bytes(output),dict(scenario_titles=66,title_atlases=198,translated_atlases=translated,
+                             native_english_atlases_preserved=len(results)-translated,palettes_preserved=True,
                              non_title_pixels_preserved=True,cards=results,target_sha256=sha(output))
 
 
@@ -85,12 +86,36 @@ def redraw_forecast_badge(fake,text):
                        visible_box=[0,0,24,24],inner_box=[2,2,22,22],horizontal_rescaling=False)
 
 
+STATUS_LABELS={'IM_IC07':'ST','IM_IC08':'WP','IM_IC09':'MB',
+               'IM_IC10':'AR','IM_IC11':'DS','IM_IC13':'MV'}
+
+
+def redraw_status_icon(fake,text):
+    """PS2 status tiles are 21px, with native frame and padding preserved."""
+    pal,(kind,w,h,offset)=wnd.palette(fake,0)
+    assert (kind,w,h)==(1,32,32) and text in STATUS_LABELS.values()
+    raw=fake[offset:offset+w*h]
+    visible=Image.new('L',(w,h));visible.putdata([255 if pal[v][3] else 0 for v in raw])
+    assert visible.getbbox()==(0,0,21,21)
+    cap=9
+    while max(wnd.render_text(s,cap,1000).width for s in STATUS_LABELS.values())>15:cap-=1
+    boxes=wnd.BOXES
+    try:
+        wnd.BOXES={**boxes,'status':(2,3,19,19,cap)}
+        pixels,_,_=wnd.redraw(fake,0,text,'status')
+    finally:wnd.BOXES=boxes
+    mask=wnd.render_text(text,cap,1000)
+    ox=2+(17-mask.width)//2;oy=3+(16-mask.height)//2
+    return pixels,dict(cap_height=cap,ink_box=[ox,oy,ox+mask.width,oy+mask.height],
+                       visible_box=[0,0,21,21],inner_box=[2,3,19,19],horizontal_rescaling=False)
+
+
 def window_graphics(original):
     rows=p2ig_textures(original);by_name={r['name']:r for r in rows};output=bytearray(original);results=[];ranges=[]
     entries=read_json(ROOT/'work/translation/en/ui/textures.json')['WND.BIN']
     # Most icons use doubled PSP boxes; AT/CT use their native 24px bounds.
     mapping={50:'IM_IC00',51:'IM_IC01',52:'IM_IC02',53:'IM_IC03',54:'IM_IC04',55:'IM_IC05',
-             57:'IM_IC07',59:'IM_IC08',60:'IM_IC09',61:'IM_IC10',63:'IM_IC12',
+             57:'IM_IC07',58:'IM_IC08',59:'IM_IC09',60:'IM_IC10',61:'IM_IC11',63:'IM_IC13',
              84:'IM_IC26',85:'IM_IC27',90:'IM_IC00S',91:'IM_IC01S',92:'IM_IC02S',
              93:'IM_IC03S',94:'IM_IC04S',95:'IM_IC05S',97:'IM_IC26S',98:'IM_IC27S'}
     boxes=dict(wnd.BOXES)
@@ -102,6 +127,9 @@ def window_graphics(original):
             fake=fake_tx48(original,row)
             if name in ('IM_IC00S','IM_IC01S'):
                 px,_=redraw_forecast_badge(fake,text)
+            elif name in STATUS_LABELS:
+                assert text==STATUS_LABELS[name]
+                px,_=redraw_status_icon(fake,text)
             else:px,_,pal=wnd.redraw(fake,0,text,kind)
             offset=row['offset']+row['pixel_offset'];output[offset:offset+len(px)]=px;ranges.append((offset,offset+len(px)))
             results.append(dict(asset=name,english=text,kind=kind))

@@ -57,7 +57,7 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "That leaves MU, Gulfer, the Devil Gundam... and the Angels.",
+   "en": "That leaves Mu, Gulfer, the Devil Gundam... and the Angels.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 2
@@ -89,7 +89,7 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "How are MU's floating cities... the Hiranipra?",
+   "en": "How are Mu's floating cities... the Hiranipra?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 3
@@ -153,12 +153,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "There is still no change. The whereabouts of Maya Kamina and the other suspected MU leaders remain unknown.",
+   "en": "There is still no change. The whereabouts of Maya Kamina and the other suspected Mu leaders remain unknown.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 7
    },
-   "notes": "Maya Kamina full source name retained; MU leaders only suspected.",
+   "notes": "Maya Kamina full source name retained; Mu leaders only suspected.",
    "uncertain": []
   },
   {
@@ -201,7 +201,7 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "...How long until the MU world completely merges with our side?",
+   "en": "...How long until the Mu world completely merges with our side?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 10
@@ -1268,7 +1268,7 @@
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 72
    },
-   "notes": "Other destined enemies besides Demon Empire; do not prematurely identify MU or RahXephon.",
+   "notes": "Other destined enemies besides Demon Empire; do not prematurely identify Mu or RahXephon.",
    "uncertain": []
   },
   {
@@ -1424,7 +1424,7 @@
    },
    "notes": "Complete source meaning; spoken register, speaker/addressee settled from adjacent i095b lines.",
    "uncertain": [
-    "Unfinished conditional judgment; next question supplies MU hypothesis."
+    "Unfinished conditional judgment; next question supplies Mu hypothesis."
    ]
   },
   {
@@ -1435,12 +1435,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "You mean it is more likely to be MU?",
+   "en": "You mean it is more likely to be Mu?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 82
    },
-   "notes": "Restored question predicate; alternative MU hypothesis, not fact.",
+   "notes": "Restored question predicate; alternative Mu hypothesis, not fact.",
    "uncertain": []
   },
   {
@@ -1483,7 +1483,7 @@
    "kind": "dialogue",
    "speaker_jp": "ひびき博士",
    "speaker_en": "Dr. Hibiki",
-   "en": "Since MU appeared over a decade ago, I have been investigating their connection to the ancient Mu Empire...",
+   "en": "Since Mu appeared over a decade ago, I have been investigating their connection to the ancient Mu Empire...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 85
@@ -1565,7 +1565,7 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "So, in the end... you still don't really know how Raideen, RahXephon and MU are connected?",
+   "en": "So, in the end... you still don't really know how Raideen, RahXephon and Mu are connected?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 90
@@ -2937,7 +2937,7 @@
    "kind": "dialogue",
    "speaker_jp": "アスカ",
    "speaker_en": "Asuka",
-   "en": "You mean merging with the MU world...!?",
+   "en": "You mean merging with the Mu world...!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 170
@@ -3323,14 +3323,14 @@
    "kind": "dialogue",
    "speaker_jp": "マコト",
    "speaker_en": "Makoto",
-   "en": "The source is reliable. I think they're probably meant to counter MU...",
+   "en": "The source is reliable. I think they're probably meant to counter Mu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 192
    },
    "notes": "Complete source meaning; subjects and predicates restored where settled by context.",
    "uncertain": [
-    "Countering MU is Makoto's speculation, not confirmed purpose."
+    "Countering Mu is Makoto's speculation, not confirmed purpose."
    ]
   },
   {
@@ -3346,7 +3346,7 @@
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 193
    },
-   "notes": "Them refers to MU; defensive policy not an imminent attack.",
+   "notes": "Them refers to Mu; defensive policy not an imminent attack.",
    "uncertain": []
   },
   {
@@ -3903,7 +3903,7 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "That leaves Gulfer, the Devil Gundam and MU as our enemies.",
+   "en": "That leaves Gulfer, the Devil Gundam and Mu as our enemies.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 226
@@ -3971,7 +3971,7 @@
    "kind": "dialogue",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "Did you forget? Once our world and the MU world become one, everything will be over.",
+   "en": "Did you forget? Once our world and the Mu world become one, everything will be over.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 230
@@ -4596,12 +4596,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -6767,7 +6767,7 @@
    "kind": "thought",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Does that mean the Human Instrumentality Project is more of a threat to MU than that is?",
+   "en": "Does that mean the Human Instrumentality Project is more of a threat to Mu than that is?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 249
@@ -6927,7 +6927,7 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...Has MU noticed the Fifth's presence?",
+   "en": "...Has Mu noticed the Fifth's presence?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 258
@@ -11131,14 +11131,14 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "And the MU, who have moved to stop our plan directly...",
+   "en": "And the Mu, who have moved to stop our plan directly...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 500
    },
-   "notes": "MU sentence trails off; no invented predicate.",
+   "notes": "Mu sentence trails off; no invented predicate.",
    "uncertain": [
-    "Genuinely unfinished nominal clause about MU; final predicate unspoken."
+    "Genuinely unfinished nominal clause about Mu; final predicate unspoken."
    ]
   },
   {
@@ -11913,12 +11913,12 @@
    "kind": "dialogue",
    "speaker_jp": "カヲル",
    "speaker_en": "Kaworu",
-   "en": "I was sent into this world by the ancient, unyielding people of the White Moon and the descendants of the people of the Black Moon...",
+   "en": "I was sent into this world by descendants of the ancient, defiant peoples of the White Moon and the Black Moon...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 544
    },
-   "notes": "Nearest-attachment two-group reading reviewed independently with root and worker6; preserves source modifiers without lore.",
+   "notes": "Nearest-attachment two-group reading reviewed independently with root and worker6; preserves source modifiers without lore. Chapters 31-58 proofreading: Descendants applies to both Moon peoples, not only the Black Moon people.",
    "uncertain": [
     "Chosen nearest-attachment reading: ancient/unyielding modify White Moon people, descendants applies to Black Moon people. Genuine alternate: descendants may scope over both coordinated peoples; modifier scope is not absolute. Later SEELE distinction does not settle it."
    ]
@@ -12604,7 +12604,7 @@
    "kind": "dialogue",
    "speaker_jp": "委員Ａ",
    "speaker_en": "Member A",
-   "en": "...This has stopped the MU from interfering with us.",
+   "en": "...This has stopped the Mu from interfering with us.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 581
@@ -12734,12 +12734,12 @@
    "kind": "dialogue",
    "speaker_jp": "委員Ａ",
    "speaker_en": "Member A",
-   "en": "We'll need a human sacrifice... to use against Ikari.",
+   "en": "We'll need a scapegoat... to use against Ikari.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 589
    },
-   "notes": "Human sacrifice preserves the human-pillar sacrificial metaphor, with no invented physical ritual.",
+   "notes": "Human sacrifice preserves the human-pillar sacrificial metaphor, with no invented physical ritual. Chapters 31-58 proofreading: The Committee seeks someone to interrogate and use against Ikari, not a literal ritual victim.",
    "uncertain": []
   },
   {
@@ -13720,12 +13720,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "What do I mean...? You saved us, Ayanami... you even abandoned Unit-00 to do it.",
+   "en": "What do I mean...? You saved us, Ayanami... you even sacrificed Unit-00 to do it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 644
    },
-   "notes": "Replies to reusedFULL826 contextual override What are you thanking me for; no fear reading.",
+   "notes": "Replies to reusedFULL826 contextual override What are you thanking me for; no fear reading. Chapters 31-58 proofreading: Rei destroyed Unit-00 to save the others; she did not abandon it and escape.",
    "uncertain": []
   },
   {
@@ -14027,7 +14027,7 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...In any case, MU and the Fifth are unwelcome visitors to us...",
+   "en": "...In any case, Mu and the Fifth are unwelcome visitors to us...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 661
@@ -14301,12 +14301,12 @@
    "kind": "dialogue",
    "speaker_jp": "マヤ",
    "speaker_en": "Maya",
-   "en": "This fact... to Dr. Akagi, immediately...",
+   "en": "We must report this to Dr. Akagi at once...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 676
    },
-   "notes": "Recipient ni ends original proposal before report predicate;677 interrupts. Preserve every stated detail and genuinely withheld predicate, exception to grammar-only pro-drop. No invented temporal-break or but.",
+   "notes": "Recipient ni ends original proposal before report predicate;677 interrupts. Preserve every stated detail and genuinely withheld predicate, exception to grammar-only pro-drop. No invented temporal-break or but. Chapters 31-58 proofreading: Restore the implied reporting verb so the urgent request reads naturally.",
    "uncertain": [
     "Genuinely interrupted report proposal: original ends at Dr. Akagi recipient before reporting predicate;677 stops it. English source-shaped fragments deliberately retain withheld predicate."
    ]
@@ -16059,7 +16059,7 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Then, like the MU... are EVAs and Angels from another world...!?",
+   "en": "Then, like the Mu... are EVAs and Angels from another world...!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 780
@@ -18177,12 +18177,12 @@
    "kind": "dialogue",
    "speaker_jp": "カヲル",
    "speaker_en": "Kaworu",
-   "en": "EVAs are made of the same body as mine. I was born of Adam too, after all.",
+   "en": "EVAs have bodies like mine. I was born of Adam too, after all.",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 905
    },
-   "notes": "EVA same body and Kaworu born of Adam; no inserted literal cloning detail.",
+   "notes": "EVA same body and Kaworu born of Adam; no inserted literal cloning detail. Chapters 31-58 proofreading: Express their shared bodily origin without implying that they are made from Kaworu himself.",
    "uncertain": []
   },
   {
@@ -19620,14 +19620,14 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "And the MU, too...",
+   "en": "And the Mu, too...",
    "translation_owner": {
     "source": "work/translation/en/script/stage49_campaign.json",
     "id": 989
    },
-   "notes": "MU concern unfinished, not inserted specific threat.",
+   "notes": "Mu concern unfinished, not inserted specific threat.",
    "uncertain": [
-    "Haruka leaves the predicate about MU unfinished."
+    "Haruka leaves the predicate about Mu unfinished."
    ]
   },
   {
@@ -19685,7 +19685,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 49,
-  "fingerprint": "105e6ec5badb9a00c363dcbf396dcf2a55e174f2b73ae72e16a8e17050396e92",
+  "fingerprint": "dd7ca94f234defe5f425bc6bbc6978f82d60edb950ae9f81b12629a7dafd44c9",
   "reviewed_reused_ids": [
    3,
    17,
@@ -19889,7 +19889,7 @@
   "reviewed_reused_rows": 198,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 992 fresh source/final pairs, all 176 fresh flags, every occurrence of 55 non-template reused rows and 143 generic defeat rows with 205 registrations and no ordinary uses. Preserved original conditional chronology, four Kaworu capture branches, omitted song and soul identities, subjective claims, Unit00 corruption and self-destruction, Lilith recognition, Adam mother wording, SEELE Human-to-Multiverse correction, both self-destruct trigger conditions, request direction and closing departures. Independently corrected Kaworu subject311/312 and source sound quality547; reused FULL826 now restores Rei question in this scene only with guarded owner/source/old-English match. Source-scoped glossary choices and licensed provenance flags retained. Independent actual-font audit verifies all final rows fit; only initial draft54 required measured compression. Full initial drafts and all semantic before/after measurements remain."
+  "note": "Coordinator reviewed all 992 fresh source/final pairs, all 176 fresh flags, every occurrence of 55 non-template reused rows and 143 generic defeat rows with 205 registrations and no ordinary uses. Preserved original conditional chronology, four Kaworu capture branches, omitted song and soul identities, subjective claims, Unit00 corruption and self-destruction, Lilith recognition, Adam mother wording, SEELE Human-to-Multiverse correction, both self-destruct trigger conditions, request direction and closing departures. Independently corrected Kaworu subject311/312 and source sound quality547; reused FULL826 now restores Rei question in this scene only with guarded owner/source/old-English match. Source-scoped glossary choices and licensed provenance flags retained. Independent actual-font audit verifies all final rows fit; only initial draft54 required measured compression. Full initial drafts and all semantic before/after measurements remain. 2026-10-09: All Chapter 49 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 1190,

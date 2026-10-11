@@ -82,7 +82,7 @@ def narration(boot):
                 native_row_copy_guard_preserved=True, original_record_timing_verified=records)
 
 
-def level_up(boot, fixed):
+def level_up(boot, fixed, capture=None):
     u = machine(boot)
     obj, ctx, manager, result, strings = 0x1000000, 0x1040000, 0x1080000, 0x1090000, 0x10A0000
     u.mem_write(obj+0x2C, struct.pack('<I', ctx))
@@ -122,7 +122,7 @@ def level_up(boot, fixed):
         else:
             return
         u.reg_write(UC_MIPS_REG_PC, u.reg_read(UC_MIPS_REG_RA))
-    u.hook_add(UC_HOOK_CODE, callbacks)
+    handle = u.hook_add(UC_HOOK_CODE, callbacks)
     invoke(u, 0xCE26C, [obj, result])
     expected = [it.encode(name+'1')[:-1] for name in names]
     actual = [cstr(u, rows+i*stride) for i in range(6)]
@@ -134,6 +134,9 @@ def level_up(boot, fixed):
             assert bytes(u.mem_read(rows+i*stride+len(value)+1,stride-len(value)-1)) == bytes([0xA5])*(stride-len(value)-1)
     else:
         assert actual != expected
+    if capture is not None:
+        u.hook_del(handle)
+        capture(u, obj+0xA130)
     return dict(native_row_pointers_verified=True, adjacent_rows_intact=fixed, fixture_names=names)
 
 

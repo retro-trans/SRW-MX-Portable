@@ -1419,12 +1419,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2529,12 +2529,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3042,12 +3042,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -4897,12 +4897,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルゴ",
    "speaker_en": "Argo",
-   "en": "They have power equal to the Devil Gundam's Four Heavenly Kings...",
+   "en": "Members of the Shuffle Alliance have power equal to the Devil Gundam's Four Heavenly Kings...",
    "translation_owner": {
     "source": "work/translation/en/script/stage09_campaign.json",
     "id": 145
    },
-   "notes": "They refers to the Shuffle Alliance members described in row146; statement spans rows145-146.",
+   "notes": "They refers to the Shuffle Alliance members described in row146; statement spans rows145-146. Chapters 1-14 proofreading: Name the subject of the sentence. The source describes the still-living Shuffle Alliance, not Schwarz and Master Asia from the preceding lines.",
    "uncertain": []
   },
   {
@@ -5635,12 +5635,12 @@
    "kind": "thought",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "...It looks like that...",
+   "en": "...That sounds like it...",
    "translation_owner": {
     "source": "work/translation/en/script/stage09_campaign.json",
     "id": 190
    },
-   "notes": "Vega keeps comparison object unnamed; that remains unresolved in this scene.",
+   "notes": "Vega keeps comparison object unnamed; that remains unresolved in this scene. Chapters 1-14 proofreading: Vega compares the described energy source with something she knows. Avoid implying a visual resemblance when nothing has been shown.",
    "uncertain": [
     "Comparison object intentionally unnamed; no identity supplied."
    ]
@@ -6818,7 +6818,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 9,
-  "fingerprint": "7e1cb21580ac65747dde3871b1fce3a603989e52c6da4aeff13a1e65329407be",
+  "fingerprint": "e4378aa26d072c56c135b314cbe7c8b245f4f1da7c6467f4a9657da0f0e5d694",
   "reviewed_reused_ids": [
    11,
    23,
@@ -6975,7 +6975,7 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all151 reused rows:143 generic prologue battle rows match previously reviewed exact bodies/speakers; remaining8 original numeric-use neighborhoods checked, including newly owned Stage8 Shinji silence. Reviewed all fresh flags: hidden male identity retained,5A/outside unexpanded, Asuka warning direction, unnamed partial resemblance/backers, unfinished callback and Vega comparison. Exact Star of Ra Mu applied after meaning decisions; all initial/final rows fit without compression. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Reviewed all151 reused rows:143 generic prologue battle rows match previously reviewed exact bodies/speakers; remaining8 original numeric-use neighborhoods checked, including newly owned Stage8 Shinji silence. Reviewed all fresh flags: hidden male identity retained,5A/outside unexpanded, Asuka warning direction, unnamed partial resemblance/backers, unfinished callback and Vega comparison. Exact Star of Ra Mu applied after meaning decisions; all initial/final rows fit without compression. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 9 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 413,

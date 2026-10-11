@@ -281,12 +281,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブラッキー",
    "speaker_en": "Blacky",
-   "en": "Japan, sir? The solar system's fifth planet...",
+   "en": "Japan, sir? There's a barrier there resembling the solar system's fifth planet...",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 16
    },
-   "notes": "Deliberate fifth-planet topic fragment at the exact source row boundary; explanation resumes in row17.",
+   "notes": "Deliberate fifth-planet topic fragment at the exact source row boundary; explanation resumes in row17. Chapters 1-14 proofreading: Start the comparison with the barrier in Japan, so Japan itself cannot be mistaken for the fifth planet.",
    "uncertain": []
   },
   {
@@ -297,12 +297,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブラッキー",
    "speaker_en": "Blacky",
-   "en": "...the planet those Earthlings call Jupiter... There's a strange barrier there that looks just like it, but...",
+   "en": "...the one the Earthlings call Jupiter. It's a rather unusual barrier...",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 17
    },
-   "notes": "Resumes fifth-planet topic from row16, then predicates the barrier comparison explicitly; deliberate trailing but retained.",
+   "notes": "Resumes fifth-planet topic from row16, then predicates the barrier comparison explicitly; deliberate trailing but retained. Chapters 1-14 proofreading: Complete the paired comparison naturally while retaining the description of the special barrier.",
    "uncertain": []
   },
   {
@@ -622,7 +622,7 @@
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 37
    },
-   "notes": "Continues MU retaliation description; explicit people subject.",
+   "notes": "Continues Mu retaliation description; explicit people subject.",
    "uncertain": []
   },
   {
@@ -670,7 +670,7 @@
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 40
    },
-   "notes": "Continues row39; explicit MU subject.",
+   "notes": "Continues row39; explicit Mu subject.",
    "uncertain": []
   },
   {
@@ -926,12 +926,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "Colonel, I would like your forces to keep watch around the outside.",
+   "en": "Captain, I would like your forces to keep watch around the outside.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 55
    },
-   "notes": "Kunugi asks Bright to assign external watch; request direction explicit.",
+   "notes": "Kunugi asks Bright to assign external watch; request direction explicit. Chapters 1-14 proofreading: Use Bright's established naval rank consistently.",
    "uncertain": []
   },
   {
@@ -5216,12 +5216,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -6326,12 +6326,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -6839,12 +6839,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -7764,7 +7764,7 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "Damn it... Is MU about to start another invasion...?!",
+   "en": "Damn it... Is Mu about to start another invasion...?!",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 324
@@ -8520,7 +8520,7 @@
    "kind": "dialogue",
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
-   "en": "Sure, but I want to see for myself what those MU Dolems, or doughnuts, or whatever they're called, can do.",
+   "en": "Sure, but I want to see for myself what those Mu Dolems, or doughnuts, or whatever they're called, can do.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 370
@@ -9304,12 +9304,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "Granted. Everyone except Second Lieutenant #男愛称, keep watch on the surrounding area!",
+   "en": "Granted. Everyone except Ensign #男愛称, keep watch on the surrounding area!",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 417
    },
-   "notes": "Bright grants request and excludes protagonist from surrounding watch. Second Lieutenant renders the explicit source rank.",
+   "notes": "Bright grants request and excludes protagonist from surrounding watch. Second Lieutenant renders the explicit source rank. Chapters 1-14 proofreading: Keep the protagonist's established rank consistent.",
    "uncertain": []
   },
   {
@@ -10602,12 +10602,12 @@
    "kind": "thought",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Damn it! If only there was nothing wrong with my body...!",
+   "en": "Damn it! If only my body were all right...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 496
    },
-   "notes": "Male lead wishes his physical problem had not interfered; conditional intentionally trails off.",
+   "notes": "Male lead wishes his physical problem had not interfered; conditional intentionally trails off. Chapters 1-14 proofreading: Smooth Hugo's frustrated thought about his physical condition.",
    "uncertain": []
   },
   {
@@ -11212,12 +11212,12 @@
    "kind": "thought",
    "speaker_jp": "ひびき博士",
    "speaker_en": "Dr. Hibiki",
-   "en": "There does seem to be some connection between Raideen and that OOPArts...",
+   "en": "There does seem to be some connection between Raideen and the OOPArts...",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 534
    },
-   "notes": "OOPArts retains glossary capitalization; refers to the previously discussed artifact.",
+   "notes": "OOPArts retains glossary capitalization; refers to the previously discussed artifact. Chapters 1-14 proofreading: Avoid combining the singular demonstrative that with the established OOPArts term.",
    "uncertain": []
   },
   {
@@ -12176,12 +12176,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "Yes. TERRA is an anti-MU strategy research agency. We investigate why MU invaded and develop countermeasures.",
+   "en": "Yes. TERRA is an anti-Mu strategy research agency. We investigate why Mu invaded and develop countermeasures.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 594
    },
-   "notes": "Only measured overflow compressed: retains anti-MU strategy research role, invasion cause investigation and countermeasure development.",
+   "notes": "Only measured overflow compressed: retains anti-Mu strategy research role, invasion cause investigation and countermeasure development.",
    "uncertain": []
   },
   {
@@ -12768,7 +12768,7 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "The people inside it only identified themselves as MU. They never responded to our attempts to contact them.",
+   "en": "The people inside it only identified themselves as Mu. They never responded to our attempts to contact them.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 631
@@ -12816,12 +12816,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "Then humanity was overwhelmed by the nightmare it had imagined, and launched an attack on MU's floating city...",
+   "en": "Then humanity was overwhelmed by the nightmare it had imagined, and launched an attack on Mu's floating city...",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 634
    },
-   "notes": "Humanity initiates the attack, driven by its own imagined fear; not MU aggression.",
+   "notes": "Humanity initiates the attack, driven by its own imagined fear; not Mu aggression.",
    "uncertain": []
   },
   {
@@ -12832,7 +12832,7 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "What did MU do?",
+   "en": "What did Mu do?",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 635
@@ -12880,7 +12880,7 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "And in just one day, city after city was annihilated. As humanity braced for an all-out war with MU...",
+   "en": "And in just one day, city after city was annihilated. As humanity braced for an all-out war with Mu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 638
@@ -12896,12 +12896,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "Suddenly, a spherical dimensional barrier covered Tokyo, and MU shut themselves inside it.",
+   "en": "Suddenly, a spherical dimensional barrier covered Tokyo, and Mu shut themselves inside it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 639
    },
-   "notes": "MU retreat behind spherical dimensional barrier follows humanity preparing for full war.",
+   "notes": "Mu retreat behind spherical dimensional barrier follows humanity preparing for full war.",
    "uncertain": []
   },
   {
@@ -15192,12 +15192,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "Yes... Far East Command headquarters asked me to help, taking the Vegan Empire attacks and Dolem appearance seriously.",
+   "en": "Yes... Far East Command has asked me to help, taking the Vegan Empire attacks and the appearance of Dotems seriously.",
    "translation_owner": {
     "source": "work/translation/en/script/stage03_campaign.json",
     "id": 781
    },
-   "notes": "Only measured overflow compressed. Root approved source-literal Far East Command headquarters; Dolem corrects context-settled source typo. No OG organization equivalence claimed.",
+   "notes": "Only measured overflow compressed. Root approved source-literal Far East Command headquarters; Dolem corrects context-settled source typo. No OG organization equivalence claimed. Chapters 1-14 proofreading: Correct Dolem to Dotem: the source names the Dotems fought in this battle. Also clarify the request from headquarters.",
    "uncertain": []
   },
   {
@@ -15285,7 +15285,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 3,
-  "fingerprint": "47dc3056c0f5baacf03c4a2d6a86d2e5778c870e83a1708865c1038df254e9b4",
+  "fingerprint": "dabd75fcdccdf72f131f5690bccd7e33a34356673e2c6ee3fad2aaaa860a78b3",
   "reviewed_reused_ids": [
    48,
    136,
@@ -15443,15 +15443,7 @@
   "reviewed_reused_rows": 152,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 6 and 813. Blacky asks about the Earthling forces called Giganos on the near side of the Moon. Elvy explicitly addresses Shitow as an Intelligence officer and asks for a yes/no answer. The selected 0.4.4 English corrections preserve these meanings. No other source, use or English changes.",
-  "release_delta_review": {
-   "version": "0.4.9",
-   "prior_fingerprint": "3cd2149285afdc5faeb9a73c1f5ef793a0432534cbb713e67a4f254fbecc1543",
-   "reviewed_full_ids": [
-    6,
-    813
-   ]
-  }
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 6 and 813. Blacky asks about the Earthling forces called Giganos on the near side of the Moon. Elvy explicitly addresses Shitow as an Intelligence officer and asks for a yes/no answer. The selected 0.4.4 English corrections preserve these meanings. No other source, use or English changes. 2026-10-09: All Chapter 3 rows proofread against the original source in scene context, including all applicable routes and reused rows. 10 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 939,

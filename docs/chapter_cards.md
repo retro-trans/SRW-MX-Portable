@@ -1,5 +1,13 @@
 # Native chapter-card lettering
 
+As of local 0.4.21, Chapter 16 is an explicit exception to preserving original
+English artwork: the user requested a fix for its uneven lettering. Its three
+copies on each platform are redrawn as **Blue Meets White** with one font size.
+The original source hashes remain guarded. Only the 256×52 title rectangles
+change; chapter digits and logo remain untouched. The historical 0.4.2 counts
+below describe that build. Future builds translate three additional atlases
+and preserve 42 native English atlases per platform.
+
 Chapter titles are pre-rendered bitmaps in `PACKMAPC2_ADD.BIN`, separate from
 STATIC2's scenario strings. They appear after a stage's opening dialogue.
 Build 0.4.2 covers all 67 scenario titles, including both starting routes,

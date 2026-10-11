@@ -105,12 +105,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "Neither Mu nor Tekkoryu has made any notable moves.",
+   "en": "Neither Mu nor Hau Dragon has made any notable moves.",
    "translation_owner": {
     "source": "work/translation/en/script/stage20_campaign.json",
     "id": 68
    },
-   "notes": "Completes force-status report. Central source review confirms glossary parenthetical Iron Dragon is explanatory, not spoken; source-only Tekkoryu retained. Meaning correction, not fit compression.",
+   "notes": "Completes force-status report. Central source review confirms glossary parenthetical Iron Dragon is explanatory, not spoken; source-only Tekkoryu retained. Meaning correction, not fit compression. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -201,12 +201,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "Do not be hasty, Hidler. In this war... whoever judges the times will win in the end. Thus, we must first build up our strength now.",
+   "en": "Do not be hasty, Hidler. In this war, whoever reads the tide of events will win in the end. For now, we must build up our strength.",
    "translation_owner": {
     "source": "work/translation/en/script/stage20_campaign.json",
     "id": 74
    },
-   "notes": "Burai rejects haste, explains judging the times and prioritizes strength; no claim that invasion is abandoned. Measured four-line initial overflow compressed by tightening triumph/priority phrasing, preserving all propositions.",
+   "notes": "Burai rejects haste, explains judging the times and prioritizes strength; no claim that invasion is abandoned. Measured four-line initial overflow compressed by tightening triumph/priority phrasing, preserving all propositions. Chapters 15-30 proofreading: Replaces the literal 'judges the times' with natural English for assessing the changing strategic situation, while preserving Burai's instruction to wait and build strength.",
    "uncertain": []
   },
   {
@@ -842,12 +842,12 @@
    "kind": "dialogue",
    "speaker_jp": "沖",
    "speaker_en": "Oki",
-   "en": "...Masato, what was that way of fighting near the Science Fortress Laboratory?",
+   "en": "...Masato, what were you thinking, fighting like that near the Science Fortress Laboratory?",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 32
    },
-   "notes": "Oki reprimands reckless fighting; location uses glossary spelling.",
+   "notes": "Oki reprimands reckless fighting; location uses glossary spelling. Chapters 15-30 proofreading: Makes Oki's rebuke idiomatic English; he is challenging Masato's conduct, rather than asking for a description of a combat technique.",
    "uncertain": []
   },
   {
@@ -3640,7 +3640,7 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Shoot down Zeorymer of the Heavens",
+   "en": "1. Zeorymer of the Heavens is shot down.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 143
@@ -5602,12 +5602,12 @@
    "kind": "dialogue",
    "speaker_jp": "沖",
    "speaker_en": "Oki",
-   "en": "...Indeed. That's why I believe you can understand our reason, Colonel.",
+   "en": "...Indeed. That's why I believe you can understand our reason, Captain.",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 169
    },
-   "notes": "Oki implies the reason rather than revealing secrets; explicit Colonel address retained.",
+   "notes": "Oki implies the reason rather than revealing secrets; explicit Colonel address retained. Chapters 15-30 proofreading: Uses the established character-specific naval rank for Bright; the same conversation already calls him Captain Bright.",
    "uncertain": []
   },
   {
@@ -5962,12 +5962,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "I'm Akitsu... Masato Akitsu.",
+   "en": "I'm... Masato Akitsu.",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 189
    },
-   "notes": "Masato hesitates after his surname; English order repeats the surname to preserve that hesitation.",
+   "notes": "Masato hesitates after his surname; English order repeats the surname to preserve that hesitation. Chapters 15-30 proofreading: Preserves Masato's hesitant introduction without awkwardly repeating his surname before his full English-order name.",
    "uncertain": []
   },
   {
@@ -6154,12 +6154,12 @@
    "kind": "dialogue",
    "speaker_jp": "美久",
    "speaker_en": "Miku",
-   "en": "To stop the Hau Dragon's ambitions.",
+   "en": "To stop the Iron Dragon... Hau Dragon's ambitions.",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 199
    },
-   "notes": "Miku answers Daisuke: to stop Hau Dragon's ambitions. The source gives the written name then its pronunciation for the same organization; English uses the glossary name once.",
+   "notes": "Miku answers Daisuke: to stop Hau Dragon's ambitions. The source gives the written name then its pronunciation for the same organization; English uses the glossary name once. Chapters 15-30 proofreading: Restores Miku's identification of Tekkoryu by its other name, Hau Dragon. The original explicitly links the two names. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. This source explicitly says both name forms; the Iron Dragon is retained only as its literal alias, preserving the pause/self-correction.",
    "uncertain": []
   },
   {
@@ -7072,12 +7072,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "We must also prepare for the Hades Project, the cherished ambition of our Tekkoryu... We shall watch and wait for a while.",
+   "en": "We must also prepare for the Hades Project, the cherished ambition of our Hau Dragon... We shall watch and wait for a while.",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 255
    },
-   "notes": "Yuratei cites Tekkoryu's Hades Project preparations as another reason to watch and wait; aspiration retained. Source-written Tekkoryu follows root-approved body form without explanatory parenthesis; phonetic Hau Dragon remains distinct elsewhere.",
+   "notes": "Yuratei cites Tekkoryu's Hades Project preparations as another reason to watch and wait; aspiration retained. Source-written Tekkoryu follows root-approved body form without explanatory parenthesis; phonetic Hau Dragon remains distinct elsewhere. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -7152,12 +7152,12 @@
    "kind": "thought",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "I will not tolerate their existence. When the time is ripe, I shall mobilize all of Tekkoryu's might and obliterate them without fail...!",
+   "en": "I will not tolerate their existence. When the time is ripe, I shall mobilize all of Hau Dragon's might and obliterate them without fail...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 260
    },
-   "notes": "Yuratei privately vows to eliminate the listed targets when ready, with her organization's entire strength; threat not softened. Source-written Tekkoryu follows root-approved body form without explanatory parenthesis; phonetic Hau Dragon remains distinct elsewhere.",
+   "notes": "Yuratei privately vows to eliminate the listed targets when ready, with her organization's entire strength; threat not softened. Source-written Tekkoryu follows root-approved body form without explanatory parenthesis; phonetic Hau Dragon remains distinct elsewhere. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   }
  ],
@@ -7165,7 +7165,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 21,
-  "fingerprint": "33f85c0f2a2170f98a2677343571ae5ab94ae561fd733ffcdb7db232358d0250",
+  "fingerprint": "2481b4206e0edfae8d4d9e05666be64985e2643e52b8a61218a145a9f6478563",
   "reviewed_reused_ids": [
    0,
    1,
@@ -7344,7 +7344,7 @@
   "reviewed_reused_rows": 173,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.13: defeat means Zeorymer is lost; corrected the imperative in s0150:207 and s0430:207. 2026-10-09: All Chapter 21 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 434,

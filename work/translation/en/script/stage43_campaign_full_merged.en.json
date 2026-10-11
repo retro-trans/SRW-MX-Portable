@@ -1830,12 +1830,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -4767,12 +4767,12 @@
    "kind": "dialogue",
    "speaker_jp": "井上博士",
    "speaker_en": "Dr. Inoue",
-   "en": "Th-this is...! There are two accesses to Ogre's guidance system!!",
+   "en": "Th-this is...! Ogre's guidance system is being accessed from two sources!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage43_campaign.json",
     "id": 135
    },
-   "notes": "Inoue reports two simultaneous accesses; do not add technical mechanism.",
+   "notes": "Inoue reports two simultaneous accesses; do not add technical mechanism. Chapters 31-58 proofreading: Expresses the competing control connections naturally without identifying the second source before it is discovered.",
    "uncertain": []
   },
   {
@@ -9537,7 +9537,7 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "Yes. We must defeat them before the MU, the Giganos remnants or the Martian Successors make their move.",
+   "en": "Yes. We must defeat them before the Mu, the Giganos remnants or the Martian Successors make their move.",
    "translation_owner": {
     "source": "work/translation/en/script/stage43_campaign.json",
     "id": 410
@@ -11251,7 +11251,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 43,
-  "fingerprint": "dad10192e59bdb00a036a38e4e802c38684247cbbbe8b25e1175bdd0a4409847",
+  "fingerprint": "1e244048d150af1a2275b37a751343e7c10b208b2081ee51f567eeb2d5b07e98",
   "reviewed_reused_ids": [
    40,
    68,
@@ -11425,7 +11425,7 @@
   "reviewed_reused_rows": 168,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 514 final fresh translations, all 67 fresh flags against original neighbors, and every actual use of all 25 non-template reused rows. The remaining 143 defeat-template rows have 205 registrations and no ordinary uses. Six actual Sol6.1 Medium translators supplied seven separate packets with full immutable initial drafts; all initial and final rows independently measured with the current font, zero overflow or compression. Before/map/after scenes, all conditional encounters, defeat events, rescue/infiltration order and aftermath reviewed. Source-hidden speakers, Zero false Altair-death claims, Meteo false security report, implanted battle history and Ginga/Subaru confusion remain. Subaru brother role and Alktos-survivor theory stay attributed; unnamed infant origin and cross-row fragments retained. Machine General speech suffixes, frozen honorific convention, Captain Bright, Hoshino/Katsuragi ranks, Meteo Cube and Commander Ranking normalized in final only. Guard Captain Altair and Gades cosmological labels retain licensed-provenance limits; no future identity, Time qualifier or external-franchise facts added. Initial drafts remain byte-identical."
+  "note": "Coordinator read all 514 final fresh translations, all 67 fresh flags against original neighbors, and every actual use of all 25 non-template reused rows. The remaining 143 defeat-template rows have 205 registrations and no ordinary uses. Six actual Sol6.1 Medium translators supplied seven separate packets with full immutable initial drafts; all initial and final rows independently measured with the current font, zero overflow or compression. Before/map/after scenes, all conditional encounters, defeat events, rescue/infiltration order and aftermath reviewed. Source-hidden speakers, Zero false Altair-death claims, Meteo false security report, implanted battle history and Ginga/Subaru confusion remain. Subaru brother role and Alktos-survivor theory stay attributed; unnamed infant origin and cross-row fragments retained. Machine General speech suffixes, frozen honorific convention, Captain Bright, Hoshino/Katsuragi ranks, Meteo Cube and Commander Ranking normalized in final only. Guard Captain Altair and Gades cosmological labels retain licensed-provenance limits; no future identity, Time qualifier or external-franchise facts added. Initial drafts remain byte-identical. 2026-10-09: All Chapter 43 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 682,

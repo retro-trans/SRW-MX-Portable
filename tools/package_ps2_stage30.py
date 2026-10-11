@@ -28,6 +28,25 @@ def build(base=BASE, version=VERSION, source_version=SOURCE_VERSION, extra_files
         path='/'+name+';1' if name=='SLPS_253.45' else '/DATA/'+name+';1'
         replacements[path]=BASE/name
     records={row['path']:row for row in previous['files']}
+    import title_footer
+    native_title=title_footer.version_key(VERSION)>=(0,4,26)
+    title_path='/SLPS_253.45;1' if native_title else title_footer.SPECS['PS2']['asset']
+    title_iso=pycdlib.PyCdlib();title_iso.open(str(source))
+    if native_title:
+        from ps2_title_footer import patch as patch_title
+        title,footer_report,font=patch_title((BASE/'SLPS_253.45').read_bytes(),VERSION,font)
+        save(BASE/'patch.json',font)
+        with title_iso.open_file_from_iso(iso_path='/DATA/IM.BIN;1') as f:background=f.read()
+        restored=title_footer.restore_legacy_ps2_background(background)
+        if restored!=background:
+            (BASE/'IM.BIN').write_bytes(restored)
+            replacements['/DATA/IM.BIN;1']=BASE/'IM.BIN'
+    else:
+        with title_iso.open_file_from_iso(iso_path=title_path) as f:
+            title,footer_report=title_footer.patch(f.read(),'PS2',VERSION)
+    title_iso.close()
+    title_local=BASE/('SLPS_253.45' if native_title else 'IM.BIN');title_local.write_bytes(title)
+    replacements[title_path]=title_local
     sizes={path:local.stat().st_size if local else records[path]['bytes'] for path,local in replacements.items()}
     hashes={path:digest_file(local) if local else records[path]['target_sha256'] for path,local in replacements.items()}
     projected=original.stat().st_size+sum((n+2047)//2048*2048 for n in sizes.values())+2048
@@ -157,6 +176,10 @@ def build(base=BASE, version=VERSION, source_version=SOURCE_VERSION, extra_files
     # Screenshots from an earlier disc never validate a newly built executable.
     for key in ('ui_visual_validation','visual_checks','visual_evidence','visual_blocker'):
         report.pop(key,None)
+    save(ROOT/'work/output'/f'ps2_font_{VERSION}_verification.json',report)
+    footer_report['readback']=title_footer.verify_iso(output,'PS2',VERSION)
+    report['title_footer']=footer_report
+    save(ROOT/'work/output'/f'ps2_title_footer_{VERSION}_verification.json',dict(version=VERSION,footer=footer_report))
     save(ROOT/'work/output'/f'ps2_font_{VERSION}_verification.json',report)
     save(ROOT/'work/translation/en/ps2/stage30_port.en.json',info)
     shutil.copyfile(ROOT/'incoming/fonts/FONT_LICENSE.txt',output.with_name(output.stem+'_FONT_LICENSE.txt'))

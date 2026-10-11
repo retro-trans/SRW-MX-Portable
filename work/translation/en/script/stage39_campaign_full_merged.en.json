@@ -391,12 +391,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3839,12 +3839,12 @@
    "kind": "dialogue",
    "speaker_jp": "一矢",
    "speaker_en": "Kazuya",
-   "en": "You would never understand what it means to fight for what we must protect... for what we must love!",
+   "en": "You would never understand what it means to fight for what we must protect... for those we love!",
    "translation_owner": {
     "source": "work/translation/en/script/stage39_campaign.json",
     "id": 79
    },
-   "notes": "Kazuya addresses Spiral Castle; things to protect and love retained without narrowing them to an identified person.",
+   "notes": "Kazuya addresses Spiral Castle; things to protect and love retained without narrowing them to an identified person. Chapters 31-58 proofreading: Uses natural English for loved ones rather than implying an obligation to love something.",
    "uncertain": []
   },
   {
@@ -6005,7 +6005,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 39,
-  "fingerprint": "919414be784527b79a98d0aaa933fe8eb8460075510b8a8571e4dffd56e45747",
+  "fingerprint": "62365c51a382758fb56dafbec91f1601c52338b17f4673ddf51bfbb3f3ec6298",
   "reviewed_reused_ids": [
    0,
    1,
@@ -6166,7 +6166,7 @@
   "reviewed_reused_rows": 155,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 204 fresh English rows and all 30 fresh flags against original scene neighbors. All 155 reused rows checked: 143 exact defeat templates across 205 actual registration uses and no ordinary uses; the other 12 reused IDs compared in every original use. Source fragments, Oyakata/kettle and Machine General insult soundplay, heart maxim and provisional Operation Screw Nail, Zero Barrier and interception limit wording retained. Fresh row 3 explicitly resolves allied/enemy actors from the preceding question and following pincer inference in final only, preserving the first draft. Only actual draft overflows at fresh 36 (dialogue) and 188 (fixed condition) shortened; all questions, failure conditions and unit alternatives retained. Countdown 3/2/1 and timeout/victory branches remain separate. Six distinct actual Sol 6.1 Medium translators and original source hashes preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Reviewed all 204 fresh English rows and all 30 fresh flags against original scene neighbors. All 155 reused rows checked: 143 exact defeat templates across 205 actual registration uses and no ordinary uses; the other 12 reused IDs compared in every original use. Source fragments, Oyakata/kettle and Machine General insult soundplay, heart maxim and provisional Operation Screw Nail, Zero Barrier and interception limit wording retained. Fresh row 3 explicitly resolves allied/enemy actors from the preceding question and following pincer inference in final only, preserving the first draft. Only actual draft overflows at fresh 36 (dialogue) and 188 (fixed condition) shortened; all questions, failure conditions and unit alternatives retained. Countdown 3/2/1 and timeout/victory branches remain separate. Six distinct actual Sol 6.1 Medium translators and original source hashes preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 39 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 359,

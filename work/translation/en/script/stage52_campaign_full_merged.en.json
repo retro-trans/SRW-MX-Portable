@@ -389,12 +389,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -6272,12 +6272,12 @@
    "kind": "dialogue",
    "speaker_jp": "スバル",
    "speaker_en": "Subaru",
-   "en": "...Then are these Seven Gods the seventh one?",
+   "en": "... Then are these Seven Gods the seventh one?",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 199
    },
-   "notes": "Subaru asks whether the group equals the seventh one; preserve his mistaken/questioning identification rather than asserting lore.",
+   "notes": "Subaru asks whether the group equals the seventh one; preserve his mistaken/questioning identification rather than asserting lore. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Seven Gods is provisional source-literal group terminology, not verified licensed English. All seven Data Weapons collectively; Subaru199 remains a question."
    ]
@@ -6394,12 +6394,12 @@
    "kind": "dialogue",
    "speaker_jp": "スバル",
    "speaker_en": "Subaru",
-   "en": "...But the seventh one isn't here. Can that protection still be undone...?",
+   "en": "... But the seventh one isn't here. Can that protection still be undone...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 205
    },
-   "notes": "Missing seventh is current scene state; no claim that it does not exist.",
+   "notes": "Missing seventh is current scene state; no claim that it does not exist. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6524,12 +6524,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "...Let's go...",
+   "en": "... Let's go...",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 213
    },
-   "notes": "Hokuto invites companions to leave; lets restores settled collective action.",
+   "notes": "Hokuto invites companions to leave; lets restores settled collective action. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6556,12 +6556,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "...It's true that we don't have the seventh Data Weapon with us right now.",
+   "en": "... It's true that we don't have the seventh Data Weapon with us right now.",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 214
    },
-   "notes": "No seventh with them yet, not nonexistence.",
+   "notes": "No seventh with them yet, not nonexistence. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6720,12 +6720,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "...I'm going back to Ginga.",
+   "en": "... I'm going back to Ginga.",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 223
    },
-   "notes": "I restores Hokuto subject returning to Ginga.",
+   "notes": "I restores Hokuto subject returning to Ginga. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6786,12 +6786,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "...Yes, you're right. If we give up, we'll never get anywhere.",
+   "en": "... Yes, you're right. If we give up, we'll never get anywhere.",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 227
    },
-   "notes": "Vega answers Hokuto; collective give-up subject restored.",
+   "notes": "Vega answers Hokuto; collective give-up subject restored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -7730,12 +7730,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "...The cage of despair that held me has vanished... At last, I shall reveal my true form here...",
+   "en": "... The cage of despair that held me has vanished... At last, I shall reveal my true form here...",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 280
    },
-   "notes": "Hidden voice before Phoenix identification; retain ??? and formal first-person declaration.",
+   "notes": "Hidden voice before Phoenix identification; retain ??? and formal first-person declaration. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Hidden identity remains ??? until source dialogue identifies Phoenix; no speaker rewrite."
    ]
@@ -8952,12 +8952,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Down Vector Zero and Gulfer Emperor in one turn",
+   "en": "1. Down Vector Zero and Gulfer Emperor in same turn",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 349
    },
-   "notes": "Updated victory condition; named Vector Zero AND Gulfer Emperor, same turn explicit; one source line. Actual 423px overflow; down abbreviates shoot down, names and same-turn requirement intact.",
+   "notes": "Updated victory condition; named Vector Zero AND Gulfer Emperor, same turn explicit; one source line. Actual 423px overflow; down abbreviates shoot down, names and same-turn requirement intact. Chapters 31-58 proofreading: Clarify that both bosses must be defeated in the same turn, without suggesting a one-turn battle; retain the single source line and full unit names.",
    "uncertain": []
   },
   {
@@ -8968,12 +8968,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Fail to down Gulfer Emperor and Vector Zero in@one turn. 2. Allied mothership down. 3. Either@GEAR Fighter Dendoh or Knight GEAR Ogre down",
+   "en": "1. Fail to down both bosses in the same turn.@2. An allied mothership is shot down.@3. Either Dendoh or Ogre is shot down.",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 350
    },
-   "notes": "Three defeat categories preserved: fail simultaneous turn defeat; allied mothership; either named GEAR. Three source lines. Actual [484,226,416] overflow; three-line reflow retains all named units and all three defeat criteria; down abbreviates shoot down.",
+   "notes": "Three defeat categories preserved: fail simultaneous turn defeat; allied mothership; either named GEAR. Three source lines. Actual [484,226,416] overflow; three-line reflow retains all named units and all three defeat criteria; down abbreviates shoot down. Chapters 31-58 proofreading: Separate all three defeat conditions and clarify the simultaneous-turn requirement.",
    "uncertain": []
   },
   {
@@ -9702,7 +9702,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 52,
-  "fingerprint": "e0a4bda020a1ac872e426df109a4f1a3f60ec824ef3ab3bb8a8d5f051ebfef01",
+  "fingerprint": "5f2a971205288008bfe7c3e785c20ac4ee83e260b2cfeec49abb5117ec02b446",
   "reviewed_reused_ids": [
    0,
    1,
@@ -9896,7 +9896,7 @@
   "reviewed_reused_rows": 188,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 392 fresh source/final pairs, all 107 fresh uncertainty flags and every occurrence of 45 non-template reused rows (49 uses), plus 143 generic defeat templates across 205 registrations. Six actual Sol 6.1 Medium translators verified original uses and conditional handlers. Only measured fixed UI overflows 264/349/350 were shortened; every final fits and immutable full drafts remain. Independent review corrected negation scope, quoted legend pronouns, seal-chamber copula and guardian identity. Existing main Hyribead spelling is enforced; Alktos follows main glossary. Spirit-vessel identity and strike-object remain unresolved. Phoenix reveal event13, failure event36 and success event38 remain separate; no source storage chronology is imposed. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Coordinator reviewed all 392 fresh source/final pairs, all 107 fresh uncertainty flags and every occurrence of 45 non-template reused rows (49 uses), plus 143 generic defeat templates across 205 registrations. Six actual Sol 6.1 Medium translators verified original uses and conditional handlers. Only measured fixed UI overflows 264/349/350 were shortened; every final fits and immutable full drafts remain. Independent review corrected negation scope, quoted legend pronouns, seal-chamber copula and guardian identity. Existing main Hyribead spelling is enforced; Alktos follows main glossary. Spirit-vessel identity and strike-object remain unresolved. Phoenix reveal event13, failure event36 and success event38 remain separate; no source storage chronology is imposed. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 52 rows proofread against the original source in scene context, including all applicable routes and reused rows. 10 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 580,

@@ -1118,12 +1118,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3224,7 +3224,7 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Black Sarana is shot down@2. An allied mothership is shot down",
+   "en": "1. Black Selena is shot down@2. An allied mothership is shot down",
    "translation_owner": {
     "source": "work/translation/en/script/stage47_campaign.json",
     "id": 44
@@ -4917,12 +4917,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "You must be afraid... You must be bitter...! Even clad in armor... you cannot protect the weakness in your heart!",
+   "en": "You must be afraid... You must be bitter...! Even clad in armor... you cannot shield your fragile heart!",
    "translation_owner": {
     "source": "work/translation/en/script/stage47_campaign.json",
     "id": 141
    },
-   "notes": "Hokushin taunts Akito after defeat; armor cannot shield psychological weakness. You/your restored.",
+   "notes": "Hokushin taunts Akito after defeat; armor cannot shield psychological weakness. You/your restored. Chapters 31-58 proofreading: Armor cannot protect his vulnerable heart; avoid suggesting that weakness itself needs protection.",
    "uncertain": []
   },
   {
@@ -5943,12 +5943,12 @@
    "kind": "dialogue",
    "speaker_jp": "リョーコ",
    "speaker_en": "Ryoko",
-   "en": "Is he really going to leave like this... throwing away even Yurika and his memories with us...?",
+   "en": "Is he really going to leave like this... throwing away even his memories of Yurika and all of us...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage47_campaign.json",
     "id": 203
    },
-   "notes": "Ryoko asks whether Akito intends to abandon Yurika as well as memories with the crew. Explicit he/his restored; do not reduce to memories alone.",
+   "notes": "Ryoko asks whether Akito intends to abandon Yurika as well as memories with the crew. Explicit he/his restored; do not reduce to memories alone. Chapters 31-58 proofreading: The object being discarded is his memories of Yurika and the crew, not Yurika herself.",
    "uncertain": []
   },
   {
@@ -6058,7 +6058,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 47,
-  "fingerprint": "a02a9f494ea9fc8977650e8284ffad567d49611f6204109c17fffd4b4def7f12",
+  "fingerprint": "01dfe0416d8a89fcf93f1470d612a11749b7556593128923f84f477ca7ee0b29",
   "reviewed_reused_ids": [
    5,
    35,
@@ -6217,7 +6217,7 @@
   "reviewed_reused_rows": 153,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 210 fresh source/final pairs, all 22 fresh flags including four explicitly reported interruption metadata flags, and all ten non-template reused rows at every original use. Whole BEFORE and MAP event context, reuse gaps, both surrender branches, and conditional encounters separate from ending storage were reviewed. Preserve Ruri plus Omoikane system union; Earth coup and projected-victory metaphor; false impossibility claim; full Nadesico C entrustment to Hari; former Lieutenant General Kusakabe and Lieutenant Commander Hoshino source ranks; anonymous row84; all four Lapis body relations plus two trailing possessives; linked cavalry/horse/riding/butt/lap gag with independent worker5 root corrections105/108; Erika rescuing Yurika for Akito; Borne four-part metaphor and wind/sea follow-up; literal geta/zori/sandals pun; unfinished convictions; Yurika safe return and ditzy-self relief; Akito departure without invented mutual romance. Ruri204/206 I-versus-we scope remains explicitly flagged. Quick-draw shot209 remains conditional battle dialogue. All immutable drafts and all final rows fit actual font with no compression; source omissions flagged at matching boundaries. 143 generic defeat rows have205 registrations and no ordinary uses. Akurasu Sanzu River and Battle Turn stems, primary Borne attribution and provisional Sabu are recorded. No ISO or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Coordinator reviewed all 210 fresh source/final pairs, all 22 fresh flags including four explicitly reported interruption metadata flags, and all ten non-template reused rows at every original use. Whole BEFORE and MAP event context, reuse gaps, both surrender branches, and conditional encounters separate from ending storage were reviewed. Preserve Ruri plus Omoikane system union; Earth coup and projected-victory metaphor; false impossibility claim; full Nadesico C entrustment to Hari; former Lieutenant General Kusakabe and Lieutenant Commander Hoshino source ranks; anonymous row84; all four Lapis body relations plus two trailing possessives; linked cavalry/horse/riding/butt/lap gag with independent worker5 root corrections105/108; Erika rescuing Yurika for Akito; Borne four-part metaphor and wind/sea follow-up; literal geta/zori/sandals pun; unfinished convictions; Yurika safe return and ditzy-self relief; Akito departure without invented mutual romance. Ruri204/206 I-versus-we scope remains explicitly flagged. Quick-draw shot209 remains conditional battle dialogue. All immutable drafts and all final rows fit actual font with no compression; source omissions flagged at matching boundaries. 143 generic defeat rows have205 registrations and no ordinary uses. Akurasu Sanzu River and Battle Turn stems, primary Borne attribution and provisional Sabu are recorded. No ISO or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 47 rows proofread against the original source in scene context, including all applicable routes and reused rows. 3 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 363,

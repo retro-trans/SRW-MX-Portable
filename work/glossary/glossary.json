@@ -519,7 +519,7 @@
    "jp_full": "アルベロ・エスト",
    "jp_short": "アルベロ",
    "reading": "アルベロ",
-   "en_full": "Albero Esto",
+   "en_full": "Albero Est",
    "en_short": "Albero",
    "nicknames": [
     "Black Wolf",
@@ -535,7 +535,7 @@
     "https://tvtropes.org/pmwiki/pmwiki.php/Characters/SuperRobotWarsMX",
     "https://lparchive.org/Super-Robot-Wars-MX/Update%20100/"
    ],
-   "notes": "Spelling: SRW wiki 'Albero Esto'; TV Tropes, Wikipedia-style sources and the LP translation use 'Albero Est'. Game library gives age 46 (SRW wiki says 43).",
+   "notes": "User-requested Albero Est spelling (2026-10-07); Esto is a reference-page variant. Game library gives age 46 (SRW wiki says 43).",
    "_group": "C"
   },
   {
@@ -682,7 +682,7 @@
    "sources": [
     "https://superrobotwars.fandom.com/wiki/Albero_Esto"
    ],
-   "notes": "Referent: Albero Esto (reading アルベロ). Gender follows the referent.",
+   "notes": "Referent: Albero Est (reading アルベロ). Gender follows the referent.",
    "_group": "C"
   },
   {
@@ -1447,7 +1447,7 @@
    "nicknames": [],
    "gender": "female",
    "personality": "calm and objective in battle",
-   "position": "officer of the MU Tokyo Government-General Defense Force; operates the Dolems",
+   "position": "officer of the Mu Tokyo Government-General Defense Force; operates the Dolems",
    "affiliation": "Mu / Tokyo Jupiter",
    "series": "ラーゼフォン",
    "sources": [
@@ -1466,7 +1466,7 @@
    "nicknames": [],
    "gender": "male",
    "personality": "servile toward the strong, arrogant toward the weak",
-   "position": "commander of the MU Tokyo Government-General Defense Force; former defense ministry officer",
+   "position": "commander of the Mu Tokyo Government-General Defense Force; former defense ministry officer",
    "affiliation": "Mu / Tokyo Jupiter",
    "series": "ラーゼフォン",
    "sources": [
@@ -1734,7 +1734,7 @@
    "nicknames": [],
    "gender": "female",
    "personality": "calm, composed, imposing",
-   "position": "Mulian leader; holds full authority over the MU Tokyo Government-General; Ayato's (adoptive) mother",
+   "position": "Mulian leader; holds full authority over the Mu Tokyo Government-General; Ayato's (adoptive) mother",
    "affiliation": "Mu / Tokyo Jupiter",
    "series": "ラーゼフォン",
    "sources": [
@@ -2384,7 +2384,7 @@
    "nicknames": [],
    "gender": "male",
    "personality": "cold and cool since the war; once indecisive and naive",
-   "position": "Class A Jumper; Black Sarena pilot",
+   "position": "Class A Jumper; Black Selena pilot",
    "affiliation": "Nergal-supported",
    "series": "劇場版　機動戦艦ナデシコ",
    "sources": [
@@ -3986,7 +3986,7 @@
    "jp_full": "ジョルジュ・ド・サンド",
    "jp_short": "ジョルジュ",
    "reading": "ジョルジュ",
-   "en_full": "George DeSand",
+   "en_full": "George De Sand",
    "en_short": "George",
    "nicknames": [
     "Jack in Diamond"
@@ -7216,14 +7216,14 @@
   },
   {
    "jp": "火のブライスト",
-   "en": "Briest of the Fires",
+   "en": "Bryst of the Fires",
    "series": "冥王計画ゼオライマー",
    "sources": [
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
     "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
     "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
    ],
-   "notes": "Akurasu: Briest.",
+   "notes": "Akurasu: Bryst.",
    "_group": "B",
    "source_main": "akurasu",
    "variants": [
@@ -7363,18 +7363,18 @@
   },
   {
    "jp": "ブラックサレナ",
-   "en": "Black Sarana",
+   "en": "Black Selena",
    "series": "劇場版　機動戦艦ナデシコ",
    "sources": [
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
     "https://nadesico.fandom.com/wiki/Black_Sarena",
     "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
    ],
-   "notes": "Akurasu/SRW wiki prose also writes \"Black Selena\".",
+   "notes": "User-requested Black Selena spelling (2026-10-07), overriding Akurasu MX Sarana; form qualifier retains the established wording.",
    "_group": "B",
    "source_main": "akurasu",
    "variants": [
-    "Black Sarena"
+    "Black Selena"
    ]
   },
   {
@@ -7419,18 +7419,18 @@
   },
   {
    "jp": "高機動型ブラックサレナ",
-   "en": "High-maneuver Black Sarana",
+   "en": "High-maneuver Black Selena",
    "series": "劇場版　機動戦艦ナデシコ",
    "sources": [
     "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
     "https://nadesico.fandom.com/wiki/Black_Sarena",
     "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
    ],
-   "notes": "Wiki: \"High Mobility Black Selena\" in the SRW wiki.",
+   "notes": "User-requested Black Selena spelling (2026-10-07), overriding Akurasu MX Sarana; form qualifier retains the established wording.",
    "_group": "B",
    "source_main": "akurasu",
    "variants": [
-    "High-Mobility Black Sarena"
+    "High-Mobility Black Selena"
    ]
   },
   {
@@ -11133,7 +11133,7 @@
    "sources": [
     "https://superrobotwars.fandom.com/wiki/Martian_Successor_Nadesico"
    ],
-   "notes": "Variant for the high-mobility Black Sarena (S presumably \"Special\").",
+   "notes": "Variant for the high-mobility Black Selena (S presumably \"Special\").",
    "_group": "B"
   },
   {
@@ -11143,7 +11143,7 @@
    "sources": [
     "https://nadesico.fandom.com/wiki/Black_Sarena"
    ],
-   "notes": "Black Sarena's armament.",
+   "notes": "Black Selena's armament.",
    "_group": "B"
   },
   {
@@ -17227,7 +17227,7 @@
   },
   {
    "jp": "ＭＵ東京総督府",
-   "en": "MU Tokyo Government-General",
+   "en": "Mu Tokyo Government-General",
    "category": "organization",
    "series": "ラーゼフォン",
    "sources": [
@@ -17362,14 +17362,14 @@
   },
   {
    "jp": "鉄甲龍",
-   "en": "Tekkoryu (Iron Dragon)",
+   "en": "Hau Dragon",
    "category": "organization",
    "series": "冥王計画ゼオライマー",
    "sources": [
     "https://en.wikipedia.org/wiki/Hades_Project_Zeorymer",
     "https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(OVA)"
    ],
-   "notes": "Wikipedia: Tekkoryu, aka Hau Dragon.",
+   "notes": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. Explicit dual-name dialogue may retain the literal Iron Dragon alias.",
    "_group": "B"
   },
   {

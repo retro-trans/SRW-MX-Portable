@@ -53,6 +53,12 @@ def build(source):
     data=bytearray(data)
     struct.pack_into('<193I',data,TABLE,*story['relative_sectors'])
     struct.pack_into('<18I',data,SECTIONS,*story['section_sectors'])
+    import title_footer
+    native_title=title_footer.version_key(VERSION)>=(0,4,26)
+    if native_title:
+        from ps2_title_footer import patch as patch_title
+        data,footer_report,font=patch_title(data,VERSION,font)
+        data=bytearray(data)
     data=bytes(data);font.update(target_sha256=sha(data),ps2_script_tables_updated=True)
     (evidence/'SLPS_253.45').write_bytes(data);save(evidence/'patch.json',font)
     (WORK/'SLPS_253.45').write_bytes(data)
@@ -71,6 +77,20 @@ def build(source):
         with (WORK/'quotes.bin').open('rb') as f:copy_bytes(f,dst,(WORK/'quotes.bin').stat().st_size)
         dst.seek(20);dst.write(struct.pack('<I',quote_offset))
     names=['SLPS_253.45','MAP.BIN','FIX00.DAT','STAGE.BIN','STATIC.BIN','BATTLE.BIN','PACKMAPC.BIN','WND.BIN']
+    if not native_title:
+        with iso.open_file_from_iso(iso_path=title_footer.SPECS['PS2']['asset']) as f:
+            title, footer_report = title_footer.patch(f.read(), 'PS2', VERSION)
+        (WORK/'IM.BIN').write_bytes(title)
+        names.append('IM.BIN')
+    from patch_at_field import patch as patch_at_field
+    static, caption_report = patch_at_field((WORK/'STATIC.BIN').read_bytes(), 'PS2')
+    from patch_battle_hud import patch as patch_battle_hud
+    static, hud_report = patch_battle_hud(static, 'PS2')
+    save(TR/'battle_hud.en.json', hud_report)
+    save(WORK/'battle_hud.json', hud_report)
+    (WORK/'STATIC.BIN').write_bytes(static)
+    save(TR/'at_field.en.json', caption_report)
+    save(WORK/'at_field.json', caption_report)
     replacements={('/'+name+';1' if name=='SLPS_253.45' else '/DATA/'+name+';1'):WORK/name for name in names}
     hashes={p:digest_file(f) for p,f in replacements.items()}
     positions={p:directory_position(iso,source,p) for p in replacements}
@@ -126,7 +146,7 @@ def build(source):
     assert all(digest_file(ROOT/p)==h for p,h in story['inputs'].items())
     report=dict(version=VERSION,platform='PS2',scope='Full English port with native 4x VWF and selectable original PS2 / PSP-style HP and funds balance at New Game',
                 output=str(output),bytes=output.stat().st_size,source_sha256=SOURCE_SHA256,target_sha256=digest_file(output),
-                source_unchanged=True,changed_files=8,unchanged_files=29,unrelated_file_lbas_retained=True,
+                source_unchanged=True,changed_files=len(replacements),unchanged_files=37-len(replacements),unrelated_file_lbas_retained=True,
                 iso9660_and_udf_all_replacements_agree=True,script_commands_unchanged=True,
                 translated_scenes=story['translated_scenes'],translated_strings=story['translated_strings'],
                 total_scenes=192,missing_readable_story_strings=0,battle_caption_entries=51434,
@@ -136,6 +156,10 @@ def build(source):
                 difficulty=difficulty,difficulty_execution_checks=difficulty_checks,
                 pending=['Native battle/status banner artwork and remaining UI differences','PCSX2 visual and full-campaign gameplay validation','Physical PS2 validation'],
                 pcsx2_visual_validation='pending',physical_ps2_validation='pending',github_release=False)
+    save(ROOT/'work/output'/f'ps2_font_{VERSION}_verification.json',report)
+    footer_report['readback'] = title_footer.verify_iso(output, 'PS2', VERSION)
+    report['title_footer'] = footer_report
+    save(ROOT/'work/output'/f'ps2_title_footer_{VERSION}_verification.json',dict(version=VERSION,footer=footer_report))
     save(ROOT/'work/output'/f'ps2_font_{VERSION}_verification.json',report)
     shutil.copyfile(ROOT/'incoming/fonts/FONT_LICENSE.txt',output.with_name(output.stem+'_FONT_LICENSE.txt'))
     print(json.dumps({k:v for k,v in report.items() if k not in ('font','blocks','files','mips_checks')},indent=2))

@@ -1,1429 +1,2846 @@
 {
  "batch": 17,
+ "speakers": [
+  "Argo Gulski",
+  "Chibodee Crocket",
+  "Domon Kasshu",
+  "George De Sand",
+  "Michelo Chariot",
+  "Rain Mikamura",
+  "Sai Saici"
+ ],
+ "glossary_hits": [
+  {
+   "en": "King of Hearts",
+   "kind": "terms"
+  },
+  {
+   "en": "Feilong Flag",
+   "kind": "weapons"
+  },
+  {
+   "en": "Domon Kasshu",
+   "kind": "characters"
+  },
+  {
+   "en": "Rising Arrow",
+   "kind": "weapons"
+  },
+  {
+   "en": "Domon Kasshu",
+   "kind": "terms"
+  },
+  {
+   "en": "God Gundam",
+   "kind": "units"
+  },
+  {
+   "en": "God Shadow",
+   "kind": "terms"
+  },
+  {
+   "en": "Shuffle Alliance",
+   "kind": "terms"
+  },
+  {
+   "en": "Missile",
+   "kind": "weapons"
+  },
+  {
+   "en": "Vulcan",
+   "kind": "weapons"
+  },
+  {
+   "en": "Undefeated of the East",
+   "kind": "terms"
+  },
+  {
+   "en": "Bueikyaku (No-Shadow Kick)",
+   "kind": "weapons"
+  },
+  {
+   "en": "Beam",
+   "kind": "weapons"
+  },
+  {
+   "en": "Guard",
+   "kind": "terms"
+  },
+  {
+   "en": "Domon",
+   "kind": "characters"
+  },
+  {
+   "en": "Min",
+   "kind": "terms"
+  },
+  {
+   "en": "Sure Hit",
+   "kind": "terms"
+  },
+  {
+   "en": "Zin",
+   "kind": "terms"
+  },
+  {
+   "en": "Zin",
+   "kind": "characters"
+  },
+  {
+   "en": "Fa",
+   "kind": "characters"
+  },
+  {
+   "en": "Min",
+   "kind": "characters"
+  },
+  {
+   "en": "After Image",
+   "kind": "terms"
+  }
+ ],
  "rows": [
   {
    "id": "q06549",
-   "en": "Taaaaah... tah!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06550",
-   "en": "Haaaah... Tooooryaaah!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06551",
-   "en": "Tooooryaaaaah!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06552",
-   "en": "Toooooh!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06553",
-   "en": "I'll smash every last one of you!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06554",
-   "en": "Take this!!",
-   "notes": "Konno! as a strike shout; rendered 'Take this!!'.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06555",
-   "en": "I've got no time to play around with you!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06556",
-   "en": "I'm Domon Kasshu, King of Hearts of the Shuffle Alliance!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06557",
-   "en": "Don't take this God Gundam for just any Gundam!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06558",
-   "en": "Damn yooou!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06559",
-   "en": "Is this the end?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06560",
-   "en": "N-no way...!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06561",
-   "en": "That's impossible...!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06562",
-   "en": "Is this really the end...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06563",
-   "en": "What power?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06564",
-   "en": "Waaah! What power?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06565",
-   "en": "Gwaaaaah!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06566",
-   "en": "Gwah! B-beaten by someone like this...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06567",
-   "en": "D-damn it!! I can't go down to something like this!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06568",
-   "en": "Uoooh!! Wh-what?! I'm being pushed back?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06569",
-   "en": "Nuooooh!! Th-this guy... has this much power...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06570",
-   "en": "Gaaah!! Y-you're good! But I can't afford to lose!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06571",
-   "en": "Waaaaaaah!!",
-   "notes": "",
-   "uncertain": [
-    "Shared with Ryoma, Ko, Hokuto: generic scream, works for all."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "流竜馬",
+    "ひびき洸",
+    "草薙北斗",
+    "[jp]"
    ]
   },
   {
    "id": "q06572",
-   "en": "Uoooooh!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06573",
-   "en": "Dwaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06574",
-   "en": "So you've got some skill?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06575",
-   "en": "Damn it!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06576",
-   "en": "Whoa!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 3,
+   "also": [
+    "流竜馬",
+    "[jp]"
+   ]
   },
   {
    "id": "q06577",
-   "en": "Gwah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06578",
-   "en": "What!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06579",
-   "en": "N-not yet!! I'm not done yet!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06580",
-   "en": "I-I'm not going down yet!! I swear it on the name of King of Hearts!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06581",
-   "en": "Waaah!! D-damn it! I won't lose!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06582",
-   "en": "Not bad! But this fight isn't settled yet!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06583",
-   "en": "Gwah! Ngh, impressive... but!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06584",
-   "en": "Not yet!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 50,
+   "also": [
+    "[jp]",
+    "[jp]",
+    "無し"
+   ]
   },
   {
    "id": "q06585",
-   "en": "Is that all your skill amounts to?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06586",
-   "en": "Tch! Get out of my way!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06587",
-   "en": "Kuuuuh!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06588",
-   "en": "Ngh! Don't think something like this can beat me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06589",
-   "en": "What's wrong! Is that the best you can do!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06590",
-   "en": "An attack like that won't work on me!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06591",
-   "en": "An attack like that...!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06592",
-   "en": "I've already seen through your attacks!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06593",
-   "en": "I can see it!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06594",
-   "en": "I'm over here!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06595",
-   "en": "You can't hit me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06596",
-   "en": "Too slow!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06597",
-   "en": "Like that'll work!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06598",
-   "en": "As if missiles like that could...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06599",
-   "en": "It's useless! Missiles won't work on me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06600",
-   "en": "Shadow-clone killing art! God Shadow!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 10,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06601",
-   "en": "Tch! I'm out of ammo!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06602",
-   "en": "What?! Damn it, I'm out of ammo?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06603",
-   "en": "Ngh! I'm out of energy!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06604",
-   "en": "I can't attack from here...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06605",
-   "en": "Attacking from out of range? What a dirty trick!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06606",
-   "en": "What?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06607",
-   "en": "I'll be the one to send you to your grave!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06608",
-   "en": "An opening! I'll finish you off!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06609",
-   "en": "I won't let you do that while I'm here!",
-   "notes": "Read as protecting an ally: he won't let the enemy strike while he is present.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06610",
-   "en": "Leave this one to me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06611",
-   "en": "I will win this battle, no matter what!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06612",
-   "en": "Goooo!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06613",
-   "en": "Hah! Hah! Hah! Hah! Teyaaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06614",
-   "en": "Goooo!! Vulcan!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06615",
-   "en": "Vuuulcan!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06616",
-   "en": "Fiiinishing move!",
-   "notes": "Hissatsu (certain-kill) shout before a special move.",
-   "uncertain": [
-    "Rendered hissatsu as 'Fiiinishing move!'; could also be left as 'Hissatsu!'."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
    ]
   },
   {
    "id": "q06617",
-   "en": "God Slash... Typhooooooon!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06618",
-   "en": "Get kicked by a horse and fall to Hell!!",
-   "notes": "Japanese idiom: whoever gets in the way of lovers gets kicked by a horse. Kept literal; it is the Love Love attack context.",
-   "uncertain": [
-    "Horse idiom kept literal; English players may not get the reference ('anyone who gets between lovers gets kicked by a horse')."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "[jp]"
    ]
   },
   {
    "id": "q06619",
-   "en": "Choukyuu!! Haou!! Den'eidan!!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06620",
-   "en": "It roars and cries out to me to grasp victory!!",
-   "notes": "Second half of the famous God Finger chant (My hand burns red...). Subject restored as 'it' = the hand.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 12,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06621",
-   "en": "Goooood!! Fingeeeeeer!!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06622",
-   "en": "Heeeeat! End!!",
-   "notes": "",
-   "uncertain": [
-    "Heat End not in glossary; used the standard G Gundam form 'Heat End'."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
    ]
   },
   {
    "id": "q06623",
-   "en": "Here I go!! In the name of the School of the Undefeated of the East!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 8,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06624",
-   "en": "Erupting!! God Fingeeeeer!!",
-   "notes": "Erupting = glossary for Bakunetsu.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06625",
-   "en": "Sekiha!! Tenkyokeeeeeen!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06626",
-   "en": "Haaaaah...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06627",
-   "en": "Sekiha! Tenkyo! God Fingeeeeer!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06628",
-   "en": "Teryaaaaah!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": [
+    "[jp]"
+   ]
   },
   {
    "id": "q06629",
-   "en": "Now, for the finishing touch!",
-   "notes": "Shared Domon/Rain combo set; Domon's line.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06630",
-   "en": "Right!",
-   "notes": "Rain's reply.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06631",
-   "en": "These hands of ours are burning red!",
-   "notes": "Sekiha Love Love Tenkyoken chant, said together.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06632",
-   "en": "Telling us to grasp happiness!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06633",
-   "en": "They roar and cry out!",
-   "notes": "",
-   "uncertain": [
-    "Pronoun 'They' = the two hands from q06631; chant is split across three rows."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
    ]
   },
   {
    "id": "q06634",
-   "en": "Eruptiiiing!! Goooood Fingeeeeer!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06635",
-   "en": "Seki!",
-   "notes": "First syllable of Sekiha, split between the two speakers with the next row.",
-   "uncertain": [
-    "Seki / Ha split of Sekiha across two rows, each likely said by a different speaker; kept as syllables."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
    ]
   },
   {
    "id": "q06636",
-   "en": "Ha!",
-   "notes": "Second syllable of Sekiha.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06637",
-   "en": "Loooove Love, Tenkyokeeeeeeeen!",
-   "notes": "Sekiha Love Love Tenkyoken (glossary), stretched.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ドモン・カッシュ",
+   "speaker_en": "Domon Kasshu",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": [
+    "[jp]",
+    "[jp]"
+   ]
   },
   {
    "id": "q06638",
-   "en": "Take thiiiis!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06639",
-   "en": "Take thiiis!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06640",
-   "en": "Uuuuh, toryaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06641",
-   "en": "Uhahauhauhahahahahaha!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06642",
-   "en": "Take thiiiis!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06643",
-   "en": "Kwaaaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06644",
-   "en": "You're not getting away!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06645",
-   "en": "Diiiiiieeeeeeee!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06646",
-   "en": "Uwaaaaaah, whoa!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06647",
-   "en": "Whoa, whoa!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06648",
-   "en": "Uoooooooh!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06649",
-   "en": "Tsuooooooh!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06650",
-   "en": "What!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06651",
-   "en": "Uwaaaaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06652",
-   "en": "Shut up!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06653",
-   "en": "Not bad!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06654",
-   "en": "What the hell d'you think you're doin', huh?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06655",
-   "en": "You're a real pain, y'know that?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06656",
-   "en": "Don't get in my way!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06657",
-   "en": "Where're you aiming, you idiot!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06658",
-   "en": "A slow turtle's attack could never hit the great me!",
-   "notes": "Identical to q06660 except punctuation; same English.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06659",
-   "en": "Yeeeehahaha, that won't work on me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06660",
-   "en": "A slow turtle's attack could never hit the great me!",
-   "notes": "Identical to q06658 except punctuation; same English.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06661",
-   "en": "Ugh, is this it?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 3,
+   "also": []
   },
   {
    "id": "q06662",
-   "en": "Diiiieeee!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06663",
-   "en": "Uuuuuuuuoh...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06664",
-   "en": "Heeere's the finisher!",
-   "notes": "Todome (finishing blow) shout.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06665",
-   "en": "Wiiind Fiiiiire!",
-   "notes": "",
-   "uncertain": [
-    "Wind Fire (Michelo) is not in the glossary; romanized from the katakana. Needs akurasu/wiki check."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06666",
-   "en": "Hyper Silver Legs Speciaaaaal!",
-   "notes": "Silver Legs from glossary (terms, technique).",
-   "uncertain": [
-    "Glossary has 'Silver Legs' for Michelo's technique; extended as 'Hyper Silver Legs Special'."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ミケロ・チャリオット",
+   "speaker_en": "Michelo Chariot",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06667",
-   "en": "Go down!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06668",
-   "en": "Hyah!",
-   "notes": "",
-   "uncertain": [
-    "Shared with Sayaka Yumi; neutral attack shout works for both."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": [
+    "弓さやか"
    ]
   },
   {
    "id": "q06669",
-   "en": "Just fall!!",
-   "notes": "",
-   "uncertain": [
-    "q06667 and q06669 both mean 'fall/go down'; given different wording to keep them distinct."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06670",
-   "en": "Just because I'm a woman... doesn't mean I'll lose!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06671",
-   "en": "Don't you underestimate me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06672",
-   "en": "I'll pull this off!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06673",
-   "en": "Y-you've got to be kidding...!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06674",
-   "en": "Kyaaaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06675",
-   "en": "Aaaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06676",
-   "en": "Waaaaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06677",
-   "en": "Kyaaah! N-no... at this rate...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06678",
-   "en": "Aaah!! I-I'm going to be taken down!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06679",
-   "en": "N-no! Hold out a little longer!!",
-   "notes": "Addressed to her own machine, asking it to hold out.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06680",
-   "en": "Kyaaaah! Th-that can't be!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06681",
-   "en": "Aaah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06682",
-   "en": "Ah! Ah! ...Ngh, I-I have to pull myself together!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06683",
-   "en": "Aah!! Y-you're good!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06684",
-   "en": "N-not yet! I'm just getting started!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06685",
-   "en": "Ngh! Th-this is nothing!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06686",
-   "en": "Ow! I won't let you!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06687",
-   "en": "Augh! I-I can fight too!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06688",
-   "en": "Kyaa! I-it'll take more than this!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06689",
-   "en": "It hit me?! But this much I can handle!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06690",
-   "en": "Ah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06691",
-   "en": "Aah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06692",
-   "en": "Aah!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06693",
-   "en": "Aah! So what, it's only this much!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06694",
-   "en": "Not yet!! This is nothing!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06695",
-   "en": "No!! ...Oh, it missed?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06696",
-   "en": "Like that's going to hit me!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": []
   },
   {
    "id": "q06697",
-   "en": "No! Stay away from me!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06698",
-   "en": "Eek! Hey, that was dangerous!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06699",
-   "en": "Ph-phew, looks like it didn't hit me",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06700",
-   "en": "Not yet!! This is nothing at all!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06701",
-   "en": "Something like this won't work on me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06702",
-   "en": "Eek! I-I think I'm okay",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06703",
-   "en": "A beam like this, I can take!!",
-   "notes": "Ends on 'nara' with the rest implied; completed as 'I can take'.",
-   "uncertain": [
-    "Source trails off after 'if it's a beam like this'; completed as 'I can take' to keep a verb. Could stay as a fragment."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06704",
-   "en": "What? I'm out of ammo?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06705",
-   "en": "I'm out of energy!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06706",
-   "en": "It's no good! It's too far from here!",
-   "notes": "Out-of-range line.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06707",
-   "en": "N-no way!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06708",
-   "en": "This will settle it!!",
-   "notes": "",
-   "uncertain": [
-    "Shared with Aqua Centrum; works for both."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 20,
+   "also": [
+    "[jp]",
+    "無し"
    ]
   },
   {
    "id": "q06709",
-   "en": "I won't let you!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q06710",
-   "en": "Sure kill, sure hit!",
-   "notes": "Hissatsu hicchuu; 'Sure Hit' follows glossary 必中.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06711",
-   "en": "Rising Arrowww!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06712",
-   "en": "Rising Arroooowww!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q06713",
-   "en": "Sure kill, sure hiiit!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "レイン・ミカムラ",
+   "speaker_en": "Rain Mikamura",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10013",
-   "en": "Crush... everything... I'll crush anything and everything!",
-   "notes": "Argo under DG Cell control: broken, menacing delivery.",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10014",
-   "en": "Heheheh... I can feel it... the power welling up...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10015",
-   "en": "I'll grind you to mincemeat... I swear it...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10016",
-   "en": "Don't think you'll always win...! Domon Kasshu!",
-   "notes": "Addressed to Domon.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10017",
-   "en": "Heheheh... so you're coming at me...",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10018",
-   "en": "Impossible! Me! The way I am now... losing?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10019",
-   "en": "I'll kill you... you insolent bastard... I'll kill you for sure!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10020",
-   "en": "That's enough to make me angry... next time, you die...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10021",
-   "en": "How boring... You think you can beat me with this?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10022",
-   "en": "Pathetic... You're far too pathetic, you bastard...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10023",
-   "en": "Boring... Quit the boring tricks and come at me head-on!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 4,
+   "also": []
   },
   {
    "id": "q10024",
-   "en": "Come closer! Closer! Come closer to me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10025",
-   "en": "Move...! Or do you want to be crushed along with the rest?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10026",
-   "en": "...!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10027",
-   "en": "...!",
-   "notes": "",
-   "uncertain": [
-    "Shared with George and Chibodee; wordless, works for all."
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 11,
+   "also": [
+    "[jp]",
+    "[jp]"
    ]
   },
   {
    "id": "q10028",
-   "en": "Everything! I'll smash everything to pieces! Nuoooooh!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10029",
-   "en": "Die...! Gaia... Crusher!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "アルゴ・ガルスキー",
+   "speaker_en": "Argo Gulski",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10030",
-   "en": "The power's overflowing...! With this... I won't lose to anyone!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10031",
-   "en": "I'm not the same me as before... not anymore!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10032",
-   "en": "I can win... I can beat anybody!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10033",
-   "en": "Bro... this time I'm gonna win... I won't lose!",
-   "notes": "Aniki = Domon; 'Bro' as Sai's usual address.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10034",
-   "en": "Now... it's your turn to die. Your turn to die, pal!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10035",
-   "en": "Hehehe... I'll pay you back... with plenty of interest!",
-   "notes": "",
-   "uncertain": [
-    "'Payback with plenty of interest' adds the idiom 'interest' for 'generously'."
-   ]
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10036",
-   "en": "I won't accept it! My power's way more than this!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10037",
-   "en": "Now you've made me mad... for real this time!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10038",
-   "en": "No way... I was supposed to have invincible power!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10039",
-   "en": "That's a fun trick... Guess you've just gotta die, pal!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10040",
-   "en": "I'll kill you, okay? ...I'll kill you for sure!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10041",
-   "en": "That doesn't even count as a hit. You're weak, pal!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10042",
-   "en": "Hehehe... did you do something?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10043",
-   "en": "Useless! It's way too useless! Hahahahahaha!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10044",
-   "en": "Moron! Missiles don't work on me!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10045",
-   "en": "Heheheh... you're not too bright, huh?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10046",
-   "en": "Not bad... that pisses me off... It really pisses me off!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 3,
+   "also": []
   },
   {
    "id": "q10047",
-   "en": "Move! I said get outta my way!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10048",
-   "en": "......",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10049",
-   "en": "Get smashed to bits by my Feilong Flag!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10050",
-   "en": "Like you could ever see through my Bueikyaku!",
-   "notes": "Bueikyaku from glossary (No-Shadow Kick).",
-   "uncertain": [
-    "Used 'Bueikyaku' short form of the glossary entry 'Bueikyaku (No-Shadow Kick)'; brackets omitted."
-   ]
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10051",
-   "en": "I'm gonna turn you into charcoal!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "サイ・サイシー",
+   "speaker_en": "Sai Saici",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10052",
-   "en": "I'll have you die... and make very sure of it",
-   "notes": "",
-   "uncertain": [
-    "George's polite-menacing tone; 'I'll have you die' keeps the polite causative feel. Could be 'You will die... I'll make sure of it'."
-   ]
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10053",
-   "en": "With this power... I won't lose... I am the victor!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10054",
-   "en": "I won't lose to you anymore! I said I won't lose!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10055",
-   "en": "You dare defy me? ...Then you have no choice but to die!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10056",
-   "en": "U... uuugh...!?",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10057",
-   "en": "I, who gained this power... losing?! That can't be!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10058",
-   "en": "I won't forgive this, from the likes of you!",
-   "notes": "Damage reaction: outrage that someone like the enemy hurt him.",
-   "uncertain": [
-    "Literal object of 'won't forgive' is implied (the enemy hurting him); rendered as 'this'."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10059",
-   "en": "Weak... You're not even worth talking about",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10060",
-   "en": "Fuhahaha! Naive, so naive!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": []
   },
   {
    "id": "q10061",
-   "en": "You think you can hit me? Don't mock me, you fool!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 3,
+   "also": []
   },
   {
    "id": "q10062",
-   "en": "You... You intend to make a fool of me?!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10063",
-   "en": "Move, move! Get out of my way!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 2,
+   "also": []
   },
   {
    "id": "q10064",
-   "en": "I'll cut you to ribbons... Kukukukuku",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10065",
-   "en": "Destroy everything! Rooooose Bit!",
-   "notes": "Rose Bit from glossary, stretched.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10066",
-   "en": "This power... a splendid power of destruction! Roooose! Screamer!",
-   "notes": "Rose Screamer from glossary, stretched.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "ジョルジュ・ド・サンド",
+   "speaker_en": "George De Sand",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10067",
-   "en": "I won't lose to anybody... I'm the champion!!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10068",
-   "en": "This power... yeah, this is the power I wanted!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10069",
-   "en": "Domon... with this power... I won't lose to you again...!",
-   "notes": "Addressed to Domon.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10070",
-   "en": "Gaaah! No way! Me! Me, of all people!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10071",
-   "en": "I'll never forgive you... doing that to me, the Champ...!",
-   "notes": "Outrage at what the enemy did to him; 'the Champ' = Chibodee's self-image.",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10072",
-   "en": "I'm still goin' strong, I can take it with no guard!",
-   "notes": "",
-   "uncertain": [
-    "Unclear nuance of the trailing hearsay particle; read as boasting he can still fight with no guard."
-   ]
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10073",
-   "en": "You think that'll KO me?! Ha!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10074",
-   "en": "You call that aiming? What a joke, hyahahaha!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10075",
-   "en": "You think that kinda thing works on me? Naive, way too naive",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 6,
+   "also": []
   },
   {
    "id": "q10076",
-   "en": "Pulling a stunt like that... I'll kill you for sure...!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10077",
-   "en": "I'll grind you into mincemeat... with my punches! Hahaa!",
-   "notes": "",
-   "uncertain": []
+   "jp_lines": 2,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   },
   {
    "id": "q10078",
-   "en": "Burn to a crisp with this, damn it!",
-   "notes": "",
-   "uncertain": [
-    "Original says become burnt charcoal; rendered 'burn to a crisp'."
-   ]
+   "jp_lines": 1,
+   "open": true,
+   "close": true,
+   "speaker_jp": "チボデー・クロケット",
+   "speaker_en": "Chibodee Crocket",
+   "series_en": "Mobile Fighter G Gundam",
+   "uses": 1,
+   "also": []
   }
  ]
 }

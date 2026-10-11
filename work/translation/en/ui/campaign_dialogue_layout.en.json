@@ -1,0 +1,1362 @@
+{
+ "rows": [
+  {
+   "english_key": "9605b4995d09f308bae372def8ce9a8880868c0d27fb855d41ab209e59b906e7",
+   "speaker": "Yuratei",
+   "body": "The time has come for our Hau Dragon to rise again!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「The time has come for our Hau Dragon to",
+    "　rise again!」"
+   ],
+   "psp_widths": [
+    324,
+    95
+   ],
+   "ps2_widths": [
+    500,
+    129
+   ],
+   "line_limit": 348,
+   "appearances": [
+    [
+     7,
+     32
+    ]
+   ]
+  },
+  {
+   "english_key": "2c2db443d3d8a23e4558cf251937416fa97a9b7d6387204415653fe7aa9d8bcd",
+   "speaker": "Yuratei",
+   "body": "Now Hau Dragon shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「Now Hau Dragon shall muster all its might",
+    "　and turn the world into the underworld... And I,",
+    "　Yuratei, shall become its ruler... the Lord of Hades!」"
+   ],
+   "psp_widths": [
+    325,
+    305,
+    346
+   ],
+   "ps2_widths": [
+    502,
+    453,
+    516
+   ],
+   "line_limit": 350,
+   "appearances": [
+    [
+     7,
+     35
+    ]
+   ]
+  },
+  {
+   "english_key": "a37ea03f56cd7ed849de5c43b11e3b544170b062ce79b464734ff310cc5e7133",
+   "speaker": "Giso",
+   "body": "The vile criminal who stole Zeorymer of the Heavens from Hau Dragon fifteen years ago and destroyed the fortress's central core!",
+   "kind": "dialogue",
+   "lines": [
+    "Giso「The vile criminal who stole Zeorymer of the",
+    "　Heavens from Hau Dragon fifteen years ago and",
+    "　destroyed the fortress's central core!」"
+   ],
+   "psp_widths": [
+    316,
+    321,
+    258
+   ],
+   "ps2_widths": [
+    493,
+    482,
+    386
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     38
+    ]
+   ]
+  },
+  {
+   "english_key": "5d950d592ae8dccf7638c96e00de003ae538e7d8472ee3bc440cf27100c686b7",
+   "speaker": "Yuratei",
+   "body": "Mighty Hakkeshu, the pride of Hau Dragon! Who among you will undertake this mission...!?",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「Mighty Hakkeshu, the pride of Hau Dragon!",
+    "　Who among you will undertake this mission...!?」"
+   ],
+   "psp_widths": [
+    335,
+    325
+   ],
+   "ps2_widths": [
+    512,
+    483
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     44
+    ]
+   ]
+  },
+  {
+   "english_key": "db2a7355bf5d604033990e7681c14a806f8a8bfdff144c5472f7bf52c2a55663",
+   "speaker": "Taiha",
+   "body": "Lanstar of the Winds shall bring Hau Dragon its first victory.",
+   "kind": "dialogue",
+   "lines": [
+    "Taiha「Lanstar of the Winds shall bring Hau Dragon",
+    "　its first victory.」"
+   ],
+   "psp_widths": [
+    328,
+    127
+   ],
+   "ps2_widths": [
+    506,
+    182
+   ],
+   "line_limit": 345,
+   "appearances": [
+    [
+     7,
+     51
+    ]
+   ]
+  },
+  {
+   "english_key": "26dab1d3c7d6611a546d4aed41a55d40f603033e4f7002123067630a7671d53b",
+   "speaker": "Taiha",
+   "body": "You want me to prove myself a man worthy of loving the leader of Hau Dragon... Is that what you mean?",
+   "kind": "dialogue",
+   "lines": [
+    "Taiha「You want me to prove myself a man worthy",
+    "　of loving the leader of Hau Dragon... Is that what",
+    "　you mean?」"
+   ],
+   "psp_widths": [
+    332,
+    327,
+    101
+   ],
+   "ps2_widths": [
+    514,
+    483,
+    138
+   ],
+   "line_limit": 349,
+   "appearances": [
+    [
+     7,
+     80
+    ]
+   ]
+  },
+  {
+   "english_key": "b7566b462b5183c55ecc48819827b7235ae91287d63cd621824e0dc0692aa2ff",
+   "speaker": "Yuratei",
+   "body": "I am the Empress of Hau Dragon... I could not single you out and tell you to come back alive...",
+   "kind": "thought",
+   "lines": [
+    "Yuratei （I am the Empress of Hau Dragon... I could",
+    "　not single you out and tell you to come back alive...）"
+   ],
+   "psp_widths": [
+    327,
+    350
+   ],
+   "ps2_widths": [
+    497,
+    528
+   ],
+   "line_limit": 350,
+   "appearances": [
+    [
+     7,
+     87
+    ]
+   ]
+  },
+  {
+   "english_key": "37e15d1ab34ff602a2e179c7906282550f9a9f6bb9b1e2c6af06d08cdb96d992",
+   "speaker": "Miku",
+   "body": "Yes. It is another name for the secret society Hau Dragon.",
+   "kind": "dialogue",
+   "lines": [
+    "Miku「Yes. It is another name for the secret society",
+    "　Hau Dragon.」"
+   ],
+   "psp_widths": [
+    325,
+    112
+   ],
+   "ps2_widths": [
+    507,
+    150
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     294
+    ]
+   ]
+  },
+  {
+   "english_key": "d36b1a0b523c278e8bef479128a74ab0b3a3669742b6d082213213bc35db2612",
+   "speaker": "Masato",
+   "body": "A secret society... Hau Dragon...?",
+   "kind": "dialogue",
+   "lines": [
+    "Masato「A secret society... Hau Dragon...?」"
+   ],
+   "psp_widths": [
+    291
+   ],
+   "ps2_widths": [
+    441
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     295
+    ]
+   ]
+  },
+  {
+   "english_key": "cf0e52517c264dd0d830f6004936738f1996d8bc9f0795e2a9482a5e4febbb87",
+   "speaker": "Taiha",
+   "body": "Watch me, Yuratei. I'll prove to you who the greatest warrior among Hau Dragon's Hakkeshu is...!",
+   "kind": "thought",
+   "lines": [
+    "Taiha （Watch me, Yuratei. I'll prove to you who the",
+    "　greatest warrior among Hau Dragon's Hakkeshu",
+    "　is...!）"
+   ],
+   "psp_widths": [
+    335,
+    319,
+    57
+   ],
+   "ps2_widths": [
+    511,
+    472,
+    66
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     316
+    ]
+   ]
+  },
+  {
+   "english_key": "ddcbb9156bc079bad28450ed8b7bfc643716c338cb67569124e219e5be776886",
+   "speaker": "Yuratei",
+   "body": "...Before I was chosen as Empress of Hau Dragon, I too was one of the Hakkeshu...",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「...Before I was chosen as Empress of Hau",
+    "　Dragon, I too was one of the Hakkeshu...」"
+   ],
+   "psp_widths": [
+    321,
+    292
+   ],
+   "ps2_widths": [
+    491,
+    425
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     7,
+     573
+    ]
+   ]
+  },
+  {
+   "english_key": "ff99b550e5a4014848a122c491ff9a2c37d052e6e6a93591f90da2d8b3ca13f5",
+   "speaker": "Yuratei",
+   "body": "That \"Heaven\" is the key to our Hau Dragon's cherished ambition, the \"Hades Project\"! You must bring it back!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「That \"Heaven\" is the key to our Hau",
+    "　Dragon's cherished ambition, the \"Hades Project\"!",
+    "　You must bring it back!」"
+   ],
+   "psp_widths": [
+    284,
+    322,
+    175
+   ],
+   "ps2_widths": [
+    442,
+    475,
+    254
+   ],
+   "line_limit": 343,
+   "appearances": [
+    [
+     7,
+     577
+    ]
+   ]
+  },
+  {
+   "english_key": "7120b2a3a157adde1b656f11c8435f04ebd1b951aacb9da0ae825cece1a4a44b",
+   "speaker": "Saiga",
+   "body": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Hau Dragon.",
+   "kind": "dialogue",
+   "lines": [
+    "Saiga「It concerns measures against those besides",
+    "　Zeorymer of the Heavens who might stand in the",
+    "　way of our Hau Dragon.」"
+   ],
+   "psp_widths": [
+    313,
+    323,
+    186
+   ],
+   "ps2_widths": [
+    488,
+    485,
+    267
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     12,
+     24
+    ]
+   ]
+  },
+  {
+   "english_key": "2b391fcfd37b79520d0b5a61cfa516665c3de3ad70416ad06bd29bdc6147f07a",
+   "speaker": "Miku",
+   "body": "Oki told you about the Iron Dragon... Hau Dragon, didn't he?",
+   "kind": "dialogue",
+   "lines": [
+    "Miku「Oki told you about the Iron Dragon... Hau",
+    "　Dragon, didn't he?」"
+   ],
+   "psp_widths": [
+    305,
+    146
+   ],
+   "ps2_widths": [
+    466,
+    204
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     12,
+     53
+    ]
+   ]
+  },
+  {
+   "english_key": "dcc76c6e6f7c97aa61a4a559b0659cc5081cd035780ed9ecdb0838ad56c5a5e2",
+   "speaker": "Shi-Tau",
+   "body": "What nonsense... Hau Dragon shall rule the world... We have no need of allies!",
+   "kind": "dialogue",
+   "lines": [
+    "Shi-Tau「What nonsense... Hau Dragon shall rule the",
+    "　world... We have no need of allies!」"
+   ],
+   "psp_widths": [
+    331,
+    246
+   ],
+   "ps2_widths": [
+    506,
+    362
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     12,
+     283
+    ]
+   ]
+  },
+  {
+   "english_key": "a0560d9bd3f43090019ec0eed24f1940945d58229b9d558d72b7cc38e070f809",
+   "speaker": "Haruka",
+   "body": "But on the Yangtze route, Hau Dragon may target us. Their headquarters are said to be in southern China.",
+   "kind": "dialogue",
+   "lines": [
+    "Haruka「But on the Yangtze route, Hau Dragon may",
+    "　target us. Their headquarters are said to be in",
+    "　southern China.」"
+   ],
+   "psp_widths": [
+    334,
+    297,
+    129
+   ],
+   "ps2_widths": [
+    511,
+    448,
+    179
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     16,
+     10
+    ],
+    [
+     17,
+     28
+    ]
+   ]
+  },
+  {
+   "english_key": "4112140bbc9a1218013b47fd0bb629fa0b9a90f0cc991e495c00ed4f270dcbcb",
+   "speaker": "Dr. Plato",
+   "body": "the Hau Dragon with its special machines, Dolems, Angels and the like would be difficult.",
+   "kind": "dialogue",
+   "lines": [
+    "Dr. Plato「the Hau Dragon with its special machines,",
+    "　Dolems, Angels and the like would be difficult.」"
+   ],
+   "psp_widths": [
+    334,
+    318
+   ],
+   "ps2_widths": [
+    508,
+    477
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     18,
+     79
+    ]
+   ]
+  },
+  {
+   "english_key": "d673faad2f6c15adba6b6bbc1b1c3df1937f5f980656ba25b6702a35560f9143",
+   "speaker": "Kaine",
+   "body": "We'll never be able to live in peace as long as the likes of Giganos, Hau Dragon and Gulfer are around!",
+   "kind": "dialogue",
+   "lines": [
+    "Kaine「We'll never be able to live in peace as long as",
+    "　the likes of Giganos, Hau Dragon and Gulfer are",
+    "　around!」"
+   ],
+   "psp_widths": [
+    329,
+    315,
+    78
+   ],
+   "ps2_widths": [
+    515,
+    472,
+    101
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     18,
+     649
+    ]
+   ]
+  },
+  {
+   "english_key": "a7a5a94a1665fee297a3d7076b6f920bd7525117a97e2516fc637348e35b2134",
+   "speaker": "Prospector",
+   "body": "Giganos, Gulfer, the Mu... The Hyakki Empire and Hau Dragon... Plus the Vegan Empire, and the Angels on top of that.",
+   "kind": "dialogue",
+   "lines": [
+    "Prospector「Giganos, Gulfer, the Mu... The Hyakki",
+    "　Empire and Hau Dragon... Plus the Vegan Empire, and",
+    "　the Angels on top of that.」"
+   ],
+   "psp_widths": [
+    319,
+    351,
+    194
+   ],
+   "ps2_widths": [
+    486,
+    515,
+    281
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     18,
+     1201
+    ]
+   ]
+  },
+  {
+   "english_key": "7b1937340fc9451e8c4bbc9cb3f06ac6da7855702ceb4a86abed7bf3493f264a",
+   "speaker": "Shi-Aen",
+   "body": "You are in the presence of Hau Dragon's leader. Restrain yourself.",
+   "kind": "dialogue",
+   "lines": [
+    "Shi-Aen「You are in the presence of Hau Dragon's",
+    "　leader. Restrain yourself.」"
+   ],
+   "psp_widths": [
+    316,
+    185
+   ],
+   "ps2_widths": [
+    486,
+    271
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     19,
+     144
+    ]
+   ]
+  },
+  {
+   "english_key": "f6b81ab1a82addafa7ec1aa572a593b022b65ee9d6e920a56002bad35b0ef9b4",
+   "speaker": "Masato",
+   "body": "Hau Dragon?! Its leader?!",
+   "kind": "dialogue",
+   "lines": [
+    "Masato「Hau Dragon?! Its leader?!」"
+   ],
+   "psp_widths": [
+    239
+   ],
+   "ps2_widths": [
+    363
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     19,
+     145
+    ]
+   ]
+  },
+  {
+   "english_key": "28d5d9e7b75df71d3ac5fcdc440efe89e2b545b3936a5a87e6671e13ec025c1c",
+   "speaker": "Yuratei",
+   "body": "That is the greatest crime of all against us of Hau Dragon!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「That is the greatest crime of all against us",
+    "　of Hau Dragon!」"
+   ],
+   "psp_widths": [
+    323,
+    130
+   ],
+   "ps2_widths": [
+    507,
+    179
+   ],
+   "line_limit": 340,
+   "appearances": [
+    [
+     19,
+     158
+    ]
+   ]
+  },
+  {
+   "english_key": "051f22d903e6bf8db9037cb9f92a96b19071d876c45c9bf7cfeef14f31d1695b",
+   "speaker": "Yuratei",
+   "body": "We of Hau Dragon were planning to assemble an army of giant robots to conquer the world... That was fifteen years ago now.",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「We of Hau Dragon were planning to",
+    "　assemble an army of giant robots to conquer the",
+    "　world... That was fifteen years ago now.」"
+   ],
+   "psp_widths": [
+    287,
+    318,
+    289
+   ],
+   "ps2_widths": [
+    443,
+    480,
+    429
+   ],
+   "line_limit": 346,
+   "appearances": [
+    [
+     19,
+     169
+    ]
+   ]
+  },
+  {
+   "english_key": "48a512a66e6390cf3c88c86801eeefd520a40fa945327c2aa81f37f2df48a8ba",
+   "speaker": "Yuratei",
+   "body": "And the man named Masaki Kihara, who built Zeorymer for Hau Dragon...",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「And the man named Masaki Kihara, who",
+    "　built Zeorymer for Hau Dragon...」"
+   ],
+   "psp_widths": [
+    317,
+    237
+   ],
+   "ps2_widths": [
+    486,
+    347
+   ],
+   "line_limit": 345,
+   "appearances": [
+    [
+     19,
+     172
+    ]
+   ]
+  },
+  {
+   "english_key": "2310c002ca24e11d7e0126c90bfd4f4f2fb0b2ef4129f5e5e6f83b672e9e15c5",
+   "speaker": "Misato",
+   "body": "Yes. That one was stolen from Hau Dragon. By one particular man.",
+   "kind": "dialogue",
+   "lines": [
+    "Misato「Yes. That one was stolen from Hau Dragon.",
+    "　By one particular man.」"
+   ],
+   "psp_widths": [
+    334,
+    173
+   ],
+   "ps2_widths": [
+    516,
+    247
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     19,
+     639
+    ]
+   ]
+  },
+  {
+   "english_key": "4c0feab3134caf6335fb57b899a494c4781c3fcb02537ee1181eb3422c28c8c0",
+   "speaker": "Yuratei",
+   "body": "Zeorymer of the Heavens has now become a calamity for our Hau Dragon!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「Zeorymer of the Heavens has now become",
+    "　a calamity for our Hau Dragon!」"
+   ],
+   "psp_widths": [
+    330,
+    229
+   ],
+   "ps2_widths": [
+    512,
+    334
+   ],
+   "line_limit": 341,
+   "appearances": [
+    [
+     19,
+     674
+    ]
+   ]
+  },
+  {
+   "english_key": "5edfcc62063cf4a3b4f5840e6460096f589febb45b66dc97fb15c9e6e396efc4",
+   "speaker": "Hidler",
+   "body": "Neither Mu nor Hau Dragon has made any notable moves.",
+   "kind": "dialogue",
+   "lines": [
+    "Hidler「Neither Mu nor Hau Dragon has made any",
+    "　notable moves.」"
+   ],
+   "psp_widths": [
+    314,
+    126
+   ],
+   "ps2_widths": [
+    484,
+    176
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     20,
+     68
+    ],
+    [
+     21,
+     5
+    ]
+   ]
+  },
+  {
+   "english_key": "53a9d14926458620e8305a494583e273cd7adf7825e995589104479d15be6abf",
+   "speaker": "Miku",
+   "body": "To stop the Iron Dragon... Hau Dragon's ambitions.",
+   "kind": "dialogue",
+   "lines": [
+    "Miku「To stop the Iron Dragon... Hau Dragon's",
+    "　ambitions.」"
+   ],
+   "psp_widths": [
+    298,
+    95
+   ],
+   "ps2_widths": [
+    451,
+    128
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     21,
+     371
+    ]
+   ]
+  },
+  {
+   "english_key": "e36b6899d70e6e1ea483afc34029acd18be461c29d8c8769f630dd914d7fdc74",
+   "speaker": "Yuratei",
+   "body": "We must also prepare for the Hades Project, the cherished ambition of our Hau Dragon... We shall watch and wait for a while.",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「We must also prepare for the Hades Project,",
+    "　the cherished ambition of our Hau Dragon... We shall",
+    "　watch and wait for a while.」"
+   ],
+   "psp_widths": [
+    339,
+    346,
+    206
+   ],
+   "ps2_widths": [
+    523,
+    513,
+    299
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     21,
+     428
+    ]
+   ]
+  },
+  {
+   "english_key": "b928ce48fba1839b3d054f4436fce2d189e20801a14318b4654e8cd13a545747",
+   "speaker": "Yuratei",
+   "body": "I will not tolerate their existence. When the time is ripe, I shall mobilize all of Hau Dragon's might and obliterate them without fail...!",
+   "kind": "thought",
+   "lines": [
+    "Yuratei （I will not tolerate their existence. When the",
+    "　time is ripe, I shall mobilize all of Hau Dragon's might",
+    "　and obliterate them without fail...!）"
+   ],
+   "psp_widths": [
+    331,
+    346,
+    244
+   ],
+   "ps2_widths": [
+    514,
+    518,
+    357
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     21,
+     433
+    ]
+   ]
+  },
+  {
+   "english_key": "5c4bb49df00ebd38cbacb532c559b4e1c4fe56165cde6aa6d2013cc71b795506",
+   "speaker": "Saiga",
+   "body": "That would save us in Hau Dragon a great deal of trouble. Quite convenient, really.",
+   "kind": "dialogue",
+   "lines": [
+    "Saiga「That would save us in Hau Dragon a great",
+    "　deal of trouble. Quite convenient, really.」"
+   ],
+   "psp_widths": [
+    314,
+    279
+   ],
+   "ps2_widths": [
+    486,
+    418
+   ],
+   "line_limit": 342,
+   "appearances": [
+    [
+     24,
+     9
+    ]
+   ]
+  },
+  {
+   "english_key": "373d6432385173264adfcaaac16eea2408c1dc224198b37debacbab602d819aa",
+   "speaker": "Rockfell",
+   "body": "At present, the forces that clearly stand in our Hau Dragon's way are...",
+   "kind": "dialogue",
+   "lines": [
+    "Rockfell「At present, the forces that clearly stand in",
+    "　our Hau Dragon's way are...」"
+   ],
+   "psp_widths": [
+    329,
+    209
+   ],
+   "ps2_widths": [
+    512,
+    300
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     24,
+     19
+    ]
+   ]
+  },
+  {
+   "english_key": "7fc62c8c2e272c3efa0ae89ac70889a872e67c0fb8c120cc6b3517012ab9eaf5",
+   "speaker": "Yuratei",
+   "body": "...For my Hau Dragon, the foremost enemy is Zeorymer of the Heavens...",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「...For my Hau Dragon, the foremost enemy",
+    "　is Zeorymer of the Heavens...」"
+   ],
+   "psp_widths": [
+    332,
+    217
+   ],
+   "ps2_widths": [
+    507,
+    318
+   ],
+   "line_limit": 344,
+   "appearances": [
+    [
+     24,
+     30
+    ]
+   ]
+  },
+  {
+   "english_key": "3190337d7503953f7376cdbe5634a677664dde5ebadd397f0706855143197df0",
+   "speaker": "Luhran",
+   "body": "Otherwise, I would never have brought him to this Hau Dragon fortress.",
+   "kind": "dialogue",
+   "lines": [
+    "Luhran「Otherwise, I would never have brought him to",
+    "　this Hau Dragon fortress.」"
+   ],
+   "psp_widths": [
+    345,
+    190
+   ],
+   "ps2_widths": [
+    527,
+    275
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     24,
+     80
+    ]
+   ]
+  },
+  {
+   "english_key": "0947c06e93927ac1b906601c9bbde2b753251c5d1fb6beb4e3734e171daea818",
+   "speaker": "Luhran",
+   "body": "Then you could attack #部隊名 on your own. Why did you approach us, the Hau Dragon?",
+   "kind": "dialogue",
+   "lines": [
+    "Luhran「Then you could attack #部隊名",
+    "　on your own. Why did you approach us, the Hau",
+    "　Dragon?」"
+   ],
+   "psp_widths": [
+    330,
+    318,
+    87
+   ],
+   "ps2_widths": [
+    502,
+    471,
+    113
+   ],
+   "line_limit": 348,
+   "appearances": [
+    [
+     24,
+     88
+    ]
+   ]
+  },
+  {
+   "english_key": "3953a8e1e63b5fa9647791bfd8bce200412ec9348a8db39820b3e87568b4ed69",
+   "speaker": "Luhran",
+   "body": "Ugh...! Y-yes, the Hau Dragon Fortress was restored by adapting some of your technology.",
+   "kind": "dialogue",
+   "lines": [
+    "Luhran「Ugh...! Y-yes, the Hau Dragon Fortress was",
+    "　restored by adapting some of your technology.」"
+   ],
+   "psp_widths": [
+    333,
+    323
+   ],
+   "ps2_widths": [
+    502,
+    485
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     24,
+     90
+    ]
+   ]
+  },
+  {
+   "english_key": "8f6db5abacde0f8372f074afe1b832736f4eb484f7d16fe605b7eb0e1d2ab9ab",
+   "speaker": "Hokushin",
+   "body": "...Now I know the exact location of the Hau Dragon Fortress. All that remains is...",
+   "kind": "thought",
+   "lines": [
+    "Hokushin （...Now I know the exact location of the",
+    "　Hau Dragon Fortress. All that remains is...）"
+   ],
+   "psp_widths": [
+    324,
+    294
+   ],
+   "ps2_widths": [
+    492,
+    432
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     24,
+     96
+    ]
+   ]
+  },
+  {
+   "english_key": "a0fa6808b73a06203e731b8a53fa71854179739927f8aa5a73d8f2168af7a49b",
+   "speaker": "Fuyutsuki",
+   "body": "I never expected Hau Dragon to target this place. Do they intend this as a preliminary battle...?",
+   "kind": "dialogue",
+   "lines": [
+    "Fuyutsuki「I never expected Hau Dragon to target this",
+    "　place. Do they intend this as a preliminary battle...?」"
+   ],
+   "psp_widths": [
+    342,
+    352
+   ],
+   "ps2_widths": [
+    526,
+    525
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     26,
+     157
+    ]
+   ]
+  },
+  {
+   "english_key": "1bb8e998abcd8ee11cfb701a1a9e1e25ceb5f60b58e9a567f4032325e715510d",
+   "speaker": "Quattro",
+   "body": "You would burn down a city for that...! Hau Dragon... It seems this organization is even more dangerous than I expected...!",
+   "kind": "dialogue",
+   "lines": [
+    "Quattro「You would burn down a city for that...! Hau",
+    "　Dragon... It seems this organization is even more",
+    "　dangerous than I expected...!」"
+   ],
+   "psp_widths": [
+    337,
+    319,
+    211
+   ],
+   "ps2_widths": [
+    520,
+    475,
+    301
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     26,
+     180
+    ]
+   ]
+  },
+  {
+   "english_key": "826fc3ab54b2e5269188353cb121042ff20238c778d886126030598c3372c059",
+   "speaker": "Giso",
+   "body": "Once our Hau Dragon's final plan begins, this whole world will become the realm of the dead anyway. It's just a matter of sooner or later.",
+   "kind": "dialogue",
+   "lines": [
+    "Giso「Once our Hau Dragon's final plan begins, this",
+    "　whole world will become the realm of the dead",
+    "　anyway. It's just a matter of sooner or later.」"
+   ],
+   "psp_widths": [
+    321,
+    308,
+    310
+   ],
+   "ps2_widths": [
+    496,
+    461,
+    465
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     26,
+     210
+    ]
+   ]
+  },
+  {
+   "english_key": "24de1366ed861cc95891f6b1461b75077f51c59e664f3bb12731dd0bb5e2d8b0",
+   "speaker": "Masato",
+   "body": "Why do you hate Masaki Kihara!? Because he betrayed Hau Dragon!?",
+   "kind": "dialogue",
+   "lines": [
+    "Masato「Why do you hate Masaki Kihara!? Because",
+    "　he betrayed Hau Dragon!?」"
+   ],
+   "psp_widths": [
+    333,
+    197
+   ],
+   "ps2_widths": [
+    511,
+    283
+   ],
+   "line_limit": 351,
+   "appearances": [
+    [
+     28,
+     494
+    ]
+   ]
+  },
+  {
+   "english_key": "936364b4edbe65dbc86f294c83f0767ce8cbdb9802e45c15bd3fe201c53b824c",
+   "speaker": "Ritsu",
+   "body": "That's right! That woman is now being held captive inside Hau Dragon's fortress!",
+   "kind": "dialogue",
+   "lines": [
+    "Ritsu「That's right! That woman is now being held",
+    "　captive inside Hau Dragon's fortress!」"
+   ],
+   "psp_widths": [
+    316,
+    260
+   ],
+   "ps2_widths": [
+    488,
+    384
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     28,
+     531
+    ]
+   ]
+  },
+  {
+   "english_key": "82c0adb37e90300e68fa51d05b338f2e65172134956b005662c65263550ddf71",
+   "speaker": "Yuratei",
+   "body": "All shall perish except the chosen people of Hau Dragon, and I shall become the Lord of Hades!",
+   "kind": "dialogue",
+   "lines": [
+    "Yuratei「All shall perish except the chosen people of",
+    "　Hau Dragon, and I shall become the Lord of Hades!」"
+   ],
+   "psp_widths": [
+    331,
+    350
+   ],
+   "ps2_widths": [
+    509,
+    517
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     28,
+     773
+    ]
+   ]
+  },
+  {
+   "english_key": "8888a59f87ec59723f574033f50c8adc2ee329509ecd2800ed2bf9eafa01b7fe",
+   "speaker": "Member A",
+   "body": "...Hau Dragon seems to have entered the final phase of that plan.",
+   "kind": "dialogue",
+   "lines": [
+    "Member A「...Hau Dragon seems to have entered the",
+    "　final phase of that plan.」"
+   ],
+   "psp_widths": [
+    336,
+    182
+   ],
+   "ps2_widths": [
+    516,
+    262
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     29,
+     0
+    ]
+   ]
+  },
+  {
+   "english_key": "ed19435fa7d192e6ad9b22cefb573d4b1b2477499890f2e03554a40bc101c358",
+   "speaker": "Saiga",
+   "body": "Perhaps it's heading straight for the Hau Dragon fortress.",
+   "kind": "dialogue",
+   "lines": [
+    "Saiga「Perhaps it's heading straight for the Hau",
+    "　Dragon fortress.」"
+   ],
+   "psp_widths": [
+    301,
+    135
+   ],
+   "ps2_widths": [
+    463,
+    190
+   ],
+   "line_limit": 351,
+   "appearances": [
+    [
+     29,
+     329
+    ]
+   ]
+  },
+  {
+   "english_key": "9e9b27b3ce789587e17e3a5cba8c2f1666eb795ba13e5c0f88092a3faee5b99f",
+   "speaker": "Burai",
+   "body": "But our situation is no different. Hau Dragon has fallen, but a new organization called Gyandlar has begun to act.",
+   "kind": "dialogue",
+   "lines": [
+    "Burai「But our situation is no different. Hau Dragon",
+    "　has fallen, but a new organization called Gyandlar",
+    "　has begun to act.」"
+   ],
+   "psp_widths": [
+    322,
+    325,
+    139
+   ],
+   "ps2_widths": [
+    500,
+    490,
+    196
+   ],
+   "line_limit": 347,
+   "appearances": [
+    [
+     30,
+     54
+    ]
+   ]
+  },
+  {
+   "english_key": "0bea2c340e3d1fd1bde9c3c03abe70bb36c287c3884791e7910ddc7234882279",
+   "speaker": "Hokushin",
+   "body": "Earthlings seem terribly fond of tampering with genes. ...Like the now-extinct Hau Dragon.",
+   "kind": "dialogue",
+   "lines": [
+    "Hokushin「Earthlings seem terribly fond of tampering",
+    "　with genes. ...Like the now-extinct Hau Dragon.」"
+   ],
+   "psp_widths": [
+    334,
+    331
+   ],
+   "ps2_widths": [
+    519,
+    484
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     45,
+     216
+    ]
+   ]
+  },
+  {
+   "english_key": "c71df5a4be86dedd9f067c4211652a61ac134ee5199afe4ab219380cd5c99f36",
+   "speaker": "Fuyutsuki",
+   "body": "The old men had a hand in founding Hau Dragon... It's possible.",
+   "kind": "dialogue",
+   "lines": [
+    "Fuyutsuki「The old men had a hand in founding Hau",
+    "　Dragon... It's possible.」"
+   ],
+   "psp_widths": [
+    324,
+    169
+   ],
+   "ps2_widths": [
+    502,
+    236
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     53,
+     776
+    ]
+   ]
+  },
+  {
+   "english_key": "71a37cf9d2a02b51ae20703dba4eb01b42c1d5f3afbcd5a51b67d1a71644a2ac",
+   "speaker": "Hokushin's Six",
+   "body": "We cannot allow them to approach the Hau Dragon fortress.",
+   "kind": "dialogue",
+   "lines": [
+    "Hokushin's Six「We cannot allow them to approach",
+    "　the Hau Dragon fortress.」"
+   ],
+   "psp_widths": [
+    326,
+    188
+   ],
+   "ps2_widths": [
+    497,
+    271
+   ],
+   "line_limit": 349,
+   "appearances": [
+    [
+     56,
+     218
+    ]
+   ]
+  },
+  {
+   "english_key": "9e4a799564a70979d113a5363258a9a88faf16e1f90e7a473cca30c830ee089f",
+   "speaker": "Oki",
+   "body": "... You have a transmission from Yuratei, the leader of Hau Dragon... No, the Iron Dragon...",
+   "kind": "dialogue",
+   "lines": [
+    "Oki「... You have a transmission from Yuratei, the",
+    "　leader of Hau Dragon... No, the Iron Dragon...」"
+   ],
+   "psp_widths": [
+    318,
+    320
+   ],
+   "ps2_widths": [
+    490,
+    463
+   ],
+   "line_limit": 352,
+   "appearances": [
+    [
+     56,
+     477
+    ]
+   ]
+  },
+  {
+   "english_key": "250bfa3ad90285c95d2ea131af4a309df8b466879101efea97f605c92a9cd5a6",
+   "speaker": "Miku",
+   "body": "... The Hau Dragon fortress's location... is stored in my memory. By following it, we should be able to jump there.",
+   "kind": "dialogue",
+   "lines": [
+    "Miku「... The Hau Dragon fortress's location... is",
+    "　stored in my memory. By following it, we should be",
+    "　able to jump there.」"
+   ],
+   "psp_widths": [
+    305,
+    335,
+    150
+   ],
+   "ps2_widths": [
+    467,
+    506,
+    212
+   ],
+   "line_limit": 346,
+   "appearances": [
+    [
+     56,
+     506
+    ]
+   ]
+  },
+  {
+   "english_key": "ec33c12833f310daae91e58cf2d4b9c070a3d35a161da3a1217e00b52adffe9f",
+   "speaker": "Masato",
+   "body": "Do you mean the fortress that descended onto the former site of Hau Dragon headquarters...?",
+   "kind": "dialogue",
+   "lines": [
+    "Masato「Do you mean the fortress that descended",
+    "　onto the former site of Hau Dragon",
+    "　headquarters...?」"
+   ],
+   "psp_widths": [
+    319,
+    238,
+    133
+   ],
+   "ps2_widths": [
+    497,
+    352,
+    182
+   ],
+   "line_limit": 350,
+   "appearances": [
+    [
+     56,
+     732
+    ]
+   ]
+  }
+ ],
+ "date": "2026-10-11",
+ "scope": "Exact reviewed English line breaks; wording is preserved on both PSP and PS2"
+}

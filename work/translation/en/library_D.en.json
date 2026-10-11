@@ -1,0 +1,1092 @@
+{
+ "group": "D",
+ "units": [
+  {
+   "entry": 94,
+   "name_jp": "ガンダムマックスター",
+   "name_en": "Gundam Maxter",
+   "en": "A heavily armored, heavily armed Mobile Fighter that is the pride of Neo America. Boxer Mode, in which the chest armor is purged and the shoulder armor is fitted over the fists like gloves, is a desperate tactic that throws away defense to double its footwork. At this time, using the thrusters inside the shoulder armor also increases the destructive power of its punches. In addition, the dedicated shield is an excellent piece of equipment: it can be ridden like a surfboard and used as a transporter for high-speed movement.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 95,
+   "name_jp": "ガンダムマックスターＳ",
+   "name_en": "Gundam Maxter S",
+   "en": "Gundam Maxter with Super Mode activated.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 96,
+   "name_jp": "ガンダムローズ",
+   "name_en": "Gundam Rose",
+   "en": "A Neo France Mobile Fighter that excels in reconnaissance ability and mobility. It is a swordsmanship-based machine that makes use of the specialty of its pilot, George. Its greatest feature, however, is the Rose Bits built into the cape-type shield on its left shoulder, and its special move is an attack using countless bits that are freely controlled by brain waves. The Rose Bits are a highly versatile weapon that can also be used as a barrier or as an electromagnetic net to trap enemies, and Gundam Rose carries out a gorgeous and elegant style of combat.",
+   "notes": "",
+   "uncertain": [
+    "Pilot 'George' = George de Sand (Georges in some sources); 'specialty' = swordsmanship (fencing), inferred from the sentence."
+   ]
+  },
+  {
+   "entry": 97,
+   "name_jp": "ガンダムローズＳ",
+   "name_en": "Gundam Rose S",
+   "en": "Gundam Rose with Super Mode activated.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 98,
+   "name_jp": "ゴッドガンダム",
+   "name_en": "God Gundam",
+   "en": "The newest-model Mobile Fighter that Neo Japan had been developing for the Gundam Fight Finals. \"Mobile Fighter\" is the general term for the melee-centered mobile suits made for the Gundam Fight, and they are operated by transmitting the pilot's movements to the machine through the Mobile Trace System. For this reason the pilot must have the makings of a martial artist. Put another way, this means no special training is required, but in reality the damage the machine takes is also transmitted to the pilot, so it can only be handled by a true martial artist whose mind and body have both been tempered. God Gundam has a built-in energy multiplier, an enhanced version of the Shining Gundam's emotional energy conversion system, and can convert the pilot's ki into energy. The state in which the machine's performance is greatly increased by this system is called Hyper Mode, and the machine shines gold. God Gundam surpasses the Shining Gundam in every respect, and even Domon, who had handled the Shining Gundam freely, was overwhelmed by its power.",
+   "notes": "",
+   "uncertain": [
+    "'Energy multiplier' (Japanese: Energy Multiplier katakana) is a literal rendering; not confirmed in an English source.",
+    "'ki' kept as a term for the pilot's inner energy."
+   ]
+  },
+  {
+   "entry": 99,
+   "name_jp": "ゴッドガンダム（騎乗）",
+   "name_en": "God Gundam (Riding)",
+   "en": "God Gundam riding Fuunsaiki.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 100,
+   "name_jp": "ゴッドガンダムＨ",
+   "name_en": "God Gundam H",
+   "en": "God Gundam with the cooling fins on its back opened to release the residual heat from activating Hyper Mode. It almost looks as if it is giving off a halo.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 101,
+   "name_jp": "ゴッドガンダムＨ（騎乗）",
+   "name_en": "God Gundam H (Riding)",
+   "en": "God Gundam riding Fuunsaiki in Hyper Mode.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 102,
+   "name_jp": "ドラゴンガンダム",
+   "name_en": "Dragon Gundam",
+   "en": "A Mobile Fighter of Neo China that emphasizes burst speed. It was designed on the premise that a martial artist would ride in it, and although it has fewer verniers than other Gundams, it has extremely high mobility. The twelve Feilong Flags in total, mounted on its back and both shoulders, are beam lances that generate flag-shaped beams, an all-purpose weapon that can be used for any purpose, including harassing fire. In addition, the Dragon Claws on both arms extend and retract freely and can also make flame attacks, and even the queue at the back of its head traces the pilot's movements, serving as a hidden weapon that strikes vital points when the enemy is caught off guard.",
+   "notes": "",
+   "uncertain": [
+    "'Feilong Flag' spelling follows the Gundam Wiki (also seen as Fei Long Flag).",
+    "'queue' = braided pigtail (bensatsu, the Qing-style braid)."
+   ]
+  },
+  {
+   "entry": 103,
+   "name_jp": "ドラゴンガンダムＳ",
+   "name_en": "Dragon Gundam S",
+   "en": "Dragon Gundam with Super Mode activated.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 104,
+   "name_jp": "ノーベルガンダム",
+   "name_en": "Nobel Gundam",
+   "en": "A Mobile Fighter of Neo Sweden. It is also the only female-type Gundam of the 13th Gundam Fight. Its armor has been pared down to the limit in favor of mobility and flexibility, and it bewilders enemies with its quick movements. Its greatest feature is the Berserker System, which forcibly draws out the pilot's fighting instinct and makes her display 120% of her combat ability; when Berserker Mode is activated, the parts corresponding to its hair, the cooling fins, are deployed. After fighting and losing to Domon, she no longer used the Berserker System and instead learned the Double God Finger, but it is unclear whether the God Finger's capability was added to the Nobel Gundam.",
+   "notes": "",
+   "uncertain": [
+    "'her/she' for the pilot (Allenby, female per Gundam Wiki); the original does not name the pilot in this entry.",
+    "Subject of 'fighting and losing to Domon' restored as the pilot (Allenby)."
+   ]
+  },
+  {
+   "entry": 105,
+   "name_jp": "風雲再起",
+   "name_en": "Fuunsaiki",
+   "en": "A Mobile Horse operated by Fuunsaiki, Master Asia's beloved horse. Originally a support unit for Master Gundam, it can transform into a carrier for breaking through the atmosphere.",
+   "notes": "",
+   "uncertain": [
+    "'Mobile Horse' follows the Gundam Wiki ('mobile horse')."
+   ]
+  },
+  {
+   "entry": 106,
+   "name_jp": "ボルトガンダム",
+   "name_en": "Bolt Gundam",
+   "en": "A heavyweight Mobile Fighter of Neo Russia that pursues striking power over mobility. It was built as a result of capturing and studying machines of other nations, and it has independent-drive Viktor Engines built into various parts of its body, giving it a total output twice that of an ordinary Mobile Fighter. For that reason, although it is heavily armored, it is also capable of high mobility that does not match its rugged design. The Graviton Hammer, which swings an iron ball mounted on its left shoulder, is a pure mass weapon and therefore cannot be defended against.",
+   "notes": "",
+   "uncertain": [
+    "'Viktor Engine' is a literal rendering of the katakana (Victor/Viktor); the Gundam Wiki mentions a Viktor engine but spelling not fully confirmed."
+   ]
+  },
+  {
+   "entry": 107,
+   "name_jp": "ボルトガンダムＳ",
+   "name_en": "Bolt Gundam S",
+   "en": "Bolt Gundam with Super Mode activated.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 108,
+   "name_jp": "マンダラガンダム",
+   "name_en": "Mandala Gundam",
+   "en": "A Mobile Fighter of Neo Nepal. Its prayer-bead-like arms and waist allow quite flexible movement. In place of legs it is equipped with high-output thrusters and moves through the air as if sliding. It also has a transformation mechanism to a defensive form in which the waist and chest are stored in its bell-shaped lower body.",
+   "notes": "",
+   "uncertain": [
+    "Gundam Wiki lists this machine as 'Mandor Gundam (aka Mandala Gundam)'; 'Mandala Gundam' kept to match the game."
+   ]
+  },
+  {
+   "entry": 109,
+   "name_jp": "ライジングガンダム",
+   "name_en": "Rising Gundam",
+   "en": "A military Mobile Fighter of Neo Japan. It is a sibling machine of the Shining Gundam and was meant to be used by Major Ulube in the fight against the Devil Gundam. The armor on both shoulders attaches to the Beam Bow on its left hand to become the Rising Shield. Its basic performance is equal to the Shining Gundam's, but it has no Super Mode, and its machine tuning is set for weapon combat rather than melee combat.",
+   "notes": "",
+   "uncertain": [
+    "'Major Ulube' - rank taken from the pilot entry (Ulube Ishikawa, major)."
+   ]
+  },
+  {
+   "entry": 110,
+   "name_jp": "ダイアナンＡ",
+   "name_en": "Diana A",
+   "en": "A new female-type partner robot for Mazinger Z that replaces the destroyed Aphrodite A. A motorcycle called the Scarlet Mobile docks with its head and becomes the cockpit. Compared with Aphrodite A, its combat strength has been improved because it was developed from the start for the purpose of fighting the Mechanical Beasts, but a cockpit consisting only of the Scarlet Mobile (the motorcycle) is, in a sense, even more dangerous than Boss Borot.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 111,
+   "name_jp": "ボスボロット",
+   "name_en": "Boss Borot",
+   "en": "A robot that Boss forced the three Photon Power Laboratory scientists to build. It is made from scrap, but there were times when it showed that it could help Mazinger Z and Great Mazinger. In addition, various enhancement modifications were made depending on the situation, on Boss's ideas.",
+   "notes": "",
+   "uncertain": [
+    "'three Photon Power Laboratory scientists' = the three scientists (Mazinger wiki: 'Three Scientists')."
+   ]
+  },
+  {
+   "entry": 112,
+   "name_jp": "マジンガーＺ",
+   "name_en": "Mazinger Z",
+   "en": "A super robot completed by Dr. Juzo Kabuto over fifteen years. However, the doctor was assassinated by the Iron Mask sent by Baron Ashura, and Mazinger Z was entrusted to his grandson Koji. It uses Photon Power energy, and its armor is made of Super Alloy Z, refined from Japanium ore. It is equipped with various weapons over its whole body, and its combat strength is said to rival the U.S. Seventh Fleet. It could not fly on its own, but it later overcame that weakness by combining with the Jet Scrander, the Crimson Wings. The Jet Scrander has variable wings, which sweep back when flying at high speed of Mach 2.3 or more. Like Mazinger, the Scrander is also made of Super Alloy Z and has built-in weapons such as the Southern Cross Knives. In addition, it has a kind of overboost mechanism called Mazin Power, which was used when in a pinch.",
+   "notes": "",
+   "uncertain": [
+    "'Iron Mask' (tetsukamen) is a mask-wearing assassin; English name per Mazinger Wiki ('Iron Mask Captain') not fully matching, kept as 'the Iron Mask'."
+   ]
+  },
+  {
+   "entry": 113,
+   "name_jp": "グレートマジンガー",
+   "name_en": "Great Mazinger",
+   "en": "A combat super robot that Dr. Kenzo Kabuto, who predicted the Mycenae Empire's invasion of the surface, developed using the basic design of Mazinger Z as a base. It uses Photon Power energy, and its armor is made of Super Alloy New Z. It is piloted by the small fighter Brain Condor performing a Fire On onto Great Mazinger. In addition, the retractable wings built into its back, the Scramble Dash, allow it to fly at Mach 4. Much of its armament shares Mazinger Z's concept, but it is equipped with distinctive weapons: the Mazinger Blade, which is effective in close combat, and the ultra-high-voltage discharge Thunder Break. Later, the Great Booster was developed with the aim of improving its mobility and attack power. Its weak point is the Scramble Dash storage section, and if it is attacked there, all functions are paralyzed for an instant.",
+   "notes": "",
+   "uncertain": [
+    "'Fire On' (docking command) kept as written in the game.",
+    "'Mach 4' / Scramble Dash per Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 114,
+   "name_jp": "ビューナスＡ",
+   "name_en": "Venus A",
+   "en": "A female-type combat robot that Dr. Kenzo Kabuto, who predicted the Mycenae Empire's invasion of the surface, developed as a partner for Great Mazinger. Its control craft is the small fighter Queen Star. Because it was developed for combat from the start, it has enough power to stand up to the Warrior Beasts. It can also fly thanks to the Venus Scrander, which was developed later.",
+   "notes": "",
+   "uncertain": [
+    "'Queen Star' is a literal rendering of the control craft name; not verified in an English source."
+   ]
+  },
+  {
+   "entry": 115,
+   "name_jp": "量産型グレート",
+   "name_en": "Mass-Produced Great",
+   "en": "The mass-produced version of Great Mazinger that appears in Gosaku Ota's version of \"Great Mazinger.\" It was built by Shinsuminichi Heavy Industries, which developed the humanoid weapon GMFA-1, after obtaining Great Mazinger's blueprints by illegal means. Its appearance and performance are basically no different from the original, but the mass-produced units have a number marked on the chest. Also, in the work, in order to tell the original and the mass-produced units apart, Boss wrote \"Ganso\" (the original) in paint on the waist of Tetsuya's Great Mazinger. Besides these, there is also one all-black mass-produced Great Mazinger.",
+   "notes": "",
+   "uncertain": [
+    "Company name: 'Shinsuminichi' per Mazinger wiki; entry 116 writes it with the kanji in a different order (possible typo in the game).",
+    "'GMFA1' rendered 'GMFA-1' (hyphen added).",
+    "Author's name romanized 'Gosaku Ota' (Mazinger wiki: Gosaku Ota); the game's kanji reading could also be Tagosaku."
+   ]
+  },
+  {
+   "entry": 116,
+   "name_jp": "ブラック・グレート",
+   "name_en": "Black Great",
+   "en": "The prototype of the mass-produced Great Mazinger that appears in Gosaku Ota's version of \"Great Mazinger.\" Unlike the other mass-produced units, its whole body is painted black, and it has no machine number either. The president of Shinsuminichi Heavy Industries had it attack Tetsuya's Great in order to give a presentation to people in the defense and intelligence fields of countries around the world. At that time it showed glimpses of power exceeding the original and overwhelmed Tetsuya. It passes into the hands of the Mycenae Empire together with the other mass-produced units, but Tetsuya and the others destroy its autopilot device, and they operate it as the \"Great Corps.\"",
+   "notes": "",
+   "uncertain": [
+    "Company name written with kanji in a different order than entry 115; treated as the same company.",
+    "Subject of the last clause: 'they' = Tetsuya and the others (the units are operated by them as the Great Corps)."
+   ]
+  },
+  {
+   "entry": 117,
+   "name_jp": "グレートマジンガー（元祖）",
+   "name_en": "Great Mazinger (Original)",
+   "en": "The Great Mazinger in Gosaku Ota's version of \"Great Mazinger,\" with \"Ganso\" (the original) written on its waist by Boss in order to tell it apart from the mass-produced Greats. Boss himself gave the reason: \"There are lots of them, so this makes it easy to tell.\" Its performance and everything else are the same as the original.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 118,
+   "name_jp": "ゲッターＱ",
+   "name_en": "Getter Q",
+   "en": "A Getter Robo built by the Dinosaur Empire from blueprints stolen from the Saotome Institute. It is read \"Getter Queen.\" It is piloted by Gola, the daughter of Dinosaur Emperor Gore. Because Gola had come to feel affection for humanity, she shielded Getter Robo from the attack of Mechasaurus Gin and met a tragic end, exploding and taking Gin down with her. Although it bears the Getter name, since the Dinosaur Empire uses it, it is unclear whether its power source is Getter Rays. Its weapons are also completely unknown.",
+   "notes": "",
+   "uncertain": [
+    "Subject restored as Gola (the scene settles it: the pilot who shielded Getter Robo).",
+    "'Mechasaurus Gin': name of the Dinosaur Empire machine; spelling per Getter Robo wiki 'Mechasauruses'."
+   ]
+  },
+  {
+   "entry": 119,
+   "name_jp": "ゲッタードラゴン",
+   "name_en": "Getter Dragon",
+   "en": "A new-type Getter Robo developed by Dr. Saotome for combat from the start. The Getter Ray amplifier gives it ten times the power of the first Getter, and its armor newly uses Synthetic Steel G. Getter Dragon, which combines in the order Dragon, Liger, Poseidon, is mainly for aerial combat, and Ryoma continues from Getter 1 as its pilot. It boasts the highest combat strength of the three forms, and above all the later-added Shine Spark is its strongest special move.",
+   "notes": "",
+   "uncertain": [
+    "'Synthetic Steel G' (gouseikou G) - no English source verified; alternative 'Composite Steel G'.",
+    "'Dragon, Liger, Poseidon' order = the combination order of the three machines."
+   ]
+  },
+  {
+   "entry": 120,
+   "name_jp": "ゲッターライガー",
+   "name_en": "Getter Liger",
+   "en": "A new-type Getter Robo developed by Dr. Saotome for combat from the start. The Getter Ray amplifier gives it ten times the power of the first Getter, and its armor newly uses Synthetic Steel G. Getter Liger, which combines in the order Liger, Poseidon, Dragon, is mainly for ground and underground combat, and Hayato is its pilot. It boasts the highest mobility of the three forms and uses Alter Ego and Mach Special. Also, its right hand is a five-fingered manipulator, but it can transform into a drill depending on the situation. Note that in the original work, Getter Liger can fly from the start as well.",
+   "notes": "",
+   "uncertain": [
+    "'Alter Ego' = the game's skill name for bunshin (afterimage), kept consistent with the system-term glossary."
+   ]
+  },
+  {
+   "entry": 121,
+   "name_jp": "ゲッターポセイドン",
+   "name_en": "Getter Poseidon",
+   "en": "A new-type Getter Robo developed by Dr. Saotome for combat from the start. The Getter Ray amplifier gives it ten times the power of the first Getter, and its armor newly uses Synthetic Steel G. Getter Poseidon, which combines in the order Poseidon, Dragon, Liger, is a bipedal type, unlike Getter 3. It is mainly used in underwater combat. Also, its legs can be bent below the knee and transformed into caterpillar treads. Its pilot is Benkei, who newly joined the Getter Team in place of Musashi, who lost his life in the fight against the Dinosaur Empire. Note that in the original work it does not use Daisetsuzan Oroshi as it does in the game. It boasts the highest power of the three forms. Also, in \"Getter Robo G\" it was later modified so that it could fly.",
+   "notes": "",
+   "uncertain": [
+    "'Daisetsuzan Oroshi' kept in romanized form (Getter Wiki spelling 'Daisetzuzan Oroshi' also seen)."
+   ]
+  },
+  {
+   "entry": 122,
+   "name_jp": "グレンダイザー",
+   "name_en": "Grendizer",
+   "en": "A UFO Robot built by gathering the scientific power of Planet Fleed. Its pilot is Duke Fleed, and it has a self-defense system that gives an electric shock to anyone who approaches it other than a person who holds the proof of the Fleed royal family. Its armor uses Space Alloy Gren, which does not exist on Earth, and its energy source is photons collected from light such as the sun's. It can combine with the support combat saucer Spazer, and with the three kinds of Earth-made Spazers built later, it can adapt to any situation. Its weapons are powerful ones, such as Space Thunder, which emits a 60,000-degree beam, and Double Harken, a giant scythe used by combining the crescent-shaped blades on both shoulders. It reached Earth with Duke and was hidden beneath the Space Science Laboratory until the Vegan Empire appeared.",
+   "notes": "",
+   "uncertain": [
+    "'photons' = kouryoushi (light quanta); the Mazinger wiki uses 'Photonic Energy' for the Double Spazer."
+   ]
+  },
+  {
+   "entry": 123,
+   "name_jp": "グレンダイザー（ＷＳ）",
+   "name_en": "Grendizer (Double Spazer)",
+   "en": "The form of Grendizer and Double Spazer combined. It is a machine that excels at aerial combat, born when the two machines combine with the shout \"Combination Cross.\" Duke does the main piloting, but Koji operated the Double Spazer's weapons. Unlike with the Spazer, the weapons and limbs that were unusable after combining can be used freely, so there are no restrictions on movement during combat, and both flight ability and combat ability are improved. Note that although they do not appear in the game, the original work also featured the Marine Spazer for underwater use and the Drill Spazer for underground use.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 124,
+   "name_jp": "スペイザー",
+   "name_en": "Spazer",
+   "en": "The name of the support saucer mecha that strengthens Grendizer's flight ability, armament and armor, but the state combined with Grendizer is also called by this name. Like Grendizer, it has a body of Space Alloy Gren, and when it combines with the shout \"Spazer Cross,\" the seat moves to the Spazer control cockpit in front of the tail fin. Also, even when separated it can be remotely operated unmanned, fulfilling the role of assisting Grendizer. In space it is capable of hyperspace navigation; in the atmosphere it cannot reach that kind of speed, but when it flies at full power its body glows brightly and it truly becomes a UFO. Grendizer normally waits in this state in the hangar inside the Space Science Laboratory, and so that the base's location would not be discovered, each time it sortied it chose one launch point from among the normal launch gate and the secret launch gates Route 1 through Route 8. Incidentally, Route 1 is a volcano crater, Route 2 a virgin forest, Route 3 an abandoned mine, Route 4 Hell Valley, Route 5 a lake, Route 6 a cave in a mountainside, Route 7 a waterfall basin, and Route 8 a factory ruin.",
+   "notes": "",
+   "uncertain": [
+    "Subject of the sortie sentence restored as Grendizer (in Spazer state), as the scene settles it."
+   ]
+  },
+  {
+   "entry": 125,
+   "name_jp": "ダブルスペイザー",
+   "name_en": "Double Spazer",
+   "en": "A large support fighter developed by Dr. Umon. It was the first Earth-made Spazer, and in the story Koji Kabuto rode it. It combines with Grendizer depending on the situation. It was designed as a VTOL aircraft and has large rotors on both wings. The wings tilt up and down and the nose can also move like the Concorde's, so the machine's silhouette changes when landing, in flight, and when combining. Its body is made of the same Super Alloy New Z as Great Mazinger, and it is a hybrid machine whose power source uses the same photonic energy as Grendizer.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 126,
+   "name_jp": "ＴＦＯ",
+   "name_en": "TFO",
+   "en": "The world's first Earth-made UFO, designed by Koji Kabuto and built at NASA. At first it was not meant for combat, so it had no weapons at all, but it was later equipped with rapid-fire small missiles and a machine gun. Its maneuverability is high, and it can fight Minifos on even terms. Against Saucer Beasts it can only be called underpowered, but it was active when it counted, such as saving Grendizer when it was in a pinch.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 264,
+   "name_jp": "雷のオムザック",
+   "name_en": "Thunder Omzack",
+   "en": "A Hakke Robo bearing the title \"Thunder,\" piloted by Saiga. It is the last Hakke Robo to be completed, and it is not humanoid. It is equipped with the atomic-nucleus fragmentation cannon Proton Thunder, the one weapon said to be able to counter Zeorymer, which Masaki developed. This weapon is located on both sides of the machine's central sphere and turns matter within a radius of several kilometers into fine particles. It vanishes enveloped in the light of the Hades Attack together with Burrstone.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Thunder Omzack (Hades Project Zeorymer).",
+   "uncertain": [
+    "Spellings Omzack / Burrstone / Saiga follow the SRW wiki and Wikipedia.",
+    "'Hades Attack' = Meioh Attack (SRW wiki uses 'Hades Attack').",
+    "'Zeorymer, which Masaki developed' kept literally (source says Masaki developed it)."
+   ]
+  },
+  {
+   "entry": 265,
+   "name_jp": "風のランスター",
+   "name_en": "Wind Lanstar",
+   "en": "A Hakke Robo bearing the title \"Wind,\" piloted by Taiha. As its title says, it makes varied attacks using wind: \"Bone Hoon,\" which slams down a powerful wind; \"Blay Wain,\" which cuts with a kamaitachi (a slashing whirlwind); and \"Dead Ron Hoon,\" which raises a giant tornado and takes away the target's freedom. It excels at aerial combat and can fly at high speed with the wings extending from over its shoulders. It pressed Zeorymer, which it was fighting for the first time, but was defeated by the Hades Attack.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Wind Lanstar.",
+   "uncertain": [
+    "Attack names Bone Hoon / Blay Wain / Dead Ron Hoon are transliterations (no English source found); the SRW wiki lists a 'Death Dragon Tornado' that may correspond to the third."
+   ]
+  },
+  {
+   "entry": 266,
+   "name_jp": "地のディノディロス",
+   "name_en": "Earth Dinodilos",
+   "en": "A Hakke Robo bearing the title \"Earth,\" piloted by Rockfell. It was designed with the aim of destroying large cities and is not suited to close combat. It is equipped with a weapon that plants both arms on the ground and sends vibration waves to activate the magma layer and cause a great earthquake. In addition, it is equipped with anti-personnel and anti-materiel beams and missiles. It charged at Zeorymer with both arms blown off and was destroyed by a shock wave.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Earth Dinodilos.",
+   "uncertain": []
+  },
+  {
+   "entry": 267,
+   "name_jp": "月のローズセラヴィー",
+   "name_en": "Moon Rose C'est La Vie",
+   "en": "A Hakke Robo bearing the title \"Moon,\" piloted by Ritsu. It carries many beam weapons on its chest, legs, fingers and so on. It also used \"Luna Flash,\" a sword made by converging the beams at its fingertips, and gave Zeorymer a hard time even in close combat. It is equipped with the special weapon \"J-Kaiser,\" which releases all the energy the machine has, but it cannot be used continuously. For that reason it launches three satellites called the \"Children of the Moon\" and sends lightning energy to its own machine to recharge. It is destroyed by the Hades Attack of Zeorymer, which regained the Dimensional Coupler System and unleashed its true power.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Moon Rose C'est La Vie.",
+   "uncertain": [
+    "'Children of the Moon' (Tsuki no Ko) is a literal rendering.",
+    "'Rose C'est La Vie' spelling per SRW wiki (game kana: Rose Seravy)."
+   ]
+  },
+  {
+   "entry": 268,
+   "name_jp": "火のブライスト",
+   "name_en": "Fire Bryst",
+   "en": "A Hakke Robo bearing the title \"Fire,\" piloted by Si Aen. In the combination attack \"Twin Lords\" with Gallowin of water, piloted by his younger sister Si Tau, Gallowin's \"Beam Searcher\" and Bryst's \"Plasma Light Bullet Magrash\" collide in midair and destroy the target along with the space around it. There is also a technique called \"Twin Flare,\" in which the two machines are linked and fire. As a single-machine attack it is equipped with the napalm \"Flare Launcher,\" which gives off high heat. It cannot fly, but it can glide by hovering. It was heavily damaged shielding Gallowin from Zeorymer's beam, and was destroyed by the Hades Attack together with Gallowin.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Fire Bryst.",
+   "uncertain": [
+    "Pilot is the older sibling of Si Tau ('younger sister' stated in the text).",
+    "'Plasma Light Bullet Magrash' is a transliteration/literal rendering."
+   ]
+  },
+  {
+   "entry": 269,
+   "name_jp": "水のガロウィン",
+   "name_en": "Water Gallowin",
+   "en": "A Hakke Robo bearing the title \"Water,\" piloted by Si Tau. Because it was developed as a support machine for Bryst, its weapons are mainly auxiliary: \"Gallowin Blizzard,\" which seals the opponent's movement, and the \"Mega Searcher,\" which emits laser beams. In the combination technique with Bryst, \"Twin Flare,\" it plays the roles of energy supply, laser search and cooling. In order to secure its position when performing the combination technique, its mobility is higher than Bryst's. In the end it was destroyed together with Bryst by the Hades Attack.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Water Gallowin.",
+   "uncertain": [
+    "Entry 268 calls the combination attack 'Twin Lords' while this entry calls it 'Twin Flare' (both as in source)."
+   ]
+  },
+  {
+   "entry": 270,
+   "name_jp": "山のバーストン",
+   "name_en": "Mountain Burrstone",
+   "en": "A Hakke Robo bearing the title \"Mountain,\" piloted by Gisou. Like Dinodilos, it was designed with the aim of attacking cities. It is equipped with 500 missiles over its whole body and hides a total of 18 nuclear missiles, nine under the armor of each leg. It can glide with the boosters on its shoulders and the hover on its legs. It vanishes enveloped in the light of the Hades Attack together with Omzack.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Mountain Burrstone.",
+   "uncertain": []
+  },
+  {
+   "entry": 271,
+   "name_jp": "ヴァーミリオン（緑）",
+   "name_en": "Vermillion (Green)",
+   "en": "The mass-produced version of Vermillion. A total of three units were assigned to TERRA, and they become the machines of Alpha Squadron members. Its performance and armament are no different from the Vermillion piloted by Elvy, and it fought mass-produced Dolems on equal or better terms.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Vermillion (Green).",
+   "uncertain": [
+    "'Elvy' = Elvy Hadhiyat (RahXephon wiki); the game katakana reads Elfi.",
+    "'mass-produced Dolems' - the source says ryousangata Dolem; the RahXephon wiki describes Vermillion itself as a mass-produced Dolem."
+   ]
+  },
+  {
+   "entry": 272,
+   "name_jp": "アレグレット",
+   "name_en": "Allegretto",
+   "en": "A Dolem that takes on the duty of defending the capital, with huge wings. It fires plasma burst light from the top of its head and shot down fighter planes in Operation Overlord. It can also put up a sound barrier to defend against attacks. It seems to be under the direct command of Maya Kamina and shows up on many battlefields.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Allegretto.",
+   "uncertain": [
+    "'plasma burst light' is a literal rendering of the source term.",
+    "'capital' = Tokyo presumably; the text says only 'the capital'."
+   ]
+  },
+  {
+   "entry": 273,
+   "name_jp": "オブリガード",
+   "name_en": "Obbligato",
+   "en": "A Dolem that is something like a combat commander among the Mu. Its combat strength is among the strongest even among Dolems, and its attack power is enough to defeat several of the Federation's warships in one blow. It extends its sharp claws long to pierce and slash enemies. It also hides a third arm on its right chest. It appeared before RahXephon riding on a pedestal called Brillante.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Obbligato (the RahXephon wiki also writes Obligato).",
+   "uncertain": [
+    "'Federation' = Renmei ('the Alliance'); Wikipedia calls the human-side military 'the Federation'."
+   ]
+  },
+  {
+   "entry": 274,
+   "name_jp": "真聖ラーゼフォン＜クオン＞",
+   "name_en": "True RahXephon <Quon>",
+   "en": "The form of Quon, who attained Yolteotl, becoming one with the Xephon born from the black egg. It is the counterpart of Ayato's Xephon and has black wings. Like Ayato's Xephon, it has the ability to tune the world, and its physical abilities are the same. Incidentally, Quon's Ixtli was Ayato dressed in black. This is because Ayato inherited Quon's genes.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: True RahXephon <Quon>.",
+   "uncertain": [
+    "'Yolteotl' is a guess at the romanization of the katakana (not found on the RahXephon wiki).",
+    "'True RahXephon <Quon>' for Shinsei RahXephon <Quon>: 'True RahXephon' is the RahXephon wiki / SRW wiki name of Ayato's final form; applying it to Quon's machine is an assumption."
+   ]
+  },
+  {
+   "entry": 275,
+   "name_jp": "グラーベ",
+   "name_en": "Grave",
+   "en": "A Dolem with a body like a stringed instrument. It attacked the fleet that was transporting RahXephon. It extends tentacles to entangle its target and corrode metal. It was defeated by RahXephon, and the Earth Federation took the wreckage back.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Grave.",
+   "uncertain": [
+    "'Earth Federation' (Chikyuu Renmei) - exact English name unverified."
+   ]
+  },
+  {
+   "entry": 276,
+   "name_jp": "ドーテム",
+   "name_en": "Dotem",
+   "en": "A mobile weapon of the Mu, smaller than a Dolem. They appear in countless numbers and attack with beams from slits in their upper part. TERRA called them \"D2.\"",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Dotem (RahXephon wiki: Dotems, designated D-2 by TERRA).",
+   "uncertain": [
+    "Source spells 'beam' with a hyphen variant; rendered 'beams'."
+   ]
+  },
+  {
+   "entry": 277,
+   "name_jp": "ビバーチェ",
+   "name_en": "Vivace",
+   "en": "A Dolem that tried to manipulate Ayato's mind. With the ring above its head it swallowed RahXephon into a phase space, and by sending Dolem stones into RahXephon's mouth it made Ayato believe he was in Tokyo Jupiter. However, it was cut in two by the awakened RahXephon.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Vivace.",
+   "uncertain": [
+    "'RahXephon's mouth' resolved from the RahXephon wiki (Vivace inserts a stone tube into RahXephon's mouth); the source says only 'the mouth'.",
+    "'Dolem stones' (Dolem kesseki) is a literal rendering."
+   ]
+  },
+  {
+   "entry": 278,
+   "name_jp": "メトロノーム（赤）",
+   "name_en": "Metronome (Red)",
+   "en": "A Dolem floating in the air of Tokyo Jupiter, from which Ayato Kamina is absent. They exist in countless numbers in a stationary state and have a function that, upon sensing an intruder, takes action in defense. They attack enemies by firing beams from their heads.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Metronome (Red) (RahXephon wiki: Metronomes, sentry Dolems of Tokyo Jupiter).",
+   "uncertain": [
+    "Tokyo Jupiter is written in Latin capitals in the game ('TOKYO JUPITER')."
+   ]
+  },
+  {
+   "entry": 279,
+   "name_jp": "ラルゴ",
+   "name_en": "Largo",
+   "en": "The strongest, largest-class Dolem, given to Kuki. Itsuki said in the strategy meeting that its total length is about 2,600 m, its mass is 10^9 t, and its destructive power is 10^27 L. The plasma beam fired from its entire underside has enough power to instantly destroy a whole city. Also, its head floats in the air.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Largo.",
+   "uncertain": [
+    "'Kuki' = Masayoshi Kuki (RahXephon wiki, controls Largo). 'Itsuki' = Itsuki Kisaragi presumed (head of TERRA's science department); the kanji alone is not conclusive.",
+    "'10^9 t' and '10^27 L' written with ^ because superscripts are not allowed."
+   ]
+  },
+  {
+   "entry": 280,
+   "name_jp": "メディウス・ロクス",
+   "name_en": "Medius Locus",
+   "en": "The form Medius Locus took after absorbing a massive energy convergence body and undergoing further transformation. The core section housing AI1 has itself changed form greatly, and what has become of the pilot inside is unknown.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Medius Locus (later form).",
+   "uncertain": [
+    "'pilot' = occupant (noriko-sha) of the core; rendered as pilot."
+   ]
+  },
+  {
+   "entry": 281,
+   "name_jp": "ＡＩ１",
+   "name_en": "AI1",
+   "en": "The form in which the core housing AI1 grew huge through the self-repair and self-evolution abilities of the runaway Lasmunanium and fused with the TE Engine. As its name \"ALL In 1\" suggests, it tries to take everything into its body.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: AI1.",
+   "uncertain": [
+    "'Lasmunanium' spelling per SRW wiki (Medius Locus page)."
+   ]
+  },
+  {
+   "entry": 282,
+   "name_jp": "シニストラ",
+   "name_en": "Sinistra",
+   "en": "A mobile weapon created by Medius Locus. It is thought to be based on the Telgum, but details are unknown.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Sinistra.",
+   "uncertain": [
+    "'Sinistra' spelled from the orchestrator's correction file (kana Shinisutora); not found on a wiki.",
+    "'Telgum' per SRW wiki (Medius Locus page)."
+   ]
+  },
+  {
+   "entry": 283,
+   "name_jp": "デクステラ",
+   "name_en": "Dextera",
+   "en": "A mobile weapon created by Medius Locus. It is thought to be based on the Flonnes, but details are unknown.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Dextera.",
+   "uncertain": [
+    "'Dextera' spelled from the orchestrator's correction file; not found on a wiki.",
+    "'Flonnes' per SRW wiki (Medius Locus page; game katakana Furonsu / Frons)."
+   ]
+  },
+  {
+   "entry": 284,
+   "name_jp": "テルグム",
+   "name_en": "Telgum",
+   "en": "A mysterious unmanned mobile weapon. It is said to resemble Tsentr Project prototype unit No. 1, but details are unknown.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Telgum (SRW wiki: Y-Tse-P-01 Telgum).",
+   "uncertain": [
+    "The SRW wiki says Medius Locus can create Telgum and Flonnes from Lasmunanium."
+   ]
+  },
+  {
+   "entry": 285,
+   "name_jp": "フロンス",
+   "name_en": "Flonnes",
+   "en": "A mysterious unmanned mobile weapon. It is said to resemble Tsentr Project prototype unit No. 2, but details are unknown.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Flonnes (SRW wiki spelling; game katakana Furonsu / Frons).",
+   "uncertain": [
+    "'Flonnes' vs 'Frons': wiki spelling used."
+   ]
+  },
+  {
+   "entry": 286,
+   "name_jp": "メディウス・ロクス",
+   "name_en": "Medius Locus",
+   "en": "The Earth Federation Forces, concerned about the high attrition rate of mass-produced humanoid mobile weapons due to repeated wars, drew up a development plan for a new-concept machine looking ten years ahead, the \"Tsentr Project.\" Dr. Mitar Zapat, the central figure of the project, built a prototype of the \"TE Engine,\" which applied \"Terminus Energy,\" as the power source of the prototype machines. However, although Terminus Energy has high output, collecting it and converting it to power was extremely difficult, and it was predicted that it would take several years to complete the TE Engine. In addition, Dr. Zapat had also succeeded in developing \"Lasmunanium,\" an armor material capable of self-repair, but this too ran into the problem that its function was difficult to control, just like the TE Engine. After trial and error with prototype units No. 1 through No. 4, Dr. Zapat gave up on developing a machine equipped with both Lasmunanium and the TE Engine. He assigned Lasmunanium to prototype unit No. 5, \"Medius Locus,\" and the TE Engine to prototype units No. 6 and No. 7, and decided to pursue and improve each function. Furthermore, these three machines were given concepts and armament assuming actual combat: prototype No. 6 was developed for high-mobility combat and artillery combat, prototype No. 7 for close combat and melee combat, and Medius Locus as a machine with performance intermediate between the two machines described above. This machine was the first of the three above to roll out, but no test pilot was decided, and unlike prototypes No. 6 and No. 7, almost no tests of various kinds were carried out (one theory holds that it secretly underwent some kind of modification). Afterwards it was seized by someone and went missing. Its model number is YTsP-05.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Medius Locus (first form).",
+   "uncertain": [
+    "Model number: the game shows a garbled character (kilo symbol) between Y and P; the SRW wiki gives Y-Tse-P-05 (Cyrillic Tse), written here as YTsP-05.",
+    "'Mitar Zapat' and 'Tsentr Project' per SRW wiki.",
+    "The parenthetical keeps the original hedging."
+   ]
+  },
+  {
+   "entry": 287,
+   "name_jp": "メディウス・ロクス",
+   "name_en": "Medius Locus",
+   "en": "The form Medius Locus transformed into. Based on the various machine data and combat data AI1 obtained, it changed form through the self-evolution ability of Lasmunanium and powered up. Later it took in the TE Engine and became able to collect and use Terminus Energy. Compared with before the transformation, the machine's size itself changed, and its appearance and weapons lean toward those of a special machine (super robot). This is thought to be because Eldy had entered the data of Tsentr Project prototype unit No. 7 (special machine type) into AI1 in advance.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Medius Locus (second form).",
+   "uncertain": [
+    "'Eldy' = Eldy Middi (SRW wiki); 'special machine (super robot)' follows the game's tokki gloss."
+   ]
+  },
+  {
+   "entry": 288,
+   "name_jp": "ヴィブラート",
+   "name_en": "Vibrato",
+   "en": "A Dolem with a form that closely resembles a parka. Its face floats inside the parka, and it strikes opponents with the sharp protrusions where its feet would be. Because the Mulian Vibrato is in sync with Hiroko Asahina, when Vibrato is hurt, Hiroko is hurt too. It also displayed messages Hiroko wrote in her notebook on electronic signboards and the like around the city. It was defeated by Ayato, who struggled to protect Hiroko, but that simultaneously meant Hiroko's death.",
+   "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Vibrato (RahXephon wiki: a Dolem bound to Hiroko Asahina, whose design reflects her pink hoodie).",
+   "uncertain": [
+    "'Mulian Vibrato' - the source label; the RahXephon wiki treats Vibrato as a Dolem bound to Hiroko."
+   ]
+  }
+ ],
+ "pilots": [
+  {
+   "entry": 183,
+   "name_jp": "アルゴ・ガルスキー",
+   "name_en": "Argo Gulskii",
+   "en": "A Gundam Fighter representing Neo Russia. Age 26. He was once the leader of a space pirate group famous as colony raiders, but he and his men were captured, and he entered the Gundam Fight in exchange for his comrades' lives. Except during fights, his arms were bound together with a beam chain, and a small bomb to make him obey was planted in the belt on his chest. He is a taciturn man who never loses his self-control, but he hides a burning passion within. He excels at power techniques delivered from a huge frame of over two meters, and he inherits the crest of the Black Joker and becomes a member of the new Shuffle Alliance.",
+   "notes": "",
+   "uncertain": [
+    "Shuffle Alliance: SRW T localization renders it 'Shuffle Union'; 'Shuffle Alliance' (anime/Gundam Wiki) used."
+   ]
+  },
+  {
+   "entry": 184,
+   "name_jp": "アレンビー・ビアズリー",
+   "name_en": "Allenby Beardsley",
+   "en": "A Gundam Fighter representing Neo Sweden. Age 17. She is a second lieutenant in her country's space forces. She lost her parents in early childhood and was given an elite education in a military facility to become a Gundam Fighter, but only after meeting Domon and the others did she feel peace of mind for the first time. A bright and energetic girl, she has feelings for Domon, but in the end she stepped aside, considering his relationship with Rain. She has genius combat sense and uses techniques that build rhythmic gymnastics movements onto a base of martial arts.",
+   "notes": "",
+   "uncertain": [
+    "'second lieutenant' for shoui (rank)."
+   ]
+  },
+  {
+   "entry": 185,
+   "name_jp": "ウルベ・イシカワ",
+   "name_en": "Ulube Ishikawa",
+   "en": "A soldier of the Neo Japan colony. His rank is major. He holds the belief that power is justice and is also a central figure in the Gundam Development Bureau. He was once a Gundam Fighter, and has the experience of entering the 12th tournament and losing to Master Asia. He is the mastermind of the Devil Gundam incident and tried to seize hegemony using its power, but was defeated by Domon and the new Shuffle Alliance.",
+   "notes": "",
+   "uncertain": [
+    "'12th tournament' = the 12th Gundam Fight.",
+    "'Gundam Development Bureau' (Gundam Kaihatsu-kyoku) is a literal rendering."
+   ]
+  },
+  {
+   "entry": 186,
+   "name_jp": "ウォン・ユンファ",
+   "name_en": "Wong Yunfat",
+   "en": "The Prime Minister of Neo Hong Kong, which became the host nation of the 13th Gundam Fight because Master Asia won the previous tournament. He is ambitious, and the type to scheme without dirtying his own hands. As chairman of the tournament committee he rigged matches and plotted permanent rule over the colony nations using the power of the Devil Gundam, but in the end, infected by DG Cells, he boarded the Walter Gundam and was defeated by Domon. He liked sweet things and always had snacks in his mouth.",
+   "notes": "",
+   "uncertain": [
+    "Source omits 'o' (boarded the Walter Gundam); read as 'boarded'."
+   ]
+  },
+  {
+   "entry": 187,
+   "name_jp": "カッシュ博士",
+   "name_en": "Dr. Kasshu",
+   "en": "His full name is Raizo Kasshu. A scientist of Neo Japan, Domon's father, and the developer of the Ultimate Gundam. The Ultimate Gundam used Ultimate Cells that perform \"self-regeneration,\" \"self-evolution\" and \"self-replication,\" and it was being developed as the ultimate Mobile Fighter with the aim of purifying the Earth's environment. But because of Ulube's scheme he was made to take responsibility for the incident of Kyoji's theft of the Ultimate Gundam, and was sentenced to cryogenic imprisonment. He was later rescued by Rain and cooperates with Domon to defeat the Devil Gundam.",
+   "notes": "",
+   "uncertain": [
+    "'Kyoji' is not identified in the text (Kyoji Kasshu, Domon's brother, per Gundam Wiki).",
+    "'Ultimate Cells' is a literal rendering (the Gundam Wiki calls the same technology DG Cells)."
+   ]
+  },
+  {
+   "entry": 188,
+   "name_jp": "キラル・メキレル",
+   "name_en": "Kyral Mekirel",
+   "en": "A Gundam Fighter representing Neo Nepal. An assassin feared as the Grim Reaper Kyral, who killed opponents before their matches in order to win by default. He has superb perception that more than makes up for the handicap of being blind, and excels at the Kyral technique using a sword cane. After fighting and losing to Domon, he set out on a pilgrimage to pray for the souls of the people he had killed until then, but he came rushing to the final battle with the Devil Gundam leading the Gundam Coalition.",
+   "notes": "",
+   "uncertain": [
+    "'Gundam Coalition' (Gundam Rengou) is a literal rendering; the Gundam Wiki uses 'Coalition of Volunteers' / 'World Gundam Federation' for related factions.",
+    "'Kyral technique' = Kyral Satsuho (Kyral-style killing technique) shortened as in the source."
+   ]
+  },
+  {
+   "entry": 189,
+   "name_jp": "恵雲",
+   "name_en": "Keiun",
+   "en": "Sai Saici's minder and foster parent. His name is read \"Keiun.\" A master of Shaolin kung fu, he took part in the tournament as Sai Saici's support crew. He always acts as a set with Zuizen, but he is more the physical-strength one.",
+   "notes": "",
+   "uncertain": [
+    "'Shaolin kung fu' for Shorinji kenpo; Gundam Wiki calls them Shaolin monks.",
+    "Gender: male per Gundam Wiki (Zuizen and Keiun page)."
+   ]
+  },
+  {
+   "entry": 190,
+   "name_jp": "サイ・サイシー",
+   "name_en": "Sai Saici",
+   "en": "A Gundam Fighter representing Neo China. He is short and often mistaken for a child, but is actually 16. He comes from a line of martial artists, his grandfather Sai Feilong being the winner of the 4th tournament, but he lost his father at a young age and entered the Gundam Fight aiming to rebuild the Shaolin Temple, his father's cherished wish. He is the successor of Shaolin, and his skill at kung fu is genius-level. He is somewhat of a showoff, and looked up to Domon as his big brother, but he inherits the title of Club Ace and becomes a member of the new Shuffle Alliance. He is good at cooking, and his fried rice is especially superb.",
+   "notes": "",
+   "uncertain": [
+    "'4th tournament' = the 4th Gundam Fight."
+   ]
+  },
+  {
+   "entry": 191,
+   "name_jp": "ジェントル・チャップマン",
+   "name_en": "Gentle Chapman",
+   "en": "A Gundam Fighter representing Neo England who won three times in a row in the past, and pilot of the John Bull Gundam. A gentleman who was called a hero in his home country. He is a master rifle shot, and his three consecutive victories caused a stir in the melee-centered Gundam Fight. He entered the 13th tournament in spite of illness, but was infected by DG Cells and became one of the Devil Gundam's Four Heavenly Kings.",
+   "notes": "",
+   "uncertain": [
+    "Gundam Wiki also writes 'Neo Britain' in the infobox; 'Neo England' used (body text, game)."
+   ]
+  },
+  {
+   "entry": 192,
+   "name_jp": "ジョルジュ・ド・サンド",
+   "name_en": "George de Sand",
+   "en": "A Gundam Fighter representing Neo France. Age 20. The young head of the de Sand family, which values the spirit of chivalry; he entered the tournament together with his butler Raymond for the great cause of protecting the people. He excels at fencing, and the sharpness of his technique is first-rate. He likes fair and square fights and dislikes despicable behavior; he is serious by nature and swore loyalty to his homeland and Princess Maria Louise. He inherited the title of Jack in Diamond and becomes a member of the new Shuffle Alliance. His hobbies are tea and rose growing, and he often acted foppishly, such as scattering roses at the unveiling of a new special move.",
+   "notes": "",
+   "uncertain": [
+    "'Maria Louise' per Gundam Wiki; the game katakana could also be 'Marie Louise'.",
+    "Pun in the source (bara wo barama ku = scattering roses) cannot be kept; rendered literally."
+   ]
+  },
+  {
+   "entry": 193,
+   "name_jp": "瑞山",
+   "name_en": "Zuizen",
+   "en": "Sai Saici's minder and foster parent. His name is read \"Zuizen.\" A master of Shaolin kung fu, he took part in the tournament as Sai Saici's support crew. He always acts as a set with Keiun, but he is more the brains one.",
+   "notes": "",
+   "uncertain": [
+    "Source reading is 'Zuisen'; the Gundam Wiki romanizes the name as 'Zuizen' (used).",
+    "Gender: male per Gundam Wiki."
+   ]
+  },
+  {
+   "entry": 195,
+   "name_jp": "チボデー・クロケット",
+   "name_en": "Chibodee Crocket",
+   "en": "A Gundam Fighter representing Neo America. Age 20. He was a delinquent from downtown New York, but he embodies the American Dream by winning 100 straight matches in colony boxing. Leading the Chibodee Gals, who are also former delinquents, he entered the tournament to grasp the American Dream again. He has the personality of a true cheerful American, with strong patriotism and sense of justice as well. He inherits the crest of the Queen the Spade and becomes a member of the new Shuffle Alliance. Because of a memory of being caught up in a riot at a circus tent in childhood, he is bad with clowns.",
+   "notes": "",
+   "uncertain": [
+    "'Queen the Spade' follows the Gundam Wiki spelling."
+   ]
+  },
+  {
+   "entry": 198,
+   "name_jp": "ドモン・カッシュ",
+   "name_en": "Domon Kasshu",
+   "en": "A Gundam Fighter representing Neo Japan, the champion of colony martial arts and holder of the title King of Hearts. Age 20. In order to clear his father's disgrace, he entered the tournament chasing the Devil Gundam, which had fled to Earth. King of Hearts is outwardly the title of the Colony Martial Arts King, but in truth it is the proof of the leader of the Shuffle Alliance. The Shuffle Alliance is a group that has controlled conflicts from the shadows of history and prevented the extinction of humanity, and the previous King of Hearts was Master Asia, who was also Domon's master. Domon studied under Master Asia from the age of ten and mastered the School of the Undefeated of the East, and his fighting sense is such that he catches bullets with his bare hands. He also attained the state of Meikyoshisui through training during the tournament and became the winner of the 13th Gundam Fight. By nature he is a headstrong fighting fool, and at first he gave off an unfriendly, standoffish air, but through meeting comrades and talking with fists, he awakened to friendship and love, and in the end grew to the point of, clumsily, confessing his love to Rain.",
+   "notes": "",
+   "uncertain": [
+    "'School of the Undefeated of the East' (ryuuha Touhou Fuhai) - rendered as a school name; wiki calls Master Asia 'Undefeated of the East'.",
+    "'Meikyoshisui' kept in romanized form (clear mind, still water)."
+   ]
+  },
+  {
+   "entry": 199,
+   "name_jp": "風雲再起",
+   "name_en": "Fuunsaiki",
+   "en": "Master Asia's beloved horse. Because it wears a fighter suit itself and operates the Mobile Horse, there is a rumor that it has mastered the School of the Undefeated of the East. After Master Asia's death, it accepts Domon as its rider and acts together with him.",
+   "notes": "",
+   "uncertain": [
+    "Gender of the horse not established by a source; 'it' used."
+   ]
+  },
+  {
+   "entry": 200,
+   "name_jp": "ミケロ・チャリオット",
+   "name_en": "Michelo Chariot",
+   "en": "A Gundam Fighter representing Neo Italy and pilot of the Neros Gundam. A boss of the Italian mafia, he entered the tournament to show off his own strength. Cruel by nature, he had a special move called Silver Legs, but lost to Domon in the very first episode. After that he was infected by DG Cells and revived, and took on the role of one of the Devil Gundam's Four Heavenly Kings; a rare person whose personality did not change before and after being infected by DG Cells.",
+   "notes": "",
+   "uncertain": [
+    "Source says 'first episode' (dai-1-wa); kept as 'the very first episode'."
+   ]
+  },
+  {
+   "entry": 201,
+   "name_jp": "レイン・ミカムラ",
+   "name_en": "Rain Mikamura",
+   "en": "Domon's partner and childhood friend. Age 20. She is the daughter of Dr. Mikamura and an excellent doctor. She is also well versed in mechanics and supports everything from maintaining the Gundam to looking after Domon. She is not only caring but also energetic, and sometimes fought riding a Gundam. She secretly holds romantic feelings for Domon, but she could not easily say so because of the insensitive Domon and her own heart that cannot be honest. She was used as the core of the Devil Gundam's final form but was rescued by Domon, and delivered the finishing blow to the Devil Gundam with the \"Sekiha Love Love Tenkyoken.\"",
+   "notes": "",
+   "uncertain": [
+    "Source says she 'delivered the finishing blow' with the move; the actual attack is a joint move with Domon (in the show), kept as written."
+   ]
+  },
+  {
+   "entry": 202,
+   "name_jp": "兜甲児",
+   "name_en": "Koji Kabuto",
+   "en": "The pilot of Mazinger Z. He is the grandson of Mazinger Z's developer Juzo Kabuto, and the son of Great Mazinger's developer Kenzo Kabuto. He carried on the will of his grandfather, who was killed by Baron Ashura, and fought Dr. Hell, who plotted world conquest. After his grandfather's death, he moved to the Photon Power Laboratory with his younger brother Shiro and transferred into the first year of the high school division of Tojo Academy. He is an action-oriented hothead who also tends to get carried away, and was often seen rushing ahead and falling into enemy traps. He is also a soft-hearted man of justice and is trusted by those around him. He boasts outstanding athletic ability, and his skill at his hobby, motorcycles, is first-rate. After defeating Dr. Hell, he went to study at NASA with Sayaka, but returned to Japan for the decisive battle with the Mycenae Empire, and boarded Mazinger Z again and fought alongside Great Mazinger. Afterward, he also admirably protected the Earth as a member of the Grendizer Team against the Vegan Empire's invasion. Note that when he appeared in Grendizer, his combat suit had been redesigned.",
+   "notes": "",
+   "uncertain": [
+    "'Tojo Academy' (Toujou Gakuen) is a literal romanization; Mazinger wiki spelling not verified.",
+    "'Vegan Empire' used for the Vega Star League (wiki name)."
+   ]
+  },
+  {
+   "entry": 203,
+   "name_jp": "ヌケ",
+   "name_en": "Nuke",
+   "en": "Boss's henchman. As his nickname says, he is a laid-back type. He is relatively sensible, and sometimes spoke against Boss's reckless actions and got scolded for it. He has always been with Boss and Mucha since their Minato Nursery School days, and when they were little he sometimes bullied the crybaby Boss. Surprisingly, he is good at sports and a good skier.",
+   "notes": "",
+   "uncertain": [
+    "'Minato Nursery School' (Minato Hoikuen) is a literal romanization."
+   ]
+  },
+  {
+   "entry": 204,
+   "name_jp": "ボス",
+   "name_en": "Boss",
+   "en": "Koji's classmate. Partly because he has a crush on Sayaka, he treats Koji as a rival at every turn. To compete with Mazinger Z, he had the three scientists of the Photon Power Laboratory build him his own personal robot, Boss Borot, and joined the fighting together with his henchmen Nuke and Mucha, but was often more of a hindrance. However, he is a warm-hearted man of justice and an irreplaceable best friend to Koji. After Dr. Hell fell and the Mycenae Empire began its invasion of the surface, he cooperated with the Science Fortress Laboratory and fought alongside Great Mazinger. When Koji fought the Vegan Empire as part of the Grendizer Team, he also showed up as a helper. Like Nuke and Mucha, his real name is unknown.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 205,
+   "name_jp": "ムチャ",
+   "name_en": "Mucha",
+   "en": "Boss's henchman. As his nickname says, he has a reckless personality and rides his motorcycle roughly. He is small but spirited, and sometimes piloted Boss Borot in Boss's place. His grades at school are not good, but he has a streak of cunning and did things like stealing fuel from the Jet Pilder.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 206,
+   "name_jp": "弓教授",
+   "name_en": "Professor Yumi",
+   "en": "His real name is Gennosuke Yumi. He is the top disciple of Juzo Kabuto and serves as the director of the Photon Power Laboratory. He is also the developer of Aphrodite A and Diana A, which his daughter Sayaka pilots, and he made numerous modifications to Mazinger Z during the fight against Dr. Hell. He is gentle and calm by nature, and has the sense of responsibility and judgment befitting the director of the Photon Power Laboratory fighting Dr. Hell. After defeating Dr. Hell, he left the fight with the Mycenae Empire to the Science Fortress Laboratory and returned to his original duty of researching Photon Power energy.",
+   "notes": "",
+   "uncertain": [
+    "'Gennosuke' per Wikipedia / Mazinger Wiki."
+   ]
+  },
+  {
+   "entry": 207,
+   "name_jp": "弓さやか",
+   "name_en": "Sayaka Yumi",
+   "en": "The daughter of Professor Yumi and the pilot of Diana A. She does not attend high school and helps with her father's research at the Photon Power Laboratory. She is strong-willed, and although she and Koji are like fighting friends, inwardly she worries about him more than anyone. For that very reason, she grew jealous of Koji, who is weak to beautiful women, and the team sometimes failed to coordinate in battle and got into trouble. After defeating Dr. Hell, she studied at NASA with Koji, but returned to Japan for the decisive battle with the Mycenae Empire and threw herself into the fighting again.",
+   "notes": "",
+   "uncertain": [
+    "'the team sometimes failed to coordinate' - the source subject is dropped; read as Sayaka and Koji failing to coordinate."
+   ]
+  },
+  {
+   "entry": 208,
+   "name_jp": "兜剣造",
+   "name_en": "Kenzo Kabuto",
+   "en": "The developer of Great Mazinger and the biological father of Koji Kabuto and Shiro. He was developing Mazinger Z together with Koji's grandfather Juzo Kabuto, but was seriously injured in an accident at that time and was given cyborg surgery by Juzo. Afterward he developed Great Mazinger and, as director of the Science Fortress Laboratory, stood against the Mycenae Empire's invasion of the surface. He raised the orphans Tetsuya and Jun and holds family affection for them, but out of a sense of responsibility and duty to protect peace, he cannot show those feelings openly and sometimes stays ruthless. He also has a complex about being a cyborg and feels guilty toward Koji and the others, to whom he cannot act like a father. In the final battle with the Mycenae Empire, he threw himself out to save Tetsuya, who, because of his complex as an orphan, had refused to coordinate with Koji and fallen into a pinch, and did not return. In the movie \"Mazinger Z vs. the Great General of Darkness,\" he appears from the opening dressed as a prophet (?) and prophesies the revival of the Mycenae Empire and that Boss Borot will fly through the sky.",
+   "notes": "",
+   "uncertain": [
+    "'Koji and the others' kept as in the source (Koji-tachi); likely Koji and Shiro.",
+    "Movie title: Mazinger wiki uses 'Mazinger Z vs. Great General of Darkness'; article 'the' added here.",
+    "'(?)' is in the source (cosplay (?))."
+   ]
+  },
+  {
+   "entry": 209,
+   "name_jp": "剣鉄也",
+   "name_en": "Tetsuya Tsurugi",
+   "en": "The pilot of Great Mazinger. In order to pilot Great Mazinger, which was developed as a combat robot, he was taken in from an orphanage by Kenzo Kabuto at the age of seven and put through harsh training. Because he was raised as a combat professional, he has high combat ability even bare-handed. His upbringing and nihilistic way of talking give him an unapproachable, cold impression, but in reality he is kind-hearted and a strict man of justice. He inwardly admires Kenzo Kabuto, who took him in and raised him, like a father, yet has a strong complex about being an orphan. For that reason he was jealous at the sight of Koji and Kenzo, who returned home for the decisive battle with the Mycenae Empire, and made an irreparable mistake in the final battle. Note that at the time \"Great Mazinger\" started airing, the setting was age 22, but this was later changed to 18, making him more youthful. Incidentally, in the comic version by Gosaku Ota, he has a more comical side than in the TV version while being an even harder character.",
+   "notes": "",
+   "uncertain": [
+    "'the sight of Koji and Kenzo, who returned home' - the relative clause 'returned home' could attach to Koji only; kept as written in the source ('Koji and Kenzo who returned').",
+    "'Gosaku Ota' per Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 210,
+   "name_jp": "炎ジュン",
+   "name_en": "Jun Hono",
+   "en": "The pilot of Venus A. Like Tetsuya, she was taken in from an orphanage as a combat professional and put through harsh training. She is usually spirited and competitive, but inwardly she has a complex about her birth and sometimes worries alone.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 220,
+   "name_jp": "グラー",
+   "name_en": "Gura",
+   "en": "One of the Hyakki Empire's executives on par with Hidler, and a scientist-engineer. Besides developing and researching robots and weapons, he devises invasion plans, handling the whole of the Hyakki Empire's intellectual side. Many talented young elites seem to gather under him. He is cool-headed, but sometimes behaves strangely. He left the gravity control device to Burai and died in an explosion together with the Combined Hyakki Robot.",
+   "notes": "",
+   "uncertain": [
+    "'Hidler' (Hydler / Hidler variants)."
+   ]
+  },
+  {
+   "entry": 221,
+   "name_jp": "車弁慶",
+   "name_en": "Benkei Kuruma",
+   "en": "The pilot of the Poseidon Machine and Getter Poseidon. A transfer student to Asama Academy, he became acquainted with Genki, the son of Dr. Saotome, and was scouted as the Poseidon Machine's pilot for his extraordinary stamina and brute strength. Although he declined at first, he regretted that Genki was injured in an attack by the Hyakki Empire and joined the fighting in the Poseidon Machine of his own accord. By nature he is an easygoing man who dislikes fighting, and he has the gentleness to love animals and children. His hobby is baseball, and he later became captain of Asama Academy's baseball team. Note that in the original work he never uses Musashi's special move, Daisetsuzan Oroshi.",
+   "notes": "",
+   "uncertain": [
+    "Source says 'Poseidon-gou' (Poseidon Machine); rendered 'Poseidon Machine'."
+   ]
+  },
+  {
+   "entry": 225,
+   "name_jp": "神隼人",
+   "name_en": "Hayato Jin",
+   "en": "The pilot of the Liger Machine and Getter Liger. At the time of the Dinosaur Empire's invasion of the surface, he turned down his classmate Ryoma's request to board the Getter once, but when Michiru, who bears the likeness of his late mother, was in danger, he volunteered to be a pilot himself. He is a cool nihilist with outstanding athletic ability and is also thoughtful, so he is easily misunderstood by others, and he clashed several times with the direct Ryoma and Musashi. Yet he is a quietly hot-blooded man burning with a sense of mission, and deep in his heart he is bound to his comrades by deep ties. His hobby is the harmonica.",
+   "notes": "",
+   "uncertain": [
+    "'Michiru, who bears the likeness of his late mother' - the source phrase (omokage) read as a resemblance."
+   ]
+  },
+  {
+   "entry": 226,
+   "name_jp": "早乙女ミチル",
+   "name_en": "Michiru Saotome",
+   "en": "The daughter of Dr. Saotome and a student at Asama Academy like Ryoma and the others. She helps with her father's research and supports the Getter Team by handling reconnaissance, searching and supply with the Command Machine, Lady Command. She is the Getter Team's madonna, has both a spirited side and womanly gentleness, but several times showed jealousy at the appearance of beautiful guest characters. In the final battle with the Hyakki Empire, she pilots the Liger Machine in place of the absent Hayato. Also, it seems she accepted Hayato's feelings just before that final battle.",
+   "notes": "",
+   "uncertain": [
+    "Subject of the last sentence: Michiru accepted Hayato's feelings (restored)."
+   ]
+  },
+  {
+   "entry": 227,
+   "name_jp": "早乙女博士",
+   "name_en": "Dr. Saotome",
+   "en": "The director of the Saotome Institute. He lost his eldest son Tatsuhito in the Dinosaur Empire's first invasion, leaving a family of four: his wife Kazuko, eldest daughter Michiru and second son Genki. A leading authority on Getter Ray research, he originally built Getter Robo for space development, but for the war with the Dinosaur Empire he sent out an armed Getter and later completed the new-type Getter Robo for combat. Although he looks shabby with his unkempt beard and geta sandals, he is not only a first-rate researcher but also commands the Getter Team in battle with calm judgment and accurate instructions. His personality is usually gentle, but he also has a side that stops the three hotheads even by shouting at them.",
+   "notes": "",
+   "uncertain": [
+    "'the three hotheads' = the three pilots (Ryoma, Hayato, Benkei or Musashi, depending on the series); left generic.",
+    "'Tatsuhito', 'Kazuko', 'Genki' per Getter Robo wiki."
+   ]
+  },
+  {
+   "entry": 228,
+   "name_jp": "ブライ大帝",
+   "name_en": "Emperor Burai",
+   "en": "The ruler of the Hyakki Empire. He had been hiding in the deep sea for a long time, but after watching the Dinosaur Empire fall and seeing Getter Robo take heavy damage, he raised the Science Fortress Island and set out to conquer the world. In order to replenish energy and to build powerful Hyakki Robots, he targeted the Getter Ray amplifier and attacked the Saotome Institute. He is cold-hearted and ruthless, choosing any means for his ambitions, and even ordered the elimination of Risa, his own real daughter who betrayed the empire. Note that the horns of the Hyakki clan are attached by modification surgery, and they die if their horns are destroyed.",
+   "notes": "",
+   "uncertain": [
+    "'Risa' (Lisa/Risa) - spelling not verified in an English source.",
+    "'Science Fortress Island' (kagaku yosai-tou) is a literal rendering."
+   ]
+  },
+  {
+   "entry": 229,
+   "name_jp": "ヒドラー元帥",
+   "name_en": "Marshal Hidler",
+   "en": "One of the Hyakki Empire's executives and its combat commander. He swore loyalty to Burai and drew up a variety of operations. He goes to the battlefield and gives orders to the combat units, and sometimes personally leads bombers into battle. He is cruel and base by nature, and chooses any means to defeat Getter Robo, such as interfering with Tekkouki, who wants a one-on-one duel with Getter Robo.",
+   "notes": "",
+   "uncertain": [
+    "'Tekkouki' is a Hyakki Robot / oni named in the source (Getter wiki lists 'Mecha Tekkouki')."
+   ]
+  },
+  {
+   "entry": 230,
+   "name_jp": "流竜馬",
+   "name_en": "Ryoma Nagare",
+   "en": "The pilot of the Dragon Machine and Getter Dragon. The captain of Asama Academy's soccer club, he fights as a Getter Robo pilot in place of Tatsuhito, the son of Dr. Saotome, who lost his life in the Dinosaur Empire's invasion of the surface. He has a strong sense of responsibility and a serious, single-minded personality; although he is somewhat inflexible at times, he held the Getter Team together as its leader. His family home in Kyushu is a kendo dojo, he himself has some skill with the sword, and he sometimes fought putting it to use. His prized vehicle is a sidecar, in which he often had Musashi ride beside him.",
+   "notes": "",
+   "uncertain": [
+    "Source says 'Dragon-gou' (Dragon Machine)."
+   ]
+  },
+  {
+   "entry": 231,
+   "name_jp": "宇門大介",
+   "name_en": "Daisuke Umon",
+   "en": "A young man who works at Shirakaba Ranch while helping with the research of his foster father, Dr. Umon. Daisuke Umon is a temporary guise; his true self is Duke Fleed, the pilot of Grendizer. For that reason, when the fight against the Vegan Empire begins, he transforms into his combat suit with the shout \"Duke Fleed.\" Concealing his identity is considered synonymous with protecting the Earth, and few people know his true identity. Normally he is good at guitar and horse riding, a serious young man who loves beautiful nature, and is adored by those around him for his kind heart that cares for others.",
+   "notes": "",
+   "uncertain": [
+    "'Shirakaba Ranch' (Birch Ranch) is the game's name; the Mazinger wiki calls it 'Makiba Ranch'."
+   ]
+  },
+  {
+   "entry": 232,
+   "name_jp": "宇門博士",
+   "name_en": "Dr. Umon",
+   "en": "The director of the Space Science Laboratory and the foster father of Daisuke Umon. His full name is Genzo Umon. A renowned scientist with deep knowledge of UFOs and space science, he co-manages Shirakaba Ranch with Danbei Makiba. He took in Duke, who reached Earth, as an adopted son, and watches over him with affection no different from a real son's. Calm and composed, in battle he becomes a commander and gives accurate instructions.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 233,
+   "name_jp": "科学長官ズリル",
+   "name_en": "Science Minister Zuril",
+   "en": "The science minister whom King Vega dispatched to Skull Moon Base. He has been ordered by King Vega to cooperate with Commander Gandal, but since they are equal in rank, he sometimes takes independent action. Brilliant, he designed and developed a variety of destructive weapons and Saucer Beasts. He also surpasses Lady Gandal in strategy and scheming, and troubled Grendizer with vicious plans. Under the eyepatch over his left eye is a small computer and projector, which are used for information and battlefield analysis. Incidentally, his son's name is Zuril Jr.",
+   "notes": "",
+   "uncertain": [
+    "'Science Minister' (kagaku choukan) follows the Mazinger wiki title; 'Commander Gandal' (wiki: General Gandal).",
+    "'Zuril Jr.' per Mazinger wiki (Zuril Jr.)."
+   ]
+  },
+  {
+   "entry": 234,
+   "name_jp": "ガンダル司令",
+   "name_en": "Commander Gandal",
+   "en": "The highest authority at the forward base on the Moon, Skull Moon. He gives orders to the operations units at Skull Moon Base and, after Blaki's death, also served as attack captain. His loyalty to King Vega is deep, to the point that he does not hesitate to hurt himself. He also devises cold-blooded plans and thinks nothing of other people's lives to accomplish a mission. Inside him is a separate female personality called Lady Gandal, and the two hold independent views of their own. Gandal prefers to suppress enemies with overwhelming military force, while Lady Gandal excels at bold tactics and psychological warfare using strategy, and the difference of opinion sometimes caused quarrels. In the early period, Gandal's face split open and a small full-body Lady Gandal emerged from inside, but after he suffered serious injuries and underwent plastic surgery, the way she appears changed so that the faces swap by sliding.",
+   "notes": "",
+   "uncertain": [
+    "Pronoun 'he' for Gandal, 'she' for Lady Gandal (Mazinger wiki: Gandal male, Lady Gandal female).",
+    "'Blaki' (Blacky in the game's katakana) per Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 235,
+   "name_jp": "恐星大王ベガ",
+   "name_en": "Great King Vega",
+   "en": "The dictator who rules Planet Vega. He leads the Vegan Empire and plots to rule the entire universe. Because Planet Vega is on the verge of collapse due to Vegatron radiation, he is after Earth, which has beautiful nature and resembles Planet Vega. After Planet Vega exploded, he went to Skull Moon Base aboard the King of Vega and took command directly. He is a symbol of terror who repeats destruction and plunder with cold cruelty, but he seems to have a soft side toward his daughter Rubina. He was reduced to cosmic dust by the concentrated attack of the Grendizer Team.",
+   "notes": "",
+   "uncertain": [
+    "'Great King Vega' (Daiou Vega) shortened to 'King Vega' in the body text, as in the Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 236,
+   "name_jp": "グレース・マリア・フリード",
+   "name_en": "Maria Grace Fleed",
+   "en": "Duke Fleed's younger sister, age 14. A tomboy who hates being treated with restraint. She has high physical ability no less than her brother's, and her motorcycle riding skill is considerable. She also has mild precognition and once saved Koji's life from an assassin. During the Vegan Empire's attack on Planet Fleed she was separated from her brother and fled to Earth with an old man who seems to have been an attendant; perhaps she sealed away the painful memory herself, as she seems to have believed she was an Earthling. On Earth she was raised as the old man's granddaughter, but the old man, who happened to witness Grendizer fighting, told her all the secrets, and she came to realize her true identity. At first she mistook Daisuke for an enemy and attacked him, but seeing the royal family's pendant she realized he was her brother, they reconciled, and she became the pilot of the Drill Spazer. While being active as a member of the Dizer Team, she came to feel a faint romantic feeling, drawn by Koji's personality.",
+   "notes": "",
+   "uncertain": [
+    "Full name order: Grace Maria in the game; Wikipedia / Mazinger wiki use 'Maria Grace Fleed' (used in the glossary).",
+    "'old man' / 'attendant' (jijuu) kept as in the source; 'Dizer Team' = Grendizer Team (shortened in the source)."
+   ]
+  },
+  {
+   "entry": 238,
+   "name_jp": "親衛隊員ジグラ",
+   "name_en": "Royal Guardsman Jigra",
+   "en": "A soldier belonging to King Vega's direct Royal Guard. A whip user with enough skill to accurately pull a glass at a distance to himself. He has calm observation and judgment and excels at tactics that relentlessly attack the opponent's weakness. He attacked and cornered Grendizer during the defenseless \"death time\" of six seconds from when Grendizer combines with the Spazer until the seat move is complete, and seven and a half seconds from the start of the seat move until separation is complete, but was defeated by Grendizer on its first combination with the Double Spazer.",
+   "notes": "",
+   "uncertain": [
+    "'Royal Guard' (shineitai) is a literal rendering; the Mazinger wiki calls him 'Commander Jigra'."
+   ]
+  },
+  {
+   "entry": 239,
+   "name_jp": "親衛隊長モルス",
+   "name_en": "Royal Guard Captain Mors",
+   "en": "The newly appointed captain of King Vega's direct Royal Guard. A prince of Planet Mole and once Duke Fleed's one-and-only best friend, but he was captured by the Vegan Empire and subjected to mind control, and hated Duke Fleed as the enemy of Planet Mole. During the Vegan Empire's attack on Planet Fleed, he caused Duke Fleed, who tried to help him, to suffer a Vegatron radiation wound. When he faced Duke Fleed in person, the bomb planted in his badge exploded, and the shock brought him back to his senses. After treating Duke Fleed's old Vegatron radiation wound with the Vegatron Minus Beam, he headed to the Moon to attack Skull Moon Base, but lost his life to the self-destruct device that had been set on Jigajiga.",
+   "notes": "",
+   "uncertain": [
+    "Name spelling: 'Mors' from the Mazinger wiki episode title ('Tragedy of Elite Bodyguard Mors'); the Vegan Commanders list shows 'Morros'; katakana Morusu.",
+    "'Planet Mole' (Mooru-sei) is a literal romanization.",
+    "Gender: the text calls him a prince (oji); no other source."
+   ]
+  },
+  {
+   "entry": 243,
+   "name_jp": "地球攻撃隊長ブラッキー",
+   "name_en": "Earth Attack Captain Blaki",
+   "en": "The attack captain of the Vegan Empire's Earth invasion operation. Acting on Commander Gandal's orders, he descended to Earth in the Motherburn and took personal command of the effort to defeat Grendizer and subdue the planet. He is a model soldier, burning with a sense of mission and always fighting with resolve to die, but he also has a cowardly side that does not shrink from betrayal to protect his own position. His plans were sloppy at the finish and he failed time and again, and in the end he made a suicide attack on Grendizer and was killed in action.",
+   "notes": "",
+   "uncertain": [
+    "Spelling 'Blaki' (Mazinger wiki / Wikipedia) vs the game's katakana Burakkii (Blacky)."
+   ]
+  },
+  {
+   "entry": 244,
+   "name_jp": "デューク・フリード",
+   "name_en": "Duke Fleed",
+   "en": "The prince of Planet Fleed, which was destroyed by the Vegan Empire, and the pilot of Grendizer. He has high physical ability and telepathy. When Planet Fleed was attacked, he was exposed to Vegatron radiation in his right arm as the price of saving a close friend. At that time he was also captured by the Vegan Empire and confined, but he seized Grendizer, escaped, and challenged them all alone. But Planet Fleed was destroyed, and afterward he drifted through space and reached Earth, where he lived peacefully as Daisuke Umon. When he learned that the Vegan Empire's hand had reached Earth, at first, because of memories of past battles, he refused to board Grendizer, but he swore to fight to protect Earth, his second home. Sincere and deeply fond of Earth, he is normally mild, but he shows anger toward the Vegan Empire and attacks without mercy.",
+   "notes": "",
+   "uncertain": [
+    "'close friend' (shin'yuu) - the text does not name him here; entry 239 suggests Mors."
+   ]
+  },
+  {
+   "entry": 245,
+   "name_jp": "ベガ兵",
+   "name_en": "Vegan Soldier",
+   "en": "Low-ranking soldiers of the Vegan Empire. They are armed with laser guns and always move in twos or threes. They perform various duties such as guarding bases, carrying cargo, and piloting Minifos.",
+   "notes": "",
+   "uncertain": [
+    "Plural used because the source describes them as a group; gender not established."
+   ]
+  },
+  {
+   "entry": 248,
+   "name_jp": "牧葉団兵衛",
+   "name_en": "Danbei Makiba",
+   "en": "The head of Shirakaba Ranch and the father of Hikaru and Goro. As the president of the \"Society for Befriending Space Aliens,\" he often skipped work to go skywatching, which troubled Hikaru. He is good with a lasso, and when he worked as a cowboy in Texas long ago he seems to have been called \"Dan the Quick Draw.\" He also loves Hikaru too much, and tries to hang any man who approaches Hikaru. Of a bottomlessly cheerful nature, he normally gives the impression of being too precarious to leave alone, but he has also shown a side of a fine father who tightens up when he should. He mistook Koji, who came out of the TFO, for an alien.",
+   "notes": "",
+   "uncertain": [
+    "Club name \"Uchuujin to nakayoku naru kai\" has no established English; 'Society for Befriending Space Aliens' is a translation.",
+    "Nickname: Mazinger wiki says 'Dan of the Hail' (differs from 'Quick Draw'); 'Quick Draw' follows the Japanese (nukiuchi).",
+    "'Goro' (Goro Makiba) per Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 249,
+   "name_jp": "牧葉ひかる",
+   "name_en": "Hikaru Makiba",
+   "en": "The eldest daughter of the Makiba family, who works at Shirakaba Ranch. As she worked with Daisuke at the ranch, she came to have feelings for him. When she learned that Daisuke was Duke Fleed, she worried over whether there was anything she could do, decided in the end to fight together with him, and later became the pilot of the Marine Spazer. Blessed with outstanding athletic ability, a high level of riding skill and a light touch of movement, she succeeded in the Combination Cross, which had given Koji trouble, in two attempts during actual combat without special training. Although somewhat of a tomboy when with her younger brother Goro, her cheerfulness plus her gentle nature and strong will became a support for Duke Fleed.",
+   "notes": "",
+   "uncertain": [
+    "'Marine Spazer' per Mazinger wiki."
+   ]
+  },
+  {
+   "entry": 250,
+   "name_jp": "ルビーナ姫",
+   "name_en": "Princess Rubina",
+   "en": "The daughter of King Vega and Duke Fleed's former fiancee. She was once sent to Planet Fleed through political maneuvering, and fell in love with Duke at that time. She was told that Duke Fleed was alive on Planet Ruby, which the Vegan Empire governs, and reunited with him on Earth. And she told him that Planet Fleed was recovering from contamination by Vegatron radiation. A woman full of dignity, she wished for the peaceful coexistence of Earth and the Vegan Empire, but she was caught up in the fight between Duke Fleed and Minister Zuril, was gravely wounded, and died.",
+   "notes": "",
+   "uncertain": [
+    "'Planet Ruby' (Ruubii-sei) - spelling unverified.",
+    "'Minister Zuril' (source: Zuril choukan)."
+   ]
+  },
+  {
+   "entry": 254,
+   "name_jp": "バレンドス親衛隊長",
+   "name_en": "Royal Guard Captain Barendos",
+   "en": "A Royal Guard captain who came to Earth after being ordered by King Vega to defeat Grendizer. A confident tactician, he probed the captured Koji's memories with a confession device, raided the Robot Museum, obtained Great Mazinger, and fought Grendizer.",
+   "notes": "",
+   "uncertain": [
+    "'Barendos' per Mazinger wiki; 'confession device' (jihaku souchi) is a literal rendering."
+   ]
+  },
+  {
+   "entry": 340,
+   "name_jp": "兜甲児",
+   "name_en": "Koji Kabuto",
+   "en": "A young man who protected the world from Dr. Hell's Mechanical Beast army with Mazinger Z. A bright, straightforward hothead who pulls others along. Believing that the only way to solve the Earth's resource shortage was trade with aliens, he studied at NASA's UFO Center, analyzing UFO structures, developing UFOs and researching space science, but because UFOs frequently appeared in Japan, he returned home with the TFO that he had developed. He was the first to realize that Daisuke was Duke Fleed, and they became comrades bound by hot friendship and fought the Vegan Empire together. At first he used the TFO and was sometimes a hindrance, but after he became the pilot of the later-developed Double Spazer, he showed performance that was no less than Grendizer's.",
+   "notes": "",
+   "uncertain": [
+    "'Mechanical Beast army' (Kikaijuu gundan) = Mechanical Beast Army / Corps."
+   ]
+  },
+  {
+   "entry": 394,
+   "name_jp": "ドラゴノザウルス",
+   "name_en": "Dragonsaurus",
+   "en": "A creature that had been lurking in the ancient sea, revived and grown to gigantic size because humans spilled oil into the sea. For that reason it loves oil and attacks tankers. It has the ability to fly, its dragon-neck-like tentacles regenerate instantly even when cut, and it can also rotate them to create strong winds. In addition, its flexible body is immune to missile attacks.",
+   "notes": "",
+   "uncertain": [
+    "Name spelling 'Dragonsaurus' (Mazinger wiki) vs the game's Doragonozaurusu."
+   ]
+  }
+ ]
+}

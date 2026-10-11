@@ -1,0 +1,263 @@
+{
+ "version": "0.4.24",
+ "base_version": "0.4.23",
+ "date": "2026-10-11",
+ "reason": "2026-10-11 user correction: use Est for both Albero and Folia in every current game-facing input.",
+ "files": [
+  {
+   "source": "work/glossary/campaign_terms.json",
+   "changes": [
+    {
+     "field": "/characters/4/en_full",
+     "before": "Folia Esto",
+     "after": "Folia Est"
+    }
+   ]
+  },
+  {
+   "source": "work/glossary/stage18_history_additions.json",
+   "changes": [
+    {
+     "field": "/characters/0/en_full",
+     "before": "Folia Esto",
+     "after": "Folia Est"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/ps2/script/campaign_port.en.json",
+   "changes": [
+    {
+     "field": "/texts/5498/english",
+     "before": "#男愛称（What is it? Commander... No, Albero@　Esto...）",
+     "after": "#男愛称（What is it? Commander... No, Albero@　Est...）"
+    },
+    {
+     "field": "/texts/6503/english",
+     "before": "#男愛称（What is it? Commander... No, Albero@　Esto...）",
+     "after": "#男愛称（What is it? Commander... No, Albero@　Est...）"
+    },
+    {
+     "field": "/texts/24208/english",
+     "before": "#男愛称「Folia Esto will never come back!!」",
+     "after": "#男愛称「Folia Est will never come back!!」"
+    },
+    {
+     "field": "/texts/26347/english",
+     "before": "#男愛称「Folia Esto will never come back!!」",
+     "after": "#男愛称「Folia Est will never come back!!」"
+    },
+    {
+     "field": "/texts/49434/english",
+     "before": "#男愛称「The Captain... What happened to Albero@　Esto?」",
+     "after": "#男愛称「The Captain... What happened to Albero@　Est?」"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/campaign_context_overrides.json",
+   "changes": [
+    {
+     "field": "/overrides/152/expected_en",
+     "before": "Folia Esto will never come back!!",
+     "after": "Folia Est will never come back!!"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage11_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/367/en",
+     "before": "He's former Major Albero Esto, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!",
+     "after": "He's former Major Albero Est, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!"
+    },
+    {
+     "field": "/rows/530/en",
+     "before": "Albero Esto was #男愛称's former commanding officer.",
+     "after": "Albero Est was #男愛称's former commanding officer."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage14_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/337/en",
+     "before": "Besides... Albero Esto made contact with Giganos. There's a good chance he's gone into space too...",
+     "after": "Besides... Albero Est made contact with Giganos. There's a good chance he's gone into space too..."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/205/en",
+     "before": "I'm Albero Esto.",
+     "after": "I'm Albero Est."
+    },
+    {
+     "field": "/rows/236/en",
+     "before": "I remember now, Albero Esto... You were the commander of the Cry Wolves, weren't you?",
+     "after": "I remember now, Albero Est... You were the commander of the Cry Wolves, weren't you?"
+    },
+    {
+     "field": "/rows/312/en",
+     "before": "Folia Esto will never come back!!",
+     "after": "Folia Est will never come back!!"
+    },
+    {
+     "field": "/rows/745/en",
+     "before": "I can't imagine Albero Esto is controlling it.",
+     "after": "I can't imagine Albero Est is controlling it."
+    },
+    {
+     "field": "/rows/758/en",
+     "before": "That revenge Albero Esto spoke of... Could it be...",
+     "after": "That revenge Albero Est spoke of... Could it be..."
+    },
+    {
+     "field": "/rows/772/en",
+     "before": "What is it? Commander... No, Albero Esto...",
+     "after": "What is it? Commander... No, Albero Est..."
+    },
+    {
+     "field": "/rows/1057/en",
+     "before": "Albero Esto... The pilot of the Medius Locus who took part in the battle in Kyoto?",
+     "after": "Albero Est... The pilot of the Medius Locus who took part in the battle in Kyoto?"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_3.json",
+   "changes": [
+    {
+     "field": "/rows/72/en",
+     "before": "Folia Esto will never come back!!",
+     "after": "Folia Est will never come back!!"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage22_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/52/en",
+     "before": "For me to fight Albero Esto... and the Medius Locus...",
+     "after": "For me to fight Albero Est... and the Medius Locus..."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage28_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/211/en",
+     "before": "Let's settle this, Commander... No, Albero Esto!",
+     "after": "Let's settle this, Commander... No, Albero Est!"
+    },
+    {
+     "field": "/rows/505/en",
+     "before": "I'll end this now, Albero Esto!!",
+     "after": "I'll end this now, Albero Est!!"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage41_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/44/en",
+     "before": "Eliminate Albero Esto as the mastermind behind the theft of Medius...and return to me with Medius.",
+     "after": "Eliminate Albero Est as the mastermind behind the theft of Medius...and return to me with Medius."
+    },
+    {
+     "field": "/rows/178/en",
+     "before": "Albero Esto...!",
+     "after": "Albero Est...!"
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage50_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/241/en",
+     "before": "Oh... If it isn't Albero Esto of the Cry Wolves.",
+     "after": "Oh... If it isn't Albero Est of the Cry Wolves."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage51_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/10/en",
+     "before": "Yes. In fact, I think they intended to dispose of them, just like former Major Albero Esto.",
+     "after": "Yes. In fact, I think they intended to dispose of them, just like former Major Albero Est."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage54_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/13/en",
+     "before": "The shackles called Albero Esto...",
+     "after": "The shackles called Albero Est..."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage55_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/394/en",
+     "before": "The Captain... What happened to Albero Esto?",
+     "after": "The Captain... What happened to Albero Est?"
+    },
+    {
+     "field": "/rows/978/en",
+     "before": "And... what Commander Albero Esto taught me, and what I learned with #部隊名...",
+     "after": "And... what Commander Albero Est taught me, and what I learned with #部隊名..."
+    }
+   ]
+  },
+  {
+   "source": "work/translation/en/script/stage56_campaign_sol61medium_merged.json",
+   "changes": [
+    {
+     "field": "/rows/201/en",
+     "before": "What Albero Esto and that woman have done since they stole Medius Locus...",
+     "after": "What Albero Est and that woman have done since they stole Medius Locus..."
+    },
+    {
+     "field": "/rows/243/en",
+     "before": "You... Aren't you involved with Albero Esto and that woman, Eldy Middi?",
+     "after": "You... Aren't you involved with Albero Est and that woman, Eldy Middi?"
+    }
+   ]
+  }
+ ],
+ "current_proofread_dialogue_already_correct": true,
+ "context_guards_synchronized": true,
+ "iso_rebuilt": false,
+ "historical_review_before_text_preserved": true,
+ "local_builds_created": true,
+ "local_build_scope": "Surname-only incremental candidates over 0.4.23, plus updated native version footer",
+ "build_verification": {
+  "psp": {
+   "report": "work/output/psp_est_0.4.24_verification.json",
+   "output": "work/output/SRWMX_EN_0.4.24.iso",
+   "sha256": "cf322e4494c28ec559f63e8718b65d77cf399e2025fd44044ef146c659e10d75",
+   "corrected_occurrences": 2
+  },
+  "ps2": {
+   "report": "work/output/ps2_est_0.4.24_verification.json",
+   "output": "work/output/SRWMX_PS2_EN_0.4.24.iso",
+   "sha256": "7f6a753a1e00e748c3dfb106c21644cf7d89015814cf6b290c0a885ba907b5ea",
+   "corrected_occurrences": 2
+  }
+ }
+}

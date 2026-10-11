@@ -1657,12 +1657,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -5704,12 +5704,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロム",
    "speaker_en": "Rom",
-   "en": "The way this one fights... The defense has more openings than the attacks...! But...!",
+   "en": "The way he fights... His defense leaves more openings than his offense...! But...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage44_campaign.json",
     "id": 189
    },
-   "notes": "Rom notes opponent defense openings; neutral phrasing, deliberately unfinished But. Final review: Semantic clarity: explicitly retain more-openings comparison between defense and attacks; neutral referent and unfinished But retained.",
+   "notes": "Rom notes opponent defense openings; neutral phrasing, deliberately unfinished But. Final review: Semantic clarity: explicitly retain more-openings comparison between defense and attacks; neutral referent and unfinished But retained. Chapters 31-58 proofreading: Makes Rom's comparison of Zero's offense and defense natural and identifies whose defense he is assessing.",
    "uncertain": [
     "Source But... deliberately unfinished; opponent pronouns kept neutral."
    ]
@@ -7057,12 +7057,12 @@
    "kind": "dialogue",
    "speaker_jp": "カミーユ",
    "speaker_en": "Kamille",
-   "en": "...Back then, I couldn't save the kid I had to save. But you...!",
+   "en": "...Back then, I couldn't save the girl I needed to save. But you...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage44_campaign.json",
     "id": 265
    },
-   "notes": "Kamille admits failing to save the child he needed to save. Child remains neutral; contrasting appeal to Ginga is unfinished.",
+   "notes": "Kamille admits failing to save the child he needed to save. Child remains neutral; contrasting appeal to Ginga is unfinished. Chapters 31-58 proofreading: Uses 'girl' for Kamille's reference to Four and Rosammy, preserving the personal regret without making them sound like small children.",
    "uncertain": [
     "source_omission: unfinished contrast to Ginga"
    ]
@@ -9430,12 +9430,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイナ",
    "speaker_en": "Leina",
-   "en": "No! Stoooop!! Rom, my brotheeeer!!",
+   "en": "No! Stoooop!! Roooom!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage44_campaign.json",
     "id": 408
    },
-   "notes": "Retains source brother address to Rom during the cry.",
+   "notes": "Retains source brother address to Rom during the cry. Chapters 31-58 proofreading: Makes Leina's panicked call to her brother natural in English while retaining Rom's name and the prolonged shout.",
    "uncertain": []
   },
   {
@@ -10257,7 +10257,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 44,
-  "fingerprint": "f98b15cd5bcfee3ea8dac49998fbb988dc9915c32fa4d89dd8d3a00fe62a0eef",
+  "fingerprint": "f6931f4fc12ca5008507ec2e8820f6f1dc597e4902451459ab9fb6732e9b79bb",
   "reviewed_reused_ids": [
    0,
    43,
@@ -10428,7 +10428,7 @@
   "reviewed_reused_rows": 165,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all456 fresh source/final rows and58 fresh flags against original scene context, all22 non-template reuse rows in every occurrence, and143 defeat-template rows across205 registrations with0 ordinary uses. Six distinct actual Sol6.1 Medium translators completed6packets with immutable full drafts. Independent current-font audit: only initial plain291 overflow439px; same3line list reflow preserves all5units and both loss conditions at293/305/226px. Every final row fits;0dialogue compression. Reviewed both Hokuto recovery branches, second/third idiot count, brainwashed false memories, unknown child and other-world Gades claims. Source117 predicate remains unfinished after actual worker5 proofreading; fixed Commander Ranking and Leina Power Raiser source-short terms. Nagase specialreading from primary ArtStorm; Rosammy from Akurasu. Dimensional intersection line/jump device and turtle epithet licensed names remain provisional. Altair43 fear-clause ambiguity remains flagged. Frozen honorific policy, hidden labels and source-short names retained."
+  "note": "Coordinator reviewed all456 fresh source/final rows and58 fresh flags against original scene context, all22 non-template reuse rows in every occurrence, and143 defeat-template rows across205 registrations with0 ordinary uses. Six distinct actual Sol6.1 Medium translators completed6packets with immutable full drafts. Independent current-font audit: only initial plain291 overflow439px; same3line list reflow preserves all5units and both loss conditions at293/305/226px. Every final row fits;0dialogue compression. Reviewed both Hokuto recovery branches, second/third idiot count, brainwashed false memories, unknown child and other-world Gades claims. Source117 predicate remains unfinished after actual worker5 proofreading; fixed Commander Ranking and Leina Power Raiser source-short terms. Nagase specialreading from primary ArtStorm; Rosammy from Akurasu. Dimensional intersection line/jump device and turtle epithet licensed names remain provisional. Altair43 fear-clause ambiguity remains flagged. Frozen honorific policy, hidden labels and source-short names retained. 2026-10-09: All Chapter 44 rows proofread against the original source in scene context, including all applicable routes and reused rows. 4 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 621,

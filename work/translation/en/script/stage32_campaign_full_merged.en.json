@@ -84,12 +84,12 @@
    "kind": "dialogue",
    "speaker_jp": "バーベム",
    "speaker_en": "Bahbem",
-   "en": "Then...send that to the super robot squad as well. We should get good data in a short time.",
+   "en": "Then... send that to the super robot squad as well. We should get good data in a short time.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 3
    },
-   "notes": "That refers to Vermillion; retain the source concealed demonstrative. super robot squad follows campaign convention.",
+   "notes": "That refers to Vermillion; retain the source concealed demonstrative. super robot squad follows campaign convention. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -116,12 +116,12 @@
    "kind": "dialogue",
    "speaker_jp": "バーベム",
    "speaker_en": "Bahbem",
-   "en": "By the way, Helena...have you discovered where the Star of Ra Mu is?",
+   "en": "By the way, Helena... have you discovered where the Star of Ra Mu is?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 5
    },
-   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained.",
+   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -200,12 +200,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "Then...what shall we do?",
+   "en": "Then... what shall we do?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 10
    },
-   "notes": "Helena seeks his next instruction; restore the implied question.",
+   "notes": "Helena seeks his next instruction; restore the implied question. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -250,12 +250,12 @@
    "kind": "dialogue",
    "speaker_jp": "ひびき博士",
    "speaker_en": "Dr. Hibiki",
-   "en": "...Helena Bahbem...are you here on behalf of the Foundation?",
+   "en": "...Helena Bahbem... are you here on behalf of the Foundation?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 13
    },
-   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained.",
+   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -346,12 +346,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "Please don't worry...it is only an academic survey.",
+   "en": "Please don't worry... it is only an academic survey.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 19
    },
-   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained.",
+   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -824,12 +824,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3284,12 +3284,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "Alpha V1...you've been sent straight into actual combat, but there is no problem, is there?",
+   "en": "Alpha V1... you've been sent straight into actual combat, but there is no problem, is there?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 34
    },
-   "notes": "Helena addresses Elvy on immediate combat deployment.",
+   "notes": "Helena addresses Elvy on immediate combat deployment. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3444,12 +3444,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "It is an anti-MU weapon...a mobile weapon built to provide TERRA with a new fighting force.",
+   "en": "It is an anti-Mu weapon... a mobile weapon built to provide TERRA with a new fighting force.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 44
    },
-   "notes": "Both anti-MU role and new TERRA military strength retained.",
+   "notes": "Both anti-Mu role and new TERRA military strength retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3508,7 +3508,7 @@
    "kind": "thought",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "Then I can fight the MU without relying on RahXephon or Kamina...!",
+   "en": "Then I can fight the Mu without relying on RahXephon or Kamina...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 48
@@ -3636,12 +3636,12 @@
    "kind": "dialogue",
    "speaker_jp": "サイ・サイシー",
    "speaker_en": "Sai Saici",
-   "en": "You just won't give it a rest! Yakitori, fried chicken, Peking duck...I'm running out of recipes!",
+   "en": "You just won't give it a rest! Yakitori, fried chicken, Peking duck... I'm running out of recipes!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 56
    },
-   "notes": "Bird-themed recipe taunt retains yakitori, fried chicken and Peking duck.",
+   "notes": "Bird-themed recipe taunt retains yakitori, fried chicken and Peking duck. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3846,12 +3846,12 @@
    "kind": "dialogue",
    "speaker_jp": "キラル",
    "speaker_en": "Kyral",
-   "en": "You laugh and call it a game...but now I devote this tainted life to fighting for the good of the world!",
+   "en": "You laugh and call it a game... but now I devote this tainted life to fighting for the good of the world!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 69
    },
-   "notes": "Kyral accepts tainted past and commits remaining life to worldly good.",
+   "notes": "Kyral accepts tainted past and commits remaining life to worldly good. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3912,12 +3912,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミケロ",
    "speaker_en": "Michelo",
-   "en": "Oh...so this is...the Bahbem Foundation's new model!",
+   "en": "Oh... so this is... the Bahbem Foundation's new model!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 73
    },
-   "notes": "New encounter with Elvy; Michelo knows Vermillion development origin.",
+   "notes": "New encounter with Elvy; Michelo knows Vermillion development origin. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3928,12 +3928,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "You...how do you know that!?",
+   "en": "You... how do you know that!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 74
    },
-   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained.",
+   "notes": "Adjacent event dialogue establishes speaker, listener and subject; source tone retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -3944,12 +3944,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミケロ",
    "speaker_en": "Michelo",
-   "en": "It takes one snake to know another! Well, since we've met on the battlefield, we have to fight!",
+   "en": "We snakes know each other's ways! Well, since we've met on the battlefield, we have to fight!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 75
    },
-   "notes": "Underworld knowledge proverb preserved with snake metaphor, no newly invented literal snake character.",
+   "notes": "Underworld knowledge proverb preserved with snake metaphor, no newly invented literal snake character. Chapters 31-58 proofreading: Make the insider-knowledge proverb understandable in English while retaining its snake metaphor. It does not mean that Michelo merely recognizes Elvy as a fellow snake.",
    "uncertain": [
     "Snake proverb retains its image; means insiders know insiders, rather than literal snakes."
    ]
@@ -3978,12 +3978,12 @@
    "kind": "dialogue",
    "speaker_jp": "ドモン",
    "speaker_en": "Domon",
-   "en": "Chapman! This is no place for you to live...return to the underworld!!",
+   "en": "Chapman! This is no place for you to live... return to the underworld!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 77
    },
-   "notes": "New encounter with resurrected Chapman; death/underworld threat retained.",
+   "notes": "New encounter with resurrected Chapman; death/underworld threat retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -4188,7 +4188,7 @@
    "kind": "thought",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "Fine, I'll do it. When I settle things with the MU, I'll have to face much worse than this anyway.",
+   "en": "Fine, I'll do it. When I settle things with the Mu, I'll have to face much worse than this anyway.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 90
@@ -6154,12 +6154,12 @@
    "kind": "thought",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "I knew Raideen was involved in the cause... No, there's no doubt something here is involved.",
+   "en": "As I thought, Raideen is involved... No, something here must be causing it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 208
    },
-   "notes": "Haruka corrects her initial Raideen suspicion to something at this location; no new identity supplied.",
+   "notes": "Haruka corrects her initial Raideen suspicion to something at this location; no new identity supplied. Chapters 31-58 proofreading: Express Haruka's conclusion about why RahXephon will not activate in natural English, and preserve her correction from Raideen to something at this location.",
    "uncertain": []
   },
   {
@@ -7681,12 +7681,12 @@
    "kind": "dialogue",
    "speaker_jp": "ジュドー",
    "speaker_en": "Judau",
-   "en": "You people in Mokuren lived on Jupiter and despaired at humanity's foolishness, didn't you?!",
+   "en": "You people in the Jovian Federation lived on Jupiter and despaired at humanity's foolishness, didn't you?!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 300
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use the established English organization name, Jovian Federation, rather than the untranslated Mokuren abbreviation.",
    "uncertain": []
   },
   {
@@ -9517,12 +9517,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "This battle...is your victory.",
+   "en": "This battle... is your victory.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 408
    },
-   "notes": "Hokushin encounter and battle condition. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Hokushin encounter and battle condition. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the ellipsis from the following word for readable punctuation. Preserve the pause and the meaning.",
    "uncertain": []
   },
   {
@@ -9583,12 +9583,12 @@
    "kind": "dialogue",
    "speaker_jp": "一矢",
    "speaker_en": "Kazuya",
-   "en": "Erika...Erika is safe, isn't she!?",
+   "en": "Erika... Erika is safe, isn't she!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 412
    },
-   "notes": "Hokushin encounter and battle condition. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Hokushin encounter and battle condition. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9599,12 +9599,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "Kazuya Ryuzaki...and #部隊名. You will keep us company a little longer.",
+   "en": "Kazuya Ryuzaki... and #部隊名. You will keep us company a little longer.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 413
    },
-   "notes": "Hokushin encounter and battle condition. Hokushin addresses named Kazuya and squad; full source name and runtime squad preserved.",
+   "notes": "Hokushin encounter and battle condition. Hokushin addresses named Kazuya and squad; full source name and runtime squad preserved. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9679,12 +9679,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "Heh heh heh...Do not think obsession alone will let you slaughter me.",
+   "en": "Heh heh heh... Do not think obsession alone will let you slaughter me.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 418
    },
-   "notes": "Hokushin encounter and battle condition. Retain slaughter force, not softened defeat.",
+   "notes": "Hokushin encounter and battle condition. Retain slaughter force, not softened defeat. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9743,12 +9743,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "Heh heh heh...You have entertained me. But I have finished buying time. Farewell.",
+   "en": "Heh heh heh... You have entertained me. But I have finished buying time. Farewell.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 421
    },
-   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9791,12 +9791,12 @@
    "kind": "dialogue",
    "speaker_jp": "リョーコ",
    "speaker_en": "Ryoko",
-   "en": "...Damn it...He's gone off again...!",
+   "en": "...Damn it... He's gone off again...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 424
    },
-   "notes": "Hokushin withdrawal and base surrender. Ryoko refers to Akito pursuing Hokushin; male profile established.",
+   "notes": "Hokushin withdrawal and base surrender. Ryoko refers to Akito pursuing Hokushin; male profile established. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9871,12 +9871,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイナ",
    "speaker_en": "Leina",
-   "en": "Th-then...does that mean...!",
+   "en": "Th-then... does that mean...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 427
    },
-   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Retained source omission/fragment: Source deliberately trails at speculative exclamation; preserved unfinished.",
+   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Retained source omission/fragment: Source deliberately trails at speculative exclamation; preserved unfinished. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9919,12 +9919,12 @@
    "kind": "dialogue",
    "speaker_jp": "ジュドー",
    "speaker_en": "Judau",
-   "en": "Whew...What a relief...",
+   "en": "Whew... What a relief...",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 430
    },
-   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Hokushin withdrawal and base surrender. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -9935,12 +9935,12 @@
    "kind": "dialogue",
    "speaker_jp": "ビーチャ",
    "speaker_en": "Beecha",
-   "en": "Their mass driver is smashed, and they've even lost their headquarters...The Giganos Empire is finished now.",
+   "en": "Their mass driver is smashed, and they've even lost their headquarters... The Giganos Empire is finished now.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 431
    },
-   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10095,12 +10095,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "So...you're saying things haven't really changed much?",
+   "en": "So... you're saying things haven't really changed much?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 440
    },
-   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10127,12 +10127,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "We might not be able to credit this operation...but the mass driver's threat has been eliminated, and...",
+   "en": "We might not be able to credit this operation... but the mass driver's threat has been eliminated, and...",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 442
    },
-   "notes": "Aftermath: Giganos military situation. Cannot confidently credit operation for mass-driver destruction; qualification retained.",
+   "notes": "Aftermath: Giganos military situation. Cannot confidently credit operation for mass-driver destruction; qualification retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10159,12 +10159,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "Hmm...I don't really get it.",
+   "en": "Hmm... I don't really get it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 444
    },
-   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10175,12 +10175,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "Well, to put it another way...Giganos has been punched in the head and is staggering around.",
+   "en": "Well, to put it another way... Giganos has been punched in the head and is staggering around.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 445
    },
-   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Aftermath: Giganos military situation. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10223,12 +10223,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "But, well...A splash of water can sometimes bring you back to your senses, you know.",
+   "en": "But, well... A splash of water can sometimes bring you back to your senses, you know.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 448
    },
-   "notes": "Aftermath: Giganos military situation. Saburota keeps punch/drunken-stagger metaphor and water restoring awareness.",
+   "notes": "Aftermath: Giganos military situation. Saburota keeps punch/drunken-stagger metaphor and water restoring awareness. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10271,12 +10271,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...Oh, and...I've already decided who will be going out on patrol.",
+   "en": "...Oh, and... I've already decided who will be going out on patrol.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 451
    },
-   "notes": "Ruri orders patrol. Ruri has already chosen patrol personnel; no new invitation.",
+   "notes": "Ruri orders patrol. Ruri has already chosen patrol personnel; no new invitation. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10351,12 +10351,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "Aw, man...I really wanted to take a nice bath.",
+   "en": "Aw, man... I really wanted to take a nice bath.",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 456
    },
-   "notes": "Ginga/Hokuto/Vega patrol discussion. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained.",
+   "notes": "Ginga/Hokuto/Vega patrol discussion. Speaker response/referent confirmed from adjacent all-source rows; spoken tone retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10869,12 +10869,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "...I wondered how much your skills had improved since then...and this is all you can manage, Dendoh?",
+   "en": "...I wondered how much your skills had improved since then... and this is all you can manage, Dendoh?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 486
    },
-   "notes": "Altair mocks Dendoh pilots skills since prior encounter.",
+   "notes": "Altair mocks Dendoh pilots skills since prior encounter. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10917,12 +10917,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "Vega...can you hear me? Vega...",
+   "en": "Vega... can you hear me? Vega...",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 489
    },
-   "notes": "Altair contacts Vega directly.",
+   "notes": "Altair contacts Vega directly. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -10965,12 +10965,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "...Vega...why must we fight each other?",
+   "en": "...Vega... why must we fight each other?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 492
    },
-   "notes": "Altair appeals to Vega through their sibling relationship.",
+   "notes": "Altair appeals to Vega through their sibling relationship. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11031,12 +11031,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "Are they...talking!?",
+   "en": "Are they... talking!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 495
    },
-   "notes": "Hokuto observes apparent conversation.",
+   "notes": "Hokuto observes apparent conversation. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11097,12 +11097,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "Ah...aah...!",
+   "en": "Ah... aah...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 499
    },
-   "notes": "Vega overwhelmed response.",
+   "notes": "Vega overwhelmed response. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11385,12 +11385,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "Because you were there...because the likes of you were there, Vega...!!",
+   "en": "Because you were there... because the likes of you were there, Vega...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 515
    },
-   "notes": "Altair blaming boys trails off; separate unfinished accusation.",
+   "notes": "Altair blaming boys trails off; separate unfinished accusation. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11529,12 +11529,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "Give Vega...give Vega back!!",
+   "en": "Give Vega... give Vega back!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 523
    },
-   "notes": "Hokuto repeats demand for Vega.",
+   "notes": "Hokuto repeats demand for Vega. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11595,12 +11595,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "My foolish sister was abducted by the enemy, taught that we Gulfer were the scourge of the universe...and threw herself into this war...!",
+   "en": "My foolish sister was abducted by the enemy, taught that we Gulfer were the scourge of the universe... and threw herself into this war...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 527
    },
-   "notes": "Altair false history: enemy abducted Vega, indoctrinated her against Gulfer, and she entered battle. Keep all claims and insulting foolish sister.",
+   "notes": "Altair false history: enemy abducted Vega, indoctrinated her against Gulfer, and she entered battle. Keep all claims and insulting foolish sister. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11611,12 +11611,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "Vega is...his sister!?",
+   "en": "Vega is... his sister!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 528
    },
-   "notes": "Hokuto explicitly realizes Vega is Altair sister.",
+   "notes": "Hokuto explicitly realizes Vega is Altair sister. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -11643,12 +11643,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "If Dendoh fights on, believing those words...there will be no way left to save this universe from war!",
+   "en": "If Dendoh fights on, believing those words... there will be no way left to save this universe from war!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 530
    },
-   "notes": "Altair refers to the anti-Gulfer beliefs he attributes to Vega and predicts continued Dendoh fighting makes universal war unavoidable.",
+   "notes": "Altair refers to the anti-Gulfer beliefs he attributes to Vega and predicts continued Dendoh fighting makes universal war unavoidable. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": [
     "Those words most likely means the beliefs attributed to Vega in527; wording preserves reference without naming an unsupported speaker."
    ]
@@ -12047,12 +12047,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "It's a lie...Unicorn...!",
+   "en": "It's a lie... Unicorn...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 552
    },
-   "notes": "Hokuto refuses to believe Unicorn departure.",
+   "notes": "Hokuto refuses to believe Unicorn departure. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -12367,12 +12367,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロム",
    "speaker_en": "Rom",
-   "en": "You who are puppets of false memories! Face the hammer of my justice!!",
+   "en": "You puppet of false memories! Face the hammer of my justice!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage32_campaign.json",
     "id": 570
    },
-   "notes": "Rom accuses Altair of manipulated memories; justice hammer metaphor retained.",
+   "notes": "Rom accuses Altair of manipulated memories; justice hammer metaphor retained. Chapters 31-58 proofreading: Rom addresses Altair alone; use a singular address rather than a plural group.",
    "uncertain": []
   },
   {
@@ -12524,7 +12524,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 32,
-  "fingerprint": "06b43971793b807040780329c4c1fe5c0fff8b4b995d1faece37c6bb2743a486",
+  "fingerprint": "144b42bf829e399b8612b87b4fed04ad2e15bfe2a97ce88422b04cacaa59a90b",
   "reviewed_reused_ids": [
    24,
    25,
@@ -12705,7 +12705,7 @@
   "reviewed_reused_rows": 175,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 26 fresh uncertainty rows against original source and neighbors in both Earth and Super routes; retained intentional omissions, symbolic bird-man imagery, second-rematch wording, Buddhist invocations, chamber block and calendar provenance. Chicken crest/anger and Mandala jokes retain their spoken effect with explicit localization notes. Boundary quake remains a source-literal provisional term and is distinguished from Boson Jump without equating unrelated series terminology. Reviewed all 32 non-template reused rows and every actual scene use, including Bright silence in two scenes, Ruri replies, Akito withdrawal, Altair reactions and silent Data Weapons. Verified all 143 inherited defeat-template rows across 410 scene uses are opcode0x7D registrations using argument2. Full initial drafts retained; all 578 fit without compression; minor final semantic/calendar/canonical corrections recorded by workers. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable."
+  "note": "Reviewed all 26 fresh uncertainty rows against original source and neighbors in both Earth and Super routes; retained intentional omissions, symbolic bird-man imagery, second-rematch wording, Buddhist invocations, chamber block and calendar provenance. Chicken crest/anger and Mandala jokes retain their spoken effect with explicit localization notes. Boundary quake remains a source-literal provisional term and is distinguished from Boson Jump without equating unrelated series terminology. Reviewed all 32 non-template reused rows and every actual scene use, including Bright silence in two scenes, Ruri replies, Akito withdrawal, Altair reactions and silent Data Weapons. Verified all 143 inherited defeat-template rows across 410 scene uses are opcode0x7D registrations using argument2. Full initial drafts retained; all 578 fit without compression; minor final semantic/calendar/canonical corrections recorded by workers. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable. 2026-10-09: All Chapter 32 rows proofread against the original source in scene context, including all applicable routes and reused rows. 44 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 753,

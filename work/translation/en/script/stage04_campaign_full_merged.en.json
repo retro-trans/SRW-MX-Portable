@@ -642,12 +642,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "It's not a dance! It's Shaolin kung fu, you idiot!",
+   "en": "It's not a dance! It's Shorinji Kempo, you idiot!",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 38
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Use the name of the specific martial art in the source, Shorinji Kempo, rather than the different, general term Shaolin kung fu. Official terminology: https://www.shorinjikempo.or.jp/en/what/discipline",
    "uncertain": []
   },
   {
@@ -1586,12 +1586,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2696,12 +2696,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3209,12 +3209,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -5498,12 +5498,12 @@
    "kind": "dialogue",
    "speaker_jp": "北斗",
    "speaker_en": "Hokuto",
-   "en": "Ginga, that move! You know, the kung fu move you were doing earlier! Let's try it!",
+   "en": "Ginga, that move! You know, the martial arts move you were doing earlier! Let's try it!",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 186
    },
-   "notes": "Hokuto asks Ginga to use the martial-arts move demonstrated earlier.",
+   "notes": "Hokuto asks Ginga to use the martial-arts move demonstrated earlier. Chapters 1-14 proofreading: Use martial arts for the general reference to Ginga's fighting style, consistent with the named Shorinji Kempo introduction.",
    "uncertain": []
   },
   {
@@ -6026,12 +6026,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "I know! More importantly, follow my kung fu moves!",
+   "en": "I know! More importantly, follow my martial arts moves!",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 219
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Use martial arts for the general reference to Ginga's fighting style, rather than relabeling it as kung fu.",
    "uncertain": []
   },
   {
@@ -7953,12 +7953,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "Captain Bright Noa, captain of the Nahel Argama, reporting, sir.",
+   "en": "Captain Bright Noa of the Nahel Argama, reporting, sir.",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 338
    },
-   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank [jp] to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained.",
+   "notes": " Coordinator terminology correction: Akurasu Bright Noa profile explicitly maps his Char's Counterattack rank [jp] to naval Captain. Earlier Colonel rendering was incorrect; full original draft retained. Chapters 1-14 proofreading: Avoid repeating captain in the self-introduction while preserving Bright's approved rank and command of the ship.",
    "uncertain": []
   },
   {
@@ -11531,12 +11531,12 @@
    "kind": "dialogue",
    "speaker_jp": "みどり",
    "speaker_en": "Midori",
-   "en": "Who did you pick a fight with this time!? I've told you over and over, Shaolin kung fu isn't for that sort of thing...!",
+   "en": "Who did you pick a fight with this time!? I've told you over and over, Shorinji Kempo isn't for that sort of thing...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage04_campaign.json",
     "id": 557
    },
-   "notes": "Mother's warning trails off; Shaolin kung fu fixed glossary form, even though Japanese calls Shorinji Kempo.",
+   "notes": "Mother's warning trails off; Shaolin kung fu fixed glossary form, even though Japanese calls Shorinji Kempo. Chapters 1-14 proofreading: Name the specific martial art correctly, matching Ginga's earlier introduction. Shorinji Kempo is the official English name, not Shaolin kung fu.",
    "uncertain": []
   },
   {
@@ -12504,7 +12504,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 4,
-  "fingerprint": "0d7af2d61c1e566d28cb9ef0113b532829583971992b7d542e8a8e16e122959c",
+  "fingerprint": "6fa06a1523f5321f35b467bc1a7ee00439e0288483f807121d00c2cc31738070",
   "reviewed_reused_ids": [
    74,
    75,
@@ -12657,7 +12657,7 @@
   "reviewed_reused_rows": 147,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator compared all147 reused rows against the reviewed prior-stage defeat template and exact source; additional uses are silences and Bright acknowledgment. Checked original interlocutor window for acknowledgment and actual thought kinds. Reviewed four fresh uncertainties: literal Operation D, Vega source fragment, mistaken fixed-title joke and bald/shadow idiom adaptation; retained explicit limitations. No context-sensitive reuse rewrite required. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator compared all147 reused rows against the reviewed prior-stage defeat template and exact source; additional uses are silences and Bright acknowledgment. Checked original interlocutor window for acknowledgment and actual thought kinds. Reviewed four fresh uncertainties: literal Operation D, Vega source fragment, mistaken fixed-title joke and bald/shadow idiom adaptation; retained explicit limitations. No context-sensitive reuse rewrite required. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 4 rows proofread against the original source in scene context, including all applicable routes and reused rows. 8 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 765,

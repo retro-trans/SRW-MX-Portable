@@ -2676,12 +2676,12 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "Wh...at?",
+   "en": "Wh... at?",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 146
    },
-   "notes": "Isshiki's incredulous what stammers over its syllables.",
+   "notes": "Isshiki's incredulous what stammers over its syllables. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -2934,12 +2934,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...Um...so you really...",
+   "en": "...Um... so you really...",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 161
    },
-   "notes": "Ayato hesitantly starts asking about Itsuki and Haruka; deliberate unfinished question.",
+   "notes": "Ayato hesitantly starts asking about Itsuki and Haruka; deliberate unfinished question. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -2950,12 +2950,12 @@
    "kind": "dialogue",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "So I really...what?",
+   "en": "So I really... what?",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 162
    },
-   "notes": "Itsuki prompts Ayato to finish the preceding hesitation; mirrors really.",
+   "notes": "Itsuki prompts Ayato to finish the preceding hesitation; mirrors really. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -2966,12 +2966,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "You and Haruka are...well...",
+   "en": "You and Haruka are... well...",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 163
    },
-   "notes": "Deliberate unfinished question about Itsuki and Haruka, not a subject omission.",
+   "notes": "Deliberate unfinished question about Itsuki and Haruka, not a subject omission. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -2982,12 +2982,12 @@
    "kind": "dialogue",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "...Ha ha ha...You're still a child.",
+   "en": "...Ha ha ha... You're still a child.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 164
    },
-   "notes": "Context and referents verified against full original neighbors; natural spoken English, source force retained.",
+   "notes": "Context and referents verified against full original neighbors; natural spoken English, source force retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3094,12 +3094,12 @@
    "kind": "dialogue",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "I mean you...saying something like that so casually.",
+   "en": "I mean you... saying something like that so casually.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 170
    },
-   "notes": "Answer to reused Ayato reaction at original187; completes who was cruel in169.",
+   "notes": "Answer to reused Ayato reaction at original187; completes who was cruel in169. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3110,12 +3110,12 @@
    "kind": "thought",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "...We're alike...Of course we are.",
+   "en": "...We're alike... Of course we are.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 171
    },
-   "notes": "We means Itsuki and Ayato; retains dramatic ellipses.",
+   "notes": "We means Itsuki and Ayato; retains dramatic ellipses. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3126,12 +3126,12 @@
    "kind": "thought",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "It's a tragedy...Even though we bear the same mark of Xephon.",
+   "en": "It's a tragedy... Even though we bear the same mark of Xephon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 172
    },
-   "notes": "We restores Itsuki and Ayato as shared bearers; mark of Xephon retained without extra explanation.",
+   "notes": "We restores Itsuki and Ayato as shared bearers; mark of Xephon retained without extra explanation. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3191,12 +3191,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "I'm sure you understand, but from now on...your movements will be severely restricted.",
+   "en": "I'm sure you understand, but from now on... your movements will be severely restricted.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 175
    },
-   "notes": "Misato warns Shinji about restrictions after his refusal to pilot; movements, not robotic mobility.",
+   "notes": "Misato warns Shinji about restrictions after his refusal to pilot; movements, not robotic mobility. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3319,12 +3319,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "But, Shinji...Honestly, I was projecting my own dreams, wishes and goals onto you.",
+   "en": "But, Shinji... Honestly, I was projecting my own dreams, wishes and goals onto you.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 182
    },
-   "notes": "All three dreams, wishes and goals retained; projection onto Shinji is the point.",
+   "notes": "All three dreams, wishes and goals retained; projection onto Shinji is the point. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3351,12 +3351,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "But we...everyone at NERV had no choice but to entrust our future to you...",
+   "en": "But we... everyone at NERV had no choice but to entrust our future to you...",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 184
    },
-   "notes": "Context and referents verified against full original neighbors; natural spoken English, source force retained.",
+   "notes": "Context and referents verified against full original neighbors; natural spoken English, source force retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -3527,12 +3527,12 @@
    "kind": "thought",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "...Dad...Maybe all I want is to avenge you.",
+   "en": "...Dad... Maybe all I want is to avenge you.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 195
    },
-   "notes": "Misato privately addresses her father; avenge him, not avenge Shinji or Touji.",
+   "notes": "Misato privately addresses her father; avenge him, not avenge Shinji or Touji. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -4169,12 +4169,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -6356,12 +6356,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "Hmph...Does Mu intend to destroy this place before they do?",
+   "en": "Hmph... Does Mu intend to destroy this place before they do?",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 216
    },
-   "notes": "Mu versus they; latter likely Angels from209-211 but kept they because source leaves them oblique.",
+   "notes": "Mu versus they; latter likely Angels from209-211 but kept they because source leaves them oblique. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": [
     "They likely refers to Angels, but source and immediate context do not explicitly name them."
    ]
@@ -6374,12 +6374,12 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "Heh...They should have handed the RahXephon over to us without delay...",
+   "en": "Heh... They should have handed the RahXephon over to us without delay...",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 217
    },
-   "notes": "They means NERV; Isshiki sneers about RahXephon custody.",
+   "notes": "They means NERV; Isshiki sneers about RahXephon custody. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -6520,12 +6520,12 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "Heh...I have no intention of paying such a steep price for a show.",
+   "en": "Heh... I have no intention of paying such a steep price for a show.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 225
    },
-   "notes": "Watching fee figuratively means danger/cost of staying; retain show and steep price.",
+   "notes": "Watching fee figuratively means danger/cost of staying; retain show and steep price. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -6632,12 +6632,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "Heh heh...You're certainly dedicated to your work.",
+   "en": "Heh heh... You're certainly dedicated to your work.",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 232
    },
-   "notes": "Helena's dry laugh and pointed dedication remark retained.",
+   "notes": "Helena's dry laugh and pointed dedication remark retained. Chapters 31-58 proofreading: Separate the pause from the following word so the sentence reads naturally.",
    "uncertain": []
   },
   {
@@ -7389,7 +7389,7 @@
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 274
    },
-   "notes": "Fuyutsuki recalls earlier warning that the main enemy would arrive after MU. Main threat wording avoids adding an identity or gender.",
+   "notes": "Fuyutsuki recalls earlier warning that the main enemy would arrive after Mu. Main threat wording avoids adding an identity or gender.",
    "uncertain": []
   },
   {
@@ -11876,7 +11876,7 @@
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 540
    },
-   "notes": "Blue-blooded people is literal group designation; no additional MU identity asserted.",
+   "notes": "Blue-blooded people is literal group designation; no additional Mu identity asserted.",
    "uncertain": []
   },
   {
@@ -14798,12 +14798,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "The former Demon Empire, perhaps? Or MU?",
+   "en": "The former Demon Empire, perhaps? Or Mu?",
    "translation_owner": {
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 717
    },
-   "notes": "Demon Empire explicitly former, MU second alternative.",
+   "notes": "Demon Empire explicitly former, Mu second alternative.",
    "uncertain": []
   },
   {
@@ -14819,7 +14819,7 @@
     "source": "work/translation/en/script/stage37_campaign.json",
     "id": 718
    },
-   "notes": "Kaji chooses MU via source second-option response; latter retained.",
+   "notes": "Kaji chooses Mu via source second-option response; latter retained.",
    "uncertain": []
   },
   {
@@ -14955,7 +14955,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 37,
-  "fingerprint": "d3b7cf31bc87fdd627fef921029e2d15bd76a1132a9e702b46ccd6e4bdbcff0b",
+  "fingerprint": "bc59068d6dd7cc0441984be4c657fa3c5ef06fa248c126ddc7c8289f81c3a006",
   "reviewed_reused_ids": [
    6,
    19,
@@ -15150,7 +15150,7 @@
   "reviewed_reused_rows": 189,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all727 fresh English rows and all21 fresh flags with original neighbors. Every189 reused row and all1043 original uses reviewed:143 generic defeat templates have205 registered opcode0x7D uses and no ordinary uses; all46 other reused rows checked in original and completed English contexts. All ten packets draft/final fit without compression, six distinct actual translators verified. Pond smelt, Gora and Komagatake sourced; Captain Bright follows Akurasu, final177 Toji spelling reconciled. Hidden identities, intentionally incomplete refusal/confession, rank-address distinctions, source technical compounds and omitted-subject alternatives remain explicitly documented. No fictional mechanisms or unspoken specimen identity/timeline repair added; original drafts and source coverage preserved."
+  "note": "Coordinator read all727 fresh English rows and all21 fresh flags with original neighbors. Every189 reused row and all1043 original uses reviewed:143 generic defeat templates have205 registered opcode0x7D uses and no ordinary uses; all46 other reused rows checked in original and completed English contexts. All ten packets draft/final fit without compression, six distinct actual translators verified. Pond smelt, Gora and Komagatake sourced; Captain Bright follows Akurasu, final177 Toji spelling reconciled. Hidden identities, intentionally incomplete refusal/confession, rank-address distinctions, source technical compounds and omitted-subject alternatives remain explicitly documented. No fictional mechanisms or unspoken specimen identity/timeline repair added; original drafts and source coverage preserved. 2026-10-09: All Chapter 37 rows proofread against the original source in scene context, including all applicable routes and reused rows. 17 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 916,

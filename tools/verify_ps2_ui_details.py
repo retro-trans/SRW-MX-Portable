@@ -14,7 +14,8 @@ import insert_text as it
 
 def verify(base=BASE, version=VERSION):
     data = (base / 'SLPS_253.45').read_bytes()
-    fix = (base / 'FIX00.DAT').read_bytes()
+    from ps2_library_preservation import baseline_bytes as before_library
+    fix = before_library(base, 'FIX00.DAT')
     meta = json.loads((base / 'patch.json').read_text())
     changes = json.loads((base / 'ui_details.json').read_text())
     previous = ROOT / 'work/build/ps2' / f'ui_fix_{SOURCE_VERSION}'
@@ -122,16 +123,18 @@ def verify(base=BASE, version=VERSION):
     u.hook_del(hook)
 
     old_fix = (previous / 'FIX00.DAT').read_bytes()
+    from ps2_battle_label_preservation import baseline_bytes
+    baseline_fix = baseline_bytes(base, 'FIX00.DAT')
     old_sections = sections(old_fix, 0)
     new_sections = sections(fix, 0)
-    assert sha(fix) == changes['descriptions']['target_sha256']
+    assert sha(baseline_fix) == changes['descriptions']['target_sha256']
     preserved = []
     for tag, (offset, size, count) in old_sections.items():
         if tag in ('Fixh', 'Sent', 'XSkl', 'Xabl'):
             continue
         new_off, new_size, new_count = new_sections[tag]
         assert (size, count) == (new_size, new_count)
-        assert old_fix[offset:offset + size] == fix[new_off:new_off + new_size], tag
+        assert old_fix[offset:offset + size] == baseline_fix[new_off:new_off + new_size], tag
         preserved.append(tag)
     # Every existing sentence keeps its original text or original external pointer.
     sent = new_sections['Sent'][0]

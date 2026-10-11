@@ -3954,12 +3954,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -7908,12 +7908,12 @@
    "kind": "dialogue",
    "speaker_jp": "ジュン",
    "speaker_en": "Jun",
-   "en": "Great means as much to Tetsuya as half of his own body...",
+   "en": "Great is as precious to Tetsuya as a part of himself...",
    "translation_owner": {
     "source": "work/translation/en/script/stage38_campaign.json",
     "id": 321
    },
-   "notes": "Half-body comparison retained; ellipsis remains at sentence end.",
+   "notes": "Half-body comparison retained; ellipsis remains at sentence end. Chapters 31-58 proofreading: Rephrases the Japanese metaphor for an inseparable part of oneself; 'half of his own body' sounds anatomically literal.",
    "uncertain": []
   },
   {
@@ -8381,12 +8381,12 @@
    "kind": "dialogue",
    "speaker_jp": "モルス",
    "speaker_en": "Mors",
-   "en": "Wha... t?",
+   "en": "Wha... what?",
    "translation_owner": {
     "source": "work/translation/en/script/stage38_campaign.json",
     "id": 350
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Preserves Mors's stunned hesitation without splitting an English word into an unnatural fragment.",
    "uncertain": []
   },
   {
@@ -10143,12 +10143,12 @@
    "kind": "dialogue",
    "speaker_jp": "モルス",
    "speaker_en": "Mors",
-   "en": "I'm counting on you, Duke... Avenge Planet Mole for me. And peace for this universe...!",
+   "en": "I'm counting on you, Duke... Avenge Planet Mole for me. And bring peace to this universe...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage38_campaign.json",
     "id": 458
    },
-   "notes": "Context: Barendos triggers Jigajiga self-destruct; Mors heads toward him in sacrifice while Duke pleads for escape. Mors asks Duke to act in his place; final wish deliberately trails off without a verb. Final peace wish retained incomplete, matching source farewell.",
+   "notes": "Context: Barendos triggers Jigajiga self-destruct; Mors heads toward him in sacrifice while Duke pleads for escape. Mors asks Duke to act in his place; final wish deliberately trails off without a verb. Final peace wish retained incomplete, matching source farewell. Chapters 31-58 proofreading: Makes Mors's dying request grammatical while preserving its unfinished delivery.",
    "uncertain": [
     "Planet Mole follows frozen glossary; independent licensed English spelling remains unverified.",
     "Intentional source fragment/continuation retained; see notes."
@@ -10226,12 +10226,12 @@
    "kind": "dialogue",
    "speaker_jp": "デューク",
    "speaker_en": "Duke",
-   "en": "Shut up, Barendos! You're a beast without a human heart! You have no right to disgrace Mors!!",
+   "en": "Shut up, Barendos! You're a beast without a human heart! You have no right to insult Mors!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage38_campaign.json",
     "id": 463
    },
-   "notes": "Context: Earth pilots confront Barendos, who reveals copied and enhanced Great Mazingers. Context: Barendos interruption, self-destruct sacrifice, then Great Mazinger reveal. Complete spoken English; source reveal order retained.",
+   "notes": "Context: Earth pilots confront Barendos, who reveals copied and enhanced Great Mazingers. Context: Barendos interruption, self-destruct sacrifice, then Great Mazinger reveal. Complete spoken English; source reveal order retained. Chapters 31-58 proofreading: Corrects the sense of disparaging Mors; Barendos is insulting his memory, not causing him to lose honor.",
    "uncertain": []
   },
   {
@@ -11363,7 +11363,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 38,
-  "fingerprint": "14179ba9ab943ff94ede9a7934e6cd73efbe145c55e48220042b07dfffd765a6",
+  "fingerprint": "1e964fb57bf0a6c8d30f653ba2b06041be29ad1a850dcf0a9e3631010819317c",
   "reviewed_reused_ids": [
    17,
    33,
@@ -11531,7 +11531,7 @@
   "reviewed_reused_rows": 162,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all529 fresh English rows and all45 fresh flags against original source and actual neighbors. Every162 reused row and all774 original uses reviewed:143 generic defeat templates205 registered opcode0x7D uses with no ordinary uses, plus19 individual reused contexts. Seven packets by six distinct actual Sol6.1 Medium workers; only fixed plain211 measured overflow compressed426 to341px retaining all four defeat triggers. Historical Bagration and general name sourced; fictional Zeta4, Veganium ore, Planet Mole, Screw Nail, proverb/haiku wordplay and maxim licensed-provenance limits remain explicit. Source thought11 confirmed, poem bug/Bagration pun preserved, original 80minute/5minute statements unrepaired. Kinship vocative254 localized Daisuke explicitly noted; Chief Zuril original-ranked address reconciled. Successful rescue, alternate deaths and separate time event36 kept distinct; unfinished promises/actions and reveal timing preserved. Every draft/source/hash/use and actual font fit retained. No new build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Coordinator read all529 fresh English rows and all45 fresh flags against original source and actual neighbors. Every162 reused row and all774 original uses reviewed:143 generic defeat templates205 registered opcode0x7D uses with no ordinary uses, plus19 individual reused contexts. Seven packets by six distinct actual Sol6.1 Medium workers; only fixed plain211 measured overflow compressed426 to341px retaining all four defeat triggers. Historical Bagration and general name sourced; fictional Zeta4, Veganium ore, Planet Mole, Screw Nail, proverb/haiku wordplay and maxim licensed-provenance limits remain explicit. Source thought11 confirmed, poem bug/Bagration pun preserved, original 80minute/5minute statements unrepaired. Kinship vocative254 localized Daisuke explicitly noted; Chief Zuril original-ranked address reconciled. Successful rescue, alternate deaths and separate time event36 kept distinct; unfinished promises/actions and reveal timing preserved. Every draft/source/hash/use and actual font fit retained. No new build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 38 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 691,

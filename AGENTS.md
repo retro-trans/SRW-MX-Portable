@@ -16,6 +16,8 @@ incoming - outside files that need agent to look into
 - Be conscious of subscription limit before creating sub-agents
 
 ** REMEMBER **
+- Every new PSP and PS2 build must display its exact build version (`v0.x.y`) and `github.com/retro-trans` on the native title screen, following SRW Z3's two-line credit. Always regenerate this footer when creating a build, including incremental builds, and verify the actual ISO footer matches the output/manifest version. Use `tools/title_footer.py`; never carry the previous build's visible version forward.
+- Keep the PSP credit/version at the bottom right with readable outlined text and no dark panel. A little overlap with the logo is acceptable (user preference, 2026-10-11).
 - Publish bare `.xdelta` patches for both platforms; do not wrap the PS2 patch in a ZIP.
 - Public PSP and PS2 releases share the PSP version number; preserve historical PS2 test labels in verification records.
 - Thought dialogue must have exactly one space between the speaker name and opening parenthesis: `Daisuke (thought...)`.

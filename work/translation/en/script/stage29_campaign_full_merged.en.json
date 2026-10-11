@@ -25,12 +25,12 @@
    "kind": "dialogue",
    "speaker_jp": "委員Ａ",
    "speaker_en": "Member A",
-   "en": "...Tekkoryu (Iron Dragon) seems to have entered the final phase of that plan.",
+   "en": "...Hau Dragon seems to have entered the final phase of that plan.",
    "translation_owner": {
     "source": "work/translation/en/script/stage29_campaign.json",
     "id": 0
    },
-   "notes": "Committee speaks of Tekkoryu by its kanji name; preserve glossary form.",
+   "notes": "Committee speaks of Tekkoryu by its kanji name; preserve glossary form. Chapters 15-30 proofreading: Remove the unspoken parenthetical gloss for Tekkoryu, keeping the organization name consistent with the rest of the campaign. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -5482,12 +5482,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "Perhaps it's heading straight for the Tekkoryu fortress.",
+   "en": "Perhaps it's heading straight for the Hau Dragon fortress.",
    "translation_owner": {
     "source": "work/translation/en/script/stage29_campaign.json",
     "id": 171
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -6659,12 +6659,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "So, on the other hand... if our two machines join forces, we'll have no enemies in this world...!",
+   "en": "So... if our two machines join forces, no one in this world could stand against us...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage29_campaign.json",
     "id": 240
    },
-   "notes": "Two refers to Omzack and Zeorymer; machines made explicit, alliance direction retained.",
+   "notes": "Two refers to Omzack and Zeorymer; machines made explicit, alliance direction retained. Chapters 15-30 proofreading: Here, having no enemies means being unbeatable, not literally having no opponents. Preserve the threat behind Saiga's proposed alliance.",
    "uncertain": []
   },
   {
@@ -8714,7 +8714,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 29,
-  "fingerprint": "d02ea384ad19dc4ca40311b15dfe079deb1256d1264ce14d476b66b42ec0868c",
+  "fingerprint": "c2c67b7c794ecdf9d216df31ab6f5d25a1857404640c917630fc437507fc812d",
   "reviewed_reused_ids": [
    35,
    39,
@@ -8887,7 +8887,7 @@
   "reviewed_reused_rows": 167,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Root read all363 fresh English rows and six reports; all167 reuse originals and every actual-use final English neighbors reviewed, including143 previously compared generic battle rows. All10 fresh uncertainty rows reviewed against Japanese context. Only58/110 measured overflow compressed;58 passive after independent worker2 grammar review preserves omitted agent. Canonical names preview clear, immutable speaker prefills retained. Bright full487 Yes I will independently reviewed by worker6 and retained as valid acceptance of return recommendation. Source-short epithets and provenance scopes retained."
+  "note": "Root read all363 fresh English rows and six reports; all167 reuse originals and every actual-use final English neighbors reviewed, including143 previously compared generic battle rows. All10 fresh uncertainty rows reviewed against Japanese context. Only58/110 measured overflow compressed;58 passive after independent worker2 grammar review preserves omitted agent. Canonical names preview clear, immutable speaker prefills retained. Bright full487 Yes I will independently reviewed by worker6 and retained as valid acceptance of return recommendation. Source-short epithets and provenance scopes retained. 2026-10-09: All Chapter 29 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 530,

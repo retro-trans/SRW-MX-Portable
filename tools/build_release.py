@@ -27,6 +27,10 @@ def main():
     args = parser.parse_args()
     if not re.fullmatch(r'0\.\d+\.\d+', args.version):
         parser.error('Use a 0.x.y build version.')
+    # Historical releases predate the footer. Every new release must match it.
+    import title_footer
+    if title_footer.version_key(args.version) >= (0,4,23):
+        title_footer.verify_iso(args.target, args.platform, args.version)
     for version, _ in args.upgrade_source:
         if not re.fullmatch(r'0\.\d+\.\d+', version) or version == args.version:
             parser.error('Upgrade source versions must be distinct 0.x.y versions.')

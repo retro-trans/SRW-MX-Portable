@@ -55,6 +55,8 @@ def build(original):
     for i,jp in enumerate(ostr):
         values=lookup[jp] or loose[normalize(jp)]
         en=manual.get(jp) or (next(iter(values)) if len(values)==1 else None)
+        # User-requested PS2 pilot label; the approved glossary already has AI.
+        if jp=='人工知能' and en=='Artificial Intelligence':en='AI'
         if en:
             raw_names.append(it.encode(it.clean(en)))
             manifest.append(dict(table='Strg',entry=i,source_sha256=sha(jp.encode('cp932')),english=en))

@@ -5,22 +5,26 @@ choice-row filtering, pointer getters and the previous crash regressions execute
 """
 import json
 import struct
+import sys
 from pathlib import Path
 from unicorn import UC_HOOK_CODE
 from unicorn.mips_const import *
 import fix_psp_menu_alignment as align
 import insert_text as it
 import verify_psp_0410 as previous
-from verify_text_build import resolver
+from verify_text_build import resolver,read_iso
 from static2_extract import sections
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def main():
-    boot = (ROOT/'work/build/psp_ui_0.4.11/BOOT.fixed.BIN').read_bytes()
-    static = (ROOT/'work/build/psp_ui_0.4.11/STATIC2.fixed.BIN').read_bytes()
+def main(version='0.4.11'):
+    data=read_iso(str(ROOT/f'work/output/SRWMX_EN_{version}.iso'),
+                  ['/PSP_GAME/SYSDIR/BOOT.BIN','/PSP_GAME/USRDIR/STATIC2_ADD.BIN'])
+    boot=data['/PSP_GAME/SYSDIR/BOOT.BIN'];static=data['/PSP_GAME/USRDIR/STATIC2_ADD.BIN']
     titles = json.loads((ROOT/'work/translation/en/static2/music.en.json').read_text())['titles']
+    if tuple(map(int,version.split('.'))) < (0,4,14):
+        titles.update({'1744':'Moeagare Toushi','1745':'Meikyou Shisui'})
     u = previous.machine(boot)
     obj, textptr = 0x1000000, 0x1010000
     draws = []
@@ -65,15 +69,15 @@ def main():
     for idx,text in titles.items():
         off=struct.unpack_from('<I',static,start+12+int(idx)*4)[0]
         assert get(start,off)==it.encode(text)[:-1]
-    result = dict(version='0.4.11', menu_rows=report, music_titles_checked=len(titles),
+    result = dict(version=version, menu_rows=report, music_titles_checked=len(titles),
                   maximum_music_width=max(widths.values()), music_width_limit=427,
                   real_native_vwf_executed=True, gpu_draw_intercepted=True,
                   previous_narration=previous.narration(boot),
                   previous_level_up=previous.level_up(boot,True))
-    (ROOT/'work/output/psp_fixes_0.4.11_native_tests.json').write_text(json.dumps(result,indent=1))
+    (ROOT/f'work/output/psp_fixes_{version}_native_tests.json').write_text(json.dumps(result,indent=1))
     print('Native VWF, five wrappers, 80 music titles and previous crash regressions pass.',
           'Maximum music width:',max(widths.values()))
 
 
 if __name__=='__main__':
-    main()
+    main(*sys.argv[1:2])

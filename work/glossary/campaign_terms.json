@@ -904,7 +904,7 @@
     "https://www.midtowncomics.com/product/964481",
     "work/translation/en/script/stage11_campaign.json"
    ],
-   "notes": "English nickname explicitly supported by licensed Kotobukiya merchandise description. No Akurasu exact nickname found. Keep rumor/alias in this scene; do not replace with Black Sarana or reveal its pilot."
+   "notes": "English nickname explicitly supported by licensed Kotobukiya merchandise description. No Akurasu exact nickname found. Keep rumor/alias in this scene; do not replace with Black Selena or reveal its pilot."
   },
   {
    "jp": "遺跡",
@@ -3567,11 +3567,11 @@
   },
   {
    "jp": "ＭＵフェイズ反応",
-   "en": "MU phase response",
+   "en": "Mu phase response",
    "sources": [
     "work/translation/en/script/stage35_campaign.json:103"
    ],
-   "notes": "Literal fictional blood-test term; Akurasu exact-term search found no entry and independent licensed English compound remains unverified. Preserve phase and MU without adding transformation explanation absent source."
+   "notes": "Literal fictional blood-test term; Akurasu exact-term search found no entry and independent licensed English compound remains unverified. Preserve phase and Mu without adding transformation explanation absent source."
   },
   {
    "jp": "量子回廊",
@@ -4250,7 +4250,7 @@
   },
   {
    "jp": "ＭＵ総督府の防衛軍",
-   "en": "MU Government-General Defense Force",
+   "en": "Mu Government-General Defense Force",
    "sources": [
     "work/translation/en/script/stage40_campaign.json:379"
    ],
@@ -5821,17 +5821,17 @@
   {
    "jp_full": "フォリア・エスト",
    "jp_short": "フォリア",
-   "en_full": "Folia Esto",
+   "en_full": "Folia Est",
    "en_short": "Folia",
    "gender": "male",
-   "position": "Cry Wolves warrant officer; Albero Esto son and Hugo former comrade",
+   "position": "Cry Wolves warrant officer; Albero Est son and Hugo former comrade",
    "sources": [
     "https://akurasu.net/wiki/Super_Robot_Wars/OGG/Timetable",
     "work/translation/en/script/stage05_campaign.json",
     "https://srw.wiki.cre.jp/wiki/%E3%83%95%E3%82%A9%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%88",
     "work/glossary/glossary.json"
    ],
-   "notes": "Akurasu confirms short Folia; main glossary confirms Albero Esto surname; SRW Wiki explicitly confirms full Japanese name, male gender and father/son relationship. Full English compound is derived from established components; no independent licensed full-name spelling verified. Do not reveal hidden speakers or import OG-only events into MX.",
+   "notes": "Akurasu confirms short Folia; main glossary confirms Albero Est surname; SRW Wiki explicitly confirms full Japanese name, male gender and father/son relationship. Full English compound is derived from established components; no independent licensed full-name spelling verified. Do not reveal hidden speakers or import OG-only events into MX.",
    "personality": "Hotheaded, eager to prove himself; struggles to suppress personal attachment."
   },
   {

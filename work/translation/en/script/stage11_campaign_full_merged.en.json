@@ -2728,12 +2728,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "Zen meditation, huh? Mom made me do that at our Shaolin kung fu dojo once, too. Man, it makes your legs go numb.",
+   "en": "Zen meditation, huh? Mom made me do that at our Shorinji Kempo dojo once, too. Man, it makes your legs go numb.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 163
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses the established name of Ginga's martial art, consistent with the other Dendoh scenes. Shorinji Kempo is distinct from Shaolin kung fu. https://www.shorinjikempo.or.jp/en/what/discipline",
    "uncertain": []
   },
   {
@@ -4643,12 +4643,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -5753,12 +5753,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -6266,12 +6266,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -7109,12 +7109,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Wait, Captain!!",
+   "en": "Wait, Commander!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 277
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses Albero's squad-leader title consistently across Chapter 11.",
    "uncertain": []
   },
   {
@@ -7178,12 +7178,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Captain...!!",
+   "en": "Commander...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 280
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses Albero's squad-leader title consistently across Chapter 11.",
    "uncertain": []
   },
   {
@@ -7838,12 +7838,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "So this is NERV's general-purpose humanoid weapon built for decisive battle I've heard about...! You too shall become food for Medius!",
+   "en": "So this is NERV's rumored general-purpose humanoid weapon for decisive battle...! You too shall feed the Medius's growth!",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 320
    },
-   "notes": "Literal Eva classification retained; Medius feeding metaphor repeated at326. Meaning/English grammar correction: clarified decisive battle as the function of the humanoid weapon, not the adjective decisive weapon.",
+   "notes": "Literal Eva classification retained; Medius feeding metaphor repeated at326. Meaning/English grammar correction: clarified decisive battle as the function of the humanoid weapon, not the adjective decisive weapon. Chapters 1-14 proofreading: Restructures an awkward chain of modifiers and preserves both the Evangelion description and Albero's threat.",
    "uncertain": []
   },
   {
@@ -8596,7 +8596,7 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "He's former Major Albero Esto, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!",
+   "en": "He's former Major Albero Est, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 367
@@ -8661,12 +8661,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "Or rather, you're a Second Lieutenant now.",
+   "en": "Or rather, you're an Ensign now.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 371
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses Hugo's established translated rank, consistent with the project glossary and earlier chapters.",
    "uncertain": []
   },
   {
@@ -10599,12 +10599,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "I don't know why the Captain stole the Medius Locus... or why he attacked us.",
+   "en": "I don't know why the Commander stole the Medius Locus... or why he attacked us.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 482
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses Commander for Albero's role as squad leader, consistent with his introduction; this is not a statement of his military rank.",
    "uncertain": []
   },
   {
@@ -10631,12 +10631,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "That's also... what the Captain taught me.",
+   "en": "That's also... what the Commander taught me.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 484
    },
-   "notes": "Restore Captain-taught principle, linked to483.",
+   "notes": "Restore Captain-taught principle, linked to483. Chapters 1-14 proofreading: Keeps Albero's squad-leader title consistent with his introduction.",
    "uncertain": []
   },
   {
@@ -10695,12 +10695,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "If I hesitate when I fight the Captain... I'll only get myself killed.",
+   "en": "If I hesitate when I fight the Commander... I'll only get myself killed.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 488
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Keeps Albero's squad-leader title consistent with his introduction.",
    "uncertain": []
   },
   {
@@ -11385,7 +11385,7 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Albero Esto was #男愛称's former commanding officer.",
+   "en": "Albero Est was #男愛称's former commanding officer.",
    "translation_owner": {
     "source": "work/translation/en/script/stage11_campaign.json",
     "id": 530
@@ -11622,7 +11622,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 11,
-  "fingerprint": "93c1551a14f13f7649ae20cce86155b9c1f107fc15cdffa8f77b959462cc4a89",
+  "fingerprint": "de0fb945ddab9ed754ed73f7f22f2ed7f70e7ffd9c0b1d23ae27c2c624e54542",
   "reviewed_reused_ids": [
    72,
    76,
@@ -11793,7 +11793,7 @@
   "reviewed_reused_rows": 165,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all165 reused rows:143 generic battle rows exactly match Stage10 bodies/speakers/source;22 other original-use neighborhoods reviewed with full assembled English, including flashback/postbattle silences and shared launch exchange. Reviewed all13 fresh uncertainties against neighbors: source-only aliases/technical labels, temple romanization, unfinished Master Asia comparison, neutral devil reference and Medius crew collective actor. Hidden identities and numbering remain source-dependent. Only measured row105 compressed; all545 final rows fit. Canonical Gryps Conflict applied after meaning review; initial drafts preserved. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained."
+  "note": "Reviewed all165 reused rows:143 generic battle rows exactly match Stage10 bodies/speakers/source;22 other original-use neighborhoods reviewed with full assembled English, including flashback/postbattle silences and shared launch exchange. Reviewed all13 fresh uncertainties against neighbors: source-only aliases/technical labels, temple romanization, unfinished Master Asia comparison, neutral devil reference and Medius crew collective actor. Hidden identities and numbering remain source-dependent. Only measured row105 compressed; all545 final rows fit. Canonical Gryps Conflict applied after meaning review; initial drafts preserved. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. 2026-10-09: All Chapter 11 rows proofread against the original source in scene context, including all applicable routes and reused rows. 11 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 710,

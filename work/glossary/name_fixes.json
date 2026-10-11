@@ -30,7 +30,7 @@
   "Ulube Ishikawa": "Urube Ishikawa",
   "Gura": "Dr. Gura",
   "Maria Grace Fleed": "Grace Maria Fleed",
-  "George de Sand": "George DeSand",
+  "George de Sand": "George De Sand",
   "Marshal Hidler": "General Hidler",
   "Blaki": "Blacky",
   "Earth Attack Captain Blaki": "Commander Blacky",
@@ -98,7 +98,7 @@
   "Aestivalis Custom (Izumi)": "Aestivalis Custom Izumi",
   "Aestivalis Custom (Hikaru)": "Aestivalis Custom Hikaru",
   "Aestivalis Custom (Ryoko)": "Aestivalis Custom Ryoko",
-  "Black Sarena": "Black Sarana",
+  "Black Sarena": "Black Selena",
   "Oger (Dragon Flare)": "Ogre (Dragon Flare)",
   "Oger (Phoenix Alae)": "Ogre (Phoenix Aile)",
   "Oger (Unicorn Drill)": "Ogre (Unicorn Drill)",
@@ -111,14 +111,14 @@
   "Moon Rose C'est La Vie": "Rose C'est La Vie of the Moon",
   "Gallowin of the Water": "Gallowin of the Waters",
   "Water Gallowin": "Gallowin of the Waters",
-  "Bryst of the Fire": "Briest of the Fires",
-  "Fire Bryst": "Briest of the Fires",
+  "Bryst of the Fire": "Bryst of the Fires",
+  "Fire Bryst": "Bryst of the Fires",
   "Omzack of the Thunder": "Omzack of the Lightning",
   "Thunder Omzack": "Omzack of the Lightning",
   "Dendoh (Phoenix Alae)": "Dendoh (Phoenix Aile)",
   "Lanstar of the Wind": "Lanstar of the Winds",
   "Wind Lanstar": "Lanstar of the Winds",
-  "High-Mobility Black Sarena": "High-maneuver Black Sarana",
+  "High-Mobility Black Sarena": "High-maneuver Black Selena",
   "Super Aestivalis (Saburota)": "Super Aestivalis Saburota",
   "Death Birdie": "Death Birdy",
   "Devil Gundam (Final)": "Devil Gundam (Final Form)",
@@ -206,7 +206,13 @@
   "boson-out": "Boson Out",
   "Gilgazamne": "Gilgazamune",
   "Reideen": "Raideen",
-  "Harry Makibi": "Hari Makibi"
+  "Harry Makibi": "Hari Makibi",
+  "George DeSand": "George De Sand",
+  "Black Sarana": "Black Selena",
+  "High-maneuver Black Sarana": "High-maneuver Black Selena",
+  "Briest of the Fires": "Bryst of the Fires",
+  "Albero Esto": "Albero Est",
+  "Folia Esto": "Folia Est"
  },
  "quoted_system_terms": {
   "Infight Lv": "In-fight Lv",
@@ -335,6 +341,11 @@
    "source_not_contains": "マジンガー",
    "variant": "Black Great",
    "reason": "Source-short stage48 English-color joke; main unit record explicitly permits Black Great variant. Full Black Great Mazinger remains canonical when source gives full name. See campaign_terms.json and docs/glossary_decisions.md."
+  },
+  {
+   "variant": "Dr. Umon",
+   "source_contains": "宇門博士",
+   "reason": "Preserve the source's doctor title and surname in spoken references. Genzo Umon remains the full character name. Chapters 1-14 proofreading, 2026-10-09."
   }
  ]
 }

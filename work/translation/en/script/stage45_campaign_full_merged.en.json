@@ -3555,12 +3555,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "Earthlings seem terribly fond of tampering with genes. ...Like the now-extinct Tekkoryu (Iron Dragon).",
+   "en": "Earthlings seem terribly fond of tampering with genes. ...Like the now-extinct Hau Dragon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 204
    },
-   "notes": "Context: Hokushin ambushes Akito, orders Minato killed and Ruri captured for genetic experiments; Ruri identifies the kidnapping squad. ",
+   "notes": "Context: Hokushin ambushes Akito, orders Minato killed and Ruri captured for genetic experiments; Ruri identifies the kidnapping squad.  Chapters 31-58 proofreading: Keeps the established organization name and removes the explanatory gloss that Hokushin does not say. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -3989,12 +3989,12 @@
    "kind": "dialogue",
    "speaker_jp": "アキト",
    "speaker_en": "Akito",
-   "en": "Mokuren-style jujutsu...",
+   "en": "Jovian-style jujutsu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 230
    },
-   "notes": "Context: Tsukiomi and Goat intervene at cemetery; betrayal, new order, and sword/jujutsu distinction preserved. Akito identifies Tsukiomi's established martial art in a deliberate noun phrase.",
+   "notes": "Context: Tsukiomi and Goat intervene at cemetery; betrayal, new order, and sword/jujutsu distinction preserved. Akito identifies Tsukiomi's established martial art in a deliberate noun phrase. Chapters 31-58 proofreading: Uses the established Jovian term for the same martial tradition named in the preceding exchange.",
    "uncertain": [
     "Retained source technique-identification fragment."
    ]
@@ -4367,12 +4367,12 @@
    "kind": "dialogue",
    "speaker_jp": "トーレス",
    "speaker_en": "Torres",
-   "en": "...7...6...5...",
+   "en": "...7... 6... 5...",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 251
    },
-   "notes": "Source-fragment flag: countdown.",
+   "notes": "Source-fragment flag: countdown. Chapters 31-58 proofreading: Separates the countdown numbers for readability.",
    "uncertain": []
   },
   {
@@ -5405,12 +5405,12 @@
    "kind": "dialogue",
    "speaker_jp": "草壁",
    "speaker_en": "Kusakabe",
-   "en": "...The time is ripe. Tomorrow at 1200, we will put Plan A into action.",
+   "en": "...The time is ripe. Tomorrow at 12:00, we will put Plan A into action.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 311
    },
-   "notes": "Plan A is provisional rendition of first-stem codename; flagged pending term decision. Root term/context review: Provisional literal Plan A; no exact Akurasu or licensed wording located.",
+   "notes": "Plan A is provisional rendition of first-stem codename; flagged pending term decision. Root term/context review: Provisional literal Plan A; no exact Akurasu or licensed wording located. Chapters 31-58 proofreading: Use a clear 24-hour time for the operation schedule.",
    "uncertain": [
     "Provisional literal Plan A; no exact Akurasu or licensed wording located."
    ]
@@ -5521,12 +5521,12 @@
    "kind": "dialogue",
    "speaker_jp": "ドルチェノフ",
    "speaker_en": "Dorchenov",
-   "en": "You can deal a fatal blow to the Earth Federation and its forces, already in chaos over the MU's airborne city.",
+   "en": "You can deal a fatal blow to the Earth Federation and its forces, already in chaos over the Mu's airborne cities.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 318
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: The disruption comes from multiple airborne cities appearing worldwide.",
    "uncertain": []
   },
   {
@@ -5765,12 +5765,12 @@
    "kind": "thought",
    "speaker_jp": "ドルチェノフ",
    "speaker_en": "Dorchenov",
-   "en": "Heh heh heh... All the time I spent enduring life in this shoal zone was worth it.",
+   "en": "Heh heh heh... All the time I spent enduring life in this debris field was worth it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 333
    },
-   "notes": " Shoal zone has official Gundam stem support; exact licensed MX rendition remains unverified.",
+   "notes": " Shoal zone has official Gundam stem support; exact licensed MX rendition remains unverified. Chapters 31-58 proofreading: Use the established term debris field and natural phrasing.",
    "uncertain": [
     "Shoal zone has official Gundam stem support; exact licensed MX rendition remains unverified."
    ]
@@ -6605,12 +6605,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -9879,12 +9879,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "Before that, he's our enemy! Have you forgotten what he did to you!?",
+   "en": "More importantly, he's our enemy! Have you forgotten what he did to you!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 431
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: The speaker emphasizes a more fundamental objection, not chronological order.",
    "uncertain": []
   },
   {
@@ -10108,12 +10108,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "We should have defeated him for sure...!",
+   "en": "But we defeated him...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 443
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Express disbelief at his return after an apparently successful defeat.",
    "uncertain": []
   },
   {
@@ -12793,12 +12793,12 @@
    "kind": "dialogue",
    "speaker_jp": "草壁",
    "speaker_en": "Kusakabe",
-   "en": "The Earth Sphere now faces an unprecedented crisis, threatened by outside enemies such as MU and Gulfer!",
+   "en": "The Earth Sphere now faces an unprecedented crisis, threatened by outside enemies such as Mu and Gulfer!",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 599
    },
-   "notes": "Canonical Gulfer from current main glossary; explicit MU preserved.",
+   "notes": "Canonical Gulfer from current main glossary; explicit Mu preserved.",
    "uncertain": []
   },
   {
@@ -13345,12 +13345,12 @@
    "kind": "dialogue",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "...But with our current strength, we cannot defeat Dorchenov and the mobile fortress hidden in the shoal zone.",
+   "en": "...But with our current strength, we cannot defeat Dorchenov and the mobile fortress hidden in the debris field.",
    "translation_owner": {
     "source": "work/translation/en/script/stage45_campaign.json",
     "id": 631
    },
-   "notes": "Shoal zone literal for debris-navigation region, pending root term check. Root term/context review: Official Gundam.info supports shoal zone stem only; exact MX wording unverified.",
+   "notes": "Shoal zone literal for debris-navigation region, pending root term check. Root term/context review: Official Gundam.info supports shoal zone stem only; exact MX wording unverified. Chapters 31-58 proofreading: Use the established debris field term for the same location.",
    "uncertain": [
     "Official Gundam.info supports shoal zone stem only; exact MX wording unverified."
    ]
@@ -16750,7 +16750,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 45,
-  "fingerprint": "0fb81712779ca3981bc94356d27104b3ffc39215de4f53e8822089bb66ed8e3e",
+  "fingerprint": "67634c3b263a3c19fa2f0ca704f3524bc13982281d2b14bb583a46dfb946bb45",
   "reviewed_reused_ids": [
    1,
    25,
@@ -16941,7 +16941,7 @@
   "reviewed_reused_rows": 185,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all834 fresh source/final rows, all retained fragments and provenance flags, whole before/map/after chronology and all42 non-template reused rows at every occurrence. Original143 generic defeat templates have205 registrations and0 ordinary uses. Preserve hidden Aoi identity until named, false Inez death belief and second-anniversary memorial numbering, Akito sensory injury, Subaru indoctrination distinct from Altair mind control, source-ranked naval titles and concert deception. Names reconciled after agent meaning edits; canonical Ululun/Nadesico Q&A sourced from Akurasu. Three measured initial overflows136/440/642 preserve full drafts and before/after; actual worker5 restores explicit enemy scope440 at347px with both exclusions. All final rows fit; licensed gaps and literary allusions remain bounded flags. No build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Coordinator reviewed all834 fresh source/final rows, all retained fragments and provenance flags, whole before/map/after chronology and all42 non-template reused rows at every occurrence. Original143 generic defeat templates have205 registrations and0 ordinary uses. Preserve hidden Aoi identity until named, false Inez death belief and second-anniversary memorial numbering, Akito sensory injury, Subaru indoctrination distinct from Altair mind control, source-ranked naval titles and concert deception. Names reconciled after agent meaning edits; canonical Ululun/Nadesico Q&A sourced from Akurasu. Three measured initial overflows136/440/642 preserve full drafts and before/after; actual worker5 restores explicit enemy scope440 at347px with both exclusions. All final rows fit; licensed gaps and literary allusions remain bounded flags. No build or release. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 45 rows proofread against the original source in scene context, including all applicable routes and reused rows. 10 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 1019,

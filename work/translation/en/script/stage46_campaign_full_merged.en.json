@@ -367,12 +367,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミン",
    "speaker_en": "Min",
-   "en": "MU's floating city... I've heard about that and Gulfer too.",
+   "en": "Mu's floating cities... I've heard about those and Gulfer too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage46_campaign.json",
     "id": 21
    },
-   "notes": "Private rebel camp: Meio, Min and officers discuss motives and cooperation. Preserve stated meaning and spoken register; restore scene-set subjects where required.",
+   "notes": "Private rebel camp: Meio, Min and officers discuss motives and cooperation. Preserve stated meaning and spoken register; restore scene-set subjects where required. Chapters 31-58 proofreading: The scenario concerns multiple floating cities, not one city.",
    "uncertain": []
   },
   {
@@ -711,7 +711,7 @@
    "kind": "dialogue",
    "speaker_jp": "ベン",
    "speaker_en": "Ben",
-   "en": "It seems we were fortunate that MU has made no move.",
+   "en": "It seems we were fortunate that Mu has made no move.",
    "translation_owner": {
     "source": "work/translation/en/script/stage46_campaign.json",
     "id": 41
@@ -1586,12 +1586,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -13802,7 +13802,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 46,
-  "fingerprint": "ea50ed27f558bf1c5c8388115d2d94cda0692f709391b622a00104cbb2783173",
+  "fingerprint": "7f9706a20ff7d604afc9096734441defee7edcdf7c1c69f6f0b52dd9c4a1ea05",
   "reviewed_reused_ids": [
    35,
    43,
@@ -13972,7 +13972,7 @@
   "reviewed_reused_rows": 164,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all677 fresh source/final rows, all60 fresh flags, all21 non-template reused rows at every original occurrence, and whole before/map/after chronology including alternate encounters, persuasion branches and reused gaps. The143 generic defeat rows have205 original registrations and no ordinary uses. Original841 rows/934 uses retained. Source-first review preserves concealed pilot identity, compulsory hostage mission and cover story, firing-squad threat, mother blood/flesh trauma, refuge-rescue objectives with AND/OR and explicit enemies, 82% confidence, Dorchenov false accusation then true shooting confession, deliberate microphone broadcast, reduction TO15%, future brother-in-law interpretation, Mrs/Miss running gag, symbolic BlueHawk death and Earth future distinct from government service. Initialdraft60 four-line overflow shortened only after measurement. Canonical-name expansion523 separately measured four lines then worker5 verified minimal shortening, full intermediate recorded. Worker4 corrected unconfirmed pilot pronoun160; drafts unchanged. Every final row fits actual font and all structural checks pass. United Lunar Empire Giganos follows Akurasu; SP/PD/SFF stay unexpanded, source title distinctions and literal cultural wording retained. No ISO or release created."
+  "note": "Coordinator reviewed all677 fresh source/final rows, all60 fresh flags, all21 non-template reused rows at every original occurrence, and whole before/map/after chronology including alternate encounters, persuasion branches and reused gaps. The143 generic defeat rows have205 original registrations and no ordinary uses. Original841 rows/934 uses retained. Source-first review preserves concealed pilot identity, compulsory hostage mission and cover story, firing-squad threat, mother blood/flesh trauma, refuge-rescue objectives with AND/OR and explicit enemies, 82% confidence, Dorchenov false accusation then true shooting confession, deliberate microphone broadcast, reduction TO15%, future brother-in-law interpretation, Mrs/Miss running gag, symbolic BlueHawk death and Earth future distinct from government service. Initialdraft60 four-line overflow shortened only after measurement. Canonical-name expansion523 separately measured four lines then worker5 verified minimal shortening, full intermediate recorded. Worker4 corrected unconfirmed pilot pronoun160; drafts unchanged. Every final row fits actual font and all structural checks pass. United Lunar Empire Giganos follows Akurasu; SP/PD/SFF stay unexpanded, source title distinctions and literal cultural wording retained. No ISO or release created. 2026-10-09: All Chapter 46 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 841,

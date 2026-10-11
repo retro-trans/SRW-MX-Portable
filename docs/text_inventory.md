@@ -7,6 +7,12 @@ Textures were checked by eye on contact sheets in `work/ui/textures/`.
 
 Date: 2026-10-03. Counts are exact (parsed tables or relocation targets) unless marked.
 
+2026-10-07 correction: battle-animation HUD captions also have an untagged
+indexed atlas in STATIC2_ADD (PSP) / STATIC (PS2), separate from the TX48 map
+banners below. Its `AT Field` caption is translated in local 0.4.16 on both
+platforms. Other captions in that atlas remain Japanese; see
+`docs/at_field_0.4.16.md` for offsets and native image layouts.
+
 ## Summary
 
 "Chars" = Japanese characters in the unique strings. Status: **done** = English exists (not yet

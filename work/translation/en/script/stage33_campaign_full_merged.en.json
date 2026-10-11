@@ -166,12 +166,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "The situation in the Earth sphere remains unpredictable.",
+   "en": "The situation in the Earth Sphere remains unpredictable.",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 8
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use the established capitalization of Earth Sphere.",
    "uncertain": []
   },
   {
@@ -709,12 +709,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2991,12 +2991,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Reduce Dragonsaurus's HP to 90% or less@2. Mazinger Z, Great Mazinger, Grendizer,@Getter Dragon shot down 3. Our mothership shot down",
+   "en": "1. Dragonsaurus's HP falls to 90% or less@2. Mazinger Z, Great Mazinger, Grendizer,@or Getter Dragon shot down; 3. Mothership shot down",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 17
    },
-   "notes": "Nominal failure-condition list. Initial third line measured357px; compress Allied to Our, preserving friendly allegiance and all four named units, shot-down predicates and exact three source lines.",
+   "notes": "Nominal failure-condition list. Initial third line measured357px; compress Allied to Our, preserving friendly allegiance and all four named units, shot-down predicates and exact three source lines. Chapters 31-58 proofreading: This is a defeat-condition list: low Dragonsaurus HP causes failure, rather than being an instruction to win. Clarify that losing any named robot is a failure condition, and preserve all conditions in the original three lines.",
    "uncertain": []
   },
   {
@@ -5218,7 +5218,7 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "TERRA is a strategic organization for fighting the MU. It was not created to fight monsters like that.",
+   "en": "TERRA is a strategic organization for fighting the Mu. It was not created to fight monsters like that.",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 151
@@ -10066,12 +10066,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヒドラー",
    "speaker_en": "Hidler",
-   "en": "Th-those bastards, that monster...!!",
+   "en": "Th-those bastards... They got that monster...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 447
    },
-   "notes": "Battle event reactions and victory; enemy commanders retreat and Torres confirms success. Deliberate unfinished shock; defeated monster is scene-established but source does not finish the verb.",
+   "notes": "Battle event reactions and victory; enemy commanders retreat and Torres confirms success. Deliberate unfinished shock; defeated monster is scene-established but source does not finish the verb. Chapters 31-58 proofreading: Make the broken exclamation understandable in English: Hidler has just seen the monster defeated.",
    "uncertain": []
   },
   {
@@ -10823,12 +10823,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロム",
    "speaker_en": "Rom",
-   "en": "True strength isn't never losing... It's being able to get back up after a defeat.",
+   "en": "True strength doesn't mean never losing... It means being able to get back up after a defeat.",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 491
    },
-   "notes": "Rom explains recovering from defeat as true strength, rather than invincibility.",
+   "notes": "Rom explains recovering from defeat as true strength, rather than invincibility. Chapters 31-58 proofreading: Replace an awkward double negative while preserving the contrast between avoiding defeat and recovering from it.",
    "uncertain": []
   },
   {
@@ -11628,12 +11628,12 @@
    "kind": "dialogue",
    "speaker_jp": "西園寺",
    "speaker_en": "Saionji",
-   "en": "To defend Earth alongside Dendoh, which was brought to us then, when that day came...",
+   "en": "To defend Earth when that day came, alongside the Dendoh brought to us during that incident...",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 538
    },
-   "notes": "Sentence continuation from537 describes purpose, Dendoh arrival at that earlier incident, and future day of attack.",
+   "notes": "Sentence continuation from537 describes purpose, Dendoh arrival at that earlier incident, and future day of attack. Chapters 31-58 proofreading: Reorder the sentence so the time references are clear: Dendoh arrived during the earlier incident, and GEAR was founded to defend Earth against the coming threat.",
    "uncertain": []
   },
   {
@@ -12414,12 +12414,12 @@
    "kind": "dialogue",
    "speaker_jp": "みどり",
    "speaker_en": "Midori",
-   "en": "Here, eat your stew. You can think about that from now on.",
+   "en": "Here, eat your stew. You can think about that afterward.",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 586
    },
-   "notes": "Mother shifts to food and tells him to think going forward, not a future-only postponement.",
+   "notes": "Mother shifts to food and tells him to think going forward, not a future-only postponement. Chapters 31-58 proofreading: Here she tells Ginga to eat first and reflect later; from now on incorrectly suggests an ongoing lifelong action.",
    "uncertain": []
   },
   {
@@ -14637,12 +14637,12 @@
    "kind": "dialogue",
    "speaker_jp": "プロスペクター",
    "speaker_en": "Prospector",
-   "en": "Impressive... Your vision for moving objects, reflexes, and feel for the controls are almost unchanged from back then...",
+   "en": "Impressive... Your ability to track moving objects, reflexes, and feel for the controls are almost unchanged from back then...",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 718
    },
-   "notes": "All three retained: dynamic vision, reflexes, control feel; nearly not absolutely unchanged.",
+   "notes": "All three retained: dynamic vision, reflexes, control feel; nearly not absolutely unchanged. Chapters 31-58 proofreading: Use natural English for dynamic visual acuity while preserving the comparison with their earlier piloting skills.",
    "uncertain": []
   },
   {
@@ -17598,12 +17598,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロム",
    "speaker_en": "Rom",
-   "en": "Yes! And to help you recover it, I'll strike down your mask!",
+   "en": "Yes! And to help you recover it, I'll shatter your mask!",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 887
    },
-   "notes": "Battle exchange: allies challenge Altair, whose pain suggests buried identity, and Rom targets his mask. Rom strikes the mask to help Altair recover what he lost.",
+   "notes": "Battle exchange: allies challenge Altair, whose pain suggests buried identity, and Rom targets his mask. Rom strikes the mask to help Altair recover what he lost. Chapters 31-58 proofreading: Rom intends to break the false mask holding Altair under control; shatter is natural for the physical target, rather than strike down a mask.",
    "uncertain": []
   },
   {
@@ -18890,12 +18890,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. GEAR Fighter Dendoh down 2. Our mothership down@3. Unicorn Drill, Leo Circle, Dragon Flare,@Gatling Boar shot down",
+   "en": "1. GEAR Fighter Dendoh down 2. Our mothership down@3. Unicorn Drill, Leo Circle, Dragon Flare,@or Gatling Boar shot down",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 962
    },
-   "notes": "Three fixed source lines: two failure conditions share first line; third condition lists four Data Weapons over remaining two lines. Nominal predicates retained. Initial first line422px; final349px keeps complete Dendoh name, uses Our for friendly allegiance and down as condition-list shorthand for shot down.",
+   "notes": "Three fixed source lines: two failure conditions share first line; third condition lists four Data Weapons over remaining two lines. Nominal predicates retained. Initial first line422px; final349px keeps complete Dendoh name, uses Our for friendly allegiance and down as condition-list shorthand for shot down. Chapters 31-58 proofreading: Clarify that losing any one of the listed Data Weapons triggers defeat, while preserving the original three-line list.",
    "uncertain": []
   },
   {
@@ -19567,12 +19567,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "Th-that's right... His Majesty did... to Vega...!",
+   "en": "Th-that's right... Vega... His Majesty...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage33_campaign.json",
     "id": 1003
    },
-   "notes": "Deliberately interrupted mental recollection with elided predicate: His Majesty did...to Vega... retains omission; no invented act before recovered memory.",
+   "notes": "Deliberately interrupted mental recollection with elided predicate: His Majesty did...to Vega... retains omission; no invented act before recovered memory. Chapters 31-58 proofreading: Preserve the interrupted memory as an unfinished fragment. The source supplies no verb for what His Majesty did to Vega.",
    "uncertain": []
   },
   {
@@ -20750,7 +20750,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 33,
-  "fingerprint": "1c85a7f7bc81c8ffb998ae04c721053111162e15d420d3ef2f67d1d9c5f64f86",
+  "fingerprint": "f2836ccdbe039283b18d88b881555a4d9e04f0ea6c96d7b291bdb72dbcee20f4",
   "reviewed_reused_ids": [
    16,
    17,
@@ -20950,7 +20950,7 @@
   "reviewed_reused_rows": 194,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified. 2026-10-04 ranked-address delta: root scanned original Zuril title uses and reviewed full328/334 with original neighboring dialogue. Final fresh179/185 now Chief Zuril per main science-chief profile and clipped source-rank alias; actual final widths349/290/91 and267 pixels FITS. Immutable drafts and original sources unchanged; this supersedes Minister wording only, prior whole-stage review preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable."
+  "note": "Reviewed all 26 fresh flagged rows in original route neighbors and all 194 reused rows: 143 generic defeat rows across 410 registered opcode0x7D uses plus one ordinary Koji silence at s06e40:664; all 51 other reused rows checked in every scene position including 19 family-scene silences for Ginga/Hokuto, Data Weapon silences and repeated conditions. Earth and Super references retain distinct mothers and route continuity. Documented final-only Ryoko address typo correction to Hikaru/Izumi; puns and unresolved licensed/cultural provenance remain flagged. Later Frank Naga reference supports earlier blank/long allusion. Only measured draft overflow rows17,962,1046 tightened with full meaning preserved; source contract/mask fragments remain unspecified. 2026-10-04 ranked-address delta: root scanned original Zuril title uses and reviewed full328/334 with original neighboring dialogue. Final fresh179/185 now Chief Zuril per main science-chief profile and clipped source-rank alias; actual final widths349/290/91 and267 pixels FITS. Immutable drafts and original sources unchanged; this supersedes Minister wording only, prior whole-stage review preserved. Source-scoped Hari-to-Harry spoken nickname canonical correction only; complete old-to-new assembly delta independently proved against prior reviewed snapshot. Full Hari Makibi and prefills retained. All actual final widths fit, full drafts unchanged; prior context conclusions remain applicable. 2026-10-09: All Chapter 33 rows proofread against the original source in scene context, including all applicable routes and reused rows. 11 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 1264,

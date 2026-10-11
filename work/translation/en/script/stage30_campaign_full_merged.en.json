@@ -908,12 +908,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライ",
    "speaker_en": "Burai",
-   "en": "But our situation is no different. Tekkoryu has fallen, but a new organization called Gyandlar has begun to act.",
+   "en": "But our situation is no different. Hau Dragon has fallen, but a new organization called Gyandlar has begun to act.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 54
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -9009,12 +9009,12 @@
    "kind": "dialogue",
    "speaker_jp": "西園寺",
    "speaker_en": "Saionji",
-   "en": "Now, Orie... What will you do if you let yourself get like this?",
+   "en": "Now, Orie... You can't lose heart like this.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 385
    },
-   "notes": "Admonition concerns Orie's dejected state; English keeps contextual action.",
+   "notes": "Admonition concerns Orie's dejected state; English keeps contextual action. Chapters 15-30 proofreading: Saionji is urging Orie to regain her resolve, not asking what action she will take if she becomes a certain way. Use a natural English admonition.",
    "uncertain": []
   },
   {
@@ -9234,12 +9234,12 @@
    "kind": "dialogue",
    "speaker_jp": "西園寺",
    "speaker_en": "Saionji",
-   "en": "However painful it is, that is your duty, and Shibuya and everyone in GEAR's... and #部隊名's, too.",
+   "en": "However painful it is, that is the duty of you, Shibuya and everyone in GEAR... and of #部隊名, too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage30_campaign.json",
     "id": 399
    },
-   "notes": "Roles include Orie, Shibuya and GEAR, and exact squad placeholder; no expanded acronym.",
+   "notes": "Roles include Orie, Shibuya and GEAR, and exact squad placeholder; no expanded acronym. Chapters 15-30 proofreading: Recast the awkward chain of possessives so it clearly identifies everyone who shares the duty to protect the children and Earth.",
    "uncertain": []
   },
   {
@@ -13858,7 +13858,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 30,
-  "fingerprint": "b97467af40c50e3fb464d7e2009fa8c91e4e4e92f536b68a40a837336f865aaf",
+  "fingerprint": "c013c925a90a302309f747574881e764a00d606411bbc47d0848a6d9d3382946",
   "reviewed_reused_ids": [
    65,
    90,
@@ -14023,7 +14023,7 @@
   "reviewed_reused_rows": 159,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-04 ranked-address delta: root scanned all original source-ranked Zuril uses and reviewed their original neighbors. Source-short title follows Chief Zuril per main science-chief profile; final fresh91/113 Minister changed to Chief, and missing titles restored in290/297/310. All five new final rows measured FITS; immutable drafts and original sources remain unchanged. Prior whole-stage review remains valid, delta fingerprint updated. 2026-10-04 full organization-name delta reviewed against exact source and original neighbors at stage6 FULL362 / fresh212 and stage30 FULL744 / fresh587. Akurasu Dragonar explicitly names United Lunar Empire Giganos; only this full name changed in final, source-short names unchanged. Both affected packets remeasured FITS and immutable initial drafts retained. Prior full-stage context review remains applicable."
+  "note": "Coordinator reviewed all680 fresh English rows, all6 fresh provenance/wordplay flags against original Japanese and actual event neighbors, and all159 reused rows at every use (143 exact battle-template rows and16 individual contexts). Earth and Space sources govern stale route/event metadata. Wordplay, source-short names, Getter timings, all threats and political metaphors retained; closing virus and punishment scenes reviewed. Only464/596 shortened after historical measured overflow; full initial drafts preserved. Final name593 follows central Akurasu source. Current font revalidation passes839 rows/1116 uses, no findings; source-only provenance limits retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-04 ranked-address delta: root scanned all original source-ranked Zuril uses and reviewed their original neighbors. Source-short title follows Chief Zuril per main science-chief profile; final fresh91/113 Minister changed to Chief, and missing titles restored in290/297/310. All five new final rows measured FITS; immutable drafts and original sources remain unchanged. Prior whole-stage review remains valid, delta fingerprint updated. 2026-10-04 full organization-name delta reviewed against exact source and original neighbors at stage6 FULL362 / fresh212 and stage30 FULL744 / fresh587. Akurasu Dragonar explicitly names United Lunar Empire Giganos; only this full name changed in final, source-short names unchanged. Both affected packets remeasured FITS and immutable initial drafts retained. Prior full-stage context review remains applicable. 2026-10-09: All Chapter 30 rows proofread against the original source in scene context, including all applicable routes and reused rows. 2 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 839,

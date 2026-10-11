@@ -169,12 +169,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "That would save us in Tekkoryu a great deal of trouble. Quite convenient, really.",
+   "en": "That would save us in Hau Dragon a great deal of trouble. Quite convenient, really.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 9
    },
-   "notes": "Tekkoryu benefits from damage to Earth targets.",
+   "notes": "Tekkoryu benefits from damage to Earth targets. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -329,12 +329,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "At present, the forces that clearly stand in our Tekkoryu's way are...",
+   "en": "At present, the forces that clearly stand in our Hau Dragon's way are...",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 19
    },
-   "notes": "List introduction deliberately continues into row20.",
+   "notes": "List introduction deliberately continues into row20. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -505,12 +505,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "...For my Tekkoryu, the foremost enemy is Zeorymer of the Heavens...",
+   "en": "...For my Hau Dragon, the foremost enemy is Zeorymer of the Heavens...",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 30
    },
-   "notes": "Full unit title retained; deliberate trailing introduction.",
+   "notes": "Full unit title retained; deliberate trailing introduction. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1245,12 +1245,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "The way you move... You're not from the Earth sphere. A remnant of Mokuren, I'd wager?",
+   "en": "The way you move... You're not from the Earth Sphere. A remnant of the Jovian Federation, I'd wager?",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 74
    },
-   "notes": "Mokuren source-short name retained; suspicion, not confirmed identity.",
+   "notes": "Mokuren source-short name retained; suspicion, not confirmed identity. Chapters 15-30 proofreading: Replaces untranslated 'Mokuren' with the established English faction name, Jovian Federation, and uses the standard Earth Sphere capitalization.",
    "uncertain": []
   },
   {
@@ -1309,12 +1309,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルラーン",
    "speaker_en": "Luhran",
-   "en": "Otherwise, I would never have brought him to this Tekkoryu fortress.",
+   "en": "Otherwise, I would never have brought him to this Hau Dragon fortress.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 78
    },
-   "notes": "Luhran vouches for Hokushin by fortress access.",
+   "notes": "Luhran vouches for Hokushin by fortress access. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1441,12 +1441,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルラーン",
    "speaker_en": "Luhran",
-   "en": "Then you could attack #部隊名 on your own. Why did you approach us, the Tekkoryu?",
+   "en": "Then you could attack #部隊名 on your own. Why did you approach us, the Hau Dragon?",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 86
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1473,12 +1473,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルラーン",
    "speaker_en": "Luhran",
-   "en": "Ugh...! Y-yes, the Tekkoryu Fortress was restored by adapting some of your technology.",
+   "en": "Ugh...! Y-yes, the Hau Dragon Fortress was restored by adapting some of your technology.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 88
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1573,12 +1573,12 @@
    "kind": "thought",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "...Now I know the exact location of the Tekkoryu Fortress. All that remains is...",
+   "en": "...Now I know the exact location of the Hau Dragon Fortress. All that remains is...",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 93
    },
-   "notes": "Thought; final clause deliberately trails off.",
+   "notes": "Thought; final clause deliberately trails off. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2717,12 +2717,12 @@
    "kind": "dialogue",
    "speaker_jp": "井上博士",
    "speaker_en": "Dr. Inoue",
-   "en": "Dendoh's basic combat movement patterns are based on the Shaolin kung fu Ginga is learning.",
+   "en": "Dendoh's basic combat movement patterns are based on the Shorinji Kempo Ginga is learning.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 164
    },
-   "notes": "Locked glossary Shaolin kung fu retained.",
+   "notes": "Locked glossary Shaolin kung fu retained. Chapters 15-30 proofreading: Ginga studies Shorinji Kempo, the specific Japanese martial art already distinguished in the glossary; it is not the Shaolin kung fu practiced by Sai Saici.",
    "uncertain": []
   },
   {
@@ -2749,12 +2749,12 @@
    "kind": "dialogue",
    "speaker_jp": "一矢",
    "speaker_en": "Kazuya",
-   "en": "A boy at the temple gate learns to chant sutras without lessons... But their synchronization is impressive.",
+   "en": "Learning by osmosis, huh? Still, their synchronization is impressive.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 166
    },
-   "notes": "Temple novice proverb kept as image of learning through exposure; not formal prior training.",
+   "notes": "Temple novice proverb kept as image of learning through exposure; not formal prior training. Chapters 15-30 proofreading: Uses a natural English equivalent of the proverb about a boy learning temple chants through exposure. Kazuya is praising what Hokuto has picked up without formal lessons.",
    "uncertain": []
   },
   {
@@ -5575,12 +5575,12 @@
    "kind": "dialogue",
    "speaker_jp": "銀河",
    "speaker_en": "Ginga",
-   "en": "Every martial artist in the world would cry with envy at this stew!",
+   "en": "It's a stew-ation that would make every martial artist in the world green with envy!",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 188
    },
-   "notes": "Literal stew mispronunciation preserves joke setup for situation correction189.",
+   "notes": "Literal stew mispronunciation preserves joke setup for situation correction189. Chapters 15-30 proofreading: Adapts Ginga's mistaken shortening of 'situation' into an audible English mispronunciation, preserving Hokuto's correction in the next line.",
    "uncertain": [
     "Literal stew/situation preserves source food-word mix-up; English phonetic wordplay is approximate."
    ]
@@ -6957,12 +6957,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "If you would save the woman, surrender to us. Entrust to us that battle commander which jumps by the light of Daimolite.",
+   "en": "If you would save the woman, surrender to us. Entrust Daimos to us, the warrior that jumps by the light of Daimolite.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 266
    },
-   "notes": "Hokushin requests Kazuya surrender and hand over the machine that jumps using Daimolite light.",
+   "notes": "Hokushin requests Kazuya surrender and hand over the machine that jumps using Daimolite light. Chapters 15-30 proofreading: The epithet refers to Daimos, not a separate battle commander. Naming the machine clarifies what Hokushin demands while retaining his formal threat.",
    "uncertain": []
   },
   {
@@ -7763,12 +7763,12 @@
    "kind": "dialogue",
    "speaker_jp": "北辰",
    "speaker_en": "Hokushin",
-   "en": "Their diversion has succeeded... Now I need only choose the right moment to withdraw.",
+   "en": "We've successfully drawn them out... Now I need only choose the right moment to withdraw.",
    "translation_owner": {
     "source": "work/translation/en/script/stage24_campaign.json",
     "id": 315
    },
-   "notes": "Their refers to allied diversion planners; source does not name them.",
+   "notes": "Their refers to allied diversion planners; source does not name them. Chapters 15-30 proofreading: Corrects the direction of the diversion: Hokushin has drawn the heroes out. 'Their diversion has succeeded' wrongly credits the targets with conducting it.",
    "uncertain": [
     "Indirect referent retained: source does not explicitly name the person or diversion planners."
    ]
@@ -10432,7 +10432,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 24,
-  "fingerprint": "65377597e47578f78283783f34309e1a76b66b29fddbc1c12a8ad107f181c33c",
+  "fingerprint": "81e9ed0282d7aa9ae4129d7a5b4206422f1a69aaa38b03821cb18cd90c777f25",
   "reviewed_reused_ids": [
    40,
    59,
@@ -10602,7 +10602,7 @@
   "reviewed_reused_rows": 164,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed every fresh packet, all fresh uncertainties in original event context, and all164 reused rows in every actual use with final English neighbors. Three measured overflows33/70/448 alone compressed; ritual astronomy, cryptic Heaven/Hakke, placeholder420, ranks and command direction preserved. Initial drafts retained; name reconciliation and whole-campaign nickname previews require no changes. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator reviewed every fresh packet, all fresh uncertainties in original event context, and all164 reused rows in every actual use with final English neighbors. Three measured overflows33/70/448 alone compressed; ritual astronomy, cryptic Heaven/Hakke, placeholder420, ranks and command direction preserved. Initial drafts retained; name reconciliation and whole-campaign nickname previews require no changes. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 24 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 637,

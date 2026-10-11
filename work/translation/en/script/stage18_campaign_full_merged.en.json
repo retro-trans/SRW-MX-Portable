@@ -1306,12 +1306,12 @@
    "kind": "dialogue",
    "speaker_jp": "プラート博士",
    "speaker_en": "Dr. Plato",
-   "en": "the Tekkoryu (Iron Dragon) with its special machines, Dolems, Angels and the like would be difficult.",
+   "en": "the Hau Dragon with its special machines, Dolems, Angels and the like would be difficult.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 79
    },
-   "notes": "Completes rows 77-78 with the difficulty predicate; Tekkoryu special machines remain distinct from Dolems and Angels.",
+   "notes": "Completes rows 77-78 with the difficulty predicate; Tekkoryu special machines remain distinct from Dolems and Angels. Chapters 15-30 proofreading: Remove an unnecessary parenthetical gloss from the established faction name. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2581,12 +2581,12 @@
    "kind": "dialogue",
    "speaker_jp": "洸",
    "speaker_en": "Akira",
-   "en": "Neither did I. But...",
+   "en": "Neither am I. But...",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 156
    },
-   "notes": "Akira says he also never wanted to fight; deliberate But cutoff retained.",
+   "notes": "Akira says he also never wanted to fight; deliberate But cutoff retained. Chapters 15-30 proofreading: Match the present-tense statement that neither character fights because he wants to.",
    "uncertain": []
   },
   {
@@ -3366,7 +3366,7 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "I'm Albero Esto.",
+   "en": "I'm Albero Est.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 205
@@ -3882,7 +3882,7 @@
    "kind": "dialogue",
    "speaker_jp": "グン・ジェム",
    "speaker_en": "Gon Jem",
-   "en": "I remember now, Albero Esto... You were the commander of the Cry Wolves, weren't you?",
+   "en": "I remember now, Albero Est... You were the commander of the Cry Wolves, weren't you?",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 236
@@ -7844,12 +7844,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Folia Esto will never come back!!",
+   "en": "Folia Est will never come back!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 312
    },
-   "notes": "Continuation of311; Folia Esto centrally approved from Akurasu Folia plus established Esto surname; son relationship is explicit in MX source.",
+   "notes": "Continuation of311; Folia Esto centrally approved from Akurasu Folia plus established Esto surname; son relationship is explicit in MX source. Chapters 15-30 proofreading: Use the same user-requested family surname as his father, Albero Est.",
    "uncertain": [
     "Full English compound is source-compositional; independently licensed full Folia Esto wording is unverified."
    ]
@@ -10841,12 +10841,12 @@
    "kind": "dialogue",
    "speaker_jp": "ケーン",
    "speaker_en": "Kaine",
-   "en": "We'll never be able to live in peace as long as the likes of Giganos, Tekkoryu (Iron Dragon) and Gulfer are around!",
+   "en": "We'll never be able to live in peace as long as the likes of Giganos, Hau Dragon and Gulfer are around!",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 497
    },
-   "notes": "Continuation of496; all three hostile factions named.",
+   "notes": "Continuation of496; all three hostile factions named. Chapters 15-30 proofreading: Remove the unnecessary gloss after the established faction name. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -11241,12 +11241,12 @@
    "kind": "dialogue",
    "speaker_jp": "プラート博士",
    "speaker_en": "Dr. Plato",
-   "en": "It looks the same, but I've improved its software's processing power, armor and output.",
+   "en": "It looks the same, but I've improved its software's processing power, along with its armor and output.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 522
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Make clear that armor and output are properties of the machine, not of its software.",
    "uncertain": []
   },
   {
@@ -11931,12 +11931,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロム",
    "speaker_en": "Rom",
-   "en": "I'll be watching you show the new dragon's power!",
+   "en": "Let me see your new dragon power!",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 564
    },
-   "notes": "Rom addresses the upgraded Dragonar pilots; request direction is toward them.",
+   "notes": "Rom addresses the upgraded Dragonar pilots; request direction is toward them. Chapters 15-30 proofreading: Replace the awkward watching-you-show construction with a natural request to demonstrate their new power.",
    "uncertain": []
   },
   {
@@ -12953,12 +12953,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "Of course. That's my intention. Don't let AI1 have a rejection response.",
+   "en": "Of course. That's my intention. Make sure AI1 shows no signs of rejection.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 619
    },
-   "notes": "AI1's rejection response is a biological/system metaphor; no diagnosis invented.",
+   "notes": "AI1's rejection response is a biological/system metaphor; no diagnosis invented. Chapters 15-30 proofreading: Use natural English for the rejection response without changing the technical claim.",
    "uncertain": []
   },
   {
@@ -15041,7 +15041,7 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "I can't imagine Albero Esto is controlling it.",
+   "en": "I can't imagine Albero Est is controlling it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 745
@@ -15211,12 +15211,12 @@
    "kind": "thought",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "That machine should be an unmanned unit equipped with an artificial intelligence for combat.",
+   "en": "That machine should be unmanned, with a combat AI on board.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 755
    },
-   "notes": "Continuation of754; full AI/unmanned meaning retained.",
+   "notes": "Continuation of754; full AI/unmanned meaning retained. Chapters 15-30 proofreading: Use the established AI abbreviation and a concise description of the unmanned design.",
    "uncertain": []
   },
   {
@@ -15285,7 +15285,7 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "That revenge Albero Esto spoke of... Could it be...",
+   "en": "That revenge Albero Est spoke of... Could it be...",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 758
@@ -15539,12 +15539,12 @@
    "kind": "thought",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "What is it? Commander... No, Albero Esto...",
+   "en": "What is it? Commander... No, Albero Est...",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 772
    },
-   "notes": "Actual thought; Commander self-corrects to Albero Esto.",
+   "notes": "Actual thought; Commander self-corrects to Albero Est.",
    "uncertain": []
   },
   {
@@ -16662,12 +16662,12 @@
    "kind": "dialogue",
    "speaker_jp": "タップ",
    "speaker_en": "Tapp",
-   "en": "But weren't those two on Mars now?",
+   "en": "But weren't those two supposed to be on Mars?",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 842
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Resolve the conflicting past-tense were and present-time now while preserving his surprise at their return.",
    "uncertain": []
   },
   {
@@ -16822,7 +16822,7 @@
    "kind": "dialogue",
    "speaker_jp": "竜馬",
    "speaker_en": "Ryoma",
-   "en": "Chibodee Crocket and George DeSand...",
+   "en": "Chibodee Crocket and George De Sand...",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 852
@@ -18115,7 +18115,7 @@
    "kind": "dialogue",
    "speaker_jp": "竜馬",
    "speaker_en": "Ryoma",
-   "en": "And on Earth, there's the Hyakki Empire, Hau Dragon... and MU too.",
+   "en": "And on Earth, there's the Hyakki Empire, Hau Dragon... and Mu too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 931
@@ -19824,12 +19824,12 @@
    "kind": "dialogue",
    "speaker_jp": "プロスペクター",
    "speaker_en": "Prospector",
-   "en": "Giganos, Gulfer, MU... The Hyakki Empire and Tekkoryu (Iron Dragon)... Then the Vegan Empire, and on top of that, the Angels.",
+   "en": "Giganos, Gulfer, the Mu... The Hyakki Empire and Hau Dragon... Plus the Vegan Empire, and the Angels on top of that.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1037
    },
-   "notes": "Enemy list remains a nominal list; every listed faction and Angels retained.",
+   "notes": "Enemy list remains a nominal list; every listed faction and Angels retained. Chapters 15-30 proofreading: Remove the unnecessary gloss after the established faction name. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. The Japanese lists seven enemies cumulatively. Plus avoids implying a chronology; the Mu uses the requested article.",
    "uncertain": []
   },
   {
@@ -20144,12 +20144,12 @@
    "kind": "dialogue",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "Albero Esto... The pilot of the Medius Locus who took part in the battle in Kyoto?",
+   "en": "Albero Est... The pilot of the Medius Locus who took part in the battle in Kyoto?",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1057
    },
-   "notes": "Full Albero Esto and Medius Locus are preserved.",
+   "notes": "Full Albero Est and Medius Locus are preserved.",
    "uncertain": []
   },
   {
@@ -22053,12 +22053,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "If you know that much, there's no need for talk, George DeSand!",
+   "en": "If you know that much, there's no need for talk, George De Sand!",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1173
    },
-   "notes": "Full George DeSand fixed spelling preserved.",
+   "notes": "Full George De Sand fixed spelling preserved.",
    "uncertain": []
   },
   {
@@ -23388,12 +23388,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Besides... I don't want to regret leaving people we could have saved without helping them.",
+   "en": "Besides... I don't want to regret turning my back on people we could save.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1256
    },
-   "notes": "Ruri avoids regret over not helping people they can save; no additional past event named.",
+   "notes": "Ruri avoids regret over not helping people they can save; no additional past event named. Chapters 15-30 proofreading: Remove the redundant leaving-without-helping construction while preserving her reason for intervening.",
    "uncertain": []
   },
   {
@@ -24131,12 +24131,12 @@
    "kind": "dialogue",
    "speaker_jp": "エリカ",
    "speaker_en": "Erika",
-   "en": "It seems you and we are parallel lines that will never meet.",
+   "en": "It seems we're on parallel paths that will never meet.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1300
    },
-   "notes": "Parallel-lines metaphor retained.",
+   "notes": "Parallel-lines metaphor retained. Chapters 15-30 proofreading: Make the parallel-lines metaphor natural in English without changing the refusal to compromise.",
    "uncertain": []
   },
   {
@@ -24403,12 +24403,12 @@
    "kind": "dialogue",
    "speaker_jp": "草壁",
    "speaker_en": "Kusakabe",
-   "en": "He escaped from Mars with his companions and headed for the Earth region. Of course, we have already sent pursuers.",
+   "en": "He escaped from Mars with his companions and headed for the Earth Sphere. Of course, we have already sent pursuers.",
    "translation_owner": {
     "source": "work/translation/en/script/stage18_campaign.json",
     "id": 1317
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Use the established Earth Sphere term for the source location.",
    "uncertain": []
   },
   {
@@ -28070,7 +28070,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 18,
-  "fingerprint": "bd3d71063a7bc93718a403149b8ad29831d80352b02b412ad6230101ffeae5db",
+  "fingerprint": "e959ecff32aa17a59c889b71cbd6a53edf244bd8df7fe5cb4536c1c1e4b4e390",
   "reviewed_reused_ids": [
    83,
    106,
@@ -28247,7 +28247,7 @@
   "reviewed_reused_rows": 171,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all1544 fresh English rows and twenty reports, reviewed35 fresh flags against original Japanese, all171 shared rows/every use (143 identical generic defeat templates and28 special contexts), both routes and dedup boundaries. Six actual Sol6.1Medium workers verified. Agent meaning fixes precede source-backed name script; all initial drafts retained. Corrected Ruri/Yurika ranks, source-short Dr.Plato, Mars-area scope, monopolization likelihood and Richter death. Six measured dialogue overflows555/559/601/878/886/957 compressed preserving meaning; full1715 retains uses and passes structural/character/placeholder/prefill/spelling/font checks. Literal slogans, uncertain intermediate ranks, short labels, proverbs, verse/allusions and haircut nickname provenance remain flagged; hidden speakers and genuine source insults preserved. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator read all1544 fresh English rows and twenty reports, reviewed35 fresh flags against original Japanese, all171 shared rows/every use (143 identical generic defeat templates and28 special contexts), both routes and dedup boundaries. Six actual Sol6.1Medium workers verified. Agent meaning fixes precede source-backed name script; all initial drafts retained. Corrected Ruri/Yurika ranks, source-short Dr.Plato, Mars-area scope, monopolization likelihood and Richter death. Six measured dialogue overflows555/559/601/878/886/957 compressed preserving meaning; full1715 retains uses and passes structural/character/placeholder/prefill/spelling/font checks. Literal slogans, uncertain intermediate ranks, short labels, proverbs, verse/allusions and haircut nickname provenance remain flagged; hidden speakers and genuine source insults preserved. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.14: user requested George De Sand spelling; Rockfell favor/arrogance phrasing checked against source and made idiomatic. 2026-10-09: All Chapter 18 rows proofread against the original source in scene context, including all applicable routes and reused rows. 13 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 1715,

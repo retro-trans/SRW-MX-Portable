@@ -121,12 +121,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "C-Captain! The Army-type units are multiplying again!!",
+   "en": "C-Commander! The Army-type units are multiplying again!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage05_campaign.json",
     "id": 6
    },
-   "notes": "Army-type units is the source-literal Devil Gundam minion classification, not Gespenst Army units.",
+   "notes": "Army-type units is the source-literal Devil Gundam minion classification, not Gespenst Army units. Chapters 1-14 proofreading: Uses Albero's squad-leader title consistently in the Cry Wolves flashback.",
    "uncertain": [
     "Army-type units has no independently established MX canonical English entry; source-literal classification."
    ]
@@ -253,12 +253,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "C-Captain! The main body... The main body is starting to regenerate!!",
+   "en": "C-Commander! The main body... The main body is starting to regenerate!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage05_campaign.json",
     "id": 14
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Uses Albero's squad-leader title consistently in the Cry Wolves flashback.",
    "uncertain": []
   },
   {
@@ -1176,12 +1176,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Damn it! Are you saying it's... the Devil Gundam has come back!?",
+   "en": "Damn it! Are you saying... the Devil Gundam has come back!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage05_campaign.json",
     "id": 68
    },
-   "notes": "Hugo responds with a trauma-driven outburst; nickname speaker stays a runtime placeholder.",
+   "notes": "Hugo responds with a trauma-driven outburst; nickname speaker stays a runtime placeholder. Chapters 1-14 proofreading: Remove the broken phrase 'it's... the Devil Gundam has' while preserving Hugo's shocked question about its revival.",
    "uncertain": []
   },
   {
@@ -1624,12 +1624,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2734,12 +2734,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3247,12 +3247,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -5363,7 +5363,7 @@
    "kind": "dialogue",
    "speaker_jp": "ライト",
    "speaker_en": "Light",
-   "en": "George DeSand, the Jack in Diamond... They are members of the Shuffle Alliance.",
+   "en": "George De Sand, the Jack in Diamond... They are members of the Shuffle Alliance.",
    "translation_owner": {
     "source": "work/translation/en/script/stage05_campaign.json",
     "id": 173
@@ -7985,7 +7985,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 5,
-  "fingerprint": "988392c4f9d166778f0819578e3faac9a21d796f4d7b3210631e7a2243651896",
+  "fingerprint": "9e87dfa969d982f4e514f303197c49113e89c814227803847aeddb8e44923407",
   "reviewed_reused_ids": [
    32,
    53,
@@ -8158,7 +8158,7 @@
   "reviewed_reused_rows": 167,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 167 reused rows: unchanged generic battle defeat template and mission objectives; protagonist silences/reactions checked at every original use; Ginga and Rain autograph sequence matches stage4 context with unchanged listener/referents. Reviewed fresh terminology and Aqua open-ended thought455 against adjacent scenes; retained source ambiguities. All final rows pass structural/font/name checks. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Reviewed all 167 reused rows: unchanged generic battle defeat template and mission objectives; protagonist silences/reactions checked at every original use; Ginga and Rain autograph sequence matches stage4 context with unchanged listener/referents. Reviewed fresh terminology and Aqua open-ended thought455 against adjacent scenes; retained source ambiguities. All final rows pass structural/font/name checks. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.14: user requested George De Sand spelling; Rockfell favor/arrogance phrasing checked against source and made idiomatic. 2026-10-09: All Chapter 5 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 482,

@@ -1,0 +1,31 @@
+{
+ "version": "0.4.17",
+ "old_name": "Albero Esto",
+ "name": "Albero Est",
+ "changed_current_inputs": [
+  "work/glossary/campaign_terms.json",
+  "work/glossary/glossary.json",
+  "work/glossary/glossary_C.json",
+  "work/glossary/stage18_history_additions.json",
+  "work/translation/en/battle/batch_25.json",
+  "work/translation/en/battle/batch_26.json",
+  "work/translation/en/library.json",
+  "work/translation/en/library_C.json",
+  "work/translation/en/ps2/database_port.en.json",
+  "work/translation/en/ps2/script/campaign_port.en.json",
+  "work/translation/en/ps2/script/campaign_ps2_variants.en.json",
+  "work/translation/en/script/stage11_campaign_full_merged.json",
+  "work/translation/en/script/stage14_campaign_full_merged.json",
+  "work/translation/en/script/stage18_campaign_full_merged.json",
+  "work/translation/en/script/stage22_campaign_full_merged.json",
+  "work/translation/en/script/stage28_campaign_full_merged.json",
+  "work/translation/en/script/stage41_campaign_full_merged.json",
+  "work/translation/en/script/stage50_campaign_full_merged.json",
+  "work/translation/en/script/stage51_campaign_full_merged.json",
+  "work/translation/en/script/stage54_campaign_full_merged.json",
+  "work/translation/en/script/stage55_campaign_full_merged.json",
+  "work/translation/en/script/stage56_campaign_full_merged.json",
+  "work/translation/en/static2/names.json"
+ ],
+ "reason": "User-requested surname spelling; short name Albero is preserved."
+}

@@ -421,12 +421,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Tekkoryu.",
+   "en": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Hau Dragon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage12_campaign.json",
     "id": 24
    },
-   "notes": "Tekkoryu organization; no explanatory alias appended.",
+   "notes": "Tekkoryu organization; no explanatory alias appended. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -891,12 +891,12 @@
    "kind": "dialogue",
    "speaker_jp": "美久",
    "speaker_en": "Miku",
-   "en": "Oki told you about Tekkoryu... Hau Dragon, didn't he?",
+   "en": "Oki told you about the Iron Dragon... Hau Dragon, didn't he?",
    "translation_owner": {
     "source": "work/translation/en/script/stage12_campaign.json",
     "id": 52
    },
-   "notes": "Source speaks both Tekkoryu and its Hau Dragon reading/name; both retained.",
+   "notes": "Source speaks both Tekkoryu and its Hau Dragon reading/name; both retained. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. This source explicitly says both name forms; the Iron Dragon is retained only as its literal alias, preserving the pause/self-correction.",
    "uncertain": []
   },
   {
@@ -1628,12 +1628,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2738,12 +2738,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -3251,12 +3251,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -4749,12 +4749,12 @@
    "kind": "dialogue",
    "speaker_jp": "シ・タウ",
    "speaker_en": "Shi-Tau",
-   "en": "What nonsense... Tekkoryu shall rule the world... We have no need of allies!",
+   "en": "What nonsense... Hau Dragon shall rule the world... We have no need of allies!",
    "translation_owner": {
     "source": "work/translation/en/script/stage12_campaign.json",
     "id": 137
    },
-   "notes": "Tekkoryu uses glossary organization root without parenthetical gloss.",
+   "notes": "Tekkoryu uses glossary organization root without parenthetical gloss. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -5070,12 +5070,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "#女愛称! Don't fall for the enemy's sweet talk! In a real battle...",
+   "en": "#女愛称! Don't let the enemy get to you! In a real battle...",
    "translation_owner": {
     "source": "work/translation/en/script/stage12_campaign.json",
     "id": 156
    },
-   "notes": "Hugo interrupts his combat advice when Aqua insists she already understands; keep the trailing clause.",
+   "notes": "Hugo interrupts his combat advice when Aqua insists she already understands; keep the trailing clause. Chapters 1-14 proofreading: Fits the actual exchange: the enemy is trying to provoke Aqua with an insult, not flattering or sweet-talking her.",
    "uncertain": []
   },
   {
@@ -5470,12 +5470,12 @@
    "kind": "dialogue",
    "speaker_jp": "シ・タウ",
    "speaker_en": "Shi-Tau",
-   "en": "They call Fire and Water a pair of Hakke robots...! They say they share the same fate as us sisters...!",
+   "en": "As if Fire and Water must be paired Hakke robots...! As if they have to share the same fate as us sisters...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage12_campaign.json",
     "id": 181
    },
-   "notes": "Indignant quoted comparison: paired Fire/Water robots parallel the two sisters. Preserve repeated hearsay fragments; source wording does not specify the person making the comparison.",
+   "notes": "Indignant quoted comparison: paired Fire/Water robots parallel the two sisters. Preserve repeated hearsay fragments; source wording does not specify the person making the comparison. Chapters 1-14 proofreading: Preserves Shi-Tau's rejection of the claimed bond between the two robots, rather than making it sound like a neutral description.",
    "uncertain": [
     "Source comparison is deliberately fragmentary; paired Fire/Water and the sisters' shared fate are retained as indignant hearsay."
    ]
@@ -6353,7 +6353,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 12,
-  "fingerprint": "b59afd9d07778bba9daa047e8fb626d70d73a73ca21170359ea6877a767371d4",
+  "fingerprint": "aac4f2959f2b9079dae4292747c6a371ac0fd82ca67fb84db4124de4f250a8db",
   "reviewed_reused_ids": [
    31,
    65,
@@ -6507,7 +6507,7 @@
   "reviewed_reused_rows": 148,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 148 reused rows: 143 generic defeat rows match reviewed Stage 11 exactly, and five special rows checked in every original numeric-use window. Read full fresh English and eleven fresh uncertainty flags against original context, retaining phonetic Hyakki/hiccups, unresolved canonical provenance and the sisters paired-robot fragment. Source-short Yousaiki and Getter Ray amplifier verified; all 235 fresh rows fit without compression."
+  "note": "Reviewed all 148 reused rows: 143 generic defeat rows match reviewed Stage 11 exactly, and five special rows checked in every original numeric-use window. Read full fresh English and eleven fresh uncertainty flags against original context, retaining phonetic Hyakki/hiccups, unresolved canonical provenance and the sisters paired-robot fragment. Source-short Yousaiki and Getter Ray amplifier verified; all 235 fresh rows fit without compression. 2026-10-09: All Chapter 12 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 383,

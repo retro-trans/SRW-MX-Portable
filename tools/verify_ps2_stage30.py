@@ -175,7 +175,7 @@ def verify(base=BASE, version=VERSION):
     checks['native_additional_asset_references_valid']=True
     original=(ROOT/'work/source/ps2/SLPS_253.45').read_bytes()
     mips=verify_font(original,elf,meta);checks['font']={k:v for k,v in mips.items() if not isinstance(v,list)}
-    checks['translations']=verify_text(elf,json.loads((ROOT/'work/build/ps2/campaign/native_text.json').read_text()))
+    checks['translations']=verify_text(elf,json.loads((ROOT/'work/build/ps2/campaign/native_text.json').read_text()),BASE if (BASE/'library.json').exists() else None)
     checks['difficulty']=verify_balance(elf,json.loads((BASE/'difficulty.json').read_text()))
     checks['prologue']=verify_prologue(VERSION,BASE,(156,),(431,432))
     checks['new_game']=verify_entry(elf,stage);checks['numbering']=verify_numbers(elf)

@@ -236,6 +236,10 @@ CODE_PATCHES = [
 ]
 
 
+from psp_spirit_footer import FOOTER_PATCHES
+CODE_PATCHES.extend((va, old, new, 'Spirit Search: separate names/costs in six consistent cells')
+                    for va, old, new in FOOTER_PATCHES)
+
 # Code blocks that need relocations: (vaddr, original bytes, new words, [(word index, reloc type)], why).
 # Applied by patch_centering (after the PRX segment is final, since it appends relocations).
 CODE_BLOCKS = [

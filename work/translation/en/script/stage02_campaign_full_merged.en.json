@@ -1100,7 +1100,7 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "Soon, the Federation's Far East Forces and TERRA, the anti-MU strategic research agency, will launch a major operation.",
+   "en": "Soon, the Federation's Far East Forces and TERRA, the anti-Mu strategic research agency, will launch a major operation.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 65
@@ -1116,12 +1116,12 @@
    "kind": "dialogue",
    "speaker_jp": "ブライト",
    "speaker_en": "Bright",
-   "en": "Are they planning to invade the inside?",
+   "en": "Are they planning to penetrate the barrier?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 66
    },
-   "notes": "Bright and Misumaru discuss changed transport orders and Japanese operations; formal command exchange, then personal apology and thanks. They refers to Far East Forces/TERRA; invasion inside barrier restored.",
+   "notes": "Bright and Misumaru discuss changed transport orders and Japanese operations; formal command exchange, then personal apology and thanks. They refers to Far East Forces/TERRA; invasion inside barrier restored. Chapters 1-14 proofreading: The question concerns entering Tokyo Jupiter; invade the inside is awkward and imprecise.",
    "uncertain": []
   },
   {
@@ -1362,12 +1362,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "I'm sorry to have put you to that trouble, Colonel.",
+   "en": "I'm sorry to have put you to that trouble, Captain.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 81
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Bright's established naval rank is Captain, matching the nearby forms of address and recorded Akurasu decision.",
    "uncertain": []
   },
   {
@@ -2324,12 +2324,12 @@
    "kind": "dialogue",
    "speaker_jp": "ケーン",
    "speaker_en": "Kaine",
-   "en": "What!? Who are you calling a trio of cons, huh!?",
+   "en": "What!? Who are you calling a trio of crooks, huh!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 139
    },
-   "notes": "Sound-based misunderstanding recreated as clowns/cons; not a literal lexical match.",
+   "notes": "Sound-based misunderstanding recreated as clowns/cons; not a literal lexical match. Chapters 1-14 proofreading: A trio of cons sounds like drawbacks in English; crooks keeps Kaine's mishearing of the insult intelligible.",
    "uncertain": [
     "Wordplay adapted: source confuses tonchiki (fools) with inchiki (frauds); clowns/cons preserves the misunderstanding."
    ]
@@ -3046,12 +3046,12 @@
    "kind": "dialogue",
    "speaker_jp": "ケーン",
    "speaker_en": "Kaine",
-   "en": "...Yes, it is.",
+   "en": "...No, they're no different.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 184
    },
-   "notes": "Yes, it is contradicts Asuka's claim that EVA-02 differs fundamentally from the Dragonars.",
+   "notes": "Yes, it is contradicts Asuka's claim that EVA-02 differs fundamentally from the Dragonars. Chapters 1-14 proofreading: Kaine rejects Asuka's claim that her machine is fundamentally different; make the reply's polarity explicit.",
    "uncertain": []
   },
   {
@@ -4232,12 +4232,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -5427,12 +5427,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -5975,12 +5975,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -6891,12 +6891,12 @@
    "kind": "dialogue",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "Yes... the Dragonars are flying. When did they learn to do that?",
+   "en": "Yes... the Dragonars are flying. When did that happen?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 256
    },
-   "notes": "Restored Dragonars as subject of the surprised timing question; flying ability is the referent.",
+   "notes": "Restored Dragonars as subject of the surprised timing question; flying ability is the referent. Chapters 1-14 proofreading: The surprise concerns newly flying machines, not an unsupported claim that their pilots learned a skill.",
    "uncertain": []
   },
   {
@@ -7805,12 +7805,12 @@
    "kind": "dialogue",
    "speaker_jp": "ライト",
    "speaker_en": "Light",
-   "en": "You're still trailing after the Blue Hawk like fish poop, aren't you?",
+   "en": "Still the Blue Hawk's little hangers-on, aren't you?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 313
    },
-   "notes": "Literal scatological hanger-on insult retained as fish poop instead of sanitizing it.",
+   "notes": "Literal scatological hanger-on insult retained as fish poop instead of sanitizing it. Chapters 1-14 proofreading: The goldfish-droppings expression means sycophantic followers, not literal fish waste.",
    "uncertain": []
   },
   {
@@ -9230,12 +9230,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "Colonel, I see you've safely rendezvoused with the D-weapon transport fleet.",
+   "en": "Captain, I see you've safely rendezvoused with the D-Weapons transport fleet.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 399
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Use Bright's established naval rank and the consistent D-Weapons spelling.",
    "uncertain": []
   },
   {
@@ -9586,12 +9586,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "...The Earth Federation Army is bearing the brunt of problems on all sorts of fronts.",
+   "en": "...The Federation Forces are bearing the brunt of problems on all sorts of fronts.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 421
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The reference includes both space and ground forces; Army incorrectly narrows it to one service.",
    "uncertain": []
   },
   {
@@ -10408,12 +10408,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Likewise... I'm Second Lieutenant #女姓名.",
+   "en": "Likewise... I'm Ensign #女姓名.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 471
    },
-   "notes": "Self-introduction reciprocal greeting; second lieutenant rank and runtime full name preserved.",
+   "notes": "Self-introduction reciprocal greeting; second lieutenant rank and runtime full name preserved. Chapters 1-14 proofreading: Keep the protagonist's established rank consistent.",
    "uncertain": []
   },
   {
@@ -10472,12 +10472,12 @@
    "kind": "dialogue",
    "speaker_jp": "ライト",
    "speaker_en": "Light",
-   "en": "Lieutenant, please don't flatter him too much. It'll only go to his head even more.",
+   "en": "Ensign, please don't flatter him too much. It'll only go to his head even more.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 475
    },
-   "notes": "Light warns the male lead not to flatter Kaine; him is context-settled.",
+   "notes": "Light warns the male lead not to flatter Kaine; him is context-settled. Chapters 1-14 proofreading: Keep the protagonist's established rank consistent.",
    "uncertain": []
   },
   {
@@ -10603,12 +10603,12 @@
    "kind": "thought",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "Normal... do they?",
+   "en": "Normal... really?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 483
    },
-   "notes": "Thought: female lead questions whether the male lead's clothes count as normal; copula preserved.",
+   "notes": "Thought: female lead questions whether the male lead's clothes count as normal; copula preserved. Chapters 1-14 proofreading: Smooth the skeptical thought about the male pilot's supposedly normal clothes.",
    "uncertain": []
   },
   {
@@ -10686,12 +10686,12 @@
    "kind": "dialogue",
    "speaker_jp": "ケーン",
    "speaker_en": "Kaine",
-   "en": "You can just call me Kaine, Lieutenant. So, what is it?",
+   "en": "You can just call me Kaine, Ensign. So, what is it?",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 488
    },
-   "notes": "Honorific naming distinction localized as just calling him Kaine; Lieutenant follows explicit source rank.",
+   "notes": "Honorific naming distinction localized as just calling him Kaine; Lieutenant follows explicit source rank. Chapters 1-14 proofreading: Keep the protagonist's established rank consistent.",
    "uncertain": []
   },
   {
@@ -15617,12 +15617,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "...Colonel. After the postwar cleanup of the Neo Zeon and Baam wars, now this mission...",
+   "en": "...Captain. After the postwar cleanup of the Neo Zeon and Baam wars, now this mission...",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 792
    },
-   "notes": "Misumaru lead-in continues into793 apology; source fragment retained.",
+   "notes": "Misumaru lead-in continues into793 apology; source fragment retained. Chapters 1-14 proofreading: Use Bright's established naval rank consistently.",
    "uncertain": []
   },
   {
@@ -16515,12 +16515,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "I'm Second Lieutenant #女姓名...",
+   "en": "I'm Ensign #女姓名...",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 848
    },
-   "notes": "Retains full female-name runtime placeholder and officer rank; introduction continues in849.",
+   "notes": "Retains full female-name runtime placeholder and officer rank; introduction continues in849. Chapters 1-14 proofreading: Use the established female protagonist rank consistently.",
    "uncertain": []
   },
   {
@@ -16547,12 +16547,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "I'm Second Lieutenant #男姓名. I'll be counting on you from now on.",
+   "en": "I'm Ensign #男姓名. I'll be counting on you from now on.",
    "translation_owner": {
     "source": "work/translation/en/script/stage02_campaign.json",
     "id": 850
    },
-   "notes": "Restores forward cooperation request with speaker relying on listeners; male full-name placeholder unchanged.",
+   "notes": "Restores forward cooperation request with speaker relying on listeners; male full-name placeholder unchanged. Chapters 1-14 proofreading: Use the established male protagonist rank consistently.",
    "uncertain": []
   },
   {
@@ -17622,7 +17622,7 @@
  },
  "context_review": {
   "stage": 2,
-  "fingerprint": "2b552ae78265f3f9579d6d082d8aa6a0d0fbed0f955cc91c5eb9d190053911e8",
+  "fingerprint": "5e0dc4a2cdc24b9712da1f0a0ac1695049b7562edccb61e2209e0608d8f6cde9",
   "reviewed_reused_ids": [
    21,
    87,
@@ -17779,14 +17779,6 @@
   "reviewed_reused_rows": 151,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Canonical spelling-only follow-up: root checked source797 and all final-corpus occurrences; Reideen becomes main Akurasu Raideen by script. Current font347/161 becomes347/162, both two lines; initial draft immutable. Meaning and all earlier scene-context reviews unchanged. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 25 and 994. Aqua explicitly prefers older partners; Koji corrects Beecha calling the craft a UFO to TFO. The selected 0.4.4/0.4.5 English corrections preserve both meanings. No other source, use or English changes.",
-  "release_delta_review": {
-   "version": "0.4.9",
-   "prior_fingerprint": "37e353372593bb28cf4e7b772a51898825a6109f9efdf3846cf6de4aaeea25b5",
-   "reviewed_full_ids": [
-    25,
-    994
-   ]
-  }
+  "note": "Coordinator examined all reused source/English rows. Stage1 copied prologue intermissions retain original scene context; stages1-3 share the same reviewed generic defeat table. Checked reused short responses, silences, objectives, Daisuke rumor, split Tsentr explanation, stage3 Koji acknowledgment and hidden speaker combat-data reply with original neighbors. Fixed Oyakata-sama is retained per main glossary. Fresh packet source uncertainties were examined and remain explicit for unresolved identity, mechanics, wordplay and English provenance. No new referents or source completions were invented. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Source-short Dr. Plato restored by source-scoped script after completed meaning review; all five originals and actual uses checked, source-full names unchanged, initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. Canonical spelling-only follow-up: root checked source797 and all final-corpus occurrences; Reideen becomes main Akurasu Raideen by script. Current font347/161 becomes347/162, both two lines; initial draft immutable. Meaning and all earlier scene-context reviews unchanged. Release 0.4.9 follow-up: checked source and adjacent dialogue for full rows 25 and 994. Aqua explicitly prefers older partners; Koji corrects Beecha calling the craft a UFO to TFO. The selected 0.4.4/0.4.5 English corrections preserve both meanings. No other source, use or English changes. 2026-10-09: All Chapter 2 rows proofread against the original source in scene context, including all applicable routes and reused rows. 18 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  }
 }

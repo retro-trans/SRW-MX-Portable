@@ -542,12 +542,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "The time has come for our Tekkoryu to rise again!",
+   "en": "The time has come for our Hau Dragon to rise again!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 32
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -590,12 +590,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "Now Tekkoryu shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!",
+   "en": "Now Hau Dragon shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 35
    },
-   "notes": "Underworld and its ruler preserved as Lord of Hades; no gender inference from masculine source title.",
+   "notes": "Underworld and its ruler preserved as Lord of Hades; no gender inference from masculine source title. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [
     "Lord of Hades renders literal ruler-of-underworld title; no standalone glossary entry for title."
    ]
@@ -640,12 +640,12 @@
    "kind": "dialogue",
    "speaker_jp": "祗鎗",
    "speaker_en": "Giso",
-   "en": "The vile criminal who stole Zeorymer of the Heavens from Tekkoryu fifteen years ago and destroyed the fortress's central core!",
+   "en": "The vile criminal who stole Zeorymer of the Heavens from Hau Dragon fifteen years ago and destroyed the fortress's central core!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 38
    },
-   "notes": "Deliberate appositive continuation of rows36-37; no invented separate command.",
+   "notes": "Deliberate appositive continuation of rows36-37; no invented separate command. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -736,12 +736,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "Mighty Hakkeshu, the pride of Tekkoryu! Who among you will undertake this mission...!?",
+   "en": "Mighty Hakkeshu, the pride of Hau Dragon! Who among you will undertake this mission...!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 44
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -768,7 +768,7 @@
    "kind": "dialogue",
    "speaker_jp": "シ・アエン",
    "speaker_en": "Shi-Aen",
-   "en": "No, I ask that Briest of the Fires and...",
+   "en": "No, I ask that Bryst of the Fires and...",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 46
@@ -848,12 +848,12 @@
    "kind": "dialogue",
    "speaker_jp": "耐爬",
    "speaker_en": "Taiha",
-   "en": "Lanstar of the Winds shall bring Tekkoryu its first victory.",
+   "en": "Lanstar of the Winds shall bring Hau Dragon its first victory.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 51
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1184,7 +1184,7 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Damn Taiha... He grows arrogant just because he enjoys Yuratei's favor...",
+   "en": "Damn Taiha... He's gotten full of himself just because he's Yuratei's favorite...",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 72
@@ -1314,12 +1314,12 @@
    "kind": "dialogue",
    "speaker_jp": "耐爬",
    "speaker_en": "Taiha",
-   "en": "You want me to prove myself a man worthy of loving the leader of Tekkoryu... Is that what you mean?",
+   "en": "You want me to prove myself a man worthy of loving the leader of Hau Dragon... Is that what you mean?",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 80
    },
-   "notes": "Taiha addresses Yuratei as her lover; restores him as the man proving his worth, not Yuratei proving love. Meaning correction after draft: emphasizes personally proving worth / inability to exempt Taiha, without implying death or a private conversation.",
+   "notes": "Taiha addresses Yuratei as her lover; restores him as the man proving his worth, not Yuratei proving love. Meaning correction after draft: emphasizes personally proving worth / inability to exempt Taiha, without implying death or a private conversation. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -1426,12 +1426,12 @@
    "kind": "thought",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "I am the Empress of Tekkoryu... I could not single you out and tell you to come back alive...",
+   "en": "I am the Empress of Hau Dragon... I could not single you out and tell you to come back alive...",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 87
    },
-   "notes": "Private thought addressed to Taiha; female identity sourced in glossary. Restores inability to single him out. Meaning correction after draft: emphasizes personally proving worth / inability to exempt Taiha, without implying death or a private conversation.",
+   "notes": "Private thought addressed to Taiha; female identity sourced in glossary. Restores inability to single him out. Meaning correction after draft: emphasizes personally proving worth / inability to exempt Taiha, without implying death or a private conversation. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2708,12 +2708,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -3818,12 +3818,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -4331,12 +4331,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -4816,7 +4816,7 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Shoot down Zeorymer of the Heavens",
+   "en": "1. Zeorymer of the Heavens is shot down.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 143
@@ -4912,12 +4912,12 @@
    "kind": "dialogue",
    "speaker_jp": "美久",
    "speaker_en": "Miku",
-   "en": "Yes. It is another name for the secret society Tekkoryu.",
+   "en": "Yes. It is another name for the secret society Hau Dragon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 149
    },
-   "notes": "Hau Dragon is an alias of Tekkoryu, preserving the two source names rather than conflating them. Exact organization alias Hau Dragon retained; distinct from any unit of that name.",
+   "notes": "Hau Dragon is an alias of Tekkoryu, preserving the two source names rather than conflating them. Exact organization alias Hau Dragon retained; distinct from any unit of that name. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -4928,12 +4928,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "A secret society... Tekkoryu...?",
+   "en": "A secret society... Hau Dragon...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 150
    },
-   "notes": "Deliberate incredulous echo, no invented assertion.",
+   "notes": "Deliberate incredulous echo, no invented assertion. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -5264,12 +5264,12 @@
    "kind": "thought",
    "speaker_jp": "耐爬",
    "speaker_en": "Taiha",
-   "en": "Watch me, Yuratei. I'll prove to you who the greatest warrior among Tekkoryu's Hakkeshu is...!",
+   "en": "Watch me, Yuratei. I'll prove to you who the greatest warrior among Hau Dragon's Hakkeshu is...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 171
    },
-   "notes": "Taiha mentally addresses Yuratei and promises proof of superiority among Tekkoryu Hakkeshu. I is explicit; no added romantic identity.",
+   "notes": "Taiha mentally addresses Yuratei and promises proof of superiority among Tekkoryu Hakkeshu. I is explicit; no added romantic identity. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -5664,12 +5664,12 @@
    "kind": "thought",
    "speaker_jp": "沖",
    "speaker_en": "Oki",
-   "en": "Locking him in solitary confinement to build his will to fight paid off. His combat balance is incredible for a middle schooler.",
+   "en": "Locking him in solitary confinement to build his will to fight paid off. His performance in combat is incredible for a middle schooler.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 196
    },
-   "notes": "Oki thinks about his prior confinement of Masato increasing fighting spirit; him and his identify Masato. Combat balance remains technical and broad.",
+   "notes": "Oki thinks about his prior confinement of Masato increasing fighting spirit; him and his identify Masato. Combat balance remains technical and broad. Chapters 1-14 proofreading: Replace the unnatural calque 'combat balance' with the intended assessment of Masato's overall performance in battle.",
    "uncertain": [
     "Combat balance is a source technical description; precise stat/system sense is not established in this scene."
    ]
@@ -8727,12 +8727,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "D-damn you, Dendoh!! How dare you do this to me, Altair!!",
+   "en": "D-damn you, Dendoh!! How dare you defy Altair!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 379
    },
-   "notes": "Altair explicitly speaks own name; preserved name reveal for380/383.",
+   "notes": "Altair explicitly speaks own name; preserved name reveal for380/383. Chapters 1-14 proofreading: Make Altair's boast natural in English while keeping his name audible: Vega recognizes that name in the next lines.",
    "uncertain": []
   },
   {
@@ -9403,12 +9403,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "...Before I was chosen as Empress of Tekkoryu, I too was one of the Hakkeshu...",
+   "en": "...Before I was chosen as Empress of Hau Dragon, I too was one of the Hakkeshu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 419
    },
-   "notes": "Yuratei recalls membership of Hakkeshu before appointment as empress; gender/rank sourced from glossary.",
+   "notes": "Yuratei recalls membership of Hakkeshu before appointment as empress; gender/rank sourced from glossary. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -9467,12 +9467,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "That \"Heaven\" is the key to our Tekkoryu's cherished ambition, the \"Hades Project\"! You must bring it back!",
+   "en": "That \"Heaven\" is the key to our Hau Dragon's cherished ambition, the \"Hades Project\"! You must bring it back!",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 423
    },
-   "notes": "Heaven is quoted shorthand for Zeorymer of the Heavens; ambition and emphatic recovery order retained.",
+   "notes": "Heaven is quoted shorthand for Zeorymer of the Heavens; ambition and emphatic recovery order retained. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -10685,12 +10685,12 @@
    "kind": "dialogue",
    "speaker_jp": "タップ",
    "speaker_en": "Tapp",
-   "en": "Maybe you've even got some pinup photos hidden away.",
+   "en": "Maybe you've even got some photos of her hidden away.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 499
    },
-   "notes": "Bromide is celebrity photographic merchandise, rendered pinup photos in fandom joke.",
+   "notes": "Bromide is celebrity photographic merchandise, rendered pinup photos in fandom joke. Chapters 1-14 proofreading: The source means collectible portrait photographs. Pinup adds a suggestive meaning that is not specified in the Japanese.",
    "uncertain": []
   },
   {
@@ -11773,12 +11773,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "When a Data Weapon finds what it seeks in a Commander's owner's heart... the condition for its contract...",
+   "en": "When a Data Weapon finds what it seeks in the heart of someone holding a Commander... its condition for a contract...",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 565
    },
-   "notes": "Conditional continues566; restored Data Weapon subject from contract explanation.",
+   "notes": "Conditional continues566; restored Data Weapon subject from contract explanation. Chapters 1-14 proofreading: Replace the stacked possessive 'a Commander's owner's heart' with a clear description of the Commander holder and the contract condition.",
    "uncertain": []
   },
   {
@@ -12109,12 +12109,12 @@
    "kind": "dialogue",
    "speaker_jp": "エリス",
    "speaker_en": "Eris",
-   "en": "They may have been drawn to the energy released by Last Guardian's mobile weapons.",
+   "en": "They may have been drawn to the energy released by Last Guardian's mobile weapon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage07_campaign.json",
     "id": 586
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Use the singular: this scene refers to the energy released by Zeorymer, the one Last Guardian weapon just seen in battle.",
    "uncertain": []
   },
   {
@@ -12798,7 +12798,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 7,
-  "fingerprint": "9252d294612b2cc01a79ae000132d82c55856cac8185aee63835d877d10846ba",
+  "fingerprint": "1bebcb44fca971ac6eb2e7ee0fb51c5030f76b7f29692485cfb92100c13d74d9",
   "reviewed_reused_ids": [
    125,
    144,
@@ -12961,7 +12961,7 @@
   "reviewed_reused_rows": 157,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all fresh uncertainty/context callbacks and all 157 reused rows; 143 prologue battle-template rows match the previously reviewed table. Confirmed remaining 14 in original numeric-use neighbors, including Hokuto reply now assembled, hidden speaker Yes, and mission conditions. Retained Gozen alias, Vega self-correction, source-cutoff MA..., unresolved Committee action and exact Star Era4085. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Reviewed all fresh uncertainty/context callbacks and all 157 reused rows; 143 prologue battle-template rows match the previously reviewed table. Confirmed remaining 14 in original numeric-use neighbors, including Hokuto reply now assembled, hidden speaker Yes, and mission conditions. Retained Gozen alias, Vega self-correction, source-cutoff MA..., unresolved Committee action and exact Star Era4085. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.13: defeat means Zeorymer is lost; corrected the imperative in s0150:207 and s0430:207. PSP 0.4.14: user requested George De Sand spelling; Rockfell favor/arrogance phrasing checked against source and made idiomatic. 2026-10-09: All Chapter 7 rows proofread against the original source in scene context, including all applicable routes and reused rows. 8 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 785,

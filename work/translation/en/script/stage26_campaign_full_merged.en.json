@@ -2703,12 +2703,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "I never expected Tekkoryu (Iron Dragon) to target this place. Do they intend this as a preliminary battle...?",
+   "en": "I never expected Hau Dragon to target this place. Do they intend this as a preliminary battle...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage26_campaign.json",
     "id": 11
    },
-   "notes": "Fuyutsuki addresses Gendo after the intervening silent Gendo row at s0530:219. Exact organization glossary form retained; trailing speculation preserved.",
+   "notes": "Fuyutsuki addresses Gendo after the intervening silent Gendo row at s0530:219. Exact organization glossary form retained; trailing speculation preserved. Chapters 15-30 proofreading: Removes an explanatory '(Iron Dragon)' gloss not spoken in the source, keeping the established faction name consistent with surrounding dialogue. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -3075,12 +3075,12 @@
    "kind": "dialogue",
    "speaker_jp": "クワトロ",
    "speaker_en": "Quattro",
-   "en": "You would burn down a city for that...! Tekkoryu... It seems this organization is even more dangerous than I expected...!",
+   "en": "You would burn down a city for that...! Hau Dragon... It seems this organization is even more dangerous than I expected...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage26_campaign.json",
     "id": 34
    },
-   "notes": "Quattro reacts to Giso's willingness to burn the city as bait; Tekkoryu is the source organization alias.",
+   "notes": "Quattro reacts to Giso's willingness to burn the city as bait; Tekkoryu is the source organization alias. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -3557,12 +3557,12 @@
    "kind": "dialogue",
    "speaker_jp": "祗鎗",
    "speaker_en": "Giso",
-   "en": "Once our Tekkoryu's final plan begins, this whole world will become the realm of the dead anyway. It's just a matter of sooner or later.",
+   "en": "Once our Hau Dragon's final plan begins, this whole world will become the realm of the dead anyway. It's just a matter of sooner or later.",
    "translation_owner": {
     "source": "work/translation/en/script/stage26_campaign.json",
     "id": 63
    },
-   "notes": "Giso declares Tekkoryu's final plan will turn the entire world into the realm of the dead; timing is the only difference. Compressed only after four-line draft overflow; activation condition, organization, total scope, realm-of-dead result and sooner/later conclusion all retained.",
+   "notes": "Giso declares Tekkoryu's final plan will turn the entire world into the realm of the dead; timing is the only difference. Compressed only after four-line draft overflow; activation condition, organization, total scope, realm-of-dead result and sooner/later conclusion all retained. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -3938,7 +3938,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 26,
-  "fingerprint": "6197288e0dbeec7d56349242c348dfe32e79813bc75e087462ab8eca57d0aa79",
+  "fingerprint": "76e720d0a49962cf705e0d27f29121b8d964605e4b1aa06f0d739f479fdb4208",
   "reviewed_reused_ids": [
    0,
    1,
@@ -4092,7 +4092,7 @@
   "reviewed_reused_rows": 148,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all86 fresh rows across six distinct translators, all three fresh flags in original context, and all148 shared rows in every actual use with final English neighbors. Only measured dialogue overflow63 compressed, retaining activation/wholeworld/realmdead/time distinction. Hidden referents, short Jupiter, source nuclear launch versus N2 class, request direction and deliberate fragments preserved. Initial drafts retained; name preview clear."
+  "note": "Coordinator reviewed all86 fresh rows across six distinct translators, all three fresh flags in original context, and all148 shared rows in every actual use with final English neighbors. Only measured dialogue overflow63 compressed, retaining activation/wholeworld/realmdead/time distinction. Hidden referents, short Jupiter, source nuclear launch versus N2 class, request direction and deliberate fragments preserved. Initial drafts retained; name preview clear. 2026-10-09: All Chapter 26 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 234,

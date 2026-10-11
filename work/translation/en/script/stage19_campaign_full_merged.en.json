@@ -41,7 +41,7 @@
    "kind": "dialogue",
    "speaker_jp": "ルラーン",
    "speaker_en": "Luhran",
-   "en": "Twin Lord uses Briest of the Fires' Plasma Bullet Magrash and...",
+   "en": "Twin Lord uses Bryst of the Fires' Plasma Bullet Magrash and...",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 1
@@ -255,7 +255,7 @@
    "kind": "dialogue",
    "speaker_jp": "シ・タウ",
    "speaker_en": "Shi-Tau",
-   "en": "You call it teamwork... But isn't my Gallowin just there to support your Briest?",
+   "en": "You call it teamwork... But isn't my Gallowin just there to support your Bryst?",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 13
@@ -737,12 +737,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミスマル",
    "speaker_en": "Misumaru",
-   "en": "You needn't say any more, Colonel. Simply knowing my daughter is alive is enough.",
+   "en": "You needn't say any more, Captain. Simply knowing my daughter is alive is enough.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 41
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Keep Bright's form of address consistent with the project's established naval rank.",
    "uncertain": []
   },
   {
@@ -2341,12 +2341,12 @@
    "kind": "dialogue",
    "speaker_jp": "シ・アエン",
    "speaker_en": "Shi-Aen",
-   "en": "You are in the presence of Tekkoryu's leader. Restrain yourself.",
+   "en": "You are in the presence of Hau Dragon's leader. Restrain yourself.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 141
    },
-   "notes": "Shi-Aen demands restraint before organization leader; no added empress title.",
+   "notes": "Shi-Aen demands restraint before organization leader; no added empress title. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2357,12 +2357,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサト",
    "speaker_en": "Masato",
-   "en": "Tekkoryu?! Its leader?!",
+   "en": "Hau Dragon?! Its leader?!",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 142
    },
-   "notes": "Masato repeats organization and leader in shock.",
+   "notes": "Masato repeats organization and leader in shock. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2565,12 +2565,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "That is the greatest crime of all against us of Tekkoryu!",
+   "en": "That is the greatest crime of all against us of Hau Dragon!",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 155
    },
-   "notes": "Yuratei identifies continuity of Masaki's will as supreme crime.",
+   "notes": "Yuratei identifies continuity of Masaki's will as supreme crime. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2741,12 +2741,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "We of Tekkoryu were planning to assemble an army of giant robots to conquer the world... That was fifteen years ago now.",
+   "en": "We of Hau Dragon were planning to assemble an army of giant robots to conquer the world... That was fifteen years ago now.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 166
    },
-   "notes": "Context checked in original Japanese neighbors; speaker, addressee, and action preserved.",
+   "notes": "Context checked in original Japanese neighbors; speaker, addressee, and action preserved. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -2790,12 +2790,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "And the man named Masaki Kihara, who built Zeorymer for Tekkoryu...",
+   "en": "And the man named Masaki Kihara, who built Zeorymer for Hau Dragon...",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 168
    },
-   "notes": "Sentence continues into row169, with Masaki Kihara as subject.",
+   "notes": "Sentence continues into row169, with Masaki Kihara as subject. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -9180,12 +9180,12 @@
    "kind": "thought",
    "speaker_jp": "シ・タウ",
    "speaker_en": "Shi-Tau",
-   "en": "with Briest's Magrash delivering the finishing blow... My sister attacks the target, and all I do is support her...!",
+   "en": "with Bryst's Magrash delivering the finishing blow... My sister attacks the target, and all I do is support her...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 409
    },
-   "notes": "Thought; continuation of 408. Briest delivers the finish with Magrash, sister attacks, Tau only supports; all roles retained.",
+   "notes": "Thought; continuation of 408. Bryst delivers the finish with Magrash, sister attacks, Tau only supports; all roles retained.",
    "uncertain": []
   },
   {
@@ -10030,7 +10030,7 @@
    "kind": "dialogue",
    "speaker_jp": "シ・アエン",
    "speaker_en": "Shi-Aen",
-   "en": "Tau! Transfer all of Gallowin's energy to Briest!",
+   "en": "Tau! Transfer all of Gallowin's energy to Bryst!",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 461
@@ -10110,7 +10110,7 @@
    "kind": "dialogue",
    "speaker_jp": "シ・タウ",
    "speaker_en": "Shi-Tau",
-   "en": "Sister... If I transfer the power to Briest, this Gallowin won't be able to move.",
+   "en": "Sister... If I transfer the power to Bryst, this Gallowin won't be able to move.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 466
@@ -10448,12 +10448,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Yes. That one was stolen from Tekkoryu. By one particular man.",
+   "en": "Yes. That one was stolen from Hau Dragon. By one particular man.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 487
    },
-   "notes": "Anonymous man remains unspecified; do not reveal identity beyond source.",
+   "notes": "Anonymous man remains unspecified; do not reveal identity beyond source. User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -11008,12 +11008,12 @@
    "kind": "dialogue",
    "speaker_jp": "幽羅帝",
    "speaker_en": "Yuratei",
-   "en": "Zeorymer of the Heavens has now become a calamity for our Tekkoryu!",
+   "en": "Zeorymer of the Heavens has now become a calamity for our Hau Dragon!",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 520
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -11199,7 +11199,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 19,
-  "fingerprint": "061310a35b9c13ae7ff4ecc3e5d5b7da2a8f0006c65ac3ec5bbba1d60576d109",
+  "fingerprint": "db1fb9bb9abbee8326e0d793c74a8a45fef43a525831848bade9d20e9a4d4a33",
   "reviewed_reused_ids": [
    7,
    32,
@@ -11359,7 +11359,7 @@
   "reviewed_reused_rows": 154,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 19 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 686,

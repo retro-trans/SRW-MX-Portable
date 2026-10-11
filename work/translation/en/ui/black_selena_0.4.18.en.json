@@ -1,0 +1,23 @@
+{
+ "version": "0.4.18",
+ "name": "Black Selena",
+ "current_inputs": [
+  "work/glossary/campaign_terms.json",
+  "work/glossary/do_not_touch.json",
+  "work/glossary/glossary.json",
+  "work/glossary/glossary_B.json",
+  "work/glossary/name_fixes.json",
+  "work/translation/en/library.json",
+  "work/translation/en/library_B.json",
+  "work/translation/en/ps2/database_port.en.json",
+  "work/translation/en/ps2/script/campaign_port.en.json",
+  "work/translation/en/ps2/script/campaign_ps2_variants.en.json",
+  "work/translation/en/script/stage47_campaign_full_merged.json",
+  "work/translation/en/script/stage51_campaign_full_merged.json",
+  "work/translation/en/static2/music.en.json",
+  "work/translation/en/static2/names.json"
+ ],
+ "reason": "User explicitly requested Black Selena on 2026-10-07. Overrides the refreshed Akurasu MX Mech List Sarana spelling, and the Sarena variant in older inputs, consistently for both forms and associated text.",
+ "preserved_form_qualifier": "High-maneuver",
+ "associated_music_title": "Black Selena III"
+}

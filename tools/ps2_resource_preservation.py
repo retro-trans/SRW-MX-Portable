@@ -3,7 +3,8 @@ import json
 from port_ps2_translations import sha
 
 def check(base,previous,name):
- before=(previous/name).read_bytes();after=(base/name).read_bytes()
+ from ps2_battle_label_preservation import baseline_bytes
+ before=(previous/name).read_bytes();after=baseline_bytes(base,name)
  if before==after:return
  assert name=='MAP.BIN' and (base/'weapon_battle.json').exists(),name
  change=json.loads((base/'weapon_battle.json').read_text())['map_caption']

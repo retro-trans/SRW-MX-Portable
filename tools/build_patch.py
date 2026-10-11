@@ -62,6 +62,8 @@ def load_translations(files):
                 lines, ok = textfit.wrap(spk + o, en, close)
                 if not ok:
                     raise ValueError(f"{fn} row {r['id']} does not fit: {len(lines)} lines")
+                import campaign_dialogue_layout
+                lines = campaign_dialogue_layout.apply(spk, en, r['kind'], lines)
                 text = '@'.join(lines)
             else:
                 text = en
@@ -159,7 +161,10 @@ def main(iso_path, version, *rest):
     else:
         boot_new = vwf_patch.patch_boot(boot, os.path.join(build, 'STATIC2_ADD.BIN'))
 
-    repl = {}
+    import title_footer
+    title_path = title_footer.SPECS['PSP']['asset']
+    title_data, footer_report = title_footer.patch(iso_read(iso, title_path), 'PSP', version)
+    repl = {title_path: title_data}
     if '--text' in rest:                            # non-dialogue text (tools/insert_text.py)
         import insert_text
         boot_new = insert_text.patch_boot(boot_new)
@@ -173,6 +178,10 @@ def main(iso_path, version, *rest):
         repl['/PSP_GAME/PARAM.SFO'] = insert_text.patch_sfo(iso_read(iso, '/PSP_GAME/PARAM.SFO'))
         import redraw_banners                       # battle / status-effect banners, both copies
         static2_new = redraw_banners.patch(static2_new, 'STATIC2_ADD.BIN', os.path.join(build, 'banners.png'))
+        from patch_at_field import patch as patch_at_field
+        static2_new, _ = patch_at_field(static2_new, 'PSP')
+        from patch_battle_hud import patch as patch_battle_hud
+        static2_new, _ = patch_battle_hud(static2_new, 'PSP')
         assert len(redraw_banners.textures(map_new)) == len(redraw_banners.textures(map_add)), 'MAP_ADD textures moved'
         map_new = redraw_banners.patch(map_new, 'MAP_ADD.BIN')
         import insert_tiles                         # map cursor terrain names
@@ -217,6 +226,9 @@ def main(iso_path, version, *rest):
     iso.close()
     for h in handles:
         h.close()
+    footer_report['readback'] = title_footer.verify_iso(out, 'PSP', version)
+    with open(os.path.join(ROOT, 'work/output', f'psp_title_footer_{version}_verification.json'), 'w', encoding='utf8') as f:
+        json.dump(dict(version=version, footer=footer_report), f, indent=2)
     if chapter_results is not None:
         report = dict(version=version, native_asset_patch=True, texture_replacement=False,
                       title_atlases_covered=len(chapter_results),

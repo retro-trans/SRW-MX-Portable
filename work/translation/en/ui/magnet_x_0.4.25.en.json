@@ -1,0 +1,11 @@
+{
+ "version": "0.4.25",
+ "base_version": "0.4.24",
+ "date": "2026-10-11",
+ "default": "Magnet X",
+ "previous_default": "Magnate Ten",
+ "characters": 8,
+ "saved_names_preserved": true,
+ "ruri_dialogue_uses_saved_squad_name": true,
+ "psp_save_import_report": "work/output/magnet_x_save_import.json"
+}

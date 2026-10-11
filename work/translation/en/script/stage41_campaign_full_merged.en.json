@@ -25,12 +25,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "...Mu has finally begun to act in earnest. That will probably bring the committee's plan into its final phase.",
+   "en": "... Mu has finally begun to act in earnest. That will probably bring the committee's plan into its final phase.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 0
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -89,12 +89,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Is that an order?",
+   "en": "... Is that an order?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 4
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -191,12 +191,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Dr. Zapat, will my AI1 be installed in MODEL-X?",
+   "en": "... Dr. Zapat, will my AI1 be installed in MODEL-X?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 10
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -287,12 +287,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "Recently...especially since Medius changed form, we have detected inexplicable fluctuations in AI1's thought patterns.",
+   "en": "Recently... especially since Medius changed form, we have detected inexplicable fluctuations in AI1's thought patterns.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 16
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -303,12 +303,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "To draw a comparison, they resemble human emotions...or perhaps a desire for possessions...",
+   "en": "To draw a comparison, they resemble human emotions... or perhaps a desire for possessions...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 17
    },
-   "notes": "Human emotions and material desire remain unfinished comparative examples.",
+   "notes": "Human emotions and material desire remain unfinished comparative examples. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": [
     "Material desire may mean possessiveness or acquisitiveness; preserve comparison without narrowing to money.",
     "Deliberate comparative fragment retained; preceding fluctuation explanation provides referent."
@@ -322,12 +322,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "AI1 shows a deep interest even in things outside its designated targets, and tries to learn from them...no, to absorb them physically.",
+   "en": "AI1 shows a deep interest even in things outside its designated targets, and tries to learn from them... no, to absorb them physically.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 18
    },
-   "notes": "Retain self-correction from learning to physical absorption.",
+   "notes": "Retain self-correction from learning to physical absorption. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -338,12 +338,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "...Using the Lasmunanium it controls itself.",
+   "en": "... Using the Lasmunanium it controls itself.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 19
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -386,12 +386,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "As I said...what is wrong with that?",
+   "en": "As I said... what is wrong with that?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 22
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -418,12 +418,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "I want to watch my child grow and evolve...and see where that leads in the end.",
+   "en": "I want to watch my child grow and evolve... and see where that leads in the end.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 23
    },
-   "notes": "Eldy calls AI1 her child; use ungendered child, not boy/girl.",
+   "notes": "Eldy calls AI1 her child; use ungendered child, not boy/girl. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -500,12 +500,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "That is why I use the military and the committee...and they use me as well.",
+   "en": "That is why I use the military and the committee... and they use me as well.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 28
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -554,12 +554,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "And to you, too, other people can only be one of two things...useful to your research, or useless to it.",
+   "en": "And to you, too, other people can only be one of two things... useful to your research, or useless to it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 30
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -650,12 +650,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "...Research only has meaning when there are people to evaluate it.",
+   "en": "... Research only has meaning when there are people to evaluate it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 36
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -714,12 +714,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...AI1 is my child. A child I created. I won't let other people do whatever they please with it.",
+   "en": "... AI1 is my child. A child I created. I won't let other people do whatever they please with it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 40
    },
-   "notes": "AI1 child metaphor preserved without assigning machine gender.",
+   "notes": "AI1 child metaphor preserved without assigning machine gender. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -778,12 +778,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミタール",
    "speaker_en": "Mitar",
-   "en": "Eliminate Albero Esto as the mastermind behind the theft of Medius...and return to me with Medius.",
+   "en": "Eliminate Albero Est as the mastermind behind the theft of Medius... and return to me with Medius.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 44
    },
-   "notes": "Disposal is a lethal elimination order in this theft-cover story.",
+   "notes": "Disposal is a lethal elimination order in this theft-cover story. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -810,12 +810,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Yes.",
+   "en": "... Yes.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 46
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -842,12 +842,12 @@
    "kind": "thought",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...AI1 is in danger if this continues... If I return to Dr. Zapat, my child will be remade...",
+   "en": "... AI1 is in danger if this continues... If I return to Dr. Zapat, my child will be remade...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 47
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -892,12 +892,12 @@
    "kind": "thought",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "For that, I need the new TE Engine...no, even greater power...",
+   "en": "For that, I need the new TE Engine... no, even greater power...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 50
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -924,12 +924,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "...Eldy, have our next orders come from that man?",
+   "en": "... Eldy, have our next orders come from that man?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 52
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -940,12 +940,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Yes.",
+   "en": "... Yes.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 53
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -972,12 +972,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...To shoot down #機体名.",
+   "en": "... To shoot down #機体名.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 55
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1004,12 +1004,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...No.",
+   "en": "... No.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 57
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1036,12 +1036,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Aren't you going to ask why?",
+   "en": "... Aren't you going to ask why?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 59
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1068,12 +1068,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "...I have no intention of accepting your AI1. But I will carry out my assigned mission to the end.",
+   "en": "... I have no intention of accepting your AI1. But I will carry out my assigned mission to the end.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 61
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1084,12 +1084,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Albero, why are you taking part in the Tsentr Project?",
+   "en": "... Albero, why are you taking part in the Tsentr Project?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 62
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1150,12 +1150,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Are you saying that you want a future?",
+   "en": "... Are you saying that you want a future?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 66
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1216,12 +1216,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "To settle things with him...no, with myself.",
+   "en": "To settle things with him... no, with myself.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 70
    },
-   "notes": "Preserve self-correction and unnamed male reference; male pronoun supported by prior man reference, identity not expanded.",
+   "notes": "Preserve self-correction and unnamed male reference; male pronoun supported by prior man reference, identity not expanded. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": [
     "Source refers to an unnamed man; retain him without adding an identity."
    ]
@@ -1234,12 +1234,12 @@
    "kind": "dialogue",
    "speaker_jp": "電子音声",
    "speaker_en": "Electronic Voice",
-   "en": "D1 approaching... Estimated arrival in this island's alert zone: 0504...plus or minus 03.",
+   "en": "D1 approaching... Estimated arrival in this island's alert zone: 05:04... plus or minus 03.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 71
    },
-   "notes": "Preserve D1 and numeric warning format; no added minutes.",
+   "notes": "Preserve D1 and numeric warning format; no added minutes. Chapters 31-58 proofreading: Clarifies the arrival time as 05:04 and separates the following pause from its words.",
    "uncertain": [
     "0504 plus or minus 03 retained; time unit unspecified. Exact warning wording unverified."
    ]
@@ -1358,12 +1358,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...Are you determined to go through with this?",
+   "en": "... Are you determined to go through with this?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 77
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1390,12 +1390,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...I see.",
+   "en": "... I see.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 79
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -1438,12 +1438,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "He probably means to make an example of us. ...That's the kind of man he is.",
+   "en": "He probably means to make an example of us. ... That's the kind of man he is.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 82
    },
-   "notes": "The man remains unnamed at this point; do not reveal Kuki before his entrance.",
+   "notes": "The man remains unnamed at this point; do not reveal Kuki before his entrance. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -2112,12 +2112,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -4282,12 +4282,12 @@
    "kind": "dialogue",
    "speaker_jp": "九鬼",
    "speaker_en": "Kuki",
-   "en": "...You're as diligent as ever.",
+   "en": "... You're as diligent as ever.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 102
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -4348,12 +4348,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "...Concentrate our remaining forces in Area 60.",
+   "en": "... Concentrate our remaining forces in Area 60.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 106
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -4462,12 +4462,12 @@
    "kind": "dialogue",
    "speaker_jp": "九鬼",
    "speaker_en": "Kuki",
-   "en": "...Yes, I gave the order to launch the tactical fusion warhead during the Mu War fifteen years ago...",
+   "en": "... Yes, I gave the order to launch the tactical fusion warhead during the Mu War fifteen years ago...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 113
    },
-   "notes": "Unnumbered Mu War; do not add First. Tactical fusion wording provisional.",
+   "notes": "Unnumbered Mu War; do not add First. Tactical fusion wording provisional. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": [
     "Tactical fusion warhead and unnumbered Mu War exact licensed compounds unverified."
    ]
@@ -4529,12 +4529,12 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "...All anti-aircraft guns, fire a full salvo!",
+   "en": "... All anti-aircraft guns, fire a full salvo!",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 116
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -4788,12 +4788,12 @@
    "kind": "dialogue",
    "speaker_jp": "九鬼",
    "speaker_en": "Kuki",
-   "en": "Then I'll reward your efforts by burying you here with Kunugi. ...Except for Xephon and EVA-01.",
+   "en": "Then I'll reward your efforts by burying you here with Kunugi. ... Except for Xephon and EVA-01.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 131
    },
-   "notes": "Source reveals exceptions only at end; Xephon and EVA-01 follow glossary.",
+   "notes": "Source reveals exceptions only at end; Xephon and EVA-01 follow glossary. Chapters 31-58 proofreading: Separates words after a pause for readable English.",
    "uncertain": []
   },
   {
@@ -4980,12 +4980,12 @@
    "kind": "dialogue",
    "speaker_jp": "九鬼",
    "speaker_en": "Kuki",
-   "en": "Very well. I'll damage you just enough to keep you from vanishing, then take you back to Lady Maya.",
+   "en": "Very well. I'll damage you, but not enough to destroy you, then take you back to Lady Maya.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 143
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Corrects the damage limit: Kuki intends to hurt Ayato without destroying him, not hurt him in order to prevent his disappearance.",
    "uncertain": []
   },
   {
@@ -5464,7 +5464,7 @@
    "kind": "dialogue",
    "speaker_jp": "九鬼",
    "speaker_en": "Kuki",
-   "en": "Stop your futile resistance and meekly accept MU's judgment.",
+   "en": "Stop your futile resistance and meekly accept Mu's judgment.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 172
@@ -5496,7 +5496,7 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Don't tell me it's MU!?",
+   "en": "Don't tell me it's Mu!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 174
@@ -5576,7 +5576,7 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Albero Esto...!",
+   "en": "Albero Est...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 178
@@ -6743,12 +6743,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Captain, I'm not going to play along with your farce any longer...!",
+   "en": "Commander, I'm not going to play along with your farce any longer...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 245
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Uses the established address for Albero as the protagonist's former squad commander.",
    "uncertain": []
   },
   {
@@ -7095,7 +7095,7 @@
    "kind": "dialogue",
    "speaker_jp": "功刀",
    "speaker_en": "Kunugi",
-   "en": "The chaos caused by the appearance of MU's aerial cities gives other enemy organizations a perfect opportunity...",
+   "en": "The chaos caused by the appearance of Mu's aerial cities gives other enemy organizations a perfect opportunity...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 266
@@ -9135,12 +9135,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "At 1303 today, we confirmed a Jupiter phenomenon at Nirai Kanai.",
+   "en": "At 13:03 today, we confirmed a Jupiter phenomenon at Nirai Kanai.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 381
    },
-   "notes": "Context: Aftermath: Futagami reports under true identity; Watari and Rikudo discuss Tokyo, dimensional egg, and next plan. Decision: 1303 is military time, not year or numeric event ID.",
+   "notes": "Context: Aftermath: Futagami reports under true identity; Watari and Rikudo discuss Tokyo, dimensional egg, and next plan. Decision: 1303 is military time, not year or numeric event ID. Chapters 31-58 proofreading: Formats the reported time clearly as a clock time.",
    "uncertain": []
   },
   {
@@ -9311,12 +9311,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "Without even going outside...?",
+   "en": "Without even leaving Tokyo...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 391
    },
-   "notes": "Context: Aftermath: Futagami reports under true identity; Watari and Rikudo discuss Tokyo, dimensional egg, and next plan. Decision: Question asks whether Tokyo residents remain inside; verb restored.",
+   "notes": "Context: Aftermath: Futagami reports under true identity; Watari and Rikudo discuss Tokyo, dimensional egg, and next plan. Decision: Question asks whether Tokyo residents remain inside; verb restored. Chapters 31-58 proofreading: Clarifies that the residents do not leave Tokyo, rather than suggesting they never go outdoors.",
    "uncertain": []
   },
   {
@@ -9327,7 +9327,7 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "Yes. Probably because they're under MU's mind control.",
+   "en": "Yes. Probably because they're under Mu's mind control.",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 392
@@ -9393,7 +9393,7 @@
    "kind": "dialogue",
    "speaker_jp": "六道",
    "speaker_en": "Rikudo",
-   "en": "If Quon makes contact with MU again, it too will be like Ayato's RahXephon...",
+   "en": "If Quon makes contact with Mu again, it too will be like Ayato's RahXephon...",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 396
@@ -10284,12 +10284,12 @@
    "kind": "dialogue",
    "speaker_jp": "渋谷長官",
    "speaker_en": "Chief Shibuya",
-   "en": "Damn the Hyakki Empire! They're exploiting the chaos caused by the MU!",
+   "en": "Damn the Hyakki Empire! They're exploiting the chaos caused by the Mu!",
    "translation_owner": {
     "source": "work/translation/en/script/stage41_campaign.json",
     "id": 448
    },
-   "notes": "Context: Shibuya interprets the Hyakki attacks as opportunism amid MU chaos. Decision: Restore source-elided subjects where context identifies them; preserve tone and stated meaning.",
+   "notes": "Context: Shibuya interprets the Hyakki attacks as opportunism amid Mu chaos. Decision: Restore source-elided subjects where context identifies them; preserve tone and stated meaning.",
    "uncertain": []
   },
   {
@@ -10377,7 +10377,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 41,
-  "fingerprint": "b1911bb7b01cd324f8c40720aee8189165289ca8cd5c70940793603c9256ec52",
+  "fingerprint": "064071cb9fe84669f3f3bf54eb24d7349f8305f1013f3df8fffb76aead0cf120",
   "reviewed_reused_ids": [
    23,
    30,
@@ -10557,7 +10557,7 @@
   "reviewed_reused_rows": 174,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 454 fresh final rows and checked all 56 fresh flags against original source and actual neighbors. Reviewed every use of all 31 non-template reused rows, including seven Eldy, six Watari and three Haruka silences. Original-command audit confirms 143 exact defeat-template rows, 205 registered uses and zero ordinary uses. All initial drafts and finals fit without compression; immutable drafts preserved. Final 278, 322 and 325 follow canonical Captain Bright; final 370 preserves achieved Dolem destruction as a question. Source-ranked Captain Kunugi and Colonel Kuki retain fictional-branch and licensed-address uncertainty. WP and T.J. labels stay unexpanded. Mutiara follows actual source spelling rather than unsupported old Mutiana. Medicine recipient stays unnamed. The Committee punishment account remains attributed to Eldy after her own-decision reveal. Source omissions, singing counts, city order, dialogue boundaries and reveal order retained."
+  "note": "Coordinator read all 454 fresh final rows and checked all 56 fresh flags against original source and actual neighbors. Reviewed every use of all 31 non-template reused rows, including seven Eldy, six Watari and three Haruka silences. Original-command audit confirms 143 exact defeat-template rows, 205 registered uses and zero ordinary uses. All initial drafts and finals fit without compression; immutable drafts preserved. Final 278, 322 and 325 follow canonical Captain Bright; final 370 preserves achieved Dolem destruction as a question. Source-ranked Captain Kunugi and Colonel Kuki retain fictional-branch and licensed-address uncertainty. WP and T.J. labels stay unexpanded. Mutiara follows actual source spelling rather than unsupported old Mutiana. Medicine recipient stays unnamed. The Committee punishment account remains attributed to Eldy after her own-decision reveal. Source omissions, singing counts, city order, dialogue boundaries and reveal order retained. 2026-10-09: All Chapter 41 rows proofread against the original source in scene context, including all applicable routes and reused rows. 40 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 628,

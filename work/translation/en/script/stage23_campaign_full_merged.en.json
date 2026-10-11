@@ -6535,12 +6535,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "Yes. We've received instructions, but...",
+   "en": "No. We've received instructions, but...",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 240
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Haruka is confirming that Misato has not returned yet. In English, replying 'Yes' to this negative question can incorrectly suggest she has returned.",
    "uncertain": []
   },
   {
@@ -6711,12 +6711,12 @@
    "kind": "dialogue",
    "speaker_jp": "ベガ",
    "speaker_en": "Vega",
-   "en": "Launch next!",
+   "en": "Launch the remaining units!",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 251
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Replaces the unnatural command 'Launch next!' with the order to send out RahXephon, EVA-02 and EVA-00 after EVA-01.",
    "uncertain": []
   },
   {
@@ -12919,12 +12919,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "Improvisation is still far too early for you. You understand... don't you?",
+   "en": "You're not ready for improvisation yet. You understand... don't you?",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 620
    },
-   "notes": "Improvisation rendered musical common term, not an invented attack.",
+   "notes": "Improvisation rendered musical common term, not an invented attack. Chapters 15-30 proofreading: The original says improvising is premature for Ayato. This gives the musical metaphor natural English phrasing instead of saying improvisation itself is 'too early'.",
    "uncertain": []
   },
   {
@@ -15124,12 +15124,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "I'm not here! There's no time here that I'm living through! I... I!",
+   "en": "I'm not really here! I'm not living my own life here! I... I!",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 750
    },
-   "notes": "Absent self and absent lived time kept separately; ending I is unfinished.",
+   "notes": "Absent self and absent lived time kept separately; ending I is unfinished. Chapters 15-30 proofreading: Expresses Ayato's rejection of the illusory world's lived experience in natural English, replacing the confusing literal 'There's no time here that I'm living through'.",
    "uncertain": [
     "Lived-time phrasing deliberately literal; no external temporal mechanism inferred."
    ]
@@ -15656,12 +15656,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "In that incident... wasn't MU attempting to make direct contact with the EVA-01 pilot?",
+   "en": "In that incident... wasn't Mu attempting to make direct contact with the EVA-01 pilot?",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 781
    },
-   "notes": "Question of MU direct contact stays interrogative.",
+   "notes": "Question of Mu direct contact stays interrogative.",
    "uncertain": []
   },
   {
@@ -15738,7 +15738,7 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "Didn't MU use the Dolem to look into the EVA-01 pilot's memories?",
+   "en": "Didn't Mu use the Dolem to look into the EVA-01 pilot's memories?",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 786
@@ -15759,7 +15759,7 @@
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 787
    },
-   "notes": "MU explicit referent of they from786.",
+   "notes": "Mu explicit referent of they from786.",
    "uncertain": []
   },
   {
@@ -15770,7 +15770,7 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "Why did MU make contact with the EVA?",
+   "en": "Why did Mu make contact with the EVA?",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 788
@@ -15851,12 +15851,12 @@
    "kind": "thought",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "As I thought, there's some connection between EVA and MU...",
+   "en": "As I thought, there's some connection between EVA and Mu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 792
    },
-   "notes": "Misato infers some EVA-MU connection, not established fact.",
+   "notes": "Misato infers some EVA-Mu connection, not established fact.",
    "uncertain": []
   },
   {
@@ -16353,12 +16353,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミサト",
    "speaker_en": "Misato",
-   "en": "NERV isn't as soft as I thought.",
+   "en": "NERV isn't nearly as benign as I thought.",
    "translation_owner": {
     "source": "work/translation/en/script/stage23_campaign.json",
     "id": 823
    },
-   "notes": "Soft metaphor continues NERV-underestimation theme, not mere friendliness.",
+   "notes": "Soft metaphor continues NERV-underestimation theme, not mere friendliness. Chapters 15-30 proofreading: In context, Misato realizes NERV is more dangerous and deceptive than she assumed. 'Soft' does not clearly convey this realization in English.",
    "uncertain": []
   }
  ],
@@ -16366,7 +16366,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 23,
-  "fingerprint": "10f0790d44775e3c1f566693ecccc2462eeeade50294ef2e4846d4b3b436f34f",
+  "fingerprint": "faa5a9f39b74997e577de1fdcbbc7724ddd9c1a2986fffd5dc7e5c312123be15",
   "reviewed_reused_ids": [
    2,
    79,
@@ -16551,7 +16551,7 @@
   "reviewed_reused_rows": 179,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all824 final fresh rows/reports, all44 fresh source flags with original Japanese and actual neighbors, and every context/use of179 reused rows (143 identical battle-template rows plus36 scene-specific rows). Preserved hidden dream voices, symbolic imagery, source-cutoffs, pronoun ambiguity and technical provenance. Mock-praise279 Lord titles removed by translator; initial drafts preserved. Only measured overflow666 compressed with reporting authority, units, speed, origin and destination retained. Source-backed name scan has no changes; Ryoji explicitly excluded from Ryo nickname matcher. Full assembly restores all original uses."
+  "note": "Coordinator reviewed all824 final fresh rows/reports, all44 fresh source flags with original Japanese and actual neighbors, and every context/use of179 reused rows (143 identical battle-template rows plus36 scene-specific rows). Preserved hidden dream voices, symbolic imagery, source-cutoffs, pronoun ambiguity and technical provenance. Mock-praise279 Lord titles removed by translator; initial drafts preserved. Only measured overflow666 compressed with reporting authority, units, speed, origin and destination retained. Source-backed name scan has no changes; Ryoji explicitly excluded from Ryo nickname matcher. Full assembly restores all original uses. 2026-10-09: All Chapter 23 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 1003,

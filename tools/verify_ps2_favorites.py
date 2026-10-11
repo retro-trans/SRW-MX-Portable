@@ -193,13 +193,24 @@ def verify(base,version):
     before=(PREVIOUS/'SLPS_253.45').read_bytes()
     ranges=[(164,172),(0x100180-0xff000,0x100184-0xff000),(0x100188-0xff000,0x10018c-0xff000)]
     ranges += [(int(v['va'],16)-0xff000,int(v['va'],16)-0xff000+4) for v in feature['instruction_words']]
+    if (base/'narration.json').exists():
+        # A later narration-only candidate has its own complete byte-diff,
+        # timing, wording and native-width proof; keep this feature's checks.
+        from ps2_narration_port import TABLES
+        proof=json.loads((ROOT/'work/output'/f'ps2_narration_{version}_execution.json').read_text())
+        assert proof['target_sha256']==sha(data)
+        assert proof['prior_executable_unchanged_except_pointer_tables_and_heap_sizes']
+        ranges += [(o+8,o+12) for first,after in TABLES.values() for o in range(first,after-12,12)]
+    from ps2_library_preservation import baseline_bytes as before_library
+    comparison=before_library(base,'SLPS_253.45')
     last=0
-    for a,z in sorted(ranges):assert data[last:a]==before[last:a],(last,a);last=z
-    assert data[last:len(before)]==before[last:]
+    for a,z in sorted(ranges):assert comparison[last:a]==before[last:a],(last,a);last=z
+    assert comparison[last:len(before)]==before[last:]
     preserved=[]
     for path in PREVIOUS.iterdir():
         if path.suffix in ('.BIN','.DAT'):
-            assert path.read_bytes()==(base/path.name).read_bytes();preserved.append(path.name)
+            from ps2_battle_label_preservation import baseline_bytes
+            assert path.read_bytes()==baseline_bytes(base,path.name);preserved.append(path.name)
     result=dict(version=version,passed=True,series_ids=ids,triple_mode_cases=combinations,
         membership_checks=membership,native_save_field_roundtrips=combinations,
         native_exp_cases=bonuses,native_upgrade_limit_cases=upgrade_cases,rendered_series_cases=renders,

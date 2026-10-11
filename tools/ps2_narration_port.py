@@ -7,6 +7,37 @@ from ps2_translation_native import extend
 BLANK=0x4c3448
 END=0x4c3450
 TABLES={'opening':(0x3a93b8,0x3a9664),'ending':(0x3a9b00,0x3a9e18)}
+LINE_PX=560  # Native 24px PS2 font; starts at x=68 on a 640px screen.
+ROW_BYTES=128
+
+
+def native_width(text,metadata):
+    """Measure the actual packaged PS2 advances, including name expansion."""
+    widths={int(g['sjis'],16):g['width'] for g in metadata['glyphs']}
+    total=0
+    for token in it.textfit.tokens(text):
+        if isinstance(token,tuple):code=token[1]
+        elif token in it.textfit.PLACEHOLDER_PX:
+            # Six full-width native characters per editable nickname.
+            total+=144 if token in ('#男愛称','#女愛称') else it.textfit.PLACEHOLDER_PX[token]*24//16
+            continue
+        else:code=it.textfit.ASCII[token]
+        total+=widths[code]
+    return total
+
+
+def wrap_native(text,metadata):
+    lines=[];line=''
+    for word in text.split():
+        candidate=(line+' '+word).strip()
+        if native_width(candidate,metadata)>LINE_PX or len(it.encode(candidate))>ROW_BYTES:
+            assert line, 'Narration word cannot fit native row'
+            lines.append(line);line=word
+        else:line=candidate
+        assert native_width(line,metadata)<=LINE_PX and len(it.encode(line))<=ROW_BYTES
+    if line:lines.append(line)
+    assert ' '.join(lines)==' '.join(text.split()), 'Narration wording changed'
+    return lines
 
 def patch(original,data,metadata):
     source=read_json(ROOT/'work/translation/en/ui/boot_text.json')['narration']
@@ -20,7 +51,7 @@ def patch(original,data,metadata):
         paragraphs=list(source[name])
         # PS2 follows the common ending with the player-named protagonists.
         if name=='ending':paragraphs.append('And then, #男愛称 and #女愛称...')
-        lines=[it.wrap(it.clean(p),416) for p in paragraphs]
+        lines=[wrap_native(it.clean(p),metadata) for p in paragraphs]
         target=last_text+1
         spare=target-sum(map(len,lines));gaps=len(lines)-1
         assert spare>=gaps,(name,target,sum(map(len,lines)))
@@ -30,13 +61,16 @@ def patch(original,data,metadata):
             if k:sequence.extend([BLANK]*per)
             for line in para:
                 data,ptr=extend(data,metadata,it.encode(line),alignment=4)
-                sequence.append(ptr);ptrs.append(dict(pointer=hex(ptr),english=line))
+                sequence.append(ptr);ptrs.append(dict(pointer=hex(ptr),english=line,
+                    native_width_px=native_width(line,metadata),encoded_bytes=len(it.encode(line))))
         assert len(sequence)==target
         sequence.extend([BLANK]*(end-len(sequence)))
         for i,ptr in enumerate(sequence):struct.pack_into('<I',data,first+12*i+8,ptr)
         for i,r in enumerate(records):assert struct.unpack_from('<iI',data,first+12*i)==r[:2]
         assert struct.unpack_from('<I',data,first+end*12+8)[0]==END
-        report[name]=dict(translated_lines=len(ptrs),timing_and_end_record_preserved=True,lines=ptrs)
+        report[name]=dict(translated_lines=len(ptrs),timing_and_end_record_preserved=True,
+                         font_size=24,width_limit=LINE_PX,row_byte_limit=ROW_BYTES,
+                         paragraph_lines=[len(p) for p in lines],lines=ptrs)
     metadata['target_sha256']=sha(data)
     return bytes(data),report
 

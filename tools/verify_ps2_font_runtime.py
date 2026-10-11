@@ -75,6 +75,9 @@ def verify_runtime(version, port, profile):
         # Glyph selection and square-cell size are live renderer state.
         # Compare every immutable byte even after a dialogue has been drawn.
         mutable=[(state_offset,8)]
+        footer=report.get('title_footer',{})
+        if footer.get('private_context_va'):
+            mutable.append((int(footer['private_context_va'],16)-va,footer['private_context_bytes']))
         if favorites:
             mutable.append((int(favorites['state_va'],16)-va,20))
             mutable.append((int(report['difficulty']['mode_va'],16)-va,4))

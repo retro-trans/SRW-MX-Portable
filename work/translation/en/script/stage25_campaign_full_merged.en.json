@@ -3170,12 +3170,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Harry, divide the work with Omoikane and send the tracking program to the target computer, please.",
+   "en": "Harry, work with Omoikane to send the tracking program to the target computer, please.",
    "translation_owner": {
     "source": "work/translation/en/script/stage25_campaign.json",
     "id": 38
    },
-   "notes": "Ruri assigns divided work to Harry/Omoikane; source generic singular target computer retained. Body Harry, prefilled speakers unchanged.",
+   "notes": "Ruri assigns divided work to Harry/Omoikane; source generic singular target computer retained. Body Harry, prefilled speakers unchanged. Chapters 15-30 proofreading: Ruri is asking Harry and Omoikane to share the work. This replaces the awkward literal 'divide the work with' without changing the task.",
    "uncertain": []
   },
   {
@@ -5953,7 +5953,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 25,
-  "fingerprint": "53604bdfdbbb62b5710de2c8fb88c7b39735fe4b0c1aa8ac31de215da93fcf4e",
+  "fingerprint": "fb243b500faef4492591f9a4408c0ba71907fae3eeb1bb61f55a70a7fdaf7992",
   "reviewed_reused_ids": [
    2,
    21,
@@ -6119,7 +6119,7 @@
   "reviewed_reused_rows": 160,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all six fresh packets, six fresh flags and all160 shared rows in every original event/use with final English neighbors. Only measured plain overflow140 compressed; its both-required adjacency now avoids invented sequencing. Alternate capture triggers, hidden voice, source-short names, contempt91, placeholders and request direction preserved. Initial drafts retained; name preview clear."
+  "note": "Coordinator reviewed all six fresh packets, six fresh flags and all160 shared rows in every original event/use with final English neighbors. Only measured plain overflow140 compressed; its both-required adjacency now avoids invented sequencing. Alternate capture triggers, hidden voice, source-short names, contempt91, placeholders and request direction preserved. Initial drafts retained; name preview clear. 2026-10-09: All Chapter 25 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 359,

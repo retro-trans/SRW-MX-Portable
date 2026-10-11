@@ -1283,12 +1283,12 @@
    "kind": "dialogue",
    "speaker_jp": "総一",
    "speaker_en": "Soichi",
-   "en": "If you put it that way, #部隊名 is all civilians helping us out of goodwill.",
+   "en": "If you put it that way, #部隊名 is mostly civilians helping us out of goodwill.",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 73
    },
-   "notes": "All cooperative civilians / goodwill retained; no claim of paid service. Final semantic refinement makes exclusive all explicit rather than draft full of.",
+   "notes": "All cooperative civilians / goodwill retained; no claim of paid service. Final semantic refinement makes exclusive all explicit rather than draft full of. Chapters 31-58 proofreading: The point is the large number of civilian volunteers. Mostly avoids wrongly excluding the established military members of the squad.",
    "uncertain": []
   },
   {
@@ -1781,14 +1781,14 @@
    "kind": "dialogue",
    "speaker_jp": "エルフィ",
    "speaker_en": "Elvy",
-   "en": "Hey! Did Kamina show a MU phase response!? Are you saying he's a Mulian!?",
+   "en": "Hey! Did Kamina show a Mu phase response!? Are you saying he's a Mulian!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 103
    },
-   "notes": "Elvy addresses Soichi about Kamina/Ayato; surname follows source. Semantic review: Source says response manifested; removed additional test-positive framing while preserving phase and response. Root term guidance: MU phase response; do not expand transformation diagnosis.",
+   "notes": "Elvy addresses Soichi about Kamina/Ayato; surname follows source. Semantic review: Source says response manifested; removed additional test-positive framing while preserving phase and response. Root term guidance: Mu phase response; do not expand transformation diagnosis.",
    "uncertain": [
-    "Provisional literal MU phase response: root searched Akurasu exact designation and found no entry; independently licensed compound unverified. Source fictional designation retained."
+    "Provisional literal Mu phase response: root searched Akurasu exact designation and found no entry; independently licensed compound unverified. Source fictional designation retained."
    ]
   },
   {
@@ -2448,7 +2448,7 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "You don't have to worry... MU or human, it doesn't matter. Really...",
+   "en": "You don't have to worry... Mu or human, it doesn't matter. Really...",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 139
@@ -3451,12 +3451,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "Then I want to decide whether to live as Mu, or come back as a human...",
+   "en": "Then I want to decide whether to live as a Mulian or come back as a human...",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 198
    },
-   "notes": "Mu/human alternatives retained; decision follows accepting evidence.",
+   "notes": "Mu/human alternatives retained; decision follows accepting evidence. Chapters 31-58 proofreading: Use the person designation Mulian for Ayato's identity; live as Mu is unnatural and treats the collective name like a countable identity.",
    "uncertain": []
   },
   {
@@ -3483,12 +3483,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "As yourself, whether you're human or Mu!",
+   "en": "As yourself, whether you're human or a Mulian!",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 200
    },
-   "notes": "Haruka insists on personal identity rather than species.",
+   "notes": "Haruka insists on personal identity rather than species. Chapters 31-58 proofreading: Use the same individual identity term as Ayato's preceding statement, rather than the ambiguous collective Mu.",
    "uncertain": []
   },
   {
@@ -4108,12 +4108,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -6993,7 +6993,7 @@
    "kind": "dialogue",
    "speaker_jp": "一色",
    "speaker_en": "Isshiki",
-   "en": "Your surprise is understandable. However, his blood has already tested positive for MU.",
+   "en": "Your surprise is understandable. However, his blood has already tested positive for Mu.",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 260
@@ -12019,12 +12019,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "...A forest of doubt... the hour of awakening... A boy's breath shines only in platinum...",
+   "en": "...A forest of doubt... the hour of awakening... A boy's breath simply gleams like platinum...",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 557
    },
-   "notes": "Quon poetic prophecy remains surreal and fragmented; no invented object completing hour-of-awakening phrase.",
+   "notes": "Quon poetic prophecy remains surreal and fragmented; no invented object completing hour-of-awakening phrase. Chapters 31-58 proofreading: Preserve the poetic platinum imagery with a natural comparison; shines only in platinum suggests an unintended literal medium or restriction.",
    "uncertain": [
     "Poetic opening leaves the grammatical relationship between forest and hour unresolved; retained as fragment. Platinum imagery kept literally; no invented referent for boy."
    ]
@@ -12583,12 +12583,12 @@
    "kind": "dialogue",
    "speaker_jp": "浩子",
    "speaker_en": "Hiroko",
-   "en": "...I've been waiting for you, Kamina... For you to... someday... me...",
+   "en": "...I've been waiting for you, Kamina... Hoping someday you would...",
    "translation_owner": {
     "source": "work/translation/en/script/stage35_campaign.json",
     "id": 591
    },
-   "notes": "Deliberate uncompleted object phrase: she waited for Kamina to someday do something to/for her; no rescue or romance verb invented.",
+   "notes": "Deliberate uncompleted object phrase: she waited for Kamina to someday do something to/for her; no rescue or romance verb invented. Chapters 31-58 proofreading: Keep Hiroko's thought unfinished without the ungrammatical dangling me. The preceding waiting for you already establishes her as the person hoping for his action; do not invent the withheld verb.",
    "uncertain": [
     "Source intentionally omits action verb; matching incomplete English argument structure is unusually fragmented but no completing action invented."
    ]
@@ -13118,7 +13118,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 35,
-  "fingerprint": "05255e98114ac2354a1c9017aae6d8349fb125a42c4a106a2a9a45a2944bdb55",
+  "fingerprint": "79ccc62553e2fa74a128887815cbe4725b95a15477b16d32a0df2dd20780bf98",
   "reviewed_reused_ids": [
    2,
    8,
@@ -13303,7 +13303,7 @@
   "reviewed_reused_rows": 179,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change."
+  "note": "Reviewed all 25 fresh flagged rows and all 179 reused rows in every original scene use. The 143 generic defeat rows have 205 opcode0x7D registered uses, with no ordinary uses. All 36 other reused rows reviewed in original and completed English context, including 19 Ayato silences, six Haruka silences, five Quon silences and late Tokyo escape reactions. Stage35 has 622 fresh, 801 full rows and 921 original uses. All immutable drafts/finals fit; no compression. Retained unfinished actions, physiological wording, address contrast and Quon poetry; source-scoped RahXephon terms and alien romanizations retain licensed-provenance limits. Final423 uses primary-sourced stochastic resonance stem without claiming the fictional boundary localization verified. Bright rank correction reviewed against Akurasu explicit Captain mapping for his source rank. Earlier Colonel rendering and coordinator rank claims are superseded; final-only corrected, original full drafts preserved, every corrected final measured and fits. All other completed context review remains applicable. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change. 2026-10-09: All Chapter 35 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 801,

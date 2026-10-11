@@ -22,7 +22,20 @@ def patch_music(boot, static, titles):
     old = overflow_table(data)
     first = struct.unpack_from('<I', data, old + 0x60)[0]
     count = (first - old) // 4
-    assert 0 < count < 65536 and first == old + count * 4
+    if count <= 0 or first != old + count * 4:
+        # A prior appended table retains pointers into earlier text blobs.
+        # Its complete contiguous R_MIPS_32 relocation run gives its length.
+        sec = it.elf(data)
+        off, size = struct.unpack_from('<II', data, sec['.rel.text'] + 16)
+        entries = {va for va,info in struct.iter_unpack('<II',data[off:off+size])
+                   if info & 255 == 2}
+        count = 0
+        while old+count*4 in entries:
+            count += 1
+        assert first < old and 0 < count < 65536
+    else:
+        assert first == old + count * 4
+    assert 0 < count < 65536
     old_ptrs = list(struct.unpack_from(f'<{count}I', data, old + 0x60))
     blob = bytearray((count + len(titles)) * 4)
     positions = []

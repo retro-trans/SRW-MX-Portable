@@ -1,0 +1,1089 @@
+{
+ "group": "C",
+ "units": [
+  {
+   "entry": 12,
+   "name_jp": "ＥＶＡ３号機",
+   "name_en": "Evangelion Unit-03",
+   "en": "A production-model Evangelion that follows Evangelion Unit-02. It is piloted by Toji Suzuhara, who was chosen as the Fourth Child. It was shipped from NERV's 1st Branch in the United States to Japan, and during an activation test at the Second Experimental Site in Matsushiro, it was taken over by the 13th Angel Bardiel with Toji still inside. Incidentally, the reason its designation is written with the plain numeral 3 rather than with the formal kanji numeral for three, as the other units' designations are, is that this unit was built in the United States.",
+   "notes": "The Japanese point is that the unit is written with the plain numeral 3 (3[jp]) rather than the formal kanji [jp] ([jp]), as the other Evas are. English cannot show the kanji, so the sentence explains it.",
+   "uncertain": [
+    "Wording of the final sentence about 3 vs. the formal numeral kanji is a compromise, since the kanji cannot be shown in ASCII."
+   ]
+  },
+  {
+   "entry": 13,
+   "name_jp": "ＥＶＡ初号機",
+   "name_en": "Evangelion Unit-01",
+   "en": "Its official name is Multipurpose Humanoid Decisive Weapon, Artificial Human Evangelion Unit-01. The special agency NERV spent 14 years and an enormous budget building the Evangelions as weapons for intercepting the Angels, and Unit-01 is the test type. It has an absolute domain and physical barrier called the A.T. Field (Absolute Terror Field), and it is operated by pilots called Children, boys and girls aged 14. It runs on power supplied from the outside through an umbilical cable, and in an emergency the cable can be disconnected (in this case the active limit time is about 5 minutes). Unit-01, piloted by Shinji Ikari, has many mysterious aspects even compared with the other Evas, such as restarting after passing its active limit and going berserk. It also has a red sphere called a core (a similar object has been confirmed in the Angels as well). Also, the Magoroku-E Sword exists only as a design concept and is a weapon that never appears in the anime.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 15,
+   "name_jp": "ＥＶＡ零号機",
+   "name_en": "Evangelion Unit-00",
+   "en": "The first Evangelion ever built. It can be called the prototype of machines such as Unit-01 and Unit-02. Apparently it was never intended for combat deployment, so it does not support the various equipment options. Also, because it went berserk during an activation test, it had been frozen with special Bakelite. Incidentally, it seems that many units were built before this Unit-00, the one that actually functioned.",
+   "notes": "",
+   "uncertain": [
+    "Last sentence: 'build up to the machine that actually activates' - interpreted as many earlier units being built before the working Unit-00."
+   ]
+  },
+  {
+   "entry": 16,
+   "name_jp": "ＥＶＡ零号機",
+   "name_en": "Evangelion Unit-00",
+   "en": "Evangelion Unit-00 that was heavily damaged in Operation Yashima and then refitted with the same armament as the other Evas. At that time its color scheme was changed to blue. Perhaps because its base frame is the experimental Unit-00, it had few chances to fight at the front and was often assigned to rear support. In the anime it was damaged in the battle with the 16th Angel Armisael, and no sorties after that have been confirmed.",
+   "notes": "Second Unit-00 entry (blue refitted version).",
+   "uncertain": []
+  },
+  {
+   "entry": 17,
+   "name_jp": "ＥＶＡ弐号機",
+   "name_en": "Evangelion Unit-02",
+   "en": "A production-model Evangelion built from the data of Unit-00 and Unit-01. It is the first Evangelion designed with combat deployment in mind. It was designed in Japan, and the final assembly and activation tests were carried out in Germany. In Asuka's words, \"the real Evangelion.\" Its true ability was shown to the fullest in the battle against the nine Mass Production Evangelions in the theatrical film, but...",
+   "notes": "Sentence deliberately ends with '...' as in the original.",
+   "uncertain": []
+  },
+  {
+   "entry": 18,
+   "name_jp": "ＥＶＡ初号機（暴走）",
+   "name_en": "Evangelion Unit-01 (Berserk)",
+   "en": "Evangelion Unit-01 in a berserk state. The berserk state is a mysterious behavior seen only in Evangelion Unit-01. It is triggered mainly in desperate situations, and even Shinji, the pilot, cannot control it. In the berserk state Unit-01 is ferocious and destroys its enemies thoroughly. It also displays regenerative ability, and has even restored a severed arm by itself. In episode 18 of the TV series, it seems that Unit-01 was made to go berserk deliberately by a Dummy System that imitated Rei Ayanami's personality.",
+   "notes": "",
+   "uncertain": [
+    "Episode 18 ([jp]) rendered as 'episode 18'.",
+    "'Dummy System' used for [jp], matching the glossary."
+   ]
+  },
+  {
+   "entry": 79,
+   "name_jp": "スーパーガンダム",
+   "name_en": "Super Gundam",
+   "en": "The state in which the Gundam Mk-II and the G-Defenser have combined. It makes up for the Gundam Mk-II's weakness, its fragile armor, and strengthens firepower by using the Long Rifle, the main gun of the G-Defenser. It can also combine with the Mk-II while the G-Defenser stays in its aircraft form, and that configuration is called the G-Flyer (it does not appear in the game). Also, in Super Gundam form the G-Defenser's Core Fighter is separated, so it is a one-seater.",
+   "notes": "",
+   "uncertain": [
+    "'G-Defenser form' (G[jp]) rendered as the G-Defenser staying in its aircraft form."
+   ]
+  },
+  {
+   "entry": 80,
+   "name_jp": "Ｚガンダム",
+   "name_en": "Zeta Gundam",
+   "en": "A prototype transformable mobile suit that the AEUG had Anaheim Electronics develop. It was a major milestone of the Z Project, Anaheim's new mobile suit development program, and it is a famous masterpiece that produced derivative machines such as the Hyaku Shiki and the Methuss during prototyping, and successors such as the Zeta Plus, the ZZ Gundam and the Re-GZ. It was completed by combining the movable frame technology obtained from the Gundam Mk-II, the armor material of the Rick Dias, and ideas proposed by Kamille (such as the Mk-II's flying armor). By transforming into Waverider form, it can enter the atmosphere without options such as a ballute system, and can also fly within the atmosphere. In mobile suit form as well it has high mobility and maneuverability, and thanks to its high-output generator it can also use powerful weapons such as the Hyper Mega Launcher. Later a Bio-Sensor was introduced, and the machine's responsiveness improved greatly. Judau piloted it in the early part of \"Mobile Suit Gundam ZZ,\" and even after the ZZ Gundam appeared he used this machine in situations that called for mobility.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 81,
+   "name_jp": "ウェイブライダー",
+   "name_en": "Waverider",
+   "en": "The high-speed mobile form of the Zeta Gundam. By transforming, it concentrates the direction of its verniers toward the rear and obtains tremendous mobility. This high thrust also allows it to fly within the atmosphere. The biggest merit of transforming into this form is that atmospheric entry becomes possible without optional equipment such as a ballute system. Thanks to this function, the Zeta Gundam came to occupy an important position strategically as well. There also seems to be a variation called the \"Wave Shooter,\" in which the flying armor is swapped for something else.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 82,
+   "name_jp": "百式",
+   "name_en": "Hyaku Shiki",
+   "en": "A prototype mobile suit developed by Anaheim Electronics and operated by the AEUG. Its developer is Dr. M. Nagano. It was developed as a transformable mobile suit as part of the Z Project, Anaheim's new mobile suit development program, but a structural defect was discovered and the transformation mechanism was omitted. Even so, its machine performance was high, and it was judged fully usable in actual combat, so it was assigned to the Argama. Its greatest feature is its gold armor, which apparently also had anti-beam coating ability. Furthermore, the \"hyaku\" (one hundred) in its name also carries the meaning of \"a mobile suit that lasts a hundred years.\" With a high-output generator that can run the optional Mega Bazooka Launcher on its own, the high mobility given by the flexible binders on its back, and Quattro's piloting skill, it achieved great results, starting with the assault on Jaburo. It was heavily damaged in the final battle with Haman, but in \"Mobile Suit Gundam ZZ\" a second unit was assigned to the Argama and was mainly piloted by Beecha.",
+   "notes": "",
+   "uncertain": [
+    "'Flexible binder' ([jp]) is a literal rendering; Gundam wiki calls them flexible binders/wing binders."
+   ]
+  },
+  {
+   "entry": 83,
+   "name_jp": "フルアーマー百式改",
+   "name_en": "Full Armor Hyaku Shiki Kai",
+   "en": "One of the plans for strengthening the armament of the Hyaku Shiki Kai. It mounts both beam weapons and ballistic weapons on the main body to improve firepower, and at the same time its defense is strengthened by the reflector panels on the chest. In reality, large transformable mobile suits came into their heyday, and it was never mass-produced.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 84,
+   "name_jp": "ディジェＳＥ－Ｒ",
+   "name_en": "Dijeh SE-R",
+   "en": "An ultra-high-performance machine developed on the base of the MSK-008 Dijeh. Although the details are unknown, various revolutionary functions have been added, and it apparently may be called a completely different machine. This can also be inferred from the fact that the Dijeh SE-R's model number, SE.DJ-1R, is unique and unlike any other.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 85,
+   "name_jp": "キュベレイＭｋ－Ⅱ",
+   "name_en": "Qubeley Mk-II",
+   "en": "A Neo Zeon prototype mobile suit exclusively for Newtypes, improved from Haman's prototype unit 1. The prototype unit 2, with a black color scheme, is piloted by Ple. The main improvement is that the beam saber that doubles as a beam gun has become a three-pronged type, giving a slight increase in offensive power; its basic performance is equal to that of prototype unit 1.",
+   "notes": "Qubeley Mk-II unit 2 (Ple).",
+   "uncertain": []
+  },
+  {
+   "entry": 86,
+   "name_jp": "キュベレイＭｋ－Ⅱ",
+   "name_en": "Qubeley Mk-II",
+   "en": "A Neo Zeon prototype mobile suit exclusively for Newtypes, improved from Haman's prototype unit 1. The prototype unit 3, with a red color scheme, is piloted by Ple Two. The difference from unit 2 is that it is equipped with a psycommu controller that allows external operation, and its basic performance is equal to that of prototype units 1 and 2.",
+   "notes": "Qubeley Mk-II unit 3 (Ple Two).",
+   "uncertain": []
+  },
+  {
+   "entry": 87,
+   "name_jp": "ＺＺガンダム",
+   "name_en": "ZZ Gundam",
+   "en": "A prototype transformable heavy mobile suit that the AEUG had Anaheim Electronics develop. It was completed in Anaheim's Z Project after the Zeta Gundam. Its development concept is \"an RX-78 and G-Armor that can operate alone.\" For that reason it inherits the transformation system built for the Zeta Gundam and the core block system and G-Parts mechanism of the RX-78 Gundam, and is made up of a Core Fighter, a Core Top forming the upper body, and a Core Base forming the lower body. Furthermore, each can be operated as a fighter, and in the combined state it can transform into the heavy fighter-bomber G-Fortress. It also emphasizes firepower, carrying many high-output beam weapons, starting with the High Mega Cannon on its forehead. On the other hand, it has the drawback of a short operating time because it consumes a great deal of energy. Among the mobile suits of around U.C. 0087 that pursued high output, it can be called the highest point reached. Judau Ashta piloted it and became the core of the Gundam Team.",
+   "notes": "",
+   "uncertain": [
+    "'High Mega Cannon' follows the Gundam wiki; the older official spelling is 'Hi-Mega Cannon'."
+   ]
+  },
+  {
+   "entry": 88,
+   "name_jp": "Ｇフォートレス",
+   "name_en": "G-Fortress",
+   "en": "The heavy fighter-bomber form into which the ZZ Gundam transforms. It is made up of the Core Top (the ZZ Gundam's A-Part and a Core Fighter) and the Core Base (the ZZ Gundam's B-Part and a Core Fighter), and is mainly used for long-distance travel. The ZZ Gundam was developed on the concept of handling an RX-78 Gundam and a G-Armor with a single machine, but the G-Fortress was not given as much versatility as the G-Armor. However, its attack power was the strongest around U.C. 0087.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 89,
+   "name_jp": "ネェル・アーガマ",
+   "name_en": "Nahel Argama",
+   "en": "A powerful battleship built by Anaheim Electronics on the basis of the Argama. \"Nahel Argama\" means \"close to the Argama.\" It has five catapults for mobile suits and a main gun on the level of a colony laser. Also, thanks to computer support, each gun can be operated from the bridge, so it can be run with a very small crew.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 90,
+   "name_jp": "メガライダー",
+   "name_en": "Mega Rider",
+   "en": "A mobile suit support machine developed by Anaheim Electronics. It inherits the design philosophy of the self-propelled mobile suit gun platforms that existed in the One Year War, and can be operated as a sub-flight system armed with powerful weapons. It also has simple living quarters, so it can be used as a mobile base for long operations. It was used when the Gundam Team, who had descended to Earth, acted separately from the Argama.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 91,
+   "name_jp": "νガンダム",
+   "name_en": "Nu Gundam",
+   "en": "A mobile suit for Newtypes that Anaheim Electronics developed with its full strength at the request of the Earth Federation Forces' Londo Bell unit. The pilot, Amuro, took part in the design himself, and it is an ultra-high-performance machine that can be called the culmination of all the Gundams to date. By using the new material psycho-frame, brought by Neo Zeon leader Char Aznable, around the cockpit and in the drive system, it boasts outstanding responsiveness and maneuverability. The psycho-frame also controls the machine's greatest feature, the Fin Funnels, psycommu-applied weapons installed for the first time on a Gundam-type mobile suit. Compared with conventional funnels, the Fin Funnels are larger and higher-output; besides being used as mega particle cannons, combining several of them generates a magnetic field and makes it possible to deploy a beam barrier. It is also well balanced in its other armament, carrying beam weapons, ballistic weapons and close-combat weapons. It fought a deadly battle with Char's Sazabi on the falling Axis, and afterward, in order to stop Axis from falling, it formed a mysterious force field through the resonance of the psycho-frame. Taking its armament, machine performance and pilot Amuro's skill together, it is no exaggeration to call it the strongest Gundam.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 92,
+   "name_jp": "リ・ガズィ（ＢＷＳ）",
+   "name_en": "Re-GZ (BWS)",
+   "en": "The mobile armor form in which the Re-GZ is equipped with the Back Weapon System. Mobility, long-range cruising ability and firepower are dramatically improved. However, the Back Weapon System is used in a nearly disposable manner, and re-equipping it (on the battlefield) after it has been detached and the machine has become a mobile suit is impossible.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 93,
+   "name_jp": "リ・ガズィ（ＭＳ）",
+   "name_en": "Re-GZ (MS)",
+   "en": "A prototype mobile suit developed by Anaheim Electronics and used by the Londo Bell unit. It is a simplified mass-production prototype of the Zeta Gundam, and by being equipped with the Back Weapon System it becomes a mobile armor. This mechanism succeeded in improving producibility while maintaining high machine performance. Even so, it was far more expensive than other mass-produced machines, and its deployment ended with a single unit in the Londo Bell unit. Incidentally, Re-GZ is short for \"Refined Gundam Zeta.\"",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 134,
+   "name_jp": "ＡＬＩＥＬ",
+   "name_en": "ALIEL",
+   "en": "A VTOL aircraft that Haruka Shitow used to infiltrate TOKYO JUPITER ahead of the start of Operation Overlord. It is equipped with TDDU, an absolute barrier penetration system. It was also used when she escaped from TOKYO JUPITER together with Ayato, but it was guided to RahXephon and sank into the spring that spreads across the Room of Rah.",
+   "notes": "",
+   "uncertain": [
+    "'ALIEL' kept as printed; may be 'Ariel'.",
+    "Subject of the final clause read as the aircraft (the pilot entry for Reika says she guided ALIEL)."
+   ]
+  },
+  {
+   "entry": 135,
+   "name_jp": "ヴァーミリオン（エルフィ機）",
+   "name_en": "Vermillion (Elvy's Unit)",
+   "en": "A new TERRA weapon. It was brought into TERRA from the Bahbem Foundation and assigned to Alpha Squadron. Since only one unit was deployed at first, Elvy, the squadron leader, became its pilot. Unlike RahXephon, which only Ayato can ride, its cockpit is built very much like the Shinsei's, so even ordinary pilots can operate it with training. It has a weapon called the \"Bausgazal\" that can fire a railgun and wave-light bullets, and its power is such that a single shot blows away a reef. It also has the absolute barrier penetration system TDDU built in, and can break through the TOKYO JUPITER barrier under its own power. While on standby it is housed with a dedicated maintenance arm connected to and holding the thruster section at the waist, and at launch it is shot out directly from this state. Incidentally, the internal structure of the Vermillion is completely unknown.",
+   "notes": "",
+   "uncertain": [
+    "'Shinsei' here is the fighter [jp] (Shinsei Type II), not [jp].",
+    "'Bausgazal' is an unverified romanization."
+   ]
+  },
+  {
+   "entry": 136,
+   "name_jp": "晨星Ⅱ型",
+   "name_en": "Shinsei Type II",
+   "en": "An Anti-D fighter of the Earth Federation air force. It is armed with high-speed missiles and boasts high maneuverability. However, because it has no effective equipment against Dolems, it often ended up supporting RahXephon. The absolute barrier penetration system TDDU can be installed. The reason the machine Elvy flies is painted red is that it is the squadron leader's machine.",
+   "notes": "",
+   "uncertain": [
+    "Name 'Shinsei Type II' is a romanization ([jp], morning star); no English source.",
+    "[jp] rendered 'Earth Federation' per the wiki."
+   ]
+  },
+  {
+   "entry": 137,
+   "name_jp": "ラーゼフォン",
+   "name_en": "RahXephon",
+   "en": "A giant god that awoke from the dimensional egg in the Seon Temple \"Room of Rah,\" located under the Mu Tokyo Government-General in the center of TOKYO JUPITER. It moves by synchronizing with Ayato's consciousness, and no one but Ayato can pilot it. However, it can act autonomously, attack in self-defense, and move on its own in search of Ayato. When the chest armor opens, a core appears, and it takes Ayato into its womb through the core. The inner cavern that corresponds to the cockpit is called the \"Instrumentalist's Seat,\" and its base is filled with water called the \"Spring of Oracles,\" with a feather-shaped chair jutting out from the spring. Incidentally, RahXephon's pilot is called an \"instrumentalist\" by some people. The feathers on both sides of its forehead can be opened and closed freely, and are kept closed when Ayato is not aboard or during autonomous action. RahXephon's eyes are normally red, but beneath them is a golden eyeball called the \"Eye of Truth.\" It also has an openable visor at the brim, which can cover the eyes. It has no armament or options at all; it emits high-frequency sound from its mouth and smashes enemies with light from its palms. Because its material, structure and power source are all unknown, the Earth Federation side classifies it as Mulian Artifact Class 5A (Five-A). A giant god of many mysteries that evolves along with Ayato's mental growth.",
+   "notes": "",
+   "uncertain": [
+    "'Seon Temple' and 'Spring of Oracles' are literal renderings ([jp], [jp]); 'Instrumentalist's Seat' ([jp]) likewise.",
+    "'Eye of Truth' ([jp]) literal; the text says 'eyeball' singular so kept singular."
+   ]
+  },
+  {
+   "entry": 138,
+   "name_jp": "真聖ラーゼフォン＜アヤト＞",
+   "name_en": "Shinsei RahXephon <Ayato>",
+   "en": "The form born when Ayato, having reached the true heart \"Yolteotl,\" fused with the vessel \"Xephon\" and the guide \"Ixtli\" and obtained the title of Rah. It has the ability to fill the world with sound and tune the world. It emits rainbow-colored high-frequency waves and also possesses overwhelming arm strength. The white wings are not for flying but for tuning the world. Ayato overcame various hardships and found someone he must protect, and grew mentally; he and Ixtli, who had the form of Reika Mishima, accepted each other and became one, and as a result he obtained the \"title of Rah\" and transformed RahXephon into Shinsei RahXephon.",
+   "notes": "",
+   "uncertain": [
+    "'Shinsei' ([jp]) is kept romanized; game-coined form name.",
+    "Last sentence: subject Ayato, 'he'."
+   ]
+  },
+  {
+   "entry": 139,
+   "name_jp": "ラーゼフォン",
+   "name_en": "RahXephon",
+   "en": "RahXephon in its awakened state. When Ayato grows mentally or falls into a pinch, its red eyes open and the Eye of Truth appears, and it displays tremendous combat power. It also occasionally activates new abilities. When the Eye of Truth opens, Ayato sometimes sees the figure of Reika Mishima, who should have died.",
+   "notes": "Second RahXephon entry (awakened).",
+   "uncertain": []
+  },
+  {
+   "entry": 140,
+   "name_jp": "ガルムレイド",
+   "name_en": "Garmraid",
+   "en": "Experimental Unit No. 7 among the humanoid mobile weapons developed in the \"Tsentr Project\" being pursued within the Federation Army. Also called a TE Absorber, it is a machine that excels at close combat and melee. However, the TE Engine, which applies Terminus Energy, has many problems with power output adjustment and so on, so the drive of the joints and other parts is supplemented by batteries. Also, to allow finer output adjustment of the TE Engine and to assist machine control, DFC (Direct Feeling Control) has been introduced, and an operator wearing a special DFC suit rides along on the machine. Its model number is YTA-07RB. One unit of the same type exists, but since it is mostly meant as spare parts, it is not used for tests or combat.",
+   "notes": "",
+   "uncertain": [
+    "'Experimental Unit No. 7' follows the SRW wiki (JP: [jp]7[jp], prototype unit 7)."
+   ]
+  },
+  {
+   "entry": 141,
+   "name_jp": "ガルムレイド・ブレイズ（Ｇ）",
+   "name_en": "Garmraid Blaze (Form G)",
+   "en": "Experimental Unit No. 9, developed in the Tsentr Project. Its model number is YTA-09RB. It consists of a main body built from the various data obtained from Experimental Unit No. 7, and support combat mecha called \"Machine Animaloids.\" The TE Engine has also been replaced with a new type, with improved output and stability compared with that of Unit No. 7. It can also use an energy field called the \"TE Sphere,\" which raises its defense. There are two kinds of Machine Animaloid, the bird-type unmanned fighter \"Hiou\" and the wolf-type unmanned mobile weapon \"Rouga,\" and each can operate alone, but normally they are split into parts and attached to Experimental Unit No. 9's arms, legs, shoulders, back and so on. The form with the striking weapon formed from Rouga's head on the right arm and the Wing Booster formed from Hiou on the back is called \"Form G,\" and like Unit No. 7 it displays performance specialized for close combat and melee. The Wing Booster also improves its aerial combat ability.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 142,
+   "name_jp": "ガルムレイド・ブレイズ（Ｓ）",
+   "name_en": "Garmraid Blaze (Form S)",
+   "en": "Experimental Unit No. 9, developed in the Tsentr Project. Its model number is YTA-09RB. It consists of a main body built from the various data obtained from Experimental Unit No. 7, and support combat mecha called \"Machine Animaloids.\" The TE Engine has also been replaced with a new type, with improved output and stability compared with that of Unit No. 7. It can also use an energy field called the \"TE Sphere,\" which raises its defense. There are two kinds of Machine Animaloid, the bird-type unmanned fighter \"Hiou\" and the wolf-type unmanned mobile weapon \"Rouga,\" and each can operate alone, but normally they are split into parts and attached to Experimental Unit No. 9's arms, legs, shoulders, back and so on. The form with the shield formed from Rouga's head on the left arm and the cannon formed from Hiou on the back is called \"Form S,\" and unlike Unit No. 7 and Form G it displays performance specialized for long-range and artillery combat. Also, through the combined use of the shield and the TE Sphere, its defense is somewhat higher than that of Form G.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 143,
+   "name_jp": "サーベラス",
+   "name_en": "Cerberus",
+   "en": "Experimental Unit No. 6 among the humanoid mobile weapons developed in the \"Tsentr Project\" being pursued within the Federation Army. Also called a TE Absorber, it is a machine that excels at long-range and artillery combat. However, the TE Engine, which applies Terminus Energy, has many problems with power output adjustment and so on, so the drive of the joints and other parts is supplemented by batteries. Also, to allow finer output adjustment of the TE Engine and to assist machine control, DFC (Direct Feeling Control) has been introduced, and an operator wearing a special DFC suit rides along on the machine. Its model number is YTA-06BW. One unit of the same type exists, but since it is mostly meant as spare parts, it is not used for tests or combat.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 144,
+   "name_jp": "サーベラス・イグナイト（Ｇ）",
+   "name_en": "Cerberus Ignite (Form G)",
+   "en": "Experimental Unit No. 8, developed in the Tsentr Project. Its model number is YTA-08BW. It consists of a main body built from the various data obtained from Experimental Unit No. 6, and an additional weapon unit, the \"Ignite Parts.\" The TE Engine has also been replaced with a new type, with improved output and stability compared with that of Unit No. 6. It can also use an energy field called the \"TE Sphere,\" which raises its defense. The Ignite Parts can be operated alone as unmanned fighters, but basically they are used attached to the main body of Experimental Unit No. 8. Also, the main body of Unit No. 8 transforms into Figure W, a close-combat form, and Figure B, an artillery form (the front and back of the body are reversed), giving it more versatility than Unit No. 6. The state in which the Ignite Parts are attached to Figure W is called \"Form G,\" and it displays performance specialized for close combat.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 145,
+   "name_jp": "サーベラス・イグナイト（Ｓ）",
+   "name_en": "Cerberus Ignite (Form S)",
+   "en": "Experimental Unit No. 8, developed in the Tsentr Project. Its model number is YTA-08BW. It consists of a main body built from the various data obtained from Experimental Unit No. 6, and an additional weapon unit, the \"Ignite Parts.\" The TE Engine has also been replaced with a new type, with improved output and stability compared with that of Unit No. 6. The Ignite Parts can be operated alone as unmanned fighters, but basically they are used attached to the main body of Experimental Unit No. 8. Also, the main body of Unit No. 8 transforms into Figure W, a close-combat form, and Figure B, an artillery form (the front and back of the body are reversed), giving it more versatility than Unit No. 6. The state in which the Ignite Parts are attached to Figure B is called \"Form S,\" and it displays performance specialized for artillery combat.",
+   "notes": "The Japanese text of this entry omits the TE Sphere sentence found in the Form G entries; kept as is.",
+   "uncertain": [
+    "Omission of the TE Sphere sentence is in the source, not a dropped sentence."
+   ]
+  },
+  {
+   "entry": 156,
+   "name_jp": "アイアンサンド",
+   "name_en": "Iron Sand",
+   "en": "A Youhei Commander whose body is made of iron sand. It has the ability to change its form into any shape, and because it originally has no fixed form, it takes no damage from physical attacks. It has a will of its own, but it can also merge with others, and it powered up by merging with Bug Newman. It has weapons usable at both long and short range, such as electromagnetic irradiation and the Double Sword, but unfortunately it seems unable to use the \"Electromagnetic Poison Hand Blade.\"",
+   "notes": "Cross-series (Machine Robo: Revenge of Cronos, Group A territory). Batch label was Dragoon (Banpresto Originals); corrected per fix_C.txt to Iron Sand.",
+   "uncertain": [
+    "Cross-series names ('Youhei Commander', 'Bug Newman', 'Double Sword', 'Electromagnetic Poison Hand Blade') are literal/unverified; reconcile with Group A.",
+    "Subject of 'merged with Bug Newman and powered up' read as Iron Sand."
+   ]
+  },
+  {
+   "entry": 210,
+   "name_jp": "スタークダイン",
+   "name_en": "Stark Dyne",
+   "en": "A Dyne customized exclusively for Captain Min. The ammunition capacity of its 50 mm hand rail gun has also been increased, but its distinctive feature is the chainsaws called Hybrid Surge mounted on both arms. Captain Min was good at a tactic of destroying the opponent's sensors with the high-heat rounds mounted on the waist and then cutting the enemy to pieces with these chainsaws.",
+   "notes": "Cross-series (Metal Armor Dragonar). Batch label was 'Fifth Angel Ramiel'; corrected per fix_C.txt to Stark Dyne.",
+   "uncertain": [
+    "Cross-series: 'Dyne' / 'Captain Min' spellings should be reconciled with Group A (SRW wiki spells it Deins; Wikipedia: Stark Deins).",
+    "'50 mm hand rail gun': the glossary weapon is the 55.6 mm Hand Rail Gun; the text says 50 mm, kept as written."
+   ]
+  },
+  {
+   "entry": 211,
+   "name_jp": "スタークダウツェン",
+   "name_en": "Stark Dautzen",
+   "en": "A Dautzen customized exclusively for Lieutenant Zin. Its armament and output have also been strengthened, but it was mainly modified as an electronic warfare machine. Using the EDV antenna, it projected holograms, created decoys of itself, and deceived the enemy.",
+   "notes": "Cross-series (Metal Armor Dragonar). Batch label was 'Thirteenth Angel Bardiel'; corrected per fix_C.txt to Stark Dautzen.",
+   "uncertain": [
+    "Cross-series spellings ('Dautzen', 'Zin') to reconcile with Group A.",
+    "[jp] rendered 'Lieutenant Zin' (Wikipedia 'Zin'); could be 'Jin'."
+   ]
+  },
+  {
+   "entry": 212,
+   "name_jp": "ダイン・マッフ",
+   "name_en": "Dyne Muff",
+   "en": "A Dyne, the close-combat metal armor of Giganos that is mainly used as a platoon leader's machine, fitted with a flight Muff unit. Normally it carries a multi-discharger on its back, but this was omitted in order to mount the Muff unit. The right eye, which retains a trace of the Gewei, is directly connected to the cockpit as a target scope. A variation, a yellow-colored Dyne exclusively for Dorchenov, also appeared.",
+   "notes": "Cross-series (Metal Armor Dragonar). Batch label was 'Fourteenth Angel Zeruel'; corrected per fix_C.txt to Dyne Muff.",
+   "uncertain": [
+    "Cross-series spellings ('Muff', 'Gewei', 'Dorchenov', 'Giganos') to reconcile with Group A."
+   ]
+  },
+  {
+   "entry": 213,
+   "name_jp": "ドラウ",
+   "name_en": "Drau",
+   "en": "A reconnaissance metal armor of Giganos. It is the earliest metal armor that was made, and is characterized by its huge camera eye. In the early part of the war it only had to deal with combat pods, so it could fight even with this level of equipment.",
+   "notes": "Cross-series (Metal Armor Dragonar). Batch label was 'Seventeenth Angel Tabris'; corrected per fix_C.txt to Drau.",
+   "uncertain": [
+    "Cross-series spellings ('Drau', 'Giganos', 'combat pods') to reconcile with Group A."
+   ]
+  },
+  {
+   "entry": 214,
+   "name_jp": "ドラグナー１型カスタム",
+   "name_en": "Dragonar-1 Custom",
+   "en": "A Dragonar-1 (D-1) that received reinforcing modifications at the hands of Dr. Plato. By incorporating the know-how gained from the development of the Dragoon and the Alliance forces' own technology, its medium-range combat ability and search ability were improved, and its original close-combat ability was also powered up. The two laser swords are mounted on the left hip, and a throw-in bomb is equipped on the right hip. Also, because a gravity-field detection system was installed on the left shoulder, the shoulder bombs were reduced to a single one on the right shoulder.",
+   "notes": "Cross-series (Metal Armor Dragonar). fix_C.txt lists no owner record for this entry; the name Dragonar-1 Custom is judged from the text, which is identical to Group A entry 71.",
+   "uncertain": [
+    "Name judged from the text (identical to Group A entry 71, Dragonar-1 Custom).",
+    "'Dr. Plato' ([jp]) and 'Alliance forces' ([jp]) to reconcile with Group A."
+   ]
+  }
+ ],
+ "pilots": [
+  {
+   "entry": 23,
+   "name_jp": "青葉シゲル",
+   "name_en": "Shigeru Aoba",
+   "en": "An operator attached to the NERV Headquarters Central Command Room, in charge of communications and information analysis. When the Strategic Self-Defense Force attacked NERV Headquarters, he encouraged Maya and returned fire with a gun; despite his breezy way of speaking, he also has a gutsy side. His hobby is the guitar.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 24,
+   "name_jp": "赤木リツコ",
+   "name_en": "Ritsuko Akagi",
+   "en": "Belongs to Technical Section 1 of the Technology Development Department at NERV Headquarters. She is the daughter of Dr. Naoko Akagi, who built the basic theory of the supercomputer MAGI, and the person in charge of Project E, the Evangelion development project. She has a cool personality, and when faced with the facts she can take a cold attitude toward others. She has been Misato's close friend since their university days. In contrast to her cool personality, her hobby is collecting cat trinkets, and she keeps cats at her family home as well.",
+   "notes": "",
+   "uncertain": [
+    "'[jp]' (family home) rendered 'her family home' without specifying parents."
+   ]
+  },
+  {
+   "entry": 25,
+   "name_jp": "綾波レイ",
+   "name_en": "Rei Ayanami",
+   "en": "The pilot of Evangelion Unit-00. The First Child, the first pilot of the Evangelion series. Her entire background is a mystery, and she is a quiet girl who does not show her emotions. She herself says that her reason for riding an Eva is \"bonds.\" She holds special feelings for Gendo, and treasures his glasses, which broke when he rescued her from the entry plug at the risk of his own body during the Unit-00 experiment. The secret she hides is closely tied to the making of the Evangelion series and to Gendo's aims.",
+   "notes": "",
+   "uncertain": [
+    "'Gendo's glasses': 'broke when he rescued her' - subject of the rescue is Gendo (the text says Gendo's glasses broke when he put his body on the line)."
+   ]
+  },
+  {
+   "entry": 26,
+   "name_jp": "碇ゲンドウ",
+   "name_en": "Gendo Ikari",
+   "en": "The Supreme Commander of the special agency NERV. His background includes being the former director of the Artificial Evolution Laboratory and the former director of Gehirn. Having received the duty of investigating and annihilating the Angels, he has also been entrusted single-handedly with carrying out the Human Instrumentality Project. He is a cold man who will use any means to achieve his goal, and he always takes an overbearing attitude toward other people. This extends even to his own subordinates and his son; the only exception is toward Rei Ayanami. The Human Instrumentality Project he envisions is different from SEELE's plan, and in the end he becomes SEELE's enemy.",
+   "notes": "",
+   "uncertain": [
+    "'Artificial Evolution Laboratory' is a literal rendering ([jp]); no English source found."
+   ]
+  },
+  {
+   "entry": 27,
+   "name_jp": "碇シンジ",
+   "name_en": "Shinji Ikari",
+   "en": "The pilot of Evangelion Unit-01. The Third Child, selected by the Marduk Institute. He lost his mother in early childhood and had lived apart from his father Gendo for more than ten years, but was called to Tokyo-3 when the Angels began to arrive. He is introverted and not very good at communicating with other people. At first he rode the Eva out of a sense of duty, but he comes to find the meaning of riding it through the fighting. As he comes into contact with the people of NERV and the boys and girls around him, he gradually opens his heart, but he is also hurt by the incidents that arise during the battles. His special skill is playing the cello.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 29,
+   "name_jp": "伊吹マヤ",
+   "name_en": "Maya Ibuki",
+   "en": "Ritsuko's subordinate, belonging to Technical Section 1 of the Technology Department at NERV Headquarters. She is an operator at the NERV Headquarters Central Operations Command who monitors the Eva pilots. She respects her superior Ritsuko. Because she is a fastidious perfectionist, she loathes things like Gendo's way of using any means to achieve his aims.",
+   "notes": "",
+   "uncertain": [
+    "'Technology Department' ([jp]) vs. Ritsuko's 'Technology Development Department' ([jp]): kept distinct as in the Japanese."
+   ]
+  },
+  {
+   "entry": 30,
+   "name_jp": "委員Ａ",
+   "name_en": "Committee Member A",
+   "en": "A member of the secret organization that plans the Human Instrumentality Project.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 31,
+   "name_jp": "委員Ｂ",
+   "name_en": "Committee Member B",
+   "en": "A member of the secret organization that plans the Human Instrumentality Project.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 34,
+   "name_jp": "加持リョウジ",
+   "name_en": "Ryoji Kaji",
+   "en": "A young man who belongs to NERV's Special Inspection Department. He came to Japan from the German Branch to bring Asuka, Unit-02 and a mysterious object called Adam. In fact he was a triple spy working for NERV, SEELE and the Ministry of the Interior of the Japanese government, but he is assassinated by someone, perhaps because his identity was exposed. He seems a frivolous man who calls out to women he likes, but he is an object of admiration for Asuka, and a caring older-brother type to those younger than himself. His hobby is growing watermelons. Incidentally, he and Misato were lovers in their student days.",
+   "notes": "",
+   "uncertain": [
+    "'Special Inspection Department' ([jp]) is a literal rendering; the eva wiki calls his post 'Special Inspector'."
+   ]
+  },
+  {
+   "entry": 35,
+   "name_jp": "葛城ミサト",
+   "name_en": "Misato Katsuragi",
+   "en": "Belongs to Section 1 of the Operations Bureau, Tactical Operations Department, at NERV Headquarters. Her rank is captain at first (later promoted to major). Her main duties are planning operations for battles with the Angels and commanding those operations. She happened to be at the site of Second Impact in her childhood and lost her father then, so she bears a grudge against the Angels and joined NERV. On the surface she is a cheerful, sloppy and friendly big-sister type who lives with Shinji and gradually opens his heart. However, she herself carries several old wounds inside. She has been Ritsuko's close friend since university, and Kaji was her lover while they were at university. She loves beer and sometimes drinks from the middle of the day, and keeps a hot-spring penguin, Pen Pen, as a pet.",
+   "notes": "",
+   "uncertain": [
+    "Ranks: game says [jp] then [jp]; rendered captain / major as in the eva wiki."
+   ]
+  },
+  {
+   "entry": 36,
+   "name_jp": "キール・ローレンツ",
+   "name_en": "Keel Lorenz",
+   "en": "A central figure of the Human Instrumentality Committee and of SEELE. He apparently has known Gendo for a long time. He always wears a visor, and his true face has not been revealed.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 37,
+   "name_jp": "鈴原トウジ",
+   "name_en": "Toji Suzuhara",
+   "en": "Shinji's classmate. A hot-blooded Kansai-dialect speaker and a caring older brother to his little sister. At first, because his little sister was injured in an Eva battle, he took out his anger on Shinji by unfairly blaming him, but he reflected when he saw Shinji earnestly fighting the Angels. After that he became friends with Shinji, along with Kensuke. Later the Marduk Institute selected him as the Fourth Child, and he came to ride Evangelion Unit-03. However, during its activation test an Angel took it over, Unit-03 was defeated by Unit-01 using the Dummy Plug, and Toji himself was seriously injured.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 38,
+   "name_jp": "ゼーレ",
+   "name_en": "SEELE",
+   "en": "A secret organization that plans the Human Instrumentality Project. Its members appear to the outside world only as monolith-shaped holograms and voices.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 39,
+   "name_jp": "惣流・アスカ・ラングレー",
+   "name_en": "Asuka Langley Soryu",
+   "en": "The pilot of Evangelion Unit-02. The Second Child, selected by the Marduk Institute. She is one-quarter Japanese, with German blood as well, and is a genius girl who graduated from university at 14. She is proud and has absolute confidence in her own ability. For that reason she takes a condescending attitude toward other people, especially boys her own age. That attitude apparently stems from the fact that her mother was involved in Eva experiments and killed herself after being mentally contaminated. She can find her own worth only as an Eva pilot, and when that identity is lost, her mind begins to collapse.",
+   "notes": "",
+   "uncertain": [
+    "'[jp]' rendered 'one-quarter Japanese, with German blood as well' (eva wiki: one-quarter Japanese; German-Japanese mother)."
+   ]
+  },
+  {
+   "entry": 41,
+   "name_jp": "ダミープラグ",
+   "name_en": "Dummy Plug",
+   "en": "An entry plug developed so that an Evangelion can be operated without a pilot. Some kind of personality seems to have been implanted in it, and it works as a dummy for the pilot with respect to the Eva.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 42,
+   "name_jp": "第５使徒ラミエル",
+   "name_en": "Fifth Angel Ramiel",
+   "en": "The fifth Angel to be confirmed. It has an octahedral exterior and attacks approaching enemies with a powerful charged particle cannon. To defeat this Angel, NERV used a modified positron cannon for Evas (NERV specification), which required power supplied from all over Japan.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 43,
+   "name_jp": "第１３使徒バルディエル",
+   "name_en": "Thirteenth Angel Bardiel",
+   "en": "The thirteenth Angel to be confirmed. Lurking inside a cumulonimbus cloud, it made contact with Evangelion Unit-03, which was being transported to NERV's Second Experimental Site in Matsushiro, and immediately after the activation test it completely took over Unit-03 with Toji still inside, whereupon it was recognized as an Angel. It went as far as defeating Unit-00 and Unit-02, but was destroyed by Unit-01, which had activated the Dummy System.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 44,
+   "name_jp": "第１４使徒ゼルエル",
+   "name_en": "Fourteenth Angel Zeruel",
+   "en": "The fourteenth Angel to be confirmed. It invaded the Geofront from Tokyo-3 and, with overwhelming attack power surpassing any previous Angel, defeated Unit-02 and Unit-00. In the end it fought the berserk Unit-01 and was eaten.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 45,
+   "name_jp": "渚カヲル",
+   "name_en": "Kaworu Nagisa",
+   "en": "The Fifth Child, dispatched by SEELE. His background, like Rei Ayanami's, is entirely unknown. He has a startling ability to change his synchronization rate at will, which astonished the NERV staff. He actively approached Shinji, and Shinji opened his heart to his straightforwardness and kindness. However, he was in fact the 17th Angel Tabris, sent in by SEELE, and he entered Terminal Dogma with the unmanned Unit-02 in tow. In the end, at his own wish, he was crushed by Unit-01, which Shinji was riding. He loved songs and hummed Beethoven's Ninth.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 46,
+   "name_jp": "日向マコト",
+   "name_en": "Makoto Hyuga",
+   "en": "Belongs to Section 1 of the Operations Bureau at the NERV Headquarters Central Operations Command. He assists Misato in planning operations and handles operator duties such as analyzing the battle situation inside the base. He has feelings for Misato that go beyond those toward a mere superior, and he obtains top-secret information for her without caring that his own position may be endangered because of it.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 47,
+   "name_jp": "冬月コウゾウ",
+   "name_en": "Kozo Fuyutsuki",
+   "en": "The Deputy Commander of NERV. Always calm and composed, and a bit of a cynic. He has known Gendo since the time he was serving as an assistant professor at a university. His first impression of Gendo when they first met was \"an unpleasant man,\" but after Second Impact he became Gendo's collaborator. At times he voices negative opinions to Gendo, but he is one of the few people who understand Gendo's aims.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 48,
+   "name_jp": "洞木ヒカリ",
+   "name_en": "Hikari Horaki",
+   "en": "Shinji and the others' classmate and the class representative. A model student whose nickname is also \"Class Rep.\" She secretly has feelings for Toji, and promises to make a lunch box and bring it to Toji, who eats bread bought at the school store for lunch. However, because of the Unit-03 incident, this promise was never fulfilled in the original work. Incidentally, she was apparently drawn to Toji's \"kindness.\" She also has an older sister named Kodama and a younger sister named Nozomi.",
+   "notes": "",
+   "uncertain": [
+    "Nickname 'Class Rep' renders [jp] (iinchou)."
+   ]
+  },
+  {
+   "entry": 49,
+   "name_jp": "ＥＶＡ量産機",
+   "name_en": "Mass Production Evangelion",
+   "en": "The Evangelion series that SEELE, the secret organization managing the Human Instrumentality Project, sent to NERV Headquarters to stop Gendo, who was advancing his own plan outside its schedule. There are nine in all. Unlike the series up to then, their specifications include flight ability and the S2 Engine as standard equipment. Dummy Plugs are used to activate and operate them, and those seem to contain Kaworu Nagisa's data.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 166,
+   "name_jp": "カミーユ・ビダン",
+   "name_en": "Kamille Bidan",
+   "en": "A civilian boy who lived in Green Noa 1, a colony in Side 7. His hobbies include karate, piloting the Homo Abyss (a one-person small aircraft), and piloting junior mobile suits. He has a strong complex about his feminine-sounding name, and when he punched Jerid for laughing at it, he was taken away by the Titans. After that, through his contact with Quattro, who had infiltrated Green Noa, he joined the AEUG. On that occasion he put up a fight in the Gundam Mk-II, which he was riding for the first time, a performance that made Bright and the others call him \"the return of Amuro Ray.\" After joining the AEUG he continued to achieve great results, and with the blossoming of his Newtype ability he played an ace-class role. He also showed outstanding talent in mobile suit development, and the Mk-II's flying armor and the Zeta Gundam incorporate his ideas. His personality is a complex one in which sensitivity and ferocity, boyish honesty and calculating streaks coexist. At first he joined the fighting out of a vague anger at the Titans, but through his encounters with Quattro, Amuro and Four, he came to fight by his own will in order to bring the war to an end, and grew greatly as a person. He wins the decisive battle against Scirocco on the Colony Laser, but is driven to a mental breakdown. Afterward he spends a life of recuperation with Fa, but in \"Mobile Suit Gundam ZZ\" he guides Judau and Ple several times. He recovers in the final episode of that work.",
+   "notes": "",
+   "uncertain": [
+    "'Homo Abyss' is an unverified rendering of [jp].",
+    "'Jerid' and 'Four' are used as short names (Jerid Messa, Four Murasame)."
+   ]
+  },
+  {
+   "entry": 167,
+   "name_jp": "クワトロ・バジーナ",
+   "name_en": "Quattro Bajeena",
+   "en": "The leader of the Argama's mobile suit team. His rank is captain, but he is an important AEUG figure who not only fights as a pilot in the Rick Dias and the Hyaku Shiki but also gives his opinion on strategy. He habitually wears sunglasses, and there is much that is mysterious about his words and actions and his past. His true identity is Char Aznable, the Red Comet of Zeon, who was sent from Axis to scout the state of the Earth sphere. He noticed Kamille's Newtype potential early on and looked after him in various ways. At first he concentrated on being a pilot in order to fight the Titans, who threatened the position of the Spacenoids, but through his reunion with his former rival Amuro, the appearance of Scirocco, Blex's death and the speech at Dakar, he becomes a central figure of the AEUG. But after the battle with Haman's Qubeley at the Colony Laser, he goes missing. After that, Char never used the name Quattro again. Incidentally, quattro is the Italian word for the number 4, and it means the fourth name, following Casval, Edouard and Char.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 168,
+   "name_jp": "トーレス",
+   "name_en": "Torres",
+   "en": "A member of the Argama's bridge crew. He is in charge of deck command, communications and search. Partly because they were close in age, he was on friendly terms with Kamille. In \"Mobile Suit Gundam ZZ,\" due to a shortage of hands, there were scenes where he served as a pilot, and even after Judau and the others moved to the Nahel Argama he continued to serve aboard and assisted Beecha, who became acting captain.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 169,
+   "name_jp": "ファ・ユイリィ",
+   "name_en": "Fa Yuiry",
+   "en": "A girl who lived next door to Kamille's home in Green Noa 1. After her parents were captured by the Titans, she joined the AEUG and became a pilot. While in Green Noa 1, out of goodwill she wanted to look after Kamille in various ways, but after joining the AEUG she came to rely on Kamille out of anxiety and fear. And because she wanted Kamille to acknowledge her, she pushed herself too hard as a pilot many times. In order to nurse Kamille, whose mind collapsed in the final battle with Scirocco, she leaves the Argama early in \"Mobile Suit Gundam ZZ.\"",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 170,
+   "name_jp": "イーノ・アッバーブ",
+   "name_en": "Iino Abbav",
+   "en": "One of the junk dealer friends of Shangri-La and Judau's best friend. He is good with machines and was active not only as a pilot but also as a mechanic and as bridge crew. He has an honest personality and is a little timid, but he speaks up for his own opinion when he should, and sometimes took brave action for his friends. In the original work he also showed himself in drag along with Judau.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 171,
+   "name_jp": "エマリー・オンス",
+   "name_en": "Emary Ounce",
+   "en": "A woman who serves as acting captain of Anaheim's supply ship La Vie en Rose. Normally she is a capable commander who handles supply and other matters efficiently, but she has feelings for Bright that go beyond fondness, and she shows girlish bashfulness in front of him. In order to protect the Nahel Argama, she used La Vie en Rose as a shield and lost her life.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 172,
+   "name_jp": "エル・ビアンノ",
+   "name_en": "Elle Vianno",
+   "en": "One of the junk dealer friends of Shangri-La. Within the group she was mainly in charge of gathering information. Her personality is lively and spirited, and she was a quarreling friend of Judau, but inwardly she had feelings for him. After boarding the Argama, she burned with rivalry toward Roux and fought mainly in the Gundam Mk-II. In the course of the fighting she shows a girlish side in front of Judau several times, but in the end she responds to Beecha's feelings.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 173,
+   "name_jp": "エルピー・プル",
+   "name_en": "Elpeo Ple",
+   "en": "A girl who had been adjusted as a Newtype pilot at Axis. She took to Judau at first sight, and after Glemy's mind control was released, she became a member of the Argama. Her favorite food is chocolate parfait, and she loves baths too. Her everyday life is that of a young girl, and she often troubled Judau and the others with childlike selfishness and possessiveness. But deep inside, she was filled with the loneliness of having been raised as a warrior. Feeling responsible for Leina going missing, she tries to be an emotional support for Judau, but loses her life in the battle with Ple Two.",
+   "notes": "",
+   "uncertain": [
+    "Short name 'Ple' used per the glossary (the English LP spells it 'Puru')."
+   ]
+  },
+  {
+   "entry": 174,
+   "name_jp": "ジュドー・アーシタ",
+   "name_en": "Judau Ashta",
+   "en": "A civilian boy who lived in Shangri-La, a colony in Side 1. He supported himself and his younger sister Leina by working as a junk dealer. He tried to steal a mobile suit from the Argama when it docked, but through circumstance and his innate sense of justice, he drove off Yazan and Neo Zeon in the Zeta Gundam, and this led to his becoming a pilot belonging to the Argama. He is full of drive and vitality, with a constantly bright, positive personality. He fought for his friends and Leina, but as his friends and Leina were drawn into the fighting, he came to have a clear will to fight to end the war. He has high potential as a Newtype as well, and connected hearts with Haman, Ple and others. After winning the decisive battle with Haman, he joins the Jupiter Energy Fleet with Roux for further growth.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 175,
+   "name_jp": "ビーチャ・オレーグ",
+   "name_en": "Beecha Oleg",
+   "en": "One of the junk dealer friends of Shangri-La and the leader type among Judau and his group. However, because of his opportunistic and selfish personality, he is not trusted very much by his friends and often clashed with Judau. At one point, judging the situation, he considered siding with Neo Zeon together with Mondo, but in the end he returned to the Argama and fought mainly as the Hyaku Shiki's pilot. After Bright withdrew from the front, he held his friends together as captain of the Nahel Argama.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 176,
+   "name_jp": "プルツー",
+   "name_en": "Ple Two",
+   "en": "Ple's twin younger sister. She received even heavier mind control than Ple, and her personality is also more aggressive. Fighting as Glemy ordered, she takes Ple's life, but through meeting Judau she comes to doubt her own actions. In the final battle at Axis, riding the Quin Mantha, she finally leaves Glemy's side, also guided by Ple's soul. But her mind and body were already at their limit, and she gives out after guiding the escape of Judau, who had won the decisive battle with Haman.",
+   "notes": "",
+   "uncertain": [
+    "'Quin Mantha' is the Gundam wiki/standard spelling of [jp]."
+   ]
+  },
+  {
+   "entry": 177,
+   "name_jp": "モンド・アガケ",
+   "name_en": "Mondo Agake",
+   "en": "One of the junk dealer friends of Shangri-La. He gets along especially well with Beecha, and at one point they tried to leave the Argama together. Boasting outstanding mechanic's sense, he was active in the colony Moon Moon, for example by repairing an abandoned work mobile suit, a Catl. He was opportunistic by nature at first, but he grew as a person after meeting Rasara, the leader of Moon Moon.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 178,
+   "name_jp": "リィナ・アーシタ",
+   "name_en": "Leina Ashta",
+   "en": "Judau's younger sister. A kind-hearted girl who always worried about Judau, who ran a junk business, even while nagging him. After boarding the Argama she was in charge of cooking, laundry and the like, but by chance she was taken under Glemy's protection, and after that she received an education as a lady. When Neo Zeon occupied Dakar, she was shot by Haman while shielding Judau, and was further caught up in the fighting and went missing with her fate unknown. However, after all the battles are over, she is reunited with Judau safely thanks to Sayla Mass.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 179,
+   "name_jp": "ルー・ルカ",
+   "name_en": "Roux Louka",
+   "en": "A volunteer soldier of the AEUG who transported the ZZ Gundam's Core Fighter to the Argama. Her trademark is a pilot suit with a meteor marking. After Judau started riding the ZZ Gundam, she served as the Zeta Gundam's pilot. She has a strong-minded personality with a clear will of her own, and at times she clashed with Judau and the others, who were fighting by circumstance, but she gradually came to get along with them as comrades. She was also bewildered by Glemy Toto's one-sided advances, but when she shot him in the decisive battle at Axis, she wept alone. After all the battles are over, she joins the Jupiter Energy Fleet with Judau.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 180,
+   "name_jp": "アムロ・レイ",
+   "name_en": "Amuro Ray",
+   "en": "The captain who leads the mobile suit unit of the Londo Bell unit. In the One Year War he piloted the RX-78 Gundam, left record-setting results, and at the same time made the Federation aware of the real existence of Newtypes. After the war, however, he was forced to live under house arrest by the Earth Federation, which feared his power. Afterward he joined Karaba, the AEUG's support organization, and served as leader of its mobile suit unit. After the First Neo Zeon War he belonged to Londo Bell, the Federation Forces' external independent unit, and fought the Neo Zeon forces led by his archrival Char Aznable, who was advancing the Earth cooling operation. At the time of the One Year War he was a nervous boy in whom sensitivity and dependence coexisted, but through his encounters during the war he awakened as a Newtype, and through various experiences he grew greatly as a person. After stopping Axis from falling to Earth in the Second Neo Zeon War, he goes missing together with his beloved Nu Gundam, which he himself took part in designing, and with Char.",
+   "notes": "",
+   "uncertain": [
+    "'Earth cooling operation' ([jp]) is a literal rendering."
+   ]
+  },
+  {
+   "entry": 181,
+   "name_jp": "チェーン・アギ",
+   "name_en": "Chan Agi",
+   "en": "A technical officer of the Earth Federation Forces who is in charge of adjusting the Nu Gundam. She has feelings for her superior Amuro, and burns with extraordinary enthusiasm for adjusting the psycho-frame so as to be of help to him. During the battle at Axis, thinking that even a little would add to his strength, she tries to deliver a psycho-frame sample to Amuro and goes onto the battlefield in a half-destroyed Re-GZ. Then she cuts in between Hathaway and Quess and shoots down the Alpha Azieru, but she is shot and killed by Hathaway, who has flown into a rage over Quess being killed.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 182,
+   "name_jp": "ブライト・ノア",
+   "name_en": "Bright Noa",
+   "en": "He served as captain of the White Base in the One Year War, as captain of the Argama in the AEUG, and as captain of the flagship Ra Cailum in Londo Bell as well. He has decisiveness and judgment based on abundant combat experience.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 282,
+   "name_jp": "朝比奈浩子",
+   "name_en": "Hiroko Asahina",
+   "en": "Ayato's classmate. She is going out with Mamoru Torigai but casts meaningful glances at Ayato. She always acts cheerful, such as by teasing Ayato, but she is the type to keep her true feelings to herself. On the subway heading to the mock exam site, she was caught up, together with Ayato and Mamoru, in a derailment caused by Operation Overlord.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 283,
+   "name_jp": "一色真",
+   "name_en": "Makoto Isshiki",
+   "en": "An Earth Federation inspector sent to TERRA. 29 years old. His name is read \"Isshiki Makoto\" (family name first). His career is unknown in detail and wrapped in mystery. He has known Itsuki Kisaragi since childhood, but they are not on good terms. He is ambitious and repeatedly speaks and acts as if looking down on others, and he especially said harsh words to Ayato. He has no hesitation about treating people as tools and can betray others without a second thought. He will use any means to gather information, and exploited the feelings of Sayoko Nanamori, who has feelings for Itsuki Kisaragi. TERRA staff privately gave him the nickname \"White Snake.\"",
+   "notes": "",
+   "uncertain": [
+    "The 'read as ...' note keeps the Japanese-order name; the English name order is Makoto Isshiki."
+   ]
+  },
+  {
+   "entry": 284,
+   "name_jp": "鳥飼守",
+   "name_en": "Mamoru Torigai",
+   "en": "Ayato's classmate. He is Hiroko Asahina's boyfriend and Ayato's best friend. He has a light-hearted personality and is good at cracking jokes and playing the fool, but he is always shot down by Hiroko. Together with Ayato and Hiroko, he was caught up in a derailment caused by Operation Overlord on the subway heading to the mock exam site.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 285,
+   "name_jp": "エルフィ・ハディヤット",
+   "name_en": "Elvy Hadhiyat",
+   "en": "An ace pilot belonging to the Federation. 27 years old. She was the only survivor of Operation Overlord, and when she learned that the real objective had been to seize Ayato, she vented her anger on Haruka. At first she disliked Ayato because her comrades had been wiped out in an operation whose only purpose was to seize him, but she gradually warmed to him. Transferred from the Federation to the TERRA air wing, she organized Alpha Squadron together with her former comrades and serves as its leader. She has the Indonesian nickname \"Bunga Mawar\" (a rose). She is bold, but because she cares about her subordinates she was adored by the Alpha Squadron members. As a soldier she dislikes naive thinking about the Mu, and she doubts the wisdom of making a child, Ayato, fight. At the same time, however, she agonizes over her raison d'etre as a professional soldier. She is a bit of a bad drunk, and after drinking with Haruka she often picks on Ayato.",
+   "notes": "",
+   "uncertain": [
+    "'Mu' here is rendered 'the Mu' (the Mulians' civilization/forces)."
+   ]
+  },
+  {
+   "entry": 286,
+   "name_jp": "エルンスト・フォン・バーベム",
+   "name_en": "Ernst von Bahbem",
+   "en": "The head of the Bahbem Foundation. His age is unknown. He gives TERRA financial aid and technical support, and is a powerful figure who can apply pressure even to the Federation. He lives on Karun Mutiana Island. The foundation's predecessor, the Naacal Trading Company, was founded in 1576, but the first head's name and appearance are the same as the current Bahbem's. With technology applying excavated OOPArts and the patents for it, he controls the world economy from behind the scenes, a mysterious old man called \"the modern-day Rasputin.\"",
+   "notes": "",
+   "uncertain": [
+    "'Karun Mutiana Island' ([jp]) is a romanization with no English source."
+   ]
+  },
+  {
+   "entry": 287,
+   "name_jp": "神名綾人",
+   "name_en": "Ayato Kamina",
+   "en": "A 17-year-old boy who was a high school student in TOKYO JUPITER but, after meeting RahXephon, follows a twist of fate. An artistic boy whose hobby is painting, he wants to become a painter in the future. His father is absent and he lives with his mother, Maya Kamina, but they have little interaction, so he does not think much of her. When TOKYO JUPITER was invaded, he met Haruka, learned the truth of the world, and boarded RahXephon in the Room of Rah as it led him. He is easily swept along by his surroundings, but he is the type to come through when it matters. His emotions swing widely, and toward people he dislikes he tends to avoid rather than resist. When he first escaped from TOKYO JUPITER, he felt that values different from his previous ones were being forced on him and felt resistance, but this gradually faded through contact with various people, and he grew as a person. His sense of fashion seems slightly off.",
+   "notes": "",
+   "uncertain": [
+    "The mother is 'Maya Kamina' from the glossary; the Japanese just says [jp]."
+   ]
+  },
+  {
+   "entry": 290,
+   "name_jp": "真聖綾人",
+   "name_en": "Shinsei Ayato",
+   "en": "The form of Ayato who has reached the true heart \"Yolteotl.\" In this form he has lost his human heart and obtained a god's heart, and he is no longer human. For that reason he does not die even if he is shot. He can change into Shinsei RahXephon at will. Ixtli, in the form of Reika Mishima, appears before Ayato, who moved other people's hearts through his painting, and Ayato once rejected Ixtli. But his feelings for Haruka made Ayato grow enough to accept Ixtli. Incidentally, the reason Ayato's Ixtli had the form of Reika Mishima is that it extracted Haruka's appearance as a teenager, and his romantic feelings for her, from his erased memories. In the world of tuning, Ayato had almost lost the memories of other people. The form in which he has obtained the true face \"Ixtli\" and the deified heart \"Yolteotl\" is called \"Ixtli in Yolteotl,\" and it indicates one who has become a complete human.",
+   "notes": "",
+   "uncertain": [
+    "'Ixtli in Yolteotl' follows the game's [jp] (the game spells the second word differently from [jp]).",
+    "'it extracted': subject of the extraction read as Ixtli; 'his romantic feelings for her' = [jp] for Haruka."
+   ]
+  },
+  {
+   "entry": 291,
+   "name_jp": "神名麻弥",
+   "name_en": "Maya Kamina",
+   "en": "Ayato Kamina's mother and a powerful Mulian. Perhaps because it is just the two of them, she dotes on Ayato, but Ayato does not seem to feel the same way. She holds full authority over the Mu Tokyo Government-General, and when the attack on Tokyo began she gave orders from the Tokyo Government-General's central command room. She has supernatural powers such as levitation, and when RahXephon awoke, she cut her cheek on a flying fragment and shed blue blood. She is extremely composed, and even when Ayato escaped from TOKYO JUPITER she saw him off fearlessly.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 292,
+   "name_jp": "如月樹",
+   "name_en": "Itsuki Kisaragi",
+   "en": "Chief of the Analysis Section of the TERRA Science Research Department. 29 years old. In addition to specializing in research on music centered on the D1 aria emitted by Dolems, he is also in charge of analyzing RahXephon and the OOPArts of the Neriya Temple. He was a university classmate of Haruka, and they once went out together. He currently lives in a mansion with his younger sister, Quon Kisaragi, and his favorite drink is tomato juice. He also paints as a hobby. He has strong self-control and always acts cheerful, but seems to hold complex feelings toward Ayato. Like Quon, Itsuki sometimes calls Ayato \"Ollin.\"",
+   "notes": "",
+   "uncertain": [
+    "'Neriya Temple' is a literal rendering."
+   ]
+  },
+  {
+   "entry": 293,
+   "name_jp": "如月久遠",
+   "name_en": "Quon Kisaragi",
+   "en": "The younger sister of Itsuki Kisaragi of the TERRA Science Research Department. Her age, birthday, affiliation and so on are all unknown, and although she is not a TERRA employee she is allowed in the command center and to take part in operations. She lives with her brother, and her favorite drink is a blue drink. She likes music, and plays the piano and the violin herself. She undergoes examinations almost every day, and always wears a Life Module because it is necessary for sustaining her life. She is a mysterious girl who now and then murmurs poetic words that accurately capture incidents and features that are yet to occur. She is easygoing and keeps her own pace, and somehow has a world of her own. Her catchphrase is \"Ra-ra...,\" which she often hummed in the middle of conversations. She calls Ayato \"Ollin\" and has a mysterious mark on her abdomen.",
+   "notes": "",
+   "uncertain": [
+    "Catchphrase rendered 'Ra-ra...' ([jp]…); the Wikipedia list gives 'Ra-ra' / 'La-la'."
+   ]
+  },
+  {
+   "entry": 294,
+   "name_jp": "真聖久遠",
+   "name_en": "Shinsei Quon",
+   "en": "The form of Quon who has reached the true heart \"Yolteotl.\" Whereas Ayato found himself through painting, Quon found her own song by playing the piano. In the world of tuning she acted as if guiding Ayato.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 295,
+   "name_jp": "キム・ホタル",
+   "name_en": "Kim Hotal",
+   "en": "An operator in TERRA's Operations Department. 18 years old, with the rank of second lieutenant. Her emotions run strong, and when the Dolem that killed her parents appeared, she became furiously angry at the insensitive Ayato. She is also a sentimental type who can cry for others. She is secretly going out with Soichi Yakumo without telling anyone around her, and she is troubled when she learns of Megumi's feelings for Soichi. Incidentally, her name is written with the Chinese characters for \"gold,\" \"lake\" and \"moon.\"",
+   "notes": "The Japanese gives the characters [jp]; rendered by meaning because the kanji cannot be shown in ASCII.",
+   "uncertain": [
+    "Kanji-by-meaning rendering of the name note."
+   ]
+  },
+  {
+   "entry": 296,
+   "name_jp": "九鬼正義",
+   "name_en": "Masayoshi Kuki",
+   "en": "Commander of the Mu Tokyo Government-General Defense Force. Although he was a soldier belonging to the Ministry of National Defense, he defected to the Mu side during the First Mu War and took the post of the person responsible for commanding the defense of the capital. Like the Public Security, he is thought to have been turned into a sub-Mulian. He is servile and timid toward those stronger than himself, and takes an arrogant attitude toward the weak. Because of that, he apparently cannot hold his head up before Maya. He also seems to have a deep-rooted history with Kunugi.",
+   "notes": "",
+   "uncertain": [
+    "'Ministry of National Defense' ([jp]) is a literal rendering; the Rah wiki says 'Nation Defense'.",
+    "'Public Security' = [jp]."
+   ]
+  },
+  {
+   "entry": 297,
+   "name_jp": "功刀仁",
+   "name_en": "Jin Kunugi",
+   "en": "The TERRA Commander. 43 years old. His name is read \"Kunugi Jin\" (family name first). TERRA is an abbreviation of Tereno (special domain), Empireo (heaven, highest heaven), Rapidmova (rapid), Reakcii (reaction), Armeo (army). He is strict about discipline and has a stern face, but is trusted by his subordinates. With his keen insight, he chose words that carried his real intent and repeatedly provoked Ayato. He is calm and composed and always shows a severe expression as TERRA's commander, but he also has the unexpected side of keeping a blue bird, \"Michiru,\" in his own room. He has lived apart from his wife, Mariko, for a long time, and the cause seems to lie in the First Mu War.",
+   "notes": "",
+   "uncertain": [
+    "The game prints 'Eepireo'; corrected to 'Empireo' following the RahXephon wiki/Wikipedia (Tereno Empireo Rapidmova Reakcii Armeo).",
+    "Nothing in the Japanese settles the order of the abbreviation letters beyond what is printed."
+   ]
+  },
+  {
+   "entry": 298,
+   "name_jp": "公安",
+   "name_en": "Public Security Agent",
+   "en": "A public security agent of TOKYO JUPITER. The agent tries to abduct Ayato but is resisted by him, and bleeds blue blood from the cheek. After that, the agent is kicked down by Haruka.",
+   "notes": "Gender-neutral on purpose; no source settles the gender.",
+   "uncertain": []
+  },
+  {
+   "entry": 299,
+   "name_jp": "紫東遙",
+   "name_en": "Haruka Shitow",
+   "en": "An intelligence analysis officer in TERRA's Operations Department. Her rank is special captain. 29 years old. A professional who handles anything without a hitch, from hand-to-hand combat to piloting fighters. Even when those around her are excited, she does her work at her own pace and sees through what she has decided. During Operation Overlord she infiltrated TOKYO JUPITER, rescued Ayato, who was about to be abducted by Public Security, and told him the truth of the world. Her personality is cheerful with a motherly side, but at times she acts like an adolescent girl, such as by giving Ayato hand-knitted gloves. She seems to have known Itsuki Kisaragi from before she joined TERRA. She is Elvy's drinking buddy, and they often went out for yakiniku. She lives in the Rikudo house with her younger sister Megumi and her uncle Shougo, and has unusual eating habits, such as putting sugar on natto and putting mayonnaise on her rice.",
+   "notes": "",
+   "uncertain": [
+    "Uncle named by given name only in the Japanese ([jp]) = Shougo Rikudo from the glossary.",
+    "'special captain' = [jp]."
+   ]
+  },
+  {
+   "entry": 300,
+   "name_jp": "紫東恵",
+   "name_en": "Megumi Shitow",
+   "en": "A trainee operator in TERRA's Operations Department. 14 years old. She refuses to go to school and has a complex about her older sister Haruka. She has a faint crush on Soichi Yakumo, and she is best friends with fellow operator Kim, but she does not know that Soichi and Kim are going out. When she was 8, she and Haruka were taken in by their uncle Shougo. She is bright and lively, and has a heart capable of attentive consideration. At Shougo's suggestion, she showed Ayato, who had been decided to lodge at the Rikudo house, around Negoro Island, and they drank ramune together at a candy store. Since they were close in age and had been something like quarreling friends, they quickly warmed to each other.",
+   "notes": "",
+   "uncertain": [
+    "'Negoro Island' is a literal rendering of [jp]; no source.",
+    "The final sentence's subject is Megumi and Ayato (they)."
+   ]
+  },
+  {
+   "entry": 302,
+   "name_jp": "七森小夜子",
+   "name_en": "Sayoko Nanamori",
+   "en": "A scientist who serves as Itsuki Kisaragi's assistant. 28 years old. Because she secretly harbors feelings for Itsuki, she plays the part of Haruka's friend, but inwardly she holds intense rivalry. She is acutely conscious of being looked at by others and does not wear her glasses in front of men, but when the other person's gaze turns away, her true feelings seem to show on her face. Normally she is calm, but she suddenly snaps, so she seems to be the type who cannot control her emotions. She also has a past in which her father and brother died in the Bahbem Foundation's basic research on TDD.",
+   "notes": "",
+   "uncertain": [
+    "'TDD' kept as printed ([jp]), related to the TDDU system."
+   ]
+  },
+  {
+   "entry": 303,
+   "name_jp": "ヘレナ・バーベム",
+   "name_en": "Helena Bahbem",
+   "en": "The niece and secretary of Lord Bahbem. 29 years old. She has a way of looking down on others from a transcendent height, as if she had seen through everything. She is an old acquaintance of Itsuki Kisaragi and Makoto Isshiki, but both of them have been uneasy around her, then and now. She is calm and composed and almost never shows her emotions. As an envoy of the Bahbem Foundation, she visited Nirai Kanai together with the delivery of the Vermillion.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 304,
+   "name_jp": "美嶋玲香",
+   "name_en": "Reika Mishima",
+   "en": "A beautiful girl who guides the awakening of Ayato and RahXephon. She resembles the girl in the painting that Ayato was in the middle of painting. She encountered Ayato in a corner of the ruined TOKYO JUPITER and whispered meaningful words to him. She has special abilities, such as guiding the ALIEL that Haruka was riding to the Room of Rah and activating RahXephon with her song. She was thought to have died when Ayato escaped from Tokyo, but she is a mysterious person who appears before Ayato again and again and acts as if guiding him.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 305,
+   "name_jp": "弐神譲二",
+   "name_en": "Johji Futagami",
+   "en": "A reporter from Amato News who came to Nirai Kanai for an exclusive interview. 36 years old. His name is read \"Futagami Johji\" (family name first). He excels at gathering and organizing information, and is independently investigating the course of the Mu War and the Shrine of Time and so on. He also links the other party's behavioral psychology and relationships to various mysteries, and asks key persons questions that strike at the heart of the matter. He is capable enough to obtain important secrets and classified documents, yet he speaks in a flippant, grinning manner and is a person whose hidden side cannot be seen.",
+   "notes": "",
+   "uncertain": [
+    "'Mu War' ([jp]) rendered 'the Mu War'; the earlier text says 'First Mu War' for [jp]."
+   ]
+  },
+  {
+   "entry": 306,
+   "name_jp": "三輪忍",
+   "name_en": "Shinobu Miwa",
+   "en": "An officer of the Mu Tokyo Government-General Defense Force. Like Kuki, she was a soldier belonging to the Ministry of National Defense, but she defected to the Mu side during the First Mu War. Her goal is the completion of a utopia, and she seems to have cooperated with the Mu for that purpose. In battle she judges the situation calmly and objectively, and is entrusted with Dolem operations. She, too, is thought to have been turned into a sub-Mulian.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 307,
+   "name_jp": "ムーリアン・アレグレット",
+   "name_en": "Mulian Allegretto",
+   "en": "The operator of the Dolem Allegretto. When a Dolem sorties, the Mulian appears in places such as the Mu Tokyo Government-General's central command room. A Mulian is paired with its Dolem, and when the Dolem is destroyed, the Mulian disappears as well. The body is transparent, and it is unknown whether it has substance.",
+   "notes": "",
+   "uncertain": [
+    "Gender not settled; 'the Mulian ... its Dolem' used, 'it' only for the body."
+   ]
+  },
+  {
+   "entry": 308,
+   "name_jp": "ムーリアン・ヴィブラート",
+   "name_en": "Mulian Vibrato",
+   "en": "A Mulian that possessed Hiroko Asahina. Unlike other Mulians, because it has taken hold of a human, it has substance. Because it is synchronized with Hiroko, when the Dolem Vibrato is wounded, Hiroko is hurt too. It kept frightening Hiroko, for example by appearing in the dreams of Hiroko, who was living as a fugitive with Ayato. When the Dolem Vibrato appeared and Ayato boarded RahXephon, it fully synchronized with Hiroko, but it was not able to completely take over Hiroko's will.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 309,
+   "name_jp": "ムーリアン・グラーベ",
+   "name_en": "Mulian Grave",
+   "en": "The operator of the Dolem Grave.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 310,
+   "name_jp": "ムーリアン・ビバーチェ",
+   "name_en": "Mulian Vivace",
+   "en": "The operator of the Dolem Vivace. This Mulian swallowed RahXephon into phase space and made Ayato see an illusion that he was in TOKYO JUPITER.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 311,
+   "name_jp": "ムーリアン・メトロノーム",
+   "name_en": "Mulian Metronome",
+   "en": "The operator of the Dolem Metronome.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 312,
+   "name_jp": "八雲総一",
+   "name_en": "Soichi Yakumo",
+   "en": "The TERRA Deputy Commander. 22 years old, with the rank of major. His name is read \"Yakumo Souichi\" (family name first). He and Kunugi place absolute trust in each other, and he often takes command in the field in place of Kunugi, who is frequently away. He is affable and attentive even to small details, so he is a prince-like figure who is very popular with both men and women. Although he never loses his smile, he handles things carefully so as not to get too deeply involved, so he sometimes gives a cold impression, but he seems to hold a fervent conviction in the depths of his heart. Incidentally, feeding the blue bird that Kunugi keeps is mostly Soichi's job. He is going out with Kim, but keeps it secret from those around him.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 313,
+   "name_jp": "六道翔吾",
+   "name_en": "Shougo Rikudo",
+   "en": "The uncle of Haruka and Megumi. 62 years old. A former archaeologist. His name is read \"Rikudou Shougo\" (family name first). A person of character who shows propriety and common sense with few words. He is something like a foster father to Megumi, and taught her \"Do not do to others what you would not want done to you.\" For Ayato, who lodged at the Rikudo house, he made a nameplate, and with his attitude of acting without words he opened Ayato's heart. He is an old acquaintance of Watari and Kunugi and a good advisor to them as well. He should be a shogi master, but he apparently lost to Quon now and then.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 314,
+   "name_jp": "亘理士郎",
+   "name_en": "Shirow Watari",
+   "en": "The Director of TERRA. 60 years old. His name is read \"Watari Shirou\" (family name first). Because he flies around the world to coordinate and negotiate with the parties concerned, he is often absent from TERRA headquarters and leaves the running of the organization to Kunugi. His hobby is buying souvenirs at his business trip destinations. For some reason he puts on a solemn expression when he is with Itsuki Kisaragi. Although he has a rugged appearance, he has a humorous side, and on seeing RahXephon and Alpha Squadron he muttered, \"Cool...\"",
+   "notes": "",
+   "uncertain": [
+    "'[jp]' rendered 'Cool...'."
+   ]
+  },
+  {
+   "entry": 315,
+   "name_jp": "アクア・ケントルム",
+   "name_en": "Aqua Centrum",
+   "en": "An operator who teams up with #男愛称 and boards the Tsentr Project prototypes. She has a spirited and cheerful personality. Unlike #男愛称, she grew up in a wealthy family and graduated from the military academy with excellent grades. Incidentally, the outfit that looks like a swimsuit is called a DFC (Direct Feeling Control) suit, and it is necessary for adjusting the TE Engine's output, assisting machine control, collecting combat data and so on. Age 23, rank ensign.",
+   "notes": "The Japanese contains the text placeholder #男愛称 (the male protagonist's nickname variable). Kept verbatim because it is a runtime placeholder; count its expanded width, not its 4 characters.",
+   "uncertain": [
+    "Placeholder #男愛称 kept in the English text (non-ASCII by necessity).",
+    "Rank [jp] rendered 'ensign' per the SRW wiki."
+   ]
+  },
+  {
+   "entry": 316,
+   "name_jp": "アルベロ・エスト",
+   "name_en": "Albero Est",
+   "en": "A former Federation soldier. He once served as the commander of the special unit \"Cry Wolves,\" to which #男愛称 used to belong. A bold character and an excellent humanoid mobile weapon pilot. He was a teacher to #男愛称 and a father-like figure as well. He left the army because of a certain incident and went missing, but he seized the Medius Locus together with Eldy Middi. Age 46.",
+   "notes": "The Japanese contains the text placeholder #男愛称 (the male protagonist's nickname variable). Kept verbatim; count its expanded width.",
+   "uncertain": [
+    "Placeholder #男愛称 kept in the English text.",
+    "Name spelling 'Albero Est' follows the SRW wiki; other sources say 'Albero Est'."
+   ]
+  },
+  {
+   "entry": 317,
+   "name_jp": "エルデ・ミッテ",
+   "name_en": "Eldy Middi",
+   "en": "A researcher of combat artificial intelligence who rides the Medius Locus as its operator. She acts on the instructions of Dr. Mitar Zapat, but her true purpose is unknown. She developed the special combat AI \"AI1 (A-I-One)\" for the Medius Locus and dotes on it like her own child. Age 30.",
+   "notes": "",
+   "uncertain": [
+    "Name spelling 'Eldy Middi' follows the SRW wiki; other sources say 'Elde Mitte'.",
+    "'Dr. Mitar Zapat' (SRW wiki page title; other spelling Mitall Zapato)."
+   ]
+  },
+  {
+   "entry": 322,
+   "name_jp": "ヒューゴ・メディオ",
+   "name_en": "Hugo Medio",
+   "en": "From the Federation Army's special unit \"Cry Wolves.\" He currently participates in the \"Tsentr Project\" being pursued within the Federation Army, and serves as the test pilot of the prototypes, teamed up with #女愛称. Because he has faced poverty since he was a child, he has a strong attachment to life. His emotions swing widely, but he is usually somewhat short on words. Age 20, rank ensign.",
+   "notes": "The Japanese contains the text placeholder #女愛称 (the female protagonist's nickname variable). Kept verbatim; count its expanded width.",
+   "uncertain": [
+    "Placeholder #女愛称 kept in the English text."
+   ]
+  },
+  {
+   "entry": 323,
+   "name_jp": "ミタール・ザパト",
+   "name_en": "Mitar Zapat",
+   "en": "The person in charge of the Tsentr Project. He is also the developer of the TE Engine and Lasmunanium. While knowing that he is using the military for his own research and that the military is also using him, he is advancing his own project beneath the surface. Age 56.",
+   "notes": "",
+   "uncertain": [
+    "'Mitar Zapat' follows the SRW wiki page title; alternatives Mitall Zapato (LP), Mitarl Zapad (wiki list)."
+   ]
+  },
+  {
+   "entry": 337,
+   "name_jp": "サエグサ",
+   "name_en": "Saegusa",
+   "en": "A member of the Argama's bridge crew. He is in charge of navigation and steering. A quiet, inconspicuous type.",
+   "notes": "",
+   "uncertain": []
+  },
+  {
+   "entry": 339,
+   "name_jp": "相田ケンスケ",
+   "name_en": "Kensuke Aida",
+   "en": "Shinji's classmate. He, Shinji and Toji are called the \"Three Idiots Trio\" by their classmates. He has been Toji's best friend since before Shinji transferred in. A military maniac, he showed an interest in the Eva too, and finally begged Misato to let him ride an Eva. He always carries a video camera, and happily films whenever he finds anything weapon-related.",
+   "notes": "",
+   "uncertain": [
+    "'Three Idiots Trio' is a literal rendering of [jp]."
+   ]
+  },
+  {
+   "entry": 342,
+   "name_jp": "公安",
+   "name_en": "Public Security Agent",
+   "en": "A public security agent of TOKYO JUPITER. The agent points a gun at Ayato's head to abduct him, but is knocked unconscious by a knee to the face from Haruka, who appears suddenly. The agent was beside Maya in the Room of Rah, and was swallowed by rubble when Allegretto appeared.",
+   "notes": "Gender-neutral on purpose; no source settles the gender.",
+   "uncertain": []
+  },
+  {
+   "entry": 388,
+   "name_jp": "ＡＩ１",
+   "name_en": "AI1",
+   "en": "The form in which the core housing AI1 has grown huge and fused with the TE Engine through the runaway self-repair and self-evolution abilities of the Lasmunanium. True to its name, \"ALL In 1,\" it tries to take everything into its own body.",
+   "notes": "fix_C.txt lists no owner record for this pilot entry; the text clearly describes the AI1 boss form, so it is kept under AI1.",
+   "uncertain": [
+    "No owner record in the corrections file; name kept as AI1 because the text is about the AI1 core.",
+    "Name printed 'ALL In 1' in the game (glossary: All In 1)."
+   ]
+  },
+  {
+   "entry": 389,
+   "name_jp": "ダミー",
+   "name_en": "Dummy",
+   "en": "None.",
+   "notes": "fix_C.txt lists no owner record for this pilot entry; the Japanese text is [jp] ('none'), so it is a placeholder.",
+   "uncertain": [
+    "No owner record; placeholder entry."
+   ]
+  }
+ ]
+}

@@ -3387,7 +3387,7 @@
    "kind": "thought",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "For me to fight Albero Esto... and the Medius Locus...",
+   "en": "For me to fight Albero Est... and the Medius Locus...",
    "translation_owner": {
     "source": "work/translation/en/script/stage22_campaign.json",
     "id": 52
@@ -8504,12 +8504,12 @@
    "kind": "dialogue",
    "speaker_jp": "#女愛称",
    "speaker_en": "#女愛称",
-   "en": "I'll think about what I need to do so the two of us can get proper results together.",
+   "en": "I'll think about what I can do so the two of us can work effectively as a team.",
    "translation_owner": {
     "source": "work/translation/en/script/stage22_campaign.json",
     "id": 351
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Rephrases the literal 'get proper results together' as natural English while preserving Aqua's resolve to make their partnership work.",
    "uncertain": []
   },
   {
@@ -9095,7 +9095,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 22,
-  "fingerprint": "88bfc4077e9bb01e8d829a4ff6b83efa1d4710801088d6306fdb3a4fd67a22f7",
+  "fingerprint": "47c2f314cf2aa84dee93a755ecbd287381850f12a3d674b5db281e99bc99c86c",
   "reviewed_reused_ids": [
    16,
    27,
@@ -9268,7 +9268,7 @@
   "reviewed_reused_rows": 167,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all385 fresh candidates and six reports, all26 fresh flags against original Japanese, and all167 reused rows in every actual use and final neighbors (143 generic battle rows verified against identical template;24 other shared rows read individually). Meaning corrections precede source-backed name pass. Reviewed compressed69/235 against full initial drafts, exclusive defense/evasion preserved;274 Commander source position. Radio fool/idiot callback and gorilla soundplay coordinated, provisional names/localization and plural scope retained. Exact placeholders/hidden labels/prefills preserved; no remaining source-backed naming changes."
+  "note": "Coordinator read all385 fresh candidates and six reports, all26 fresh flags against original Japanese, and all167 reused rows in every actual use and final neighbors (143 generic battle rows verified against identical template;24 other shared rows read individually). Meaning corrections precede source-backed name pass. Reviewed compressed69/235 against full initial drafts, exclusive defense/evasion preserved;274 Commander source position. Radio fool/idiot callback and gorilla soundplay coordinated, provisional names/localization and plural scope retained. Exact placeholders/hidden labels/prefills preserved; no remaining source-backed naming changes. 2026-10-09: All Chapter 22 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 552,

@@ -1,5 +1,460 @@
 # Changelog
 
+## Local PSP 0.4.29 — 2026-10-11
+
+- Returned the two-line credit/version to the bottom right and removed the
+  dark panel, as requested. Retained larger 14px white outlined text. Restored
+  the temporary upper-left panel area to original transparent pixels.
+- Fresh-booted the actual candidate with texture replacement disabled.
+  Native 480×272 title-menu readback shows `v0.4.29` and the credit above the
+  menu. The complete loaded title texture matches the ISO.
+- Preserved all disc bytes outside declared footer areas, the palette, logo
+  artwork outside the new text area, and the 0.4.28 Name caption. Verified
+  version regeneration, idempotence and rejection of unknown title artwork.
+- Recorded the user's bottom-right/no-panel preference in AGENTS.md. Local
+  footer-only candidate over 0.4.28; no release requested. Later campaign
+  proofreading remains source-only.
+
+## Local PSP 0.4.28 — 2026-10-11
+
+- Shortened the rename-screen caption from **Squad Name** to **Name**, as
+  requested, removing its overlap with Magnet X. Updated the shared UI source
+  and its English-only copy so future PSP/PS2 builds use the same caption.
+- Built a local PSP candidate over 0.4.27. Only the two existing terminated
+  caption allocations and the exact `v0.4.28` title-footer pixels change;
+  pointers, file positions/sizes, scene commands and all other disc bytes pass
+  preservation checks.
+- Fresh-booted the candidate with a separate copy of the supplied save and
+  verified the native rename screen: Name and Magnet X have a visible gap.
+  The save copy remains byte-identical to the incoming fixture. Evidence is
+  in `work/ui/psp/squad_name_0.4.28` and the two
+  `psp_squad_name_label_0.4.28_*` records in `work/output`.
+- No PS2 candidate or release created for this caption change. Later campaign
+  proofreading remains source-only.
+
+## Local PSP 0.4.27 — 2026-10-11
+
+- Increased the native title credit/version from 10px to 14px and moved both
+  lines to an opaque dark panel in the upper-left clear sky. The old footer
+  area is restored to its original transparency; logo artwork is preserved.
+- Fresh-booted the actual ISO in an isolated PPSSPP profile with texture
+  replacement disabled. Both lines are readable at native 480×272 and clear
+  of the title menu. The complete loaded title texture matches the ISO.
+- Verified exact `v0.4.27`, palette preservation, unchanged disc bytes outside
+  the two declared footer areas, idempotence and future version regeneration.
+  Records: `psp_title_footer_0.4.27_verification.json` and
+  `psp_title_footer_0.4.27_runtime.json` in `work/output`.
+- Footer-only local build over 0.4.25; later story proofreading remains
+  source-only. No release requested.
+
+## Local PS2 0.4.26 title-footer correction — 2026-10-11
+
+- Reproduced the missing footer in a fresh native PS2 0.4.25 title menu.
+  IM background #141 is not the animated live title rendering path; earlier
+  PS2 bitmap readback did not establish title visibility.
+- Added a native title draw callback with private font context, right-aligned
+  version and `github.com/retro-trans`, gated to title/menu states. The local
+  0.4.26 candidate builder removes the registered footer from the unused static
+  background and preserves unrelated game files and ISO9660/UDF agreement.
+- Updated footer readback and build integration for the native PS2 renderer.
+  Candidate construction and disc checks passed, as did 42 title-state/phase
+  execution cases. Computer use was stopped by
+  the user's Escape key before live 0.4.26 title verification; visual placement
+  remains pending. The owned emulator was stopped; normal instances untouched.
+- No release requested. Later story proofreading remains source-only.
+
+## Local PSP and PS2 0.4.25 — 2026-10-11
+
+- Set the native default squad name to **Magnet X**, replacing Magnate Ten.
+  The new default is eight characters including its space, fitting the native
+  squad-name limit. Existing saved names and the dynamic `#部隊名` dialogue
+  substitution are preserved.
+- Updated the shared boot-UI translation and recorded the explicit user
+  terminology choice in the glossary. Local incremental candidates change
+  only the terminated default-name text allocations and exact version footer:
+  two executable copies on PSP and one on PS2. Scene commands, pointers,
+  file sizes/positions and all other disc bytes pass preservation checks.
+- Copied the four files from `incoming/ULJS000410002` into the regular PPSSPP
+  savedata directory and verified identical hashes. The destination slot did
+  not previously exist; other saves are unchanged.
+- Fresh-booted PSP 0.4.25 in an owned test profile with a separate save copy,
+  cheats/plugins/texture replacement disabled. The game loaded the supplied
+  save, reached the naming scene, displayed Magnet X as the initial value and
+  Reset value, and rendered Ruri's line as "Let's call it Magnet X."
+- Local default-name candidates over 0.4.24; later campaign proofreading and
+  the Hau Dragon source follow-up still await a full story rebuild. No release
+  requested. PS2 disc checks pass; PS2 in-game naming has not been retested.
+
+## Local PSP and PS2 0.4.24 — 2026-10-11
+
+- Corrected every remaining whole-word Esto surname in both current game
+  images to Est: two occurrences per platform. Existing corrected Albero
+  text is retained. Updated the native title footer to `v0.4.24` while keeping
+  the retro-trans credit.
+- Corrected 16 active translation/glossary input files, including contributor
+  packets and an exact context-override baseline that could restore the older
+  surname. Added Albero Esto and Folia Esto to the name checker, and recorded
+  the Est surname policy in the glossary decisions. Audit records retain their
+  historical before-text and reference URLs.
+- Verified that all 22 current assembled dialogue rows naming Albero or Folia
+  reproduce from contributor packets and guarded overrides. All chapter
+  context fingerprints remain valid; the proofread dialogue already used Est.
+- Local candidates are incremental surname fixes over 0.4.23, with exact
+  version footers. Later source-only campaign proofreading and the Hau Dragon
+  follow-up still need a full story rebuild. No release requested.
+- Verification records: `psp_est_0.4.24_verification.json` and
+  `ps2_est_0.4.24_verification.json` in `work/output`. They check no remaining
+  Esto game strings, every scene command/string pointer, native title pixels,
+  file positions/sizes and unchanged disc bytes outside the declared edits.
+  Affected story playthrough has not been repeated.
+
+## Hau Dragon screenshot follow-up — 2026-10-11
+
+- Standardized 54 current dialogue entries across 16 chapters and seven
+  encyclopedia entries to Hau Dragon. Three explicit dual-name lines retain
+  the literal Iron Dragon alias. Updated the glossary with the user's reason.
+- Reviewed Chapter 18, Prospector entry 1201 against the source. It is a
+  cumulative list of seven enemies. Replaced Tekkoryu and its unspoken gloss
+  with Hau Dragon, used the Mu, and changed Then to Plus to avoid implying a
+  sequence of events.
+- Preserved every word in the terminology-only dialogue changes and saved
+  exact English line breaks that fit both fonts. The shared PSP/PS2 story
+  loader reads these layouts. All 54 source entries pass both width limits;
+  all 53 matching PS2 sources receive the same text. One Chapter 56 entry has
+  no PS2 source counterpart. Guarded contributor reassembly and metadata
+  preservation checks pass for all 16 chapters.
+- Updated both cumulative proofreading reports, preserving earlier review
+  history. The full report now contains 847 corrections at 912 occurrences.
+  This is a source follow-up: existing 0.4.23 ISOs were not rebuilt.
+
+## Local PSP and PS2 0.4.23 — 2026-10-10
+
+- Added the SRW Z3-style two-line title credit: `v0.4.23` and
+  `github.com/retro-trans`. Kept it above MX's title-menu rows.
+- PSP edits its actual OPWND title-logo texture; PS2 edits its native IM
+  title background. Existing palettes, logo pixels outside the footer,
+  animation commands and all unrelated disc bytes are preserved.
+- Added parameterized native footer rendering to the main PSP/PS2 builders
+  and PS2 compact packager. Incremental builders have a reusable stamping
+  helper. Release packaging verifies the actual disc footer from 0.4.23 onward.
+- Saved the requirement in AGENTS.md: update and verify the exact visible
+  version every time a build is created, including incremental candidates.
+- Built local candidates over 0.4.22. Native asset readback and whole-disc
+  preservation checks pass; regression checks reject changed palettes,
+  unknown outside artwork and text overflow. No release requested.
+- Fresh-boot PSP verification matches the complete title texture in game
+  memory and confirms the visible footer clears the menu rows. Texture
+  replacement is disabled. PS2 in-game placement remains pending.
+- These candidates contain only the footer addition over 0.4.22. The later
+  source-only proofreading, including the Chapter 17 follow-up, is still
+  awaiting a story rebuild.
+
+
+## Chapter 17 proofreading follow-up — 2026-10-10
+
+- The screenshot check identified an awkward line that the original
+  proofreading pass left unchanged. The earlier chat response proposed a
+  correction but did not apply it.
+- Applied Saburota's line as: "Sometimes we get a raw deal behind Commander
+  Misumaru's back." The original describes unfair treatment outside the
+  commander's oversight, broader than merely giving someone the cold shoulder.
+- Updated the current chapter source, English-only copy, guarded context
+  override and review fingerprint. Recorded the explanation in
+  `work/translation/en/script/screenshot_proofread_followups.en.json` and the
+  cumulative Chapter 1–30 and through-end HTML reports.
+- The whole chapter passes source checks; independent row reassembly and
+  both platform font widths pass. This is part of the source proofreading
+  effort. No ISO rebuild or release; local 0.4.22 still has the earlier wording.
+
+## Local PSP and PS2 0.4.22 — 2026-10-10
+
+- Translated both Will labels in the separate native battle HUD atlas.
+- Translated the weapon accuracy debuff icon to WP and the other five
+  matching status tiles to ST, MB, AR, DS and MV, following the existing
+  menu/help abbreviations. Tiny letters use sharp bitmap glyphs.
+- Translated the white/blue battle-animation action caption to Defend.
+- Applied matching native image edits to both PSP and PS2. Frames, HP/EN
+  bars, shield/numeric artwork, palettes, dialogue and animation data are
+  preserved. The previous AT Field caption remains intact.
+- Added the correction to both full-build paths and created incremental
+  local candidates over 0.4.21. No release requested. Extracted previews
+  are inspected; in-game visual confirmation remains pending.
+- Details and verification: `docs/battle_hud_0.4.22.md`.
+
+## Local PSP and PS2 0.4.21 — 2026-10-10
+
+- Corrected Briest to Bryst in unit names, library text, campaign dialogue
+  and battle quotes. Recorded the explicit user override of Akurasu's spelling.
+- Standardized the RahXephon faction's English spelling to Mu, including
+  the Dr. Inoue line. The article remains lowercase within a sentence.
+- Checked Bahbem's decoy line against its Japanese source and replaced it
+  with: "They're ideal for stalling... No, as decoys to draw our attention
+  and lure the enemy." The source means attract, rather than draw out.
+- Checked Rom's refusal to introduce himself. "I have no name to give the
+  likes of you!!" preserves the contemptuous refusal and remains unchanged.
+- Redrew all three native Chapter 16 title copies on each platform as
+  "Blue Meets White", using uniform lettering. Kept chapter digits, logo,
+  palettes, animation and all pixels outside the title rectangle.
+- Updated current translation inputs and review fingerprints. Cumulative
+  proofreading reports accept documented later corrections while preserving
+  the frozen review decisions and their original final wording.
+- Local incremental builds from 0.4.20; the broader source proofreading
+  remains outside these ISOs. No release requested. Details and validation:
+  `docs/screenshot_review_0.4.21.md`.
+
+## Local PSP and PS2 0.4.20 — 2026-10-10
+
+- Translated the native startup health-warning artwork on both editions,
+  retaining all five paragraphs and the PSP/PS2 differences in the original.
+  PS2 mentions a well-lit room and TV screen; PSP mentions the LCD screen.
+- Centered readable English lines using the project's font, preserving the
+  palettes, dimensions, loading code, copyright artwork and all unrelated
+  disc bytes. Only the warning image pixels change.
+- Based on local PS2 0.4.19 and PSP 0.4.18. Option and save/load screens are
+  outside this change. This supersedes the earlier request to retain the
+  Japanese warning. Details and verification: `docs/startup_warning.md`.
+- Full disc-byte preservation and per-file readback checks pass on both
+  builds; PS2 ISO9660/UDF readback agrees. Extracted English artwork matches
+  the inspected previews exactly, with no clipped lines.
+- Local builds only; in-game visual confirmation pending. Campaign
+  proofreading is not included in these incremental ISOs. No release created.
+
+## Campaign proofreading through the end — 2026-10-09
+
+- Completed all routes from Chapter 31 through the finale and epilogue,
+  including hidden/unused scenes and closing/save messages: 21,257 assembled
+  entries and 17,135 distinct review entries.
+- Applied 633 new corrections at 658 occurrences for meaning, tactical
+  conditions, idioms, terms, natural English, thoughts and punctuation spacing.
+  Source metadata and existing uncertainty annotations are preserved.
+- Extended the cumulative HTML to explain all 804 corrections at 869
+  occurrences: `work/output/chapters01_end_proofread.html`.
+  Coverage is 42,281 assembled entries / 33,070 distinct entries.
+- All 235 remaining final packets validate. Preserved 12 older approved
+  George De Sand / Albero Est / Black Selena fixes in their final inputs.
+  All 28 remaining groups reassemble with identical text and review fingerprints.
+  Desktop/mobile report checks pass, including all 58 scene filters and print.
+  Details: `docs/chapters31_end_proofread.md`.
+- Source-only work; no new ISO, patch, build version, commit or release.
+
+## Chapters 15–30 proofreading — 2026-10-09
+
+- Completed every applicable route through Chapter 30: 11,258 assembled
+  entries, including 8,140 newly reviewed distinct entries and exact reuse
+  of prior completed reviews. Applied 58 new corrections at 59 occurrences.
+- Corrected meaning, tactical subjects, idioms, ranks, terminology and a
+  destination objective; preserved source metadata and uncertainty notes.
+- Added the cumulative Chapters 1–30 HTML report explaining 171 corrections
+  at 211 occurrences: `work/output/chapters01_30_proofread.html`.
+- All 241 current final packets validate; all 30 reviewed chapter assemblies
+  reproduce exactly. Retained 12 older approved name fixes in final inputs.
+  Desktop/mobile report checks pass. Details: `docs/chapters15_30_proofread.md`.
+- Source-only work; no new ISO, build version, commit or release.
+
+## Chapters 1–14 proofreading — 2026-10-09
+
+- Reviewed all 9,766 entries across all routes against the Japanese source;
+  7,745 distinct entries after exact deduplication. Applied 91 distinct
+  corrections at 130 entry occurrences for meaning, natural English and
+  consistent ranks/titles.
+- Updated current full campaign sources, scoped context overrides, review
+  fingerprints and commit-safe copies. All source-format checks pass.
+  Final packets retain six previously approved name/dialogue/objective fixes.
+- Added a searchable standalone HTML report showing every before/after,
+  reason and chapter location:
+  `work/output/chapters01_14_proofread.html`. Details:
+  `docs/chapters01_14_proofread.md`.
+- Source-only work; no new ISO, build version or release.
+
+## Chapter 15 Super route proofreading — 2026-10-09
+
+- Compared all 677 applicable rows with the Japanese source and corrected
+  22 dialogue lines for accuracy and natural English, including the rescue
+  transmission, group escape and Giganos debrief.
+- Confirmed the victory/defeat conditions, including Rom's boarding exemption.
+  All 1,039 assembled rows and 865 fresh packet rows pass translation checks;
+  every corrected line fits the native PSP dialogue limit.
+- Updated current final translation inputs and review records. Earth-route
+  text and historical drafts are unchanged. Source-only work; no ISO or release.
+  Details: `docs/chapter15_proofread.md`.
+
+## Local PS2 0.4.19 — 2026-10-08
+
+- Translated the PS2 Option menu entries (**Robot Library**, **Character
+  Library**), the save/load list (title, Free / Hero / Clears / Date headers,
+  Clear Data / No data / Corrupt data / Not enough space slot labels) and the
+  memory-card (PS2) dialogs for scenario save/load, system-data save,
+  Continue and New Game: 79 strings in total.
+- The four slot labels were copied inline with fixed Japanese byte counts;
+  those blocks now call the game's own strcpy into the same 256-byte stack
+  buffer. All other references are repointed pointer words and literal pairs.
+- Only the executable changes; it is the last file on the disc and grows in
+  place. ISO9660 and UDF readback match for all 37 files. Based on 0.4.18.
+- The boot health-warning screen is an image and was left in Japanese at the
+  user's request. Not yet checked in game; no release was requested.
+
+## Local PSP and PS2 0.4.18 — 2026-10-07
+
+- Corrected Black Sarana / Black Sarena to the requested **Black Selena**,
+  including the high-maneuver form, unit stats, Robot Library descriptions,
+  related story dialogue and the associated music title.
+- Updated current translation inputs and recorded the Akurasu spelling
+  override. The replacement is narrower in both native fonts and retains
+  existing text pointers, line breaks, allocations and disc layout.
+- Builds are based on 0.4.17 and retain Albero Est and all prior fixes.
+  Public releases remain 0.4.12; no release was requested.
+
+## Local PSP and PS2 0.4.17 — 2026-10-07
+
+- Corrected Albero Esto to the user-requested **Albero Est** in both versions,
+  including full-name tables, story dialogue and battle dialogue.
+- Updated current translation inputs and recorded the spelling decision.
+- Shortened existing terminated text allocations without changing script
+  commands, pointers, line breaks, executable instructions, textures or disc
+  layout. All prior 0.4.16 fixes are retained. Public releases remain 0.4.12.
+
+## PSP and PS2 0.4.16 — 2026-10-07 (local AT Field caption)
+
+- Translated the white battle-animation `A.T.フィールド` caption to
+  `AT Field` on both platforms, matching the refreshed Akurasu glossary.
+- Located its separate shared HUD atlas: PSP uses a 512×512 image and
+  PS2 a 1024×256 image. Both native palettes, draw positions and adjacent
+  labels remain intact. English keeps the white body and blue shadow.
+- Only 24 rows of 112 caption pixels change in each STATIC resource.
+  Whole-disc preservation and resource readback checks cover both images;
+  PS2 also receives independent UDF readback. Decoded previews are checked.
+- Isolated PSP fresh boot verifies the complete modified atlas loaded into
+  game RAM. Actual field activation and physical console tests are pending.
+- Full-build tools retain the correction. Local images use the same version:
+  `work/output/SRWMX_EN_0.4.16.iso` and
+  `work/output/SRWMX_PS2_EN_0.4.16.iso`. Prior images are preserved.
+  See `docs/at_field_0.4.16.md` and the per-platform verification JSON files.
+  No release requested; public PSP/PS2 versions remain 0.4.12.
+
+
+## PSP 0.4.14 — 2026-10-07 (local dialogue/name review)
+
+- Applied the user's `George De Sand` spelling in the full-name table and
+  all five current story lines. Recorded the explicit override of Akurasu's
+  joined surname; current glossary, library and battle metadata agree.
+- Checked Karl's Moon/high-command corruption line against its original:
+  the translation is accurate and remains unchanged.
+- Made Rockfell's line idiomatic: `Damn Taiha... He's gotten full of himself
+  just because he's Yuratei's favorite...`. The original accuses Taiha of
+  conceit due to Yuratei's special favor/affection; prior meaning is retained.
+- Confirmed all 80 Sound Select titles were translated since 0.4.11; replaced
+  the two long romanized G Gundam titles with compact English translations:
+  `Burning Spirit - Defying Fate` and `A Serene Mind, A Blazing Palm`.
+- Six story slots, all 203 script command/string tables, the three changed
+  name-table entries, and every other STATIC byte pass independent checks.
+  The existing 3,834 overflow pointers are preserved. All 80 music titles,
+  five menu wrappers, Spirit Cost, Level Up and narration regressions pass.
+- All 32 disc files pass readback. Fresh boot verifies 3,837 relocated text
+  pointers and all three getters. Sound Select visually displays the new
+  serene-mind title correctly in the actual emulator. Story playthrough and
+  physical PSP tests remain pending. See `docs/psp_text_0.4.14.md`.
+- Local image: `work/output/SRWMX_EN_0.4.14.iso`, 1,318,922,240 bytes.
+  SHA-256: `15f32a409041b218068b0b026d32212a286eeb184e5e948b82d2070e979d9826`.
+  No release requested; public PSP/PS2 versions remain 0.4.12.
+
+## PSP 0.4.13 — 2026-10-07 (local screenshot corrections)
+
+- Redrew all three Chapter 11 `do justice to` title atlases with uniform,
+  centered English lettering; preserved palettes and non-title artwork.
+- Fixed Spirit Search footer name/cost/bracket spacing in all six cells,
+  including the unavailable branch's inconsistent row/column strides.
+  All 99 native drawing/width cases pass.
+- Corrected both Zeorymer defeat conditions to describe the allied unit
+  being shot down, rather than instructing the player to shoot it down.
+  Script commands, other strings and sector budgets are preserved.
+- Confirmed Chapter 7's short title `King of Hades: "Heaven"` is correct.
+- Verified that the Level Up buffer fix already present since 0.4.10 passes
+  both native formatting and window drawing in 0.4.12 and 0.4.13. The user
+  clarified that the supplied screenshots can include older versions.
+- All 32 disc files pass readback, 1,763 BOOT string references and 1,580
+  names resolve correctly, and the narration regression passes. An isolated
+  fresh boot verifies all new instructions and the Level Up buffer/stride.
+  Actual battle-screen visual acceptance and physical PSP tests are pending.
+- Local ISO: `work/output/SRWMX_EN_0.4.13.iso`, 1,317,414,912 bytes.
+  SHA-256: `e30101fef36588b70f0142345677382bb9238300e23aca16324d2080d4022d19`.
+  See `docs/psp_ui_0.4.13.md`. No release requested; public versions stay 0.4.12.
+
+## PS2 0.4.15 — 2026-10-07 (local library layout)
+
+- Translated the character and robot library headings on all twelve native
+  list/detail drawing paths. The previous generic text transfer missed them.
+- Rewrapped all 512 reviewed character/robot descriptions using the native
+  PS2 font, with a 560-pixel line limit and 128-byte expanded row limit.
+  Wording and editable nickname placeholders are preserved. Native checks
+  reproduce 3,059 formerly overwide rows and 3,020 over-capacity rows.
+- Aligned nickname, voice actor and series values in the character detail
+  screen at x=104 relative to the panel. Long values fit within 302 pixels
+  before the portrait; each draw restores the original font context.
+- Reused only obsolete library sentence storage. FIX00 is 517,304 bytes,
+  24 bytes smaller than 0.4.14; the native fixed resource heap does not grow.
+  The extended executable ends at 0x7d8980, below STATIC at 0x800000.
+- All 4,708 library lines pass native width, buffer, sentence-getter and
+  page-index checks. Twelve heading paths, 103 metadata draws and the font
+  checks pass. Eight earlier regression suites pass on current code, with
+  historical byte comparisons normalized only after the independent library
+  preservation proof. AI, status icons, AT/CT, favorites, both balance modes,
+  narration and campaign assets are preserved.
+- Local candidate: `work/output/SRWMX_PS2_EN_0.4.15.iso`. In-game library
+  visual acceptance and physical PS2 validation remain pending. No release
+  was requested; public PSP/PS2 releases remain 0.4.12.
+- All 37 disc files pass ISO9660/UDF readback. Only FIX00 and the executable
+  differ from 0.4.14. A fresh boot in the isolated emulator loads the exact
+  801,080-byte text segment, all 28 library code/data words and the complete
+  517,304-byte FIX00 database without opcode or TLB warnings. Image size:
+  4,663,291,904 bytes. SHA-256:
+  `c4fbc932b67a04088c6bbd6213c9aa008bea42fef733b56b39b4ff388aa82676`.
+- Added an EE instruction-subset check for the new value-fitting wrapper;
+  it uses the native `CVT.W.S` conversion. The unpublished candidate was
+  corrected and reverified before delivery.
+
+## PS2 0.4.14 — 2026-10-07 (local battle labels)
+
+- Shortened the generic Artificial Intelligence pilot name to `AI` in the PS2
+  name table. All existing name IDs and numeric pilot records are preserved.
+- Corrected status-icon mapping: ST (pilot stats), WP (weapon hit), MB
+  (mobility), AR (armor), DS (cannot act), HP and MV (movement). The PSP mapping
+  had shifted several PS2 icons, omitted DS/MV and overwritten the native HP.
+- Redrew the six translated status labels inside the native 21-pixel frames;
+  restored original HP pixels. Native palettes, headers, texture padding,
+  draw coordinates and status logic are unchanged. Full rebuilds use the same
+  corrected mapping and bounds.
+- Verified that both AT/CT badges already contain the complete 24-pixel frame
+  correction from 0.1.17 in local 0.4.13. Their corrected pixels remain exact in
+  0.4.14; the supplied screenshot resembles the earlier overlarge assets.
+- Nine regression suites pass, including native forecast label draws, both
+  balance modes, three favorites, narration and campaign resource checks.
+  The executable is byte-identical to 0.4.13; changes are confined to one name
+  storage slot and seven WND status-icon payloads.
+- Local output: `work/output/SRWMX_PS2_EN_0.4.14.iso`. No release was requested
+  or published. See `docs/ps2_battle_labels.md` for validation scope and evidence.
+- Final ISO9660 and UDF verification passes for all 37 disc files; only
+  FIX00.DAT and WND.BIN differ from 0.4.13. Full graphics rebuild matches the
+  incremental correction exactly. SHA-256:
+  `373c8b2cdf62d2c74cb8cbdb7935049204770dd4b801a86c422697e1a98a6228`.
+
+## PS2 0.4.13 — 2026-10-07 (local narration fix)
+
+- Fixed opening and ending narration being clipped at the right edge. The PS2
+  crawl had been wrapped using PSP font widths; it now uses the packaged PS2
+  font's native advances, with a 560-pixel line limit at the existing 24-pixel
+  font size. Wording, editable-name placeholders, commands and timing remain
+  unchanged.
+- Native execution verifies all 56 corrected lines, including maximum-length
+  protagonist nicknames. Opening has 30 lines (maximum 557 pixels); ending has
+  26 (maximum 558). The prior image reproduces 33 overwide lines.
+- All eight regression suites pass, including both balance modes, three
+  favorites, save fields, translated UI and campaign resource checks. All 37
+  disc files verify in ISO9660 and UDF; only the executable changes from public
+  PS2 0.4.12 (historical test build 0.1.18).
+- Local image: `work/output/SRWMX_PS2_EN_0.4.13.iso`. PSP remains at 0.4.12.
+  No GitHub release was created. Evidence and reproduction steps:
+  `docs/ps2_narration.md`.
+
 ## v0.4.12 packaging update — 2026-10-06
 
 - Replaced the PS2 ZIP with the bare `SRWMX-PS2-English-v0.4.12.xdelta`,

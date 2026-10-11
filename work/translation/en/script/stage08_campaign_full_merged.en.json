@@ -1842,12 +1842,12 @@
    "kind": "dialogue",
    "speaker_jp": "アスカ",
    "speaker_en": "Asuka",
-   "en": "There's no way this Three Idiots Trio would ever take cleaning seriously.",
+   "en": "There's no way you three idiots would ever take cleaning seriously.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 111
    },
-   "notes": "Asuka disparages the boys' willingness to clean; glossary nickname retained.",
+   "notes": "Asuka disparages the boys' willingness to clean; glossary nickname retained. Chapters 1-14 proofreading: Make Asuka's insult natural English instead of treating Three Idiots Trio as an awkward capitalized title.",
    "uncertain": []
   },
   {
@@ -3640,12 +3640,12 @@
    "kind": "dialogue",
    "speaker_jp": "ギガアブソルート",
    "speaker_en": "Giga Absolute",
-   "en": "According to Chip's report, Dendoh's batteries have already been shipped all over Japan.",
+   "en": "According to the Chips' reports, Dendoh's batteries have already been shipped all over Japan.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 220
    },
-   "notes": "Empty speaker resolved to Giga Absolute from source label and campaign_terms alias; Chip report retained.",
+   "notes": "Empty speaker resolved to Giga Absolute from source label and campaign_terms alias; Chip report retained. Chapters 1-14 proofreading: Chips refers to the Machine Generals' scouting counterparts, not a person named Chip. Match the established plural term.",
    "uncertain": []
   },
   {
@@ -4410,12 +4410,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -5520,12 +5520,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -6033,12 +6033,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -7276,12 +7276,12 @@
    "kind": "dialogue",
    "speaker_jp": "吉良国",
    "speaker_en": "Kirakuni",
-   "en": "They're weapons for fighting Angels... and they run on an external power supply, just like Dendoh.",
+   "en": "They're weapons for fighting Angels... and they run on electricity, just like Dendoh.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 291
    },
-   "notes": "They refers to Evangelions; external electricity supply preserves comparison with Dendoh.",
+   "notes": "They refers to Evangelions; external electricity supply preserves comparison with Dendoh. Chapters 1-14 proofreading: The source says electrical power. Remove the added claim that Dendoh also uses an external power supply; its batteries are inside the machine.",
    "uncertain": []
   },
   {
@@ -7862,12 +7862,12 @@
    "kind": "dialogue",
    "speaker_jp": "吉良国",
    "speaker_en": "Kirakuni",
-   "en": "The spare batteries are already empty...! We have to settle this quickly!",
+   "en": "We're out of spare batteries...! We have to settle this quickly!",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 326
    },
-   "notes": "Kirakuni warns Dendoh pilots about depleted spares.",
+   "notes": "Kirakuni warns Dendoh pilots about depleted spares. Chapters 1-14 proofreading: Clarify that the spare supply has run out. The source describes an empty stock, not spare batteries sitting there with no charge.",
    "uncertain": []
   },
   {
@@ -10337,12 +10337,12 @@
    "kind": "dialogue",
    "speaker_jp": "マコト",
    "speaker_en": "Makoto",
-   "en": "Once you're in range, its charged particle cannon hits instantly at 100% accuracy... Humanoid mobile weapons are too risky in close combat.",
+   "en": "Its charged particle cannon hits at 100% accuracy as soon as you enter range... Close combat in humanoid mobile weapons is too risky.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 479
    },
-   "notes": "Range entry triggers an instant perfect-accuracy charged-particle shot; humanoid mobile-weapon close combat is unsafe. Compressed after measured4-line initial overflow; corrected immediate timing after root review.",
+   "notes": "Range entry triggers an instant perfect-accuracy charged-particle shot; humanoid mobile-weapon close combat is unsafe. Compressed after measured4-line initial overflow; corrected immediate timing after root review. Chapters 1-14 proofreading: Clarify that fighting the Angel at close range is risky, rather than describing the weapons themselves as risky. Keep the stated hit rate; shorten to fit the dialogue box.",
    "uncertain": []
   },
   {
@@ -10531,12 +10531,12 @@
    "kind": "dialogue",
    "speaker_jp": "リツコ",
    "speaker_en": "Ritsuko",
-   "en": "It's temporarily frozen on Commander Ikari's orders.",
+   "en": "Its deployment has been temporarily suspended on Commander Ikari's orders.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 491
    },
-   "notes": "Frozen means temporarily suspended from operation; Gendo male from profile.",
+   "notes": "Frozen means temporarily suspended from operation; Gendo male from profile. Chapters 1-14 proofreading: The source uses frozen for an administrative hold. State clearly that EVA-02 cannot be deployed, as the next lines explain.",
    "uncertain": []
   },
   {
@@ -17988,12 +17988,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "D-damn you! Leo Circle, to the likes of you...!!",
+   "en": "D-damn you! How could the likes of you get Leo Circle...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 945
    },
-   "notes": "Altair resents Leo Circle going to Ginga; deliberately incomplete.",
+   "notes": "Altair resents Leo Circle going to Ginga; deliberately incomplete. Chapters 1-14 proofreading: Make the villain's shocked, unfinished complaint readable while preserving his contempt and the Data Weapon's name.",
    "uncertain": []
   },
   {
@@ -19822,12 +19822,12 @@
    "kind": "dialogue",
    "speaker_jp": "アスカ",
    "speaker_en": "Asuka",
-   "en": "Besides, this ship's Three Idiots Trio seems alive and well, too. Well, at least I might not get bored.",
+   "en": "Besides, this ship's trio of idiots seems alive and well, too. Well, at least I might not get bored.",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 1055
    },
-   "notes": "Three Idiots Trio exact glossary nickname, here applied to Dragonar trio; same term contrasts Eva trio.",
+   "notes": "Three Idiots Trio exact glossary nickname, here applied to Dragonar trio; same term contrasts Eva trio. Chapters 1-14 proofreading: Use the natural phrase trio of idiots for Asuka's recurring insult, consistent with her earlier scene.",
    "uncertain": []
   },
   {
@@ -19950,12 +19950,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "When you say this ship's Three Idiots Trio... do you mean those guys?",
+   "en": "When you say this ship's trio of idiots... do you mean those guys?",
    "translation_owner": {
     "source": "work/translation/en/script/stage08_campaign.json",
     "id": 1063
    },
-   "notes": "Shinji identifies the three Dragonar pilots as Asuka other idiots trio.",
+   "notes": "Shinji identifies the three Dragonar pilots as Asuka other idiots trio. Chapters 1-14 proofreading: Match Shinji's quotation of Asuka's corrected insult, so the exchange remains consistent.",
    "uncertain": []
   },
   {
@@ -20125,7 +20125,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 8,
-  "fingerprint": "0ef8fe24ad2e2d053e46ccafa30cef5e52daf9cf176d0090f6829b04d16e470a",
+  "fingerprint": "a33a085d73ace1ccc6a3986390f60d8af21079d65441928b65db6a802af6a6b3",
   "reviewed_reused_ids": [
    58,
    69,
@@ -20296,7 +20296,7 @@
   "reviewed_reused_rows": 165,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 165 reused rows:143 generic prologue battle rows match previously reviewed bodies/speakers,22 remaining original-use neighbors verified in full English assembly. Reviewed all fresh flagged references, technical labels, omitted/interrupted clauses and wordplay; no hidden identity expansion. Agent restored instant range-trigger timing479 and independent agent review restored any-attack condition895. Preserved source uncertainties and Midori-to-Gin final thought. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Reviewed all 165 reused rows:143 generic prologue battle rows match previously reviewed bodies/speakers,22 remaining original-use neighbors verified in full English assembly. Reviewed all fresh flagged references, technical labels, omitted/interrupted clauses and wordplay; no hidden identity expansion. Agent restored instant range-trigger timing479 and independent agent review restored any-attack condition895. Preserved source uncertainties and Midori-to-Gin final thought. Rechecked source-scoped Ryo nickname changes only: five stage02 owned lines plus prologue copy IDs206/347 and their propagated uses. Prior meaning/context review remains applicable; full Ryoma retained for [jp]. All full checks pass. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 8 rows proofread against the original source in scene context, including all applicable routes and reused rows. 12 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 1239,

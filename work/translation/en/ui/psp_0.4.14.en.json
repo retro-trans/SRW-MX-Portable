@@ -1,0 +1,81 @@
+{
+ "version": "0.4.14",
+ "base_version": "0.4.13",
+ "dialogue": [
+  {
+   "source_file": "work/translation/en/script/stage05_campaign_full_merged.json",
+   "id": 322,
+   "uses": [
+    "s0130:310"
+   ],
+   "speaker": "Light",
+   "kind": "dialogue",
+   "old_en": "George DeSand, the Jack in Diamond... They are members of the Shuffle Alliance.",
+   "en": "George De Sand, the Jack in Diamond... They are members of the Shuffle Alliance."
+  },
+  {
+   "source_file": "work/translation/en/script/stage07_campaign_full_merged.json",
+   "id": 72,
+   "uses": [
+    "i015b:73"
+   ],
+   "speaker": "Rockfell",
+   "kind": "dialogue",
+   "old_en": "Damn Taiha... He grows arrogant just because he enjoys Yuratei's favor...",
+   "en": "Damn Taiha... He's gotten full of himself just because he's Yuratei's favorite..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage16_campaign_full_merged.json",
+   "id": 624,
+   "uses": [
+    "s03s20:284"
+   ],
+   "speaker": "George",
+   "kind": "dialogue",
+   "old_en": "Jack in Diamond, George DeSand... I have come to defend this great rose in bloom.",
+   "en": "Jack in Diamond, George De Sand... I have come to defend this great rose in bloom."
+  },
+  {
+   "source_file": "work/translation/en/script/stage18_campaign_full_merged.json",
+   "id": 1015,
+   "uses": [
+    "i03e4a:195"
+   ],
+   "speaker": "Ryoma",
+   "kind": "dialogue",
+   "old_en": "Chibodee Crocket and George DeSand...",
+   "en": "Chibodee Crocket and George De Sand..."
+  },
+  {
+   "source_file": "work/translation/en/script/stage18_campaign_full_merged.json",
+   "id": 1340,
+   "uses": [
+    "s03s40:295"
+   ],
+   "speaker": "Albero",
+   "kind": "dialogue",
+   "old_en": "If you know that much, there's no need for talk, George DeSand!",
+   "en": "If you know that much, there's no need for talk, George De Sand!"
+  },
+  {
+   "source_file": "work/translation/en/script/stage31_campaign_full_merged.json",
+   "id": 447,
+   "uses": [
+    "s06e20:351"
+   ],
+   "speaker": "George",
+   "kind": "dialogue",
+   "old_en": "I, George DeSand... the Jack in Diamond, personally instructed him.",
+   "en": "I, George De Sand... the Jack in Diamond, personally instructed him."
+  }
+ ],
+ "name": {
+  "1190": "George De Sand"
+ },
+ "music": {
+  "1744": "Burning Spirit - Defying Fate",
+  "1745": "A Serene Mind, A Blazing Palm"
+ },
+ "karl_translation_checked": true,
+ "karl_translation_changed": false
+}

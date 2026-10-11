@@ -25,12 +25,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...The Devil Gundam is gone... All that remains is to obtain the Star of Ra Mu...",
+   "en": "... The Devil Gundam is gone... All that remains is to obtain the Star of Ra Mu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 0
    },
-   "notes": "Eldy addresses AI1; Devil Gundam gone, Star of Ra Mu remains goal; no later outcome imported.",
+   "notes": "Eldy addresses AI1; Devil Gundam gone, Star of Ra Mu remains goal; no later outcome imported. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -256,12 +256,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "The shackles called Albero Esto...",
+   "en": "The shackles called Albero Est...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 13
    },
-   "notes": "Nominal shackles called Albero Esto intentionally incomplete.",
+   "notes": "Nominal shackles called Albero Est intentionally incomplete.",
    "uncertain": [
     "source_deliberate_fragment_or_boundary_clause"
    ]
@@ -693,12 +693,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...Answer me. What did you do to AI1?",
+   "en": "... Answer me. What did you do to AI1?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 37
    },
-   "notes": "Imperative question to Albero, explicit target AI1.",
+   "notes": "Imperative question to Albero, explicit target AI1. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -1108,12 +1108,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...I... I refuse to accept...",
+   "en": "... I... I refuse to accept...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 60
    },
-   "notes": "Source refusal verb awaits objects61/62, source boundary retained.",
+   "notes": "Source refusal verb awaits objects61/62, source boundary retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "source_deliberate_fragment_or_boundary_clause"
    ]
@@ -1948,12 +1948,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -4415,12 +4415,12 @@
    "kind": "dialogue",
    "speaker_jp": "京四郎",
    "speaker_en": "Kyoshiro",
-   "en": "...Don't let it trouble you, Kazuya. He deserved to end up like that... After everything he's done.",
+   "en": "... Don't let it trouble you, Kazuya. He deserved to end up like that... After everything he's done.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 106
    },
-   "notes": "Kyoshiro comforts Kazuya by condemning Miwa prior deeds; he deserved consequence not fact of moral innocence.",
+   "notes": "Kyoshiro comforts Kazuya by condemning Miwa prior deeds; he deserved consequence not fact of moral innocence. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -5420,12 +5420,12 @@
    "kind": "dialogue",
    "speaker_jp": "エリス",
    "speaker_en": "Eris",
-   "en": "The S2 Engine, the Meteo Cube... And we're detecting a reaction similar to Terminus Energy!!",
+   "en": "...the S2 Engine, the Meteo Cube and Terminus Energy! We're detecting a reaction similar to all of them!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 161
    },
-   "notes": "Continues energy list, then explicit detection report; does not claim these are identical energies.",
+   "notes": "Continues energy list, then explicit detection report; does not claim these are identical energies. Chapters 31-58 proofreading: Make clear that the detected reaction resembles every energy source in Eris’s two-line list.",
    "uncertain": []
   },
   {
@@ -5500,12 +5500,12 @@
    "kind": "dialogue",
    "speaker_jp": "アムロ",
    "speaker_en": "Amuro",
-   "en": "...It's Ayato...",
+   "en": "... It's Ayato...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 166
    },
-   "notes": "Amuro identifies suspected actor, explicit English subject and copula.",
+   "notes": "Amuro identifies suspected actor, explicit English subject and copula. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -5596,12 +5596,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...What about the Nahel Argama?",
+   "en": "... What about the Nahel Argama?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 172
    },
-   "notes": "Ruri asks ship status; stray source closing bracket ignored.",
+   "notes": "Ruri asks ship status; stray source closing bracket ignored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -5660,12 +5660,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...All hands, Level 1 battle stations. We launch as soon as we've finished taking aboard the survivors from NERV HQ.",
+   "en": "... All hands, Level 1 battle stations. We launch as soon as we've finished taking aboard the survivors from NERV HQ.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 176
    },
-   "notes": "Ruri's timing depends on completing survivor recovery; launch immediately afterward.",
+   "notes": "Ruri's timing depends on completing survivor recovery; launch immediately afterward. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -5692,12 +5692,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...There's no telling what will happen from here on.",
+   "en": "... There's no telling what will happen from here on.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 177
    },
-   "notes": "Ruri warns crew of future uncertainty.",
+   "notes": "Ruri warns crew of future uncertainty. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -5934,12 +5934,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "Fear not, my half-god...!",
+   "en": "Fear not, my other half...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 192
    },
-   "notes": "Quon addresses Ayato as divine counterpart; provisional literal half-god, not child of god.",
+   "notes": "Quon addresses Ayato as divine counterpart; provisional literal half-god, not child of god. Chapters 31-58 proofreading: The paired gods are each other’s complementary halves, not demigods.",
    "uncertain": [
     "Half-god is provisional literal counterpart terminology, licensed English unverified."
    ]
@@ -6282,12 +6282,12 @@
    "kind": "dialogue",
    "speaker_jp": "月臣",
    "speaker_en": "Tsukiomi",
-   "en": "...Do not worry. She has already been taken aboard the Nadesico.",
+   "en": "... Do not worry. She has already been taken aboard the Nadesico.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 212
    },
-   "notes": "Tsukiomi reassures about Misato inferred from preceding named woman and source rescue context; does not claim Ikari evacuated.",
+   "notes": "Tsukiomi reassures about Misato inferred from preceding named woman and source rescue context; does not claim Ikari evacuated. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6364,12 +6364,12 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "...It seems things have begun. Now, Rei... Lead me to Yui.",
+   "en": "... It seems things have begun. Now, Rei... Lead me to Yui.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 216
    },
-   "notes": "Gendo asks Rei to guide him to Yui, not return Yui to him.",
+   "notes": "Gendo asks Rei to guide him to Yui, not return Yui to him. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6670,12 +6670,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "...Ayanami...!?",
+   "en": "... Ayanami...!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 234
    },
-   "notes": "Shinji's shocked recognition remains hesitant name fragment.",
+   "notes": "Shinji's shocked recognition remains hesitant name fragment. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -6768,12 +6768,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...Lilith's egg, the source of human life... The Black Moon...",
+   "en": "... Lilith's egg, the source of human life... The Black Moon...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 240
    },
-   "notes": "Fuyutsuki identifies Lilith egg/Black Moon; deliberate identifying fragments and apposition retained.",
+   "notes": "Fuyutsuki identifies Lilith egg/Black Moon; deliberate identifying fragments and apposition retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Black Moon: source-literal designation; exact licensed MX English unverified.",
     "Source identifying fragments retained."
@@ -6927,12 +6927,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "...Shinji...",
+   "en": "... Shinji...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 249
    },
-   "notes": "Hidden voice addresses Shinji; speaker remains ??? until source reveal251.",
+   "notes": "Hidden voice addresses Shinji; speaker remains ??? until source reveal251. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Source vocative fragment retained; hidden speaker not disclosed."
    ]
@@ -8035,12 +8035,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "A trial to win a future began between the people of the White Moon and the descendants of the people of the Black Moon.",
+   "en": "A trial to win a future began between the descendants of the peoples of the White Moon and the Black Moon.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 316
    },
-   "notes": "Fuyutsuki trial between White Moon peoples and Black Moon descendants to obtain future; asymmetrical descendants distinction retained.",
+   "notes": "Fuyutsuki trial between White Moon peoples and Black Moon descendants to obtain future; asymmetrical descendants distinction retained. Chapters 31-58 proofreading: Apply descendants to both lunar peoples, as in the Japanese.",
    "uncertain": [
     "White/Black Moon terms exact licensed MX wording unverified."
    ]
@@ -8135,12 +8135,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...Though only a very few people in NERV knew that fact.",
+   "en": "... Though only a very few people in NERV knew that fact.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 322
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -8167,12 +8167,12 @@
    "kind": "dialogue",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...Yes.",
+   "en": "... Yes.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 324
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -8381,12 +8381,12 @@
    "kind": "dialogue",
    "speaker_jp": "クワトロ",
    "speaker_en": "Quattro",
-   "en": "...That was an unfortunate encounter.",
+   "en": "... That was an unfortunate encounter.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 336
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Final semantic proofreading restores context-settled subject/copula; change is not fit compression.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Final semantic proofreading restores context-settled subject/copula; change is not fit compression. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -8566,12 +8566,12 @@
    "kind": "thought",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "...Haruka...",
+   "en": "... Haruka...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 346
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Hidden speaker stays ???; second original use precedes public Ayato label351."
    ]
@@ -8652,12 +8652,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...Haruka...",
+   "en": "... Haruka...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 351
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Deliberate name call, interjection, reaction, or standalone exclamation; no unsaid proposition invented."
    ]
@@ -8894,12 +8894,12 @@
    "kind": "dialogue",
    "speaker_jp": "六道",
    "speaker_en": "Rikudo",
-   "en": "...Ixtli in Yollotl.",
+   "en": "... Ixtli in Yollotl.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 364
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Ixtli in Yollotl licensed MX wording unverified; campaign spelling exact."
    ]
@@ -8962,12 +8962,12 @@
    "kind": "dialogue",
    "speaker_jp": "六道",
    "speaker_en": "Rikudo",
-   "en": "...It's a tradition of the Nahua people of western Mexico. Ixtli in Yollotl means a complete human being... the pillar that supports the world...",
+   "en": "... It's a tradition of the Nahua people of western Mexico. Ixtli in Yollotl means a complete human being... the pillar that supports the world...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 368
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Nahua and western Mexico are literal source geography, not external history; Ixtli in Yollotl licensed wording unverified. Source definition trails off."
    ]
@@ -8980,12 +8980,12 @@
    "kind": "dialogue",
    "speaker_jp": "六道",
    "speaker_en": "Rikudo",
-   "en": "And Ayato... you have another self, don't you? Your half-god... the two of you complement each other.",
+   "en": "And Ayato... you have another self, don't you? Your other half... the two of you complement each other.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 369
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: The paired beings complement each other; half-god misleadingly suggests a demigod.",
    "uncertain": [
     "Half-god is provisional literal counterpart term; source defines mutually complementary other self, no mortal-parent interpretation."
    ]
@@ -9017,12 +9017,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...I can hear her song...",
+   "en": "... I can hear her song...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 370
    },
-   "notes": "Her refers to Quon, settled explicitly372; female pronoun also explicit Japanese.",
+   "notes": "Her refers to Quon, settled explicitly372; female pronoun also explicit Japanese. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -9341,12 +9341,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...With this... my role as Conductor is over...",
+   "en": "... With this... my role as Conductor is over...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 388
    },
-   "notes": "Maya Kamina, not Evangelion Maya Ibuki; source conductor title retained.",
+   "notes": "Maya Kamina, not Evangelion Maya Ibuki; source conductor title retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -9529,12 +9529,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "...Three winged gods have appeared... It's a scene straight out of the Apocalypse.",
+   "en": "... Three winged gods have appeared... It's a scene straight out of the Apocalypse.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 396
    },
-   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled.",
+   "notes": "Original neighboring messages establish the speaker and addressee; natural subject and verb restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Three winged gods explicit; no reduction to two RahXephons."
    ]
@@ -9599,12 +9599,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...In this world, where everything is about to change...",
+   "en": "... In this world, where everything is about to change...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 400
    },
-   "notes": "Watari's opening world-setting clause deliberately continues into 401; no text merged across rows.",
+   "notes": "Watari's opening world-setting clause deliberately continues into 401; no text merged across rows. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Retained source opening clause across row boundary."
    ]
@@ -9681,12 +9681,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...And I still have unfinished business.",
+   "en": "... And I still have unfinished business.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 405
    },
-   "notes": "Watari's unfinished business remains unnamed; 406-407 answer it as dirty work.",
+   "notes": "Watari's unfinished business remains unnamed; 406-407 answer it as dirty work. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -9713,12 +9713,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "...The dirty work is my responsibility.",
+   "en": "... The dirty work is my responsibility.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 407
    },
-   "notes": "Futagami takes responsibility for dirty work; speaker and action retained.",
+   "notes": "Futagami takes responsibility for dirty work; speaker and action retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -9946,12 +9946,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "...He's gone... I've lost him again... This time, truly...!",
+   "en": "... He's gone... I've lost him again... This time, truly...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 420
    },
-   "notes": "Haruka means Ayato has gone and she has lost him again; final consequence deliberately trails off.",
+   "notes": "Haruka means Ayato has gone and she has lost him again; final consequence deliberately trails off. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "He/him departure referent inferred as Ayato; retained unfinished ending."
    ]
@@ -9964,12 +9964,12 @@
    "kind": "dialogue",
    "speaker_jp": "恵",
    "speaker_en": "Megumi",
-   "en": "...Be strong.",
+   "en": "... Be strong.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 421
    },
-   "notes": "Megumi urges Haruka to be strong; imperative request, not narrative statement.",
+   "notes": "Megumi urges Haruka to be strong; imperative request, not narrative statement. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -10159,12 +10159,12 @@
    "kind": "dialogue",
    "speaker_jp": "六道",
    "speaker_en": "Rikudo",
-   "en": "...You're trying too hard to look cool again.",
+   "en": "... You're trying too hard to look cool again.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 430
    },
-   "notes": "Rikudo says Megumi is again trying too hard to look cool, recalling her earlier gesture.",
+   "notes": "Rikudo says Megumi is again trying too hard to look cool, recalling her earlier gesture. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -10175,12 +10175,12 @@
    "kind": "dialogue",
    "speaker_jp": "恵",
    "speaker_en": "Megumi",
-   "en": "...Yeah... I... think so, too.",
+   "en": "... Yeah... I... think so, too.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 431
    },
-   "notes": "Megumi agrees about herself; I/think restored.",
+   "notes": "Megumi agrees about herself; I/think restored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -10466,12 +10466,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "...That wasn't part of the plan.",
+   "en": "... That wasn't part of the plan.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 445
    },
-   "notes": "Unplanned act is inferred from the shooting confrontation; source that remains unnamed.",
+   "notes": "Unplanned act is inferred from the shooting confrontation; source that remains unnamed. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Unplanned act inferred from preceding shooting confrontation; source pronoun retained."
    ]
@@ -10534,12 +10534,12 @@
    "kind": "dialogue",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "...You'd better not say the rest, Dr. Kisaragi.",
+   "en": "... You'd better not say the rest, Dr. Kisaragi.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 449
    },
-   "notes": "Speaker stays ??? until source reveal at 451; Dr. Kisaragi is source surname/title for Itsuki.",
+   "notes": "Speaker stays ??? until source reveal at 451; Dr. Kisaragi is source surname/title for Itsuki. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Hidden speaker identity remains ??? until source reveal451. Source-short Dr.Kisaragi title kept."
    ]
@@ -10616,12 +10616,12 @@
    "kind": "dialogue",
    "speaker_jp": "樹",
    "speaker_en": "Itsuki",
-   "en": "...Understood...",
+   "en": "... Understood...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 453
    },
-   "notes": "Itsuki accepts the instruction; complete acknowledgement retained.",
+   "notes": "Itsuki accepts the instruction; complete acknowledgement retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -10632,12 +10632,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヘレナ",
    "speaker_en": "Helena",
-   "en": "...So, what do you want with me, Futagami?",
+   "en": "... So, what do you want with me, Futagami?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 454
    },
-   "notes": "Helena-body speaker asks Futagami's purpose; original speaker prefill remains Helena.",
+   "notes": "Helena-body speaker asks Futagami's purpose; original speaker prefill remains Helena. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -10894,12 +10894,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "...To use it as a replacement for the lost RahXephon system.",
+   "en": "... To use it as a replacement for the lost RahXephon system.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 470
    },
-   "notes": "Purpose clause continues 469: Raideen replaces lost RahXephon system; actor of loss left unstated.",
+   "notes": "Purpose clause continues 469: Raideen replaces lost RahXephon system; actor of loss left unstated. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Retained source purpose clause continuing469; Raideen referent inferred, systemloss actor unstated; compoundsource-only."
    ]
@@ -11156,12 +11156,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...Dr. Hibiki, how are the T.J. Busters holding up?",
+   "en": "... Dr. Hibiki, how are the T.J. Busters holding up?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 486
    },
-   "notes": "Mutropolis refuge/barrier discussion; adjacent speaker exchange identifies listener; spoken source register, English subject and predicate restored where settled.",
+   "notes": "Mutropolis refuge/barrier discussion; adjacent speaker exchange identifies listener; spoken source register, English subject and predicate restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -11204,12 +11204,12 @@
    "kind": "dialogue",
    "speaker_jp": "ひびき博士",
    "speaker_en": "Dr. Hibiki",
-   "en": "...Its seal hasn't been broken yet.",
+   "en": "... Its seal hasn't been broken yet.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 489
    },
-   "notes": "Star seal not yet broken.",
+   "notes": "Star seal not yet broken. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -11536,12 +11536,12 @@
    "kind": "dialogue",
    "speaker_jp": "亘理",
    "speaker_en": "Watari",
-   "en": "...Very well...",
+   "en": "... Very well...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 509
    },
-   "notes": "Mutropolis refuge/barrier discussion; adjacent speaker exchange identifies listener; spoken source register, English subject and predicate restored where settled.",
+   "notes": "Mutropolis refuge/barrier discussion; adjacent speaker exchange identifies listener; spoken source register, English subject and predicate restored where settled. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -11552,12 +11552,12 @@
    "kind": "dialogue",
    "speaker_jp": "キール",
    "speaker_en": "Keel",
-   "en": "...The two Ixtli in Yollotl have appeared at the site of the ritual.",
+   "en": "... The two Ixtli in Yollotl have appeared at the site of the ritual.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 510
    },
-   "notes": "Two Ixtli in Yollotl at ritualsite, provisional licensed wording.",
+   "notes": "Two Ixtli in Yollotl at ritualsite, provisional licensed wording. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "provisional_source_term_licensed_wording_unverified"
    ]
@@ -12026,12 +12026,12 @@
    "kind": "dialogue",
    "speaker_jp": "玲香",
    "speaker_en": "Reika",
-   "en": "...And he will remain himself... For that purpose...",
+   "en": "... And he will remain himself... For that purpose...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 537
    },
-   "notes": "Reika confirmsremainhimself, purposeunfinished.",
+   "notes": "Reika confirmsremainhimself, purposeunfinished. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "source_deliberate_fragment_or_boundary_clause"
    ]
@@ -13341,12 +13341,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "...Self-satisfaction, then. For both of us.",
+   "en": "... Self-satisfaction, then. For both of us.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 611
    },
-   "notes": "Albero labels BOTH self-satisfied.",
+   "notes": "Albero labels BOTH self-satisfied. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -13456,12 +13456,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Captain, don't tell me...!",
+   "en": "Commander, don't tell me...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 617
    },
-   "notes": "Lead unfinished inference about captain.",
+   "notes": "Lead unfinished inference about captain. Chapters 31-58 proofreading: Use the established title for Albero as squad commander.",
    "uncertain": [
     "Lead unfinished inference about captain."
    ]
@@ -13474,12 +13474,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "...I boarded Medius Locus to take my revenge on that devil.",
+   "en": "... I boarded Medius Locus to take my revenge on that devil.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 618
    },
-   "notes": "Albero revenge devil; source euphemism referent context Devil Gundam, not expanded in body.",
+   "notes": "Albero revenge devil; source euphemism referent context Devil Gundam, not expanded in body. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Albero revenge devil; source euphemism referent context Devil Gundam, not expanded in body."
    ]
@@ -13576,12 +13576,12 @@
    "kind": "dialogue",
    "speaker_jp": "#男愛称",
    "speaker_en": "#男愛称",
-   "en": "Captain...!",
+   "en": "Commander...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 624
    },
-   "notes": "Lead emotional captain address, no added predicate.",
+   "notes": "Lead emotional captain address, no added predicate. Chapters 31-58 proofreading: Use the established title for Albero as squad commander.",
    "uncertain": []
   },
   {
@@ -13822,12 +13822,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...I...",
+   "en": "... I...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 639
    },
-   "notes": "Eldy unfinished I; response continues next row640, no retro-completion.",
+   "notes": "Eldy unfinished I; response continues next row640, no retro-completion. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Eldy unfinished I; response continues next row640, no retro-completion."
    ]
@@ -13840,12 +13840,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "I can't afford to lose AI1. ...That's all.",
+   "en": "I can't afford to lose AI1. ... That's all.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 640
    },
-   "notes": "Eldy answers female lead's question; self-preservation of AI1 only, no allegiance promise added.",
+   "notes": "Eldy answers female lead's question; self-preservation of AI1 only, no allegiance promise added. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -13890,12 +13890,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "...I'd like to think I'm not foolish enough to misunderstand the situation we're in.",
+   "en": "... I'd like to think I'm not foolish enough to misunderstand the situation we're in.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 642
    },
-   "notes": "Albero defends his present judgment; qualified self-assessment retained.",
+   "notes": "Albero defends his present judgment; qualified self-assessment retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -13906,12 +13906,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルベロ",
    "speaker_en": "Albero",
-   "en": "If you can't trust me, turn your blades on me right now. ...But I won't go down without a fight.",
+   "en": "If you can't trust me, turn your blades on me right now. ... But I won't go down without a fight.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 643
    },
-   "notes": "Albero invites immediate attack if distrusted and warns of resistance; direction to listeners.",
+   "notes": "Albero invites immediate attack if distrusted and warns of resistance; direction to listeners. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -13954,12 +13954,12 @@
    "kind": "dialogue",
    "speaker_jp": "マイヨ",
    "speaker_en": "Meio",
-   "en": "...It is certainly dangerous to trust that man.",
+   "en": "... It is certainly dangerous to trust that man.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 644
    },
-   "notes": "Meio acknowledges distrust of Albero, identified by exchange.",
+   "notes": "Meio acknowledges distrust of Albero, identified by exchange. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -14117,12 +14117,12 @@
    "kind": "thought",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "...This... isn't the result I wanted to see...",
+   "en": "... This... isn't the result I wanted to see...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 653
    },
-   "notes": "Eldy private dissatisfaction; thought delimiters required during fit.",
+   "notes": "Eldy private dissatisfaction; thought delimiters required during fit. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -14183,12 +14183,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Raideen, EVA-01, the lead unit, Daimos,@Zeorymer or Medius Locus is shot down@2. An allied mothership is shot down",
+   "en": "1. Raideen, EVA-01, protagonist unit, Daimos,@   Zeorymer or Medius Locus shot down.@2. An allied mothership is shot down.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 657
    },
-   "notes": "Plain defeat condition, exactly three original segments. Every canonical target and defeat action retained; full initial wording before measurement.",
+   "notes": "Plain defeat condition, exactly three original segments. Every canonical target and defeat action retained; full initial wording before measurement. Chapters 31-58 proofreading: Identify the protagonist’s unit, rather than whichever unit happens to lead the formation.",
    "uncertain": []
   },
   {
@@ -14313,12 +14313,12 @@
    "kind": "dialogue",
    "speaker_jp": "鳥飼",
    "speaker_en": "Mamoru",
-   "en": "Ayato! I will... you...!",
+   "en": "Ayato! I'll...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 665
    },
-   "notes": "Mamoru deliberate interrupted transitive intention toward Ayato, no kill verb inserted prematurely.",
+   "notes": "Mamoru deliberate interrupted transitive intention toward Ayato, no kill verb inserted prematurely. Chapters 31-58 proofreading: Preserve the interrupted threat without an unnatural stranded English object.",
    "uncertain": [
     "Transitive intention toward Ayato deliberately interrupted, action verb not supplied."
    ]
@@ -14381,12 +14381,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "...I heard it... the most important sound... your feelings... the Ollin's feelings...",
+   "en": "... I heard it... the most important sound... your feelings... the Ollin's feelings...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 669
    },
-   "notes": "Quon says feelings heard as sound, singular most important sound and shared audience retained.",
+   "notes": "Quon says feelings heard as sound, singular most important sound and shared audience retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -14397,12 +14397,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "...Your time...",
+   "en": "... Your time...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 670
    },
-   "notes": "Quon addresses squad and contrasts their time with ours; deliberate nominal fragment.",
+   "notes": "Quon addresses squad and contrasts their time with ours; deliberate nominal fragment. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Your time is deliberately unspecified nominal fragment."
    ]
@@ -14415,12 +14415,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...Our time...",
+   "en": "... Our time...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 671
    },
-   "notes": "Ayato echoes collective time, no invented pronoun referent beyond exchange.",
+   "notes": "Ayato echoes collective time, no invented pronoun referent beyond exchange. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Our time collective referent not narrowed beyond source."
    ]
@@ -14433,12 +14433,12 @@
    "kind": "dialogue",
    "speaker_jp": "玲香",
    "speaker_en": "Reika",
-   "en": "...Our time...",
+   "en": "... Our time...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 672
    },
-   "notes": "Reika echoes collective time, separate row retained despite matching English.",
+   "notes": "Reika echoes collective time, separate row retained despite matching English. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Our time collective referent not narrowed beyond source."
    ]
@@ -14695,12 +14695,12 @@
    "kind": "dialogue",
    "speaker_jp": "弐神",
    "speaker_en": "Futagami",
-   "en": "...A bit of an uncouth sound for a finale, though.",
+   "en": "... A bit of an uncouth sound for a finale, though.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 688
    },
-   "notes": "Futagami comments on sound accompanying exit; does not insert gun or killing action absent text.",
+   "notes": "Futagami comments on sound accompanying exit; does not insert gun or killing action absent text. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -14793,12 +14793,12 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "...That is why we exist here.",
+   "en": "... That is why we exist here.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 694
    },
-   "notes": "Gendo gives causal explanation to SEELE; here not specified beyond source.",
+   "notes": "Gendo gives causal explanation to SEELE; here not specified beyond source. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -14975,12 +14975,12 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "...This is the price we've paid for that.",
+   "en": "... This is the price we've paid for that.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 704
    },
-   "notes": "Gendo points to present state as consequence, inclusive we based preceding collective self-criticism.",
+   "notes": "Gendo points to present state as consequence, inclusive we based preceding collective self-criticism. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -15103,12 +15103,12 @@
    "kind": "dialogue",
    "speaker_jp": "ゲンドウ",
    "speaker_en": "Gendo",
-   "en": "...Yui... I'm coming to you now...",
+   "en": "... Yui... I'm coming to you now...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 712
    },
-   "notes": "Gendo announces his movement toward Yui, direction explicit.",
+   "notes": "Gendo announces his movement toward Yui, direction explicit. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -15231,12 +15231,12 @@
    "kind": "thought",
    "speaker_jp": "冬月",
    "speaker_en": "Fuyutsuki",
-   "en": "...So you've gone... to her...",
+   "en": "... So you've gone... to her...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 719
    },
-   "notes": "Fuyutsuki privately concludes Gendo went to Yui; her inferred from preceding speech, not imported physical death detail.",
+   "notes": "Fuyutsuki privately concludes Gendo went to Yui; her inferred from preceding speech, not imported physical death detail. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Her inferred as Yui from Gendo712; no invented physical death action."
    ]
@@ -15249,12 +15249,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...What is our status?",
+   "en": "... What is our status?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 720
    },
-   "notes": "Ruri asks for present status after Gendo voice; full verb question restored.",
+   "notes": "Ruri asks for present status after Gendo voice; full verb question restored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -15586,12 +15586,12 @@
    "kind": "dialogue",
    "speaker_jp": "エルデ",
    "speaker_en": "Eldy",
-   "en": "Ahahahaha... Hahahahaha! With this alone, Medius will... Its final Incrementum!!",
+   "en": "Ahahahaha... Hahahahaha! With this alone, Medius will undergo its final Incrementum!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 737
    },
-   "notes": "Eldy excited laughter and Medius final Incrementum; source omitted action predicate retained as trailing will, no specific growth mechanism completed.",
+   "notes": "Eldy excited laughter and Medius final Incrementum; source omitted action predicate retained as trailing will, no specific growth mechanism completed. Chapters 31-58 proofreading: Complete the English verb phrase while preserving Eldy’s meaning.",
    "uncertain": [
     "Deliberate source omission, unfinished clause, continuation or vocative retained; see row context.",
     "Incrementum licensed English dialogue wording unverified; named process retained, missing predicate not completed."
@@ -15913,12 +15913,12 @@
    "kind": "thought",
    "speaker_jp": "？？？",
    "speaker_en": "???",
-   "en": "...Akira...",
+   "en": "... Akira...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 755
    },
-   "notes": "Unknown thought voice addresses Akira twice in separate original uses; remains ??? before source Lemuria reveal.",
+   "notes": "Unknown thought voice addresses Akira twice in separate original uses; remains ??? before source Lemuria reveal. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Deliberate source omission, unfinished clause, continuation or vocative retained; see row context.",
     "Hidden voice remains ??? across both uses948/950; no early Lemuria identity."
@@ -15948,12 +15948,12 @@
    "kind": "dialogue",
    "speaker_jp": "レムリア",
    "speaker_en": "Lemuria",
-   "en": "...The time has come...",
+   "en": "... The time has come...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 757
    },
-   "notes": "Lemuria says time has arrived; no mechanism named.",
+   "notes": "Lemuria says time has arrived; no mechanism named. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -15964,12 +15964,12 @@
    "kind": "dialogue",
    "speaker_jp": "レムリア",
    "speaker_en": "Lemuria",
-   "en": "...The time to unseal our hope... The Star of Ra Mu...",
+   "en": "... The time to unseal our hope... The Star of Ra Mu...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 758
    },
-   "notes": "Lemuria continues time announcement: unseal our hope Star of Ra Mu; source trailing phrase retained.",
+   "notes": "Lemuria continues time announcement: unseal our hope Star of Ra Mu; source trailing phrase retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Deliberate source omission, unfinished clause, continuation or vocative retained; see row context."
    ]
@@ -16759,12 +16759,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "...Where am I...?",
+   "en": "... Where am I...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 801
    },
-   "notes": "Haruka asks her location after Ra attack; I/am restored.",
+   "notes": "Haruka asks her location after Ra attack; I/am restored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -16792,12 +16792,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "...Ma'am...",
+   "en": "... Ma'am...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 802
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Obasama is a respectful address for an older woman here; Ma'am avoids inventing an aunt relationship or adding surname."
    ]
@@ -16810,12 +16810,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...It would have been better without you...",
+   "en": "... It would have been better without you...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 803
    },
-   "notes": "Maya Kamina blames Haruka's presence; no softening and no added explicit death wish.",
+   "notes": "Maya Kamina blames Haruka's presence; no softening and no added explicit death wish. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17064,12 +17064,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...Get going already.",
+   "en": "... Get going already.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 816
    },
-   "notes": "Impatient command retains sassato urgency.",
+   "notes": "Impatient command retains sassato urgency. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17228,12 +17228,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...From the very beginning... our melodies...",
+   "en": "... From the very beginning... our melodies...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 825
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Melody subject is cut before predicate in next826."
    ]
@@ -17246,12 +17246,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...were colored by each other's different tones...",
+   "en": "... were colored by each other's different tones...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 826
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Continuation predicate begins here, not moved into825."
    ]
@@ -17316,12 +17316,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...To a new world...",
+   "en": "... To a new world...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 830
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Deliberate directional fragment; no unsaid guiding verb or subject invented."
    ]
@@ -17334,12 +17334,12 @@
    "kind": "dialogue",
    "speaker_jp": "麻弥",
    "speaker_en": "Maya",
-   "en": "...To the Promised Land...",
+   "en": "... To the Promised Land...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 831
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "Deliberate directional fragment; canonical Promised Land exactly."
    ]
@@ -17352,12 +17352,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "...What do you want to protect?",
+   "en": "... What do you want to protect?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 832
    },
-   "notes": "Quon asks Ayato desired protection target; no target inserted.",
+   "notes": "Quon asks Ayato desired protection target; no target inserted. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17439,12 +17439,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "I... Haruka and everyone...",
+   "en": "I... want to protect Haruka and everyone...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 837
    },
-   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained.",
+   "notes": "Original adjacent emitted messages establish the speaker, addressee and spoken tone; intentional continuation is retained. Chapters 31-58 proofreading: Carry the implied verb into English so Ayato’s response to the question reads naturally.",
    "uncertain": [
     "Source retains I plus Haruka/everyone object but no predicate; matching unfinished answer."
    ]
@@ -17493,12 +17493,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "...Then do it.",
+   "en": "... Then do it.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 840
    },
-   "notes": "Quon permits Ayato's uncompleted answer to become action; unsaid action remains unspecified.",
+   "notes": "Quon permits Ayato's uncompleted answer to become action; unsaid action remains unspecified. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17578,12 +17578,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "...Where am I...?",
+   "en": "... Where am I...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 844
    },
-   "notes": "Shinji asks location, no setting imported.",
+   "notes": "Shinji asks location, no setting imported. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17594,12 +17594,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "...Did I die...?",
+   "en": "... Did I die...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 845
    },
-   "notes": "Shinji questions death; not asserted death.",
+   "notes": "Shinji questions death; not asserted death. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17626,12 +17626,12 @@
    "kind": "dialogue",
    "speaker_jp": "カヲル",
    "speaker_en": "Kaworu",
-   "en": "...Your world is choosing a new path...",
+   "en": "... Your world is choosing a new path...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 847
    },
-   "notes": "New path choice is ongoing, not already completed.",
+   "notes": "New path choice is ongoing, not already completed. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -17812,12 +17812,12 @@
    "kind": "dialogue",
    "speaker_jp": "シンジ",
    "speaker_en": "Shinji",
-   "en": "...I don't mind.",
+   "en": "... I don't mind.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 858
    },
-   "notes": "Shinji states he does not mind; subject restored.",
+   "notes": "Shinji states he does not mind; subject restored. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -18132,12 +18132,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...All right.",
+   "en": "... All right.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 876
    },
-   "notes": "Ayato acknowledges.",
+   "notes": "Ayato acknowledges. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -18184,12 +18184,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...Yes.",
+   "en": "... Yes.",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 879
    },
-   "notes": "Ayato gentle assent follows Quon's request.",
+   "notes": "Ayato gentle assent follows Quon's request. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": []
   },
   {
@@ -18269,12 +18269,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "...I understand... Ayato...",
+   "en": "... I understand... Ayato...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 883
    },
-   "notes": "Haruka addresses Ayato; what she understands is left unstated by the source.",
+   "notes": "Haruka addresses Ayato; what she understands is left unstated by the source. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "intentional_source_omission_or_cutoff"
    ]
@@ -18805,12 +18805,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...I know... I know that. But now... a self like this, with no idea who I am...",
+   "en": "... I know... I know that. But now... a self like this, with no idea who I am...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 912
    },
-   "notes": "Ayato acknowledges her point, then trails off about his unrecognizable self; no invented conclusion or refusal.",
+   "notes": "Ayato acknowledges her point, then trails off about his unrecognizable self; no invented conclusion or refusal. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "intentional_source_omission_or_cutoff",
     "context_resolved_referent"
@@ -18895,12 +18895,12 @@
    "kind": "dialogue",
    "speaker_jp": "久遠",
    "speaker_en": "Quon",
-   "en": "Yes... you... yourself... And me... everything around you... Have courage...",
+   "en": "Yes... You must accept yourself... and me... everything around you... Have courage...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 916
    },
-   "notes": "Quon specifies Ayato accepting himself, herself and everything around him; courage appeal retained. Elliptical answer intentional.",
+   "notes": "Quon specifies Ayato accepting himself, herself and everything around him; courage appeal retained. Elliptical answer intentional. Chapters 31-58 proofreading: Complete the command established in Quon’s preceding lines rather than leaving the subject and object disconnected.",
    "uncertain": [
     "intentional_source_omission_or_cutoff",
     "context_resolved_referent"
@@ -18930,12 +18930,12 @@
    "kind": "dialogue",
    "speaker_jp": "綾人",
    "speaker_en": "Ayato",
-   "en": "...That is...",
+   "en": "... That is...",
    "translation_owner": {
     "source": "work/translation/en/script/stage54_campaign.json",
     "id": 918
    },
-   "notes": "Ayato's unfinished answer retained; no outside ending completion. i105a has no text.",
+   "notes": "Ayato's unfinished answer retained; no outside ending completion. i105a has no text. Chapters 31-58 proofreading: Separate the word after an ellipsis.",
    "uncertain": [
     "intentional_source_omission_or_cutoff"
    ]
@@ -18945,7 +18945,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 54,
-  "fingerprint": "2b54dd70a0030b812cc3d8589041a9548ec3ffa1fc14e4ebc8fcc9661e62dfed",
+  "fingerprint": "7d367d4a8c1f145a941b8e7329e1a67907fcf60f971904472178e18aff6bd1b0",
   "reviewed_reused_ids": [
    2,
    15,
@@ -19158,7 +19158,7 @@
   "reviewed_reused_rows": 207,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 919 fresh source/final pairs and their flags, all 64 non-template reused rows in 109 final scene uses, and 143 defeat templates in 205 registrations with no ordinary uses. Six actual Sol 6.1 Medium workers verified 1,246 original uses and 1,041 display entries in twelve packets. Immutable full drafts remain; only plain 87 reflow and measured dialogue overflows 305, 313 and 616 required tightening. All final lines fit. Review preserves conditional handlers, divine counts, qualified cosmology and theater claims, D wordplay, source dates, family and bodily identity reveals, interrupted clauses and unresolved audience or encounter objects. Agent meaning repairs and canonical spelling scripts are measured separately. Stage-specific FULL 797 agreement override was independently checked at both original uses; the earlier owner remains unchanged. Akurasu governs names; unverified licensed compounds stay flagged. Dialogue insertion and playtesting remain pending. No release authorized. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change."
+  "note": "Coordinator reviewed all 919 fresh source/final pairs and their flags, all 64 non-template reused rows in 109 final scene uses, and 143 defeat templates in 205 registrations with no ordinary uses. Six actual Sol 6.1 Medium workers verified 1,246 original uses and 1,041 display entries in twelve packets. Immutable full drafts remain; only plain 87 reflow and measured dialogue overflows 305, 313 and 616 required tightening. All final lines fit. Review preserves conditional handlers, divine counts, qualified cosmology and theater claims, D wordplay, source dates, family and bodily identity reveals, interrupted clauses and unresolved audience or encounter objects. Agent meaning repairs and canonical spelling scripts are measured separately. Stage-specific FULL 797 agreement override was independently checked at both original uses; the earlier owner remains unchanged. Akurasu governs names; unverified licensed compounds stay flagged. Dialogue insertion and playtesting remain pending. No release authorized. Root canonical spelling-only follow-up checked all final-corpus Reideen occurrences and source35:325/326,54:88. Script enforces main Akurasu Raideen, current fonts fit before/after, drafts immutable. All earlier full source/context/flag reviews remain applicable; no meaning change. 2026-10-09: All Chapter 54 rows proofread against the original source in scene context, including all applicable routes and reused rows. 92 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 1126,

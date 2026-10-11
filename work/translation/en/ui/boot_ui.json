@@ -11,7 +11,7 @@
   "ガルムレイド・ブレイズ": "Garmraid Blaze",
   "サーベラス": "Cerberus",
   "サーベラス・イグナイト": "Cerberus Ignited",
-  "マグネイト・テン": "Magnate Ten",
+  "マグネイト・テン": "Magnet X",
   "乗り換えますか？": "Change units?",
   "出撃準備を終了しますか？": "End sortie preparations?",
   "変形": "Transform",
@@ -878,8 +878,8 @@
   },
   "28F910": {
    "jp": "部隊名",
-   "en": "Squad Name",
-   "why": "label on the rename screen (other copies may be placeholder keys)"
+   "en": "Name",
+   "why": "User-requested short rename-screen caption; avoids overlap with the editable squad name."
   },
   "29373C": {
    "jp": "魂",
@@ -1213,8 +1213,7 @@
   "体のユニットを修理するために、修理費用が + [cost] + かかりました。 is assumed to print as '[n] unit(s) were repaired at a cost of [cost].'. Check after a stage.",
   "あと / 機 assumed to print 'あと[n]機' = '[n] more'.",
   "（Ｇ）/（Ｓ） kept as (G)/(S): hero unit variants, meaning not confirmed.",
-  "The status-bar string with ＋ placeholders (0x2954A0) keeps its full-width spacing; the icon positions may need adjusting once seen in game.",
-  "Magnate Ten (マグネイト・テン) has no akurasu or glossary entry; literal."
+  "The status-bar string with ＋ placeholders (0x2954A0) keeps its full-width spacing; the icon positions may need adjusting once seen in game."
  ],
  "in_game_fixes": [
   "0.2.0 hero setup: the value is drawn at a fixed x (3 full-width cells), so 名前：/愛称： must stay under 48 px: \"Name: \" / \"Nick: \".",

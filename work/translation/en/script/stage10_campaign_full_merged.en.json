@@ -1177,12 +1177,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -2287,12 +2287,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -2800,12 +2800,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -5325,12 +5325,12 @@
    "kind": "dialogue",
    "speaker_jp": "バレンドス",
    "speaker_en": "Barendos",
-   "en": "Of course you would... You're the man who left your fellow people on Planet Fleed to die and fled to Earth...!",
+   "en": "Of course you would... You're the man who left his people on Planet Fleed to die and fled to Earth...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage10_campaign.json",
     "id": 172
    },
-   "notes": "Barendos accuses Duke of abandoning the people of Fleed; accusation is retained as speech, not asserted narrative.",
+   "notes": "Barendos accuses Duke of abandoning the people of Fleed; accusation is retained as speech, not asserted narrative. Chapters 1-14 proofreading: Replaces the unnatural phrase 'fellow people' while preserving Barendos's accusation.",
    "uncertain": []
   },
   {
@@ -6932,12 +6932,12 @@
    "kind": "dialogue",
    "speaker_jp": "アスカ",
    "speaker_en": "Asuka",
-   "en": "What? Is this another Three Idiots Trio?",
+   "en": "What? Another trio of idiots?",
    "translation_owner": {
     "source": "work/translation/en/script/stage10_campaign.json",
     "id": 270
    },
-   "notes": "Glossary Three Idiots Trio nickname applied to the newly arrived Boss/Nuke/Mucha trio.",
+   "notes": "Glossary Three Idiots Trio nickname applied to the newly arrived Boss/Nuke/Mucha trio. Chapters 1-14 proofreading: Treats Asuka's insult as ordinary dialogue, consistent with its other appearances, rather than an invented group name.",
    "uncertain": []
   },
   {
@@ -7684,12 +7684,12 @@
    "kind": "dialogue",
    "speaker_jp": "弓教授",
    "speaker_en": "Professor Yumi",
-   "en": "By the way...how is that machine Genzo Umon asked you to build coming along?",
+   "en": "By the way...how is that machine Dr. Umon asked you to build coming along?",
    "translation_owner": {
     "source": "work/translation/en/script/stage10_campaign.json",
     "id": 315
    },
-   "notes": "Restored progress-question verb; fixed glossary spelling Genzo Umon.",
+   "notes": "Restored progress-question verb; fixed glossary spelling Genzo Umon. Chapters 1-14 proofreading: Restores the doctor's title used in the source instead of replacing it with his full name.",
    "uncertain": []
   },
   {
@@ -7732,12 +7732,12 @@
    "kind": "dialogue",
    "speaker_jp": "弓教授",
    "speaker_en": "Professor Yumi",
-   "en": "An Earth-built Spazer created by you, Genzo Umon and me... I can hardly wait for it to be finished.",
+   "en": "An Earth-built Spazer created by you, Dr. Umon and me... I can hardly wait for it to be finished.",
    "translation_owner": {
     "source": "work/translation/en/script/stage10_campaign.json",
     "id": 318
    },
-   "notes": "All three researchers retained; Genzo Umon spelling follows protected glossary.",
+   "notes": "All three researchers retained; Genzo Umon spelling follows protected glossary. Chapters 1-14 proofreading: Restores the source's natural reference to Dr. Umon.",
    "uncertain": []
   },
   {
@@ -8033,7 +8033,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 10,
-  "fingerprint": "98d2f1f23bb7564e4c177e2fd6eaeb9e6ddc7550f7be1fadad025db9169c43fd",
+  "fingerprint": "457abc1251d2e0286799a26c128e289860d084c4bb154b3de25ade0cfaba9208",
   "reviewed_reused_ids": [
    31,
    49,
@@ -8191,7 +8191,7 @@
   "reviewed_reused_rows": 152,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 152 reused rows:143 generic defeat rows match Stage9 exactly;9 other original numeric-use neighborhoods retain reactions, silence and mission conditions without new referents. Reviewed four fresh uncertainties against neighbors: interrupted Atami adult-museum allusion, majin wordplay and unspecified Mazinger. All 337 final rows fit; one measured objective overflow189 shortened while retaining HP60% inclusive threshold and persuasion order. Ryo nickname confirmed and initial drafts retained."
+  "note": "Reviewed all 152 reused rows:143 generic defeat rows match Stage9 exactly;9 other original numeric-use neighborhoods retain reactions, silence and mission conditions without new referents. Reviewed four fresh uncertainties against neighbors: interrupted Atami adult-museum allusion, majin wordplay and unspecified Mazinger. All 337 final rows fit; one measured objective overflow189 shortened while retaining HP60% inclusive threshold and persuasion order. Ryo nickname confirmed and initial drafts retained. 2026-10-09: All Chapter 10 rows proofread against the original source in scene context, including all applicable routes and reused rows. 7 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 489,

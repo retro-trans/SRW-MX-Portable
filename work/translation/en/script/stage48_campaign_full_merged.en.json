@@ -3253,12 +3253,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll spare you... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Use natural English for the threat to leave an opponent alive temporarily, rather than the opaque phrase about leaving their fate be.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -8857,12 +8857,12 @@
    "kind": "dialogue",
    "speaker_jp": "鉄也",
    "speaker_en": "Tetsuya",
-   "en": "I've fought plenty of evil bosses, but I've never met anyone such a sore loser as you!",
+   "en": "I've fought plenty of evil bosses, but I've never met a sore loser like you!",
    "translation_owner": {
     "source": "work/translation/en/script/stage48_campaign.json",
     "id": 379
    },
-   "notes": "",
+   "notes": " Chapters 31-58 proofreading: Repair the ungrammatical comparison while preserving his refusal to accept defeat.",
    "uncertain": []
   },
   {
@@ -9547,12 +9547,12 @@
    "kind": "dialogue",
    "speaker_jp": "デューク",
    "speaker_en": "Duke",
-   "en": "Here I come, Vegan Empire! My father's and mother's... Everyone on Planet Fleed's... And Mors and Rubina's...",
+   "en": "Here I come, Vegan Empire! My father and mother... Everyone on Planet Fleed... And Mors and Rubina...",
    "translation_owner": {
     "source": "work/translation/en/script/stage48_campaign.json",
     "id": 421
    },
-   "notes": "Unfinished possessive object continuing at422; all named people retained; retained omission. Semantic review: Clarify each possessive attachment without moving the hopes object from422.",
+   "notes": "Unfinished possessive object continuing at422; all named people retained; retained omission. Semantic review: Clarify each possessive attachment without moving the hopes object from422. Chapters 31-58 proofreading: Remove stranded possessives; the following line completes his pledge to fight with their hopes for peace.",
    "uncertain": [
     "Retained source omission: unfinished possessive object for father, mother, Planet Fleed people, Mors and Rubina; row422 supplies hopes and fighting clause."
    ]
@@ -11367,7 +11367,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 48,
-  "fingerprint": "3a9a395473dc12b89cd7b6d9b5316345b1396e40e611cb99ef3a1d25a1fcb195",
+  "fingerprint": "49b858eac51f07c5a379c44edf9bc237562a43506ae3acdcbc6d41561f0b7584",
   "reviewed_reused_ids": [
    0,
    59,
@@ -11527,7 +11527,7 @@
   "reviewed_reused_rows": 154,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator reviewed all 534 fresh source/final pairs, all 38 fresh flags, every occurrence of 11 non-template reused rows and 143 generic defeat rows with 205 registrations and no ordinary uses. Original conditional event chronology, three painted-label branches, Kyral crimes and blindness, Rubina marriage assumptions and shooting reveal, Duke subjective guilt, all possessive attachments, ranked AND objectives and map-edge OR defeat, radioactive crash deadlines, delayed homecoming and jealousy are preserved. Independent source corrections60/158, canonical Medifo168/183/199 and source-scoped Black Great checked; immutable drafts retained. Independent font audit verifies all finals fit, with only initial draft26 requiring measured compression."
+  "note": "Coordinator reviewed all 534 fresh source/final pairs, all 38 fresh flags, every occurrence of 11 non-template reused rows and 143 generic defeat rows with 205 registrations and no ordinary uses. Original conditional event chronology, three painted-label branches, Kyral crimes and blindness, Rubina marriage assumptions and shooting reveal, Duke subjective guilt, all possessive attachments, ranked AND objectives and map-edge OR defeat, radioactive crash deadlines, delayed homecoming and jealousy are preserved. Independent source corrections60/158, canonical Medifo168/183/199 and source-scoped Black Great checked; immutable drafts retained. Independent font audit verifies all finals fit, with only initial draft26 requiring measured compression. 2026-10-09: All Chapter 48 rows proofread against the original source in scene context, including all applicable routes and reused rows. 3 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  },
  "full_checks": {
   "rows": 688,

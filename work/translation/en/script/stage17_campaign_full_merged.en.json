@@ -486,12 +486,12 @@
    "kind": "dialogue",
    "speaker_jp": "遙",
    "speaker_en": "Haruka",
-   "en": "But on the Yangtze route, Tekkoryu may target us. Their headquarters are said to be in southern China.",
+   "en": "But on the Yangtze route, Hau Dragon may target us. Their headquarters are said to be in southern China.",
    "translation_owner": {
     "source": "work/translation/en/script/stage16_campaign.json",
     "id": 10
    },
-   "notes": "",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": []
   },
   {
@@ -808,12 +808,12 @@
    "kind": "dialogue",
    "speaker_jp": "恵",
    "speaker_en": "Megumi",
-   "en": "Y-yes...",
+   "en": "N-no, it isn't...",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 40
    },
-   "notes": "Affirms creature is not a Saucer Beast, answering39.",
+   "notes": "Affirms creature is not a Saucer Beast, answering39. Chapters 15-30 proofreading: Make the reply to the negative English question unambiguous: the creature is not a Saucer Beast.",
    "uncertain": []
   },
   {
@@ -6598,12 +6598,12 @@
    "kind": "dialogue",
    "speaker_jp": "ボス",
    "speaker_en": "Boss",
-   "en": "Y-you bastards... You think this has nothing to do with you...!",
+   "en": "Y-you bastards... Easy for you to say when it's not your neck on the line...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 227
    },
-   "notes": "Boss resents the Dragonar trio treating his danger as someone else's problem; hostile force retained.",
+   "notes": "Boss resents the Dragonar trio treating his danger as someone else's problem; hostile force retained. Chapters 15-30 proofreading: Use a natural English complaint that preserves his anger at those treating his danger as someone else's problem.",
    "uncertain": []
   },
   {
@@ -8812,12 +8812,12 @@
    "kind": "dialogue",
    "speaker_jp": "サブロウタ",
    "speaker_en": "Saburota",
-   "en": "Sometimes we get the cold shoulder where Commander Misumaru can't see it.",
+   "en": "Sometimes we get a raw deal behind Commander Misumaru's back.",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 360
    },
-   "notes": "",
+   "notes": " Screenshot proofreading follow-up: cold or unfair treatment is broader than simply being ignored. The line describes mistreatment outside Commander Misumaru's oversight. Raw deal and behind his back preserve Saburota's casual tone without the literal, awkward location clause.",
    "uncertain": []
   },
   {
@@ -10322,12 +10322,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "I'm Major Ruri Hoshino of the Earth Federation Space Force.",
+   "en": "I'm Lieutenant Commander Ruri Hoshino of the Earth Federation Space Force.",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 450
    },
-   "notes": " Central affiliation entry used; Earth is present in the full source label.",
+   "notes": " Central affiliation entry used; Earth is present in the full source label. Chapters 15-30 proofreading: Match the established naval rendering of Ruri's rank; the Japanese rank is unchanged.",
    "uncertain": [
     "Earth Federation Space Force follows central source-literal MX affiliation; independent licensed MX label unconfirmed."
    ]
@@ -10684,12 +10684,12 @@
    "kind": "dialogue",
    "speaker_jp": "ヤマサキ",
    "speaker_en": "Yamasaki",
-   "en": "Let's put our earnest, duty-bound major's mind at ease.",
+   "en": "Let's put our earnest, duty-bound lieutenant commander's mind at ease.",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 472
    },
-   "notes": "",
+   "notes": " Chapters 15-30 proofreading: Keep Ruri's established rank consistent in this reference.",
    "uncertain": []
   },
   {
@@ -12379,12 +12379,12 @@
    "kind": "dialogue",
    "speaker_jp": "リョーコ",
    "speaker_en": "Ryoko",
-   "en": "Martian Successors, economic boom, whatever! You attacked us, so don't expect to leave in one piece!",
+   "en": "Martian Successors, Martian suckers, whatever! You attacked us, so don't expect to leave in one piece!",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 573
    },
-   "notes": "Dismissive pun pairs successors with economic boom in source; literal second notion retained.",
+   "notes": "Dismissive pun pairs successors with economic boom in source; literal second notion retained. Chapters 15-30 proofreading: Adapt Ryoko's deliberately mangled faction name into an English sound-alike insult; the Japanese plays on successors and economic boom.",
    "uncertain": [
     "Japanese successors/economic-boom wordplay loses its phonetic connection in literal English."
    ]
@@ -12607,12 +12607,12 @@
    "kind": "dialogue",
    "speaker_jp": "アズマ",
    "speaker_en": "Azuma",
-   "en": "All right! We'll let them cut our flesh so we can break their bones!!",
+   "en": "All right! We'll take a hit to land a killing blow!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 587
    },
-   "notes": "Flesh/bone idiom retained; colony collateral-risk reply establishes willingness to take damage for victory.",
+   "notes": "Flesh/bone idiom retained; colony collateral-risk reply establishes willingness to take damage for victory. Chapters 15-30 proofreading: Render the flesh-and-bones proverb as a natural tactical idiom: accept a wound to strike decisively.",
    "uncertain": []
   },
   {
@@ -12655,12 +12655,12 @@
    "kind": "dialogue",
    "speaker_jp": "アズマ",
    "speaker_en": "Azuma",
-   "en": "Even a flying fly is easy to hit when it stops! Some sacrifices are unavoidable!!",
+   "en": "Once a fly stops moving, it's easy to swat! Some sacrifices are unavoidable!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 590
    },
-   "notes": "Fly-at-rest maxim retained; sacrifices explicitly kept.",
+   "notes": "Fly-at-rest maxim retained; sacrifices explicitly kept. Chapters 15-30 proofreading: Remove the redundant flying fly phrasing and keep the proverb's meaning.",
    "uncertain": []
   },
   {
@@ -13771,12 +13771,12 @@
    "kind": "plain",
    "speaker_jp": "",
    "speaker_en": "",
-   "en": "1. Allied units reach the destination",
+   "en": "1. An allied unit reaches the destination",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 659
    },
-   "notes": "Victory objective; source has zero @ separators. Neutral source-collective objective; no added any-one/all-units trigger claim.",
+   "notes": "Victory objective; source has zero @ separators. Neutral source-collective objective; no added any-one/all-units trigger claim. Chapters 15-30 proofreading: Clarify that reaching the goal with an allied unit satisfies the stated objective; the source does not require every unit.",
    "uncertain": []
   },
   {
@@ -14205,12 +14205,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "...Hello. I'm Major Ruri Hoshino of the Federation Space Force.",
+   "en": "...Hello. I'm Lieutenant Commander Ruri Hoshino of the Federation Space Force.",
    "translation_owner": {
     "source": "work/translation/en/script/stage17_campaign.json",
     "id": 686
    },
-   "notes": "Retains source military rank Major, not original-series profile rank.",
+   "notes": "Retains source military rank Major, not original-series profile rank. Chapters 15-30 proofreading: Use the established naval rendering of Ruri's rank consistently.",
    "uncertain": [
     "Federation Space Force follows central source-short MX affiliation; independent licensed MX label unconfirmed."
    ]
@@ -15858,7 +15858,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 17,
-  "fingerprint": "6d2ec90fa069b7106dae68229119e69b6cee92c724191ac78f9f2c560d12ec20",
+  "fingerprint": "787d13ef13f67b3f98b3d59f14b45f5fe1841fe90321925d6e040e326a20e33d",
   "reviewed_reused_ids": [
    23,
    24,
@@ -16034,7 +16034,7 @@
   "reviewed_reused_rows": 170,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all 788 fresh final lines, relevant original windows for all 28 fresh flags, reports and agent meaning amendments. Reviewed all 170 shared rows in every original use: 143 generic failure rows exactly match Stage 16; 27 special rows reviewed across route decisions, battle triggers, acknowledgments and ten hidden-speaker silences. All initials/finals fit without compression. Source wordplay, cosmic imagery, opaque processing metaphor, inferred referents and independent English provenance limits retained; full drafts preserved."
+  "note": "Coordinator read all 788 fresh final lines, relevant original windows for all 28 fresh flags, reports and agent meaning amendments. Reviewed all 170 shared rows in every original use: 143 generic failure rows exactly match Stage 16; 27 special rows reviewed across route decisions, battle triggers, acknowledgments and ten hidden-speaker silences. All initials/finals fit without compression. Source wordplay, cosmic imagery, opaque processing metaphor, inferred referents and independent English provenance limits retained; full drafts preserved. 2026-10-09: All Chapter 17 rows proofread against the original source in scene context, including all applicable routes and reused rows. 9 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-10: Applied Chapter 17 entry 524 screenshot proofreading correction; recorded in screenshot_proofread_followups.en.json and cumulative HTML. Source-only; no ISO rebuild. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
  },
  "full_checks": {
   "rows": 958,

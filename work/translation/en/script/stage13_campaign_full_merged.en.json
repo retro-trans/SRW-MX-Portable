@@ -154,7 +154,7 @@
    "kind": "dialogue",
    "speaker_jp": "バーベム",
    "speaker_en": "Bahbem",
-   "en": "They are ideal for buying time... No, as decoys to draw our gaze and the enemy to them.",
+   "en": "They're ideal for stalling... No, as decoys to draw our attention and lure the enemy.",
    "translation_owner": {
     "source": "work/translation/en/script/stage13_campaign.json",
     "id": 8
@@ -3511,12 +3511,12 @@
    "kind": "dialogue",
    "speaker_jp": "アルテア",
    "speaker_en": "Altair",
-   "en": "I'll leave your fate be... for now!",
+   "en": "I'll let you live... for now!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 275
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
    "uncertain": [
     "[jp] (retreat line): 'I'll hold off on your fate for a while'."
    ]
@@ -4621,12 +4621,12 @@
    "kind": "dialogue",
    "speaker_jp": "甲児",
    "speaker_en": "Koji",
-   "en": "You'd better remember this, you bastard!",
+   "en": "You'll pay for this, you bastard!",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 340
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: The defeat line is a revenge threat, not a literal instruction to remember something.",
    "uncertain": []
   },
   {
@@ -5134,12 +5134,12 @@
    "kind": "dialogue",
    "speaker_jp": "ロクフェル",
    "speaker_en": "Rockfell",
-   "en": "Saiga... I... end here...",
+   "en": "Saiga... This is... the end for me...",
    "translation_owner": {
     "source": "work/translation/en/script/prologue_merged.json",
     "id": 370
    },
-   "notes": "",
+   "notes": " Chapters 1-14 proofreading: Rockfell's interrupted dying line needs natural English rather than I end here.",
    "uncertain": [
     "Source 'watashi wa... koko de...' omits the verb; inferred 'end here' (dying/defeat)."
    ]
@@ -7877,12 +7877,12 @@
    "kind": "dialogue",
    "speaker_jp": "総一",
    "speaker_en": "Soichi",
-   "en": "Well... Colonel, we'd like you to take in RahXephon and its pilot, Ayato Kamina.",
+   "en": "Well... Captain, we'd like you to take in RahXephon and its pilot, Ayato Kamina.",
    "translation_owner": {
     "source": "work/translation/en/script/stage13_campaign.json",
     "id": 318
    },
-   "notes": "Soichi asks Bright to host both machine and pilot; request direction explicit.",
+   "notes": "Soichi asks Bright to host both machine and pilot; request direction explicit. Chapters 1-14 proofreading: Uses Bright's established naval rank, consistent with the same scene's Captain Bright Noa reference and the project glossary decision.",
    "uncertain": []
   },
   {
@@ -8822,7 +8822,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 13,
-  "fingerprint": "241235f4552c3e3a4f3e22bc6203e1202b2d946f70a595bf4f9e39e8eb036235",
+  "fingerprint": "09163bf0d4d8559f9cfd258b145c48fe630d4230d43813fded2d2b3277224bd1",
   "reviewed_reused_ids": [
    28,
    29,
@@ -8989,7 +8989,7 @@
   "reviewed_reused_rows": 161,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Reviewed all 161 reused rows: 143 generic defeat rows match reviewed Stage 12 exactly, and eighteen special rows checked across every original numeric-use window including twelve Ayato silences and shared reactions. Read all 375 final fresh lines and fourteen uncertainty flags in original context. Retained poetic Quon imagery, inferred travel/target references and provisional literal terminology; transmission141 compressed only after measurement. Names reconciled after meaning edits; initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved."
+  "note": "Reviewed all 161 reused rows: 143 generic defeat rows match reviewed Stage 12 exactly, and eighteen special rows checked across every original numeric-use window including twelve Ayato silences and shared reactions. Read all 375 final fresh lines and fourteen uncertainty flags in original context. Retained poetic Quon imagery, inferred travel/target references and provisional literal terminology; transmission141 compressed only after measurement. Names reconciled after meaning edits; initial drafts retained. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 13 rows proofread against the original source in scene context, including all applicable routes and reused rows. 4 row occurrences corrected; every correction explained in chapters01_14_proofread.en.json and chapters01_14_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese."
  },
  "full_checks": {
   "rows": 536,

@@ -369,12 +369,12 @@
    "kind": "dialogue",
    "speaker_jp": "ミン",
    "speaker_en": "Min",
-   "en": "...Beautiful, huh.",
+   "en": "... Beautiful, huh.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 20
    },
-   "notes": "Min repeats BEAUTIFUL skeptically after19, intentional source fragment/omission retained, no invented insult.",
+   "notes": "Min repeats BEAUTIFUL skeptically after19, intentional source fragment/omission retained, no invented insult. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Min repeats BEAUTIFUL skeptically after19, intentional source fragment/omission retained, no invented insult."
    ]
@@ -834,12 +834,12 @@
    "kind": "dialogue",
    "speaker_jp": "マサキ",
    "speaker_en": "Masaki",
-   "en": "Leave it to me. ...What fools, playing a game like this over and over again.",
+   "en": "Leave it to me. ... What fools, playing a game like this over and over again.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 46
    },
-   "notes": "Masaki offers to handle closing address then insults players for repeatedly playing this kind of game; play action supplied from settled game context.",
+   "notes": "Masaki offers to handle closing address then insults players for repeatedly playing this kind of game; play action supplied from settled game context. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -970,12 +970,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイ",
    "speaker_en": "Rei",
-   "en": "...I see. You're stopping here.",
+   "en": "... I see. You're stopping here.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 54
    },
-   "notes": "Separate Rei/Asuka sketch starts here; Rei addresses player stopping game, not Miku identity sketch continuation.",
+   "notes": "Separate Rei/Asuka sketch starts here; Rei addresses player stopping game, not Miku identity sketch continuation. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -1020,12 +1020,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイ",
    "speaker_en": "Rei",
-   "en": "...Because people have lives to live.",
+   "en": "... Because people have lives to live.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 57
    },
-   "notes": "Rei explains people have lives; no work or family circumstances invented.",
+   "notes": "Rei explains people have lives; no work or family circumstances invented. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": []
   },
   {
@@ -1052,12 +1052,12 @@
    "kind": "dialogue",
    "speaker_jp": "レイ",
    "speaker_en": "Rei",
-   "en": "...Then that's no different from continuing the game.",
+   "en": "... Then that's no different from continuing the game.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 59
    },
-   "notes": "Rei answers Asuka ten-second demand: stopping so briefly is no different from continuing the game. Source loanword translated as gameplay action, without asserting a particular menu choice.",
+   "notes": "Rei answers Asuka ten-second demand: stopping so briefly is no different from continuing the game. Source loanword translated as gameplay action, without asserting a particular menu choice. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "Game-action continue loanword source-bound; no specific menu option or choice asserted."
    ]
@@ -1388,12 +1388,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Hello. I'm Lieutenant Commander Ruri Hoshino of the United Space Force (UESF).",
+   "en": "Hello. I'm Lieutenant Commander Ruri Hoshino of the United Space Force.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 78
    },
-   "notes": "Ruri self-introduction: full name, scoped naval rank and exact main organization; no army Major substitution.",
+   "notes": "Ruri self-introduction: full name, scoped naval rank and exact main organization; no army Major substitution. Chapters 31-58 proofreading: Remove an acronym explanation that is not spoken in the original.",
    "uncertain": [
     "main_organization",
     "scoped_rank_provenance"
@@ -1463,12 +1463,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "Even if you say that, I'm still the Real Robot type, after all, so... ...Well, then...",
+   "en": "Even if you say that, I'm still the Real Robot type, after all, so... Well, then...",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 82
    },
-   "notes": "Ruri metatextual Real Robot category explains difficulty with catchphrase; source causal cutoff and hesitations retained. Central supplement registers source category + Akurasu category stem; no independent Ruri classification or mechanics inferred.",
+   "notes": "Ruri metatextual Real Robot category explains difficulty with catchphrase; source causal cutoff and hesitations retained. Central supplement registers source category + Akurasu category stem; no independent Ruri classification or mechanics inferred. Chapters 31-58 proofreading: Remove the redundant consecutive ellipses while retaining the pause.",
    "uncertain": [
     "metatextual_category",
     "provisional_term",
@@ -1484,12 +1484,12 @@
    "kind": "dialogue",
    "speaker_jp": "ルリ",
    "speaker_en": "Ruri",
-   "en": "\"The twinkling of stars is people's feelings\"... You'll find the rest in the game.",
+   "en": "\"The stars shine with people's feelings\"... You'll find the rest in the game.",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 83
    },
-   "notes": "Quoted source slogan left at actual ending; following game direction restores omitted action, no external slogan completion.",
+   "notes": "Quoted source slogan left at actual ending; following game direction restores omitted action, no external slogan completion. Chapters 31-58 proofreading: Express the metaphor naturally while preserving its association between starlight and human feelings.",
    "uncertain": [
     "source_quote_literal",
     "no_external_quote_completion",
@@ -1505,12 +1505,12 @@
    "kind": "dialogue",
    "speaker_jp": "ハーリー",
    "speaker_en": "Hari",
-   "en": "...Have you changed...?",
+   "en": "... Have you changed...?",
    "translation_owner": {
     "source": "work/translation/en/script/stage58_campaign.json",
     "id": 84
    },
-   "notes": "Hari is reading manga dialogue: second-person referent unknown, no automatic Ruri identification.",
+   "notes": "Hari is reading manga dialogue: second-person referent unknown, no automatic Ruri identification. Chapters 31-58 proofreading: Separate words after the ellipsis for readability.",
    "uncertain": [
     "manga_reading_referent_unresolved"
    ]
@@ -1638,13 +1638,13 @@
  },
  "context_review": {
   "stage": 58,
-  "fingerprint": "2f03c5f6c3bda0ec903c9ecec2f7f2fff3f96ba83ff775a9bb30423ee9203f16",
+  "fingerprint": "0fea36962767e4e191f198827ac926ed05938ea2f650077cda73f460fcaabcde",
   "reviewed_reused_ids": [
    38
   ],
   "reviewed_reused_rows": 1,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator paired-read all 91 fresh sources/finals and flags. Independently matched all 92 full rows and 95 original uses to208 commands in14 separate selected closing sketches; checked all5 repeated uses and the inherited Akito reaction with bounded final neighbors. First13 sketches jump to common exit203; final sketch falls through. Six immutable drafts and actual native-font metrics verified; no initial or final overflows. Retained verbal tics, false preview titles, D-3 Custom and SRW source abbreviations, literal poems with ambiguity/provenance flags, incomplete quotes, identity switches, player advice and manga referents. No cross-sketch narrative, playtest or release claim."
+  "note": "Coordinator paired-read all 91 fresh sources/finals and flags. Independently matched all 92 full rows and 95 original uses to208 commands in14 separate selected closing sketches; checked all5 repeated uses and the inherited Akito reaction with bounded final neighbors. First13 sketches jump to common exit203; final sketch falls through. Six immutable drafts and actual native-font metrics verified; no initial or final overflows. Retained verbal tics, false preview titles, D-3 Custom and SRW source abbreviations, literal poems with ambiguity/provenance flags, incomplete quotes, identity switches, player advice and manga referents. No cross-sketch narrative, playtest or release claim. 2026-10-09: All Chapter 58 rows proofread against the original source in scene context, including all applicable routes and reused rows. 9 row occurrences corrected; every correction explained in chapters31_58_proofread.en.json and chapters31_58_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review."
  }
 }

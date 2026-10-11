@@ -1216,8 +1216,8 @@
   "58": {
    "entry": 58,
    "name_jp": "高機動型ブラックサレナ",
-   "name_en": "High-maneuver Black Sarana",
-   "en": "The high-mobility form of Black Sarana. This is the state with the high-mobility unit attached, and in this form solo Boson Jump is possible. However, it cannot use its handgun and effectively has no means of attack other than ramming, so it is used only for limited operations such as breaking through enemy lines.",
+   "name_en": "High-maneuver Black Selena",
+   "en": "The high-mobility form of Black Selena. This is the state with the high-mobility unit attached, and in this form solo Boson Jump is possible. However, it cannot use its handgun and effectively has no means of attack other than ramming, so it is used only for limited operations such as breaking through enemy lines.",
    "notes": "",
    "uncertain": [],
    "_group": "B"
@@ -1225,8 +1225,8 @@
   "59": {
    "entry": 59,
    "name_jp": "ブラックサレナ",
-   "name_en": "Black Sarana",
-   "en": "The name Black Sarana is given to Akito's dedicated Aestivalis when thick armor and boosters are attached to it. It is a machine Nergal prepared for Akito, who acts alone for the sake of revenge. Nozzles built into various parts of the body make acrobatic high mobility possible, but as a result of pursuing mobility and heavy armor, its armament is kept to a minimum. Therefore its greatest attack is a ramming attack that makes use of its sturdiness. The tail-shaped tail binder is a manipulator arm, and has an anchor claw at its tip.",
+   "name_en": "Black Selena",
+   "en": "The name Black Selena is given to Akito's dedicated Aestivalis when thick armor and boosters are attached to it. It is a machine Nergal prepared for Akito, who acts alone for the sake of revenge. Nozzles built into various parts of the body make acrobatic high mobility possible, but as a result of pursuing mobility and heavy armor, its armament is kept to a minimum. Therefore its greatest attack is a ramming attack that makes use of its sturdiness. The tail-shaped tail binder is a manipulator arm, and has an anchor claw at its tip.",
    "notes": "",
    "uncertain": [],
    "_group": "B"
@@ -1235,7 +1235,7 @@
    "entry": 60,
    "name_jp": "エステバリスＣ・アキト",
    "name_en": "Aestivalis Custom (Akito)",
-   "en": "An Aestivalis customized for Akito's exclusive use. Some say it is a prototype of the Alstroemeria. Because it was designed on the premise of attaching armor and boosters to make the Black Sarana, the wired punch and the wheels for roller dash in the heels are omitted.",
+   "en": "An Aestivalis customized for Akito's exclusive use. Some say it is a prototype of the Alstroemeria. Because it was designed on the premise of attaching armor and boosters to make the Black Selena, the wired punch and the wheels for roller dash in the heels are omitted.",
    "notes": "",
    "uncertain": [
     "[jp] rendered \"wired punch\" (SRW wiki calls it \"wire punch\")"
@@ -1279,8 +1279,8 @@
    "entry": 127,
    "name_jp": "天のゼオライマー",
    "name_en": "Zeorymer of the Heavens",
-   "en": "A Hakke robot bearing the title of \"Heavens.\" Its power is the greatest among the Hakke robots. It was built by Tekkoryu but was stolen after completion. It was then secretly placed under the control of the Japanese government, but with Tekkoryu's start of activity it became a target for recapture. It has no optional equipment at all, and fights with beams and shock waves fired from the light spheres on the backs of its hands, and with melee combat. Its finishing move, the \"Hades Attack,\" fired by bringing the light spheres on its chest and both arms together in front of the chest, has the power to break down every atom. It can also deploy a high-output barrier, making it a machine well balanced in both offense and defense. Each Hakke robot can only be piloted by a specific person, but Zeorymer is a special machine that requires two people: main pilot Masato Akitsu and sub-pilot Miku Himuro. However, Miku is only support, and only Masato can pilot it. Masato alone can also move it, but its power drops. It is housed in the hangar of the Japanese government's secret base \"Last Guardian,\" beneath the Aokigahara sea of trees, in a state divided into four parts: the chest light sphere, upper torso, both arms, and lower body.",
-   "notes": "",
+   "en": "A Hakke robot bearing the title of \"Heavens.\" Its power is the greatest among the Hakke robots. It was built by Hau Dragon but was stolen after completion. It was then secretly placed under the control of the Japanese government, but with Hau Dragon's start of activity it became a target for recapture. It has no optional equipment at all, and fights with beams and shock waves fired from the light spheres on the backs of its hands, and with melee combat. Its finishing move, the \"Hades Attack,\" fired by bringing the light spheres on its chest and both arms together in front of the chest, has the power to break down every atom. It can also deploy a high-output barrier, making it a machine well balanced in both offense and defense. Each Hakke robot can only be piloted by a specific person, but Zeorymer is a special machine that requires two people: main pilot Masato Akitsu and sub-pilot Miku Himuro. However, Miku is only support, and only Masato can pilot it. Masato alone can also move it, but its power drops. It is housed in the hangar of the Japanese government's secret base \"Last Guardian,\" beneath the Aokigahara sea of trees, in a state divided into four parts: the chest light sphere, upper torso, both arms, and lower body.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [
     "[jp] rendered \"Hades Attack\" (SRW wiki term; romaji Meioh Attack)"
    ],
@@ -1290,8 +1290,8 @@
    "entry": 128,
    "name_jp": "天のゼオライマー",
    "name_en": "Zeorymer of the Heavens",
-   "en": "Zeorymer without Miku aboard. Because Miku was taken away by Tekkoryu, Masato alone boarded it and fought Rose C'est la vie. The light in the chest light sphere has gone out, and it can only produce less than one third of its original power.",
-   "notes": "",
+   "en": "Zeorymer without Miku aboard. Because Miku was taken away by Hau Dragon, Masato alone boarded it and fought Rose C'est la vie. The light in the chest light sphere has gone out, and it can only produce less than one third of its original power.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [],
    "_group": "B"
   },
@@ -1776,7 +1776,7 @@
    "entry": 137,
    "name_jp": "ラーゼフォン",
    "name_en": "RahXephon",
-   "en": "A giant god that awoke from the dimensional egg in the Seon Temple \"Room of Rah,\" located under the MU Tokyo Government-General in the center of TOKYO JUPITER. It moves by synchronizing with Ayato's consciousness, and no one but Ayato can pilot it. However, it can act autonomously, attack in self-defense, and move on its own in search of Ayato. When the chest armor opens, a core appears, and it takes Ayato into its womb through the core. The inner cavern that corresponds to the cockpit is called the \"Instrumentalist's Seat,\" and its base is filled with water called the \"Spring of Oracles,\" with a feather-shaped chair jutting out from the spring. Incidentally, RahXephon's pilot is called an \"instrumentalist\" by some people. The feathers on both sides of its forehead can be opened and closed freely, and are kept closed when Ayato is not aboard or during autonomous action. RahXephon's eyes are normally red, but beneath them is a golden eyeball called the \"Eye of Truth.\" It also has an openable visor at the brim, which can cover the eyes. It has no armament or options at all; it emits high-frequency sound from its mouth and smashes enemies with light from its palms. Because its material, structure and power source are all unknown, the Earth Federation side classifies it as Mulian Artifact Class 5A (Five-A). A giant god of many mysteries that evolves along with Ayato's mental growth.",
+   "en": "A giant god that awoke from the dimensional egg in the Seon Temple \"Room of Rah,\" located under the Mu Tokyo Government-General in the center of TOKYO JUPITER. It moves by synchronizing with Ayato's consciousness, and no one but Ayato can pilot it. However, it can act autonomously, attack in self-defense, and move on its own in search of Ayato. When the chest armor opens, a core appears, and it takes Ayato into its womb through the core. The inner cavern that corresponds to the cockpit is called the \"Instrumentalist's Seat,\" and its base is filled with water called the \"Spring of Oracles,\" with a feather-shaped chair jutting out from the spring. Incidentally, RahXephon's pilot is called an \"instrumentalist\" by some people. The feathers on both sides of its forehead can be opened and closed freely, and are kept closed when Ayato is not aboard or during autonomous action. RahXephon's eyes are normally red, but beneath them is a golden eyeball called the \"Eye of Truth.\" It also has an openable visor at the brim, which can cover the eyes. It has no armament or options at all; it emits high-frequency sound from its mouth and smashes enemies with light from its palms. Because its material, structure and power source are all unknown, the Earth Federation side classifies it as Mulian Artifact Class 5A (Five-A). A giant god of many mysteries that evolves along with Ayato's mental growth.",
    "notes": "",
    "uncertain": [
     "'Seon Temple' and 'Spring of Oracles' are literal renderings ([jp], [jp]); 'Instrumentalist's Seat' ([jp]) likewise.",
@@ -2327,7 +2327,7 @@
   "268": {
    "entry": 268,
    "name_jp": "火のブライスト",
-   "name_en": "Briest of the Fires",
+   "name_en": "Bryst of the Fires",
    "en": "A Hakke Robo bearing the title \"Fire,\" piloted by Shi-Aen. In the combination attack \"Twin Lords\" with Gallowin of water, piloted by his younger sister Shi-Tau, Gallowin's \"Beam Searcher\" and Bryst's \"Plasma Light Bullet Magrash\" collide in midair and destroy the target along with the space around it. There is also a technique called \"Twin Flare,\" in which the two machines are linked and fire. As a single-machine attack it is equipped with the napalm \"Flare Launcher,\" which gives off high heat. It cannot fly, but it can glide by hovering. It was heavily damaged shielding Gallowin from Zeorymer's beam, and was destroyed by the Hades Attack together with Gallowin.",
    "notes": "Batch label was wrong; name_jp corrected per corrections/fix_D.txt (orchestrator). Text translated as describing the corrected machine. Corrected: Fire Bryst.",
    "uncertain": [
@@ -3525,7 +3525,7 @@
    "entry": 98,
    "name_jp": "アオイ・ジュン",
    "name_en": "Jun Aoi",
-   "en": "One of the former Nadesico crew and a Space Force lieutenant colonel, age 25. He is Yurika's childhood friend from her days on Earth and has been in love with her since he was a boy; during the Jovian War he served as Nadesico's assistant captain, but his feelings did not reach her. He is currently captain of the battleship Amaryllis of the Space Force 3rd Fleet and is on colony guard duty, and in the Shirahime Incident he witnessed Black Sarana boson out. He is capable at work but weak with women, so he has long been a plaything of the women. Incidentally, these days he is pushed around by Yukina every day.",
+   "en": "One of the former Nadesico crew and a Space Force lieutenant colonel, age 25. He is Yurika's childhood friend from her days on Earth and has been in love with her since he was a boy; during the Jovian War he served as Nadesico's assistant captain, but his feelings did not reach her. He is currently captain of the battleship Amaryllis of the Space Force 3rd Fleet and is on colony guard duty, and in the Shirahime Incident he witnessed Black Selena boson out. He is capable at work but weak with women, so he has long been a plaything of the women. Incidentally, these days he is pushed around by Yukina every day.",
    "notes": "",
    "uncertain": [
     "[jp] rendered \"boson out\" (emerging from a Boson Jump)",
@@ -3814,7 +3814,7 @@
    "entry": 134,
    "name_jp": "ラピス・ラズリ",
    "name_en": "Lapis Lazuli",
-   "en": "A girl created through genetic manipulation like Ruri. She also has excellent operation ability. She was originally raised at a Nergal laboratory, but was captured by the Martian Successors and later rescued by Akito. Since then she has acted together with Akito, who lost his five senses, as his support. The battleship Eucharis that she operates is the mothership of Black Sarana. She lacks emotional expression even more than Ruri used to, and is a mysterious girl.",
+   "en": "A girl created through genetic manipulation like Ruri. She also has excellent operation ability. She was originally raised at a Nergal laboratory, but was captured by the Martian Successors and later rescued by Akito. Since then she has acted together with Akito, who lost his five senses, as his support. The battleship Eucharis that she operates is the mothership of Black Selena. She lacks emotional expression even more than Ruri used to, and is a mysterious girl.",
    "notes": "",
    "uncertain": [
     "[jp] rendered \"Eucharis\" (Wikipedia/Nadesico fandom); kana is Yuchalis"
@@ -3825,8 +3825,8 @@
    "entry": 255,
    "name_jp": "秋津マサト",
    "name_en": "Masato Akitsu",
-   "en": "A 15-year-old junior high school student who is thrown into a mad battle regardless of his own will. He lived a comfortable life without any connection to Tekkoryu, but he holds faint memories and knowledge about Zeorymer in his subconscious, and can pilot Zeorymer unconsciously. He is a shy, ordinary boy, with a gentle side that refuses to make sacrifices and cannot be ruthless. However, he has a duality in which his personality changes to a vicious one during combat; he fears this self and suffers in agony. When his personality becomes vicious, his gaze sharpens and the color of his eyes changes. Zeorymer piloted in this state displays its true power, and keeps the other Hakke robots at bay with overwhelming attack power and high-speed movement.",
-   "notes": "",
+   "en": "A 15-year-old junior high school student who is thrown into a mad battle regardless of his own will. He lived a comfortable life without any connection to Hau Dragon, but he holds faint memories and knowledge about Zeorymer in his subconscious, and can pilot Zeorymer unconsciously. He is a shy, ordinary boy, with a gentle side that refuses to make sacrifices and cannot be ruthless. However, he has a duality in which his personality changes to a vicious one during combat; he fears this self and suffers in agony. When his personality becomes vicious, his gaze sharpens and the color of his eyes changes. Zeorymer piloted in this state displays its true power, and keeps the other Hakke robots at bay with overwhelming attack power and high-speed movement.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [],
    "_group": "B"
   },
@@ -3854,8 +3854,8 @@
    "entry": 261,
    "name_jp": "木原マサキ",
    "name_en": "Masaki Kihara",
-   "en": "The creator of Masato Akitsu, Miku Himuro and the Hakkeshu. Fifteen years ago, the original Masaki Kihara was an engineer of Tekkoryu, but he fled taking Zeorymer, and immediately afterward was killed by the Japanese government, which feared his defecting. However, he had set into the fertilized egg of his clone Masato that Masaki's personality would awaken when Masato rides Zeorymer, and so he achieves resurrection. The reason Zeorymer can be moved only by Masato and Masaki is that the genes of Masato's fertilized egg were input to the pilot registration system. As an engineer he is a genius, showing talent not only in bioengineering but also in mechanical engineering, and he built the Dimensional Coupler System. He is cruel and cunning, and does not hesitate to sacrifice others for his own aims. His goal is to become the King of the Underworld himself, and having calculated that either the Japanese government or Tekkoryu would rule the world, he left a clone of himself with both of them.",
-   "notes": "",
+   "en": "The creator of Masato Akitsu, Miku Himuro and the Hakkeshu. Fifteen years ago, the original Masaki Kihara was an engineer of Hau Dragon, but he fled taking Zeorymer, and immediately afterward was killed by the Japanese government, which feared his defecting. However, he had set into the fertilized egg of his clone Masato that Masaki's personality would awaken when Masato rides Zeorymer, and so he achieves resurrection. The reason Zeorymer can be moved only by Masato and Masaki is that the genes of Masato's fertilized egg were input to the pilot registration system. As an engineer he is a genius, showing talent not only in bioengineering but also in mechanical engineering, and he built the Dimensional Coupler System. He is cruel and cunning, and does not hesitate to sacrifice others for his own aims. His goal is to become the King of the Underworld himself, and having calculated that either the Japanese government or Hau Dragon would rule the world, he left a clone of himself with both of them.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [
     "[jp] rendered \"feared his defecting\" (feared he would defect abroad)",
     "[jp] rendered \"Dimensional Coupler System\" (SRW wiki)"
@@ -3877,7 +3877,7 @@
    "entry": 263,
    "name_jp": "シ・アエン",
    "name_en": "Shi-Aen",
-   "en": "A female warrior of the Hakkeshu who pilots Briest of the Fires. She has a twin younger sister, Shi-Tau, in the same Hakkeshu. A martial arts master, she has higher ability as a warrior than Tau, so in combat she gives orders to Tau. She is calm and composed, and loves Tau more than anyone, but her feelings do not reach Tau.",
+   "en": "A female warrior of the Hakkeshu who pilots Bryst of the Fires. She has a twin younger sister, Shi-Tau, in the same Hakkeshu. A martial arts master, she has higher ability as a warrior than Tau, so in combat she gives orders to Tau. She is calm and composed, and loves Tau more than anyone, but her feelings do not reach Tau.",
    "notes": "",
    "uncertain": [],
    "_group": "B"
@@ -3907,8 +3907,8 @@
    "entry": 266,
    "name_jp": "氷室美久",
    "name_en": "Miku Himuro",
-   "en": "A girl destined to ride Zeorymer together with Masato Akitsu. When aboard Zeorymer she seems to become the sub-pilot who controls the data, and boards from Zeorymer's chest light sphere. She has accepted her fate and was preparing at Last Guardian for the fight against Tekkoryu. To make Masato, whom she meets for the first time, resolve to fight, she speaks cool, cold words, but inside she is kind and cares for others. Also, she has superhuman physical ability and a tough body, and is a girl with many mysteries.",
-   "notes": "",
+   "en": "A girl destined to ride Zeorymer together with Masato Akitsu. When aboard Zeorymer she seems to become the sub-pilot who controls the data, and boards from Zeorymer's chest light sphere. She has accepted her fate and was preparing at Last Guardian for the fight against Hau Dragon. To make Masato, whom she meets for the first time, resolve to fight, she speaks cool, cold words, but inside she is kind and cares for others. Also, she has superhuman physical ability and a tough body, and is a girl with many mysteries.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [],
    "_group": "B"
   },
@@ -3916,8 +3916,8 @@
    "entry": 267,
    "name_jp": "幽羅帝",
    "name_en": "Yuratei",
-   "en": "The 20-year-old emperor of Tekkoryu, a giant society plotting world domination. Tekkoryu, known by the nickname Hau Dragon, lay hidden underground for fifteen years behind the hardware company International Electronic Brains, but began to act as soon as the Hakke robots were completed, and is carrying out the Hades Project to turn the world into the underworld and reign as the King of the Underworld herself. Before being chosen as emperor she was one of the Hakkeshu and was supposed to become Zeorymer's pilot. She and Taiha love each other, but because of her position as emperor she cannot love him as a single man. In front of others she behaves with the dignity of an emperor, but she also has womanly weakness, and when Taiha sortied she was crying in her room, holding back her voice.",
-   "notes": "",
+   "en": "The 20-year-old emperor of Hau Dragon, a giant society plotting world domination. Hau Dragon, known by the nickname Hau Dragon, lay hidden underground for fifteen years behind the hardware company International Electronic Brains, but began to act as soon as the Hakke robots were completed, and is carrying out the Hades Project to turn the world into the underworld and reign as the King of the Underworld herself. Before being chosen as emperor she was one of the Hakkeshu and was supposed to become Zeorymer's pilot. She and Taiha love each other, but because of her position as emperor she cannot love him as a single man. In front of others she behaves with the dignity of an emperor, but she also has womanly weakness, and when Taiha sortied she was crying in her room, holding back her voice.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [
     "[jp] rendered \"reign as the King of the Underworld\"; the game uses [jp] (Hades/Meioh) for both the project and the title",
     "[jp] rendered \"emperor\"; Wikipedia says \"Empress\" for this female ruler"
@@ -3939,8 +3939,8 @@
    "entry": 269,
    "name_jp": "ルラーン",
    "name_en": "Luhran",
-   "en": "The Tekkoryu engineer who developed the Hakke robots. Fifteen years ago, Luhran plotted world conquest using Tekkoryu together with Masaki Kihara, but gave it up because of Masaki's betrayal. Luhran is obsessed with defeating Zeorymer and seems to know the mystery of Zeorymer's energy system. Luhran is timid, but the type who says what needs to be said.",
-   "notes": "",
+   "en": "The Hau Dragon engineer who developed the Hakke robots. Fifteen years ago, Luhran plotted world conquest using Hau Dragon together with Masaki Kihara, but gave it up because of Masaki's betrayal. Luhran is obsessed with defeating Zeorymer and seems to know the mystery of Zeorymer's energy system. Luhran is timid, but the type who says what needs to be said.",
+   "notes": " User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
    "uncertain": [
     "No pronoun used: gender of Rularn is not established by a prose source (male by cast only)",
     "[jp] rendered \"timid, but the type who says what needs to be said\""
@@ -4402,7 +4402,7 @@
    "en": "An ace pilot belonging to the Federation. 27 years old. She was the only survivor of Operation Overlord, and when she learned that the real objective had been to seize Ayato, she vented her anger on Haruka. At first she disliked Ayato because her comrades had been wiped out in an operation whose only purpose was to seize him, but she gradually warmed to him. Transferred from the Federation to the TERRA air wing, she organized Alpha Squadron together with her former comrades and serves as its leader. She has the Indonesian nickname \"Bunga Mawar\" (a rose). She is bold, but because she cares about her subordinates she was adored by the Alpha Squadron members. As a soldier she dislikes naive thinking about the Mu, and she doubts the wisdom of making a child, Ayato, fight. At the same time, however, she agonizes over her raison d'etre as a professional soldier. She is a bit of a bad drunk, and after drinking with Haruka she often picks on Ayato.",
    "notes": "",
    "uncertain": [
-    "'MU' here is rendered 'the Mu' (the Mulians' civilization/forces)."
+    "'Mu' here is rendered 'the Mu' (the Mulians' civilization/forces)."
    ],
    "_group": "C"
   },
@@ -4444,7 +4444,7 @@
    "entry": 291,
    "name_jp": "神名麻弥",
    "name_en": "Maya Kamina",
-   "en": "Ayato Kamina's mother and a powerful Mulian. Perhaps because it is just the two of them, she dotes on Ayato, but Ayato does not seem to feel the same way. She holds full authority over the MU Tokyo Government-General, and when the attack on Tokyo began she gave orders from the Tokyo Government-General's central command room. She has supernatural powers such as levitation, and when RahXephon awoke, she cut her cheek on a flying fragment and shed blue blood. She is extremely composed, and even when Ayato escaped from TOKYO JUPITER she saw him off fearlessly.",
+   "en": "Ayato Kamina's mother and a powerful Mulian. Perhaps because it is just the two of them, she dotes on Ayato, but Ayato does not seem to feel the same way. She holds full authority over the Mu Tokyo Government-General, and when the attack on Tokyo began she gave orders from the Tokyo Government-General's central command room. She has supernatural powers such as levitation, and when RahXephon awoke, she cut her cheek on a flying fragment and shed blue blood. She is extremely composed, and even when Ayato escaped from TOKYO JUPITER she saw him off fearlessly.",
    "notes": "",
    "uncertain": [],
    "_group": "C"
@@ -4495,7 +4495,7 @@
    "entry": 296,
    "name_jp": "九鬼正義",
    "name_en": "Masayoshi Kuki",
-   "en": "Commander of the MU Tokyo Government-General Defense Force. Although he was a soldier belonging to the Ministry of National Defense, he defected to the Mu side during the First Mu War and took the post of the person responsible for commanding the defense of the capital. Like the Public Security, he is thought to have been turned into a sub-Mulian. He is servile and timid toward those stronger than himself, and takes an arrogant attitude toward the weak. Because of that, he apparently cannot hold his head up before Maya. He also seems to have a deep-rooted history with Kunugi.",
+   "en": "Commander of the Mu Tokyo Government-General Defense Force. Although he was a soldier belonging to the Ministry of National Defense, he defected to the Mu side during the First Mu War and took the post of the person responsible for commanding the defense of the capital. Like the Public Security, he is thought to have been turned into a sub-Mulian. He is servile and timid toward those stronger than himself, and takes an arrogant attitude toward the weak. Because of that, he apparently cannot hold his head up before Maya. He also seems to have a deep-rooted history with Kunugi.",
    "notes": "",
    "uncertain": [
     "'Ministry of National Defense' ([jp]) is a literal rendering; the Rah wiki says 'Nation Defense'.",
@@ -4592,7 +4592,7 @@
    "entry": 306,
    "name_jp": "三輪忍",
    "name_en": "Shinobu Miwa",
-   "en": "An officer of the MU Tokyo Government-General Defense Force. Like Kuki, she was a soldier belonging to the Ministry of National Defense, but she defected to the Mu side during the First Mu War. Her goal is the completion of a utopia, and she seems to have cooperated with the Mu for that purpose. In battle she judges the situation calmly and objectively, and is entrusted with Dolem operations. She, too, is thought to have been turned into a sub-Mulian.",
+   "en": "An officer of the Mu Tokyo Government-General Defense Force. Like Kuki, she was a soldier belonging to the Ministry of National Defense, but she defected to the Mu side during the First Mu War. Her goal is the completion of a utopia, and she seems to have cooperated with the Mu for that purpose. In battle she judges the situation calmly and objectively, and is entrusted with Dolem operations. She, too, is thought to have been turned into a sub-Mulian.",
    "notes": "",
    "uncertain": [],
    "_group": "C"
@@ -4601,7 +4601,7 @@
    "entry": 307,
    "name_jp": "ムーリアン・アレグレット",
    "name_en": "Allegretto",
-   "en": "The operator of the Dolem Allegretto. When a Dolem sorties, the Mulian appears in places such as the MU Tokyo Government-General's central command room. A Mulian is paired with its Dolem, and when the Dolem is destroyed, the Mulian disappears as well. The body is transparent, and it is unknown whether it has substance.",
+   "en": "The operator of the Dolem Allegretto. When a Dolem sorties, the Mulian appears in places such as the Mu Tokyo Government-General's central command room. A Mulian is paired with its Dolem, and when the Dolem is destroyed, the Mulian disappears as well. The body is transparent, and it is unknown whether it has substance.",
    "notes": "",
    "uncertain": [
     "Gender not settled; 'the Mulian ... its Dolem' used, 'it' only for the body."
@@ -4688,12 +4688,12 @@
   "316": {
    "entry": 316,
    "name_jp": "アルベロ・エスト",
-   "name_en": "Albero Esto",
+   "name_en": "Albero Est",
    "en": "A former Federation soldier. He once served as the commander of the special unit \"Cry Wolves,\" to which #男愛称 used to belong. A bold character and an excellent humanoid mobile weapon pilot. He was a teacher to #男愛称 and a father-like figure as well. He left the army because of a certain incident and went missing, but he seized the Medius Locus together with Eldy Middi. Age 46.",
    "notes": "The Japanese contains the text placeholder #男愛称 (the male protagonist's nickname variable). Kept verbatim; count its expanded width.",
    "uncertain": [
     "Placeholder #男愛称 kept in the English text.",
-    "Name spelling 'Albero Esto' follows the SRW wiki; other sources say 'Albero Est'."
+    "Name spelling 'Albero Est' follows the SRW wiki; other sources say 'Albero Est'."
    ],
    "_group": "C"
   },
@@ -4889,7 +4889,7 @@
   "192": {
    "entry": 192,
    "name_jp": "ジョルジュ・ド・サンド",
-   "name_en": "George DeSand",
+   "name_en": "George De Sand",
    "en": "A Gundam Fighter representing Neo France. Age 20. The young head of the de Sand family, which values the spirit of chivalry; he entered the tournament together with his butler Raymond for the great cause of protecting the people. He excels at fencing, and the sharpness of his technique is first-rate. He likes fair and square fights and dislikes despicable behavior; he is serious by nature and swore loyalty to his homeland and Princess Maria Louise. He inherited the title of Jack in Diamond and becomes a member of the new Shuffle Alliance. His hobbies are tea and rose growing, and he often acted foppishly, such as scattering roses at the unveiling of a new special move.",
    "notes": "",
    "uncertain": [

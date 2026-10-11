@@ -93,6 +93,8 @@ def verify(version=VERSION, base=None, added_units=(), added_pilots=()):
             assert bytes(u.mem_read(target,len(prior)))==prior,(chapter,hex(getter))
             save_round_trips+=1
     # Fixh uses absolute subfile offsets; retain all existing gameplay rows/IDs.
+    from ps2_library_preservation import baseline_bytes as before_library
+    fix=before_library(base,'FIX00.DAT')
     old=(ROOT/'work/build/ps2/campaign/FIX00.DAT').read_bytes();a=sections(old,0);b=sections(fix,0)
     directory=struct.unpack_from('<19I',fix,b['Fixh'][0]+8);assert all(v in [o for o,n,c in b.values()] for v in directory)
     reflowed_text=('Sent','XSkl','Xabl') if (base/'ui_details.json').exists() else ()
@@ -106,7 +108,9 @@ def verify(version=VERSION, base=None, added_units=(), added_pilots=()):
                 if ident not in added_units:assert old[off+12+ident*124:off+12+(ident+1)*124]==fix[target+12+ident*124:target+12+(ident+1)*124]
         elif tag not in ('Strg','Fixh',*reflowed_text):assert old[off:off+size]==fix[target:target+nn],tag
     names=strtable(fix,b['Strg'][0],b['Strg'][2]);assert len(names)==a['Strg'][2]+1
-    assert names[:-1]==strtable(old,a['Strg'][0],a['Strg'][2])
+    from ps2_battle_label_preservation import baseline_bytes
+    baseline_fix=baseline_bytes(base,'FIX00.DAT')
+    assert strtable(baseline_fix,b['Strg'][0],b['Strg'][2])[:-1]==strtable(old,a['Strg'][0],a['Strg'][2])
     r=b['Pilt'][0]+12+433*184;name=struct.unpack_from('<H',fix,r)[0]
     assert names[name]==names[-1] and struct.unpack_from('<H',fix,r+14)[0]==65535
     report=dict(version=version,native_script_loads=observations,native_deployment_loads=units,
