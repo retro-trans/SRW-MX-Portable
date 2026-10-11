@@ -1,3 +1,25 @@
+# Published shared v0.4.29 — 2026-10-11
+
+Published https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.29
+at 2026-10-11 12:18:44 UTC. The 12 assets were downloaded and matched byte for
+byte, including GitHub SHA-256 metadata. Four full/upgrade patch round trips
+passed; exact published v0.4.12 inputs were cross-checked. Release tag points
+to 9dc4cb0d6ceea8561f453b41464374adc12b3ecb; built source snapshot remains
+8714e03980396e4b5ef07214d3e8fa1d7a4c7782.
+
+Live catalog refresh 38138893977 passed. Automatic routes from both originals
+and v0.4.12 reach v0.4.29; PSP v0.4.1 and v0.4.9 reach it through existing
+upgrades. Evidence: `docs/releases/v0.4.29_validation.json`. Thirty-two Retro
+Trans release/catalog tests pass. The initial refresh exposed that canonical
+SHA256SUMS.txt must contain only catalog-required files; its corrected version
+and the complete versioned checksum file were reuploaded and verified. Patch
+and manifest identities did not change. The package helper now follows this rule.
+
+Later campaign proofreading, Saburota and Hau Dragon changes remain source-only.
+Full playthrough and physical-console tests remain pending. Owned emulator tests
+are stopped; normal emulator configurations are untouched. No GitHub release is
+authorized for a future build without another explicit request.
+
 # Shared v0.4.29 release preparation — 2026-10-11
 
 The user explicitly requested a release. PSP 0.4.29 and PS2 0.4.29 are complete;

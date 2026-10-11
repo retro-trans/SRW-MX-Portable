@@ -1,0 +1,133 @@
+{
+  "tag": "v0.4.29",
+  "source_commit": "8714e03980396e4b5ef07214d3e8fa1d7a4c7782",
+  "tag_commit": "9dc4cb0d6ceea8561f453b41464374adc12b3ecb",
+  "asset_count": 12,
+  "all_assets_download_verified": true,
+  "public_asset_digests_verified": true,
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 2946,
+      "sha256": "b9d61349bc8a1f17f872664b9b0bc303169daa4475a93ec043b64288962bb9e0"
+    },
+    {
+      "name": "BUILD-TESTS-v0.4.29.json",
+      "bytes": 3834,
+      "sha256": "4b014f6cf8988015cfd938fd9c6a9894c751f749668b18ae63a36c23bcdfdd06"
+    },
+    {
+      "name": "CHANGELOG-v0.4.29.md",
+      "bytes": 146883,
+      "sha256": "a18c117f52e5f2c8ba46133e3daf2941482221853e9f0149369fd38d45d2f5cf"
+    },
+    {
+      "name": "FONT-LICENSE.txt",
+      "bytes": 4930,
+      "sha256": "7a6787ca1bad7a1afc8aa66643f9ec0aba6a4ab33c467c319ff11027a30118a5"
+    },
+    {
+      "name": "README-v0.4.29.txt",
+      "bytes": 4796,
+      "sha256": "4354d3152e765273620202135fbcd4e5a5bf0afd525f0041cbcbeceabaa4fa58"
+    },
+    {
+      "name": "SHA256SUMS-v0.4.29.txt",
+      "bytes": 1016,
+      "sha256": "5dc6cbcb0c6cd53d2d1809199dd8fcd460f8884f5674f2cc9548c1d1738be915"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 584,
+      "sha256": "5056365a8a141a64406f815cde17cb33ad068fdc05df4f03c3c9136b7ca788f8"
+    },
+    {
+      "name": "SRWMX-English-v0.4.12-to-v0.4.29.xdelta",
+      "bytes": 34559,
+      "sha256": "b7fa513887f928f8c90eaeae3d0ec76019d730c970951fb3cd334b7989b8181f"
+    },
+    {
+      "name": "SRWMX-English-v0.4.29.xdelta",
+      "bytes": 2409038,
+      "sha256": "97652315ce43d417294e2b3c93d2373d5a1fd78dd891d92a1c70b41171b3f4f7"
+    },
+    {
+      "name": "SRWMX-PS2-English-v0.4.12-to-v0.4.29.xdelta",
+      "bytes": 135849,
+      "sha256": "6d479b83bdb93e7924ecf1fb3a2339df40837162b4aa5692e0254cb7d3f7cf1d"
+    },
+    {
+      "name": "SRWMX-PS2-English-v0.4.29.xdelta",
+      "bytes": 127478150,
+      "sha256": "4b7f372203b0ef345aa60b8c661564a754ca7efff5e8af1e35dc48adf05174dd"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 926,
+      "sha256": "af47ce4273d6fe42b54c8becc454252777d4f755b362bcba9412092d60a80eeb"
+    }
+  ],
+  "release_url": "https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.29",
+  "published_at": "2026-10-11T12:18:44Z",
+  "draft": false,
+  "patches": [
+    {
+      "patch": "SRWMX-English-v0.4.29.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "6e795ed2579cba86f896f819cfe7bb64384557dc4950bfae226225a2ce9b8b5e"
+    },
+    {
+      "patch": "SRWMX-English-v0.4.12-to-v0.4.29.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "6e795ed2579cba86f896f819cfe7bb64384557dc4950bfae226225a2ce9b8b5e"
+    },
+    {
+      "patch": "SRWMX-PS2-English-v0.4.29.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "5a241ca699191293474731103687441f711c636b965fb74525eaa4c3613123b8"
+    },
+    {
+      "patch": "SRWMX-PS2-English-v0.4.12-to-v0.4.29.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "5a241ca699191293474731103687441f711c636b965fb74525eaa4c3613123b8"
+    }
+  ],
+  "exact_published_0_4_12_sources_verified": true,
+  "native_title_visual_validation": {
+    "PSP": "passed",
+    "PS2": "passed"
+  },
+  "ps2_native_title_execution_cases": 42,
+  "retro_trans_regression_tests": 32,
+  "later_campaign_proofreading_included": false,
+  "physical_console_tested": false,
+  "complete_playthrough_tested": false,
+  "live_catalog_routes": {
+    "ULJS-00041:original": [
+      "SRWMX-English-v0.4.29.xdelta"
+    ],
+    "ULJS-00041:0.4.1": [
+      "SRWMX-English-v0.4.1-to-v0.4.9.xdelta",
+      "SRWMX-English-v0.4.9-to-v0.4.12.xdelta",
+      "SRWMX-English-v0.4.12-to-v0.4.29.xdelta"
+    ],
+    "ULJS-00041:0.4.9": [
+      "SRWMX-English-v0.4.9-to-v0.4.12.xdelta",
+      "SRWMX-English-v0.4.12-to-v0.4.29.xdelta"
+    ],
+    "ULJS-00041:0.4.12": [
+      "SRWMX-English-v0.4.12-to-v0.4.29.xdelta"
+    ],
+    "SLPS-25345:original": [
+      "SRWMX-PS2-English-v0.4.29.xdelta"
+    ],
+    "SLPS-25345:0.4.12": [
+      "SRWMX-PS2-English-v0.4.12-to-v0.4.29.xdelta"
+    ]
+  },
+  "catalog_file_sha": "1dd98e1d51974dd3159f6e430e40e486f0dcebf9",
+  "catalog_workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/38138893977",
+  "catalog_workflow_result": "success",
+  "checksum_packaging_correction": "Canonical SHA256SUMS.txt covers catalog-required files; versioned checksum file covers all downloads. Patch and manifest bytes unchanged.",
+  "initial_catalog_workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/38138783507"
+}

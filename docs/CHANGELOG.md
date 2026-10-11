@@ -2,7 +2,7 @@
 
 ## PSP / PS2 v0.4.29 release — 2026-10-11
 
-- Prepared the shared public version requested by the user: bare full patches
+- Published the shared public version requested by the user: bare full patches
   and upgrades from the exact published v0.4.12 image for each platform.
 - PSP uses the verified 0.4.29 candidate. PS2 advances its 0.4.26 candidate to
   the shared version and shortens the rename caption to Name. Its native title
@@ -15,6 +15,12 @@
   full rebuild and are excluded. Full playthrough and physical tests remain pending.
 - Historical platform-specific test versions and their verification records
   remain unchanged. Publication details are recorded in the release validation.
+- Release: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.29.
+  All 12 uploaded assets match their local files and GitHub digests. Live Retro
+  Trans Tools routes cover both originals and v0.4.12 inputs, plus earlier PSP
+  upgrades. Thirty-two release/catalog regression tests pass. Corrected the
+  canonical checksum list after the initial refresh rejected auxiliary entries;
+  the versioned list covers all downloads. Patch and manifest bytes are unchanged.
 
 ## Local PSP 0.4.29 — 2026-10-11
 

@@ -69,7 +69,10 @@ def main(version,retro_trans_root):
     license_files=[ROOT/f'work/output/{prefix}{version}_FONT_LICENSE.txt' for prefix in ('SRWMX_EN_','SRWMX_PS2_EN_')]
     assert license_files[0].read_bytes()==license_files[1].read_bytes()
     shutil.copyfile(license_files[0],dest/'FONT-LICENSE.txt')
-    (dest/'SHA256SUMS.txt').write_text(''.join(f'{sha256_file(p)}  {p.name}\n' for p in sorted(dest.iterdir())),encoding='utf8')
+    # Catalog validation fetches only these files. The versioned list below
+    # additionally covers every downloadable document and the canonical list.
+    canonical={'BUILD-MANIFEST.json','VALIDATION.json'}|{p['patch'] for p in manifest['patches']}
+    (dest/'SHA256SUMS.txt').write_text(''.join(f'{sha256_file(dest/name)}  {name}\n' for name in sorted(canonical)),encoding='utf8')
     (dest/f'SHA256SUMS-v{version}.txt').write_text(''.join(f'{sha256_file(p)}  {p.name}\n' for p in sorted(dest.iterdir())),encoding='utf8')
     validate_directory(dest)
     print('Verified shared release:',dest,flush=True)
