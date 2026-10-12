@@ -165,6 +165,10 @@ def main(iso_path, version, *rest):
     title_path = title_footer.SPECS['PSP']['asset']
     title_data, footer_report = title_footer.patch(iso_read(iso, title_path), 'PSP', version)
     repl = {title_path: title_data}
+    import fix_startup_warning
+    warning_path = fix_startup_warning.SPECS['PSP']['asset']
+    warning_data, _ = fix_startup_warning.patch(iso_read(iso, warning_path), 'PSP')
+    repl[warning_path] = warning_data
     if '--text' in rest:                            # non-dialogue text (tools/insert_text.py)
         import insert_text
         boot_new = insert_text.patch_boot(boot_new)
@@ -173,6 +177,8 @@ def main(iso_path, version, *rest):
         boot_new = insert_text.patch_centering(boot_new)
         import fix_psp_levelup
         boot_new = fix_psp_levelup.patch_boot(boot_new)
+        import fix_psp_parts
+        boot_new = fix_psp_parts.patch_boot(boot_new)
         import fix_psp_menu_alignment
         boot_new = fix_psp_menu_alignment.patch_boot(boot_new)
         repl['/PSP_GAME/PARAM.SFO'] = insert_text.patch_sfo(iso_read(iso, '/PSP_GAME/PARAM.SFO'))

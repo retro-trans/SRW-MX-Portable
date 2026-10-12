@@ -1,12 +1,19 @@
 # Native chapter-card lettering
 
-As of local 0.4.21, Chapter 16 is an explicit exception to preserving original
-English artwork: the user requested a fix for its uneven lettering. Its three
-copies on each platform are redrawn as **Blue Meets White** with one font size.
-The original source hashes remain guarded. Only the 256×52 title rectangles
-change; chapter digits and logo remain untouched. The historical 0.4.2 counts
-below describe that build. Future builds translate three additional atlases
-and preserve 42 native English atlases per platform.
+As of local 0.4.30, every chapter title is redrawn with consistent lettering,
+including native English titles. Earlier fixes covered individual titles;
+the recurring problem came from skipping other native English artwork.
+Both full builders now render every guarded atlas even if old metadata sets
+`needs_translation=False`. Only the 256×52 title rectangles change; chapter
+digits, palettes, logos and other pixels remain untouched.
+
+`tools/fix_uniform_chapter_cards.py` constructs incremental candidates over
+0.4.29 and verifies all 205 PSP and 200 PS2 copies against the renderer. It
+changed 39 PSP copies and 42 PS2 copies; Chapter 20 now reads **Strange Bait**.
+The before/after contact sheets are under `work/ui/{psp,ps2}/chapter_cards_0.4.30`.
+These are asset previews; a live PSP Chapter 20 transition check remains
+unfinished after the user stopped Computer Use. Historical coverage below
+describes 0.4.2 and its earlier native-art preservation policy.
 
 Chapter titles are pre-rendered bitmaps in `PACKMAPC2_ADD.BIN`, separate from
 STATIC2's scenario strings. They appear after a stage's opening dialogue.
@@ -44,7 +51,8 @@ atlas's sample number. No emulator texture replacement is used.
 scenario association, palette hash and accepted source-title hash. Wording
 follows existing scenario translations and Akurasu's MX Portable flow chart.
 Three source-faithful clarifications are recorded in `docs/glossary_decisions.md`
-and `work/glossary/decisions.json`. Existing English artwork is preserved.
+and `work/glossary/decisions.json`. Existing English wording is retained; as
+of 0.4.30 its artwork is also redrawn with the same renderer.
 
 Genei LateGo Medium is rasterized at 4× and filtered into the native title slot.
 Every translated title fits at 20 px, using one or two balanced lines. Proper

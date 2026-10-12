@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-12",
+ "scope": "Five user dialogue screenshots",
+ "checks": [
+  {
+   "screenshot": 1,
+   "status": "corrected",
+   "speaker": "Saiga",
+   "kind": "dialogue",
+   "before": "Heh... You hide revenge beneath your mask... And hatred colors your true face.",
+   "after": "Heh... A thirst for revenge behind that mask... And hatred written all over your face.",
+   "reason": "The original is a dramatic observation of revenge behind the mask and hatred on the uncovered face. Natural English imagery preserves the taunt without the awkward hide revenge and colors your true face.",
+   "appearances": [
+    [
+     19,
+     681
+    ]
+   ],
+   "review_tag": "five_dialogue_screenshots_2026_10_12",
+   "source_sha256": "069edb2ef38c0772bd11f960cbfd6226ee91d3295fb0425b167bbabd2d639112",
+   "psp_widths": [
+    337,
+    267
+   ],
+   "ps2_widths": [
+    514,
+    398
+   ]
+  },
+  {
+   "screenshot": 2,
+   "speaker": "Burai",
+   "status": "already corrected in proofreading sources",
+   "after": "Do not be hasty, Hidler. In this war, whoever reads the tide of events will win in the end. For now, we must build up our strength.",
+   "appearances": [
+    [
+     20,
+     74
+    ],
+    [
+     21,
+     11
+    ]
+   ],
+   "reason": "The phrase means to judge the changing circumstances; reads the tide of events conveys strategic timing."
+  },
+  {
+   "screenshot": 3,
+   "speaker": "Quattro Bajeena",
+   "status": "corrected",
+   "before": "Hit, will you!",
+   "after": "Come on, hit!",
+   "battle_quote": "q04997",
+   "source_uses": 11,
+   "shared_with": [
+    "Mondo Agake",
+    "Leina Ashta"
+   ],
+   "reason": "The pilot urges the shot to connect. Come on, hit! preserves the short imperative naturally.",
+   "psp_widths": [
+    116
+   ],
+   "ps2_widths": [
+    175
+   ]
+  },
+  {
+   "screenshot": 4,
+   "speaker": "Leina",
+   "status": "retained",
+   "after": "That's none of your business, you old hag! So there!!",
+   "appearances": [
+    [
+     20,
+     326
+    ]
+   ],
+   "reason": "The source contains the old-hag insult and a deliberately childish retort. So there! conveys that defiance."
+  },
+  {
+   "screenshot": 5,
+   "status": "corrected",
+   "speaker": "Ritsu",
+   "kind": "dialogue",
+   "before": "Is this the Zeorymer created by that man I hate with every fiber of my being...!?",
+   "after": "Is this the Zeorymer created by the man I hate with every fiber of my being...!?",
+   "reason": "Accepted the user's suggestion: the definite article sounds more natural here. The demonstrative identifies the creator without naming him; the emphasis on enduring hatred remains.",
+   "appearances": [
+    [
+     21,
+     269
+    ]
+   ],
+   "review_tag": "five_dialogue_screenshots_2026_10_12",
+   "source_sha256": "3fdf3bfc256956bee12bc98160eb0a449292996088e30e82023065dd0564a2f4",
+   "psp_widths": [
+    335,
+    233
+   ],
+   "ps2_widths": [
+    520,
+    343
+   ]
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": 19,
+   "rows": 686,
+   "problems": [],
+   "guarded_reassembly_verified": true,
+   "psp_widths": [
+    337,
+    267
+   ],
+   "ps2_widths": [
+    514,
+    398
+   ]
+  },
+  {
+   "chapter": 21,
+   "rows": 434,
+   "problems": [],
+   "guarded_reassembly_verified": true,
+   "psp_widths": [
+    335,
+    233
+   ],
+   "ps2_widths": [
+    520,
+    343
+   ]
+  }
+ ],
+ "iso_rebuilt": false,
+ "platforms": [
+  "PSP",
+  "PS2"
+ ],
+ "note": "Story and battle inputs are shared by both platform builders. Existing ISO images are unchanged."
+}

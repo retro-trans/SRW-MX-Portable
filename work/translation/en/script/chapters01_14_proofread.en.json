@@ -1,0 +1,1847 @@
+{
+ "date": "2026-10-09",
+ "scope": "Chapters 1-14, all routes; source proofreading only",
+ "edits": [
+  {
+   "review_id": 15,
+   "speaker": "Beecha",
+   "before": "Wh-why, it was nothing, really...",
+   "after": "N-no, it was nothing, really...",
+   "reason": "Beecha's embarrassed denial is not a question asking why.",
+   "appearances": [
+    [
+     1,
+     15
+    ]
+   ],
+   "source_sha256": "22c0556f95554ba65288d55c10a7967ee5bac7a8fd7de52236d256950e99bcf3"
+  },
+  {
+   "review_id": 55,
+   "speaker": "Saegusa",
+   "before": "During the Lizard War, it seems the Nadesico earned quite a grudge from those guys.",
+   "after": "During the Lizard War, the Nadesico seems to have earned those guys' lasting resentment.",
+   "reason": "A ship earns someone's resentment; it does not earn a grudge from them.",
+   "appearances": [
+    [
+     1,
+     55
+    ]
+   ],
+   "source_sha256": "3cf4f0170d5e532b75b51c94fc5c2b14f1b479db98dff5ace05e8f85a9e7096f"
+  },
+  {
+   "review_id": 72,
+   "speaker": "Bright",
+   "before": "And if Neo Zeon remnants or the hawks exiled from Mokuren were to side with him...",
+   "after": "And if Neo Zeon remnants or the hardliners expelled from the Jovian Federation were to side with him...",
+   "reason": "Expand the untranslated faction abbreviation and preserve the conditional alliance warning.",
+   "appearances": [
+    [
+     1,
+     72
+    ]
+   ],
+   "source_sha256": "9e064d384c664f3e42ece1707b72d187f88163b9c959fff42187d5ff5a0db8cf"
+  },
+  {
+   "review_id": 99,
+   "speaker": "Altair",
+   "before": "I'll leave your fate be... for now!",
+   "after": "I'll let you live... for now!",
+   "reason": "Altair grants his opponent a temporary reprieve; leaving a fate be is not natural English.",
+   "appearances": [
+    [
+     1,
+     99
+    ],
+    [
+     2,
+     256
+    ],
+    [
+     3,
+     320
+    ],
+    [
+     4,
+     95
+    ],
+    [
+     5,
+     97
+    ],
+    [
+     6,
+     202
+    ],
+    [
+     7,
+     165
+    ],
+    [
+     8,
+     271
+    ],
+    [
+     9,
+     85
+    ],
+    [
+     10,
+     70
+    ],
+    [
+     11,
+     285
+    ],
+    [
+     12,
+     97
+    ],
+    [
+     13,
+     214
+    ],
+    [
+     14,
+     123
+    ]
+   ],
+   "source_sha256": "59e18733b817525373eb6f357737fbbe41cb2f746ab0a57f93bb53946375ffc6"
+  },
+  {
+   "review_id": 164,
+   "speaker": "Koji",
+   "before": "You'd better remember this, you bastard!",
+   "after": "You'll pay for this, you bastard!",
+   "reason": "The defeat line is a revenge threat, not a literal instruction to remember something.",
+   "appearances": [
+    [
+     1,
+     164
+    ],
+    [
+     2,
+     321
+    ],
+    [
+     3,
+     385
+    ],
+    [
+     4,
+     160
+    ],
+    [
+     5,
+     162
+    ],
+    [
+     6,
+     267
+    ],
+    [
+     7,
+     230
+    ],
+    [
+     8,
+     336
+    ],
+    [
+     9,
+     150
+    ],
+    [
+     10,
+     135
+    ],
+    [
+     11,
+     350
+    ],
+    [
+     12,
+     162
+    ],
+    [
+     13,
+     279
+    ],
+    [
+     14,
+     188
+    ]
+   ],
+   "source_sha256": "546402697c6a6984bafba3192d178cee3c21d9201fa04568ae6382c13db2f2fa"
+  },
+  {
+   "review_id": 194,
+   "speaker": "Rockfell",
+   "before": "Saiga... I... end here...",
+   "after": "Saiga... This is... the end for me...",
+   "reason": "Rockfell's interrupted dying line needs natural English rather than I end here.",
+   "appearances": [
+    [
+     1,
+     194
+    ],
+    [
+     2,
+     351
+    ],
+    [
+     3,
+     415
+    ],
+    [
+     4,
+     190
+    ],
+    [
+     5,
+     192
+    ],
+    [
+     6,
+     297
+    ],
+    [
+     7,
+     260
+    ],
+    [
+     8,
+     366
+    ],
+    [
+     9,
+     180
+    ],
+    [
+     10,
+     165
+    ],
+    [
+     11,
+     380
+    ],
+    [
+     12,
+     192
+    ],
+    [
+     13,
+     309
+    ],
+    [
+     14,
+     218
+    ]
+   ],
+   "source_sha256": "d1d9d25c7d034f5760d83708987864d0eaaf25670a21ebb82d06e0406e7d7a95"
+  },
+  {
+   "review_id": 246,
+   "speaker": "Karl",
+   "before": "Exactly! To recapture the D-Weapons, too, we should take on the Gundam Team ourselves!",
+   "after": "Exactly! To ensure we recapture the D-Weapons, we should take on the Gundam Team ourselves!",
+   "reason": "Make the causal link between clearing the pursuers and recovering the weapons clear.",
+   "appearances": [
+    [
+     1,
+     246
+    ]
+   ],
+   "source_sha256": "42520f19030231ae6e6c9dd13a4fb2f13d160a9a447257b7a7d9ed68c74cb8bf"
+  },
+  {
+   "review_id": 300,
+   "speaker": "Karl",
+   "before": "Just what I'd expect from Captain Bright Noa, the renowned captain. You won't let us have our way so easily!",
+   "after": "Just what I'd expect from Bright Noa, the renowned captain. You won't let us have our way so easily!",
+   "reason": "Avoid calling Bright a captain twice; retain his ship-command role without imposing an uncertain rank conversion.",
+   "appearances": [
+    [
+     1,
+     300
+    ]
+   ],
+   "source_sha256": "9f0a9fb0397c8aedbb8341166a4ddd76968ad1598d96af836a19ff6c2e474d14"
+  },
+  {
+   "review_id": 331,
+   "speaker": "Roux",
+   "before": "Before that, is it an enemy or an ally?",
+   "after": "More importantly, is it an enemy or an ally?",
+   "reason": "The speaker prioritizes identifying allegiance; before that misleadingly suggests a time sequence.",
+   "appearances": [
+    [
+     1,
+     331
+    ]
+   ],
+   "source_sha256": "b4abfddc7dd746a1536bf0bd3b1698d17e5c088a1026183bdc298136587a844b"
+  },
+  {
+   "review_id": 400,
+   "speaker": "#女愛称",
+   "before": "Its existence was predicted alongside the four forces: gravity, electromagnetism, the strong interaction and the weak interaction.",
+   "after": "Its existence was predicted in addition to the four forces: gravity, electromagnetism, and the strong and weak interactions.",
+   "reason": "Terminus Energy is described as an additional force, not one predicted alongside the four established forces.",
+   "appearances": [
+    [
+     1,
+     400
+    ]
+   ],
+   "source_sha256": "b2342175dc49cf127e12339b7864793bd7698ec882877847948a321446916ebe"
+  },
+  {
+   "review_id": 428,
+   "speaker": "#女愛称",
+   "before": "Like the TE Engine, Lasmunanium is a new material developed by Dr. Zapat...",
+   "after": "Lasmunanium is a new material developed by Dr. Zapat, who also developed the TE Engine...",
+   "reason": "The shared feature is the inventor; the TE Engine itself is not a material.",
+   "appearances": [
+    [
+     1,
+     428
+    ]
+   ],
+   "source_sha256": "2d4e7ff86b4e71f9f44c992ae91b808dd2dcd47ecd7b59ded1432d63431a8c42"
+  },
+  {
+   "review_id": 444,
+   "speaker": "Bright",
+   "before": "More to the point, Lieutenant #女愛称... Does Lasmunanium have the same properties as DG Cells?",
+   "after": "More to the point, Ensign #女愛称... Does Lasmunanium have the same properties as DG Cells?",
+   "reason": "Use the same rank as the pilot's introduction and Bright's earlier order; the Japanese rank is unchanged.",
+   "appearances": [
+    [
+     1,
+     444
+    ]
+   ],
+   "source_sha256": "2b3879f519f6c35acab2a0e6b1a39d5b7ef77fe261cd7812f87d248991260156"
+  },
+  {
+   "review_id": 480,
+   "speaker": "Dr. Saotome",
+   "before": "My Saotome Institute, your Institute of Space Science, Genzo Umon...",
+   "after": "My Saotome Institute, your Institute of Space Science, Dr. Umon...",
+   "reason": "Address the scientist as Dr. Umon, as the Japanese does, rather than inserting his full name into a formal address.",
+   "appearances": [
+    [
+     1,
+     480
+    ]
+   ],
+   "source_sha256": "647379e75a913f014c73eff080ec69c692f8773b47d3d94d24821563368c5713"
+  },
+  {
+   "review_id": 499,
+   "speaker": "Koji",
+   "before": "Hello, Genzo Umon. I'm Koji Kabuto.",
+   "after": "Hello, Dr. Umon. I'm Koji Kabuto.",
+   "reason": "Restore the respectful title in Koji's introduction.",
+   "appearances": [
+    [
+     1,
+     499
+    ]
+   ],
+   "source_sha256": "c2c22da0c4709333b027d93075d1d933d0fbb0e71f1cd877123f5269e1b75e33"
+  },
+  {
+   "review_id": 538,
+   "speaker": "Daisuke",
+   "before": "A red moon... the signal fire for their sortie. ...You should contact the Earth Federation Forces. They will attack, without a doubt.",
+   "after": "A red moon... the signal that they're going on the offensive. ...Contact the Earth Federation Forces. They'll attack for certain.",
+   "reason": "Replace the literal signal fire for their sortie with the meaning of the warning, retaining the imminent attack.",
+   "appearances": [
+    [
+     1,
+     538
+    ]
+   ],
+   "source_sha256": "3bf2e6b5f0720b9ec7ca44edc79c949ece50c39a844e5728161e7db1ab731504"
+  },
+  {
+   "review_id": 640,
+   "speaker": "Koji",
+   "before": "Genzo Umon!",
+   "after": "Dr. Umon!",
+   "reason": "Restore the scientist's title in Koji's call rather than using his full name as an address.",
+   "appearances": [
+    [
+     1,
+     640
+    ]
+   ],
+   "source_sha256": "8bc66bccd79f69d8fefd9ac196113812cd4ce25f7bc646fa407830517af9269c"
+  },
+  {
+   "review_id": 648,
+   "speaker": "Blacky",
+   "before": "Then sound the true opening salvo of our invasion of Earth...!",
+   "after": "And mark the true beginning of our invasion of Earth...!",
+   "reason": "Avoid mixing sound with a salvo; the metaphor announces the invasion's true beginning.",
+   "appearances": [
+    [
+     1,
+     648
+    ]
+   ],
+   "source_sha256": "34b3c160edc4478d338a788f97930b3d9a118267ee3c5cac405bda837b6389ea"
+  },
+  {
+   "review_id": 721,
+   "speaker": "Daisuke",
+   "before": "Koji, it seems I couldn't fool your eyes...",
+   "after": "It seems I couldn't fool you, Koji...",
+   "reason": "Koji has recognized Daisuke; fool your eyes is unnecessarily literal English.",
+   "appearances": [
+    [
+     1,
+     721
+    ]
+   ],
+   "source_sha256": "dc08c4a2d93af44d6c9a277e72432597426e804e48f9d9f4061c51a1f3dc5342"
+  },
+  {
+   "review_id": 783,
+   "speaker": "#女愛称",
+   "before": "...I'm Second Lieutenant #女姓名, of the Federation Forces' Tsentr Project.",
+   "after": "...I'm Ensign #女姓名, of the Federation Forces' Tsentr Project.",
+   "reason": "Use the established protagonist rank from the project glossary, matching the Real-route introduction.",
+   "appearances": [
+    [
+     1,
+     783
+    ]
+   ],
+   "source_sha256": "e4719cf0d85f6b4ca44e705497d83a6a4b044e5c0d8292bb9bd9cfdb55ecfa42"
+  },
+  {
+   "review_id": 784,
+   "speaker": "#男愛称",
+   "before": "I'm Second Lieutenant #男姓名, also with the Federation Forces' Tsentr Project.",
+   "after": "I'm Ensign #男姓名, also with the Federation Forces' Tsentr Project.",
+   "reason": "Use the established protagonist rank from the project glossary, matching the Real-route introduction.",
+   "appearances": [
+    [
+     1,
+     784
+    ]
+   ],
+   "source_sha256": "e144c8b401cca2f4a83c201727b11c0643fdf5d39b8f401a8929d842574eff18"
+  },
+  {
+   "review_id": 810,
+   "speaker": "Koji",
+   "before": "When you say adjust... does that have anything to do with that swimsuit-like outfit you're wearing, Lieutenant?",
+   "after": "When you say adjust... does that have anything to do with that swimsuit-like outfit you're wearing, Ensign?",
+   "reason": "Keep the protagonist's rank consistent with the glossary and introduction.",
+   "appearances": [
+    [
+     1,
+     810
+    ]
+   ],
+   "source_sha256": "e8e51ea6a8b0d7484333473e42219923c807a7132d6cff75ea5440dab2040651"
+  },
+  {
+   "review_id": 819,
+   "speaker": "#女愛称",
+   "before": "Like the TE Engine, Lasmunanium is a new material developed by Dr. Zapat...",
+   "after": "Lasmunanium is a new material developed by Dr. Zapat, who also developed the TE Engine...",
+   "reason": "The shared feature is the inventor; the TE Engine itself is not a material.",
+   "appearances": [
+    [
+     1,
+     819
+    ]
+   ],
+   "source_sha256": "1de542f4abc87f08ef5b04d1c09bb6b779f01cd8b0c5c74bab196010ada60479"
+  },
+  {
+   "review_id": 831,
+   "speaker": "Genzo Umon",
+   "before": "Then, Lieutenant... Does Lasmunanium have properties similar to DG Cells?",
+   "after": "Then, Ensign... Does Lasmunanium have properties similar to DG Cells?",
+   "reason": "Keep the protagonist's rank consistent with the glossary and introduction.",
+   "appearances": [
+    [
+     1,
+     831
+    ]
+   ],
+   "source_sha256": "7a7c31935fe17df0a884ba942596ec2137a9039dde51faa9626b7a156ca51da8"
+  },
+  {
+   "review_id": 939,
+   "speaker": "Bright",
+   "before": "Are they planning to invade the inside?",
+   "after": "Are they planning to penetrate the barrier?",
+   "reason": "The question concerns entering Tokyo Jupiter; invade the inside is awkward and imprecise.",
+   "appearances": [
+    [
+     2,
+     67
+    ]
+   ],
+   "source_sha256": "21fec0823ac66d59c9e12e113b288fb11760c28a982653b783bae870a592d74d"
+  },
+  {
+   "review_id": 954,
+   "speaker": "Misumaru",
+   "before": "I'm sorry to have put you to that trouble, Colonel.",
+   "after": "I'm sorry to have put you to that trouble, Captain.",
+   "reason": "Bright's established naval rank is Captain, matching the nearby forms of address and recorded Akurasu decision.",
+   "appearances": [
+    [
+     2,
+     82
+    ]
+   ],
+   "source_sha256": "b256bd6d0adb361d86f063cb191d51a46700410cfecaeb374b7070ffad310af5"
+  },
+  {
+   "review_id": 1012,
+   "speaker": "Kaine",
+   "before": "What!? Who are you calling a trio of cons, huh!?",
+   "after": "What!? Who are you calling a trio of crooks, huh!?",
+   "reason": "A trio of cons sounds like drawbacks in English; crooks keeps Kaine's mishearing of the insult intelligible.",
+   "appearances": [
+    [
+     2,
+     141
+    ]
+   ],
+   "source_sha256": "a26f8e2542970cc68d4d386dcc7b29453683fedf1f8ee66387c36d94ebb07523"
+  },
+  {
+   "review_id": 1057,
+   "speaker": "Kaine",
+   "before": "...Yes, it is.",
+   "after": "...No, they're no different.",
+   "reason": "Kaine rejects Asuka's claim that her machine is fundamentally different; make the reply's polarity explicit.",
+   "appearances": [
+    [
+     2,
+     186
+    ]
+   ],
+   "source_sha256": "8d4fc876b15119900ec02b5e182bb903a3380e69553b8b9c205d6b3c8ed3a372"
+  },
+  {
+   "review_id": 1129,
+   "speaker": "Meio",
+   "before": "Yes... the Dragonars are flying. When did they learn to do that?",
+   "after": "Yes... the Dragonars are flying. When did that happen?",
+   "reason": "The surprise concerns newly flying machines, not an unsupported claim that their pilots learned a skill.",
+   "appearances": [
+    [
+     2,
+     402
+    ]
+   ],
+   "source_sha256": "68f9e2f2857d24490964317847c94df75891a943213904913039711139993970"
+  },
+  {
+   "review_id": 1186,
+   "speaker": "Light",
+   "before": "You're still trailing after the Blue Hawk like fish poop, aren't you?",
+   "after": "Still the Blue Hawk's little hangers-on, aren't you?",
+   "reason": "The goldfish-droppings expression means sycophantic followers, not literal fish waste.",
+   "appearances": [
+    [
+     2,
+     459
+    ]
+   ],
+   "source_sha256": "7a580ad9edcb974b6523212203299d1b4e1dcab75a0ccf8dcb62168926695ee2"
+  },
+  {
+   "review_id": 1272,
+   "speaker": "Misumaru",
+   "before": "Colonel, I see you've safely rendezvoused with the D-weapon transport fleet.",
+   "after": "Captain, I see you've safely rendezvoused with the D-Weapons transport fleet.",
+   "reason": "Use Bright's established naval rank and the consistent D-Weapons spelling.",
+   "appearances": [
+    [
+     2,
+     547
+    ]
+   ],
+   "source_sha256": "9160fb8f2b616e823818da177870f12bb268860de23bd9f7079b32779eb6946a"
+  },
+  {
+   "review_id": 1294,
+   "speaker": "Misumaru",
+   "before": "...The Earth Federation Army is bearing the brunt of problems on all sorts of fronts.",
+   "after": "...The Federation Forces are bearing the brunt of problems on all sorts of fronts.",
+   "reason": "The reference includes both space and ground forces; Army incorrectly narrows it to one service.",
+   "appearances": [
+    [
+     2,
+     569
+    ]
+   ],
+   "source_sha256": "0876d0c83c9487327d881f8277c83593787605fb0d03e8aa90ddeadd788800e2"
+  },
+  {
+   "review_id": 1344,
+   "speaker": "#女愛称",
+   "before": "Likewise... I'm Second Lieutenant #女姓名.",
+   "after": "Likewise... I'm Ensign #女姓名.",
+   "reason": "Keep the protagonist's established rank consistent.",
+   "appearances": [
+    [
+     2,
+     620
+    ]
+   ],
+   "source_sha256": "83c2bdab77410c73a25bf4bddb8cbc8e1657e1451d4bbcc0011298ed63c76bb5"
+  },
+  {
+   "review_id": 1348,
+   "speaker": "Light",
+   "before": "Lieutenant, please don't flatter him too much. It'll only go to his head even more.",
+   "after": "Ensign, please don't flatter him too much. It'll only go to his head even more.",
+   "reason": "Keep the protagonist's established rank consistent.",
+   "appearances": [
+    [
+     2,
+     624
+    ]
+   ],
+   "source_sha256": "131d179dd1cd05f8f9e1cf1d3b53d78799602e451f15261a3540a20b6c4ce9e4"
+  },
+  {
+   "review_id": 1356,
+   "speaker": "#女愛称",
+   "before": "Normal... do they?",
+   "after": "Normal... really?",
+   "reason": "Smooth the skeptical thought about the male pilot's supposedly normal clothes.",
+   "appearances": [
+    [
+     2,
+     632
+    ]
+   ],
+   "source_sha256": "64d820f69ba1d3a90c10bd979fd52eff46ff4a7023eb75cb92ea26bb8546f0e7"
+  },
+  {
+   "review_id": 1361,
+   "speaker": "Kaine",
+   "before": "You can just call me Kaine, Lieutenant. So, what is it?",
+   "after": "You can just call me Kaine, Ensign. So, what is it?",
+   "reason": "Keep the protagonist's established rank consistent.",
+   "appearances": [
+    [
+     2,
+     637
+    ]
+   ],
+   "source_sha256": "ecff0c33cf2cc4ea8ff422d6fcdcb9a6949c2d5dbf353684ad0ab9009b753308"
+  },
+  {
+   "review_id": 1665,
+   "speaker": "Misumaru",
+   "before": "...Colonel. After the postwar cleanup of the Neo Zeon and Baam wars, now this mission...",
+   "after": "...Captain. After the postwar cleanup of the Neo Zeon and Baam wars, now this mission...",
+   "reason": "Use Bright's established naval rank consistently.",
+   "appearances": [
+    [
+     2,
+     943
+    ]
+   ],
+   "source_sha256": "9ab7308a8403901fa303df9ffb300694885c01db9fe599f92555466a18c3b11e"
+  },
+  {
+   "review_id": 1721,
+   "speaker": "#女愛称",
+   "before": "I'm Second Lieutenant #女姓名...",
+   "after": "I'm Ensign #女姓名...",
+   "reason": "Use the established female protagonist rank consistently.",
+   "appearances": [
+    [
+     2,
+     999
+    ]
+   ],
+   "source_sha256": "5b305667e278f5bb9e569ca129042169bc9ff1cf83934decc55ee7486ccb1325"
+  },
+  {
+   "review_id": 1723,
+   "speaker": "#男愛称",
+   "before": "I'm Second Lieutenant #男姓名. I'll be counting on you from now on.",
+   "after": "I'm Ensign #男姓名. I'll be counting on you from now on.",
+   "reason": "Use the established male protagonist rank consistently.",
+   "appearances": [
+    [
+     2,
+     1001
+    ]
+   ],
+   "source_sha256": "f4ce33764dcaa9a991e8b9b68d2b5853e60f7182914542c91fc1e140eb200187"
+  },
+  {
+   "review_id": 1806,
+   "speaker": "Blacky",
+   "before": "Japan, sir? The solar system's fifth planet...",
+   "after": "Japan, sir? There's a barrier there resembling the solar system's fifth planet...",
+   "reason": "Start the comparison with the barrier in Japan, so Japan itself cannot be mistaken for the fifth planet.",
+   "appearances": [
+    [
+     3,
+     16
+    ]
+   ],
+   "source_sha256": "8dec0b8941582f191fbf0b8653573da99aa8a7985cd0e0f73f7eeaf2bd3767e2"
+  },
+  {
+   "review_id": 1807,
+   "speaker": "Blacky",
+   "before": "...the planet those Earthlings call Jupiter... There's a strange barrier there that looks just like it, but...",
+   "after": "...the one the Earthlings call Jupiter. It's a rather unusual barrier...",
+   "reason": "Complete the paired comparison naturally while retaining the description of the special barrier.",
+   "appearances": [
+    [
+     3,
+     17
+    ]
+   ],
+   "source_sha256": "37748fae4c4da6c99ae3aa470f656fbf666fb6473153e8028962d4c2126323a4"
+  },
+  {
+   "review_id": 1845,
+   "speaker": "Kunugi",
+   "before": "Colonel, I would like your forces to keep watch around the outside.",
+   "after": "Captain, I would like your forces to keep watch around the outside.",
+   "reason": "Use Bright's established naval rank consistently.",
+   "appearances": [
+    [
+     3,
+     56
+    ]
+   ],
+   "source_sha256": "e419243b7e4fcb67dcf713098fc085003a1c4764942ae50f1cb032c208e7eb21"
+  },
+  {
+   "review_id": 2208,
+   "speaker": "Bright",
+   "before": "Granted. Everyone except Second Lieutenant #男愛称, keep watch on the surrounding area!",
+   "after": "Granted. Everyone except Ensign #男愛称, keep watch on the surrounding area!",
+   "reason": "Keep the protagonist's established rank consistent.",
+   "appearances": [
+    [
+     3,
+     566
+    ]
+   ],
+   "source_sha256": "2142eb1d9f1664d0179e119ffd10394f2ba293546c6e4d656c2f7cb9a6e6bc36"
+  },
+  {
+   "review_id": 2287,
+   "speaker": "#男愛称",
+   "before": "Damn it! If only there was nothing wrong with my body...!",
+   "after": "Damn it! If only my body were all right...!",
+   "reason": "Smooth Hugo's frustrated thought about his physical condition.",
+   "appearances": [
+    [
+     3,
+     647
+    ]
+   ],
+   "source_sha256": "09fbe3bc848ba5c10fd7f4b36ec1362a80d87b4234f1cb74b2aeae1b8bb2aeb9"
+  },
+  {
+   "review_id": 2325,
+   "speaker": "Dr. Hibiki",
+   "before": "There does seem to be some connection between Raideen and that OOPArts...",
+   "after": "There does seem to be some connection between Raideen and the OOPArts...",
+   "reason": "Avoid combining the singular demonstrative that with the established OOPArts term.",
+   "appearances": [
+    [
+     3,
+     685
+    ]
+   ],
+   "source_sha256": "1b6d0fdde509dc2f2aef8587c5d847781c00bfdcc6ab6dc029485756ab2b85a1"
+  },
+  {
+   "review_id": 2572,
+   "speaker": "Misumaru",
+   "before": "Yes... Far East Command headquarters asked me to help, taking the Vegan Empire attacks and Dolem appearance seriously.",
+   "after": "Yes... Far East Command has asked me to help, taking the Vegan Empire attacks and the appearance of Dotems seriously.",
+   "reason": "Correct Dolem to Dotem: the source names the Dotems fought in this battle. Also clarify the request from headquarters.",
+   "appearances": [
+    [
+     3,
+     933
+    ]
+   ],
+   "source_sha256": "cd5e7209b858157b42775ac457fd8ced8d1bb95e0beb15b7031659fcd4447908"
+  },
+  {
+   "review_id": 2616,
+   "speaker": "Ginga",
+   "before": "It's not a dance! It's Shaolin kung fu, you idiot!",
+   "after": "It's not a dance! It's Shorinji Kempo, you idiot!",
+   "reason": "Use the name of the specific martial art in the source, Shorinji Kempo, rather than the different, general term Shaolin kung fu. Official terminology: https://www.shorinjikempo.or.jp/en/what/discipline",
+   "appearances": [
+    [
+     4,
+     38
+    ]
+   ],
+   "source_sha256": "f92c12b80763e50f0618526006b8ab54fb4db791295598b2be517433f5df133d"
+  },
+  {
+   "review_id": 2764,
+   "speaker": "Hokuto",
+   "before": "Ginga, that move! You know, the kung fu move you were doing earlier! Let's try it!",
+   "after": "Ginga, that move! You know, the martial arts move you were doing earlier! Let's try it!",
+   "reason": "Use martial arts for the general reference to Ginga's fighting style, consistent with the named Shorinji Kempo introduction.",
+   "appearances": [
+    [
+     4,
+     330
+    ]
+   ],
+   "source_sha256": "ceecfcc8e26896976dd3ecbbd69057a410b35dd9214eafb5b9bec8378a4beb04"
+  },
+  {
+   "review_id": 2797,
+   "speaker": "Ginga",
+   "before": "I know! More importantly, follow my kung fu moves!",
+   "after": "I know! More importantly, follow my martial arts moves!",
+   "reason": "Use martial arts for the general reference to Ginga's fighting style, rather than relabeling it as kung fu.",
+   "appearances": [
+    [
+     4,
+     363
+    ]
+   ],
+   "source_sha256": "88a3400e3a4c7b294a56f8c6cc3c67a0bf5866ba99434c212b09f3e49bfe5cd7"
+  },
+  {
+   "review_id": 2916,
+   "speaker": "Bright",
+   "before": "Captain Bright Noa, captain of the Nahel Argama, reporting, sir.",
+   "after": "Captain Bright Noa of the Nahel Argama, reporting, sir.",
+   "reason": "Avoid repeating captain in the self-introduction while preserving Bright's approved rank and command of the ship.",
+   "appearances": [
+    [
+     4,
+     483
+    ]
+   ],
+   "source_sha256": "f4b005e92f909d0a588452b9ce83966fbe2a58f37f78b28a577db25f556203d4"
+  },
+  {
+   "review_id": 3135,
+   "speaker": "Midori",
+   "before": "Who did you pick a fight with this time!? I've told you over and over, Shaolin kung fu isn't for that sort of thing...!",
+   "after": "Who did you pick a fight with this time!? I've told you over and over, Shorinji Kempo isn't for that sort of thing...!",
+   "reason": "Name the specific martial art correctly, matching Ginga's earlier introduction. Shorinji Kempo is the official English name, not Shaolin kung fu.",
+   "appearances": [
+    [
+     4,
+     704
+    ]
+   ],
+   "source_sha256": "5bb8ee9b00fb4c2989c64f627d89d63b600f0d7f0dde6e8a526f052dab44a9c7"
+  },
+  {
+   "review_id": 3202,
+   "speaker": "???",
+   "before": "C-Captain! The Army-type units are multiplying again!!",
+   "after": "C-Commander! The Army-type units are multiplying again!!",
+   "reason": "Uses Albero's squad-leader title consistently in the Cry Wolves flashback.",
+   "appearances": [
+    [
+     5,
+     6
+    ]
+   ],
+   "source_sha256": "b817b1ae9327b900b0ce06c045bf324dcfc2b213f73ceff06dcb916e292fb6bd"
+  },
+  {
+   "review_id": 3210,
+   "speaker": "???",
+   "before": "C-Captain! The main body... The main body is starting to regenerate!!",
+   "after": "C-Commander! The main body... The main body is starting to regenerate!!",
+   "reason": "Uses Albero's squad-leader title consistently in the Cry Wolves flashback.",
+   "appearances": [
+    [
+     5,
+     14
+    ]
+   ],
+   "source_sha256": "8f3c4043db258279d0f915ae591f5c6aab7a9410432fcc7bf25c133ba109f221"
+  },
+  {
+   "review_id": 3264,
+   "speaker": "#男愛称",
+   "before": "Damn it! Are you saying it's... the Devil Gundam has come back!?",
+   "after": "Damn it! Are you saying... the Devil Gundam has come back!?",
+   "reason": "Remove the broken phrase 'it's... the Devil Gundam has' while preserving Hugo's shocked question about its revival.",
+   "appearances": [
+    [
+     5,
+     71
+    ]
+   ],
+   "source_sha256": "25d1fa9fdebdb0b294e4ad20dbde6afa5291c09876f094c55e9c165f6d9a3d13"
+  },
+  {
+   "review_id": 3557,
+   "speaker": "Meio",
+   "before": "...Your Excellency... The situation facing the Earth and our people has already become too uncertain to predict.",
+   "after": "...Your Excellency... The situation facing Earth and our people has already reached a critical point.",
+   "reason": "The expression warns that the situation is precarious and demands attention; it is stronger than merely saying it is hard to predict.",
+   "appearances": [
+    [
+     6,
+     46
+    ]
+   ],
+   "source_sha256": "475de0040149cac1ed6f0a36ea2a8a0816614111bdd0b11ed1f7d5a5210124eb"
+  },
+  {
+   "review_id": 3575,
+   "speaker": "Koji",
+   "before": "Dr. Genzo Umon just contacted us. He said he wants you to come back to the institute, Daisuke.",
+   "after": "Dr. Umon just contacted us. He said he wants you to come back to the institute, Daisuke.",
+   "reason": "Use the natural spoken form Dr. Umon for the source's title and surname, consistent with the earlier chapters.",
+   "appearances": [
+    [
+     6,
+     66
+    ]
+   ],
+   "source_sha256": "85c3a6e9bd14e26208a4991cffbe6dbbc46c4df66af7ed2f368a098108b8ed9c"
+  },
+  {
+   "review_id": 3760,
+   "speaker": "Danbei",
+   "before": "G-Genzo Umon! Something terrible's happened!",
+   "after": "D-Dr. Umon! Something terrible's happened!",
+   "reason": "Restore the title and surname used in this urgent address; the speaker does not call the doctor by his full given name.",
+   "appearances": [
+    [
+     6,
+     399
+    ]
+   ],
+   "source_sha256": "ab8be4c799734ed0d51cb09b9b5295dcb94ea88ad65f25003d0c1a707ae524e5"
+  },
+  {
+   "review_id": 3799,
+   "speaker": "Hikaru",
+   "before": "Dad! Genzo Umon!",
+   "after": "Dad! Dr. Umon!",
+   "reason": "Restore the spoken title Dr. Umon rather than an unnatural full-name address.",
+   "appearances": [
+    [
+     6,
+     438
+    ]
+   ],
+   "source_sha256": "e4591c6110c69ccf8b5c5cf4d5dbb2e9e43b011e0aeabde95ce34af382f69583"
+  },
+  {
+   "review_id": 3858,
+   "speaker": "Daisuke",
+   "before": "It's understandable... Even after contact with the Baam, many people on Earth still haven't accepted that aliens exist...",
+   "after": "It's understandable... Even after contact with the Baam, many people on Earth still haven't accepted aliens...",
+   "reason": "The source concerns accepting aliens, not doubting that aliens exist. The surrounding scene is about the response to Daisuke's identity.",
+   "appearances": [
+    [
+     6,
+     497
+    ]
+   ],
+   "source_sha256": "b01b102b915d252e8fff6b06fd2a2394d4e3c0479758ad5efc5002e4344c228a"
+  },
+  {
+   "review_id": 4136,
+   "speaker": "Oki",
+   "before": "Locking him in solitary confinement to build his will to fight paid off. His combat balance is incredible for a middle schooler.",
+   "after": "Locking him in solitary confinement to build his will to fight paid off. His performance in combat is incredible for a middle schooler.",
+   "reason": "Replace the unnatural calque 'combat balance' with the intended assessment of Masato's overall performance in battle.",
+   "appearances": [
+    [
+     7,
+     341
+    ]
+   ],
+   "source_sha256": "581e57868a25614386e8b022b2595c80b7486a944f9b52dd928aa65c3819b89f"
+  },
+  {
+   "review_id": 4319,
+   "speaker": "Altair",
+   "before": "D-damn you, Dendoh!! How dare you do this to me, Altair!!",
+   "after": "D-damn you, Dendoh!! How dare you defy Altair!!",
+   "reason": "Make Altair's boast natural in English while keeping his name audible: Vega recognizes that name in the next lines.",
+   "appearances": [
+    [
+     7,
+     531
+    ]
+   ],
+   "source_sha256": "84231a8693a120dcb1566876335165d22ca6988baccf22447d12f3f82fd66fd0"
+  },
+  {
+   "review_id": 4439,
+   "speaker": "Tapp",
+   "before": "Maybe you've even got some pinup photos hidden away.",
+   "after": "Maybe you've even got some photos of her hidden away.",
+   "reason": "The source means collectible portrait photographs. Pinup adds a suggestive meaning that is not specified in the Japanese.",
+   "appearances": [
+    [
+     7,
+     653
+    ]
+   ],
+   "source_sha256": "d3f3b8f22cae6e81522d808661c1ec349a6fedb18490f8c544479e04b57d4d6f"
+  },
+  {
+   "review_id": 4505,
+   "speaker": "Vega",
+   "before": "When a Data Weapon finds what it seeks in a Commander's owner's heart... the condition for its contract...",
+   "after": "When a Data Weapon finds what it seeks in the heart of someone holding a Commander... its condition for a contract...",
+   "reason": "Replace the stacked possessive 'a Commander's owner's heart' with a clear description of the Commander holder and the contract condition.",
+   "appearances": [
+    [
+     7,
+     721
+    ]
+   ],
+   "source_sha256": "319bc49dcd7412455fc39a0ea7f2c49ce0214e50c7be1bef443712c85f5c3b96"
+  },
+  {
+   "review_id": 4526,
+   "speaker": "Eris",
+   "before": "They may have been drawn to the energy released by Last Guardian's mobile weapons.",
+   "after": "They may have been drawn to the energy released by Last Guardian's mobile weapon.",
+   "reason": "Use the singular: this scene refers to the energy released by Zeorymer, the one Last Guardian weapon just seen in battle.",
+   "appearances": [
+    [
+     7,
+     742
+    ]
+   ],
+   "source_sha256": "897b0baa3b265deb8df7c80c9e2e544845a775343136e17d52fa6fb21082b909"
+  },
+  {
+   "review_id": 4679,
+   "speaker": "Asuka",
+   "before": "There's no way this Three Idiots Trio would ever take cleaning seriously.",
+   "after": "There's no way you three idiots would ever take cleaning seriously.",
+   "reason": "Make Asuka's insult natural English instead of treating Three Idiots Trio as an awkward capitalized title.",
+   "appearances": [
+    [
+     8,
+     113
+    ]
+   ],
+   "source_sha256": "43f4a6eb84b3501252588e9ae1f880bbce3ea5d4914ad11d4a8a4ce3b13934f5"
+  },
+  {
+   "review_id": 4788,
+   "speaker": "Giga Absolute",
+   "before": "According to Chip's report, Dendoh's batteries have already been shipped all over Japan.",
+   "after": "According to the Chips' reports, Dendoh's batteries have already been shipped all over Japan.",
+   "reason": "Chips refers to the Machine Generals' scouting counterparts, not a person named Chip. Match the established plural term.",
+   "appearances": [
+    [
+     8,
+     225
+    ]
+   ],
+   "source_sha256": "4a32ff29220b9fd1af941677e664152594990d2f389595570c1b874dca93056b"
+  },
+  {
+   "review_id": 4859,
+   "speaker": "Kirakuni",
+   "before": "They're weapons for fighting Angels... and they run on an external power supply, just like Dendoh.",
+   "after": "They're weapons for fighting Angels... and they run on electricity, just like Dendoh.",
+   "reason": "The source says electrical power. Remove the added claim that Dendoh also uses an external power supply; its batteries are inside the machine.",
+   "appearances": [
+    [
+     8,
+     441
+    ]
+   ],
+   "source_sha256": "64ce76a9458233d6a7454a5eb710412288cf2cdfd6f017767bf0f399188393cc"
+  },
+  {
+   "review_id": 4894,
+   "speaker": "Kirakuni",
+   "before": "The spare batteries are already empty...! We have to settle this quickly!",
+   "after": "We're out of spare batteries...! We have to settle this quickly!",
+   "reason": "Clarify that the spare supply has run out. The source describes an empty stock, not spare batteries sitting there with no charge.",
+   "appearances": [
+    [
+     8,
+     477
+    ]
+   ],
+   "source_sha256": "be6f774ace631e536123ff28471cfa9bb365de0853403bbc0d5c415c8e49c2f9"
+  },
+  {
+   "review_id": 5047,
+   "speaker": "Makoto",
+   "before": "Once you're in range, its charged particle cannon hits instantly at 100% accuracy... Humanoid mobile weapons are too risky in close combat.",
+   "after": "Its charged particle cannon hits at 100% accuracy as soon as you enter range... Close combat in humanoid mobile weapons is too risky.",
+   "reason": "Clarify that fighting the Angel at close range is risky, rather than describing the weapons themselves as risky. Keep the stated hit rate; shorten to fit the dialogue box.",
+   "appearances": [
+    [
+     8,
+     631
+    ]
+   ],
+   "source_sha256": "90d76f98dc2ef282f046f3e99b565f870d95580bdbdc29b5e063ea778ed8f880"
+  },
+  {
+   "review_id": 5059,
+   "speaker": "Ritsuko",
+   "before": "It's temporarily frozen on Commander Ikari's orders.",
+   "after": "Its deployment has been temporarily suspended on Commander Ikari's orders.",
+   "reason": "The source uses frozen for an administrative hold. State clearly that EVA-02 cannot be deployed, as the next lines explain.",
+   "appearances": [
+    [
+     8,
+     643
+    ]
+   ],
+   "source_sha256": "b054f3b215b4510abdef8f55d58e02b4d54b3250f04d0da6e443cecb910fd06d"
+  },
+  {
+   "review_id": 5513,
+   "speaker": "Altair",
+   "before": "D-damn you! Leo Circle, to the likes of you...!!",
+   "after": "D-damn you! How could the likes of you get Leo Circle...!!",
+   "reason": "Make the villain's shocked, unfinished complaint readable while preserving his contempt and the Data Weapon's name.",
+   "appearances": [
+    [
+     8,
+     1106
+    ]
+   ],
+   "source_sha256": "826640ef28acfe125540b504553d6eaa2c5c5513e61b97c1a60af0fd412d8370"
+  },
+  {
+   "review_id": 5623,
+   "speaker": "Asuka",
+   "before": "Besides, this ship's Three Idiots Trio seems alive and well, too. Well, at least I might not get bored.",
+   "after": "Besides, this ship's trio of idiots seems alive and well, too. Well, at least I might not get bored.",
+   "reason": "Use the natural phrase trio of idiots for Asuka's recurring insult, consistent with her earlier scene.",
+   "appearances": [
+    [
+     8,
+     1220
+    ]
+   ],
+   "source_sha256": "9a15898a07cd96d852c32c7f3a1df739b5a1299b4c8736b2256630564cdf24fa"
+  },
+  {
+   "review_id": 5631,
+   "speaker": "Shinji",
+   "before": "When you say this ship's Three Idiots Trio... do you mean those guys?",
+   "after": "When you say this ship's trio of idiots... do you mean those guys?",
+   "reason": "Match Shinji's quotation of Asuka's corrected insult, so the exchange remains consistent.",
+   "appearances": [
+    [
+     8,
+     1228
+    ]
+   ],
+   "source_sha256": "bf8f1504ca5c789c57d240b6858a0ced15efb3a36638af6a335121ce300d2774"
+  },
+  {
+   "review_id": 5787,
+   "speaker": "Argo",
+   "before": "They have power equal to the Devil Gundam's Four Heavenly Kings...",
+   "after": "Members of the Shuffle Alliance have power equal to the Devil Gundam's Four Heavenly Kings...",
+   "reason": "Name the subject of the sentence. The source describes the still-living Shuffle Alliance, not Schwarz and Master Asia from the preceding lines.",
+   "appearances": [
+    [
+     9,
+     293
+    ]
+   ],
+   "source_sha256": "47639c95114d986849dbaef1c63831dca71e4b44428854cf5fa283d4cef8403a"
+  },
+  {
+   "review_id": 5832,
+   "speaker": "Vega",
+   "before": "...It looks like that...",
+   "after": "...That sounds like it...",
+   "reason": "Vega compares the described energy source with something she knows. Avoid implying a visual resemblance when nothing has been shown.",
+   "appearances": [
+    [
+     9,
+     339
+    ]
+   ],
+   "source_sha256": "b52fdd532f820dfe6452ee05c3ae60cebe9e8ad1fef42b57316692ce2c426255"
+  },
+  {
+   "review_id": 6076,
+   "speaker": "Barendos",
+   "before": "Of course you would... You're the man who left your fellow people on Planet Fleed to die and fled to Earth...!",
+   "after": "Of course you would... You're the man who left his people on Planet Fleed to die and fled to Earth...!",
+   "reason": "Replaces the unnatural phrase 'fellow people' while preserving Barendos's accusation.",
+   "appearances": [
+    [
+     10,
+     320
+    ]
+   ],
+   "source_sha256": "6bbe170d44a1bbc3e4f9cf25b10538a33ae5a5ec8309b5331c460a32c2a42c68"
+  },
+  {
+   "review_id": 6174,
+   "speaker": "Asuka",
+   "before": "What? Is this another Three Idiots Trio?",
+   "after": "What? Another trio of idiots?",
+   "reason": "Treats Asuka's insult as ordinary dialogue, consistent with its other appearances, rather than an invented group name.",
+   "appearances": [
+    [
+     10,
+     420
+    ]
+   ],
+   "source_sha256": "90b6085637dee3e14d4dcfe8b093c3fe192f0a960658e249495a41e4091659a2"
+  },
+  {
+   "review_id": 6219,
+   "speaker": "Professor Yumi",
+   "before": "By the way...how is that machine Genzo Umon asked you to build coming along?",
+   "after": "By the way...how is that machine Dr. Umon asked you to build coming along?",
+   "reason": "Restores the doctor's title used in the source instead of replacing it with his full name.",
+   "appearances": [
+    [
+     10,
+     467
+    ]
+   ],
+   "source_sha256": "d66490d5f8b68336b0cfaf775964e92918e14de70d7cdfd5aaa766ec1f761a45"
+  },
+  {
+   "review_id": 6222,
+   "speaker": "Professor Yumi",
+   "before": "An Earth-built Spazer created by you, Genzo Umon and me... I can hardly wait for it to be finished.",
+   "after": "An Earth-built Spazer created by you, Dr. Umon and me... I can hardly wait for it to be finished.",
+   "reason": "Restores the source's natural reference to Dr. Umon.",
+   "appearances": [
+    [
+     10,
+     470
+    ]
+   ],
+   "source_sha256": "28dc3b4a0f92b8d97fd8b7b2a443c0ba04633e1087c29f7630171e2766a75167"
+  },
+  {
+   "review_id": 6404,
+   "speaker": "Ginga",
+   "before": "Zen meditation, huh? Mom made me do that at our Shaolin kung fu dojo once, too. Man, it makes your legs go numb.",
+   "after": "Zen meditation, huh? Mom made me do that at our Shorinji Kempo dojo once, too. Man, it makes your legs go numb.",
+   "reason": "Uses the established name of Ginga's martial art, consistent with the other Dendoh scenes. Shorinji Kempo is distinct from Shaolin kung fu. https://www.shorinjikempo.or.jp/en/what/discipline",
+   "appearances": [
+    [
+     11,
+     168
+    ]
+   ],
+   "source_sha256": "9697b42e009ecf9a6995dc397ea13d5c11e2d0df8bbe2e929d393e4e723a4338"
+  },
+  {
+   "review_id": 6520,
+   "speaker": "#男愛称",
+   "before": "Wait, Captain!!",
+   "after": "Wait, Commander!!",
+   "reason": "Uses Albero's squad-leader title consistently across Chapter 11.",
+   "appearances": [
+    [
+     11,
+     430
+    ]
+   ],
+   "source_sha256": "506fefb471529a09ec1b77ccb7fc04b1a412d6ce65396da568df52620d087200"
+  },
+  {
+   "review_id": 6523,
+   "speaker": "#男愛称",
+   "before": "Captain...!!",
+   "after": "Commander...!!",
+   "reason": "Uses Albero's squad-leader title consistently across Chapter 11.",
+   "appearances": [
+    [
+     11,
+     434
+    ]
+   ],
+   "source_sha256": "4b491090f78939aed19bd086f48e037eb3b1140573226a9b5733389528ee0de4"
+  },
+  {
+   "review_id": 6563,
+   "speaker": "Albero",
+   "before": "So this is NERV's general-purpose humanoid weapon built for decisive battle I've heard about...! You too shall become food for Medius!",
+   "after": "So this is NERV's rumored general-purpose humanoid weapon for decisive battle...! You too shall feed the Medius's growth!",
+   "reason": "Restructures an awkward chain of modifiers and preserves both the Evangelion description and Albero's threat.",
+   "appearances": [
+    [
+     11,
+     475
+    ]
+   ],
+   "source_sha256": "e5e8938c2fc93dcea6e68d0aff85da53036a140fc60fac1ed86b9941013d9cb8"
+  },
+  {
+   "review_id": 6614,
+   "speaker": "Albero",
+   "before": "Or rather, you're a Second Lieutenant now.",
+   "after": "Or rather, you're an Ensign now.",
+   "reason": "Uses Hugo's established translated rank, consistent with the project glossary and earlier chapters.",
+   "appearances": [
+    [
+     11,
+     526
+    ]
+   ],
+   "source_sha256": "98b58b07d642222e51289740ef8a9ac6a95090ce5fc22fb251681de2ca003d50"
+  },
+  {
+   "review_id": 6727,
+   "speaker": "#男愛称",
+   "before": "I don't know why the Captain stole the Medius Locus... or why he attacked us.",
+   "after": "I don't know why the Commander stole the Medius Locus... or why he attacked us.",
+   "reason": "Uses Commander for Albero's role as squad leader, consistent with his introduction; this is not a statement of his military rank.",
+   "appearances": [
+    [
+     11,
+     646
+    ]
+   ],
+   "source_sha256": "bebcdf2d6f740c531e419cbd48ff98a431371cea7f939ef1299933c09d559354"
+  },
+  {
+   "review_id": 6729,
+   "speaker": "#男愛称",
+   "before": "That's also... what the Captain taught me.",
+   "after": "That's also... what the Commander taught me.",
+   "reason": "Keeps Albero's squad-leader title consistent with his introduction.",
+   "appearances": [
+    [
+     11,
+     648
+    ]
+   ],
+   "source_sha256": "1cc4c183ec7bf364f7b964f426bce30f9947971251801167650c529c07a39e25"
+  },
+  {
+   "review_id": 6733,
+   "speaker": "#男愛称",
+   "before": "If I hesitate when I fight the Captain... I'll only get myself killed.",
+   "after": "If I hesitate when I fight the Commander... I'll only get myself killed.",
+   "reason": "Keeps Albero's squad-leader title consistent with his introduction.",
+   "appearances": [
+    [
+     11,
+     652
+    ]
+   ],
+   "source_sha256": "c3566658aaf6cd441557d9ee0aafd12e15efce893c723ba1364b8c8d2042083e"
+  },
+  {
+   "review_id": 6946,
+   "speaker": "#男愛称",
+   "before": "#女愛称! Don't fall for the enemy's sweet talk! In a real battle...",
+   "after": "#女愛称! Don't let the enemy get to you! In a real battle...",
+   "reason": "Fits the actual exchange: the enemy is trying to provoke Aqua with an insult, not flattering or sweet-talking her.",
+   "appearances": [
+    [
+     12,
+     303
+    ]
+   ],
+   "source_sha256": "cd7c9cf49c7ee4041ac83135714794e767e427fb5ea01504886098236ce6b65c"
+  },
+  {
+   "review_id": 6971,
+   "speaker": "Shi-Tau",
+   "before": "They call Fire and Water a pair of Hakke robots...! They say they share the same fate as us sisters...!",
+   "after": "As if Fire and Water must be paired Hakke robots...! As if they have to share the same fate as us sisters...!",
+   "reason": "Preserves Shi-Tau's rejection of the claimed bond between the two robots, rather than making it sound like a neutral description.",
+   "appearances": [
+    [
+     12,
+     328
+    ]
+   ],
+   "source_sha256": "e3581b5fd35ba07f9ed8212cc4ffbd8144c633bdcf1ddb5339b21e0dea66adf3"
+  },
+  {
+   "review_id": 7343,
+   "speaker": "Soichi",
+   "before": "Well... Colonel, we'd like you to take in RahXephon and its pilot, Ayato Kamina.",
+   "after": "Well... Captain, we'd like you to take in RahXephon and its pilot, Ayato Kamina.",
+   "reason": "Uses Bright's established naval rank, consistent with the same scene's Captain Bright Noa reference and the project glossary decision.",
+   "appearances": [
+    [
+     13,
+     477
+    ]
+   ],
+   "source_sha256": "61b7048feebedc1d15daa7a5b2915e80f254ff6dc77f9a11b660e090d032a742"
+  },
+  {
+   "review_id": 7556,
+   "speaker": "#男愛称",
+   "before": "Get out of the way! Ginga and Hokuto are getting away!!",
+   "after": "Get out of the way! They're taking Ginga and Hokuto away!!",
+   "reason": "Makes clear that Ginga and Hokuto are being abducted, rather than escaping from their allies.",
+   "appearances": [
+    [
+     14,
+     307
+    ]
+   ],
+   "source_sha256": "0e4544557822a55602e239c36b16ecf29a5fcaabc6343f6f6bf46d2f8aaea291"
+  },
+  {
+   "review_id": 7725,
+   "speaker": "Misato",
+   "before": "And Second Lieutenant #男愛称... Since you have a mission to pursue the Medius Locus...",
+   "after": "And Ensign #男愛称... Since you have a mission to pursue the Medius Locus...",
+   "reason": "Uses Hugo's established translated rank, consistent with the glossary and earlier chapters.",
+   "appearances": [
+    [
+     14,
+     482
+    ]
+   ],
+   "source_sha256": "3bf4f2098a4e3ad8787ee9e2761e8bb8cf6e146979cf7027b047b6cd0ea38cea"
+  }
+ ],
+ "reviewed_ranges": [
+  [
+   0,
+   360
+  ],
+  [
+   360,
+   575
+  ],
+  [
+   575,
+   1040
+  ],
+  [
+   1040,
+   1190
+  ],
+  [
+   1190,
+   1420
+  ],
+  [
+   1420,
+   1630
+  ],
+  [
+   1630,
+   1835
+  ],
+  [
+   1835,
+   2040
+  ],
+  [
+   2040,
+   2250
+  ],
+  [
+   2250,
+   2440
+  ],
+  [
+   2440,
+   2645
+  ],
+  [
+   2645,
+   2850
+  ],
+  [
+   2850,
+   3055
+  ],
+  [
+   3055,
+   3260
+  ],
+  [
+   3260,
+   3465
+  ],
+  [
+   3465,
+   3670
+  ],
+  [
+   3670,
+   3875
+  ],
+  [
+   3875,
+   4080
+  ],
+  [
+   4080,
+   4285
+  ],
+  [
+   4285,
+   4490
+  ],
+  [
+   4490,
+   4695
+  ],
+  [
+   4695,
+   4900
+  ],
+  [
+   4900,
+   5105
+  ],
+  [
+   5105,
+   5310
+  ],
+  [
+   5310,
+   5515
+  ],
+  [
+   5515,
+   5720
+  ],
+  [
+   5720,
+   5925
+  ],
+  [
+   5925,
+   6130
+  ],
+  [
+   6130,
+   6335
+  ],
+  [
+   6335,
+   6540
+  ],
+  [
+   6540,
+   6745
+  ],
+  [
+   6745,
+   6950
+  ],
+  [
+   6950,
+   7155
+  ],
+  [
+   7155,
+   7360
+  ],
+  [
+   7360,
+   7565
+  ],
+  [
+   7565,
+   7745
+  ]
+ ],
+ "validation": [
+  {
+   "chapter": 1,
+   "rows": 873,
+   "changed_occurrences": 23,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "ced641454f1212502745c05b2290656e1bd6db249c8627b2d5b8002b55a3e24b"
+  },
+  {
+   "chapter": 2,
+   "rows": 1068,
+   "changed_occurrences": 18,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "52a0b4f00db00daca971e68a973e4216a5b3ce228e87e3c194d3bfce932881b7"
+  },
+  {
+   "chapter": 3,
+   "rows": 939,
+   "changed_occurrences": 10,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "56759c25e551564caa32762f2c6c5e14ae730e871c57dad7145f24c1695a3e1d"
+  },
+  {
+   "chapter": 4,
+   "rows": 765,
+   "changed_occurrences": 8,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "6fa06a1523f5321f35b467bc1a7ee00439e0288483f807121d00c2cc31738070"
+  },
+  {
+   "chapter": 5,
+   "rows": 482,
+   "changed_occurrences": 6,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "9e87dfa969d982f4e514f303197c49113e89c814227803847aeddb8e44923407"
+  },
+  {
+   "chapter": 6,
+   "rows": 582,
+   "changed_occurrences": 8,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "a596f7a743fda07ae97d43391a7a819cbddaa7a22e9b68ba88228757aef02a58"
+  },
+  {
+   "chapter": 7,
+   "rows": 785,
+   "changed_occurrences": 8,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "d84af736a4f65a41e931bfdbc8ec1473ec58efa7729cd4d410ad148636cd1db6"
+  },
+  {
+   "chapter": 8,
+   "rows": 1239,
+   "changed_occurrences": 12,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "a33a085d73ace1ccc6a3986390f60d8af21079d65441928b65db6a802af6a6b3"
+  },
+  {
+   "chapter": 9,
+   "rows": 413,
+   "changed_occurrences": 5,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "e4378aa26d072c56c135b314cbe7c8b245f4f1da7c6467f4a9657da0f0e5d694"
+  },
+  {
+   "chapter": 10,
+   "rows": 489,
+   "changed_occurrences": 7,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "457abc1251d2e0286799a26c128e289860d084c4bb154b3de25ade0cfaba9208"
+  },
+  {
+   "chapter": 11,
+   "rows": 710,
+   "changed_occurrences": 11,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "de0fb945ddab9ed754ed73f7f22f2ed7f70e7ffd9c0b1d23ae27c2c624e54542"
+  },
+  {
+   "chapter": 12,
+   "rows": 383,
+   "changed_occurrences": 5,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "6077ef35aa56cdc4ccbca0db3e40f0ae5f080bba8958afda0ad975533189528a"
+  },
+  {
+   "chapter": 13,
+   "rows": 536,
+   "changed_occurrences": 4,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "ef596f2361d696cfdcb4c56238b89ebbbfe44adf41165a9de57ad6a8a5f3dde0"
+  },
+  {
+   "chapter": 14,
+   "rows": 502,
+   "changed_occurrences": 5,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "ee7bd753658a4e1b4922cef1b09c3360e17176efd431148bb0fbb1741060eb6f"
+  }
+ ],
+ "status": "applied to current full campaign sources and scoped context overrides",
+ "reviewed_unique_rows": 7745,
+ "reviewed_assembled_rows": 9766,
+ "changed_occurrences": 130,
+ "iso_rebuilt": false,
+ "reassembly_checks": [
+  {
+   "chapter": 1,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 873
+  },
+  {
+   "chapter": 2,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 1068
+  },
+  {
+   "chapter": 3,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 939
+  },
+  {
+   "chapter": 4,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 765
+  },
+  {
+   "chapter": 5,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 482
+  },
+  {
+   "chapter": 6,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 582
+  },
+  {
+   "chapter": 7,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 785
+  },
+  {
+   "chapter": 8,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 1239
+  },
+  {
+   "chapter": 9,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 413
+  },
+  {
+   "chapter": 10,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 489
+  },
+  {
+   "chapter": 11,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 710
+  },
+  {
+   "chapter": 12,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 383
+  },
+  {
+   "chapter": 13,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 536
+  },
+  {
+   "chapter": 14,
+   "fingerprint_match": true,
+   "current_context_review": true,
+   "rows": 502
+  }
+ ],
+ "prior_fix_packet_sync": [
+  {
+   "source": "work/translation/en/script/stage05_campaign_sol61medium_slice_3.json",
+   "id": 173,
+   "before": "George DeSand, the Jack in Diamond... They are members of the Shuffle Alliance.",
+   "after": "George De Sand, the Jack in Diamond... They are members of the Shuffle Alliance.",
+   "reason": "Retains the user-requested George De Sand spelling, with a space in the surname."
+  },
+  {
+   "source": "work/translation/en/script/stage11_campaign_sol61medium_slice_4.json",
+   "id": 367,
+   "before": "He's former Major Albero Esto, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!",
+   "after": "He's former Major Albero Est, commander of the Cry Wolves, the Federation Army special forces unit I used to belong to...!",
+   "reason": "Retains the user-requested Albero Est spelling, removing the final o."
+  },
+  {
+   "source": "work/translation/en/script/stage11_campaign_sol61medium_slice_6.json",
+   "id": 530,
+   "before": "Albero Esto was #男愛称's former commanding officer.",
+   "after": "Albero Est was #男愛称's former commanding officer.",
+   "reason": "Retains the user-requested Albero Est spelling, removing the final o."
+  },
+  {
+   "source": "work/translation/en/script/stage07_campaign_sol61medium_slice_0.json",
+   "id": 72,
+   "before": "Damn Taiha... He grows arrogant just because he enjoys Yuratei's favor...",
+   "after": "Damn Taiha... He's gotten full of himself just because he's Yuratei's favorite...",
+   "reason": "Retains the previously proofread, natural wording of Rockfell's complaint: Taiha has become conceited because he is Yuratei's favorite."
+  },
+  {
+   "source": "work/translation/en/script/stage07_campaign_sol61medium_slice_1.json",
+   "id": 143,
+   "before": "1. Shoot down Zeorymer of the Heavens",
+   "after": "1. Zeorymer of the Heavens is shot down.",
+   "reason": "Retains the corrected defeat condition: losing the allied Zeorymer causes defeat. The old active wording sounded like an instruction to attack it."
+  },
+  {
+   "source": "work/translation/en/script/stage14_campaign_sol61medium_slice_5.json",
+   "id": 337,
+   "before": "Besides... Albero Esto made contact with Giganos. There's a good chance he's gone into space too...",
+   "after": "Besides... Albero Est made contact with Giganos. There's a good chance he's gone into space too...",
+   "reason": "Retains the user-requested Albero Est spelling, removing the final o."
+  }
+ ],
+ "html_browser_checks": {
+  "cards": 91,
+  "search": true,
+  "chapter_filter": true,
+  "empty_state": true,
+  "mobile_no_horizontal_overflow": true,
+  "coverage_rows": 14,
+  "javascript_errors": []
+ },
+ "final_integrity_checks": {
+  "full_coverage": true,
+  "all_corrections_present": true,
+  "source_metadata_preserved": true,
+  "safe_copies_current": true,
+  "report_sha256": "9886aa2690cc598c163384c8f2137fdaa66aaab82cddb1d32760b93ec1178d01"
+ }
+}

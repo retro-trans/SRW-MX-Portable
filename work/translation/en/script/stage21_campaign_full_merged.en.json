@@ -4504,12 +4504,12 @@
    "kind": "dialogue",
    "speaker_jp": "葎",
    "speaker_en": "Ritsu",
-   "en": "Is this the Zeorymer created by that man I hate with every fiber of my being...!?",
+   "en": "Is this the Zeorymer created by the man I hate with every fiber of my being...!?",
    "translation_owner": {
     "source": "work/translation/en/script/stage21_campaign.json",
     "id": 103
    },
-   "notes": "Source explicitly identifies a man; identity withheld.",
+   "notes": "Source explicitly identifies a man; identity withheld. Accepted the user's suggestion: the definite article sounds more natural here. The demonstrative identifies the creator without naming him; the emphasis on enduring hatred remains.",
    "uncertain": []
   },
   {
@@ -7165,7 +7165,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 21,
-  "fingerprint": "2481b4206e0edfae8d4d9e05666be64985e2643e52b8a61218a145a9f6478563",
+  "fingerprint": "fcf81f9518230a8580c8e709ada64f9a02f0e1f213c528543f4f5efd6a2e1de3",
   "reviewed_reused_ids": [
    0,
    1,
@@ -7344,7 +7344,7 @@
   "reviewed_reused_rows": 173,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.13: defeat means Zeorymer is lost; corrected the imperative in s0150:207 and s0430:207. 2026-10-09: All Chapter 21 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
+  "note": "Coordinator read all261 fresh English rows and six reports, all11 fresh flagged Japanese contexts and every173 reused row/use. Generic143 rows match reviewed template JP/kind/effective speaker. Thirty special reused rows examined with scene neighbors; later silences and all four uses of52 rechecked against final translations. Moonlight and Dr. Katsuragi/S2 terminology centrally sourced without attack/mechanism substitutions. No measured compression. Source cutoffs, identity ambiguity and literal imagery retained; name and nickname previews clear. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. PSP 0.4.13: defeat means Zeorymer is lost; corrected the imperative in s0150:207 and s0430:207. 2026-10-09: All Chapter 21 rows proofread against the original source in scene context, including all applicable routes and reused rows. 5 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only. 2026-10-12: Entry 269 screenshot follow-up; natural imagery/article. Source-only."
  },
  "full_checks": {
   "rows": 434,

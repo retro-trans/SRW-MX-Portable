@@ -1,0 +1,1526 @@
+{
+ "date": "2026-10-12",
+ "scope": "Screenshot follow-ups to the completed campaign proofreading",
+ "status": "Applied to current assembled sources and guarded context overrides",
+ "iso_rebuilt": false,
+ "edits": [
+  {
+   "speaker": "Saburota",
+   "kind": "dialogue",
+   "before": "Sometimes we get the cold shoulder where Commander Misumaru can't see it.",
+   "after": "Sometimes we get a raw deal behind Commander Misumaru's back.",
+   "reason": "Screenshot proofreading follow-up: cold or unfair treatment is broader than simply being ignored. The line describes mistreatment outside Commander Misumaru's oversight. Raw deal and behind his back preserve Saburota's casual tone without the literal, awkward location clause.",
+   "appearances": [
+    [
+     17,
+     524
+    ]
+   ],
+   "source_sha256": "2365e6607c7b942495eb8fd87c1981471283c9841c2320d04d6d19eef091c1fb"
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "The time has come for our Tekkoryu to rise again!",
+   "after": "The time has come for our Hau Dragon to rise again!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     32
+    ]
+   ],
+   "source_sha256": "395639e98f07672c93e6473527bef7dab49e43a290f4ad60ce5ec7a5772ee3a7",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    324,
+    95
+   ],
+   "ps2_widths": [
+    500,
+    129
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "Now Tekkoryu shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!",
+   "after": "Now Hau Dragon shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     35
+    ]
+   ],
+   "source_sha256": "4e20c6b6c7d0aedab85f80a1798b99ce019da0886c2b0a26a92644ac4099b17b",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    325,
+    305,
+    346
+   ],
+   "ps2_widths": [
+    502,
+    453,
+    516
+   ]
+  },
+  {
+   "speaker": "Giso",
+   "kind": "dialogue",
+   "before": "The vile criminal who stole Zeorymer of the Heavens from Tekkoryu fifteen years ago and destroyed the fortress's central core!",
+   "after": "The vile criminal who stole Zeorymer of the Heavens from Hau Dragon fifteen years ago and destroyed the fortress's central core!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     38
+    ]
+   ],
+   "source_sha256": "2f343d81c2181598d6fef35785ab37ce73fd09e6c0d19465faf2f50c2c25c2d9",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    316,
+    321,
+    258
+   ],
+   "ps2_widths": [
+    493,
+    482,
+    386
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "Mighty Hakkeshu, the pride of Tekkoryu! Who among you will undertake this mission...!?",
+   "after": "Mighty Hakkeshu, the pride of Hau Dragon! Who among you will undertake this mission...!?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     44
+    ]
+   ],
+   "source_sha256": "37751dc08cd445ee3b3962bcd4c3da3ba33cf7d8a58c87bea9c0ec83ac88b1a4",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    335,
+    325
+   ],
+   "ps2_widths": [
+    512,
+    483
+   ]
+  },
+  {
+   "speaker": "Taiha",
+   "kind": "dialogue",
+   "before": "Lanstar of the Winds shall bring Tekkoryu its first victory.",
+   "after": "Lanstar of the Winds shall bring Hau Dragon its first victory.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     51
+    ]
+   ],
+   "source_sha256": "f6913d7413749d3d8594a7c02ef0bc2f0845faaefe1f94d578edbade17edafb7",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    328,
+    127
+   ],
+   "ps2_widths": [
+    506,
+    182
+   ]
+  },
+  {
+   "speaker": "Taiha",
+   "kind": "dialogue",
+   "before": "You want me to prove myself a man worthy of loving the leader of Tekkoryu... Is that what you mean?",
+   "after": "You want me to prove myself a man worthy of loving the leader of Hau Dragon... Is that what you mean?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     80
+    ]
+   ],
+   "source_sha256": "b31ce20605cf835fb840fd6be934d12d4788a157fcd7de34dc390ad3cb8b28bb",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    332,
+    327,
+    101
+   ],
+   "ps2_widths": [
+    514,
+    483,
+    138
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "thought",
+   "before": "I am the Empress of Tekkoryu... I could not single you out and tell you to come back alive...",
+   "after": "I am the Empress of Hau Dragon... I could not single you out and tell you to come back alive...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     87
+    ]
+   ],
+   "source_sha256": "e48248c5e3a96a174e4dee2b664da1355f75cc7708706cc9733d31294a94a7ba",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    327,
+    350
+   ],
+   "ps2_widths": [
+    497,
+    528
+   ]
+  },
+  {
+   "speaker": "Miku",
+   "kind": "dialogue",
+   "before": "Yes. It is another name for the secret society Tekkoryu.",
+   "after": "Yes. It is another name for the secret society Hau Dragon.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     294
+    ]
+   ],
+   "source_sha256": "d01328102bb4cd29aa5c64f532d5f912588af655de7aa5247617f5ed658f1961",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    325,
+    112
+   ],
+   "ps2_widths": [
+    507,
+    150
+   ]
+  },
+  {
+   "speaker": "Masato",
+   "kind": "dialogue",
+   "before": "A secret society... Tekkoryu...?",
+   "after": "A secret society... Hau Dragon...?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     295
+    ]
+   ],
+   "source_sha256": "61521c72dec7b0be96fd57c3341b44c86ebec6b67f7d92cb6c7efd9d062661d6",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    291
+   ],
+   "ps2_widths": [
+    441
+   ]
+  },
+  {
+   "speaker": "Taiha",
+   "kind": "thought",
+   "before": "Watch me, Yuratei. I'll prove to you who the greatest warrior among Tekkoryu's Hakkeshu is...!",
+   "after": "Watch me, Yuratei. I'll prove to you who the greatest warrior among Hau Dragon's Hakkeshu is...!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     316
+    ]
+   ],
+   "source_sha256": "054a59d4cac7213fad32835fa3a6f104900231db47a8ba262433d873b02e44e9",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    335,
+    319,
+    57
+   ],
+   "ps2_widths": [
+    511,
+    472,
+    66
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "...Before I was chosen as Empress of Tekkoryu, I too was one of the Hakkeshu...",
+   "after": "...Before I was chosen as Empress of Hau Dragon, I too was one of the Hakkeshu...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     573
+    ]
+   ],
+   "source_sha256": "992d3c70f53fab9fda4ef45e640d8c13f6be54aa6a8d0112bf843326059435c3",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    321,
+    292
+   ],
+   "ps2_widths": [
+    491,
+    425
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "That \"Heaven\" is the key to our Tekkoryu's cherished ambition, the \"Hades Project\"! You must bring it back!",
+   "after": "That \"Heaven\" is the key to our Hau Dragon's cherished ambition, the \"Hades Project\"! You must bring it back!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     7,
+     577
+    ]
+   ],
+   "source_sha256": "d6a38e7044d9552d03b407761abb7795fe14b6c6e220685c27cd0eff5aff4152",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    284,
+    322,
+    175
+   ],
+   "ps2_widths": [
+    442,
+    475,
+    254
+   ]
+  },
+  {
+   "speaker": "Saiga",
+   "kind": "dialogue",
+   "before": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Tekkoryu.",
+   "after": "It concerns measures against those besides Zeorymer of the Heavens who might stand in the way of our Hau Dragon.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     12,
+     24
+    ]
+   ],
+   "source_sha256": "68a94a03ea360e2376bef467da8d123c5080cde63d7d21b9be2e094171e38f82",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    313,
+    323,
+    186
+   ],
+   "ps2_widths": [
+    488,
+    485,
+    267
+   ]
+  },
+  {
+   "speaker": "Miku",
+   "kind": "dialogue",
+   "before": "Oki told you about Tekkoryu... Hau Dragon, didn't he?",
+   "after": "Oki told you about the Iron Dragon... Hau Dragon, didn't he?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. This source explicitly says both name forms; the Iron Dragon is retained only as its literal alias, preserving the pause/self-correction.",
+   "appearances": [
+    [
+     12,
+     53
+    ]
+   ],
+   "source_sha256": "104a30d60f632d81db6084901b2dabf60255bb054315775c2cccc1aa6b8381dd",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    305,
+    146
+   ],
+   "ps2_widths": [
+    466,
+    204
+   ]
+  },
+  {
+   "speaker": "Shi-Tau",
+   "kind": "dialogue",
+   "before": "What nonsense... Tekkoryu shall rule the world... We have no need of allies!",
+   "after": "What nonsense... Hau Dragon shall rule the world... We have no need of allies!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     12,
+     283
+    ]
+   ],
+   "source_sha256": "e151dfc66d50d059e9b288a3379417825073eddfdacc63fe04beb81b5b311512",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    331,
+    246
+   ],
+   "ps2_widths": [
+    506,
+    362
+   ]
+  },
+  {
+   "speaker": "Haruka",
+   "kind": "dialogue",
+   "before": "But on the Yangtze route, Tekkoryu may target us. Their headquarters are said to be in southern China.",
+   "after": "But on the Yangtze route, Hau Dragon may target us. Their headquarters are said to be in southern China.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     16,
+     10
+    ]
+   ],
+   "source_sha256": "3495c77d4c34d5835dc4f78712afcd796d1028f4bfd5b1363dd4ee343cee7cc4",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    334,
+    297,
+    129
+   ],
+   "ps2_widths": [
+    511,
+    448,
+    179
+   ]
+  },
+  {
+   "speaker": "Haruka",
+   "kind": "dialogue",
+   "before": "But on the Yangtze route, Tekkoryu may target us. Their headquarters are said to be in southern China.",
+   "after": "But on the Yangtze route, Hau Dragon may target us. Their headquarters are said to be in southern China.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     17,
+     28
+    ]
+   ],
+   "source_sha256": "3495c77d4c34d5835dc4f78712afcd796d1028f4bfd5b1363dd4ee343cee7cc4",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    334,
+    297,
+    129
+   ],
+   "ps2_widths": [
+    511,
+    448,
+    179
+   ]
+  },
+  {
+   "speaker": "Dr. Plato",
+   "kind": "dialogue",
+   "before": "the Tekkoryu with its special machines, Dolems, Angels and the like would be difficult.",
+   "after": "the Hau Dragon with its special machines, Dolems, Angels and the like would be difficult.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     18,
+     79
+    ]
+   ],
+   "source_sha256": "4ca98fcccfd50a4ab6753097330770aac6de2c600f225ce1380a32bdb026e864",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    334,
+    318
+   ],
+   "ps2_widths": [
+    508,
+    477
+   ]
+  },
+  {
+   "speaker": "Kaine",
+   "kind": "dialogue",
+   "before": "We'll never be able to live in peace as long as the likes of Giganos, Tekkoryu and Gulfer are around!",
+   "after": "We'll never be able to live in peace as long as the likes of Giganos, Hau Dragon and Gulfer are around!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     18,
+     649
+    ]
+   ],
+   "source_sha256": "b762a3e424e4283f711cc214f526cb1aeb426eeba0a40a0d4a04cac06bfb2a79",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    329,
+    315,
+    78
+   ],
+   "ps2_widths": [
+    515,
+    472,
+    101
+   ]
+  },
+  {
+   "speaker": "Prospector",
+   "kind": "dialogue",
+   "before": "Giganos, Gulfer, Mu... The Hyakki Empire and Tekkoryu... Then the Vegan Empire, and on top of that, the Angels.",
+   "after": "Giganos, Gulfer, the Mu... The Hyakki Empire and Hau Dragon... Plus the Vegan Empire, and the Angels on top of that.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. The Japanese lists seven enemies cumulatively. Plus avoids implying a chronology; the Mu uses the requested article.",
+   "appearances": [
+    [
+     18,
+     1201
+    ]
+   ],
+   "source_sha256": "3afe46c3c4ea254e5b1e928b32f9e29c2cfac366a7c4af01becbc81337dbdb5f",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    319,
+    351,
+    194
+   ],
+   "ps2_widths": [
+    486,
+    515,
+    281
+   ]
+  },
+  {
+   "speaker": "Shi-Aen",
+   "kind": "dialogue",
+   "before": "You are in the presence of Tekkoryu's leader. Restrain yourself.",
+   "after": "You are in the presence of Hau Dragon's leader. Restrain yourself.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     144
+    ]
+   ],
+   "source_sha256": "bb1f492fab9ca8c5561a84f453ec392cd0344d75ddcdd59843e03957bd9aea3f",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    316,
+    185
+   ],
+   "ps2_widths": [
+    486,
+    271
+   ]
+  },
+  {
+   "speaker": "Masato",
+   "kind": "dialogue",
+   "before": "Tekkoryu?! Its leader?!",
+   "after": "Hau Dragon?! Its leader?!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     145
+    ]
+   ],
+   "source_sha256": "178e1777ce420043f599ffa4b2be8dea6fc912bbfbe656e767026cf4a7555d7d",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    239
+   ],
+   "ps2_widths": [
+    363
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "That is the greatest crime of all against us of Tekkoryu!",
+   "after": "That is the greatest crime of all against us of Hau Dragon!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     158
+    ]
+   ],
+   "source_sha256": "11405b923e3dc80159a8fbabed957103c8d27ac193663d610313c6553e95252a",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    323,
+    130
+   ],
+   "ps2_widths": [
+    507,
+    179
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "We of Tekkoryu were planning to assemble an army of giant robots to conquer the world... That was fifteen years ago now.",
+   "after": "We of Hau Dragon were planning to assemble an army of giant robots to conquer the world... That was fifteen years ago now.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     169
+    ]
+   ],
+   "source_sha256": "8c6fdaf00d66e9eb60d2810a624bab5a2d845b262b0898ed522f89f4b46de74e",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    287,
+    318,
+    289
+   ],
+   "ps2_widths": [
+    443,
+    480,
+    429
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "And the man named Masaki Kihara, who built Zeorymer for Tekkoryu...",
+   "after": "And the man named Masaki Kihara, who built Zeorymer for Hau Dragon...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     172
+    ]
+   ],
+   "source_sha256": "eff6b73dda4905d3377422989088f14274419081827438c4a966072e257fb9a3",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    317,
+    237
+   ],
+   "ps2_widths": [
+    486,
+    347
+   ]
+  },
+  {
+   "speaker": "Misato",
+   "kind": "dialogue",
+   "before": "Yes. That one was stolen from Tekkoryu. By one particular man.",
+   "after": "Yes. That one was stolen from Hau Dragon. By one particular man.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     639
+    ]
+   ],
+   "source_sha256": "f1f024d33f5fa72e1b4e8e6cf421b98d5fa4b5441c2a8a7e0a8f077540370486",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    334,
+    173
+   ],
+   "ps2_widths": [
+    516,
+    247
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "Zeorymer of the Heavens has now become a calamity for our Tekkoryu!",
+   "after": "Zeorymer of the Heavens has now become a calamity for our Hau Dragon!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     19,
+     674
+    ]
+   ],
+   "source_sha256": "4a54db71dd4013c6e9ca12475e9862c52af228bdc2b6fcf2d7714b93af24385e",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    330,
+    229
+   ],
+   "ps2_widths": [
+    512,
+    334
+   ]
+  },
+  {
+   "speaker": "Hidler",
+   "kind": "dialogue",
+   "before": "Neither Mu nor Tekkoryu has made any notable moves.",
+   "after": "Neither Mu nor Hau Dragon has made any notable moves.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     20,
+     68
+    ]
+   ],
+   "source_sha256": "ec3945e952ed2c4816f1e3919c9fcf1112c1f9d3975ae592756950d1761b623c",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    314,
+    126
+   ],
+   "ps2_widths": [
+    484,
+    176
+   ]
+  },
+  {
+   "speaker": "Hidler",
+   "kind": "dialogue",
+   "before": "Neither Mu nor Tekkoryu has made any notable moves.",
+   "after": "Neither Mu nor Hau Dragon has made any notable moves.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     21,
+     5
+    ]
+   ],
+   "source_sha256": "ec3945e952ed2c4816f1e3919c9fcf1112c1f9d3975ae592756950d1761b623c",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    314,
+    126
+   ],
+   "ps2_widths": [
+    484,
+    176
+   ]
+  },
+  {
+   "speaker": "Miku",
+   "kind": "dialogue",
+   "before": "To stop Tekkoryu... Hau Dragon's ambitions.",
+   "after": "To stop the Iron Dragon... Hau Dragon's ambitions.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. This source explicitly says both name forms; the Iron Dragon is retained only as its literal alias, preserving the pause/self-correction.",
+   "appearances": [
+    [
+     21,
+     371
+    ]
+   ],
+   "source_sha256": "42febcbfa4f4c6bac2b2da02df27da895fae484f8dd9c317b2065fc0f1cb58f8",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    298,
+    95
+   ],
+   "ps2_widths": [
+    451,
+    128
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "We must also prepare for the Hades Project, the cherished ambition of our Tekkoryu... We shall watch and wait for a while.",
+   "after": "We must also prepare for the Hades Project, the cherished ambition of our Hau Dragon... We shall watch and wait for a while.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     21,
+     428
+    ]
+   ],
+   "source_sha256": "5258cc4568f67ebd25218c71fd67afcd68c8e6d5d28c481a560dad9e13160357",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    339,
+    346,
+    206
+   ],
+   "ps2_widths": [
+    523,
+    513,
+    299
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "thought",
+   "before": "I will not tolerate their existence. When the time is ripe, I shall mobilize all of Tekkoryu's might and obliterate them without fail...!",
+   "after": "I will not tolerate their existence. When the time is ripe, I shall mobilize all of Hau Dragon's might and obliterate them without fail...!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     21,
+     433
+    ]
+   ],
+   "source_sha256": "607cdc42c69648e5ca8ba0f5cd0299f308b9fea7929b98189210b1cfbeda07d5",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    331,
+    346,
+    244
+   ],
+   "ps2_widths": [
+    514,
+    518,
+    357
+   ]
+  },
+  {
+   "speaker": "Saiga",
+   "kind": "dialogue",
+   "before": "That would save us in Tekkoryu a great deal of trouble. Quite convenient, really.",
+   "after": "That would save us in Hau Dragon a great deal of trouble. Quite convenient, really.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     9
+    ]
+   ],
+   "source_sha256": "25874e6d59edb9b2aaa804681e13813abf5e13e88a213ac9039c7feb3bdcea32",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    314,
+    279
+   ],
+   "ps2_widths": [
+    486,
+    418
+   ]
+  },
+  {
+   "speaker": "Rockfell",
+   "kind": "dialogue",
+   "before": "At present, the forces that clearly stand in our Tekkoryu's way are...",
+   "after": "At present, the forces that clearly stand in our Hau Dragon's way are...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     19
+    ]
+   ],
+   "source_sha256": "b05bde44b9b1c81a594a6c69a94ceeb6a76e25c1fd8ebdda9262945fa3b8dc2f",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    329,
+    209
+   ],
+   "ps2_widths": [
+    512,
+    300
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "...For my Tekkoryu, the foremost enemy is Zeorymer of the Heavens...",
+   "after": "...For my Hau Dragon, the foremost enemy is Zeorymer of the Heavens...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     30
+    ]
+   ],
+   "source_sha256": "617db5606dfe1ed5f37ed2ab4426534a1489e1e299e3239be0afeed7c69ada52",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    332,
+    217
+   ],
+   "ps2_widths": [
+    507,
+    318
+   ]
+  },
+  {
+   "speaker": "Luhran",
+   "kind": "dialogue",
+   "before": "Otherwise, I would never have brought him to this Tekkoryu fortress.",
+   "after": "Otherwise, I would never have brought him to this Hau Dragon fortress.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     80
+    ]
+   ],
+   "source_sha256": "e5bbe02f5d995df4af58ac1b9532a705aca971163dc5f8b77170545b7c821cca",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    345,
+    190
+   ],
+   "ps2_widths": [
+    527,
+    275
+   ]
+  },
+  {
+   "speaker": "Luhran",
+   "kind": "dialogue",
+   "before": "Then you could attack #部隊名 on your own. Why did you approach us, the Tekkoryu?",
+   "after": "Then you could attack #部隊名 on your own. Why did you approach us, the Hau Dragon?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     88
+    ]
+   ],
+   "source_sha256": "1778ff6bdf4603f25b497270ddc5c024940b4fec13c7d601ca1b142e1fc59a02",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    330,
+    318,
+    87
+   ],
+   "ps2_widths": [
+    502,
+    471,
+    113
+   ]
+  },
+  {
+   "speaker": "Luhran",
+   "kind": "dialogue",
+   "before": "Ugh...! Y-yes, the Tekkoryu Fortress was restored by adapting some of your technology.",
+   "after": "Ugh...! Y-yes, the Hau Dragon Fortress was restored by adapting some of your technology.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     90
+    ]
+   ],
+   "source_sha256": "eb73f246b503f8018d0c29db36ab3d922b4cc607a444fbfbece40b080f6a3087",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    333,
+    323
+   ],
+   "ps2_widths": [
+    502,
+    485
+   ]
+  },
+  {
+   "speaker": "Hokushin",
+   "kind": "thought",
+   "before": "...Now I know the exact location of the Tekkoryu Fortress. All that remains is...",
+   "after": "...Now I know the exact location of the Hau Dragon Fortress. All that remains is...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     24,
+     96
+    ]
+   ],
+   "source_sha256": "6f78fc2cb3b75ddab60eedb0902cda9956d6b214f4e412ecdc2b707acd669fb1",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    324,
+    294
+   ],
+   "ps2_widths": [
+    492,
+    432
+   ]
+  },
+  {
+   "speaker": "Fuyutsuki",
+   "kind": "dialogue",
+   "before": "I never expected Tekkoryu to target this place. Do they intend this as a preliminary battle...?",
+   "after": "I never expected Hau Dragon to target this place. Do they intend this as a preliminary battle...?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     26,
+     157
+    ]
+   ],
+   "source_sha256": "24e4ccfcd31d2798759f039623b4aac9d32ed04a9f8c8c6477efe16e951ced71",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    342,
+    352
+   ],
+   "ps2_widths": [
+    526,
+    525
+   ]
+  },
+  {
+   "speaker": "Quattro",
+   "kind": "dialogue",
+   "before": "You would burn down a city for that...! Tekkoryu... It seems this organization is even more dangerous than I expected...!",
+   "after": "You would burn down a city for that...! Hau Dragon... It seems this organization is even more dangerous than I expected...!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     26,
+     180
+    ]
+   ],
+   "source_sha256": "bf37cd617d4489c41d36989a7cba23a98f88c973c9f2d594ac2c90e4a9486807",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    337,
+    319,
+    211
+   ],
+   "ps2_widths": [
+    520,
+    475,
+    301
+   ]
+  },
+  {
+   "speaker": "Giso",
+   "kind": "dialogue",
+   "before": "Once our Tekkoryu's final plan begins, this whole world will become the realm of the dead anyway. It's just a matter of sooner or later.",
+   "after": "Once our Hau Dragon's final plan begins, this whole world will become the realm of the dead anyway. It's just a matter of sooner or later.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     26,
+     210
+    ]
+   ],
+   "source_sha256": "5dd130a0f5438c6910dd5f5c368baa2774c2ceb65d26f936768789d927bf81cf",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    321,
+    308,
+    310
+   ],
+   "ps2_widths": [
+    496,
+    461,
+    465
+   ]
+  },
+  {
+   "speaker": "Masato",
+   "kind": "dialogue",
+   "before": "Why do you hate Masaki Kihara!? Because he betrayed Tekkoryu!?",
+   "after": "Why do you hate Masaki Kihara!? Because he betrayed Hau Dragon!?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     28,
+     494
+    ]
+   ],
+   "source_sha256": "2e29d1c6e1ddfab8c4e90be65b7b5020e5e1e1e37626349561317590fffa36e4",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    333,
+    197
+   ],
+   "ps2_widths": [
+    511,
+    283
+   ]
+  },
+  {
+   "speaker": "Ritsu",
+   "kind": "dialogue",
+   "before": "That's right! That woman is now being held captive inside Tekkoryu's fortress!",
+   "after": "That's right! That woman is now being held captive inside Hau Dragon's fortress!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     28,
+     531
+    ]
+   ],
+   "source_sha256": "a13934baf9e0c638db75141e4d64cf1927d9cec7f27afb7efb800b94f2a13ffb",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    316,
+    260
+   ],
+   "ps2_widths": [
+    488,
+    384
+   ]
+  },
+  {
+   "speaker": "Yuratei",
+   "kind": "dialogue",
+   "before": "All shall perish except the chosen people of Tekkoryu, and I shall become the Lord of Hades!",
+   "after": "All shall perish except the chosen people of Hau Dragon, and I shall become the Lord of Hades!",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     28,
+     773
+    ]
+   ],
+   "source_sha256": "1bc108c26d04010cf98c17251839e5165e10a3a2c150664fc4ac6a4e79007760",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    331,
+    350
+   ],
+   "ps2_widths": [
+    509,
+    517
+   ]
+  },
+  {
+   "speaker": "Member A",
+   "kind": "dialogue",
+   "before": "...Tekkoryu seems to have entered the final phase of that plan.",
+   "after": "...Hau Dragon seems to have entered the final phase of that plan.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     29,
+     0
+    ]
+   ],
+   "source_sha256": "45491c35e161355d1fff7c505cfdbd6f52e2c46040f4e1e224321e6f3e3a296d",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    336,
+    182
+   ],
+   "ps2_widths": [
+    516,
+    262
+   ]
+  },
+  {
+   "speaker": "Saiga",
+   "kind": "dialogue",
+   "before": "Perhaps it's heading straight for the Tekkoryu fortress.",
+   "after": "Perhaps it's heading straight for the Hau Dragon fortress.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     29,
+     329
+    ]
+   ],
+   "source_sha256": "054d73a13c6a491f89c3a8f84024c97e2fa69582f73ddf4d350b3d9baeaab29d",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    301,
+    135
+   ],
+   "ps2_widths": [
+    463,
+    190
+   ]
+  },
+  {
+   "speaker": "Burai",
+   "kind": "dialogue",
+   "before": "But our situation is no different. Tekkoryu has fallen, but a new organization called Gyandlar has begun to act.",
+   "after": "But our situation is no different. Hau Dragon has fallen, but a new organization called Gyandlar has begun to act.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     30,
+     54
+    ]
+   ],
+   "source_sha256": "b34e1a3b2b1f5da246128e8c4d8518e128c59cff7bd78797e67c0871a96ecbf5",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    322,
+    325,
+    139
+   ],
+   "ps2_widths": [
+    500,
+    490,
+    196
+   ]
+  },
+  {
+   "speaker": "Hokushin",
+   "kind": "dialogue",
+   "before": "Earthlings seem terribly fond of tampering with genes. ...Like the now-extinct Tekkoryu.",
+   "after": "Earthlings seem terribly fond of tampering with genes. ...Like the now-extinct Hau Dragon.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     45,
+     216
+    ]
+   ],
+   "source_sha256": "57adbf66a7f93b4c9c1e4d87fd12b2274f64f634013afffb78dc0acb0128ee67",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    334,
+    331
+   ],
+   "ps2_widths": [
+    519,
+    484
+   ]
+  },
+  {
+   "speaker": "Fuyutsuki",
+   "kind": "dialogue",
+   "before": "The old men had a hand in founding Tekkoryu... It's possible.",
+   "after": "The old men had a hand in founding Hau Dragon... It's possible.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     53,
+     776
+    ]
+   ],
+   "source_sha256": "95003c00703eac0a4c607e0c0fcd0dd126fe9fa9889e52fc4a27600e4b9821e0",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    324,
+    169
+   ],
+   "ps2_widths": [
+    502,
+    236
+   ]
+  },
+  {
+   "speaker": "Hokushin's Six",
+   "kind": "dialogue",
+   "before": "We cannot allow them to approach the Tekkoryu fortress.",
+   "after": "We cannot allow them to approach the Hau Dragon fortress.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     56,
+     218
+    ]
+   ],
+   "source_sha256": "33cf267946145bde4dfc284db0d46802f3ce63160ca54ad81a51bd8789d1676a",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    326,
+    188
+   ],
+   "ps2_widths": [
+    497,
+    271
+   ]
+  },
+  {
+   "speaker": "Oki",
+   "kind": "dialogue",
+   "before": "... You have a transmission from Yuratei, the leader of Hau Dragon... No, Tekkoryu...",
+   "after": "... You have a transmission from Yuratei, the leader of Hau Dragon... No, the Iron Dragon...",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name. This source explicitly says both name forms; the Iron Dragon is retained only as its literal alias, preserving the pause/self-correction.",
+   "appearances": [
+    [
+     56,
+     477
+    ]
+   ],
+   "source_sha256": "0e839d2cb49ce6974527f50ab91c13e3e1b2cd4d8d88396545072cc78af1e1b5",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    318,
+    320
+   ],
+   "ps2_widths": [
+    490,
+    463
+   ]
+  },
+  {
+   "speaker": "Miku",
+   "kind": "dialogue",
+   "before": "... The Tekkoryu fortress's location... is stored in my memory. By following it, we should be able to jump there.",
+   "after": "... The Hau Dragon fortress's location... is stored in my memory. By following it, we should be able to jump there.",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     56,
+     506
+    ]
+   ],
+   "source_sha256": "0c27fb300825a8b3e5c316f2c42dee6388a2b08838922cebb793b42f72d64a80",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    305,
+    335,
+    150
+   ],
+   "ps2_widths": [
+    467,
+    506,
+    212
+   ]
+  },
+  {
+   "speaker": "Masato",
+   "kind": "dialogue",
+   "before": "Do you mean the fortress that descended onto the former site of Tekkoryu headquarters...?",
+   "after": "Do you mean the fortress that descended onto the former site of Hau Dragon headquarters...?",
+   "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name.",
+   "appearances": [
+    [
+     56,
+     732
+    ]
+   ],
+   "source_sha256": "adfddc01e7f421650883d64fa3683cf09cc0ca1c255db5480e06c221560e5716",
+   "review_tag": "hau_dragon_2026_10_11",
+   "psp_widths": [
+    319,
+    238,
+    133
+   ],
+   "ps2_widths": [
+    497,
+    352,
+    182
+   ]
+  },
+  {
+   "speaker": "Saiga",
+   "kind": "dialogue",
+   "before": "Heh... You hide revenge beneath your mask... And hatred colors your true face.",
+   "after": "Heh... A thirst for revenge behind that mask... And hatred written all over your face.",
+   "reason": "The original is a dramatic observation of revenge behind the mask and hatred on the uncovered face. Natural English imagery preserves the taunt without the awkward hide revenge and colors your true face.",
+   "appearances": [
+    [
+     19,
+     681
+    ]
+   ],
+   "review_tag": "five_dialogue_screenshots_2026_10_12",
+   "source_sha256": "069edb2ef38c0772bd11f960cbfd6226ee91d3295fb0425b167bbabd2d639112",
+   "psp_widths": [
+    337,
+    267
+   ],
+   "ps2_widths": [
+    514,
+    398
+   ]
+  },
+  {
+   "speaker": "Ritsu",
+   "kind": "dialogue",
+   "before": "Is this the Zeorymer created by that man I hate with every fiber of my being...!?",
+   "after": "Is this the Zeorymer created by the man I hate with every fiber of my being...!?",
+   "reason": "Accepted the user's suggestion: the definite article sounds more natural here. The demonstrative identifies the creator without naming him; the emphasis on enduring hatred remains.",
+   "appearances": [
+    [
+     21,
+     269
+    ]
+   ],
+   "review_tag": "five_dialogue_screenshots_2026_10_12",
+   "source_sha256": "3fdf3bfc256956bee12bc98160eb0a449292996088e30e82023065dd0564a2f4",
+   "psp_widths": [
+    335,
+    233
+   ],
+   "ps2_widths": [
+    520,
+    343
+   ]
+  }
+ ],
+ "validation": {
+  "chapter": 17,
+  "rows": 958,
+  "problems": [],
+  "guarded_reassembly_verified": true,
+  "fingerprint": "c226d383e904c68d04e2a36ab32d8f47cfa14e8e0851a260c7611215245a1d6f",
+  "psp_widths": [
+   298,
+   219
+  ],
+  "ps2_widths": [
+   464,
+   319
+  ]
+ },
+ "unchanged_disc_builds": [
+  "0.4.21",
+  "0.4.22"
+ ],
+ "followup_validations": [
+  {
+   "date": "2026-10-11",
+   "scope": "Hau Dragon terminology and Prospector enemy list",
+   "changed_occurrences": 54,
+   "changed_chapters": 16,
+   "chapters": [
+    {
+     "chapter": 7,
+     "rows": 785,
+     "changes": 12,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 12,
+     "rows": 383,
+     "changes": 3,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 16,
+     "rows": 713,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 17,
+     "rows": 958,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 18,
+     "rows": 1715,
+     "changes": 3,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 19,
+     "rows": 686,
+     "changes": 7,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 20,
+     "rows": 488,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 21,
+     "rows": 434,
+     "changes": 4,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 24,
+     "rows": 637,
+     "changes": 7,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 26,
+     "rows": 234,
+     "changes": 3,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 28,
+     "rows": 802,
+     "changes": 3,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 29,
+     "rows": 530,
+     "changes": 2,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 30,
+     "rows": 839,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 45,
+     "rows": 1019,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 53,
+     "rows": 1023,
+     "changes": 1,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    },
+    {
+     "chapter": 56,
+     "rows": 877,
+     "changes": 4,
+     "problems": [],
+     "guarded_reassembly_verified": true
+    }
+   ],
+   "guarded_reassembly_verified": true,
+   "all_non_editorial_metadata_preserved": true,
+   "iso_rebuilt": false
+  },
+  {
+   "date": "2026-10-12",
+   "review_tag": "five_dialogue_screenshots_2026_10_12",
+   "chapters": [
+    {
+     "chapter": 19,
+     "rows": 686,
+     "problems": [],
+     "guarded_reassembly_verified": true,
+     "psp_widths": [
+      337,
+      267
+     ],
+     "ps2_widths": [
+      514,
+      398
+     ]
+    },
+    {
+     "chapter": 21,
+     "rows": 434,
+     "problems": [],
+     "guarded_reassembly_verified": true,
+     "psp_widths": [
+      335,
+      233
+     ],
+     "ps2_widths": [
+      520,
+      343
+     ]
+    }
+   ],
+   "guarded_reassembly_verified": true,
+   "all_non_editorial_metadata_preserved": true,
+   "iso_rebuilt": false,
+   "battle_quote": "q04997"
+  }
+ ]
+}

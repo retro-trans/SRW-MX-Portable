@@ -1,4 +1,4 @@
-"""Translate every native chapter-title atlas, preserving existing English art.
+"""Redraw every native chapter-title atlas with consistent English lettering.
 
 python tools/patch_chapter_cards.py base.iso 0.4.2
 The metadata guards each original title area and palette; non-title pixels and
@@ -81,21 +81,19 @@ def patch_archive(data, specs, preview):
         # published title area too, then rewrite it to the common layout.
         old = pixels[:WIDTH*TITLE_HEIGHT]
         assert hashlib.sha256(old).hexdigest() in row['accepted_title_sha256'], row['id']
-        if row['needs_translation']:
-            if row['en'] not in masks:
-                masks[row['en']] = render_title(row['en'])
-            mask, layout = masks[row['en']]
-            encoded = indexed_title(mask, palette)
-            output[offset:offset+len(encoded)] = encoded
-            allowed.append((offset, offset+len(encoded)))
-            assert output[offset+len(encoded):offset+WIDTH*HEIGHT] == pixels[len(encoded):]
-            image = Image.frombytes('P', (WIDTH, TITLE_HEIGHT), encoded)
-            image.putpalette(bytes(c for color in [palette[i*4:i*4+4] for i in range(256)] for c in color[:3]))
-            image.convert('RGB').save(preview / (row['id'] + '.png'))
-            results.append(dict(id=row['id'], translated=True, en=row['en'], **layout))
-        else:
-            assert output[offset:offset+WIDTH*HEIGHT] == pixels
-            results.append(dict(id=row['id'], translated=False, en=row['en'], preserved_native_english=True))
+        # Native English artwork can mix typefaces and sizes within one title.
+        # Language/translation flags must never exempt it from the renderer.
+        if row['en'] not in masks:
+            masks[row['en']] = render_title(row['en'])
+        mask, layout = masks[row['en']]
+        encoded = indexed_title(mask, palette)
+        output[offset:offset+len(encoded)] = encoded
+        allowed.append((offset, offset+len(encoded)))
+        assert output[offset+len(encoded):offset+WIDTH*HEIGHT] == pixels[len(encoded):]
+        image = Image.frombytes('P', (WIDTH, TITLE_HEIGHT), encoded)
+        image.putpalette(bytes(c for color in [palette[i*4:i*4+4] for i in range(256)] for c in color[:3]))
+        image.convert('RGB').save(preview / (row['id'] + '.png'))
+        results.append(dict(id=row['id'], translated=True, uniform_lettering=True, en=row['en'], **layout))
     # Prove nothing outside the explicitly enumerated title rectangles changed.
     last = 0
     for start, end in sorted(allowed):

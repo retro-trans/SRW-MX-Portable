@@ -1,0 +1,29 @@
+{
+  "version": "0.4.32",
+  "rows": [
+    {
+      "scene": "i00r1a",
+      "slot": 5,
+      "source_sha256": "77ce632ff15ef37478b6ece7b50911603daf46a63fa41e431b800aa533a9e1ba",
+      "expected_english": "#女愛称「Its existence was predicted in addition to the four forces: gravity, electromagnetism, and the strong and weak interactions.」",
+      "english": "#女愛称「It was predicted to exist alongside the four forces: gravity, electromagnetism, and the strong and weak interactions.」",
+      "reason": "Source-checked shorter PS2 phrasing; native 24px font, 528px rows, at most three lines; reserves six fullwidth characters per editable nickname."
+    },
+    {
+      "scene": "i015b",
+      "slot": 36,
+      "source_sha256": "584b685d348e9b38669e4795c4d0262e5b1f971f118994245b0dd7bdd2a4ebd0",
+      "expected_english": "Yuratei「Now Hau Dragon shall muster all its might and turn the world into the underworld... And I, Yuratei, shall become its ruler... the Lord of Hades!」",
+      "english": "Yuratei「Now Hau Dragon shall use all its might to turn the world into the underworld... And I, Yuratei, shall rule it... as the Lord of Hades!」",
+      "reason": "Source-checked shorter PS2 phrasing; native 24px font, 528px rows, at most three lines; reserves six fullwidth characters per editable nickname."
+    },
+    {
+      "scene": "s0570",
+      "slot": 384,
+      "source_sha256": "ab66b9da52f900a7bfcd95f572d6eb26ed0c36f5af50687f2351014ad5c82fa4",
+      "expected_english": "#女愛称「When I was at the military academy... she taught humanoid mobile weapon behavior theory. ... She taught me all sorts of things.」",
+      "english": "#女愛称「At the military academy... she taught me humanoid mobile weapon behavior theory. ... I learned so much from her.」",
+      "reason": "Source-checked shorter PS2 phrasing; native 24px font, 528px rows, at most three lines; reserves six fullwidth characters per editable nickname."
+    }
+  ]
+}

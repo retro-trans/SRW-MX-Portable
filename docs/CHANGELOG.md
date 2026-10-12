@@ -1,5 +1,63 @@
 # Changelog
 
+## PSP / PS2 v0.4.32 — 2026-10-13
+
+- Rebuilt the PSP campaign and refreshed all PS2 story blocks with completed
+  proofreading and screenshot follow-ups, including Hau Dragon terminology,
+  Saburota, Saiga, Burai, Ritsu and the shared Quattro attack quote.
+- Included the PSP Parts-menu name-buffer fix and consistent lettering for
+  every chapter-title copy. Both native title screens identify v0.4.32.
+- Preserved the PS2's extra scenarios, previous menu fixes, gameplay records
+  and event commands. Updated library descriptions and battle captions;
+  changed dialogue receives native PS2 line breaks. Three source-checked
+  shorter phrasings accommodate its font and maximum editable nickname length.
+- Added the translated startup warning to the full PSP builder, preventing
+  its loss during rebuilds. Source, artifact and native execution checks are
+  recorded separately from pending fresh GUI/playthrough and hardware tests.
+- Release requested by the user. Packages contain bare full and v0.4.29
+  upgrade patches for both platforms, a Retro Trans Tools manifest,
+  checksums, validation, font license and the proofreading HTML reports.
+
+## Dialogue screenshot proofreading — 2026-10-12 (source only)
+
+- Checked all five reported lines against their Japanese source and context.
+  Made Saiga's revenge/mask imagery natural, changed the shared Quattro quote
+  to "Come on, hit!", and accepted "the man I hate" in Ritsu's line.
+- Burai's strategic-timing line was already corrected in current proofreading
+  inputs. Retained Leina's accurate insult and childish "So there!!" retort.
+- Both story entries have guarded reassembly overrides; chapter checks, PSP
+  and PS2 font limits, and all 407 quotes in the affected battle batch pass.
+  Updated the cumulative campaign HTML and added a five-screenshot report.
+  Existing ISO images remain unchanged; both platform builders use these inputs.
+
+## Local PSP v0.4.31 — 2026-10-12
+
+- Reproduced the FA Hyaku Shiki Kai Parts-menu buffer overflow using the
+  supplied 21-clear save: its full name needs 53 bytes in a 52-byte allocation,
+  corrupting the adjacent menu pointer. Redirected the name to an existing
+  256-byte temporary buffer, preserving the full name and equipment logic.
+- Native original/fixed copy regression reproduces the pointer corruption and
+  verifies the fix. Actual ISO preservation and exact v0.4.31 title-footer checks
+  pass; fresh boot confirms the footer and loaded patch. The user stopped the
+  final in-game equip/exit check; it remains pending. Original save is unchanged.
+- Local candidate over v0.4.30; no release requested. Later campaign
+  proofreading and screenshot dialogue changes are excluded from this ISO.
+
+## Local PSP / PS2 v0.4.30 — 2026-10-12
+
+- Removed the chapter-card exemption for artwork already written in English.
+  Every title now uses the same renderer, including duplicate and gallery
+  copies. Corrected the capitalization of Strange Bait.
+- Redrew the remaining 39 PSP copies (13 designs) and 42 PS2 copies
+  (14 designs). Actual ISO audits cover all 205 PSP and 200 PS2 atlases;
+  palettes, chapter numbers, backgrounds and other disc bytes are preserved.
+- Regenerated and verified the exact native v0.4.30 version/credit on both
+  platforms. All 42 PS2 footer execution cases pass.
+- These are local candidates over v0.4.29. No release was requested.
+  The PSP live Chapter 20 transition test was stopped by the user; full
+  playthrough and physical-console testing remain pending. Later campaign
+  proofreading and Hau Dragon source changes remain excluded.
+
 ## PSP / PS2 v0.4.29 release — 2026-10-11
 
 - Published the shared public version requested by the user: bare full patches

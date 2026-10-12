@@ -143,7 +143,13 @@ def verify(original, version):
                 unchanged_files.append(asset)
             else:
                 changed_files.append(asset)
-    allowed = {'/PSP_GAME/SYSDIR/BOOT.BIN','/PSP_GAME/SYSDIR/EBOOT.BIN','/PSP_GAME/USRDIR/STATIC2_ADD.BIN',
+    import title_footer
+    import fix_startup_warning
+    warning_path = fix_startup_warning.SPECS['PSP']['asset']
+    expected_warning, _ = fix_startup_warning.patch(iso_bytes(old, warning_path), 'PSP')
+    assert iso_bytes(new, warning_path) == expected_warning, 'Startup warning pixels differ'
+    title_footer.verify_iso(path, 'PSP', version)
+    allowed = {title_footer.SPECS['PSP']['asset'], warning_path, '/PSP_GAME/SYSDIR/BOOT.BIN','/PSP_GAME/SYSDIR/EBOOT.BIN','/PSP_GAME/USRDIR/STATIC2_ADD.BIN',
                '/PSP_GAME/USRDIR/MAP_ADD.BIN','/PSP_GAME/USRDIR/BATTLE2.BIN','/PSP_GAME/USRDIR/WND.BIN',
                '/PSP_GAME/PARAM.SFO',patch_chapter_cards.ASSET}
     assert set(changed_files) <= allowed, ('Unexpected ISO changes', changed_files)

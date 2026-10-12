@@ -1,3 +1,68 @@
+# Shared v0.4.32 release preparation — 2026-10-13
+
+User requested publication, briefly paused for an unrelated SRW Z screenshot,
+then explicitly resumed the release. PSP v0.4.32 is rebuilt and verified with
+all reviewed story text and the Parts-name buffer fix. Exact SHA256:
+`866a11ba283c3e239fb135d365a9e55cf3b1461861d40659166d852d6becad87`.
+PS2 refresh preserves v0.4.30's native fixes and extra scenarios, replaces 2,091
+story slots, and reflows 362 changed lines. Three source-checked shorter PS2
+phrasings are guarded by source hashes in `ps2/script/reviewed_layout.en.json`.
+Library refresh independently checks gameplay/ELF preservation and native widths;
+26 description entries and 277 newly written rows pass. Shared Quattro quote
+uses 3 stored strings with 11 verified native references. Native scenario,
+deployment, campaign/save, font and database getter checks pass on prepared data.
+Disc rebuild reuses original allocations where resources fit and appends enlarged
+resources to remain below single-layer capacity. Packaging/readback/publication
+are still in progress; the last public release remains v0.4.29 at this point.
+
+The release will include bare full and v0.4.29 upgrade xdelta patches for both
+platforms, Retro Trans Tools metadata, checksums and proofreading HTML reports.
+Thirty-two Retro Trans Tools release/catalog tests pass. Current fresh emulator
+boot/playthrough, physical-console, and PSP live Parts equip/exit checks remain
+pending. The earlier user-stopped GUI checks have not been resumed.
+
+# Screenshot dialogue review — 2026-10-12
+
+Updated Saiga (19:681), Ritsu (21:269), and battle quote q04997. Burai's
+20:74 / 21:11 wording was already corrected; Leina 20:326 was retained.
+Guarded contributor reassembly, unchanged non-editorial metadata, both font
+limits, both affected chapters and all 407 affected-batch battle quotes pass.
+Sources feed both platforms; existing ISOs are unchanged. English-only evidence:
+`work/translation/en/ui/dialogue_review_2026_10_12.en.json`.
+Reports: `work/output/dialogue_review_2026_10_12.html` and updated cumulative
+`work/output/chapters01_end_proofread.html`.
+
+# Local PSP v0.4.31 — Parts-menu crash fix
+
+Candidate: `work/output/SRWMX_EN_0.4.31.iso`.
+SHA256: 2d30c71d5314a7933624428d0e29765ec4f42c02971c3ee19a92e643a3798eaa.
+The 53-byte FA Hyaku Shiki Kai name overflows a 52-byte menu field and changes
+the adjacent pointer from 0x8bbf480 to 0x8bbf400. Six name-path references now
+use the existing 256-byte temporary row; full name and pointer are preserved
+in the native original/fixed regression. Full builder applies fix_psp_parts.
+ISO preservation and exact title footer pass; fresh boot observes loaded patch
+and version. The user stopped ComputerUse before final equip/exit validation;
+do not mark that check complete or resume GUI without permission. Supplied save
+is unchanged. No release requested. Later source proofreading remains excluded.
+Evidence: `work/output/psp_parts_0.4.31_verification.json` and
+`work/output/psp_parts_native_regression_0.4.31.json`.
+
+# Local shared v0.4.30 — 2026-10-12
+
+Both candidates are complete, with all native English chapter cards redrawn.
+PSP SHA256: a962bd92f6a5b0a496f1d8b4aa716e8ce1b98d76a33eceb24f003ffcb2cd05b8.
+PS2 SHA256: 2f5c0cc6f920ce0fc15de4cca111ad72c0088d8d530b167ff769161aec1d558b.
+Actual ISO audits cover 205 PSP and 200 PS2 atlases. Source hashes, duplicate
+copies, all other disc bytes, exact native footers and 42 PS2 footer cases pass.
+Full builders no longer skip native English titles. See `docs/chapter_cards.md`
+and `work/output/{psp,ps2}_chapter_cards_0.4.30_verification.json`.
+
+The user stopped the isolated PSP Chapter 20 live check with Escape; it remains
+unfinished. New incoming savedata later replaces the 19-clear fixture with a
+21-clear fixture for the FA Hyaku Shiki Kai parts crash investigation. Preserve
+historical fixture hashes when comparing tests. No v0.4.30 release is authorized.
+Later proofreading/Hau Dragon changes remain source-only.
+
 # Published shared v0.4.29 — 2026-10-11
 
 Published https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.29

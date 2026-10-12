@@ -26,13 +26,13 @@ def chapter_cards(original):
         off=row['pixel_offset'];pal=original[off-1024:off]
         assert sha(pal)==row['palette_sha256']
         assert sha(original[off:off+52*256])==row['title_sha256']
-        result=dict(pixel_offset=off,english=row['english'],translated=row['needs_translation'])
-        if row['needs_translation']:
-            mask,layout=masks.setdefault(row['english'],cards.render_title(row['english']))
-            encoded=cards.indexed_title(mask,logical_palette(pal));output[off:off+len(encoded)]=encoded
-            allowed.append((off,off+len(encoded)));result.update(layout)
-            im=Image.new('RGBA',(256,52));lp=logical_palette(pal)
-            im.putdata([tuple(lp[v*4:v*4+3])+(min(255,lp[v*4+3]*2),) for v in encoded]);im.save(preview/f'{n:03}.png')
+        result=dict(pixel_offset=off,english=row['english'],translated=True,uniform_lettering=True)
+        if row['english'] not in masks:masks[row['english']]=cards.render_title(row['english'])
+        mask,layout=masks[row['english']]
+        encoded=cards.indexed_title(mask,logical_palette(pal));output[off:off+len(encoded)]=encoded
+        allowed.append((off,off+len(encoded)));result.update(layout)
+        im=Image.new('RGBA',(256,52));lp=logical_palette(pal)
+        im.putdata([tuple(lp[v*4:v*4+3])+(min(255,lp[v*4+3]*2),) for v in encoded]);im.save(preview/f'{n:03}.png')
         results.append(result)
     last=0
     for a,z in allowed:assert output[last:a]==original[last:a];last=z

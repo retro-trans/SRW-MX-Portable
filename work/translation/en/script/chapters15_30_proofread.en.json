@@ -1,0 +1,1206 @@
+{
+ "date": "2026-10-09",
+ "scope": "Chapters 15-30, all routes; continuation of Chapters 1-14 and prior Chapter 15 Super proofreading; source only",
+ "edits": [
+  {
+   "review_id": 164,
+   "speaker": "Duke",
+   "before": "Ghh! Shoot i...!!",
+   "after": "Ghh! Shoot I...!!",
+   "reason": "Capitalize the interrupted Shoot In command while preserving its cutoff.",
+   "appearances": [
+    [
+     15,
+     317
+    ]
+   ],
+   "source_sha256": "52803cd28e6fa85912df09f2dd768b87d9ac49c9d14a117336c66091a02f4e5f"
+  },
+  {
+   "review_id": 214,
+   "speaker": "Jigra",
+   "before": "Oh... You must have plenty of time to spare, protecting a woman on the battlefield, Duke Fleed. Then I'll send you both to hell!",
+   "after": "Oh... Feeling confident enough to protect a woman in battle, Duke Fleed? Then I'll send you both to hell!",
+   "reason": "Render composure in battle naturally; he is taunting Duke over his confidence, not spare time.",
+   "appearances": [
+    [
+     15,
+     367
+    ]
+   ],
+   "source_sha256": "d3505ef0cc61c2077a3db90a1a5656d2bf1eef8f0a93154228ef4186d9f605ac"
+  },
+  {
+   "review_id": 223,
+   "speaker": "Koji",
+   "before": "The Spazer... If Grendizer just had a Spazer! Genzo Umon, can't you send out the Double Spazer!?",
+   "after": "The Spazer... If Grendizer just had a Spazer! Dr. Umon, can't you send out the Double Spazer!?",
+   "reason": "Use the title in the Japanese address instead of substituting the doctor's full name.",
+   "appearances": [
+    [
+     15,
+     377
+    ]
+   ],
+   "source_sha256": "536e57263742c546bf8489b138f80055503486787d4746c4aa3c47c7529cf709"
+  },
+  {
+   "review_id": 437,
+   "speaker": "Michelo",
+   "before": "Hya-ha-ha-ha! A fly could fly as fast as it can and still never catch Heaven's Sword!",
+   "after": "Hya-ha-ha-ha! Even at top speed, a fly could never catch Heaven's Sword!",
+   "reason": "Remove the repetitive fly/could fly/as fast as it can phrasing while retaining the insult.",
+   "appearances": [
+    [
+     16,
+     232
+    ]
+   ],
+   "source_sha256": "3010b4b9c52ac779b95db6eb865c924c07731b860bb89d4dbac2464ff4079e21"
+  },
+  {
+   "review_id": 739,
+   "speaker": "Emary",
+   "before": "Don't worry. Captain Bright is the man I love in my heart.",
+   "after": "Don't worry. Captain Bright is the man of my dreams.",
+   "reason": "Replace the literal heart-lover phrasing with a natural English expression for her romantic ideal.",
+   "appearances": [
+    [
+     16,
+     539
+    ]
+   ],
+   "source_sha256": "e24c5fe1043463c7bfee251d984d607b0f95a6d75d07bed2fe34815beaf5554f"
+  },
+  {
+   "review_id": 952,
+   "speaker": "Megumi",
+   "before": "Y-yes...",
+   "after": "N-no, it isn't...",
+   "reason": "Make the reply to the negative English question unambiguous: the creature is not a Saucer Beast.",
+   "appearances": [
+    [
+     17,
+     48
+    ]
+   ],
+   "source_sha256": "4f752409d077a5222628e696bd7e7254f65b8bb01b1c7d77a61048b98716f452"
+  },
+  {
+   "review_id": 1139,
+   "speaker": "Boss",
+   "before": "Y-you bastards... You think this has nothing to do with you...!",
+   "after": "Y-you bastards... Easy for you to say when it's not your neck on the line...!",
+   "reason": "Use a natural English complaint that preserves his anger at those treating his danger as someone else's problem.",
+   "appearances": [
+    [
+     17,
+     386
+    ]
+   ],
+   "source_sha256": "40692e0fbe19aa03a2353415056f94052acbd3584a8ec569f011d1da2cfc74ca"
+  },
+  {
+   "review_id": 1362,
+   "speaker": "Ruri",
+   "before": "I'm Major Ruri Hoshino of the Earth Federation Space Force.",
+   "after": "I'm Lieutenant Commander Ruri Hoshino of the Earth Federation Space Force.",
+   "reason": "Match the established naval rendering of Ruri's rank; the Japanese rank is unchanged.",
+   "appearances": [
+    [
+     17,
+     616
+    ]
+   ],
+   "source_sha256": "4942b8055811c063199936acb4b59aab1bffb1878f355969f026ccfc85747369"
+  },
+  {
+   "review_id": 1384,
+   "speaker": "Yamasaki",
+   "before": "Let's put our earnest, duty-bound major's mind at ease.",
+   "after": "Let's put our earnest, duty-bound lieutenant commander's mind at ease.",
+   "reason": "Keep Ruri's established rank consistent in this reference.",
+   "appearances": [
+    [
+     17,
+     638
+    ]
+   ],
+   "source_sha256": "fad68f56871980b5bd61cf18f8642a57e9d6724c90841be2805a8401cecdac48"
+  },
+  {
+   "review_id": 1485,
+   "speaker": "Ryoko",
+   "before": "Martian Successors, economic boom, whatever! You attacked us, so don't expect to leave in one piece!",
+   "after": "Martian Successors, Martian suckers, whatever! You attacked us, so don't expect to leave in one piece!",
+   "reason": "Adapt Ryoko's deliberately mangled faction name into an English sound-alike insult; the Japanese plays on successors and economic boom.",
+   "appearances": [
+    [
+     17,
+     743
+    ]
+   ],
+   "source_sha256": "88a43b22da49f5f4df68171ed5ebd955947f67f260ae94a7c6f3b3e9cb195149"
+  },
+  {
+   "review_id": 1499,
+   "speaker": "Azuma",
+   "before": "All right! We'll let them cut our flesh so we can break their bones!!",
+   "after": "All right! We'll take a hit to land a killing blow!!",
+   "reason": "Render the flesh-and-bones proverb as a natural tactical idiom: accept a wound to strike decisively.",
+   "appearances": [
+    [
+     17,
+     757
+    ]
+   ],
+   "source_sha256": "ca55600fdfc1122feb9d5b3946ed819d746afc948a9b2e1dcf916af696127dac"
+  },
+  {
+   "review_id": 1502,
+   "speaker": "Azuma",
+   "before": "Even a flying fly is easy to hit when it stops! Some sacrifices are unavoidable!!",
+   "after": "Once a fly stops moving, it's easy to swat! Some sacrifices are unavoidable!!",
+   "reason": "Remove the redundant flying fly phrasing and keep the proverb's meaning.",
+   "appearances": [
+    [
+     17,
+     760
+    ]
+   ],
+   "source_sha256": "4d31188c1bf00a826424714cafc2ad610399bc8d3e3724d1aeafcdf3871d6bb1"
+  },
+  {
+   "review_id": 1571,
+   "speaker": "",
+   "before": "1. Allied units reach the destination",
+   "after": "1. An allied unit reaches the destination",
+   "reason": "Clarify that reaching the goal with an allied unit satisfies the stated objective; the source does not require every unit.",
+   "appearances": [
+    [
+     17,
+     829
+    ]
+   ],
+   "source_sha256": "55eaf3248c77ca7414ed9ee9038e0cb17c6c85f5996b1d954fb4813771909dfe"
+  },
+  {
+   "review_id": 1598,
+   "speaker": "Ruri",
+   "before": "...Hello. I'm Major Ruri Hoshino of the Federation Space Force.",
+   "after": "...Hello. I'm Lieutenant Commander Ruri Hoshino of the Federation Space Force.",
+   "reason": "Use the established naval rendering of Ruri's rank consistently.",
+   "appearances": [
+    [
+     17,
+     856
+    ]
+   ],
+   "source_sha256": "3f09b938760e372459361f1d2bbe062a60d9d6829a1cc312519d0bdd33e2bed5"
+  },
+  {
+   "review_id": 1779,
+   "speaker": "Dr. Plato",
+   "before": "the Tekkoryu (Iron Dragon) with its special machines, Dolems, Angels and the like would be difficult.",
+   "after": "the Tekkoryu with its special machines, Dolems, Angels and the like would be difficult.",
+   "reason": "Remove an unnecessary parenthetical gloss from the established faction name.",
+   "appearances": [
+    [
+     18,
+     79
+    ]
+   ],
+   "source_sha256": "4ca98fcccfd50a4ab6753097330770aac6de2c600f225ce1380a32bdb026e864"
+  },
+  {
+   "review_id": 1856,
+   "speaker": "Akira",
+   "before": "Neither did I. But...",
+   "after": "Neither am I. But...",
+   "reason": "Match the present-tense statement that neither character fights because he wants to.",
+   "appearances": [
+    [
+     18,
+     158
+    ]
+   ],
+   "source_sha256": "51f6f8649811941dd17fe8416ff8a9382dbd264f81d8e560123d47917e47f701"
+  },
+  {
+   "review_id": 2012,
+   "speaker": "#男愛称",
+   "before": "Folia Esto will never come back!!",
+   "after": "Folia Est will never come back!!",
+   "reason": "Use the same user-requested family surname as his father, Albero Est.",
+   "appearances": [
+    [
+     18,
+     462
+    ]
+   ],
+   "source_sha256": "758824e94f9ad332eb2eea421a00595cf937a4f3e6529f1f2036c8fb8c797477"
+  },
+  {
+   "review_id": 2197,
+   "speaker": "Kaine",
+   "before": "We'll never be able to live in peace as long as the likes of Giganos, Tekkoryu (Iron Dragon) and Gulfer are around!",
+   "after": "We'll never be able to live in peace as long as the likes of Giganos, Tekkoryu and Gulfer are around!",
+   "reason": "Remove the unnecessary gloss after the established faction name.",
+   "appearances": [
+    [
+     18,
+     649
+    ]
+   ],
+   "source_sha256": "b762a3e424e4283f711cc214f526cb1aeb426eeba0a40a0d4a04cac06bfb2a79"
+  },
+  {
+   "review_id": 2222,
+   "speaker": "Dr. Plato",
+   "before": "It looks the same, but I've improved its software's processing power, armor and output.",
+   "after": "It looks the same, but I've improved its software's processing power, along with its armor and output.",
+   "reason": "Make clear that armor and output are properties of the machine, not of its software.",
+   "appearances": [
+    [
+     18,
+     674
+    ]
+   ],
+   "source_sha256": "c13aabaff37aa38ea6b650e72145c5215f830b246e0013bb81b99d68083cc1ad"
+  },
+  {
+   "review_id": 2264,
+   "speaker": "Rom",
+   "before": "I'll be watching you show the new dragon's power!",
+   "after": "Let me see your new dragon power!",
+   "reason": "Replace the awkward watching-you-show construction with a natural request to demonstrate their new power.",
+   "appearances": [
+    [
+     18,
+     717
+    ]
+   ],
+   "source_sha256": "4514f782f186dc733d1a847129182572011c32538a1f49cc8f2d9d176d0c048e"
+  },
+  {
+   "review_id": 2319,
+   "speaker": "Albero",
+   "before": "Of course. That's my intention. Don't let AI1 have a rejection response.",
+   "after": "Of course. That's my intention. Make sure AI1 shows no signs of rejection.",
+   "reason": "Use natural English for the rejection response without changing the technical claim.",
+   "appearances": [
+    [
+     18,
+     779
+    ]
+   ],
+   "source_sha256": "80df1a636f222666538dbd0c183f45aa34fa76922c59c9cba52e0ace077b25ce"
+  },
+  {
+   "review_id": 2455,
+   "speaker": "#女愛称",
+   "before": "That machine should be an unmanned unit equipped with an artificial intelligence for combat.",
+   "after": "That machine should be unmanned, with a combat AI on board.",
+   "reason": "Use the established AI abbreviation and a concise description of the unmanned design.",
+   "appearances": [
+    [
+     18,
+     916
+    ]
+   ],
+   "source_sha256": "63c27e51aebbf9529283d598512ba27ab288b53028698dcfb21bfe0bd9a9d18c"
+  },
+  {
+   "review_id": 2542,
+   "speaker": "Tapp",
+   "before": "But weren't those two on Mars now?",
+   "after": "But weren't those two supposed to be on Mars?",
+   "reason": "Resolve the conflicting past-tense were and present-time now while preserving his surprise at their return.",
+   "appearances": [
+    [
+     18,
+     1005
+    ]
+   ],
+   "source_sha256": "178b340d55d9d5364d4a2bb75a34932c9989ad5873eab2f87a88dd194edd1691"
+  },
+  {
+   "review_id": 2737,
+   "speaker": "Prospector",
+   "before": "Giganos, Gulfer, MU... The Hyakki Empire and Tekkoryu (Iron Dragon)... Then the Vegan Empire, and on top of that, the Angels.",
+   "after": "Giganos, Gulfer, MU... The Hyakki Empire and Tekkoryu... Then the Vegan Empire, and on top of that, the Angels.",
+   "reason": "Remove the unnecessary gloss after the established faction name.",
+   "appearances": [
+    [
+     18,
+     1201
+    ]
+   ],
+   "source_sha256": "3afe46c3c4ea254e5b1e928b32f9e29c2cfac366a7c4af01becbc81337dbdb5f"
+  },
+  {
+   "review_id": 2956,
+   "speaker": "Ruri",
+   "before": "Besides... I don't want to regret leaving people we could have saved without helping them.",
+   "after": "Besides... I don't want to regret turning my back on people we could save.",
+   "reason": "Remove the redundant leaving-without-helping construction while preserving her reason for intervening.",
+   "appearances": [
+    [
+     18,
+     1423
+    ]
+   ],
+   "source_sha256": "f47c01a2ab46280970654649dde68bd4ce8373c91b14c83c5d7f68a982b42a79"
+  },
+  {
+   "review_id": 3000,
+   "speaker": "Erika",
+   "before": "It seems you and we are parallel lines that will never meet.",
+   "after": "It seems we're on parallel paths that will never meet.",
+   "reason": "Make the parallel-lines metaphor natural in English without changing the refusal to compromise.",
+   "appearances": [
+    [
+     18,
+     1469
+    ]
+   ],
+   "source_sha256": "a8d66bd068477ba591211566e0f449d9a461f6e1fbe1a31460e9e8e7a48fb5b2"
+  },
+  {
+   "review_id": 3017,
+   "speaker": "Kusakabe",
+   "before": "He escaped from Mars with his companions and headed for the Earth region. Of course, we have already sent pursuers.",
+   "after": "He escaped from Mars with his companions and headed for the Earth Sphere. Of course, we have already sent pursuers.",
+   "reason": "Use the established Earth Sphere term for the source location.",
+   "appearances": [
+    [
+     18,
+     1486
+    ]
+   ],
+   "source_sha256": "f19af0e335531183b4cb58114595a235c94d882a691d64a562110f835056b917"
+  },
+  {
+   "review_id": 3285,
+   "speaker": "Misumaru",
+   "before": "You needn't say any more, Colonel. Simply knowing my daughter is alive is enough.",
+   "after": "You needn't say any more, Captain. Simply knowing my daughter is alive is enough.",
+   "reason": "Keep Bright's form of address consistent with the project's established naval rank.",
+   "appearances": [
+    [
+     19,
+     44
+    ]
+   ],
+   "source_sha256": "d9ce32ac965db160cc21a4a74144d673b241a9569489f6d1a1f59176afc7e87e"
+  },
+  {
+   "review_id": 3850,
+   "speaker": "Burai",
+   "before": "Do not be hasty, Hidler. In this war... whoever judges the times will win in the end. Thus, we must first build up our strength now.",
+   "after": "Do not be hasty, Hidler. In this war, whoever reads the tide of events will win in the end. For now, we must build up our strength.",
+   "reason": "Replaces the literal 'judges the times' with natural English for assessing the changing strategic situation, while preserving Burai's instruction to wait and build strength.",
+   "appearances": [
+    [
+     20,
+     74
+    ],
+    [
+     21,
+     11
+    ]
+   ],
+   "source_sha256": "1da17152cd652f1f9ff6ba90c0aa798c9a954841fed3f397749ec6ccfeee8ee2"
+  },
+  {
+   "review_id": 3878,
+   "speaker": "Koji",
+   "before": "What's wrong with showing Maria around the lab? It's not like it'll lose anything.",
+   "after": "What's wrong with showing Maria around the lab? It won't hurt anything.",
+   "reason": "The Japanese idiom means there is no harm in showing her around; 'it'll lose anything' sounds as though the laboratory itself loses possessions.",
+   "appearances": [
+    [
+     20,
+     102
+    ]
+   ],
+   "source_sha256": "1c6e5f7f31e15c7f4f1a7942aef46ef46264de7754892b67fc5654e94af2dc1c"
+  },
+  {
+   "review_id": 4147,
+   "speaker": "Oki",
+   "before": "...Masato, what was that way of fighting near the Science Fortress Laboratory?",
+   "after": "...Masato, what were you thinking, fighting like that near the Science Fortress Laboratory?",
+   "reason": "Makes Oki's rebuke idiomatic English; he is challenging Masato's conduct, rather than asking for a description of a combat technique.",
+   "appearances": [
+    [
+     21,
+     51
+    ]
+   ],
+   "source_sha256": "0038142e0a9ac72fd02fa89dd9164c61d8a131687e03bfb9363c55742491f159"
+  },
+  {
+   "review_id": 4284,
+   "speaker": "Oki",
+   "before": "...Indeed. That's why I believe you can understand our reason, Colonel.",
+   "after": "...Indeed. That's why I believe you can understand our reason, Captain.",
+   "reason": "Uses the established character-specific naval rank for Bright; the same conversation already calls him Captain Bright.",
+   "appearances": [
+    [
+     21,
+     337
+    ]
+   ],
+   "source_sha256": "ee4e964a81ccae1d0598fb1494544bcd7a6d01a2c908463704c41df15f5b5318"
+  },
+  {
+   "review_id": 4304,
+   "speaker": "Masato",
+   "before": "I'm Akitsu... Masato Akitsu.",
+   "after": "I'm... Masato Akitsu.",
+   "reason": "Preserves Masato's hesitant introduction without awkwardly repeating his surname before his full English-order name.",
+   "appearances": [
+    [
+     21,
+     359
+    ]
+   ],
+   "source_sha256": "e53889ab37b2ce95816703c20eb87b84489660e2fdb5fd9ff1f8577ee90de5b4"
+  },
+  {
+   "review_id": 4314,
+   "speaker": "Miku",
+   "before": "To stop the Hau Dragon's ambitions.",
+   "after": "To stop Tekkoryu... Hau Dragon's ambitions.",
+   "reason": "Restores Miku's identification of Tekkoryu by its other name, Hau Dragon. The original explicitly links the two names.",
+   "appearances": [
+    [
+     21,
+     371
+    ]
+   ],
+   "source_sha256": "42febcbfa4f4c6bac2b2da02df27da895fae484f8dd9c317b2065fc0f1cb58f8"
+  },
+  {
+   "review_id": 4728,
+   "speaker": "#女愛称",
+   "before": "I'll think about what I need to do so the two of us can get proper results together.",
+   "after": "I'll think about what I can do so the two of us can work effectively as a team.",
+   "reason": "Rephrases the literal 'get proper results together' as natural English while preserving Aqua's resolve to make their partnership work.",
+   "appearances": [
+    [
+     22,
+     515
+    ]
+   ],
+   "source_sha256": "ec88b8a1ee9a0445a3d046e5d104ede6392a3a9a7812622d734c6ae3fcebb31b"
+  },
+  {
+   "review_id": 5002,
+   "speaker": "Haruka",
+   "before": "Yes. We've received instructions, but...",
+   "after": "No. We've received instructions, but...",
+   "reason": "Haruka is confirming that Misato has not returned yet. In English, replying 'Yes' to this negative question can incorrectly suggest she has returned.",
+   "appearances": [
+    [
+     23,
+     393
+    ]
+   ],
+   "source_sha256": "f7a3d0e2ce28013e4b1a4b06aca54a95de2b4f81d6f4210c73c643f421a792d5"
+  },
+  {
+   "review_id": 5013,
+   "speaker": "Vega",
+   "before": "Launch next!",
+   "after": "Launch the remaining units!",
+   "reason": "Replaces the unnatural command 'Launch next!' with the order to send out RahXephon, EVA-02 and EVA-00 after EVA-01.",
+   "appearances": [
+    [
+     23,
+     404
+    ]
+   ],
+   "source_sha256": "8875571b75c52bce2a576d329f67390ad4d510b9f99a13b96653e484fc54ffbb"
+  },
+  {
+   "review_id": 5382,
+   "speaker": "Maya",
+   "before": "Improvisation is still far too early for you. You understand... don't you?",
+   "after": "You're not ready for improvisation yet. You understand... don't you?",
+   "reason": "The original says improvising is premature for Ayato. This gives the musical metaphor natural English phrasing instead of saying improvisation itself is 'too early'.",
+   "appearances": [
+    [
+     23,
+     789
+    ]
+   ],
+   "source_sha256": "d49cfc0454de31303891db9461de17a3eed589c5e79810083bb885192e7ac99a"
+  },
+  {
+   "review_id": 5512,
+   "speaker": "Ayato",
+   "before": "I'm not here! There's no time here that I'm living through! I... I!",
+   "after": "I'm not really here! I'm not living my own life here! I... I!",
+   "reason": "Expresses Ayato's rejection of the illusory world's lived experience in natural English, replacing the confusing literal 'There's no time here that I'm living through'.",
+   "appearances": [
+    [
+     23,
+     926
+    ]
+   ],
+   "source_sha256": "641988d79d318d5bcefb97aecf26361143abf5128496aa159e00242cfa5fae4a"
+  },
+  {
+   "review_id": 5585,
+   "speaker": "Misato",
+   "before": "NERV isn't as soft as I thought.",
+   "after": "NERV isn't nearly as benign as I thought.",
+   "reason": "In context, Misato realizes NERV is more dangerous and deceptive than she assumed. 'Soft' does not clearly convey this realization in English.",
+   "appearances": [
+    [
+     23,
+     1002
+    ]
+   ],
+   "source_sha256": "9f2d24d9fa08b40aa3f1b65d9c67ff5455ede457e19037acb282968a50d58634"
+  },
+  {
+   "review_id": 5660,
+   "speaker": "Saiga",
+   "before": "The way you move... You're not from the Earth sphere. A remnant of Mokuren, I'd wager?",
+   "after": "The way you move... You're not from the Earth Sphere. A remnant of the Jovian Federation, I'd wager?",
+   "reason": "Replaces untranslated 'Mokuren' with the established English faction name, Jovian Federation, and uses the standard Earth Sphere capitalization.",
+   "appearances": [
+    [
+     24,
+     76
+    ]
+   ],
+   "source_sha256": "3146bdc0f482f209d1f4603eeb8a2b77c1ecc71e958c9ff7e2d7b2dbf2b05473"
+  },
+  {
+   "review_id": 5750,
+   "speaker": "Dr. Inoue",
+   "before": "Dendoh's basic combat movement patterns are based on the Shaolin kung fu Ginga is learning.",
+   "after": "Dendoh's basic combat movement patterns are based on the Shorinji Kempo Ginga is learning.",
+   "reason": "Ginga studies Shorinji Kempo, the specific Japanese martial art already distinguished in the glossary; it is not the Shaolin kung fu practiced by Sai Saici.",
+   "appearances": [
+    [
+     24,
+     167
+    ]
+   ],
+   "source_sha256": "41c246db507db94a138f75f69092d156ce0fc07d4736e73d30bf33cc829e2ce9"
+  },
+  {
+   "review_id": 5752,
+   "speaker": "Kazuya",
+   "before": "A boy at the temple gate learns to chant sutras without lessons... But their synchronization is impressive.",
+   "after": "Learning by osmosis, huh? Still, their synchronization is impressive.",
+   "reason": "Uses a natural English equivalent of the proverb about a boy learning temple chants through exposure. Kazuya is praising what Hokuto has picked up without formal lessons.",
+   "appearances": [
+    [
+     24,
+     169
+    ]
+   ],
+   "source_sha256": "4a469ebbf449e5e672b80f74a45b33f04023e5a745752175e5d587209e8b54c6"
+  },
+  {
+   "review_id": 5774,
+   "speaker": "Ginga",
+   "before": "Every martial artist in the world would cry with envy at this stew!",
+   "after": "It's a stew-ation that would make every martial artist in the world green with envy!",
+   "reason": "Adapts Ginga's mistaken shortening of 'situation' into an audible English mispronunciation, preserving Hokuto's correction in the next line.",
+   "appearances": [
+    [
+     24,
+     335
+    ]
+   ],
+   "source_sha256": "df106356551a92cd18e7e2ab074dc9888d97f6006f047431328df28506db1384"
+  },
+  {
+   "review_id": 5852,
+   "speaker": "Hokushin",
+   "before": "If you would save the woman, surrender to us. Entrust to us that battle commander which jumps by the light of Daimolite.",
+   "after": "If you would save the woman, surrender to us. Entrust Daimos to us, the warrior that jumps by the light of Daimolite.",
+   "reason": "The epithet refers to Daimos, not a separate battle commander. Naming the machine clarifies what Hokushin demands while retaining his formal threat.",
+   "appearances": [
+    [
+     24,
+     421
+    ]
+   ],
+   "source_sha256": "12213b840f5aeefd929a9af486f539301ef12811d1854432fd01dc075c8deeaa"
+  },
+  {
+   "review_id": 5901,
+   "speaker": "Hokushin",
+   "before": "Their diversion has succeeded... Now I need only choose the right moment to withdraw.",
+   "after": "We've successfully drawn them out... Now I need only choose the right moment to withdraw.",
+   "reason": "Corrects the direction of the diversion: Hokushin has drawn the heroes out. 'Their diversion has succeeded' wrongly credits the targets with conducting it.",
+   "appearances": [
+    [
+     24,
+     471
+    ]
+   ],
+   "source_sha256": "acf1dd52d2828ca2a28c162810524b6df8baec4448c38ee9a4ff4e1616230076"
+  },
+  {
+   "review_id": 6097,
+   "speaker": "Ruri",
+   "before": "Harry, divide the work with Omoikane and send the tracking program to the target computer, please.",
+   "after": "Harry, work with Omoikane to send the tracking program to the target computer, please.",
+   "reason": "Ruri is asking Harry and Omoikane to share the work. This replaces the awkward literal 'divide the work with' without changing the task.",
+   "appearances": [
+    [
+     25,
+     186
+    ]
+   ],
+   "source_sha256": "3a13654c5bb7ac87470247a73b78d41a5b9fa69ffb8864ab8532bdfaf1a72160"
+  },
+  {
+   "review_id": 6269,
+   "speaker": "Fuyutsuki",
+   "before": "I never expected Tekkoryu (Iron Dragon) to target this place. Do they intend this as a preliminary battle...?",
+   "after": "I never expected Tekkoryu to target this place. Do they intend this as a preliminary battle...?",
+   "reason": "Removes an explanatory '(Iron Dragon)' gloss not spoken in the source, keeping the established faction name consistent with surrounding dialogue.",
+   "appearances": [
+    [
+     26,
+     157
+    ]
+   ],
+   "source_sha256": "24e4ccfcd31d2798759f039623b4aac9d32ed04a9f8c8c6477efe16e951ced71"
+  },
+  {
+   "review_id": 6597,
+   "speaker": "Saiga",
+   "before": "Well, either way... A mere Zeorymer is no foe of mine.",
+   "after": "Well, either way... A mere Zeorymer isn't the enemy I'm after.",
+   "reason": "Saiga is implying that his real ambitions concern a greater enemy. 'No foe of mine' can instead suggest that Zeorymer is not hostile to him.",
+   "appearances": [
+    [
+     28,
+     142
+    ]
+   ],
+   "source_sha256": "bf4a512289848bffa64078d5e5b861a1599fb344d886fee4c640e4e775c718f9"
+  },
+  {
+   "review_id": 6728,
+   "speaker": "Masato",
+   "before": "The me who tried to attack even if it dragged everyone in #部隊名 into it...!",
+   "after": "That other me who tried to attack without caring if everyone in #部隊名 was caught in it...!",
+   "reason": "Clarifies Masato's reference to his other personality endangering his allies, replacing the awkward and unclear 'dragged everyone ... into it'.",
+   "appearances": [
+    [
+     28,
+     420
+    ]
+   ],
+   "source_sha256": "d47a0c90703ee148124d252a84f3d42dd4739a213b3d9ada095149cd2b9dbd39"
+  },
+  {
+   "review_id": 6756,
+   "speaker": "#男愛称",
+   "before": "...You're saying we should settle this, Captain!",
+   "after": "...You're saying we should settle this, Commander!",
+   "reason": "Hugo is addressing his former squad leader, Albero. Uses the established 'Commander' translation of this address, rather than assigning him a Captain rank.",
+   "appearances": [
+    [
+     28,
+     450
+    ]
+   ],
+   "source_sha256": "5cee78806a560114cc62bb2ce195b0319383f43e5365bd6f52d030c0f21ba8a0"
+  },
+  {
+   "review_id": 6777,
+   "speaker": "#男愛称",
+   "before": "Here I come, Captain!!",
+   "after": "Here I come, Commander!!",
+   "reason": "Keeps Hugo's address for Albero consistent with 'Commander' elsewhere in the chapter.",
+   "appearances": [
+    [
+     28,
+     471
+    ]
+   ],
+   "source_sha256": "c8a1851ad3c0bb78f4d302294410e36d9ac7552e0324cb3769e808a7f040e6cf"
+  },
+  {
+   "review_id": 6840,
+   "speaker": "Masato",
+   "before": "Zeorymer! Call it back! Your Dimensional Coupler System!!",
+   "after": "Zeorymer! Call it back! Bring back your Dimensional Coupler System!!",
+   "reason": "Completes the English command: Masato is ordering the missing system component recalled, which the following scene reveals as Miku.",
+   "appearances": [
+    [
+     28,
+     538
+    ]
+   ],
+   "source_sha256": "4fae4ad627c9af7fb3d87a0d4b9d4b6ffc50ec46a18217bc26715149f249539b"
+  },
+  {
+   "review_id": 6885,
+   "speaker": "Eldy",
+   "before": "Put this experience to use and become a proper TE Absorber pilot.",
+   "after": "Put this experience to use and become a fully qualified TE Absorber pilot.",
+   "reason": "The source refers to becoming a regular, qualified pilot rather than merely a 'proper' or well-behaved pilot.",
+   "appearances": [
+    [
+     28,
+     584
+    ]
+   ],
+   "source_sha256": "bf0e931d181f61b2902d54590f0093a6618e7519c40defb0e16650b6647e4170"
+  },
+  {
+   "review_id": 7096,
+   "speaker": "Member A",
+   "before": "...Tekkoryu (Iron Dragon) seems to have entered the final phase of that plan.",
+   "after": "...Tekkoryu seems to have entered the final phase of that plan.",
+   "reason": "Remove the unspoken parenthetical gloss for Tekkoryu, keeping the organization name consistent with the rest of the campaign.",
+   "appearances": [
+    [
+     29,
+     0
+    ]
+   ],
+   "source_sha256": "45491c35e161355d1fff7c505cfdbd6f52e2c46040f4e1e224321e6f3e3a296d"
+  },
+  {
+   "review_id": 7337,
+   "speaker": "Saiga",
+   "before": "So, on the other hand... if our two machines join forces, we'll have no enemies in this world...!",
+   "after": "So... if our two machines join forces, no one in this world could stand against us...!",
+   "reason": "Here, having no enemies means being unbeatable, not literally having no opponents. Preserve the threat behind Saiga's proposed alliance.",
+   "appearances": [
+    [
+     29,
+     402
+    ]
+   ],
+   "source_sha256": "3fa7486311dacd9e9e241fcadd689a5f9c50621376f95fc353d7635e70ab063a"
+  },
+  {
+   "review_id": 7845,
+   "speaker": "Saionji",
+   "before": "Now, Orie... What will you do if you let yourself get like this?",
+   "after": "Now, Orie... You can't lose heart like this.",
+   "reason": "Saionji is urging Orie to regain her resolve, not asking what action she will take if she becomes a certain way. Use a natural English admonition.",
+   "appearances": [
+    [
+     30,
+     536
+    ]
+   ],
+   "source_sha256": "135c400e64636c13c7b196905bb282fdf967edc7c410913c1138b41f664b27f3"
+  },
+  {
+   "review_id": 7859,
+   "speaker": "Saionji",
+   "before": "However painful it is, that is your duty, and Shibuya and everyone in GEAR's... and #部隊名's, too.",
+   "after": "However painful it is, that is the duty of you, Shibuya and everyone in GEAR... and of #部隊名, too.",
+   "reason": "Recast the awkward chain of possessives so it clearly identifies everyone who shares the duty to protect the children and Earth.",
+   "appearances": [
+    [
+     30,
+     550
+    ]
+   ],
+   "source_sha256": "162db70622bdf5fd61137f9d69fa4b91b1999d0fa1f72de2af2945e61ce38245"
+  }
+ ],
+ "reviewed_ranges": [
+  [
+   0,
+   205
+  ],
+  [
+   205,
+   410
+  ],
+  [
+   410,
+   650
+  ],
+  [
+   650,
+   912
+  ],
+  [
+   912,
+   1140
+  ],
+  [
+   1140,
+   1370
+  ],
+  [
+   1370,
+   1600
+  ],
+  [
+   1600,
+   1830
+  ],
+  [
+   1830,
+   2260
+  ],
+  [
+   2260,
+   2490
+  ],
+  [
+   2490,
+   2720
+  ],
+  [
+   2720,
+   2940
+  ],
+  [
+   2940,
+   3170
+  ],
+  [
+   3170,
+   3390
+  ],
+  [
+   3390,
+   3610
+  ],
+  [
+   3610,
+   3830
+  ],
+  [
+   3830,
+   4055
+  ],
+  [
+   4055,
+   4280
+  ],
+  [
+   4280,
+   4500
+  ],
+  [
+   4500,
+   4725
+  ],
+  [
+   4725,
+   4950
+  ],
+  [
+   4950,
+   5175
+  ],
+  [
+   5175,
+   5400
+  ],
+  [
+   5400,
+   5625
+  ],
+  [
+   5625,
+   5850
+  ],
+  [
+   5850,
+   6075
+  ],
+  [
+   6075,
+   6300
+  ],
+  [
+   6300,
+   6525
+  ],
+  [
+   6525,
+   6750
+  ],
+  [
+   6750,
+   6975
+  ],
+  [
+   6975,
+   7200
+  ],
+  [
+   7200,
+   7425
+  ],
+  [
+   7425,
+   7650
+  ],
+  [
+   7650,
+   7875
+  ],
+  [
+   7875,
+   8140
+  ]
+ ],
+ "validation": [
+  {
+   "chapter": 15,
+   "rows": 1039,
+   "changed_occurrences": 3,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "889ab702b804f94710b0f369bb95a4aedd1d78bb3693219742a5c5a5bb224a02"
+  },
+  {
+   "chapter": 16,
+   "rows": 713,
+   "changed_occurrences": 2,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "59f3a9c60e82d38de236c223fdd2341f057e9193969b04551e50f6b9fb1d501f"
+  },
+  {
+   "chapter": 17,
+   "rows": 958,
+   "changed_occurrences": 9,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "379f13241d76d2b151f856f184cbb4159c65881a2cc57be700e52cb1495648d5"
+  },
+  {
+   "chapter": 18,
+   "rows": 1715,
+   "changed_occurrences": 13,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "e154571c65e377f459b417d30a666764016c4ae40b6e87a09b2efdfbf4f8ee16"
+  },
+  {
+   "chapter": 19,
+   "rows": 686,
+   "changed_occurrences": 1,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "ba6aa0821ef79acfbc95e460ef3002e98ea6fd4fafc86554962eda4647355bee"
+  },
+  {
+   "chapter": 20,
+   "rows": 488,
+   "changed_occurrences": 2,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "7ebc973ec310c062eafa564d4e0f84bb0d5c76de081a57abb94c0023fec55122"
+  },
+  {
+   "chapter": 21,
+   "rows": 434,
+   "changed_occurrences": 5,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "a90532c0ba167283d11fa6e3f962d9de54a9db2a3764893a599d7fed95a5fa0c"
+  },
+  {
+   "chapter": 22,
+   "rows": 552,
+   "changed_occurrences": 1,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "47c2f314cf2aa84dee93a755ecbd287381850f12a3d674b5db281e99bc99c86c"
+  },
+  {
+   "chapter": 23,
+   "rows": 1003,
+   "changed_occurrences": 5,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "fcc207a7cf661686842b84475afd5328aa12fef8a78379cc7d8bff68851e2ba6"
+  },
+  {
+   "chapter": 24,
+   "rows": 637,
+   "changed_occurrences": 6,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "15a7fb6a05e7e5d5966f9fef8ee94886a8b0c4e08f8beb97f5218a4dc2f0ad78"
+  },
+  {
+   "chapter": 25,
+   "rows": 359,
+   "changed_occurrences": 1,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "fb243b500faef4492591f9a4408c0ba71907fae3eeb1bb61f55a70a7fdaf7992"
+  },
+  {
+   "chapter": 26,
+   "rows": 234,
+   "changed_occurrences": 1,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "789ee16e538c8796b83fdacf98a7f594de3af5b068d948b7d8793f979f494908"
+  },
+  {
+   "chapter": 27,
+   "rows": 269,
+   "changed_occurrences": 0,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "e97d5b9c5c6188ff37a4c0f55c44a8edd75ba8c76633889fda345cb42024a1bc"
+  },
+  {
+   "chapter": 28,
+   "rows": 802,
+   "changed_occurrences": 6,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "1bb9633aa98e0f3a706deb11eb4c2340e932897fa135a8f073f394cb7c5f9eda"
+  },
+  {
+   "chapter": 29,
+   "rows": 530,
+   "changed_occurrences": 2,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "f0d460dd10d8a7509bd51f57d7ee176638005ee66862198064a821e8750d398a"
+  },
+  {
+   "chapter": 30,
+   "rows": 839,
+   "changed_occurrences": 2,
+   "source_metadata_preserved": true,
+   "problems": [],
+   "fingerprint": "2c15c62a2ccfde2a3065d9fa941f31c7eee922858414cbec8d10abb5d9fee3f1"
+  }
+ ],
+ "status": "applied to current full campaign sources and scoped context overrides",
+ "reviewed_unique_rows": 8140,
+ "reviewed_assembled_rows": 11258,
+ "changed_occurrences": 59,
+ "iso_rebuilt": false,
+ "prior_fix_packet_sync": [
+  {
+   "source": "work/translation/en/script/stage16_campaign_sol61medium_slice_5.json",
+   "id": 474,
+   "before": "Jack in Diamond, George DeSand... I have come to defend this great rose in bloom.",
+   "after": "Jack in Diamond, George De Sand... I have come to defend this great rose in bloom.",
+   "reason": "Retain the earlier user-approved George De Sand spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_10.json",
+   "id": 852,
+   "before": "Chibodee Crocket and George DeSand...",
+   "after": "Chibodee Crocket and George De Sand...",
+   "reason": "Retain the earlier user-approved George De Sand spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_14.json",
+   "id": 1173,
+   "before": "If you know that much, there's no need for talk, George DeSand!",
+   "after": "If you know that much, there's no need for talk, George De Sand!",
+   "reason": "Retain the earlier user-approved George De Sand spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_2.json",
+   "id": 205,
+   "before": "I'm Albero Esto.",
+   "after": "I'm Albero Est.",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_2.json",
+   "id": 236,
+   "before": "I remember now, Albero Esto... You were the commander of the Cry Wolves, weren't you?",
+   "after": "I remember now, Albero Est... You were the commander of the Cry Wolves, weren't you?",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_9.json",
+   "id": 745,
+   "before": "I can't imagine Albero Esto is controlling it.",
+   "after": "I can't imagine Albero Est is controlling it.",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_9.json",
+   "id": 758,
+   "before": "That revenge Albero Esto spoke of... Could it be...",
+   "after": "That revenge Albero Est spoke of... Could it be...",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_9.json",
+   "id": 772,
+   "before": "What is it? Commander... No, Albero Esto...",
+   "after": "What is it? Commander... No, Albero Est...",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage18_campaign_sol61medium_slice_13.json",
+   "id": 1057,
+   "before": "Albero Esto... The pilot of the Medius Locus who took part in the battle in Kyoto?",
+   "after": "Albero Est... The pilot of the Medius Locus who took part in the battle in Kyoto?",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage22_campaign_sol61medium_slice_0.json",
+   "id": 52,
+   "before": "For me to fight Albero Esto... and the Medius Locus...",
+   "after": "For me to fight Albero Est... and the Medius Locus...",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage28_campaign_sol61medium_slice_2.json",
+   "id": 211,
+   "before": "Let's settle this, Commander... No, Albero Esto!",
+   "after": "Let's settle this, Commander... No, Albero Est!",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  },
+  {
+   "source": "work/translation/en/script/stage28_campaign_sol61medium_slice_6.json",
+   "id": 505,
+   "before": "I'll end this now, Albero Esto!!",
+   "after": "I'll end this now, Albero Est!!",
+   "reason": "Retain the earlier user-approved Albero Est spelling during reassembly."
+  }
+ ],
+ "reassembly_checks": {
+  "all_30_fingerprints_match": true,
+  "validated_packets": 241,
+  "failures": []
+ },
+ "html_browser_checks": {
+  "cards": 171,
+  "search": true,
+  "chapter_filter": true,
+  "empty_state": true,
+  "mobile_no_horizontal_overflow": true,
+  "coverage_rows": 30,
+  "javascript_errors": []
+ },
+ "final_integrity_checks": {
+  "source_metadata_and_uncertainty_preserved": true,
+  "only_recorded_english_changes": true,
+  "english_copies_match": true,
+  "unchanged_english_rows_preserved": true,
+  "changed_occurrences": 59
+ }
+}

@@ -9855,6 +9855,28 @@
    "expected_en": "But our situation is no different. Tekkoryu has fallen, but a new organization called Gyandlar has begun to act.",
    "en": "But our situation is no different. Hau Dragon has fallen, but a new organization called Gyandlar has begun to act.",
    "reason": "User screenshot follow-up: use Hau Dragon consistently for the organization; the older Tekkoryu spelling and unspoken Iron Dragon gloss are not the ordinary display name."
+  },
+  {
+   "stage": 19,
+   "full_id": 681,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage19_campaign.json",
+    "id": 527
+   },
+   "expected_en": "Heh... You hide revenge beneath your mask... And hatred colors your true face.",
+   "en": "Heh... A thirst for revenge behind that mask... And hatred written all over your face.",
+   "reason": "The original is a dramatic observation of revenge behind the mask and hatred on the uncovered face. Natural English imagery preserves the taunt without the awkward hide revenge and colors your true face."
+  },
+  {
+   "stage": 21,
+   "full_id": 269,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage21_campaign.json",
+    "id": 103
+   },
+   "expected_en": "Is this the Zeorymer created by that man I hate with every fiber of my being...!?",
+   "en": "Is this the Zeorymer created by the man I hate with every fiber of my being...!?",
+   "reason": "Accepted the user's suggestion: the definite article sounds more natural here. The demonstrative identifies the creator without naming him; the emphasis on enduring hatred remains."
   }
  ]
 }

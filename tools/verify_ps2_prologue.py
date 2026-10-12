@@ -118,6 +118,14 @@ def verify(version=VERSION, base=None, added_units=(), added_pilots=()):
                 new_researcher_row_valid=True,gameplay_clear_and_save_validation='pending')
     report['native_campaign_save_field_round_trips']=save_round_trips
     if reflowed_text:report['reflowed_text_verified_separately']=list(reflowed_text)
+    if (base/'library_refresh.json').exists():
+        refresh=json.loads((base/'library_refresh.json').read_text())
+        library=json.loads((base/'library.json').read_text())
+        changed={(r['table'],r['entry']) for r in refresh['changed_entries']}
+        report['reviewed_library'] = dict(changed_entries=len(changed),
+            native_width_rows=sum(len(r['lines']) for r in library['description_rows'] if (r['table'],r['entry']) in changed),
+            source_and_gameplay_preservation_passed=True,
+            note='Checked by the independent library-preservation adapter before historical comparisons')
     (ROOT/'work/output'/f'ps2_prologue_{version}_execution.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf8')
     print(json.dumps(report,indent=2));return report
 

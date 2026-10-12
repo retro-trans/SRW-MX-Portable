@@ -1,0 +1,351 @@
+{
+ "chapter": 15,
+ "route": "Super",
+ "date": "2026-10-09",
+ "scope": "Source proofreading only; no ISO build or public release.",
+ "edits": [
+  {
+   "full_id": 543,
+   "before": "I-I've lost... A captain who's younger than me...",
+   "after": "I-I've been outdone... A captain younger than me...",
+   "reason": "Beecha is comparing himself with a younger captain, not reporting a battle defeat.",
+   "owner_id": 385,
+   "uses": [
+    "s03s10:244"
+   ],
+   "source_sha256": "ce566a47c43951bcbd657cc812250e1d012013f2b9153f360eac5db9cc5f3054",
+   "line_widths": [
+    345,
+    63
+   ]
+  },
+  {
+   "full_id": 544,
+   "before": "Sigh... I'm... going to drag up the average age again, aren't I...?",
+   "after": "Sigh... I'm... going to push up the average age again, aren't I...?",
+   "reason": "Use a natural expression for raising the crew's average age.",
+   "owner_id": 386,
+   "uses": [
+    "s03s10:245"
+   ],
+   "source_sha256": "2a7b79accb6779f6ce4c367fad948d74fc3192083f75cf841b70eaa7eb4adce0",
+   "line_widths": [
+    304,
+    219
+   ]
+  },
+  {
+   "full_id": 638,
+   "before": "Listen, brat. We'll keep a close watch on you. Trying to escape won't do you any good, right?",
+   "after": "Listen, brat. We'll keep a close watch on you. Don't bother trying to escape, got it?",
+   "reason": "Make the guard's threat sound like a warning rather than a request for agreement.",
+   "owner_id": 479,
+   "uses": [
+    "s03s10:339"
+   ],
+   "source_sha256": "3e4bba7c3d9cb5735eafe4d7a3ccf92de82eb4af257683840264415c2a2be090",
+   "line_widths": [
+    339,
+    263
+   ]
+  },
+  {
+   "full_id": 643,
+   "before": "...Let's wait for a chance, whether we're going to break out of here or wait for help.",
+   "after": "...Let's bide our time, whether we escape on our own or wait for help.",
+   "reason": "Preserve both escape options while avoiding the awkward instruction to wait for a chance to wait.",
+   "owner_id": 484,
+   "uses": [
+    "s03s10:344"
+   ],
+   "source_sha256": "938a728a564499731ea42c7ef2e0dc417b5f110c68120c24c7a35838d155c561",
+   "line_widths": [
+    335,
+    189
+   ]
+  },
+  {
+   "full_id": 659,
+   "before": "Here we are, at the hangar where Dendoh is. Let's escape, quickly.",
+   "after": "We've reached Dendoh's hangar. Hurry, let's get out of here.",
+   "reason": "Smooth Vega's urgent rescue instruction while preserving the location.",
+   "owner_id": 499,
+   "uses": [
+    "s03s10:360"
+   ],
+   "source_sha256": "e73410e0b18974337419205c5156f7a4058825c76f722c63a0e15b444680284e",
+   "line_widths": [
+    350,
+    105
+   ]
+  },
+  {
+   "full_id": 692,
+   "before": "He started suffering when he saw me...!?",
+   "after": "He was in pain the moment he saw me...!?",
+   "reason": "Express the sudden pain and Vega's surprise naturally without adding an unseen physical action.",
+   "owner_id": 530,
+   "uses": [
+    "s03s10:393"
+   ],
+   "source_sha256": "5bcdbb350799d59bc0d69be2385d30f33e8599dd23b147828a7ab30e0f7f1bb8",
+   "line_widths": [
+    336
+   ]
+  },
+  {
+   "full_id": 720,
+   "before": "...We're... in Dendoh... time to escape... buy us...",
+   "after": "...We're... in Dendoh... buy us... time to escape...",
+   "reason": "Order the English fragments so the interrupted request is intelligible; retain all transmission gaps and the existing uncertainty.",
+   "owner_id": 557,
+   "uses": [
+    "s03s10:421"
+   ],
+   "source_sha256": "60401560ab31d1fc35501da4721d00140b528002c4e9bd2d4da8b3c347218873",
+   "line_widths": [
+    291,
+    87
+   ]
+  },
+  {
+   "full_id": 738,
+   "before": "Are all martial artists such sweaty, overbearing men, no matter what planet they're from...?",
+   "after": "Are all martial artists such overbearing men, no matter what planet they're from...?",
+   "reason": "The insult describes an oppressive personality, not literal sweating.",
+   "owner_id": 575,
+   "uses": [
+    "s03s10:440"
+   ],
+   "source_sha256": "31002d951f7c94bd27cd05de8c46a94a9bc19a27551124c445587085b6bef4cc",
+   "line_widths": [
+    339,
+    274
+   ]
+  },
+  {
+   "full_id": 741,
+   "before": "W-what are you?! What are you talking about?!",
+   "after": "W-who are you?! What are you talking about?!",
+   "reason": "Diondra is challenging Saburota's identity after his flirtatious introduction.",
+   "owner_id": 578,
+   "uses": [
+    "s03s10:443"
+   ],
+   "source_sha256": "fbbf09b6ee8998791d0c800715e719a5ec3ad6b9cdce659aab820d5d74b8775d",
+   "line_widths": [
+    311,
+    79
+   ]
+  },
+  {
+   "full_id": 761,
+   "before": "Not if I can help it! Ginga and Hokuto are safe. We're getting them out of here!",
+   "after": "Not if I can help it! Ginga and Hokuto are safe. We're getting out of here!",
+   "reason": "The line announces the group's escape, not solely an extraction of the two boys.",
+   "owner_id": 598,
+   "uses": [
+    "s03s10:463"
+   ],
+   "source_sha256": "534236df8bd7af75dd4815d7f71a2c9e6ee79133335bcb54424b9fdad6304853",
+   "line_widths": [
+    341,
+    192
+   ]
+  },
+  {
+   "full_id": 879,
+   "before": "Unfair? Devil Saturn 6, those words suit you better than anyone!",
+   "after": "Unfair? Devil Saturn 6, you're hardly one to talk!",
+   "reason": "Render Rom's accusation of hypocrisy as an idiomatic retort.",
+   "owner_id": 714,
+   "uses": [
+    "s03s10:582"
+   ],
+   "source_sha256": "3da9adfd75388446da111a19d491218e3dbf4069202e916acb7f2492909d4328",
+   "line_widths": [
+    316,
+    60
+   ]
+  },
+  {
+   "full_id": 936,
+   "before": "You two did well to keep going without giving up.",
+   "after": "You two did great. You never gave up.",
+   "reason": "Make Judau's praise sound conversational while preserving the boys' perseverance.",
+   "owner_id": 766,
+   "uses": [
+    "i03s1a:4"
+   ],
+   "source_sha256": "f4c14f75435805988a577c8247c96a85399961122cb521fe7ad6ecfb53351785",
+   "line_widths": [
+    307
+   ]
+  },
+  {
+   "full_id": 937,
+   "before": "No, it's thanks to everyone and Vega.",
+   "after": "No, we owe it to all of you and Vega.",
+   "reason": "Make Hokuto's humble reply natural in English.",
+   "owner_id": 767,
+   "uses": [
+    "i03s1a:5"
+   ],
+   "source_sha256": "af9f3bc4e99b3b4cadb5b3154920efe6fb3fceba2ea184ba4a5d4b4ed60ba1b4",
+   "line_widths": [
+    314
+   ]
+  },
+  {
+   "full_id": 940,
+   "before": "He's the successor to a martial art called Tenku Chushin Ken, from a planet called Cronos. I know little else about him, but...",
+   "after": "He's from the planet Cronos, and an heir to the martial art Tenku Chushin Ken. I know little else about him, but...",
+   "reason": "Attach the planetary origin clearly to Rom and preserve the martial-art lineage.",
+   "owner_id": 770,
+   "uses": [
+    "i03s1a:8"
+   ],
+   "source_sha256": "8b4e5ef94af67a743da498ed669d8aff929b44a1623460b279951cf5d868f096",
+   "line_widths": [
+    330,
+    337,
+    133
+   ]
+  },
+  {
+   "full_id": 995,
+   "before": "There are also rumors... No, evidence that he has been secretly contacting remnants of the Jovian Federation.",
+   "after": "There are also rumors... No, there's evidence he's secretly contacting Jovian Federation remnants.",
+   "reason": "Repair the grammar of Meio's self-correction from rumor to evidence.",
+   "owner_id": 822,
+   "uses": [
+    "i03s1a:64"
+   ],
+   "source_sha256": "9d4da5c0c2303658bebc9522abf2dbda1f671643cbc5c8382e31138d0acb0fd0",
+   "line_widths": [
+    350,
+    326
+   ]
+  },
+  {
+   "full_id": 999,
+   "before": "Are you saying I must be broad-minded enough to accept both good and evil?",
+   "after": "Are you saying I must be willing to accept the corrupt along with the honest?",
+   "reason": "Render the idiom as political tolerance of honest and corrupt people, consistent with the discussion of Dorchenov.",
+   "owner_id": 826,
+   "uses": [
+    "i03s1a:68"
+   ],
+   "source_sha256": "ce088d57fcd11ffcb04a9a178ed216ad70f7fac2ffefb623e52813b0ed7e7b26",
+   "line_widths": [
+    330,
+    224
+   ]
+  },
+  {
+   "full_id": 1002,
+   "before": "The Earth Sphere is now beyond saving through reforms that take their natural course.",
+   "after": "The Earth Sphere can no longer be saved by letting reform take its natural course.",
+   "reason": "Smooth Guiltorre's argument without implying that every kind of reform is futile.",
+   "owner_id": 829,
+   "uses": [
+    "i03s1a:71"
+   ],
+   "source_sha256": "a4a302c8ba0f64a211d62b18d2eb9d848f18416a195e0010e812555914a37358",
+   "line_widths": [
+    341,
+    262
+   ]
+  },
+  {
+   "full_id": 1011,
+   "before": "Marshal, what is the meaning of letting those young officers go without any reprimand?",
+   "after": "Marshal, why are those young officers being let off without so much as a reprimand?",
+   "reason": "Make Dorchenov's objection to leniency idiomatic.",
+   "owner_id": 837,
+   "uses": [
+    "i03s1a:80"
+   ],
+   "source_sha256": "f43655c7748e9d4258114e8143427d6f5ffae7d94eef8a21e0fb863f663bc179",
+   "line_widths": [
+    327,
+    319
+   ]
+  },
+  {
+   "full_id": 1012,
+   "before": "For the sake of Giganos's iron unity, I urge you to punish them severely!",
+   "after": "To preserve Giganos's ironclad unity, I urge you to punish them severely!",
+   "reason": "Keep the military solidarity metaphor in natural English.",
+   "owner_id": 838,
+   "uses": [
+    "i03s1a:81"
+   ],
+   "source_sha256": "d6a3ffea6a8382a81b05cfd1bf8c1b70d8d4f5487fbf0dbc7edf28e37a2703ab",
+   "line_widths": [
+    351,
+    210
+   ]
+  },
+  {
+   "full_id": 1017,
+   "before": "Therefore, I judge punishment unnecessary.",
+   "after": "I therefore consider punishment unnecessary.",
+   "reason": "Smooth Meio's formal judgment without weakening his position.",
+   "owner_id": 843,
+   "uses": [
+    "i03s1a:86"
+   ],
+   "source_sha256": "bc352a960828ab67bb52643df868b1ca0843692b43badb20daa46025f6d6ae46",
+   "line_widths": [
+    339
+   ]
+  },
+  {
+   "full_id": 1020,
+   "before": "And because you failed to recapture them, they have now reached the stage of producing mass-produced models.",
+   "after": "And because you failed to recapture them, they've now reached the mass-production stage.",
+   "reason": "Remove repetitive production wording while retaining the enemy's technological progress.",
+   "owner_id": 846,
+   "uses": [
+    "i03s1a:89"
+   ],
+   "source_sha256": "0099bf5bc8231ffd10f9eabadadb09952141c8c6a2b649ef6ab2d15a45a29bb7",
+   "line_widths": [
+    348,
+    334
+   ]
+  },
+  {
+   "full_id": 1030,
+   "before": "Yes. Once the Federation Forces get their mass-produced Dragonars into steady production...",
+   "after": "Yes. Once the Federation Forces have mass production of their Dragonars running smoothly...",
+   "reason": "Render production getting established naturally and retain the unfinished lead-in to the predicted counteroffensive.",
+   "owner_id": 856,
+   "uses": [
+    "i03s1a:99"
+   ],
+   "source_sha256": "0869bd2830ed402be75ba0ca7eb704315b4dbd6a49ef8e9cb63f0a6fb35b71af",
+   "line_widths": [
+    321,
+    285,
+    102
+   ]
+  }
+ ],
+ "verification": {
+  "reviewed_super_rows": 677,
+  "corrected_rows": 22,
+  "full_assembly_rows": 1039,
+  "fresh_packet_rows": 865,
+  "full_findings": [],
+  "packet_findings": [],
+  "earth_route_rows_unchanged": 507,
+  "unmodified_full_rows": 1017,
+  "source_and_metadata_unchanged": true,
+  "uncertainty_flags_retained": true,
+  "context_review_fingerprint": "65e90a954e975d1dc8bff241d6f7fdbdb42519dda667f3bc63ad32d9c57344c3",
+  "native_fit_checked": true,
+  "iso_built": false
+ }
+}

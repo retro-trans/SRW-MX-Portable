@@ -24,7 +24,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_00_duplicate",
@@ -37,7 +39,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_01_main",
@@ -45,12 +49,14 @@
    "scenario_record": 1,
    "jp": "Ｄ　ａｎｄ　Ｅ",
    "en": "D and E",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 21621888,
    "palette_sha256": "8ecb1416f923cbfa50286edef1ff742fe2637139c5c523182c66b087f89fba84",
    "accepted_title_sha256": [
     "2c8cd97d62e08dc6e8d7bfb4edf1231d631146e0e4931cfe7c1e79db7894dcbc"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_01_duplicate",
@@ -58,12 +64,14 @@
    "scenario_record": 1,
    "jp": "Ｄ　ａｎｄ　Ｅ",
    "en": "D and E",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 21821568,
    "palette_sha256": "8ecb1416f923cbfa50286edef1ff742fe2637139c5c523182c66b087f89fba84",
    "accepted_title_sha256": [
     "2c8cd97d62e08dc6e8d7bfb4edf1231d631146e0e4931cfe7c1e79db7894dcbc"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_02_main",
@@ -77,7 +85,9 @@
    "accepted_title_sha256": [
     "8555e56f958ccc15db03a84dce0d29bd0b96d0b5faa30968ca2d8476eaa1e506",
     "f0a2810dc99f3def85a1bfddfaf57b56b890d7dc661f5f340405e203871a607e"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_02_duplicate",
@@ -90,7 +100,9 @@
    "palette_sha256": "a202e3cbcd801e6832fd48d9380d8b2e3a600aebdb19143d79049bee00516361",
    "accepted_title_sha256": [
     "f0a2810dc99f3def85a1bfddfaf57b56b890d7dc661f5f340405e203871a607e"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_03_main",
@@ -103,7 +115,9 @@
    "palette_sha256": "d8acb89c09d41d2f2d65a0df93f3a5723e9b1715468c1cad1a5cd26f71370d27",
    "accepted_title_sha256": [
     "c68e14c72028334cf500ddebdf1955e632a0e637b15cf0df35f3b2ee3543825f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_03_duplicate",
@@ -116,7 +130,9 @@
    "palette_sha256": "d8acb89c09d41d2f2d65a0df93f3a5723e9b1715468c1cad1a5cd26f71370d27",
    "accepted_title_sha256": [
     "c68e14c72028334cf500ddebdf1955e632a0e637b15cf0df35f3b2ee3543825f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_04_main",
@@ -129,7 +145,9 @@
    "palette_sha256": "61806235e2310a0b5083012e00384b19a27c954226043e29bc45bcc848d2c884",
    "accepted_title_sha256": [
     "73e2e6b47e9acb4f7d6668dc108ad18b5b6116b3bef27813c4ac6725997db220"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_04_duplicate",
@@ -142,7 +160,9 @@
    "palette_sha256": "61806235e2310a0b5083012e00384b19a27c954226043e29bc45bcc848d2c884",
    "accepted_title_sha256": [
     "73e2e6b47e9acb4f7d6668dc108ad18b5b6116b3bef27813c4ac6725997db220"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_05_main",
@@ -155,7 +175,9 @@
    "palette_sha256": "4f6c7fa132f26f6cc9aa74341f36fd4c81babe1b020a306b981fa5b9878570bd",
    "accepted_title_sha256": [
     "de8e6a7733b538f8aebe9bda7ab4bf321c2257f645ac68b91801df3ec1245ad4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_05_duplicate",
@@ -168,7 +190,9 @@
    "palette_sha256": "4f6c7fa132f26f6cc9aa74341f36fd4c81babe1b020a306b981fa5b9878570bd",
    "accepted_title_sha256": [
     "de8e6a7733b538f8aebe9bda7ab4bf321c2257f645ac68b91801df3ec1245ad4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_06_main",
@@ -181,7 +205,9 @@
    "palette_sha256": "52f1f1d343f8d9e24ab76497064f4525ea55703d857350c5f8a4443371c3e719",
    "accepted_title_sha256": [
     "132f50c3fbfb82210e42c221059be902c0febaecbe39930e34f30b75d79484f8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_06_duplicate",
@@ -194,7 +220,9 @@
    "palette_sha256": "52f1f1d343f8d9e24ab76497064f4525ea55703d857350c5f8a4443371c3e719",
    "accepted_title_sha256": [
     "132f50c3fbfb82210e42c221059be902c0febaecbe39930e34f30b75d79484f8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_07_main",
@@ -207,7 +235,9 @@
    "palette_sha256": "df68ed87249728776340bb43260e3fb9e20c8902dbb677596e7914bf39b9bd29",
    "accepted_title_sha256": [
     "2091dfd48f2b978632c1af81e6c7a237704a978867f05e90d078683b7fd7c624"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_07_duplicate",
@@ -220,7 +250,9 @@
    "palette_sha256": "df68ed87249728776340bb43260e3fb9e20c8902dbb677596e7914bf39b9bd29",
    "accepted_title_sha256": [
     "2091dfd48f2b978632c1af81e6c7a237704a978867f05e90d078683b7fd7c624"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_08_main",
@@ -233,7 +265,9 @@
    "palette_sha256": "3f8771b4f952c6e92f8b86bc878ae3a17ee3c3686e68b05f8386afb05c438e32",
    "accepted_title_sha256": [
     "ef02de1aa04c3b7dabbf319c3d9beafc9576ac200e36ae17b3d8a92f4fecb50f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_08_duplicate",
@@ -246,7 +280,9 @@
    "palette_sha256": "3f8771b4f952c6e92f8b86bc878ae3a17ee3c3686e68b05f8386afb05c438e32",
    "accepted_title_sha256": [
     "ef02de1aa04c3b7dabbf319c3d9beafc9576ac200e36ae17b3d8a92f4fecb50f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_09_main",
@@ -254,12 +290,14 @@
    "scenario_record": 9,
    "jp": "ＣＯＮＦＬＩＣＴ",
    "en": "CONFLICT",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 23800960,
    "palette_sha256": "e520038b74499154da6db0b08a87c5bd2b23940d4a4c4cea6e4a2362f12754f5",
    "accepted_title_sha256": [
     "5ee9d1019c78e4ef59b35611c34a4691af1085b839e212716f6468930f36c7a2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_09_duplicate",
@@ -267,12 +305,14 @@
    "scenario_record": 9,
    "jp": "ＣＯＮＦＬＩＣＴ",
    "en": "CONFLICT",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 24000640,
    "palette_sha256": "e520038b74499154da6db0b08a87c5bd2b23940d4a4c4cea6e4a2362f12754f5",
    "accepted_title_sha256": [
     "5ee9d1019c78e4ef59b35611c34a4691af1085b839e212716f6468930f36c7a2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_10_main",
@@ -285,7 +325,9 @@
    "palette_sha256": "40a9c057fa5c9d424e3c652d792a693ad7a4ca3ce9ebcb9371765242d4af1eb7",
    "accepted_title_sha256": [
     "67db11a8b3ad8b5987500e7685f588b28500dd05cada9a7a3563ce699f33fbb0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_10_duplicate",
@@ -298,7 +340,9 @@
    "palette_sha256": "40a9c057fa5c9d424e3c652d792a693ad7a4ca3ce9ebcb9371765242d4af1eb7",
    "accepted_title_sha256": [
     "67db11a8b3ad8b5987500e7685f588b28500dd05cada9a7a3563ce699f33fbb0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_11_main",
@@ -311,7 +355,9 @@
    "palette_sha256": "d1994aa024508ca577e8a324ee7cc8fc28f29f23841a8a2c2a6da6ffb564fea9",
    "accepted_title_sha256": [
     "80e4df93439ac09f77794ece83111907feaf4cd30597c447ce863606a43ab175"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_11_duplicate",
@@ -324,7 +370,9 @@
    "palette_sha256": "d1994aa024508ca577e8a324ee7cc8fc28f29f23841a8a2c2a6da6ffb564fea9",
    "accepted_title_sha256": [
     "80e4df93439ac09f77794ece83111907feaf4cd30597c447ce863606a43ab175"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_12_main",
@@ -338,7 +386,8 @@
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
    ],
-   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork.",
+   "lettering_policy": "uniform"
   },
   {
    "id": "card_12_duplicate",
@@ -352,7 +401,8 @@
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
    ],
-   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork.",
+   "lettering_policy": "uniform"
   },
   {
    "id": "card_13_main",
@@ -365,7 +415,9 @@
    "palette_sha256": "57fae4641464ced4a4dd02094a049c3c79b31ffd8da84c0b25f7ecde26356c1c",
    "accepted_title_sha256": [
     "24d242b20fe17df85558ef97f0a26b1421ccbd10d75ed98612872a2217d768f6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_13_duplicate",
@@ -378,7 +430,9 @@
    "palette_sha256": "57fae4641464ced4a4dd02094a049c3c79b31ffd8da84c0b25f7ecde26356c1c",
    "accepted_title_sha256": [
     "24d242b20fe17df85558ef97f0a26b1421ccbd10d75ed98612872a2217d768f6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_14_main",
@@ -391,7 +445,9 @@
    "palette_sha256": "c2e67f4646a6fe75bed40112c5a2d5621baa228eb7944f4ec4b1c286b3fa80e0",
    "accepted_title_sha256": [
     "75e22cbd8d05f2ec2af58f7b79deaab987ed1eaa1c7b6ae68e10c0431a11d004"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_14_duplicate",
@@ -404,7 +460,9 @@
    "palette_sha256": "c2e67f4646a6fe75bed40112c5a2d5621baa228eb7944f4ec4b1c286b3fa80e0",
    "accepted_title_sha256": [
     "75e22cbd8d05f2ec2af58f7b79deaab987ed1eaa1c7b6ae68e10c0431a11d004"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_15_main",
@@ -417,7 +475,9 @@
    "palette_sha256": "51d8fa5abbc1ee528f8a139cb7d37c388a73b4697f8e1d32bf91295e083b7c98",
    "accepted_title_sha256": [
     "34715f33f943a6aee80988fe2e0059156493debf0679e0c5f54de3ca695e66b3"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_15_duplicate",
@@ -430,7 +490,9 @@
    "palette_sha256": "51d8fa5abbc1ee528f8a139cb7d37c388a73b4697f8e1d32bf91295e083b7c98",
    "accepted_title_sha256": [
     "34715f33f943a6aee80988fe2e0059156493debf0679e0c5f54de3ca695e66b3"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_16_main",
@@ -443,7 +505,9 @@
    "palette_sha256": "6079bf2133ace319896de609c5dc80fe61d71a8d9423c8736b642770af94cc6f",
    "accepted_title_sha256": [
     "f63a82c14accecef45ee96d68f46ba73d4e0770480ac0f25bc493c3ee50ff29c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_16_duplicate",
@@ -456,7 +520,9 @@
    "palette_sha256": "6079bf2133ace319896de609c5dc80fe61d71a8d9423c8736b642770af94cc6f",
    "accepted_title_sha256": [
     "f63a82c14accecef45ee96d68f46ba73d4e0770480ac0f25bc493c3ee50ff29c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_17_main",
@@ -470,7 +536,9 @@
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
    ],
-   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21).",
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_17_duplicate",
@@ -484,7 +552,9 @@
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
    ],
-   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21).",
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_18_main",
@@ -497,7 +567,9 @@
    "palette_sha256": "137e333b2dde8c4f36f1813136e17f9aae8f92088160453b3ae003f24a3eb458",
    "accepted_title_sha256": [
     "a0d9813077d1a3c253e7c890ec7f316c641a1e67338d51a9375a116c04e97bcd"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_18_duplicate",
@@ -510,7 +582,9 @@
    "palette_sha256": "137e333b2dde8c4f36f1813136e17f9aae8f92088160453b3ae003f24a3eb458",
    "accepted_title_sha256": [
     "a0d9813077d1a3c253e7c890ec7f316c641a1e67338d51a9375a116c04e97bcd"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_19_main",
@@ -523,7 +597,9 @@
    "palette_sha256": "5982d469927e7dc13f6d12db068f10d4c82b247cfdcb36b70f868abe07aa740c",
    "accepted_title_sha256": [
     "b4536a091f1991bfe9e0ba5b7e84fd380a49cbc4a4f457d5367c4693757c650a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_19_duplicate",
@@ -536,7 +612,9 @@
    "palette_sha256": "5982d469927e7dc13f6d12db068f10d4c82b247cfdcb36b70f868abe07aa740c",
    "accepted_title_sha256": [
     "b4536a091f1991bfe9e0ba5b7e84fd380a49cbc4a4f457d5367c4693757c650a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_20_main",
@@ -549,7 +627,9 @@
    "palette_sha256": "cfbb795dc2982f85887a6c391a1f72610d5beffa6e1e62df838c9a93f3cd632f",
    "accepted_title_sha256": [
     "607b358bf6d3ee05fec45c2d0f9afc0c78a800179b2591e6f9f29556e639fa70"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_20_duplicate",
@@ -562,7 +642,9 @@
    "palette_sha256": "cfbb795dc2982f85887a6c391a1f72610d5beffa6e1e62df838c9a93f3cd632f",
    "accepted_title_sha256": [
     "607b358bf6d3ee05fec45c2d0f9afc0c78a800179b2591e6f9f29556e639fa70"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_21_main",
@@ -570,12 +652,14 @@
    "scenario_record": 21,
    "jp": "Ｂｒｉｇｈｔ　ｙｏｕ　ｎｏｗ",
    "en": "Bright you now",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 27069568,
    "palette_sha256": "1df9e9e76b030d881b1ea59ac2d40ffd22791117df3f4b5ecee3a96761de96d5",
    "accepted_title_sha256": [
     "3cfc54405875c747b578b4676af17c5b62ca6fdbdc2a0a6d1d971bda543fb7c0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_21_duplicate",
@@ -583,12 +667,14 @@
    "scenario_record": 21,
    "jp": "Ｂｒｉｇｈｔ　ｙｏｕ　ｎｏｗ",
    "en": "Bright you now",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 27269248,
    "palette_sha256": "1df9e9e76b030d881b1ea59ac2d40ffd22791117df3f4b5ecee3a96761de96d5",
    "accepted_title_sha256": [
     "3cfc54405875c747b578b4676af17c5b62ca6fdbdc2a0a6d1d971bda543fb7c0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_22_main",
@@ -601,7 +687,9 @@
    "palette_sha256": "38caf639baff51c9e778da2026341050d21235730a0a890c33b71e59193e46f4",
    "accepted_title_sha256": [
     "52430b4c673aec5c49c7f5c6e390be186e8c0aac3bddf20fe6e31d3397683ee6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_22_duplicate",
@@ -614,7 +702,9 @@
    "palette_sha256": "38caf639baff51c9e778da2026341050d21235730a0a890c33b71e59193e46f4",
    "accepted_title_sha256": [
     "52430b4c673aec5c49c7f5c6e390be186e8c0aac3bddf20fe6e31d3397683ee6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_23_main",
@@ -622,12 +712,14 @@
    "scenario_record": 23,
    "jp": "Ｂｕｒｎｉｎｇ　ｈｅａｒｔ，Ｆｌｙｉｎｇ　ｈｉｇｈ",
    "en": "Burning heart, Flying high",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 27614336,
    "palette_sha256": "4c696e30920d322440caea7f474de285bc655c0c43ede752c9c28462bcceea62",
    "accepted_title_sha256": [
     "5e9991e7be01624c89a4033315f1612b29ab8ebea641955faff2cbdd6a000518"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_23_duplicate",
@@ -635,12 +727,14 @@
    "scenario_record": 23,
    "jp": "Ｂｕｒｎｉｎｇ　ｈｅａｒｔ，Ｆｌｙｉｎｇ　ｈｉｇｈ",
    "en": "Burning heart, Flying high",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 27814016,
    "palette_sha256": "4c696e30920d322440caea7f474de285bc655c0c43ede752c9c28462bcceea62",
    "accepted_title_sha256": [
     "5e9991e7be01624c89a4033315f1612b29ab8ebea641955faff2cbdd6a000518"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_24_main",
@@ -653,7 +747,9 @@
    "palette_sha256": "88bd6880c78478754694d7f5dd144ac09680d9d5bc0fa631941c02aeca4687b1",
    "accepted_title_sha256": [
     "5f20987d863d8b2731161e3c65bf95c34c664f1b5d24bda6981d82289fa29db0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_24_duplicate",
@@ -666,33 +762,39 @@
    "palette_sha256": "88bd6880c78478754694d7f5dd144ac09680d9d5bc0fa631941c02aeca4687b1",
    "accepted_title_sha256": [
     "5f20987d863d8b2731161e3c65bf95c34c664f1b5d24bda6981d82289fa29db0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_25_main",
    "asset_index": 25,
    "scenario_record": 25,
    "jp": "Ｓｔｒａｎｇｅ　ｂａｉｔ",
-   "en": "Strange bait",
-   "needs_translation": false,
+   "en": "Strange Bait",
+   "needs_translation": true,
    "pixel_offset": 28159104,
    "palette_sha256": "4c3c3ab3f243df592c7ed2a94b50069bb48116f7ba2f2ee43dbdd729e94b7fba",
    "accepted_title_sha256": [
     "2f383781544e1800b38109bebca8aa59b00024dac69652658373f7826447cd68"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_25_duplicate",
    "asset_index": 25,
    "scenario_record": 25,
    "jp": "Ｓｔｒａｎｇｅ　ｂａｉｔ",
-   "en": "Strange bait",
-   "needs_translation": false,
+   "en": "Strange Bait",
+   "needs_translation": true,
    "pixel_offset": 28358784,
    "palette_sha256": "4c3c3ab3f243df592c7ed2a94b50069bb48116f7ba2f2ee43dbdd729e94b7fba",
    "accepted_title_sha256": [
     "2f383781544e1800b38109bebca8aa59b00024dac69652658373f7826447cd68"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_26_main",
@@ -705,7 +807,9 @@
    "palette_sha256": "f98da54e672bfe711bf07238282a4320991cc77c883460ebbf26f29749266dbd",
    "accepted_title_sha256": [
     "c8d59f025f34bee146b336839dcde9802815029a55523574a10d6a1c46a6a525"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_26_duplicate",
@@ -718,7 +822,9 @@
    "palette_sha256": "f98da54e672bfe711bf07238282a4320991cc77c883460ebbf26f29749266dbd",
    "accepted_title_sha256": [
     "c8d59f025f34bee146b336839dcde9802815029a55523574a10d6a1c46a6a525"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_27_main",
@@ -731,7 +837,9 @@
    "palette_sha256": "3b07fa34f6e85c378004d3ab565f97a5ea291097a3ce2ed13e8aab2929d2455e",
    "accepted_title_sha256": [
     "eb89fb7f71439eebdca0f92bc8258803823f80be5b83f251f7875581d26382ce"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_27_duplicate",
@@ -744,7 +852,9 @@
    "palette_sha256": "3b07fa34f6e85c378004d3ab565f97a5ea291097a3ce2ed13e8aab2929d2455e",
    "accepted_title_sha256": [
     "eb89fb7f71439eebdca0f92bc8258803823f80be5b83f251f7875581d26382ce"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_28_main",
@@ -757,7 +867,9 @@
    "palette_sha256": "c154b0ab17543009bba493df75f6bb19cc8d7f4d2af20159e9d1e05fad455e57",
    "accepted_title_sha256": [
     "38b89a4aff29251a95dfd8c37737c7c12fe03dad74a7137702d5f73a4e1ed93c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_28_duplicate",
@@ -770,7 +882,9 @@
    "palette_sha256": "c154b0ab17543009bba493df75f6bb19cc8d7f4d2af20159e9d1e05fad455e57",
    "accepted_title_sha256": [
     "38b89a4aff29251a95dfd8c37737c7c12fe03dad74a7137702d5f73a4e1ed93c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_29_main",
@@ -783,7 +897,9 @@
    "palette_sha256": "dd1c3b49847c129b71fd446d49001908ec37e25d1a8f752c45d9fd4a943f454f",
    "accepted_title_sha256": [
     "ca306edabe53c49dc1231c6a16fcfdecd9f57e52d3bead63b60f4054a39c17c8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_29_duplicate",
@@ -796,7 +912,9 @@
    "palette_sha256": "dd1c3b49847c129b71fd446d49001908ec37e25d1a8f752c45d9fd4a943f454f",
    "accepted_title_sha256": [
     "ca306edabe53c49dc1231c6a16fcfdecd9f57e52d3bead63b60f4054a39c17c8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_30_main",
@@ -809,7 +927,9 @@
    "palette_sha256": "340746c831785fc6518644ef11d2e355e7b5ad0283f7ab8ce6a220f79bdfc46d",
    "accepted_title_sha256": [
     "a365008470ada50fb9820630d6656be84ebc6d5adc82af4968bb2a2cc302441d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_30_duplicate",
@@ -822,7 +942,9 @@
    "palette_sha256": "340746c831785fc6518644ef11d2e355e7b5ad0283f7ab8ce6a220f79bdfc46d",
    "accepted_title_sha256": [
     "a365008470ada50fb9820630d6656be84ebc6d5adc82af4968bb2a2cc302441d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_31_main",
@@ -835,7 +957,9 @@
    "palette_sha256": "c85a8fbe9e4be9752a5e0001058b4d87e6cdf4111e305d4af3edddb39afd3cdb",
    "accepted_title_sha256": [
     "13655f3ce6f74ab11ae8fd3d49b499c72f131fce1cf4bf9ed961f699d0e8ca6a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_31_duplicate",
@@ -848,7 +972,9 @@
    "palette_sha256": "c85a8fbe9e4be9752a5e0001058b4d87e6cdf4111e305d4af3edddb39afd3cdb",
    "accepted_title_sha256": [
     "13655f3ce6f74ab11ae8fd3d49b499c72f131fce1cf4bf9ed961f699d0e8ca6a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_32_main",
@@ -861,7 +987,9 @@
    "palette_sha256": "5bfabea10aef5826da4d0ad878da6cf000ad809303d923d28167ac3521495b73",
    "accepted_title_sha256": [
     "212cf70592f00a3d7e718fb4ea5c909346229b87eb896f4fdaea89df5e0f3491"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_32_duplicate",
@@ -874,7 +1002,9 @@
    "palette_sha256": "5bfabea10aef5826da4d0ad878da6cf000ad809303d923d28167ac3521495b73",
    "accepted_title_sha256": [
     "212cf70592f00a3d7e718fb4ea5c909346229b87eb896f4fdaea89df5e0f3491"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_33_main",
@@ -887,7 +1017,9 @@
    "palette_sha256": "885d2ec01153de96de3af369660002628ca23934a26d722dd16abfe693ac8ee2",
    "accepted_title_sha256": [
     "dbc69615565015ce769230233f809ad74db9302bd6d5ac14ac0659b599a98b57"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_33_duplicate",
@@ -900,7 +1032,9 @@
    "palette_sha256": "885d2ec01153de96de3af369660002628ca23934a26d722dd16abfe693ac8ee2",
    "accepted_title_sha256": [
     "dbc69615565015ce769230233f809ad74db9302bd6d5ac14ac0659b599a98b57"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_34_main",
@@ -913,7 +1047,9 @@
    "palette_sha256": "775ca512ef791b34b2542b7582f10e5e08747f02f2f265e3d935a1c04fd98041",
    "accepted_title_sha256": [
     "bbb537b3a9613686ae8a38bd9a564ffd84dba0fc1007da2d8542b4ff5f06c838"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_34_duplicate",
@@ -926,7 +1062,9 @@
    "palette_sha256": "775ca512ef791b34b2542b7582f10e5e08747f02f2f265e3d935a1c04fd98041",
    "accepted_title_sha256": [
     "bbb537b3a9613686ae8a38bd9a564ffd84dba0fc1007da2d8542b4ff5f06c838"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_35_main",
@@ -934,12 +1072,14 @@
    "scenario_record": 35,
    "jp": "Ｂｒｅａｋ　ｔｈｒｏｕｇｈ　ｔｈｅ　Ｆａｌｃｏｎ",
    "en": "Break through the Falcon",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 30882944,
    "palette_sha256": "00e96cfcf975a625dd50a69d7c93fd0fb4aa744301447ca8bb7c3b9e72a9924c",
    "accepted_title_sha256": [
     "cbe247163b817e9a2fc08b81e323f7e1745d23873cae3298b12a5b140026a878"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_35_duplicate",
@@ -947,12 +1087,14 @@
    "scenario_record": 35,
    "jp": "Ｂｒｅａｋ　ｔｈｒｏｕｇｈ　ｔｈｅ　Ｆａｌｃｏｎ",
    "en": "Break through the Falcon",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 31082624,
    "palette_sha256": "00e96cfcf975a625dd50a69d7c93fd0fb4aa744301447ca8bb7c3b9e72a9924c",
    "accepted_title_sha256": [
     "cbe247163b817e9a2fc08b81e323f7e1745d23873cae3298b12a5b140026a878"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_36_main",
@@ -965,7 +1107,9 @@
    "palette_sha256": "e3921a7a87926f5f47af0582df3acbbbd62bc96a2f6887a7c561c62ad6fdf0b4",
    "accepted_title_sha256": [
     "b1ceb8023c79d1c9c7527c846ddd553e02395b376309a2ffe5e5b1862894eb5c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_36_duplicate",
@@ -978,7 +1122,9 @@
    "palette_sha256": "e3921a7a87926f5f47af0582df3acbbbd62bc96a2f6887a7c561c62ad6fdf0b4",
    "accepted_title_sha256": [
     "b1ceb8023c79d1c9c7527c846ddd553e02395b376309a2ffe5e5b1862894eb5c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_37_main",
@@ -986,12 +1132,14 @@
    "scenario_record": 37,
    "jp": "ＭＯＯＮＲＡＫＥＲ",
    "en": "MOONRAKER",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 31427712,
    "palette_sha256": "258ba064cff78912bf0e1a839d4003e80ee134ac907a6732251673c6b50adb4f",
    "accepted_title_sha256": [
     "34e6a409fafd85bddf861bf628c62b56250fccfd93e9022965d666ee570b41c4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_37_duplicate",
@@ -999,12 +1147,14 @@
    "scenario_record": 37,
    "jp": "ＭＯＯＮＲＡＫＥＲ",
    "en": "MOONRAKER",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 31627392,
    "palette_sha256": "258ba064cff78912bf0e1a839d4003e80ee134ac907a6732251673c6b50adb4f",
    "accepted_title_sha256": [
     "34e6a409fafd85bddf861bf628c62b56250fccfd93e9022965d666ee570b41c4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_38_main",
@@ -1017,7 +1167,9 @@
    "palette_sha256": "d1c413c2b003bfd4efbc39ab32927f2379ba5c58c824e71e312586afd4d1daed",
    "accepted_title_sha256": [
     "c098df643bf9444ae72bc8d79d2e1091ad360e8c6cd2ec238cfad875d4473784"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_38_duplicate",
@@ -1030,7 +1182,9 @@
    "palette_sha256": "d1c413c2b003bfd4efbc39ab32927f2379ba5c58c824e71e312586afd4d1daed",
    "accepted_title_sha256": [
     "c098df643bf9444ae72bc8d79d2e1091ad360e8c6cd2ec238cfad875d4473784"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_39_main",
@@ -1043,7 +1197,9 @@
    "palette_sha256": "2fa1a5f4f4a9401d70d81746333ce13c52872e6fd07bccfaf02484258030e1fc",
    "accepted_title_sha256": [
     "175163d0ed47e2938e7b35c74b7465560804a079ebf0c0c67b533df38acf8ca1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_39_duplicate",
@@ -1056,7 +1212,9 @@
    "palette_sha256": "2fa1a5f4f4a9401d70d81746333ce13c52872e6fd07bccfaf02484258030e1fc",
    "accepted_title_sha256": [
     "175163d0ed47e2938e7b35c74b7465560804a079ebf0c0c67b533df38acf8ca1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_40_main",
@@ -1069,7 +1227,9 @@
    "palette_sha256": "8a565a7f9f9d14d63f5f3a4384cee2ec5c302d49d594e3de1ab0597a018ff802",
    "accepted_title_sha256": [
     "8ad2a8e365cc6ea0086e43b93bcd93fab8688fa5166cbb5e3923688d8185079d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_40_duplicate",
@@ -1082,7 +1242,9 @@
    "palette_sha256": "8a565a7f9f9d14d63f5f3a4384cee2ec5c302d49d594e3de1ab0597a018ff802",
    "accepted_title_sha256": [
     "8ad2a8e365cc6ea0086e43b93bcd93fab8688fa5166cbb5e3923688d8185079d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_41_main",
@@ -1095,7 +1257,9 @@
    "palette_sha256": "689d62d4d1f8c5ee7ffaeb699c50db313861f7fe266fee899728969cd5af2ed4",
    "accepted_title_sha256": [
     "7e4daa1138ff256844a8e762a3ed936ddd40b890676ed77a1bb3db75bba2f4c2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_41_duplicate",
@@ -1108,7 +1272,9 @@
    "palette_sha256": "689d62d4d1f8c5ee7ffaeb699c50db313861f7fe266fee899728969cd5af2ed4",
    "accepted_title_sha256": [
     "7e4daa1138ff256844a8e762a3ed936ddd40b890676ed77a1bb3db75bba2f4c2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_42_main",
@@ -1121,7 +1287,9 @@
    "palette_sha256": "924915249c22206c16f4eb60651dc4129e16192b11b810ec19a902121c796798",
    "accepted_title_sha256": [
     "fa2914204b49782d3c4027729be976fafaa101dc0fc65c85b6e77db5a28e82ee"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_42_duplicate",
@@ -1134,7 +1302,9 @@
    "palette_sha256": "924915249c22206c16f4eb60651dc4129e16192b11b810ec19a902121c796798",
    "accepted_title_sha256": [
     "fa2914204b49782d3c4027729be976fafaa101dc0fc65c85b6e77db5a28e82ee"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_43_main",
@@ -1147,7 +1317,9 @@
    "palette_sha256": "ae09d7791d27ccbdd120778ad149b3889875282184daf4b260115e74ac99ecfe",
    "accepted_title_sha256": [
     "623b5ec603ca924cf94ff5dd77ec19088c8a61aa1c39178b5d116b78228cb247"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_43_duplicate",
@@ -1160,7 +1332,9 @@
    "palette_sha256": "ae09d7791d27ccbdd120778ad149b3889875282184daf4b260115e74ac99ecfe",
    "accepted_title_sha256": [
     "623b5ec603ca924cf94ff5dd77ec19088c8a61aa1c39178b5d116b78228cb247"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_44_main",
@@ -1173,7 +1347,9 @@
    "palette_sha256": "6a56c1f4c56e298ed649f540b974bbe7843afaad48e8324f17c41ee3dc160895",
    "accepted_title_sha256": [
     "fb5e27571793ab55780b1176ef6d6c3cd839dec9ee167d227171c730b0446782"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_44_duplicate",
@@ -1186,7 +1362,9 @@
    "palette_sha256": "6a56c1f4c56e298ed649f540b974bbe7843afaad48e8324f17c41ee3dc160895",
    "accepted_title_sha256": [
     "fb5e27571793ab55780b1176ef6d6c3cd839dec9ee167d227171c730b0446782"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_45_main",
@@ -1194,12 +1372,14 @@
    "scenario_record": 45,
    "jp": "Ｈｅｍｉｓｐｈｅｒｅ",
    "en": "Hemisphere",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 33606784,
    "palette_sha256": "37388012027e78e108539f1d763fae368a9c6acbea5baf8337ff4a0a8e394073",
    "accepted_title_sha256": [
     "d4f681d378e7572873999652ab1f1fee59ee86ecfb8049070a6daf8ef24fa7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_45_duplicate",
@@ -1207,12 +1387,14 @@
    "scenario_record": 45,
    "jp": "Ｈｅｍｉｓｐｈｅｒｅ",
    "en": "Hemisphere",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 33806464,
    "palette_sha256": "37388012027e78e108539f1d763fae368a9c6acbea5baf8337ff4a0a8e394073",
    "accepted_title_sha256": [
     "d4f681d378e7572873999652ab1f1fee59ee86ecfb8049070a6daf8ef24fa7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_46_main",
@@ -1225,7 +1407,9 @@
    "palette_sha256": "9702beef5bbe30b2fe126a587c8d6e9c9a92505c1aeb7b5d7dae9732798cfa60",
    "accepted_title_sha256": [
     "76ab81d1a3dcdf6fe64f3d0308ff5aa96625550d775e73196c73c3533554e5a7"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_46_duplicate",
@@ -1238,7 +1422,9 @@
    "palette_sha256": "9702beef5bbe30b2fe126a587c8d6e9c9a92505c1aeb7b5d7dae9732798cfa60",
    "accepted_title_sha256": [
     "76ab81d1a3dcdf6fe64f3d0308ff5aa96625550d775e73196c73c3533554e5a7"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_47_main",
@@ -1251,7 +1437,9 @@
    "palette_sha256": "a713977d14170513e644639512f64d586c4c8bb029d436e59a750103fb20bc2c",
    "accepted_title_sha256": [
     "9dc5c5d24ee7664899db39030ff55132cadb05d1c70f01182790689be7a4072c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_47_duplicate",
@@ -1264,7 +1452,9 @@
    "palette_sha256": "a713977d14170513e644639512f64d586c4c8bb029d436e59a750103fb20bc2c",
    "accepted_title_sha256": [
     "9dc5c5d24ee7664899db39030ff55132cadb05d1c70f01182790689be7a4072c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_48_main",
@@ -1277,7 +1467,9 @@
    "palette_sha256": "d7e9d7d2fac12bc6638e80dfab573510cb1d89043913b22d275ae3500bda4a66",
    "accepted_title_sha256": [
     "10ea399f4a7701c606b13e39e2164dfc1c1121dff04de12e28dabac9b3b0f350"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_48_duplicate",
@@ -1290,7 +1482,9 @@
    "palette_sha256": "d7e9d7d2fac12bc6638e80dfab573510cb1d89043913b22d275ae3500bda4a66",
    "accepted_title_sha256": [
     "10ea399f4a7701c606b13e39e2164dfc1c1121dff04de12e28dabac9b3b0f350"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_49_main",
@@ -1303,7 +1497,9 @@
    "palette_sha256": "55a663fe69e1807b9ae8f3ecf4dd9bdc41f23cb67f01f575e413d1aebcd27724",
    "accepted_title_sha256": [
     "84fb02dcfafdcc8c1a459ab41f2f3d4de8ca535931fa5d04acfc7bccb0e261ba"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_49_duplicate",
@@ -1316,7 +1512,9 @@
    "palette_sha256": "55a663fe69e1807b9ae8f3ecf4dd9bdc41f23cb67f01f575e413d1aebcd27724",
    "accepted_title_sha256": [
     "84fb02dcfafdcc8c1a459ab41f2f3d4de8ca535931fa5d04acfc7bccb0e261ba"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_50_main",
@@ -1324,12 +1522,14 @@
    "scenario_record": 50,
    "jp": "Ｂｙｅ－ｂｙｅ　Ｊｕｐｉｔｅｒ",
    "en": "Bye-bye Jupiter",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 34968704,
    "palette_sha256": "0c303d27d6c0b0c74702b3973fcf5975015d1d22c3e865c89561050fa1e53066",
    "accepted_title_sha256": [
     "34e22e8a91cc35dd80280f434eb9de30055adfc6e01ca15d11ddb81f2d8c2313"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_50_duplicate",
@@ -1337,12 +1537,14 @@
    "scenario_record": 50,
    "jp": "Ｂｙｅ－ｂｙｅ　Ｊｕｐｉｔｅｒ",
    "en": "Bye-bye Jupiter",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 35168384,
    "palette_sha256": "0c303d27d6c0b0c74702b3973fcf5975015d1d22c3e865c89561050fa1e53066",
    "accepted_title_sha256": [
     "34e22e8a91cc35dd80280f434eb9de30055adfc6e01ca15d11ddb81f2d8c2313"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_51_main",
@@ -1355,7 +1557,9 @@
    "palette_sha256": "6d1ccf158edc5e8c5ea23ebb8144ff1663dc2b222d606afd10d88919d825c0a9",
    "accepted_title_sha256": [
     "c75aa5086b87cafb965e50625bfe19695741053599073834832ac11262b2a608"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_51_duplicate",
@@ -1368,7 +1572,9 @@
    "palette_sha256": "6d1ccf158edc5e8c5ea23ebb8144ff1663dc2b222d606afd10d88919d825c0a9",
    "accepted_title_sha256": [
     "c75aa5086b87cafb965e50625bfe19695741053599073834832ac11262b2a608"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_52_main",
@@ -1381,7 +1587,9 @@
    "palette_sha256": "3520633bbc5bcd823aa2b6dfab57a2b1f8e8c5eda31716405fa6f4421bab24bd",
    "accepted_title_sha256": [
     "df8c7a23591868fd964491690ec044f66b2c368c01634ad188d6739f2285f509"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_52_duplicate",
@@ -1394,7 +1602,9 @@
    "palette_sha256": "3520633bbc5bcd823aa2b6dfab57a2b1f8e8c5eda31716405fa6f4421bab24bd",
    "accepted_title_sha256": [
     "df8c7a23591868fd964491690ec044f66b2c368c01634ad188d6739f2285f509"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_53_main",
@@ -1402,12 +1612,14 @@
    "scenario_record": 53,
    "jp": "Ｚｅｒｏ　ｏｒ　Ｉｎｆｉｎｉｔｙ？",
    "en": "Zero or Infinity?",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 35785856,
    "palette_sha256": "6b180b9c2ca1d299cb3379811fedbb7cd9ab686b227c186b94366743e46ed149",
    "accepted_title_sha256": [
     "f48e3798503f42113009ec7a6f20beb543e33423e4c8596cd7430d3673499aea"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_53_duplicate",
@@ -1415,12 +1627,14 @@
    "scenario_record": 53,
    "jp": "Ｚｅｒｏ　ｏｒ　Ｉｎｆｉｎｉｔｙ？",
    "en": "Zero or Infinity?",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 35985536,
    "palette_sha256": "6b180b9c2ca1d299cb3379811fedbb7cd9ab686b227c186b94366743e46ed149",
    "accepted_title_sha256": [
     "f48e3798503f42113009ec7a6f20beb543e33423e4c8596cd7430d3673499aea"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_54_main",
@@ -1433,7 +1647,9 @@
    "palette_sha256": "9a47068338ad251c6c9ceecf55b9b43fa21931d7eb9bd11d4c58fe27202be67e",
    "accepted_title_sha256": [
     "82ad7a0d9e7bf261846b923009ebec166408adfd3c376271f38c04b4a51b7cd0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_54_duplicate",
@@ -1446,7 +1662,9 @@
    "palette_sha256": "9a47068338ad251c6c9ceecf55b9b43fa21931d7eb9bd11d4c58fe27202be67e",
    "accepted_title_sha256": [
     "82ad7a0d9e7bf261846b923009ebec166408adfd3c376271f38c04b4a51b7cd0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_55_main",
@@ -1454,12 +1672,14 @@
    "scenario_record": 55,
    "jp": "Ｄｅａｒｅｓｔ",
    "en": "Dearest",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 36330624,
    "palette_sha256": "355f566dcdd834643345fe61443897c2059c7c7a879ef308c9ba8448a4fc927e",
    "accepted_title_sha256": [
     "18aedf81e81013e9bf8285453d2e7f02fb3f31db53899e234b374354cbe09cec"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_55_duplicate",
@@ -1467,12 +1687,14 @@
    "scenario_record": 55,
    "jp": "Ｄｅａｒｅｓｔ",
    "en": "Dearest",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 36530304,
    "palette_sha256": "355f566dcdd834643345fe61443897c2059c7c7a879ef308c9ba8448a4fc927e",
    "accepted_title_sha256": [
     "18aedf81e81013e9bf8285453d2e7f02fb3f31db53899e234b374354cbe09cec"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_56_main",
@@ -1480,12 +1702,14 @@
    "scenario_record": 56,
    "jp": "Ｓｔａｒｌｉｇｈｔ　ｓｅｒｅｎａｄｅ",
    "en": "Starlight serenade",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 36603008,
    "palette_sha256": "349dc9f21cfbfd5d8121d7207ffd46a32815a535d94facfc4a2ffbb2268c57a4",
    "accepted_title_sha256": [
     "eb1f6e9c2f9a4044234723f85fb48aff57ac815b041aa31a908d999da55fad49"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_56_duplicate",
@@ -1493,12 +1717,14 @@
    "scenario_record": 56,
    "jp": "Ｓｔａｒｌｉｇｈｔ　ｓｅｒｅｎａｄｅ",
    "en": "Starlight serenade",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 36802688,
    "palette_sha256": "349dc9f21cfbfd5d8121d7207ffd46a32815a535d94facfc4a2ffbb2268c57a4",
    "accepted_title_sha256": [
     "eb1f6e9c2f9a4044234723f85fb48aff57ac815b041aa31a908d999da55fad49"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_57_main",
@@ -1511,7 +1737,9 @@
    "palette_sha256": "19b85cfc324d5bc386e988f21e8bf6f1be468a67d3eb3b2eb4f2210536785175",
    "accepted_title_sha256": [
     "5d97faad1d62e727cb715bed29989e20de5aa00c173b738a4bf7a6f59e07baff"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_57_duplicate",
@@ -1524,7 +1752,9 @@
    "palette_sha256": "19b85cfc324d5bc386e988f21e8bf6f1be468a67d3eb3b2eb4f2210536785175",
    "accepted_title_sha256": [
     "5d97faad1d62e727cb715bed29989e20de5aa00c173b738a4bf7a6f59e07baff"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_58_main",
@@ -1537,7 +1767,9 @@
    "palette_sha256": "ec79335df8d24cc0991663a3ea0f1627c9b6b498aa6edafacd140c5c4b527729",
    "accepted_title_sha256": [
     "2b3955ab554e625826288e2261755c78d8d7f1650e6b567d663cb64e17c57325"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_58_duplicate",
@@ -1550,7 +1782,9 @@
    "palette_sha256": "ec79335df8d24cc0991663a3ea0f1627c9b6b498aa6edafacd140c5c4b527729",
    "accepted_title_sha256": [
     "2b3955ab554e625826288e2261755c78d8d7f1650e6b567d663cb64e17c57325"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_59_main",
@@ -1563,7 +1797,9 @@
    "palette_sha256": "2259a9e7e5da1c47bf1d7ba29360d3e36110be79252f149e2dc4634f2b32294e",
    "accepted_title_sha256": [
     "2ce60bae9449576e24d3c5249e735e5b20c8a3eedc2aeac19c96d3ff1daefcde"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_59_duplicate",
@@ -1576,7 +1812,9 @@
    "palette_sha256": "2259a9e7e5da1c47bf1d7ba29360d3e36110be79252f149e2dc4634f2b32294e",
    "accepted_title_sha256": [
     "2ce60bae9449576e24d3c5249e735e5b20c8a3eedc2aeac19c96d3ff1daefcde"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_60_main",
@@ -1589,7 +1827,9 @@
    "palette_sha256": "cb3ba4e743900274d8cdb318f6e30dbff035436dbb593cf7148cd8d19a811ab3",
    "accepted_title_sha256": [
     "14da81b8fc4fd40b688ead704e26c26cebe3195fb1fce8611906cb97f7aa6560"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_60_duplicate",
@@ -1602,7 +1842,9 @@
    "palette_sha256": "cb3ba4e743900274d8cdb318f6e30dbff035436dbb593cf7148cd8d19a811ab3",
    "accepted_title_sha256": [
     "14da81b8fc4fd40b688ead704e26c26cebe3195fb1fce8611906cb97f7aa6560"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_61_main",
@@ -1615,7 +1857,9 @@
    "palette_sha256": "f7d42ff0c1848035fb2b5e9c1ec1493a2705fefde887aacdce2484bbe881eb0b",
    "accepted_title_sha256": [
     "6d6e6cd0b5c8d83bf4aaabe8009be9ff9d995372f66ed4d17f912b285f89bd39"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_61_duplicate",
@@ -1628,7 +1872,9 @@
    "palette_sha256": "f7d42ff0c1848035fb2b5e9c1ec1493a2705fefde887aacdce2484bbe881eb0b",
    "accepted_title_sha256": [
     "6d6e6cd0b5c8d83bf4aaabe8009be9ff9d995372f66ed4d17f912b285f89bd39"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_62_main",
@@ -1636,12 +1882,14 @@
    "scenario_record": 62,
    "jp": "Ｗ－Ｉｎｆｉｎｉｔｙ",
    "en": "W-Infinity",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 38237312,
    "palette_sha256": "2a58192e3481cca0bfea8a1f89a54989d73cbbea84ca23aeb26e879def717341",
    "accepted_title_sha256": [
     "da26007d7cb8ce8a4ed2624cbc1b2b363a6ae42bca0683220a553dee39841353"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_62_duplicate",
@@ -1649,12 +1897,14 @@
    "scenario_record": 62,
    "jp": "Ｗ－Ｉｎｆｉｎｉｔｙ",
    "en": "W-Infinity",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 38436992,
    "palette_sha256": "2a58192e3481cca0bfea8a1f89a54989d73cbbea84ca23aeb26e879def717341",
    "accepted_title_sha256": [
     "da26007d7cb8ce8a4ed2624cbc1b2b363a6ae42bca0683220a553dee39841353"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_63_main",
@@ -1667,7 +1917,9 @@
    "palette_sha256": "ec0a71b3bbc06901a3e49d82e733f2070ec892e9c83558ec58c26c5bcc4e0e26",
    "accepted_title_sha256": [
     "ba7d4c55ef18d5cea95efab60082b8c8dbdc346862ecb332bf365a08fe88d7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_63_duplicate",
@@ -1680,7 +1932,9 @@
    "palette_sha256": "ec0a71b3bbc06901a3e49d82e733f2070ec892e9c83558ec58c26c5bcc4e0e26",
    "accepted_title_sha256": [
     "ba7d4c55ef18d5cea95efab60082b8c8dbdc346862ecb332bf365a08fe88d7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_64_main",
@@ -1693,7 +1947,9 @@
    "palette_sha256": "917db6745b7373875d0e641a0310be55cce6034c3fe0800336b0fb66f16a17a7",
    "accepted_title_sha256": [
     "02e8dbbc5931e28670dbf1b806dc4869d0d23a49b276fc37e3c7fa370c04c1f1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_64_duplicate",
@@ -1706,7 +1962,9 @@
    "palette_sha256": "917db6745b7373875d0e641a0310be55cce6034c3fe0800336b0fb66f16a17a7",
    "accepted_title_sha256": [
     "02e8dbbc5931e28670dbf1b806dc4869d0d23a49b276fc37e3c7fa370c04c1f1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_65_main",
@@ -1719,7 +1977,9 @@
    "palette_sha256": "214adc0ff694765bd28f53344276b2b26f8f096bb0e14b4508576debd35b9b7e",
    "accepted_title_sha256": [
     "2690fcc11b16425639b41ca8ac9b6406165510f7a6dbf248cb00d35c07288feb"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_65_duplicate",
@@ -1732,7 +1992,9 @@
    "palette_sha256": "214adc0ff694765bd28f53344276b2b26f8f096bb0e14b4508576debd35b9b7e",
    "accepted_title_sha256": [
     "2690fcc11b16425639b41ca8ac9b6406165510f7a6dbf248cb00d35c07288feb"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_66_main",
@@ -1745,7 +2007,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_66_duplicate",
@@ -1758,7 +2022,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_67_main",
@@ -1771,7 +2037,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_67_duplicate",
@@ -1784,7 +2052,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_68_main",
@@ -1797,7 +2067,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "709f38f05d7fb3649b792b3264cfd6a936169217ea7f205ec2fac19e3828ee03"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_68_duplicate",
@@ -1810,7 +2082,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "709f38f05d7fb3649b792b3264cfd6a936169217ea7f205ec2fac19e3828ee03"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_00_gallery",
@@ -1823,7 +2097,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_01_gallery",
@@ -1836,7 +2112,9 @@
    "palette_sha256": "c2ea6292fcc3cfa18849a55f300fd79abeb7edfaa2fc820dbf66269110d09f6d",
    "accepted_title_sha256": [
     "c3682aaad2e8c5c1af66b6cd645de41f42418a80a698322cc7a9900e047b610d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_02_gallery",
@@ -1844,12 +2122,14 @@
    "scenario_record": 1,
    "jp": "Ｄ　ａｎｄ　Ｅ",
    "en": "D and E",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 40274944,
    "palette_sha256": "8ecb1416f923cbfa50286edef1ff742fe2637139c5c523182c66b087f89fba84",
    "accepted_title_sha256": [
     "2c8cd97d62e08dc6e8d7bfb4edf1231d631146e0e4931cfe7c1e79db7894dcbc"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_03_gallery",
@@ -1862,7 +2142,9 @@
    "palette_sha256": "a202e3cbcd801e6832fd48d9380d8b2e3a600aebdb19143d79049bee00516361",
    "accepted_title_sha256": [
     "f0a2810dc99f3def85a1bfddfaf57b56b890d7dc661f5f340405e203871a607e"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_04_gallery",
@@ -1875,7 +2157,9 @@
    "palette_sha256": "d8acb89c09d41d2f2d65a0df93f3a5723e9b1715468c1cad1a5cd26f71370d27",
    "accepted_title_sha256": [
     "c68e14c72028334cf500ddebdf1955e632a0e637b15cf0df35f3b2ee3543825f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_05_gallery",
@@ -1888,7 +2172,9 @@
    "palette_sha256": "61806235e2310a0b5083012e00384b19a27c954226043e29bc45bcc848d2c884",
    "accepted_title_sha256": [
     "73e2e6b47e9acb4f7d6668dc108ad18b5b6116b3bef27813c4ac6725997db220"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_06_gallery",
@@ -1901,7 +2187,9 @@
    "palette_sha256": "4f6c7fa132f26f6cc9aa74341f36fd4c81babe1b020a306b981fa5b9878570bd",
    "accepted_title_sha256": [
     "de8e6a7733b538f8aebe9bda7ab4bf321c2257f645ac68b91801df3ec1245ad4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_07_gallery",
@@ -1914,7 +2202,9 @@
    "palette_sha256": "52f1f1d343f8d9e24ab76497064f4525ea55703d857350c5f8a4443371c3e719",
    "accepted_title_sha256": [
     "132f50c3fbfb82210e42c221059be902c0febaecbe39930e34f30b75d79484f8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_08_gallery",
@@ -1927,7 +2217,9 @@
    "palette_sha256": "df68ed87249728776340bb43260e3fb9e20c8902dbb677596e7914bf39b9bd29",
    "accepted_title_sha256": [
     "2091dfd48f2b978632c1af81e6c7a237704a978867f05e90d078683b7fd7c624"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_09_gallery",
@@ -1940,7 +2232,9 @@
    "palette_sha256": "3f8771b4f952c6e92f8b86bc878ae3a17ee3c3686e68b05f8386afb05c438e32",
    "accepted_title_sha256": [
     "ef02de1aa04c3b7dabbf319c3d9beafc9576ac200e36ae17b3d8a92f4fecb50f"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_10_gallery",
@@ -1948,12 +2242,14 @@
    "scenario_record": 9,
    "jp": "ＣＯＮＦＬＩＣＴ",
    "en": "CONFLICT",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 40815616,
    "palette_sha256": "e520038b74499154da6db0b08a87c5bd2b23940d4a4c4cea6e4a2362f12754f5",
    "accepted_title_sha256": [
     "5ee9d1019c78e4ef59b35611c34a4691af1085b839e212716f6468930f36c7a2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_11_gallery",
@@ -1966,7 +2262,9 @@
    "palette_sha256": "40a9c057fa5c9d424e3c652d792a693ad7a4ca3ce9ebcb9371765242d4af1eb7",
    "accepted_title_sha256": [
     "67db11a8b3ad8b5987500e7685f588b28500dd05cada9a7a3563ce699f33fbb0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_12_gallery",
@@ -1979,7 +2277,9 @@
    "palette_sha256": "d1994aa024508ca577e8a324ee7cc8fc28f29f23841a8a2c2a6da6ffb564fea9",
    "accepted_title_sha256": [
     "80e4df93439ac09f77794ece83111907feaf4cd30597c447ce863606a43ab175"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_13_gallery",
@@ -1993,7 +2293,8 @@
    "accepted_title_sha256": [
     "64a80a00bd1c50b7b575ccb672e2bc0d52a1ec294e5ba1b259dc588f9d5e8a4d"
    ],
-   "layout_note": "PSP 0.4.13: redraw native mixed-size English artwork with uniform centered lettering."
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork.",
+   "lettering_policy": "uniform"
   },
   {
    "id": "card_14_gallery",
@@ -2006,7 +2307,9 @@
    "palette_sha256": "57fae4641464ced4a4dd02094a049c3c79b31ffd8da84c0b25f7ecde26356c1c",
    "accepted_title_sha256": [
     "24d242b20fe17df85558ef97f0a26b1421ccbd10d75ed98612872a2217d768f6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_15_gallery",
@@ -2019,7 +2322,9 @@
    "palette_sha256": "c2e67f4646a6fe75bed40112c5a2d5621baa228eb7944f4ec4b1c286b3fa80e0",
    "accepted_title_sha256": [
     "75e22cbd8d05f2ec2af58f7b79deaab987ed1eaa1c7b6ae68e10c0431a11d004"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_16_gallery",
@@ -2032,7 +2337,9 @@
    "palette_sha256": "51d8fa5abbc1ee528f8a139cb7d37c388a73b4697f8e1d32bf91295e083b7c98",
    "accepted_title_sha256": [
     "34715f33f943a6aee80988fe2e0059156493debf0679e0c5f54de3ca695e66b3"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_17_gallery",
@@ -2045,7 +2352,9 @@
    "palette_sha256": "6079bf2133ace319896de609c5dc80fe61d71a8d9423c8736b642770af94cc6f",
    "accepted_title_sha256": [
     "f63a82c14accecef45ee96d68f46ba73d4e0770480ac0f25bc493c3ee50ff29c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_18_gallery",
@@ -2059,7 +2368,9 @@
    "accepted_title_sha256": [
     "6ac61e91cc470e891848bb992b6893346a94a1d25b72a356167408e0b4b18321"
    ],
-   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21)."
+   "redraw_reason": "User requested uniform readable Chapter 16 lettering (0.4.21).",
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_19_gallery",
@@ -2072,7 +2383,9 @@
    "palette_sha256": "137e333b2dde8c4f36f1813136e17f9aae8f92088160453b3ae003f24a3eb458",
    "accepted_title_sha256": [
     "a0d9813077d1a3c253e7c890ec7f316c641a1e67338d51a9375a116c04e97bcd"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_20_gallery",
@@ -2085,7 +2398,9 @@
    "palette_sha256": "5982d469927e7dc13f6d12db068f10d4c82b247cfdcb36b70f868abe07aa740c",
    "accepted_title_sha256": [
     "b4536a091f1991bfe9e0ba5b7e84fd380a49cbc4a4f457d5367c4693757c650a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_21_gallery",
@@ -2098,7 +2413,9 @@
    "palette_sha256": "cfbb795dc2982f85887a6c391a1f72610d5beffa6e1e62df838c9a93f3cd632f",
    "accepted_title_sha256": [
     "607b358bf6d3ee05fec45c2d0f9afc0c78a800179b2591e6f9f29556e639fa70"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_22_gallery",
@@ -2106,12 +2423,14 @@
    "scenario_record": 21,
    "jp": "Ｂｒｉｇｈｔ　ｙｏｕ　ｎｏｗ",
    "en": "Bright you now",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 41626624,
    "palette_sha256": "1df9e9e76b030d881b1ea59ac2d40ffd22791117df3f4b5ecee3a96761de96d5",
    "accepted_title_sha256": [
     "3cfc54405875c747b578b4676af17c5b62ca6fdbdc2a0a6d1d971bda543fb7c0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_23_gallery",
@@ -2124,7 +2443,9 @@
    "palette_sha256": "38caf639baff51c9e778da2026341050d21235730a0a890c33b71e59193e46f4",
    "accepted_title_sha256": [
     "52430b4c673aec5c49c7f5c6e390be186e8c0aac3bddf20fe6e31d3397683ee6"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_24_gallery",
@@ -2132,12 +2453,14 @@
    "scenario_record": 23,
    "jp": "Ｂｕｒｎｉｎｇ　ｈｅａｒｔ，Ｆｌｙｉｎｇ　ｈｉｇｈ",
    "en": "Burning heart, Flying high",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 41761792,
    "palette_sha256": "4c696e30920d322440caea7f474de285bc655c0c43ede752c9c28462bcceea62",
    "accepted_title_sha256": [
     "5e9991e7be01624c89a4033315f1612b29ab8ebea641955faff2cbdd6a000518"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_25_gallery",
@@ -2150,20 +2473,24 @@
    "palette_sha256": "88bd6880c78478754694d7f5dd144ac09680d9d5bc0fa631941c02aeca4687b1",
    "accepted_title_sha256": [
     "5f20987d863d8b2731161e3c65bf95c34c664f1b5d24bda6981d82289fa29db0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_26_gallery",
    "asset_index": 26,
    "scenario_record": 25,
    "jp": "Ｓｔｒａｎｇｅ　ｂａｉｔ",
-   "en": "Strange bait",
-   "needs_translation": false,
+   "en": "Strange Bait",
+   "needs_translation": true,
    "pixel_offset": 41896960,
    "palette_sha256": "4c3c3ab3f243df592c7ed2a94b50069bb48116f7ba2f2ee43dbdd729e94b7fba",
    "accepted_title_sha256": [
     "2f383781544e1800b38109bebca8aa59b00024dac69652658373f7826447cd68"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_27_gallery",
@@ -2176,7 +2503,9 @@
    "palette_sha256": "f98da54e672bfe711bf07238282a4320991cc77c883460ebbf26f29749266dbd",
    "accepted_title_sha256": [
     "c8d59f025f34bee146b336839dcde9802815029a55523574a10d6a1c46a6a525"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_28_gallery",
@@ -2189,7 +2518,9 @@
    "palette_sha256": "3b07fa34f6e85c378004d3ab565f97a5ea291097a3ce2ed13e8aab2929d2455e",
    "accepted_title_sha256": [
     "eb89fb7f71439eebdca0f92bc8258803823f80be5b83f251f7875581d26382ce"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_29_gallery",
@@ -2202,7 +2533,9 @@
    "palette_sha256": "c154b0ab17543009bba493df75f6bb19cc8d7f4d2af20159e9d1e05fad455e57",
    "accepted_title_sha256": [
     "38b89a4aff29251a95dfd8c37737c7c12fe03dad74a7137702d5f73a4e1ed93c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_30_gallery",
@@ -2215,7 +2548,9 @@
    "palette_sha256": "dd1c3b49847c129b71fd446d49001908ec37e25d1a8f752c45d9fd4a943f454f",
    "accepted_title_sha256": [
     "ca306edabe53c49dc1231c6a16fcfdecd9f57e52d3bead63b60f4054a39c17c8"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_31_gallery",
@@ -2228,7 +2563,9 @@
    "palette_sha256": "340746c831785fc6518644ef11d2e355e7b5ad0283f7ab8ce6a220f79bdfc46d",
    "accepted_title_sha256": [
     "a365008470ada50fb9820630d6656be84ebc6d5adc82af4968bb2a2cc302441d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_32_gallery",
@@ -2241,7 +2578,9 @@
    "palette_sha256": "c85a8fbe9e4be9752a5e0001058b4d87e6cdf4111e305d4af3edddb39afd3cdb",
    "accepted_title_sha256": [
     "13655f3ce6f74ab11ae8fd3d49b499c72f131fce1cf4bf9ed961f699d0e8ca6a"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_33_gallery",
@@ -2254,7 +2593,9 @@
    "palette_sha256": "5bfabea10aef5826da4d0ad878da6cf000ad809303d923d28167ac3521495b73",
    "accepted_title_sha256": [
     "212cf70592f00a3d7e718fb4ea5c909346229b87eb896f4fdaea89df5e0f3491"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_34_gallery",
@@ -2267,7 +2608,9 @@
    "palette_sha256": "885d2ec01153de96de3af369660002628ca23934a26d722dd16abfe693ac8ee2",
    "accepted_title_sha256": [
     "dbc69615565015ce769230233f809ad74db9302bd6d5ac14ac0659b599a98b57"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_35_gallery",
@@ -2280,7 +2623,9 @@
    "palette_sha256": "775ca512ef791b34b2542b7582f10e5e08747f02f2f265e3d935a1c04fd98041",
    "accepted_title_sha256": [
     "bbb537b3a9613686ae8a38bd9a564ffd84dba0fc1007da2d8542b4ff5f06c838"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_36_gallery",
@@ -2288,12 +2633,14 @@
    "scenario_record": 35,
    "jp": "Ｂｒｅａｋ　ｔｈｒｏｕｇｈ　ｔｈｅ　Ｆａｌｃｏｎ",
    "en": "Break through the Falcon",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 42572800,
    "palette_sha256": "00e96cfcf975a625dd50a69d7c93fd0fb4aa744301447ca8bb7c3b9e72a9924c",
    "accepted_title_sha256": [
     "cbe247163b817e9a2fc08b81e323f7e1745d23873cae3298b12a5b140026a878"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_37_gallery",
@@ -2306,7 +2653,9 @@
    "palette_sha256": "e3921a7a87926f5f47af0582df3acbbbd62bc96a2f6887a7c561c62ad6fdf0b4",
    "accepted_title_sha256": [
     "b1ceb8023c79d1c9c7527c846ddd553e02395b376309a2ffe5e5b1862894eb5c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_38_gallery",
@@ -2314,12 +2663,14 @@
    "scenario_record": 37,
    "jp": "ＭＯＯＮＲＡＫＥＲ",
    "en": "MOONRAKER",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 42707968,
    "palette_sha256": "258ba064cff78912bf0e1a839d4003e80ee134ac907a6732251673c6b50adb4f",
    "accepted_title_sha256": [
     "34e6a409fafd85bddf861bf628c62b56250fccfd93e9022965d666ee570b41c4"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_39_gallery",
@@ -2332,7 +2683,9 @@
    "palette_sha256": "d1c413c2b003bfd4efbc39ab32927f2379ba5c58c824e71e312586afd4d1daed",
    "accepted_title_sha256": [
     "c098df643bf9444ae72bc8d79d2e1091ad360e8c6cd2ec238cfad875d4473784"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_40_gallery",
@@ -2345,7 +2698,9 @@
    "palette_sha256": "2fa1a5f4f4a9401d70d81746333ce13c52872e6fd07bccfaf02484258030e1fc",
    "accepted_title_sha256": [
     "175163d0ed47e2938e7b35c74b7465560804a079ebf0c0c67b533df38acf8ca1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_41_gallery",
@@ -2358,7 +2713,9 @@
    "palette_sha256": "8a565a7f9f9d14d63f5f3a4384cee2ec5c302d49d594e3de1ab0597a018ff802",
    "accepted_title_sha256": [
     "8ad2a8e365cc6ea0086e43b93bcd93fab8688fa5166cbb5e3923688d8185079d"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_42_gallery",
@@ -2371,7 +2728,9 @@
    "palette_sha256": "689d62d4d1f8c5ee7ffaeb699c50db313861f7fe266fee899728969cd5af2ed4",
    "accepted_title_sha256": [
     "7e4daa1138ff256844a8e762a3ed936ddd40b890676ed77a1bb3db75bba2f4c2"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_43_gallery",
@@ -2384,7 +2743,9 @@
    "palette_sha256": "924915249c22206c16f4eb60651dc4129e16192b11b810ec19a902121c796798",
    "accepted_title_sha256": [
     "fa2914204b49782d3c4027729be976fafaa101dc0fc65c85b6e77db5a28e82ee"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_44_gallery",
@@ -2397,7 +2758,9 @@
    "palette_sha256": "ae09d7791d27ccbdd120778ad149b3889875282184daf4b260115e74ac99ecfe",
    "accepted_title_sha256": [
     "623b5ec603ca924cf94ff5dd77ec19088c8a61aa1c39178b5d116b78228cb247"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_45_gallery",
@@ -2410,7 +2773,9 @@
    "palette_sha256": "6a56c1f4c56e298ed649f540b974bbe7843afaad48e8324f17c41ee3dc160895",
    "accepted_title_sha256": [
     "fb5e27571793ab55780b1176ef6d6c3cd839dec9ee167d227171c730b0446782"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_46_gallery",
@@ -2418,12 +2783,14 @@
    "scenario_record": 45,
    "jp": "Ｈｅｍｉｓｐｈｅｒｅ",
    "en": "Hemisphere",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 43248640,
    "palette_sha256": "37388012027e78e108539f1d763fae368a9c6acbea5baf8337ff4a0a8e394073",
    "accepted_title_sha256": [
     "d4f681d378e7572873999652ab1f1fee59ee86ecfb8049070a6daf8ef24fa7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_47_gallery",
@@ -2436,7 +2803,9 @@
    "palette_sha256": "9702beef5bbe30b2fe126a587c8d6e9c9a92505c1aeb7b5d7dae9732798cfa60",
    "accepted_title_sha256": [
     "76ab81d1a3dcdf6fe64f3d0308ff5aa96625550d775e73196c73c3533554e5a7"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_48_gallery",
@@ -2449,7 +2818,9 @@
    "palette_sha256": "a713977d14170513e644639512f64d586c4c8bb029d436e59a750103fb20bc2c",
    "accepted_title_sha256": [
     "9dc5c5d24ee7664899db39030ff55132cadb05d1c70f01182790689be7a4072c"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_49_gallery",
@@ -2462,7 +2833,9 @@
    "palette_sha256": "d7e9d7d2fac12bc6638e80dfab573510cb1d89043913b22d275ae3500bda4a66",
    "accepted_title_sha256": [
     "10ea399f4a7701c606b13e39e2164dfc1c1121dff04de12e28dabac9b3b0f350"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_50_gallery",
@@ -2475,7 +2848,9 @@
    "palette_sha256": "55a663fe69e1807b9ae8f3ecf4dd9bdc41f23cb67f01f575e413d1aebcd27724",
    "accepted_title_sha256": [
     "84fb02dcfafdcc8c1a459ab41f2f3d4de8ca535931fa5d04acfc7bccb0e261ba"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_51_gallery",
@@ -2483,12 +2858,14 @@
    "scenario_record": 50,
    "jp": "Ｂｙｅ－ｂｙｅ　Ｊｕｐｉｔｅｒ",
    "en": "Bye-bye Jupiter",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 43586560,
    "palette_sha256": "0c303d27d6c0b0c74702b3973fcf5975015d1d22c3e865c89561050fa1e53066",
    "accepted_title_sha256": [
     "34e22e8a91cc35dd80280f434eb9de30055adfc6e01ca15d11ddb81f2d8c2313"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_52_gallery",
@@ -2501,7 +2878,9 @@
    "palette_sha256": "6d1ccf158edc5e8c5ea23ebb8144ff1663dc2b222d606afd10d88919d825c0a9",
    "accepted_title_sha256": [
     "c75aa5086b87cafb965e50625bfe19695741053599073834832ac11262b2a608"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_53_gallery",
@@ -2514,7 +2893,9 @@
    "palette_sha256": "3520633bbc5bcd823aa2b6dfab57a2b1f8e8c5eda31716405fa6f4421bab24bd",
    "accepted_title_sha256": [
     "df8c7a23591868fd964491690ec044f66b2c368c01634ad188d6739f2285f509"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_54_gallery",
@@ -2522,12 +2903,14 @@
    "scenario_record": 53,
    "jp": "Ｚｅｒｏ　ｏｒ　Ｉｎｆｉｎｉｔｙ？",
    "en": "Zero or Infinity?",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 43789312,
    "palette_sha256": "6b180b9c2ca1d299cb3379811fedbb7cd9ab686b227c186b94366743e46ed149",
    "accepted_title_sha256": [
     "f48e3798503f42113009ec7a6f20beb543e33423e4c8596cd7430d3673499aea"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_55_gallery",
@@ -2540,7 +2923,9 @@
    "palette_sha256": "9a47068338ad251c6c9ceecf55b9b43fa21931d7eb9bd11d4c58fe27202be67e",
    "accepted_title_sha256": [
     "82ad7a0d9e7bf261846b923009ebec166408adfd3c376271f38c04b4a51b7cd0"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_56_gallery",
@@ -2548,12 +2933,14 @@
    "scenario_record": 55,
    "jp": "Ｄｅａｒｅｓｔ",
    "en": "Dearest",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 43924480,
    "palette_sha256": "355f566dcdd834643345fe61443897c2059c7c7a879ef308c9ba8448a4fc927e",
    "accepted_title_sha256": [
     "18aedf81e81013e9bf8285453d2e7f02fb3f31db53899e234b374354cbe09cec"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_57_gallery",
@@ -2561,12 +2948,14 @@
    "scenario_record": 56,
    "jp": "Ｓｔａｒｌｉｇｈｔ　ｓｅｒｅｎａｄｅ",
    "en": "Starlight serenade",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 43992064,
    "palette_sha256": "349dc9f21cfbfd5d8121d7207ffd46a32815a535d94facfc4a2ffbb2268c57a4",
    "accepted_title_sha256": [
     "eb1f6e9c2f9a4044234723f85fb48aff57ac815b041aa31a908d999da55fad49"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_58_gallery",
@@ -2579,7 +2968,9 @@
    "palette_sha256": "19b85cfc324d5bc386e988f21e8bf6f1be468a67d3eb3b2eb4f2210536785175",
    "accepted_title_sha256": [
     "5d97faad1d62e727cb715bed29989e20de5aa00c173b738a4bf7a6f59e07baff"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_59_gallery",
@@ -2592,7 +2983,9 @@
    "palette_sha256": "ec79335df8d24cc0991663a3ea0f1627c9b6b498aa6edafacd140c5c4b527729",
    "accepted_title_sha256": [
     "2b3955ab554e625826288e2261755c78d8d7f1650e6b567d663cb64e17c57325"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_60_gallery",
@@ -2605,7 +2998,9 @@
    "palette_sha256": "2259a9e7e5da1c47bf1d7ba29360d3e36110be79252f149e2dc4634f2b32294e",
    "accepted_title_sha256": [
     "2ce60bae9449576e24d3c5249e735e5b20c8a3eedc2aeac19c96d3ff1daefcde"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_61_gallery",
@@ -2618,7 +3013,9 @@
    "palette_sha256": "cb3ba4e743900274d8cdb318f6e30dbff035436dbb593cf7148cd8d19a811ab3",
    "accepted_title_sha256": [
     "14da81b8fc4fd40b688ead704e26c26cebe3195fb1fce8611906cb97f7aa6560"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_62_gallery",
@@ -2631,7 +3028,9 @@
    "palette_sha256": "f7d42ff0c1848035fb2b5e9c1ec1493a2705fefde887aacdce2484bbe881eb0b",
    "accepted_title_sha256": [
     "6d6e6cd0b5c8d83bf4aaabe8009be9ff9d995372f66ed4d17f912b285f89bd39"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_63_gallery",
@@ -2639,12 +3038,14 @@
    "scenario_record": 62,
    "jp": "Ｗ－Ｉｎｆｉｎｉｔｙ",
    "en": "W-Infinity",
-   "needs_translation": false,
+   "needs_translation": true,
    "pixel_offset": 44397568,
    "palette_sha256": "2a58192e3481cca0bfea8a1f89a54989d73cbbea84ca23aeb26e879def717341",
    "accepted_title_sha256": [
     "da26007d7cb8ce8a4ed2624cbc1b2b363a6ae42bca0683220a553dee39841353"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_64_gallery",
@@ -2657,7 +3058,9 @@
    "palette_sha256": "ec0a71b3bbc06901a3e49d82e733f2070ec892e9c83558ec58c26c5bcc4e0e26",
    "accepted_title_sha256": [
     "ba7d4c55ef18d5cea95efab60082b8c8dbdc346862ecb332bf365a08fe88d7d5"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_65_gallery",
@@ -2670,7 +3073,9 @@
    "palette_sha256": "917db6745b7373875d0e641a0310be55cce6034c3fe0800336b0fb66f16a17a7",
    "accepted_title_sha256": [
     "02e8dbbc5931e28670dbf1b806dc4869d0d23a49b276fc37e3c7fa370c04c1f1"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   },
   {
    "id": "card_66_gallery",
@@ -2683,7 +3088,9 @@
    "palette_sha256": "214adc0ff694765bd28f53344276b2b26f8f096bb0e14b4508576debd35b9b7e",
    "accepted_title_sha256": [
     "2690fcc11b16425639b41ca8ac9b6406165510f7a6dbf248cb00d35c07288feb"
-   ]
+   ],
+   "lettering_policy": "uniform",
+   "layout_note": "0.4.30: redraw all chapter titles, including native English artwork."
   }
  ]
 }

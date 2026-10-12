@@ -11120,12 +11120,12 @@
    "kind": "dialogue",
    "speaker_jp": "塞臥",
    "speaker_en": "Saiga",
-   "en": "Heh... You hide revenge beneath your mask... And hatred colors your true face.",
+   "en": "Heh... A thirst for revenge behind that mask... And hatred written all over your face.",
    "translation_owner": {
     "source": "work/translation/en/script/stage19_campaign.json",
     "id": 527
    },
-   "notes": "Saiga taunts Ritsu about revenge/mask/hatred; restored you hide and hatred colors actions.",
+   "notes": "Saiga taunts Ritsu about revenge/mask/hatred; restored you hide and hatred colors actions. The original is a dramatic observation of revenge behind the mask and hatred on the uncovered face. Natural English imagery preserves the taunt without the awkward hide revenge and colors your true face.",
    "uncertain": []
   },
   {
@@ -11199,7 +11199,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 19,
-  "fingerprint": "db1fb9bb9abbee8326e0d793c74a8a45fef43a525831848bade9d20e9a4d4a33",
+  "fingerprint": "15427d81beea01aac412e9502eea12885fe5485c0a4951c528f90ca8006c1133",
   "reviewed_reused_ids": [
    7,
    32,
@@ -11359,7 +11359,7 @@
   "reviewed_reused_rows": 154,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 19 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
+  "note": "Coordinator read all532 fresh English rows and seven detailed reports; six actual Sol6.1Medium workers verified. All154 reused rows/every use reviewed, including143 identical generic defeat templates and11 special contexts with final neighbors. Seven fresh provenance/meaning flags reviewed against original Japanese. No compression, actual thought/plain fitting and exact runtime fields preserved. Koji this-time-for-sure paired echo corrected from worker4 source review with initial draft retained; agent meaning fixes precede sourced name pass, zero remaining name candidates. Battle event alternatives, hidden identities, synchronized attack roles, birth-order conflict, love confession, vague cloak/standing-alone imagery and source-short Heaven vow preserved without lore expansion. Full686 restores all uses and passes checks. Bright naval rank delta reviewed: exact original ranked-name sources verified against Akurasu Bright Noa profile and all corrected English measured with actual font. Captain replaces earlier incorrect Colonel in final only; source rows, uses, full drafts, all other content preserved. 2026-10-09: All Chapter 19 rows proofread against the original source in scene context, including all applicable routes and reused rows. 1 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 0.4.21 screenshot review: Bryst and Mu terminology; Bahbem attraction/decoy wording checked against Japanese. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only. 2026-10-12: Entry 681 screenshot follow-up; natural imagery/article. Source-only."
  },
  "full_checks": {
   "rows": 686,
