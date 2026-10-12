@@ -119,8 +119,8 @@ def verify(version=VERSION, base=None, added_units=(), added_pilots=()):
     report['native_campaign_save_field_round_trips']=save_round_trips
     if reflowed_text:report['reflowed_text_verified_separately']=list(reflowed_text)
     if (base/'library_refresh.json').exists():
-        refresh=json.loads((base/'library_refresh.json').read_text())
-        library=json.loads((base/'library.json').read_text())
+        refresh=json.loads((base/'library_refresh.json').read_text(encoding='utf8'))
+        library=json.loads((base/'library.json').read_text(encoding='utf8'))
         changed={(r['table'],r['entry']) for r in refresh['changed_entries']}
         report['reviewed_library'] = dict(changed_entries=len(changed),
             native_width_rows=sum(len(r['lines']) for r in library['description_rows'] if (r['table'],r['entry']) in changed),

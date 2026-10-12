@@ -267,8 +267,14 @@ def build(version, source_version, resume_prepared=False):
     source=ROOT/previous['output']; original=ROOT/'Super Robot Taisen MX (Japan).iso'
     source_stats={p:(p.stat().st_size,p.stat().st_mtime_ns) for p in (source,original)}
     print('Verifying complete baseline and Japanese source image hashes',flush=True)
-    assert digest_file(source)==previous['target_sha256']
-    assert digest_file(original)==SOURCE_SHA256
+    hash_cache_path=base/'source_hashes.json'
+    hash_cache=read(hash_cache_path) if hash_cache_path.exists() else {}
+    for path,expected in [(source,previous['target_sha256']),(original,SOURCE_SHA256)]:
+        cached=hash_cache.get(str(path))
+        if cached!=dict(sha256=expected,bytes=source_stats[path][0],mtime_ns=source_stats[path][1]):
+            assert digest_file(path)==expected
+            hash_cache[str(path)]=dict(sha256=expected,bytes=source_stats[path][0],mtime_ns=source_stats[path][1])
+            save(hash_cache_path,hash_cache)
     old=pycdlib.PyCdlib(); old.open(str(source))
     def asset(name):
         path='/SLPS_253.45;1' if name=='SLPS_253.45' else '/DATA/'+name+';1'
