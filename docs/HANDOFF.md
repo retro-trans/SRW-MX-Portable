@@ -1,7 +1,6 @@
-# Shared v0.4.32 release preparation — 2026-10-13
+# Published shared v0.4.32 — 2026-10-13
 
-User requested publication, briefly paused for an unrelated SRW Z screenshot,
-then explicitly resumed the release. PSP v0.4.32 is rebuilt and verified with
+PSP v0.4.32 is rebuilt and verified with
 all reviewed story text and the Parts-name buffer fix. Exact SHA256:
 `866a11ba283c3e239fb135d365a9e55cf3b1461861d40659166d852d6becad87`.
 PS2 refresh preserves v0.4.30's native fixes and extra scenarios, replaces 2,091
@@ -12,10 +11,23 @@ Library refresh independently checks gameplay/ELF preservation and native widths
 uses 3 stored strings with 11 verified native references. Native scenario,
 deployment, campaign/save, font and database getter checks pass on prepared data.
 Disc rebuild reuses original allocations where resources fit and appends enlarged
-resources to remain below single-layer capacity. Packaging/readback/publication
-are still in progress; the last public release remains v0.4.29 at this point.
+resources to remain below single-layer capacity. The PS2 image is now verified across all 37 files and both ISO9660/UDF
+directory views: 4,659,449,856 bytes; SHA256
+`983f6b30f73f03fc16b143a8bf576b306d73e6cb36f552a6868dc81fc2bc7833`.
+All 42 PS2 title-state cases and both exact v0.4.32 native footers pass.
+Current evidence: `work/output/release_0.4.32_build_tests.json`. All four full
+and v0.4.29 upgrade patches pass complete Retro Trans Tools round trips.
+Both upgrade source hashes match the downloaded public v0.4.29 manifest.
+Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.32.
+All 14 uploaded asset sizes and GitHub SHA256 digests match local artifacts;
+evidence: `work/output/release_0.4.32_publication_verification.json`.
+Retro Trans Tools catalog workflow 38295376828 succeeded. Live remote catalog
+manifest matches the published release. Direct routes from both Japanese
+originals and both v0.4.29 images, plus v0.4.12 upgrade chains, reach v0.4.32.
+Evidence: `work/output/release_0.4.32_catalog_verification.json`.
+Game-source and final tool snapshot: `22cf2ede2d09bd37440695446a64a52699e27ccb`.
 
-The release will include bare full and v0.4.29 upgrade xdelta patches for both
+The release includes bare full and v0.4.29 upgrade xdelta patches for both
 platforms, Retro Trans Tools metadata, checksums and proofreading HTML reports.
 Thirty-two Retro Trans Tools release/catalog tests pass. Current fresh emulator
 boot/playthrough, physical-console, and PSP live Parts equip/exit checks remain

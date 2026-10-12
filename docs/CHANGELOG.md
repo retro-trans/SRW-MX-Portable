@@ -18,6 +18,13 @@
   upgrade patches for both platforms, a Retro Trans Tools manifest,
   checksums, validation, font license and the proofreading HTML reports.
 
+- Published [v0.4.32](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.32).
+  All four full/upgrade patches pass complete round trips. All 14 uploaded
+  asset sizes and GitHub SHA256 digests match the verified local artifacts.
+  Live Retro Trans Tools catalog validation passes for both originals, direct
+  v0.4.29 upgrades and v0.4.12 upgrade chains; catalog workflow 38295376828
+  completed successfully.
+
 ## Dialogue screenshot proofreading — 2026-10-12 (source only)
 
 - Checked all five reported lines against their Japanese source and context.
