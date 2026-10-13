@@ -41,9 +41,28 @@ def main(root='.'):
             if fn.endswith('.en.json'):
                 continue
             d = clean(json.load(open(fn, encoding='utf-8')))
-            json.dump(d, open(fn[:-5] + '.en.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+            destination = fn[:-5] + '.en.json'
+            if os.path.exists(destination):
+                previous = json.load(open(destination, encoding='utf-8'))
+                reject_translation_loss(previous, d, destination)
+            json.dump(d, open(destination, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             n += 1
     print(n, 'commit-safe copies written')
+
+
+def reject_translation_loss(previous, current, destination):
+    """Never replace translated rows with a metadata-only export."""
+    def rows(data):
+        if isinstance(data, dict) and isinstance(data.get('rows'), list):
+            return {row['id']: row for row in data['rows']
+                    if isinstance(row, dict) and 'id' in row}
+        return {}
+    before, after = rows(previous), rows(current)
+    lost = sorted(str(key) for key, row in before.items()
+                  if row.get('en') and (key not in after or not after[key].get('en')))
+    if lost:
+        raise ValueError('Refusing to erase %d English rows in %s (%s)' %
+                         (len(lost), destination, ', '.join(lost[:10])))
 
 
 if __name__ == '__main__':

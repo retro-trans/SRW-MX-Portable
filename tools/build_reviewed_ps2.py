@@ -259,6 +259,8 @@ def refresh_evidence(base,old_elf,old_fix,meta,footer,info,library,previous):
 
 
 def build(version, source_version, resume_prepared=False):
+    import battle_quotes
+    battle_quotes.require_complete_translations()
     base=ROOT/f'work/build/ps2/reviewed_{version}'
     output=ROOT/f'work/output/SRWMX_PS2_EN_{version}.iso'
     assert not output.exists() and (resume_prepared or not base.exists() or not any(base.iterdir())), 'Preserve existing builds'
@@ -299,32 +301,12 @@ def build(version, source_version, resume_prepared=False):
         battle_path=base/'BATTLE.BIN'
         with old.open_file_from_iso(iso_path='/DATA/BATTLE.BIN;1') as stream,battle_path.open('wb') as dst:
             copy_bytes(stream,dst,old.get_record(iso_path='/DATA/BATTLE.BIN;1').data_length)
-        import battle_quotes
-        old_quote=textfit.encode('@'.join(battle_quotes.fit('Hit, will you!')[0]))+b'\0'
-        new_quote=textfit.encode('@'.join(battle_quotes.fit('Come on, hit!')[0]))+b'\0'
-        external_count=elf.count(old_quote)
-        elf=elf.replace(old_quote,new_quote+bytes(len(old_quote)-len(new_quote)))
         static=asset('STATIC.BIN')
-        def quote_uses(quotes, wanted):
-            uses=[]
-            for pilot,offset in enumerate(struct.unpack_from('<512I',static,0x1b8174)):
-                if offset==0xffffffff:continue
-                sections_=struct.unpack_from('<10H',quotes,offset+8)
-                count_=(sections_[8]-sections_[7])//2
-                for entry,relative in enumerate(struct.unpack_from(f'<{count_}H',quotes,offset+sections_[7])):
-                    if relative&0x8000:continue
-                    start_=offset+sections_[-1]+relative
-                    if quotes[start_:quotes.index(0,start_)]+b'\0'==wanted:uses.append((pilot,entry))
-            return uses
-        with battle_path.open('r+b') as stream:
-            stream.seek(20); quote_offset=struct.unpack('<I',stream.read(4))[0]
-            stream.seek(quote_offset); quotes=stream.read(); count=quotes.count(old_quote)
-            assert (count,external_count)==(3,0), ('Expected deduplicated native quote allocations',count,external_count)
-            before_uses=quote_uses(quotes,old_quote);assert len(before_uses)==11
-            updated=quotes.replace(old_quote,new_quote+bytes(len(old_quote)-len(new_quote)))
-            assert len(updated)==len(quotes) and old_quote not in updated
-            assert quote_uses(updated,new_quote)==before_uses
-            stream.seek(quote_offset);stream.write(updated)
+        from refresh_ps2_battle import refresh as refresh_battle
+        battle_review=refresh_battle(battle_path,static,elf)
+        save(base/'battle_review.json',battle_review)
+        count=battle_review['stored_allocations_updated'];external_count=0
+        before_uses=battle_review['changed_references']
         from ps2_title_footer import patch as patch_title
         elf,footer,meta=patch_title(elf,version,meta)
         meta['target_sha256']=sha(elf)

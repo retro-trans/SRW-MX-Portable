@@ -262,7 +262,8 @@ def status():
     for f in ins:
         n = len(json.load(open(f, encoding='utf-8'))['rows'])
         o = f[:-5] + '.en.json'
-        got = len(json.load(open(o, encoding='utf-8'))['rows']) if os.path.exists(o) else 0
+        got = sum(bool(r.get('en', '').strip()) for r in
+                  json.load(open(o, encoding='utf-8'))['rows']) if os.path.exists(o) else 0
         done += got
         print(f'{os.path.basename(f)}: {got}/{n}')
     print('translated rows:', done)
@@ -296,11 +297,24 @@ def translations():
     return en
 
 
+def require_complete_translations(meta=None, en=None):
+    """Reject missing English before a build or readback can accept Japanese fallbacks."""
+    if meta is None:
+        meta = json.load(open(os.path.join(SRC, 'unique.json'), encoding='utf-8'))
+    if en is None:
+        en = translations()
+    missing = sorted(k for k in meta if not en.get(k, '').strip())
+    if missing:
+        raise ValueError('Battle translations incomplete: %d missing English rows (%s)' %
+                         (len(missing), ', '.join(missing[:10])))
+    return en
+
+
 def build_subfile(s, static2_bytes):
     """-> (new sub-file 5 bytes, new STATIC2 bytes, report). s = original sub-file 5."""
     uniq = json.load(open(os.path.join(SRC, 'unique.json'), encoding='utf-8'))
     by_raw = {v['raw']: (k, v) for k, v in uniq.items()}
-    en = translations()
+    en = require_complete_translations(uniq)
     st = bytearray(static2_bytes)
     table = list(struct.unpack_from(f'<{NPILOTS}I', st, PILOT_TABLE))
     out = bytearray()
@@ -444,6 +458,7 @@ def verify(iso_path):
     """Read every quote back from a built ISO the way the game does and compare with the translation."""
     import pycdlib
     import insert_text as it
+    require_complete_translations()
     iso = pycdlib.PyCdlib()
     iso.open(iso_path)
 

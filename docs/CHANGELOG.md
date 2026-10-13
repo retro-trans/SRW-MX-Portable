@@ -1,5 +1,27 @@
 # Changelog
 
+## PSP / PS2 v0.4.33 — 2026-10-13
+
+- Restored 1,705 English battle quotes from the v0.4.1 source snapshot in
+  batches 16, 17, 22, 25 and 26. Their English fields were removed during the
+  v0.4.29 source preparation; later full PSP builds retained Japanese instead.
+- Confirmed the two reported Albero/Hugo quotes are Japanese at all 16 native
+  references each in the PSP v0.4.32 ISO. PS2 v0.4.32 retains English at all
+  16 references each because its refresh preserved the earlier battle data.
+- Kept restored text consistent with the user's Est, Bryst, Hau Dragon and
+  Mu terminology. Source coverage is now 10,227 / 10,227 battle quotes.
+- Battle builds and verification reject missing English; status counts
+  translated text rather than metadata rows. Release verification now checks
+  the PSP ISO's complete native battle quote readback against English sources.
+- Corrected two additional battle references to Tekkoryu to use Hau Dragon.
+  PS2 battle refresh now checks all original quote references rather than a
+  single screenshot correction, preserving its animation data and native IDs.
+- Source export refuses to overwrite existing English rows with metadata-only
+  rows. The historical source audit found no other lost English rows among the
+  38 changed English JSON files shared with the v0.4.1 source snapshot.
+- Rebuild and publication requested by the user. New full and v0.4.32 upgrade
+  patches use v0.4.33 native title footers for both platforms.
+
 ## PSP / PS2 v0.4.32 — 2026-10-13
 
 - Rebuilt the PSP campaign and refreshed all PS2 story blocks with completed
