@@ -61,10 +61,11 @@ def main(version):
     psp=read(ROOT/f'work/output/campaign_{version}_verification.json')
     ps2=read(ROOT/f'work/output/ps2_font_{version}_verification.json')
     native=read(ROOT/f'work/output/psp_native_{version}_execution.json')
+    psp_text=read(ROOT/f'work/output/psp_text_{version}_verification.json')
     title=read(ROOT/f'work/output/ps2_title_footer_{version}_execution.json')
     assert psp['all_story_strings_verified'] and not psp['problems']
     assert ps2['campaign_proofreading_included'] and ps2['campaign_review']['missing_readable_strings']==0
-    assert native['passed'] and title['passed'] and len(title['cases'])==42
+    assert native['passed'] and psp_text['passed'] and title['passed'] and len(title['cases'])==42
     assert ps2['stage30_execution_checks']['native_additional_asset_references_valid']
     outputs={}; footers={}
     for platform,prefix,expected in [('PSP','SRWMX_EN_',psp['iso_sha256']),('PS2','SRWMX_PS2_EN_',ps2['target_sha256'])]:
@@ -76,6 +77,7 @@ def main(version):
     assert ps2['campaign_review']['inputs']==read(ROOT/f'work/output/campaign_{version}_inputs.json')['input_sha256']
     data=dict(version=version,date='2026-10-13',all_artifact_checks_passed=True,
         native_battle_quotes=battle_checks,
+        psp_non_story_text=psp_text,
         campaign_proofreading_included=True,outputs=outputs,native_iso_footer_readback=footers,
         psp_story=dict(blocks=psp['script_blocks'],original_readable_uses=psp['original_readable_uses_verified'],
                        stored_string_records=psp['string_records_checked'],raw_commands_preserved=psp['raw_commands_preserved']),

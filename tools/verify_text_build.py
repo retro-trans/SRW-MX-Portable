@@ -109,6 +109,7 @@ def main(version):
     get = resolver(d, boot)
     good = sum(1 for k, en in names.items() if en and get(o, offs[int(k)]) == insert_text.encode(en)[:-1])
     print(f'Strg: {good} of {sum(1 for v in names.values() if v)} English names read back')
+    assert good == sum(bool(v) for v in names.values()), 'A native database name differs from English source'
     so = sec_at['Sent']
     sn = struct.unpack_from('<I', d, so + 8)[0]
     soffs = struct.unpack_from(f'<{sn}I', d, so + 12)
@@ -119,6 +120,22 @@ def main(version):
         c = struct.unpack_from('<H', d, io_ + p)[0]
         rows = struct.unpack_from(f'<{c}H', d, io_ + p + 2)
         return [get(so, soffs[r]).decode('cp932') for r in rows]
+    descriptions = insert_text.load('static2/descriptions.json')
+    library = insert_text.load('library.json')
+    widths = {'XSpr':416, 'XSkl':416, 'Xabl':416, 'XPrt':272, 'XHlp':416}
+    description_entries = description_rows = 0
+    for tag in ('Xunt','XPlt','XSpr','XSkl','Xabl','XPrt','XHlp'):
+        values = library['units' if tag == 'Xunt' else 'pilots'] if tag in ('Xunt','XPlt') else descriptions[tag]
+        for ident, value in values.items():
+            english = value.get('en') if isinstance(value,dict) else value
+            if not english:
+                continue
+            expected = insert_text.wrap(insert_text.clean(english),
+                insert_text.LIBRARY_PX if tag in ('Xunt','XPlt') else widths[tag])
+            actual = [line.encode('cp932') for line in entry(tag,int(ident))]
+            assert actual == [insert_text.encode(line)[:-1] for line in expected], (tag,ident,'native description differs')
+            description_entries += 1; description_rows += len(actual)
+    print(f'Description/library readback: {description_entries} entries, {description_rows} rows, 0 mismatches')
     for tag, e in [('XSpr', 2), ('XSkl', 39), ('Xabl', 34), ('XPrt', 14), ('XHlp', 6), ('XHlp', 120), ('Xunt', 1), ('XPlt', 1)]:
         print(f'  {tag} {e}:', ' | '.join(entry(tag, e))[:200])
     sub4 = insert_text.SCENARIO + struct.unpack_from('<5I', d, insert_text.SCENARIO)[4]
@@ -132,6 +149,10 @@ def main(version):
     sfo = f['/PSP_GAME/PARAM.SFO']
     print('  PARAM.SFO has English title:', b'Super Robot Wars MX Portable' in sfo)
     print(f'STATIC2_ADD.BIN: {len(d)} bytes (original 3576512)')
+    report = dict(version=version,passed=True,boot_translated_references=ok,
+        database_names=good,description_entries=description_entries,description_rows=description_rows)
+    with open(os.path.join(ROOT,'work','output',f'psp_text_{version}_verification.json'),'w',encoding='utf8') as stream:
+        json.dump(report,stream,indent=2)
 
 
 if __name__ == '__main__':
