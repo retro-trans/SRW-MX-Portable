@@ -21,6 +21,8 @@
   38 changed English JSON files shared with the v0.4.1 source snapshot.
 - Made PS2 title-footer assembly deterministic after PSP artwork rendering,
   fixing a combined-verifier false failure without changing the built footer.
+- Verified native battle line-break markers separately from story-text markers;
+  the PS2 caption refresh preserves the native slash format.
 - Rebuild and publication requested by the user. New full and v0.4.32 upgrade
   patches use v0.4.33 native title footers for both platforms.
 

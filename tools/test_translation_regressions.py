@@ -60,5 +60,16 @@ class NativeFooterAssemblerTests(unittest.TestCase):
         self.assertEqual(before, after)
 
 
+class BattleCaptionMarkerTests(unittest.TestCase):
+    def test_native_break_and_full_width_space_are_valid(self):
+        from verify_battle_release import validate_caption_markers
+        validate_caption_markers(('first/\u3000second').encode('cp932'), 'fixture')
+
+    def test_story_break_marker_is_rejected(self):
+        from verify_battle_release import validate_caption_markers
+        with self.assertRaisesRegex(AssertionError, 'native slash line breaks'):
+            validate_caption_markers(('first@\u3000second').encode('cp932'), 'fixture')
+
+
 if __name__ == '__main__':
     unittest.main()

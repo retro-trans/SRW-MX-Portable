@@ -46,7 +46,6 @@ def refresh(path, static, elf):
                 at = old+source_secs[-1]+old_rel
                 ident = by_raw[orig[at:orig.index(0, at)].decode('cp932')]
                 wanted, fits = bq.encode_quote(english[ident], meta[ident]); assert fits, ident
-                wanted = wanted.replace(b'/', b'@')
                 if rel & 0x8000:
                     ptr = struct.unpack_from('<I', elf, elf_offset(elf, overflow_table+4*(rel & 0x7fff)))[0]
                     at = elf_offset(elf, ptr); actual = elf[at:elf.index(0, at)]

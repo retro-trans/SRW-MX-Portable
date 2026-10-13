@@ -27,6 +27,11 @@ def normalized(raw):
     return ' '.join(unicodedata.normalize('NFKC', raw.decode('cp932')).replace('/', ' ').replace('@', ' ').split())
 
 
+def validate_caption_markers(raw, context):
+    assert '@' not in raw.decode('cp932'), (context,
+        'Battle captions require native slash line breaks, not story-text markers')
+
+
 def verify(path, platform, strict=True):
     meta = json.loads((ROOT/'work/source/battle/unique.json').read_text(encoding='utf8'))
     english = bq.require_complete_translations(meta)
@@ -77,8 +82,6 @@ def verify(path, platform, strict=True):
                 ident = by_raw[raw.decode('cp932')]
                 unique.add(ident)
                 wanted, fits = bq.encode_quote(english[ident], meta[ident]); assert fits, ident
-                if ps2:
-                    wanted = wanted.replace(b'/', b'@')
                 if new_off & bq.OVERFLOW_BIT:
                     ptr_at = elf_offset(elf, overflow_table+4*(new_off & 0x7fff))
                     ptr = struct.unpack_from('<I', elf, ptr_at)[0]
@@ -89,6 +92,7 @@ def verify(path, platform, strict=True):
                     at = secs[-1]+new_off
                     actual = block[at:block.index(0, at)]
                 checked += 1
+                validate_caption_markers(actual, (platform,pid,ident))
                 if actual != wanted:
                     if normalized(actual) == normalized(wanted):
                         format_differences += 1
