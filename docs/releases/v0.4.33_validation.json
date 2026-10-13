@@ -1,0 +1,191 @@
+{
+  "version": "0.4.33",
+  "source_commit": "b21d96037f9bb01c7afc994782d6628bb3a242d5",
+  "restored_battle_translations": 1705,
+  "battle_references_verified": 103600,
+  "battle_readback_mismatches": 0,
+  "patch_roundtrips_verified": 4,
+  "publication": {
+    "version": "0.4.33",
+    "url": "https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.33",
+    "release_id": 411559692,
+    "assets": [
+      {
+        "asset": "BUILD-MANIFEST.json",
+        "bytes": 2945,
+        "sha256": "fe46116c62a41166baf8e0dda20bce6b10f50faf34955457a38e598cc2f56085",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "BUILD-TESTS-v0.4.33.json",
+        "bytes": 33821,
+        "sha256": "99a1a14f51cb1ab538ebc88de73bf9e3634c144aa27dfea6475019a0835c0daf",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "CHANGELOG-v0.4.33.md",
+        "bytes": 153533,
+        "sha256": "6839a0dde0ca96d9419eba8d18a99068ea42421f1b556aa206c51fc2082efcfb",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "DIALOGUE-REVIEW-v0.4.33.html",
+        "bytes": 2934,
+        "sha256": "320bc8a1daf169da5e401a23df458ecbb4653b92a442b3431fb7d1d619256249",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "FONT-LICENSE.txt",
+        "bytes": 4930,
+        "sha256": "7a6787ca1bad7a1afc8aa66643f9ec0aba6a4ab33c467c319ff11027a30118a5",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "PROOFREADING-v0.4.33.html",
+        "bytes": 660173,
+        "sha256": "8a52447b0be133b9346f8fb58c69fd91305522a18feb327d48f5c6b30778a084",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "README-v0.4.33.txt",
+        "bytes": 4281,
+        "sha256": "2376240c4b7975493a5f7a90125483dffe7051f2196c9502c48139dca994e35d",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SHA256SUMS-v0.4.33.txt",
+        "bytes": 1205,
+        "sha256": "ea200484a94f942f4e78efe02f3c99874b36e357fe80267dfb587e0bc3af2f02",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SHA256SUMS.txt",
+        "bytes": 584,
+        "sha256": "55ff1c0a83f4c7f622b26a9bc082958aefb877269cb6c078635d1a758dc904b1",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-English-v0.4.32-to-v0.4.33.xdelta",
+        "bytes": 80908,
+        "sha256": "53ed7756253f1804ff3c8eecca610c74fc5e668c5fbe063294313484a6234cfe",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-English-v0.4.33.xdelta",
+        "bytes": 2451164,
+        "sha256": "9b6c15c24590ebff6c2b09ba6a2e68ff8252af1c52c134846829ab9306ce5c23",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-PS2-English-v0.4.32-to-v0.4.33.xdelta",
+        "bytes": 17168,
+        "sha256": "5c32ee22215835f81695c0b88bceebb4a3a5b33ee0e6f5120b9117adab4d7232",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-PS2-English-v0.4.33.xdelta",
+        "bytes": 126023891,
+        "sha256": "8484a22c56a5800c7505c15ad945decba5ddc9fc4602a1541389df6ac9b08b17",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "VALIDATION.json",
+        "bytes": 926,
+        "sha256": "30aba62ecdf511b7e692958746365add1411bfe758c97f38e722a995540d26ac",
+        "github_digest_verified": true
+      }
+    ],
+    "all_assets_verified": true
+  },
+  "catalog": {
+    "version": "0.4.33",
+    "workflow": 38384738042,
+    "catalog_blob_sha": "e6cd9674cf129e7be5830556d199cdfd0baf278a",
+    "manifest_matches_published_release": true,
+    "routes": [
+      {
+        "platform": "PSP",
+        "source": "original",
+        "target": "0.4.33",
+        "steps": 1,
+        "patches": [
+          "SRWMX-English-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.32",
+        "target": "0.4.33",
+        "steps": 1,
+        "patches": [
+          "SRWMX-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.29",
+        "target": "0.4.33",
+        "steps": 2,
+        "patches": [
+          "SRWMX-English-v0.4.29-to-v0.4.32.xdelta",
+          "SRWMX-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.12",
+        "target": "0.4.33",
+        "steps": 3,
+        "patches": [
+          "SRWMX-English-v0.4.12-to-v0.4.29.xdelta",
+          "SRWMX-English-v0.4.29-to-v0.4.32.xdelta",
+          "SRWMX-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PS2",
+        "source": "original",
+        "target": "0.4.33",
+        "steps": 1,
+        "patches": [
+          "SRWMX-PS2-English-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.32",
+        "target": "0.4.33",
+        "steps": 1,
+        "patches": [
+          "SRWMX-PS2-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.29",
+        "target": "0.4.33",
+        "steps": 2,
+        "patches": [
+          "SRWMX-PS2-English-v0.4.29-to-v0.4.32.xdelta",
+          "SRWMX-PS2-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.12",
+        "target": "0.4.33",
+        "steps": 3,
+        "patches": [
+          "SRWMX-PS2-English-v0.4.12-to-v0.4.29.xdelta",
+          "SRWMX-PS2-English-v0.4.29-to-v0.4.32.xdelta",
+          "SRWMX-PS2-English-v0.4.32-to-v0.4.33.xdelta"
+        ]
+      }
+    ]
+  },
+  "pending_checks": [
+    "Fresh emulator playthrough",
+    "Physical console",
+    "Live PSP Parts equip/exit"
+  ]
+}

@@ -25,6 +25,12 @@
   the PS2 caption refresh preserves the native slash format.
 - Rebuild and publication requested by the user. New full and v0.4.32 upgrade
   patches use v0.4.33 native title footers for both platforms.
+- Published [v0.4.33](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.33).
+  All 103,600 native battle-caption references and all four patch round trips
+  pass. All 14 uploaded asset sizes and SHA256 digests match local artifacts.
+  Retro Trans Tools catalog workflow 38384738042 succeeded; both originals,
+  direct v0.4.32 upgrades and older verified upgrade chains reach v0.4.33.
+  Fresh playthrough, physical-console and live Parts equip/exit remain pending.
 
 ## PSP / PS2 v0.4.32 — 2026-10-13
 

@@ -1,3 +1,42 @@
+# Published shared v0.4.33 — 2026-10-13
+
+Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.33.
+Source/tag snapshot: `b21d96037f9bb01c7afc994782d6628bb3a242d5`.
+Restored 1,705 English battle quotes lost during v0.4.29 source preparation;
+PSP v0.4.32 had retained Japanese for these rows. PS2 retained those English
+quotes but needed remaining terminology refreshed. All 10,227 source rows
+are complete; builds reject missing translations and export rejects erasure.
+Historical audit found no further English loss in the 38 changed English
+JSON files shared with the v0.4.1 snapshot.
+
+Final PSP SHA256:
+`e4f5d968b3a3af9e1aef44fdb828b2bdadb745828de1714f4a21fd4990f144be`.
+Final PS2 SHA256:
+`192ee9cd9e6d59e9b3d34e0715ebe0b6acb3d72ceccffe1ffadff27f9f5a92e2`.
+The first PS2 candidate was superseded before publication: native battle
+captions use slash line breaks, not the story marker. Its image and package
+are archived under `work/build/ps2/battle_marker_attempt_0.4.33/`.
+Only the final corrected image and four verified patches were published.
+
+All 103,600 battle-caption references pass exact source readback and marker
+checks (PSP 51,892; PS2 51,708), with zero Japanese fallbacks or mismatches.
+Complete story, PSP UI/database/library, chapter cards, native Parts-menu
+regression, PS2 file preservation and 42 title-state checks pass. Both actual
+native footers identify v0.4.33. Nine new regression tests and 32 Retro Trans
+Tools release/catalog tests pass. All four full and exact v0.4.32 upgrade
+patches pass complete decode/hash round trips.
+
+All 14 uploaded asset sizes and GitHub SHA256 digests match local artifacts.
+Retro Trans Tools catalog workflow 38384738042 succeeded. The live catalog
+manifest matches the release; both originals and v0.4.32 have direct routes,
+and v0.4.29 / v0.4.12 upgrade chains reach v0.4.33.
+Evidence: `work/output/release_0.4.33_build_tests.json`,
+`work/output/release_0.4.33_publication_verification.json`, and
+`work/output/release_0.4.33_catalog_verification.json`.
+Publication summary: `docs/releases/v0.4.33_validation.json`.
+Fresh emulator playthrough, physical-console and live PSP Parts equip/exit
+checks remain pending. Previously stopped GUI checks were not resumed.
+
 # Published shared v0.4.32 — 2026-10-13
 
 PSP v0.4.32 is rebuilt and verified with
