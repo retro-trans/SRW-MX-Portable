@@ -106,7 +106,9 @@ def block(va, version):
         addiu $sp,$sp,32
     '''
     ks=keystone.Ks(keystone.KS_ARCH_MIPS,keystone.KS_MODE_MIPS64|keystone.KS_MODE_LITTLE_ENDIAN)
-    code=bytes(ks.asm('.set noreorder\n'+asm,va+256)[0])
+    # Explicit direct calls keep this independent of assembler PIC defaults
+    # affected by other native libraries loaded in the verifier process.
+    code=bytes(ks.asm('.set noreorder\n.option pic0\n'+asm,va+256)[0])
     assert len(code)<=SIZE-256
     payload[256:256+len(code)]=code
     return bytes(payload),asm

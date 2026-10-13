@@ -19,6 +19,8 @@
 - Source export refuses to overwrite existing English rows with metadata-only
   rows. The historical source audit found no other lost English rows among the
   38 changed English JSON files shared with the v0.4.1 source snapshot.
+- Made PS2 title-footer assembly deterministic after PSP artwork rendering,
+  fixing a combined-verifier false failure without changing the built footer.
 - Rebuild and publication requested by the user. New full and v0.4.32 upgrade
   patches use v0.4.33 native title footers for both platforms.
 

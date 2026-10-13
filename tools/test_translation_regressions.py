@@ -47,5 +47,18 @@ class TranslationLossTests(unittest.TestCase):
                                         {'rows':[{'id':'line1','en':'After'}]}, 'fixture')
 
 
+class NativeFooterAssemblerTests(unittest.TestCase):
+    def test_ps2_footer_is_stable_after_psp_artwork_render(self):
+        import ps2_title_footer
+        import title_footer
+        before = ps2_title_footer.block(0x7d9580, '0.4.33')[0]
+        spec = title_footer.SPECS['PSP']
+        width, height = spec['size']
+        fixture = bytes(spec['offset'] + 1024 + width*height)
+        title_footer.render(fixture, 'PSP', '0.4.33')
+        after = ps2_title_footer.block(0x7d9580, '0.4.33')[0]
+        self.assertEqual(before, after)
+
+
 if __name__ == '__main__':
     unittest.main()
