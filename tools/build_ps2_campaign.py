@@ -44,6 +44,11 @@ def build(source):
     data,narr=narration(original,data,font);save(TR/'narration_port.en.json',narr)
     sentences=[bytes.fromhex(b) for b in read_json(WORK/'database_overflow.json')]
     data,fix,sentence_report=patch_sentences(original,data,font,(WORK/'FIX00.DAT').read_bytes(),sentences)
+    from parts_layout import ps2 as reflow_parts
+    fix,parts_report=reflow_parts(fix,data,font)
+    for item in database_report['texts']:
+        if item['table']=='XPrt':item['lines']=parts_report['rows'][item['entry']]
+    save(WORK/'parts_layout.json',parts_report)
     (WORK/'FIX00.DAT').write_bytes(fix)
     database_report['target_sha256']=sha(fix);database_report['native_sentence_pool_applied']=True
     save(TR/'database_port.en.json',database_report)

@@ -1,0 +1,995 @@
+{
+  "version": "0.4.35",
+  "base_version": "0.4.34",
+  "platform": "PSP",
+  "output": "work/output/SRWMX_EN_0.4.35.iso",
+  "output_sha256": "c65aadbbba1f85256e5d6b1fb9dc5a8d59e7cee10f4629616f5a02b95bc7ffd9",
+  "bytes": 1327790080,
+  "source_sha256": "d1d7805027d9532d9083aa46aa720b2647ece97cd94264e26706f444a3571f9e",
+  "parts_layout": {
+    "platform": "PSP",
+    "description_wrap_width": 224,
+    "part_entries": 37,
+    "old_sentence_ids_preserved": 4550,
+    "rows": {
+      "1": [
+        "Fully restores HP. Single use."
+      ],
+      "2": [
+        "Fully restores EN. Single use. Units",
+        "with Hyper Plasma Drive cannot",
+        "equip it."
+      ],
+      "3": [
+        "Fully restores ammo (except Hyper",
+        "Dendoh Batteries). Single use."
+      ],
+      "4": [
+        "Fully restores HP, EN and ammo",
+        "(except Hyper Dendoh Batteries).",
+        "Single use."
+      ],
+      "5": [
+        "Restores 20 of the pilot's SP. Single",
+        "use."
+      ],
+      "6": [
+        "Restores 50 of the pilot's SP. Single",
+        "use."
+      ],
+      "7": [
+        "Pilot's Will +10. Single use."
+      ],
+      "8": [
+        "Move +1."
+      ],
+      "9": [
+        "Move +2."
+      ],
+      "10": [
+        "Move +1, Mobility +5."
+      ],
+      "11": [
+        "Mobility +5."
+      ],
+      "12": [
+        "Mobility +10."
+      ],
+      "13": [
+        "Mobility +25, weapon critical rate",
+        "+10."
+      ],
+      "14": [
+        "Move +2, Mobility +25, weapon hit",
+        "rate +20, range +1 for weapons",
+        "other than MAP and range-1",
+        "weapons."
+      ],
+      "15": [
+        "Max HP +500, Armor +100."
+      ],
+      "16": [
+        "Max HP +1000, Armor +150."
+      ],
+      "17": [
+        "Max HP +1500, Armor +200."
+      ],
+      "18": [
+        "Max HP +2000, Armor +250."
+      ],
+      "19": [
+        "Range +1 for weapons other than",
+        "MAP and range-1 weapons."
+      ],
+      "20": [
+        "Will +5 on sortie."
+      ],
+      "21": [
+        "Will +10 on sortie."
+      ],
+      "22": [
+        "Max EN +50."
+      ],
+      "23": [
+        "Max EN +100."
+      ],
+      "24": [
+        "Weapon hit rate +30."
+      ],
+      "25": [
+        "Weapon critical rate +20."
+      ],
+      "26": [
+        "Restores 10% of max EN at the",
+        "start of each player phase. Units",
+        "with Hyper Plasma Drive cannot",
+        "equip it."
+      ],
+      "27": [
+        "Restores 10% of max HP at the",
+        "start of each player phase."
+      ],
+      "28": [
+        "Reduces beam damage by 700."
+      ],
+      "29": [
+        "Reduces beam damage by 850."
+      ],
+      "30": [
+        "Sets the unit's Air terrain and",
+        "movement ranks and its weapons'",
+        "Air rank to A."
+      ],
+      "31": [
+        "Sets the unit's Land terrain and",
+        "movement ranks and its weapons'",
+        "Land rank to A."
+      ],
+      "32": [
+        "Sets the unit's Sea terrain and",
+        "movement ranks and its weapons'",
+        "Sea rank to A."
+      ],
+      "33": [
+        "Sets the unit's Space terrain and",
+        "movement ranks and its weapons'",
+        "Space rank to A."
+      ],
+      "34": [
+        "Nullifies homing missiles."
+      ],
+      "35": [
+        "Units within 2 squares get hit and",
+        "evasion rates +15. Adds Scan to",
+        "the unit's commands."
+      ],
+      "36": [
+        "Nullifies all status-effect attacks."
+      ],
+      "37": [
+        "Generates a Gravity Wave Beam."
+      ]
+    },
+    "numeric_and_other_index_data_preserved": true,
+    "original_and_target_bytes": 3576512,
+    "relocated_index": 2077872
+  },
+  "native_execution": {
+    "passed": true,
+    "native_description_rows_measured": 57,
+    "equipped_part_names_checked": 37,
+    "max_description_width": 196,
+    "available_description_width": 200,
+    "equipped_name_x": 82,
+    "radar_width": 136,
+    "draws": [
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82678289828782888140826f828582928286828f8292828d8281828e82838285814082718281828482818292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8271828582908281828982928140826a82898294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826f8292828f82908285828c828c8281828e8294814082738281828e828b"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826282818292829482928289828482878285"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8272829582908285829281408271828582908281828982928140826a82898294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82718281828d8295828e8285"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c828f828d8166829381408272829482858297"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c82818292829482898281828e8140827182898283828581408261828f8297828c"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8261828f828f8293829482858292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c82858287828181408261828f828f8293829482858292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82608290828f8287828582858140826c828f8294828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c82818287828e828582948289828381408262828f828182948289828e8287"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82618289828f814082728285828e8293828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826f8293829982838288828f8140826582928281828d8285"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826782818292828f"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82628288828f828282888281828d814082608292828d828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8272829582908285829281408260828c828c828f829981408279"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8272829582908285829281408260828c828c828f82998140826d8285829781408279"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8262828f8293828d8289828381408260828c828c828f82998140826682928285828e"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82678289828782888140826f828582928286828f8292828d8281828e82838285814082718281828482818292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82728288829582868286828c8285814082628292828582938294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8276828f828c8286814082628292828582938294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826b8281829282878285814082668285828e8285829282818294828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c828582878281814082668285828e8285829282818294828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82678289828782888140826f828582928286828f8292828d8281828e82838285814082728289828782888294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8268828d828182878285814082728285828e8293828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8272828f828c828182928140827282818289828c"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8274828c82948289828d828182948285814082628285828c828c"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8260828e82948289817c826182858281828d81408262828f828182948289828e8287"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8268817c826582898285828c8284814082668285828e8285829282818294828f8292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c8289828e828f82968293828b8299814082628292828182868294"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826382958293829482908292828f828f82868289828e8287"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "827282838292828582978140826c828f82848295828c8285"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "827382888292829582938294828582928140826c828f82848295828c8285"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82698281828d828d82858292"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826482768260826281408169827682858281828b816a"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8261829282898287828882948140827282948281829281408272828882928289828e8285814082738281828c82898293828d8281828e"
+      },
+      {
+        "x": 82,
+        "y": 158,
+        "font_context": "0000c0410000c041ea2a4f41ea2a4f41",
+        "text": "8266829282818296828982948299814082768281829682858140826182858281828d814082668285828e8285829282818294828f8292"
+      },
+      {
+        "x": 260,
+        "y": 151,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "826c828f829682858140817b825181438140826c828f82828289828c8289829482998140817b82518254814381408297828582818290828f828e8140828882898294"
+      },
+      {
+        "x": 260,
+        "y": 170,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "82928281829482858140817b8251824f8143814082928281828e828782858140817b825081408286828f829281408297828582818290828f828e8293"
+      },
+      {
+        "x": 260,
+        "y": 189,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "828f82948288828582928140829482888281828e8140826c8260826f81408281828e8284814082928281828e82878285817c8250"
+      },
+      {
+        "x": 260,
+        "y": 208,
+        "font_context": "0000c0410000c0410000604100006041",
+        "text": "8297828582818290828f828e82938144"
+      }
+    ],
+    "complete_wording_retained": true,
+    "live_menu_validation": "pending"
+  },
+  "complete_iso_readback_hash_verified": true,
+  "unrelated_disc_bytes_preserved": true,
+  "changed_resources": {
+    "/PSP_GAME/SYSDIR/BOOT.BIN": {
+      "bytes": 11886356,
+      "sha256": "46e772844743d94ed52ddc025a710fab719b23d508d3a0a3f6a87a5f3b735c2e"
+    },
+    "/PSP_GAME/SYSDIR/EBOOT.BIN": {
+      "bytes": 11886356,
+      "sha256": "46e772844743d94ed52ddc025a710fab719b23d508d3a0a3f6a87a5f3b735c2e"
+    },
+    "/PSP_GAME/USRDIR/STATIC2_ADD.BIN": {
+      "bytes": 3576512,
+      "sha256": "f8ad3ee4ec3552a8ad6dc53900ed9c890e46e6523a3941541881ed30b89fdbbe"
+    },
+    "/PSP_GAME/USRDIR/OPWND.BIN": {
+      "bytes": 3124480,
+      "sha256": "b02e23e664e18cb7ab4094ceac12d19cc9f1fdf7f221233ac6008924f4360ae3"
+    }
+  },
+  "native_caption_artwork_retained": {
+    "platform": "PSP",
+    "native_iso_caption_artwork_verified": true,
+    "resource_sha256": "f8ad3ee4ec3552a8ad6dc53900ed9c890e46e6523a3941541881ed30b89fdbbe",
+    "captions": [
+      "Assist Attack",
+      "Simul. Attack"
+    ]
+  },
+  "footer": {
+    "platform": "PSP",
+    "version": "0.4.35",
+    "credit": "github.com/retro-trans",
+    "asset": "/PSP_GAME/USRDIR/OPWND.BIN",
+    "palette_offset": "0x2d3b40",
+    "atlas_size": [
+      512,
+      256
+    ],
+    "visible_width": 480,
+    "box": [
+      243,
+      133,
+      417,
+      173
+    ],
+    "font": "Genei LateGo v2 Medium",
+    "font_size": 14,
+    "panel": false,
+    "lines": [
+      {
+        "text": "v0.4.35",
+        "bounds": [
+          366.75,
+          140.0,
+          417,
+          153
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "bounds": [
+          262.25,
+          155.5,
+          417,
+          173
+        ]
+      }
+    ],
+    "pixel_ranges": [
+      [
+        2965312,
+        2965486
+      ],
+      [
+        2965824,
+        2965998
+      ],
+      [
+        2966336,
+        2966510
+      ],
+      [
+        2966848,
+        2967022
+      ],
+      [
+        2967360,
+        2967534
+      ],
+      [
+        2967872,
+        2968046
+      ],
+      [
+        2968384,
+        2968558
+      ],
+      [
+        2968896,
+        2969070
+      ],
+      [
+        2969408,
+        2969582
+      ],
+      [
+        2969920,
+        2970094
+      ],
+      [
+        2970432,
+        2970606
+      ],
+      [
+        2970944,
+        2971118
+      ],
+      [
+        2971456,
+        2971630
+      ],
+      [
+        2971968,
+        2972142
+      ],
+      [
+        2972480,
+        2972654
+      ],
+      [
+        2972992,
+        2973166
+      ],
+      [
+        2973504,
+        2973678
+      ],
+      [
+        2974016,
+        2974190
+      ],
+      [
+        2974528,
+        2974702
+      ],
+      [
+        2975040,
+        2975214
+      ],
+      [
+        2975552,
+        2975726
+      ],
+      [
+        2976064,
+        2976238
+      ],
+      [
+        2976576,
+        2976750
+      ],
+      [
+        2977088,
+        2977262
+      ],
+      [
+        2977600,
+        2977774
+      ],
+      [
+        2978112,
+        2978286
+      ],
+      [
+        2978624,
+        2978798
+      ],
+      [
+        2979136,
+        2979310
+      ],
+      [
+        2979648,
+        2979822
+      ],
+      [
+        2980160,
+        2980334
+      ],
+      [
+        2980672,
+        2980846
+      ],
+      [
+        2981184,
+        2981358
+      ],
+      [
+        2981696,
+        2981870
+      ],
+      [
+        2982208,
+        2982382
+      ],
+      [
+        2982720,
+        2982894
+      ],
+      [
+        2983232,
+        2983406
+      ],
+      [
+        2983744,
+        2983918
+      ],
+      [
+        2984256,
+        2984430
+      ],
+      [
+        2984768,
+        2984942
+      ],
+      [
+        2985280,
+        2985454
+      ],
+      [
+        3033651,
+        3033825
+      ],
+      [
+        3034163,
+        3034337
+      ],
+      [
+        3034675,
+        3034849
+      ],
+      [
+        3035187,
+        3035361
+      ],
+      [
+        3035699,
+        3035873
+      ],
+      [
+        3036211,
+        3036385
+      ],
+      [
+        3036723,
+        3036897
+      ],
+      [
+        3037235,
+        3037409
+      ],
+      [
+        3037747,
+        3037921
+      ],
+      [
+        3038259,
+        3038433
+      ],
+      [
+        3038771,
+        3038945
+      ],
+      [
+        3039283,
+        3039457
+      ],
+      [
+        3039795,
+        3039969
+      ],
+      [
+        3040307,
+        3040481
+      ],
+      [
+        3040819,
+        3040993
+      ],
+      [
+        3041331,
+        3041505
+      ],
+      [
+        3041843,
+        3042017
+      ],
+      [
+        3042355,
+        3042529
+      ],
+      [
+        3042867,
+        3043041
+      ],
+      [
+        3043379,
+        3043553
+      ],
+      [
+        3043891,
+        3044065
+      ],
+      [
+        3044403,
+        3044577
+      ],
+      [
+        3044915,
+        3045089
+      ],
+      [
+        3045427,
+        3045601
+      ],
+      [
+        3045939,
+        3046113
+      ],
+      [
+        3046451,
+        3046625
+      ],
+      [
+        3046963,
+        3047137
+      ],
+      [
+        3047475,
+        3047649
+      ],
+      [
+        3047987,
+        3048161
+      ],
+      [
+        3048499,
+        3048673
+      ],
+      [
+        3049011,
+        3049185
+      ],
+      [
+        3049523,
+        3049697
+      ],
+      [
+        3050035,
+        3050209
+      ],
+      [
+        3050547,
+        3050721
+      ],
+      [
+        3051059,
+        3051233
+      ],
+      [
+        3051571,
+        3051745
+      ],
+      [
+        3052083,
+        3052257
+      ],
+      [
+        3052595,
+        3052769
+      ],
+      [
+        3053107,
+        3053281
+      ],
+      [
+        3053619,
+        3053793
+      ]
+    ],
+    "source_region_sha256": "ba7b4d24f4c6fe03d966cbe53ac6597ce3609c1abc5b3051a18d21296bdb20a7",
+    "target_region_sha256": "7412e2239fa5e9dd8952ae94da90daf73f89e276a1efdde6a236d2745547b563",
+    "palette_sha256": "33c0e1086cfb18254f6d24ba3116dc66bb0680129e2e6b35fde5d4bf2eff22a5",
+    "source_resource_sha256": "9ef4ee074414d2df211086ea189159c251e370e8fc656967228bc629bb8649fe",
+    "target_resource_sha256": "b02e23e664e18cb7ab4094ceac12d19cc9f1fdf7f221233ac6008924f4360ae3",
+    "palette_preserved": true,
+    "old_upper_left_panel_removed": true,
+    "all_other_pixels_and_data_preserved": true,
+    "disc_extent": 822740992,
+    "readback": {
+      "version": "0.4.35",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "b02e23e664e18cb7ab4094ceac12d19cc9f1fdf7f221233ac6008924f4360ae3"
+    }
+  },
+  "files": [
+    {
+      "path": "/PSP_GAME/ICON0.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PIC1.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SND0.AT3",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/BOOT.BIN",
+      "layout_preserved": false,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/EBOOT.BIN",
+      "layout_preserved": false,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BATTLE2.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/D2MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/FACEPACK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/IM_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/AUDIOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/LIBATRAC3PLUS.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEG.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEGBASE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/SC_SASCORE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/VIDEOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MOVIE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/OPWND.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/PACKMAPC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SAVE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSQ.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSTRM.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/STATIC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WND.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WNDH.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/UMD_DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {},
+  "local_build_only": true,
+  "github_release": false,
+  "live_menu_validation": "pending"
+}

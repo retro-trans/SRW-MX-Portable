@@ -16,6 +16,13 @@ def structural(base):
     data=(base/'SLPS_253.45').read_bytes();fix=(base/'FIX00.DAT').read_bytes()
     for raw,key in [(old,'source_elf_sha256'),(before,'source_fix_sha256'),(data,'target_elf_sha256'),(fix,'target_fix_sha256')]:
         assert sha(raw)==report[key],key
+    if (base/'parts_layout.json').exists():
+        from parts_layout import ps2 as reflow_parts
+        snapshot=(base/'parts_before.FIX00.DAT').read_bytes()
+        metadata=read_json(base/'patch.json')
+        expected,_=reflow_parts(snapshot,data,metadata)
+        assert expected==fix,'Unexpected bytes outside guarded part-description reflow'
+        fix=snapshot
     # All prior instructions/font/UI strings remain exact outside declared
     # table, segment-size/heap and native title-footer changes.
     restored=bytearray(data[:len(old)])

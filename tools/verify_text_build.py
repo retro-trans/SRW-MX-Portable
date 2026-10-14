@@ -122,7 +122,8 @@ def main(version):
         return [get(so, soffs[r]).decode('cp932') for r in rows]
     descriptions = insert_text.load('static2/descriptions.json')
     library = insert_text.load('library.json')
-    widths = {'XSpr':416, 'XSkl':416, 'Xabl':416, 'XPrt':272, 'XHlp':416}
+    from parts_layout import DESCRIPTION_WIDTH
+    widths = {'XSpr':416, 'XSkl':416, 'Xabl':416, 'XPrt':DESCRIPTION_WIDTH, 'XHlp':416}
     description_entries = description_rows = 0
     for tag in ('Xunt','XPlt','XSpr','XSkl','Xabl','XPrt','XHlp'):
         values = library['units' if tag == 'Xunt' else 'pilots'] if tag in ('Xunt','XPlt') else descriptions[tag]

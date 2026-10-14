@@ -440,7 +440,8 @@ def patch_static2(static2):
     lib = load('library.json')
     # the help window at the top of the screen holds about 420 px per row (seen in game, 0.3.2: a
     # 438 px row ran past it), less than the widest Japanese row suggested
-    width = {'XSpr': 416, 'XSkl': 416, 'Xabl': 416, 'XPrt': 272, 'XHlp': 416}
+    from parts_layout import DESCRIPTION_WIDTH
+    width = {'XSpr': 416, 'XSkl': 416, 'Xabl': 416, 'XPrt': DESCRIPTION_WIDTH, 'XHlp': 416}
     for tag in ['Xunt', 'XPlt', 'XSpr', 'XSkl', 'Xabl', 'XPrt', 'XHlp']:
         old = index(bytes(d), S[tag][0], S[tag][2])
         es = []

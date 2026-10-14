@@ -298,6 +298,10 @@ def build(version, source_version, resume_prepared=False):
         elf,maps,story=refresh_story(elf,asset('MAP.BIN'),meta,info)
         print('Story refreshed:',story['changed_string_slots'],'changed slots;',len(story['native_linebreak_reflows']),'native linebreak reflows',flush=True)
         elf,fix,library=refresh_library(elf,asset('FIX00.DAT'),meta,base,previous)
+        from parts_layout import ps2 as reflow_parts
+        (base/'parts_before.FIX00.DAT').write_bytes(fix)
+        fix,parts_review=reflow_parts(fix,elf,meta)
+        save(base/'parts_layout.json',parts_review)
         battle_path=base/'BATTLE.BIN'
         with old.open_file_from_iso(iso_path='/DATA/BATTLE.BIN;1') as stream,battle_path.open('wb') as dst:
             copy_bytes(stream,dst,old.get_record(iso_path='/DATA/BATTLE.BIN;1').data_length)

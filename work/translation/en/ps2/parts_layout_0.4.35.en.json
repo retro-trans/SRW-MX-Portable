@@ -1,0 +1,462 @@
+{
+  "version": "0.4.35",
+  "base_version": "0.4.34",
+  "platform": "PS2",
+  "output": "work/output/SRWMX_PS2_EN_0.4.35.iso",
+  "output_sha256": "8001af3ec9cd9140ef36bfca57efae5ef086234c4d13b6162358e41d9d4c968c",
+  "bytes": 4659449856,
+  "source_sha256": "50b9c7e2750b11d503ea32fe41f447e8185b024784b9c3d8f75c5472c4d7c3dd",
+  "parts_layout": {
+    "platform": "PS2",
+    "description_wrap_width": 258,
+    "part_entries": 37,
+    "protected_sentence_rows_verified": 5404,
+    "rows": {
+      "1": [
+        "Fully restores HP. Single",
+        "use."
+      ],
+      "2": [
+        "Fully restores EN. Single",
+        "use. Units with Hyper",
+        "Plasma Drive cannot equip",
+        "it."
+      ],
+      "3": [
+        "Fully restores ammo",
+        "(except Hyper Dendoh",
+        "Batteries). Single use."
+      ],
+      "4": [
+        "Fully restores HP, EN and",
+        "ammo (except Hyper",
+        "Dendoh Batteries). Single",
+        "use."
+      ],
+      "5": [
+        "Restores 20 of the pilot's",
+        "SP. Single use."
+      ],
+      "6": [
+        "Restores 50 of the pilot's",
+        "SP. Single use."
+      ],
+      "7": [
+        "Pilot's Will +10. Single use."
+      ],
+      "8": [
+        "Move +1."
+      ],
+      "9": [
+        "Move +2."
+      ],
+      "10": [
+        "Move +1, Mobility +5."
+      ],
+      "11": [
+        "Mobility +5."
+      ],
+      "12": [
+        "Mobility +10."
+      ],
+      "13": [
+        "Mobility +25, weapon",
+        "critical rate +10."
+      ],
+      "14": [
+        "Move +2, Mobility +25,",
+        "weapon hit rate +20,",
+        "range +1 for weapons",
+        "other than MAP and",
+        "range-1 weapons."
+      ],
+      "15": [
+        "Max HP +500, Armor",
+        "+100."
+      ],
+      "16": [
+        "Max HP +1000, Armor",
+        "+150."
+      ],
+      "17": [
+        "Max HP +1500, Armor",
+        "+200."
+      ],
+      "18": [
+        "Max HP +2000, Armor",
+        "+250."
+      ],
+      "19": [
+        "Range +1 for weapons",
+        "other than MAP and",
+        "range-1 weapons."
+      ],
+      "20": [
+        "Will +5 on sortie."
+      ],
+      "21": [
+        "Will +10 on sortie."
+      ],
+      "22": [
+        "Max EN +50."
+      ],
+      "23": [
+        "Max EN +100."
+      ],
+      "24": [
+        "Weapon hit rate +30."
+      ],
+      "25": [
+        "Weapon critical rate +20."
+      ],
+      "26": [
+        "Restores 10% of max EN",
+        "at the start of each player",
+        "phase. Units with Hyper",
+        "Plasma Drive cannot equip",
+        "it."
+      ],
+      "27": [
+        "Restores 10% of max HP",
+        "at the start of each player",
+        "phase."
+      ],
+      "28": [
+        "Reduces beam damage by",
+        "700."
+      ],
+      "29": [
+        "Reduces beam damage by",
+        "850."
+      ],
+      "30": [
+        "Sets the unit's Air terrain",
+        "and movement ranks and",
+        "its weapons' Air rank to",
+        "A."
+      ],
+      "31": [
+        "Sets the unit's Land terrain",
+        "and movement ranks and",
+        "its weapons' Land rank to",
+        "A."
+      ],
+      "32": [
+        "Sets the unit's Sea terrain",
+        "and movement ranks and",
+        "its weapons' Sea rank to",
+        "A."
+      ],
+      "33": [
+        "Sets the unit's Space",
+        "terrain and movement",
+        "ranks and its weapons'",
+        "Space rank to A."
+      ],
+      "34": [
+        "Nullifies homing missiles."
+      ],
+      "35": [
+        "Units within 2 squares get",
+        "hit and evasion rates +15.",
+        "Adds Scan to the unit's",
+        "commands."
+      ],
+      "36": [
+        "Nullifies all status-effect",
+        "attacks."
+      ],
+      "37": [
+        "Generates a Gravity",
+        "Wave Beam."
+      ]
+    },
+    "numeric_and_other_index_data_preserved": true,
+    "original_and_target_bytes": 510632,
+    "equipped_names_already_on_separate_native_rows": true
+  },
+  "native_execution": {
+    "passed": true,
+    "native_description_rows_measured": 84,
+    "max_description_width": 257.0,
+    "available_description_width": 258,
+    "maximum_rows": 5,
+    "equipped_name_already_below_label": true,
+    "live_menu_validation": "pending"
+  },
+  "complete_iso_readback_hash_verified": true,
+  "unrelated_disc_bytes_preserved": true,
+  "changed_resources": {
+    "/DATA/FIX00.DAT;1": {
+      "bytes": 510632,
+      "sha256": "9bbcf49bfcfc3380b5465275117fed7f320c92c6b6e70508112f3caec72b7a70"
+    },
+    "/SLPS_253.45;1": {
+      "bytes": 4824693,
+      "sha256": "2f22e39234e2352b19f441cc2713ce9a8a0cc77de0da378ebc382d5eb71c72e1"
+    }
+  },
+  "native_caption_artwork_retained": {
+    "platform": "PS2",
+    "native_iso_caption_artwork_verified": true,
+    "resource_sha256": "5a4aa91c99ce5695ddfaf994f33c01f55b5cf0f2039253913aa2d041dca35ed1",
+    "captions": [
+      "Assist Attack",
+      "Simul. Attack"
+    ]
+  },
+  "footer": {
+    "version": "0.4.35",
+    "credit": "github.com/retro-trans",
+    "asset": "/SLPS_253.45;1",
+    "mechanism": "Native title draw callback",
+    "block_offset": 4793728,
+    "block_va": "0x7d9580",
+    "block_bytes": 1536,
+    "hook_va": "0x2c1e28",
+    "renderer_va": "0x7d9680",
+    "private_context_va": "0x7d9620",
+    "private_context_bytes": 96,
+    "font_size": 16,
+    "right_edge": 626,
+    "line_y": [
+      250,
+      268
+    ],
+    "byte_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "footer_strings": [
+      "v0.4.35",
+      "github.com/retro-trans"
+    ],
+    "pixel_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "source_resource_sha256": "ae9b4ffd31b3a4f700cefb36c1a2ba57d64ede32a7a78ee1a1a3fd902c74c517",
+    "target_resource_sha256": "2f22e39234e2352b19f441cc2713ce9a8a0cc77de0da378ebc382d5eb71c72e1",
+    "disc_extent": 4654622720,
+    "readback": {
+      "version": "0.4.35",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "2f22e39234e2352b19f441cc2713ce9a8a0cc77de0da378ebc382d5eb71c72e1",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.35",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "files": [
+    {
+      "path": "/DATA/BATTLE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAPH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FACEPACK.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FIX00.DAT;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/DATA/ICO/MX0.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX1.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/IM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PACKMAPC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUI.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUIH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STAGE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STATIC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STRM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DUMMY.;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/CDVDSTM.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/HELLO.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/IOPRP270.IMG;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/LIBSD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCSERV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODDELAY.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODMIDI.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYCDVD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYSND.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/PADMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SDRDRV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SIO2MAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/SLPS_253.45;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/SYSTEM.CNF;1",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {
+    "/DATA/FIX00.DAT;1": true,
+    "/SLPS_253.45;1": true
+  },
+  "local_build_only": true,
+  "github_release": false,
+  "live_menu_validation": "pending"
+}

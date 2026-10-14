@@ -1,3 +1,30 @@
+# Local shared v0.4.35 — Parts window alignment
+
+Completed 2026-10-15. PSP equipped-name origin moves from panel.x+110 to
+panel.x+80. Names keep full wording; a guarded native draw wrapper temporarily
+fits only names wider than 162px and restores the display font dimensions.
+All 37 descriptions are rewrapped. Native execution measures at most 196px
+within the PSP 200px area, with four rows maximum. PS2's equipped names already
+use separate rows; native font advances rewrap its descriptions to at most
+257px within the 258px budget, with five rows maximum.
+
+PSP: `work/output/SRWMX_EN_0.4.35.iso`, SHA256
+`c65aadbbba1f85256e5d6b1fb9dc5a8d59e7cee10f4629616f5a02b95bc7ffd9`.
+PS2: `work/output/SRWMX_PS2_EN_0.4.35.iso`, SHA256
+`8001af3ec9cd9140ef36bfca57efae5ef086234c4d13b6162358e41d9d4c968c`.
+Complete ISO hashes and changed-resource readback pass. Both native v0.4.35
+footers and v0.4.34 battle-banner artwork pass. PSP BOOT/EBOOT resolve to the
+same appended, independently checked PRX. All other resource allocations and
+bytes remain exact. PSP retains all 4,550 earlier sentence IDs; PS2 preserves
+every protected sentence and numeric gameplay section within its fixed heap.
+PSP full non-story readback and retained native Parts pointer regression pass;
+all 42 PS2 title-state cases pass. Records are in
+`work/output/{psp,ps2}_parts_layout_0.4.35_verification.json` and
+`work/output/parts_layout_0.4.35_native_verification.json`.
+Source/tool details: `docs/parts_layout.md`.
+Fresh in-game display and live equip/exit checks remain pending. No release
+requested for v0.4.35. Previous user-stopped GUI checks were not resumed.
+
 # Local shared v0.4.34 — battle-animation banners
 
 Completed 2026-10-15 for screenshots supplied 2026-10-14. The separate blue/white

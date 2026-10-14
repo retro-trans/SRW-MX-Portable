@@ -1,0 +1,18 @@
+{
+  "native_screen": [
+    480,
+    272
+  ],
+  "equipped_name_old_x": 110,
+  "equipped_name_new_x": 80,
+  "name_width": 162,
+  "description_start": [
+    258,
+    131
+  ],
+  "description_width": 200,
+  "row_spacing": 19,
+  "max_description_rows": 4,
+  "panel_origin_added_at_runtime": true,
+  "verification": "Native draw coordinates and actual width-function execution; fresh GUI pending"
+}

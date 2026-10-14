@@ -1,5 +1,18 @@
 # Changelog
 
+## PSP / PS2 v0.4.35 — 2026-10-15 (local Parts layout correction)
+
+- Moved PSP equipped-part names left by 30px and fitted longer names within
+  the remaining field, restoring the font dimensions after each draw.
+- Rewrapped all 37 part descriptions for each platform's native panel and
+  font advances. Preserved complete wording, effects and numeric values.
+- Native execution checks name coordinates and description widths. PSP rows
+  fit within 200px and four lines; PS2 rows fit within 258px and five lines.
+  The PS2 equipped-name layout already uses separate rows and is retained.
+- Retained v0.4.34's battle-banner artwork and the earlier Parts crash fix.
+  Regenerated both native v0.4.35 footers. Local builds only; no release
+  requested. Fresh in-game visual checks remain pending.
+
 ## PSP / PS2 v0.4.34 — 2026-10-14 (local battle-banner correction)
 
 - Translated the separate native battle HUD captions to Assist Attack and

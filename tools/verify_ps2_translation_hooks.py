@@ -58,6 +58,8 @@ def verify(data,native,build_base=None):
                     for row in read_json(build_base/filename)[key]:replacements[(row['table'],row['entry'])]=row
             for item in report['texts']:
                 if (item['table'],item['entry']) in replacements:item['lines']=replacements[(item['table'],item['entry'])]['lines']
+                if item['table']=='XPrt' and (build_base/'parts_layout.json').exists():
+                    item['lines']=read_json(build_base/'parts_layout.json')['rows'][str(item['entry'])]
                 if item['table']=='Strg' and item['entry']==1133 and (build_base/'battle_labels.json').exists():item['english']='AI'
         names_checked=0
         for item in report['texts']:
