@@ -302,6 +302,9 @@ def build(version, source_version, resume_prepared=False):
         with old.open_file_from_iso(iso_path='/DATA/BATTLE.BIN;1') as stream,battle_path.open('wb') as dst:
             copy_bytes(stream,dst,old.get_record(iso_path='/DATA/BATTLE.BIN;1').data_length)
         static=asset('STATIC.BIN')
+        from patch_battle_banners import patch as patch_banners
+        static,banner_review=patch_banners(static,'PS2')
+        save(base/'battle_banners.json',banner_review)
         from refresh_ps2_battle import refresh as refresh_battle
         battle_review=refresh_battle(battle_path,static,elf)
         save(base/'battle_review.json',battle_review)
@@ -311,7 +314,7 @@ def build(version, source_version, resume_prepared=False):
         elf,footer,meta=patch_title(elf,version,meta)
         meta['target_sha256']=sha(elf)
         for name,data in [('SLPS_253.45',elf),('MAP.BIN',maps),('FIX00.DAT',fix),
-                          ('STAGE.BIN',asset('STAGE.BIN')),('STATIC.BIN',asset('STATIC.BIN')),
+                          ('STAGE.BIN',asset('STAGE.BIN')),('STATIC.BIN',static),
                           ('PACKMAPC.BIN',asset('PACKMAPC.BIN'))]: (base/name).write_bytes(data)
         save(base/'patch.json',meta);save(base/'stage30.json',info)
         save(base/'prologue.json',previous['prologue']);save(base/'difficulty.json',previous['difficulty'])
@@ -329,7 +332,7 @@ def build(version, source_version, resume_prepared=False):
     checkpoint=read(base/'prepared.json');checkpoint['files']['prologue.json']=digest_file(base/'prologue.json');save(base/'prepared.json',checkpoint)
     # Repack from the original disc, reusing every other verified English asset.
     replacements={row['path']:None for row in previous['files'] if row['original_sha256']!=row['target_sha256']}
-    for name in ('SLPS_253.45','MAP.BIN','FIX00.DAT','BATTLE.BIN'):
+    for name in ('SLPS_253.45','MAP.BIN','FIX00.DAT','BATTLE.BIN','STATIC.BIN'):
         replacements['/SLPS_253.45;1' if name=='SLPS_253.45' else '/DATA/'+name+';1']=base/name
     records={row['path']:row for row in previous['files']}
     sizes={p:local.stat().st_size if local else records[p]['bytes'] for p,local in replacements.items()}
@@ -409,6 +412,8 @@ def build(version, source_version, resume_prepared=False):
     for key in ('ui_visual_validation','visual_checks','visual_evidence','visual_blocker','library_runtime_checks'):
         report.pop(key,None)
     report['title_footer']=footer
+    if (base/'battle_banners.json').exists():
+        report['battle_banners']=read(base/'battle_banners.json')
     report['title_footer']['readback']=title_footer.verify_iso(output,'PS2',version)
     save(ROOT/f'work/output/ps2_font_{version}_verification.json',report)
     save(ROOT/f'work/output/ps2_title_footer_{version}_verification.json',dict(version=version,footer=report['title_footer']))

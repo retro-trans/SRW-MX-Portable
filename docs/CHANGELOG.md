@@ -1,5 +1,19 @@
 # Changelog
 
+## PSP / PS2 v0.4.34 — 2026-10-14 (local battle-banner correction)
+
+- Translated the separate native battle HUD captions to Assist Attack and
+  Simul. Attack (Simultaneous Attack) on both platforms. Both use readable
+  13px outlined lettering within their original 84x24 fields.
+- Preserved the existing palettes and every other atlas pixel. The earlier
+  translated map banners did not cover these battle-animation captions.
+- Added the guarded artwork correction to full PSP and PS2 builds. Local
+  candidates retain all v0.4.33 game data and regenerate both native title
+  screens with v0.4.34 and github.com/retro-trans.
+- Verified complete output hashes, native caption readback, unchanged disc
+  layouts and PS2 directory views. Fresh in-game display remains pending;
+  no GitHub release requested. See `docs/battle_banners.md`.
+
 ## PSP / PS2 v0.4.33 — 2026-10-13
 
 - Restored 1,705 English battle quotes from the v0.4.1 source snapshot in

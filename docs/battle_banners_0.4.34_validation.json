@@ -1,0 +1,74 @@
+{
+  "version": "0.4.34",
+  "base_version": "0.4.33",
+  "local_build_only": true,
+  "github_release": false,
+  "platforms": {
+    "PSP": {
+      "output": "work/output/SRWMX_EN_0.4.34.iso",
+      "sha256": "d1d7805027d9532d9083aa46aa720b2647ece97cd94264e26706f444a3571f9e",
+      "bytes": 1315903488,
+      "complete_output_hash_verified": true,
+      "all_other_disc_bytes_preserved": true,
+      "caption_readback": {
+        "platform": "PSP",
+        "native_iso_caption_artwork_verified": true,
+        "resource_sha256": "724b642ff689df83244c3e0393653c9796ee5d0e6407c9a998059621cc58d190",
+        "captions": [
+          "Assist Attack",
+          "Simul. Attack"
+        ]
+      },
+      "native_title_footer": {
+        "version": "0.4.34",
+        "credit": "github.com/retro-trans",
+        "actual_iso_pixels_verified": true,
+        "resource_sha256": "9ef4ee074414d2df211086ea189159c251e370e8fc656967228bc629bb8649fe"
+      },
+      "release_guard_rejects_untranslated_baseline": true,
+      "idempotence_verified": true,
+      "file_layouts_preserved": 32,
+      "udf_readback": {}
+    },
+    "PS2": {
+      "output": "work/output/SRWMX_PS2_EN_0.4.34.iso",
+      "sha256": "50b9c7e2750b11d503ea32fe41f447e8185b024784b9c3d8f75c5472c4d7c3dd",
+      "bytes": 4659449856,
+      "complete_output_hash_verified": true,
+      "all_other_disc_bytes_preserved": true,
+      "caption_readback": {
+        "platform": "PS2",
+        "native_iso_caption_artwork_verified": true,
+        "resource_sha256": "5a4aa91c99ce5695ddfaf994f33c01f55b5cf0f2039253913aa2d041dca35ed1",
+        "captions": [
+          "Assist Attack",
+          "Simul. Attack"
+        ]
+      },
+      "native_title_footer": {
+        "version": "0.4.34",
+        "credit": "github.com/retro-trans",
+        "actual_iso_footer_verified": true,
+        "resource_sha256": "ae9b4ffd31b3a4f700cefb36c1a2ba57d64ede32a7a78ee1a1a3fd902c74c517",
+        "renderer_va": "0x7d9680",
+        "block_va": "0x7d9580",
+        "block_offset": 4793728,
+        "native_title_hook_verified": true,
+        "footer_strings": [
+          "v0.4.34",
+          "github.com/retro-trans"
+        ]
+      },
+      "release_guard_rejects_untranslated_baseline": true,
+      "idempotence_verified": true,
+      "file_layouts_preserved": 37,
+      "udf_readback": {
+        "/DATA/STATIC.BIN;1": true,
+        "/SLPS_253.45;1": true
+      }
+    }
+  },
+  "ps2_title_state_cases_passed": 42,
+  "fresh_in_game_visual_validation": "pending; user-stopped GUI checks not resumed",
+  "source_export": "2200 commit-safe copies; new caption source independently checked with strip_jp.clean"
+}

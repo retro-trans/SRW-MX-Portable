@@ -86,6 +86,10 @@ def build(source):
     static, caption_report = patch_at_field((WORK/'STATIC.BIN').read_bytes(), 'PS2')
     from patch_battle_hud import patch as patch_battle_hud
     static, hud_report = patch_battle_hud(static, 'PS2')
+    from patch_battle_banners import patch as patch_battle_banners
+    static, banner_report = patch_battle_banners(static, 'PS2')
+    save(TR/'battle_banners.en.json', banner_report)
+    save(WORK/'battle_banners.json', banner_report)
     save(TR/'battle_hud.en.json', hud_report)
     save(WORK/'battle_hud.json', hud_report)
     (WORK/'STATIC.BIN').write_bytes(static)

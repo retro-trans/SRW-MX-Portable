@@ -1,0 +1,810 @@
+{
+  "version": "0.4.34",
+  "base_version": "0.4.33",
+  "platform": "PSP",
+  "source_sha256": "e4f5d968b3a3af9e1aef44fdb828b2bdadb745828de1714f4a21fd4990f144be",
+  "output": "work/output/SRWMX_EN_0.4.34.iso",
+  "output_sha256": "d1d7805027d9532d9083aa46aa720b2647ece97cd94264e26706f444a3571f9e",
+  "bytes": 1315903488,
+  "banner_artwork": {
+    "platform": "PSP",
+    "regions": [
+      {
+        "id": "assist_attack",
+        "english": "Assist Attack",
+        "text": "Assist Attack",
+        "box": [
+          0,
+          152,
+          84,
+          176
+        ],
+        "cap": 18,
+        "style": "caption",
+        "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities",
+        "cap_height": 13,
+        "ink_bounds": [
+          2,
+          157,
+          81,
+          170
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "f1fd68d189184380f0120b3a6f2bd307e1fd178b99c090e0d53235e28b090531",
+        "target_pixel_sha256": "c2c48f3649ec3ef326e8aba64d7e19be64b81290164b7ac3f5ada36e4ac94fe6",
+        "already_translated": false
+      },
+      {
+        "id": "simultaneous_attack",
+        "english": "Simultaneous Attack",
+        "text": "Simul. Attack",
+        "box": [
+          84,
+          128,
+          168,
+          152
+        ],
+        "cap": 18,
+        "style": "caption",
+        "notes": "Existing project translation. Compact display keeps a 13px cap height in the native 84px field; full wording would reduce it to 8px.",
+        "cap_height": 13,
+        "ink_bounds": [
+          86,
+          133,
+          165,
+          146
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "0500b3ed7292b8f237a626b5ec71e1a23d3866ef3ef3dae22c3719239b27fdc4",
+        "target_pixel_sha256": "e11dd707d4cba652d07da94e5da5e54e80dd44a948643dee1791c2388a157632",
+        "already_translated": false
+      }
+    ],
+    "pixel_ranges": [
+      [
+        1066068,
+        1066152
+      ],
+      [
+        1066580,
+        1066664
+      ],
+      [
+        1067092,
+        1067176
+      ],
+      [
+        1067604,
+        1067688
+      ],
+      [
+        1068116,
+        1068200
+      ],
+      [
+        1068628,
+        1068712
+      ],
+      [
+        1069140,
+        1069224
+      ],
+      [
+        1069652,
+        1069736
+      ],
+      [
+        1070164,
+        1070248
+      ],
+      [
+        1070676,
+        1070760
+      ],
+      [
+        1071188,
+        1071272
+      ],
+      [
+        1071700,
+        1071784
+      ],
+      [
+        1072212,
+        1072296
+      ],
+      [
+        1072724,
+        1072808
+      ],
+      [
+        1073236,
+        1073320
+      ],
+      [
+        1073748,
+        1073832
+      ],
+      [
+        1074260,
+        1074344
+      ],
+      [
+        1074772,
+        1074856
+      ],
+      [
+        1075284,
+        1075368
+      ],
+      [
+        1075796,
+        1075880
+      ],
+      [
+        1076308,
+        1076392
+      ],
+      [
+        1076820,
+        1076904
+      ],
+      [
+        1077332,
+        1077416
+      ],
+      [
+        1077844,
+        1077928
+      ],
+      [
+        1078272,
+        1078356
+      ],
+      [
+        1078784,
+        1078868
+      ],
+      [
+        1079296,
+        1079380
+      ],
+      [
+        1079808,
+        1079892
+      ],
+      [
+        1080320,
+        1080404
+      ],
+      [
+        1080832,
+        1080916
+      ],
+      [
+        1081344,
+        1081428
+      ],
+      [
+        1081856,
+        1081940
+      ],
+      [
+        1082368,
+        1082452
+      ],
+      [
+        1082880,
+        1082964
+      ],
+      [
+        1083392,
+        1083476
+      ],
+      [
+        1083904,
+        1083988
+      ],
+      [
+        1084416,
+        1084500
+      ],
+      [
+        1084928,
+        1085012
+      ],
+      [
+        1085440,
+        1085524
+      ],
+      [
+        1085952,
+        1086036
+      ],
+      [
+        1086464,
+        1086548
+      ],
+      [
+        1086976,
+        1087060
+      ],
+      [
+        1087488,
+        1087572
+      ],
+      [
+        1088000,
+        1088084
+      ],
+      [
+        1088512,
+        1088596
+      ],
+      [
+        1089024,
+        1089108
+      ],
+      [
+        1089536,
+        1089620
+      ],
+      [
+        1090048,
+        1090132
+      ]
+    ],
+    "source_resource_sha256": "964c7aa9b221773ae6a029c8140fce7bb35c623ab94716b54ba361c33fae6da2",
+    "target_resource_sha256": "724b642ff689df83244c3e0393653c9796ee5d0e6407c9a998059621cc58d190",
+    "palette_preserved": true,
+    "all_other_pixels_and_bytes_preserved": true
+  },
+  "footer": {
+    "platform": "PSP",
+    "version": "0.4.34",
+    "credit": "github.com/retro-trans",
+    "asset": "/PSP_GAME/USRDIR/OPWND.BIN",
+    "palette_offset": "0x2d3b40",
+    "atlas_size": [
+      512,
+      256
+    ],
+    "visible_width": 480,
+    "box": [
+      243,
+      133,
+      417,
+      173
+    ],
+    "font": "Genei LateGo v2 Medium",
+    "font_size": 14,
+    "panel": false,
+    "lines": [
+      {
+        "text": "v0.4.34",
+        "bounds": [
+          366.25,
+          140.0,
+          417,
+          153
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "bounds": [
+          262.25,
+          155.5,
+          417,
+          173
+        ]
+      }
+    ],
+    "pixel_ranges": [
+      [
+        2965312,
+        2965486
+      ],
+      [
+        2965824,
+        2965998
+      ],
+      [
+        2966336,
+        2966510
+      ],
+      [
+        2966848,
+        2967022
+      ],
+      [
+        2967360,
+        2967534
+      ],
+      [
+        2967872,
+        2968046
+      ],
+      [
+        2968384,
+        2968558
+      ],
+      [
+        2968896,
+        2969070
+      ],
+      [
+        2969408,
+        2969582
+      ],
+      [
+        2969920,
+        2970094
+      ],
+      [
+        2970432,
+        2970606
+      ],
+      [
+        2970944,
+        2971118
+      ],
+      [
+        2971456,
+        2971630
+      ],
+      [
+        2971968,
+        2972142
+      ],
+      [
+        2972480,
+        2972654
+      ],
+      [
+        2972992,
+        2973166
+      ],
+      [
+        2973504,
+        2973678
+      ],
+      [
+        2974016,
+        2974190
+      ],
+      [
+        2974528,
+        2974702
+      ],
+      [
+        2975040,
+        2975214
+      ],
+      [
+        2975552,
+        2975726
+      ],
+      [
+        2976064,
+        2976238
+      ],
+      [
+        2976576,
+        2976750
+      ],
+      [
+        2977088,
+        2977262
+      ],
+      [
+        2977600,
+        2977774
+      ],
+      [
+        2978112,
+        2978286
+      ],
+      [
+        2978624,
+        2978798
+      ],
+      [
+        2979136,
+        2979310
+      ],
+      [
+        2979648,
+        2979822
+      ],
+      [
+        2980160,
+        2980334
+      ],
+      [
+        2980672,
+        2980846
+      ],
+      [
+        2981184,
+        2981358
+      ],
+      [
+        2981696,
+        2981870
+      ],
+      [
+        2982208,
+        2982382
+      ],
+      [
+        2982720,
+        2982894
+      ],
+      [
+        2983232,
+        2983406
+      ],
+      [
+        2983744,
+        2983918
+      ],
+      [
+        2984256,
+        2984430
+      ],
+      [
+        2984768,
+        2984942
+      ],
+      [
+        2985280,
+        2985454
+      ],
+      [
+        3033651,
+        3033825
+      ],
+      [
+        3034163,
+        3034337
+      ],
+      [
+        3034675,
+        3034849
+      ],
+      [
+        3035187,
+        3035361
+      ],
+      [
+        3035699,
+        3035873
+      ],
+      [
+        3036211,
+        3036385
+      ],
+      [
+        3036723,
+        3036897
+      ],
+      [
+        3037235,
+        3037409
+      ],
+      [
+        3037747,
+        3037921
+      ],
+      [
+        3038259,
+        3038433
+      ],
+      [
+        3038771,
+        3038945
+      ],
+      [
+        3039283,
+        3039457
+      ],
+      [
+        3039795,
+        3039969
+      ],
+      [
+        3040307,
+        3040481
+      ],
+      [
+        3040819,
+        3040993
+      ],
+      [
+        3041331,
+        3041505
+      ],
+      [
+        3041843,
+        3042017
+      ],
+      [
+        3042355,
+        3042529
+      ],
+      [
+        3042867,
+        3043041
+      ],
+      [
+        3043379,
+        3043553
+      ],
+      [
+        3043891,
+        3044065
+      ],
+      [
+        3044403,
+        3044577
+      ],
+      [
+        3044915,
+        3045089
+      ],
+      [
+        3045427,
+        3045601
+      ],
+      [
+        3045939,
+        3046113
+      ],
+      [
+        3046451,
+        3046625
+      ],
+      [
+        3046963,
+        3047137
+      ],
+      [
+        3047475,
+        3047649
+      ],
+      [
+        3047987,
+        3048161
+      ],
+      [
+        3048499,
+        3048673
+      ],
+      [
+        3049011,
+        3049185
+      ],
+      [
+        3049523,
+        3049697
+      ],
+      [
+        3050035,
+        3050209
+      ],
+      [
+        3050547,
+        3050721
+      ],
+      [
+        3051059,
+        3051233
+      ],
+      [
+        3051571,
+        3051745
+      ],
+      [
+        3052083,
+        3052257
+      ],
+      [
+        3052595,
+        3052769
+      ],
+      [
+        3053107,
+        3053281
+      ],
+      [
+        3053619,
+        3053793
+      ]
+    ],
+    "source_region_sha256": "6c57da92cc1a1912b14dd250b38981ef047ae82c0f557c09264a70f88350cf74",
+    "target_region_sha256": "ba7b4d24f4c6fe03d966cbe53ac6597ce3609c1abc5b3051a18d21296bdb20a7",
+    "palette_sha256": "33c0e1086cfb18254f6d24ba3116dc66bb0680129e2e6b35fde5d4bf2eff22a5",
+    "source_resource_sha256": "d911f47705bb15e24c034702b22ce5cbae2dc274055f5bfd97e7fe0ab4fa7bee",
+    "target_resource_sha256": "9ef4ee074414d2df211086ea189159c251e370e8fc656967228bc629bb8649fe",
+    "palette_preserved": true,
+    "old_upper_left_panel_removed": true,
+    "all_other_pixels_and_data_preserved": true,
+    "disc_extent": 822740992,
+    "readback": {
+      "version": "0.4.34",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "9ef4ee074414d2df211086ea189159c251e370e8fc656967228bc629bb8649fe"
+    }
+  },
+  "files": [
+    {
+      "path": "/PSP_GAME/ICON0.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PIC1.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SND0.AT3",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/BOOT.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/EBOOT.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BATTLE2.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/D2MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/FACEPACK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/IM_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/AUDIOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/LIBATRAC3PLUS.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEG.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEGBASE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/SC_SASCORE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/VIDEOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MOVIE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/OPWND.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/PACKMAPC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SAVE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSQ.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSTRM.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/STATIC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WND.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WNDH.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/UMD_DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {},
+  "complete_output_hash_verified": true,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "iso_caption_readback_verified": true,
+  "visual_validation": "Actual ISO artwork previews pass; fresh in-game display pending",
+  "local_build_only": true,
+  "github_release": false
+}

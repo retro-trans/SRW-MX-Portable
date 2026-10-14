@@ -54,10 +54,13 @@ def main(version):
     assert battle_quotes.verify(str(ROOT/f'work/output/SRWMX_EN_{version}.iso')) == 0, \
         'PSP native battle quotes differ from complete English sources'
     from verify_battle_release import verify as verify_battle
+    from patch_battle_banners import verify_iso as verify_banners
     battle_checks={}
+    banner_checks={}
     for platform,prefix in [('PSP','SRWMX_EN_'),('PS2','SRWMX_PS2_EN_')]:
         battle_checks[platform]=verify_battle(ROOT/f'work/output/{prefix}{version}.iso',platform)
         save(ROOT/f'work/output/{platform.lower()}_battle_{version}_verification.json',battle_checks[platform])
+        banner_checks[platform]=verify_banners(ROOT/f'work/output/{prefix}{version}.iso',platform)
     psp=read(ROOT/f'work/output/campaign_{version}_verification.json')
     ps2=read(ROOT/f'work/output/ps2_font_{version}_verification.json')
     native=read(ROOT/f'work/output/psp_native_{version}_execution.json')
@@ -77,6 +80,7 @@ def main(version):
     assert ps2['campaign_review']['inputs']==read(ROOT/f'work/output/campaign_{version}_inputs.json')['input_sha256']
     data=dict(version=version,date='2026-10-13',all_artifact_checks_passed=True,
         native_battle_quotes=battle_checks,
+        native_battle_banner_artwork=banner_checks,
         psp_non_story_text=psp_text,
         campaign_proofreading_included=True,outputs=outputs,native_iso_footer_readback=footers,
         psp_story=dict(blocks=psp['script_blocks'],original_readable_uses=psp['original_readable_uses_verified'],

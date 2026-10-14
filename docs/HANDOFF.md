@@ -1,3 +1,28 @@
+# Local shared v0.4.34 — battle-animation banners
+
+Completed 2026-10-15 for screenshots supplied 2026-10-14. The separate blue/white
+native HUD captions now display Assist Attack and Simul. Attack (full term:
+Simultaneous Attack). Both platforms use the same two 84x24 atlas rectangles.
+The existing translated map banners did not cover these animation assets.
+Complete streaming source/output hash verification, exact ISO caption readback,
+unchanged file extents and sizes, retained palettes, idempotence and exact new
+native title footers pass. PS2 reads both changed assets through ISO9660 and UDF.
+Everything outside the caption pixels and new version footer remains exact.
+
+PSP: `work/output/SRWMX_EN_0.4.34.iso`, SHA256
+`d1d7805027d9532d9083aa46aa720b2647ece97cd94264e26706f444a3571f9e`.
+PS2: `work/output/SRWMX_PS2_EN_0.4.34.iso`, SHA256
+`50b9c7e2750b11d503ea32fe41f447e8185b024784b9c3d8f75c5472c4d7c3dd`.
+Evidence: `work/output/{psp,ps2}_battle_banners_0.4.34_verification.json`.
+Previews: `work/ui/{psp,ps2}/battle_banners_0.4.34/` and `iso_readback/`.
+Source/tool details: `docs/battle_banners.md`.
+PSP/PS2 full builders now include the guarded correction; release verification
+rejects untranslated caption artwork. No release requested for v0.4.34.
+Fresh in-game visual checks remain pending. Output reports for older releases
+were cleaned before this task; public v0.4.33 manifest/tests were recovered to
+`work/build/battle_banners_baseline_0.4.33/` and their exact ISO hashes verified.
+The historical prepared v0.4.33 PS2 assets and font metadata remain available.
+
 # Published shared v0.4.33 — 2026-10-13
 
 Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.33.

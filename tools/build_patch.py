@@ -188,6 +188,8 @@ def main(iso_path, version, *rest):
         static2_new, _ = patch_at_field(static2_new, 'PSP')
         from patch_battle_hud import patch as patch_battle_hud
         static2_new, _ = patch_battle_hud(static2_new, 'PSP')
+        from patch_battle_banners import patch as patch_battle_banners
+        static2_new, _ = patch_battle_banners(static2_new, 'PSP')
         assert len(redraw_banners.textures(map_new)) == len(redraw_banners.textures(map_add)), 'MAP_ADD textures moved'
         map_new = redraw_banners.patch(map_new, 'MAP_ADD.BIN')
         import insert_tiles                         # map cursor terrain names

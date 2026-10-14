@@ -1,5 +1,12 @@
 # Glossary decisions
 
+Battle-animation captions (2026-10-14): Assist Attack follows Akurasu's MX
+Pilot Abilities entry and matches the existing menus. Simultaneous Attack is
+the existing full project translation; the 84px native banner uses the display
+abbreviation **Simul. Attack**, retaining the meaning while allowing 13px
+letters instead of reducing the full wording to 8px. This is a field-width
+abbreviation, not an override of the glossary's full term.
+
 The PS2-only scenario title uses **Hades Sorties at Dawn**, following the
 [Akurasu MX flow chart](https://akurasu.net/wiki/Super_Robot_Wars/MX/Flow_Chart).
 The PSP title differs, so its English title/card is not copied into that PS2

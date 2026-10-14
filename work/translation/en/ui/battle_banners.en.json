@@ -1,0 +1,23 @@
+{
+  "scope": "PSP and PS2 native blue/white battle-animation HUD captions",
+  "regions": [
+    {
+      "id": "assist_attack",
+      "english": "Assist Attack",
+      "text": "Assist Attack",
+      "box": [0, 152, 84, 176],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities"
+    },
+    {
+      "id": "simultaneous_attack",
+      "english": "Simultaneous Attack",
+      "text": "Simul. Attack",
+      "box": [84, 128, 168, 152],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Existing project translation. Compact display keeps a 13px cap height in the native 84px field; full wording would reduce it to 8px."
+    }
+  ]
+}

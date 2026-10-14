@@ -1,0 +1,253 @@
+{
+  "platform": "PS2",
+  "regions": [
+    {
+      "id": "assist_attack",
+      "english": "Assist Attack",
+      "text": "Assist Attack",
+      "box": [
+        0,
+        152,
+        84,
+        176
+      ],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities",
+      "cap_height": 13,
+      "ink_bounds": [
+        2,
+        157,
+        81,
+        170
+      ],
+      "horizontal_rescaling": false,
+      "source_pixel_sha256": "2c3ed359f9380979d147b98e1fb5935856bd9eeb5371dc1488d91990c59bbbaf",
+      "target_pixel_sha256": "213df662b617a22676393c6d4996dfb0657099fef0a5c7521116866aae66cfd0",
+      "already_translated": false
+    },
+    {
+      "id": "simultaneous_attack",
+      "english": "Simultaneous Attack",
+      "text": "Simul. Attack",
+      "box": [
+        84,
+        128,
+        168,
+        152
+      ],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Existing project translation. Compact display keeps a 13px cap height in the native 84px field; full wording would reduce it to 8px.",
+      "cap_height": 13,
+      "ink_bounds": [
+        86,
+        133,
+        165,
+        146
+      ],
+      "horizontal_rescaling": false,
+      "source_pixel_sha256": "fd1acee65d1ea0a5ce9995637b7c7dff16ae1ccd93dc0ea1ac84ba599042aae8",
+      "target_pixel_sha256": "be4e059b7d8a250ac6535439a07943ffd3599b5417a4b685d730545faf3c2b5e",
+      "already_translated": false
+    }
+  ],
+  "pixel_ranges": [
+    [
+      1394772,
+      1394856
+    ],
+    [
+      1395796,
+      1395880
+    ],
+    [
+      1396820,
+      1396904
+    ],
+    [
+      1397844,
+      1397928
+    ],
+    [
+      1398868,
+      1398952
+    ],
+    [
+      1399892,
+      1399976
+    ],
+    [
+      1400916,
+      1401000
+    ],
+    [
+      1401940,
+      1402024
+    ],
+    [
+      1402964,
+      1403048
+    ],
+    [
+      1403988,
+      1404072
+    ],
+    [
+      1405012,
+      1405096
+    ],
+    [
+      1406036,
+      1406120
+    ],
+    [
+      1407060,
+      1407144
+    ],
+    [
+      1408084,
+      1408168
+    ],
+    [
+      1409108,
+      1409192
+    ],
+    [
+      1410132,
+      1410216
+    ],
+    [
+      1411156,
+      1411240
+    ],
+    [
+      1412180,
+      1412264
+    ],
+    [
+      1413204,
+      1413288
+    ],
+    [
+      1414228,
+      1414312
+    ],
+    [
+      1415252,
+      1415336
+    ],
+    [
+      1416276,
+      1416360
+    ],
+    [
+      1417300,
+      1417384
+    ],
+    [
+      1418324,
+      1418408
+    ],
+    [
+      1419264,
+      1419348
+    ],
+    [
+      1420288,
+      1420372
+    ],
+    [
+      1421312,
+      1421396
+    ],
+    [
+      1422336,
+      1422420
+    ],
+    [
+      1423360,
+      1423444
+    ],
+    [
+      1424384,
+      1424468
+    ],
+    [
+      1425408,
+      1425492
+    ],
+    [
+      1426432,
+      1426516
+    ],
+    [
+      1427456,
+      1427540
+    ],
+    [
+      1428480,
+      1428564
+    ],
+    [
+      1429504,
+      1429588
+    ],
+    [
+      1430528,
+      1430612
+    ],
+    [
+      1431552,
+      1431636
+    ],
+    [
+      1432576,
+      1432660
+    ],
+    [
+      1433600,
+      1433684
+    ],
+    [
+      1434624,
+      1434708
+    ],
+    [
+      1435648,
+      1435732
+    ],
+    [
+      1436672,
+      1436756
+    ],
+    [
+      1437696,
+      1437780
+    ],
+    [
+      1438720,
+      1438804
+    ],
+    [
+      1439744,
+      1439828
+    ],
+    [
+      1440768,
+      1440852
+    ],
+    [
+      1441792,
+      1441876
+    ],
+    [
+      1442816,
+      1442900
+    ]
+  ],
+  "source_resource_sha256": "1adc77791f24f7f4dfa2dfcdd086a536f84e95df73ea9d9f6018d8b7a094566b",
+  "target_resource_sha256": "5a4aa91c99ce5695ddfaf994f33c01f55b5cf0f2039253913aa2d041dca35ed1",
+  "palette_preserved": true,
+  "all_other_pixels_and_bytes_preserved": true
+}
