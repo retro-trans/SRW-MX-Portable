@@ -1,4 +1,4 @@
-"""Translate two native battle-animation captions in the shared HUD atlas.
+"""Translate registered native battle-animation captions in the shared HUD atlas.
 
 These blue/white captions are separate from the TX48/P2IG map banners.
 Only their indexed pixel rectangles change; their existing CLUT is retained.
@@ -12,7 +12,7 @@ from patch_battle_hud import picture, render
 TERMS = ROOT/'work/translation/en/ui/battle_banners.en.json'
 
 
-def patch(data, platform, preview=None):
+def patch(data, platform, preview=None, region_ids=None):
     spec = SPECS[platform]
     width, height = spec['size']
     pixels = spec['pixels']
@@ -22,6 +22,10 @@ def patch(data, platform, preview=None):
     assert data[spec['palette']:spec['palette']+1024] == native[spec['palette']:spec['palette']+1024]
     pal = palette(data, platform)
     rows = json.loads(TERMS.read_text(encoding='utf-8'))['regions']
+    if region_ids is not None:
+        requested=set(region_ids)
+        assert requested and requested<={row['id'] for row in rows},'Unknown recorded caption IDs'
+        rows=[row for row in rows if row['id'] in requested]
     output = bytearray(data)
     ranges, records = [], []
     for row in rows:
@@ -31,6 +35,9 @@ def patch(data, platform, preview=None):
             return b''.join(resource[pixels+y*width+x0:pixels+y*width+x1]
                             for y in range(y0, y1))
         before, original = crop(data), crop(native)
+        if row['id']=='god_shadow':
+            assert not any(pal[v][0]>2*max(pal[v][1],pal[v][2]) for v in original), \
+                'God Shadow rectangle includes the adjacent red EN label'
         translated, layout = render(original, pal, row)
         assert before in (original, translated), 'Unknown caption artwork: '+row['id']
         stride = x1-x0
@@ -51,9 +58,10 @@ def patch(data, platform, preview=None):
     if preview:
         preview = Path(preview)
         preview.mkdir(parents=True, exist_ok=True)
-        sheet = Image.new('RGB', (704, 260), (35, 35, 45))
+        column_width = max(row['box'][2]-row['box'][0] for row in rows)*4+16
+        sheet = Image.new('RGB', (column_width*2, 36+len(rows)*112), (35, 35, 45))
         draw = ImageDraw.Draw(sheet)
-        for column, label, raw in [(0, 'Before', data), (352, 'English', output)]:
+        for column, label, raw in [(0, 'Before', data), (column_width, 'English', output)]:
             draw.text((column+8, 8), label, fill='white')
             for i, row in enumerate(rows):
                 image = picture(raw, platform).crop(row['box'])

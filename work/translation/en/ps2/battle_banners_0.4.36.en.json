@@ -1,0 +1,651 @@
+{
+  "version": "0.4.36",
+  "base_version": "0.4.35",
+  "platform": "PS2",
+  "source_sha256": "8001af3ec9cd9140ef36bfca57efae5ef086234c4d13b6162358e41d9d4c968c",
+  "output": "work/output/SRWMX_PS2_EN_0.4.36.iso",
+  "output_sha256": "3637bebd8c378035d83b618986fdde1d58dc48504b4d1eacecf26554978f5ca8",
+  "bytes": 4659449856,
+  "banner_artwork": {
+    "platform": "PS2",
+    "regions": [
+      {
+        "id": "assist_attack",
+        "english": "Assist Attack",
+        "text": "Assist Attack",
+        "box": [
+          0,
+          152,
+          84,
+          176
+        ],
+        "cap": 18,
+        "style": "caption",
+        "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities",
+        "cap_height": 13,
+        "ink_bounds": [
+          2,
+          157,
+          81,
+          170
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "2c3ed359f9380979d147b98e1fb5935856bd9eeb5371dc1488d91990c59bbbaf",
+        "target_pixel_sha256": "213df662b617a22676393c6d4996dfb0657099fef0a5c7521116866aae66cfd0",
+        "already_translated": true
+      },
+      {
+        "id": "simultaneous_attack",
+        "english": "Simultaneous Attack",
+        "text": "Simul. Attack",
+        "box": [
+          84,
+          128,
+          168,
+          152
+        ],
+        "cap": 18,
+        "style": "caption",
+        "notes": "Existing project translation. Compact display keeps a 13px cap height in the native 84px field; full wording would reduce it to 8px.",
+        "cap_height": 13,
+        "ink_bounds": [
+          86,
+          133,
+          165,
+          146
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "fd1acee65d1ea0a5ce9995637b7c7dff16ae1ccd93dc0ea1ac84ba599042aae8",
+        "target_pixel_sha256": "be4e059b7d8a250ac6535439a07943ffd3599b5417a4b685d730545faf3c2b5e",
+        "already_translated": true
+      },
+      {
+        "id": "god_shadow",
+        "english": "God Shadow",
+        "text": "God Shadow",
+        "box": [
+          240,
+          48,
+          348,
+          72
+        ],
+        "cap": 18,
+        "style": "caption",
+        "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+        "cap_height": 18,
+        "ink_bounds": [
+          245,
+          51,
+          343,
+          69
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "10f2c1eb8000f8e3b4c94dac7c23857bbaaa5ef31c76789eda3f31d3cca1cda9",
+        "target_pixel_sha256": "5fe9d4756dfefeb97fe27641703dcdc2075ae8783b7c79e293693146e68b28dd",
+        "already_translated": false
+      }
+    ],
+    "pixel_ranges": [
+      [
+        1313008,
+        1313116
+      ],
+      [
+        1314032,
+        1314140
+      ],
+      [
+        1315056,
+        1315164
+      ],
+      [
+        1316080,
+        1316188
+      ],
+      [
+        1317104,
+        1317212
+      ],
+      [
+        1318128,
+        1318236
+      ],
+      [
+        1319152,
+        1319260
+      ],
+      [
+        1320176,
+        1320284
+      ],
+      [
+        1321200,
+        1321308
+      ],
+      [
+        1322224,
+        1322332
+      ],
+      [
+        1323248,
+        1323356
+      ],
+      [
+        1324272,
+        1324380
+      ],
+      [
+        1325296,
+        1325404
+      ],
+      [
+        1326320,
+        1326428
+      ],
+      [
+        1327344,
+        1327452
+      ],
+      [
+        1328368,
+        1328476
+      ],
+      [
+        1329392,
+        1329500
+      ],
+      [
+        1330416,
+        1330524
+      ],
+      [
+        1331440,
+        1331548
+      ],
+      [
+        1332464,
+        1332572
+      ],
+      [
+        1333488,
+        1333596
+      ],
+      [
+        1334512,
+        1334620
+      ],
+      [
+        1335536,
+        1335644
+      ],
+      [
+        1336560,
+        1336668
+      ],
+      [
+        1394772,
+        1394856
+      ],
+      [
+        1395796,
+        1395880
+      ],
+      [
+        1396820,
+        1396904
+      ],
+      [
+        1397844,
+        1397928
+      ],
+      [
+        1398868,
+        1398952
+      ],
+      [
+        1399892,
+        1399976
+      ],
+      [
+        1400916,
+        1401000
+      ],
+      [
+        1401940,
+        1402024
+      ],
+      [
+        1402964,
+        1403048
+      ],
+      [
+        1403988,
+        1404072
+      ],
+      [
+        1405012,
+        1405096
+      ],
+      [
+        1406036,
+        1406120
+      ],
+      [
+        1407060,
+        1407144
+      ],
+      [
+        1408084,
+        1408168
+      ],
+      [
+        1409108,
+        1409192
+      ],
+      [
+        1410132,
+        1410216
+      ],
+      [
+        1411156,
+        1411240
+      ],
+      [
+        1412180,
+        1412264
+      ],
+      [
+        1413204,
+        1413288
+      ],
+      [
+        1414228,
+        1414312
+      ],
+      [
+        1415252,
+        1415336
+      ],
+      [
+        1416276,
+        1416360
+      ],
+      [
+        1417300,
+        1417384
+      ],
+      [
+        1418324,
+        1418408
+      ],
+      [
+        1419264,
+        1419348
+      ],
+      [
+        1420288,
+        1420372
+      ],
+      [
+        1421312,
+        1421396
+      ],
+      [
+        1422336,
+        1422420
+      ],
+      [
+        1423360,
+        1423444
+      ],
+      [
+        1424384,
+        1424468
+      ],
+      [
+        1425408,
+        1425492
+      ],
+      [
+        1426432,
+        1426516
+      ],
+      [
+        1427456,
+        1427540
+      ],
+      [
+        1428480,
+        1428564
+      ],
+      [
+        1429504,
+        1429588
+      ],
+      [
+        1430528,
+        1430612
+      ],
+      [
+        1431552,
+        1431636
+      ],
+      [
+        1432576,
+        1432660
+      ],
+      [
+        1433600,
+        1433684
+      ],
+      [
+        1434624,
+        1434708
+      ],
+      [
+        1435648,
+        1435732
+      ],
+      [
+        1436672,
+        1436756
+      ],
+      [
+        1437696,
+        1437780
+      ],
+      [
+        1438720,
+        1438804
+      ],
+      [
+        1439744,
+        1439828
+      ],
+      [
+        1440768,
+        1440852
+      ],
+      [
+        1441792,
+        1441876
+      ],
+      [
+        1442816,
+        1442900
+      ]
+    ],
+    "source_resource_sha256": "5a4aa91c99ce5695ddfaf994f33c01f55b5cf0f2039253913aa2d041dca35ed1",
+    "target_resource_sha256": "4bdf58315ed4b06f270bf4c2c0aac577450f47e8602a969f72d8703df4d40a64",
+    "palette_preserved": true,
+    "all_other_pixels_and_bytes_preserved": true
+  },
+  "footer": {
+    "version": "0.4.36",
+    "credit": "github.com/retro-trans",
+    "asset": "/SLPS_253.45;1",
+    "mechanism": "Native title draw callback",
+    "block_offset": 4793728,
+    "block_va": "0x7d9580",
+    "block_bytes": 1536,
+    "hook_va": "0x2c1e28",
+    "renderer_va": "0x7d9680",
+    "private_context_va": "0x7d9620",
+    "private_context_bytes": 96,
+    "font_size": 16,
+    "right_edge": 626,
+    "line_y": [
+      250,
+      268
+    ],
+    "byte_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "footer_strings": [
+      "v0.4.36",
+      "github.com/retro-trans"
+    ],
+    "pixel_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "source_resource_sha256": "2f22e39234e2352b19f441cc2713ce9a8a0cc77de0da378ebc382d5eb71c72e1",
+    "target_resource_sha256": "2f51f538b4f647456693a47c5474be1e6a5a8a21aa6883c1b7d5c12a1fef4300",
+    "disc_extent": 4654622720,
+    "readback": {
+      "version": "0.4.36",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "2f51f538b4f647456693a47c5474be1e6a5a8a21aa6883c1b7d5c12a1fef4300",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.36",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "caption_readback": {
+    "platform": "PS2",
+    "native_iso_caption_artwork_verified": true,
+    "resource_sha256": "4bdf58315ed4b06f270bf4c2c0aac577450f47e8602a969f72d8703df4d40a64",
+    "captions": [
+      "Assist Attack",
+      "Simul. Attack",
+      "God Shadow"
+    ]
+  },
+  "files": [
+    {
+      "path": "/DATA/BATTLE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAPH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FACEPACK.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FIX00.DAT;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX0.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX1.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/IM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PACKMAPC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUI.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUIH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STAGE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STATIC.BIN;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/DATA/STRM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DUMMY.;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/CDVDSTM.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/HELLO.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/IOPRP270.IMG;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/LIBSD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCSERV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODDELAY.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODMIDI.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYCDVD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYSND.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/PADMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SDRDRV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SIO2MAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/SLPS_253.45;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/SYSTEM.CNF;1",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {
+    "/DATA/STATIC.BIN;1": true,
+    "/SLPS_253.45;1": true
+  },
+  "complete_output_hash_verified": true,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "iso_caption_readback_verified": true,
+  "visual_validation": "Actual ISO artwork previews pass; fresh in-game display pending",
+  "local_build_only": true,
+  "github_release": false
+}

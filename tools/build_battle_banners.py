@@ -26,9 +26,15 @@ def build(platform, base, version):
     manifest_path = ROOT/f'work/output/release-v{base}/BUILD-MANIFEST.json'
     if not manifest_path.exists():
         manifest_path = ROOT/f'work/build/battle_banners_baseline_{base}/BUILD-MANIFEST.json'
-    manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
-    assert manifest['version'] == base
-    baseline = next(p for p in manifest['patches'] if p['platform'] == platform)
+    if manifest_path.exists():
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+        assert manifest['version'] == base
+        baseline = next(p for p in manifest['patches'] if p['platform'] == platform)
+    else:
+        report_path=ROOT/f'work/output/{platform.lower()}_parts_layout_{base}_verification.json'
+        prior=json.loads(report_path.read_text(encoding='utf-8'))
+        assert prior['version']==base and prior['platform']==platform
+        baseline=dict(target_bytes=prior['bytes'],target_sha256=prior['output_sha256'])
     assert source_stat[0] == baseline['target_bytes']
     path = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
     footer_path = '/PSP_GAME/USRDIR/OPWND.BIN' if platform == 'PSP' else '/SLPS_253.45;1'
@@ -41,7 +47,7 @@ def build(platform, base, version):
     ui = ROOT/f'work/ui/{platform.lower()}/battle_banners_{version}'
     changed, evidence = patch(original, platform, ui)
     assert patch(changed, platform)[0] == changed
-    assert all(not r['already_translated'] for r in evidence['regions'])
+    assert any(not r['already_translated'] for r in evidence['regions']), 'No new caption artwork to translate'
     with iso.open_file_from_iso(iso_path=footer_path) as f:
         original_footer = f.read()
     # Output reports can be cleaned independently of immutable ISOs. Restore
@@ -68,7 +74,7 @@ def build(platform, base, version):
     iso.close()
     source_hash, expected_hash = hashlib.sha256(), hashlib.sha256()
     position = 0
-    print(platform, 'copying verified baseline with two caption rectangles and new footer', flush=True)
+    print(platform, 'copying verified baseline with registered caption rectangles and new footer', flush=True)
     with source.open('rb') as src, target.open('xb') as dst:
         while raw := src.read(8*1024*1024):
             source_hash.update(raw)
@@ -158,8 +164,8 @@ def build(platform, base, version):
                          source_build_sha256=baseline['target_sha256'], title_footer=footer,
                          battle_banners=evidence, current_correction_report=f'work/output/ps2_battle_banners_{version}_verification.json',
                          changed_from_previous=sorted(resources), inherited_execution_checks_from_version=base,
-                         inherited_execution_checks_reason='Only two HUD caption rectangles and native title footer version bytes change; all remaining disc bytes read back exactly.',
-                         pcsx2_fresh_boot_verified=False, pcsx2_visual_validation='Two battle banners pending', github_release=False)
+                         inherited_execution_checks_reason='Only registered HUD caption rectangles and native title footer version bytes change; all remaining disc bytes read back exactly.',
+                         pcsx2_fresh_boot_verified=False, pcsx2_visual_validation='Battle banners pending', github_release=False)
         save(ROOT/f'work/output/ps2_font_{version}_verification.json', aggregate)
         save(font/'patch.json', aggregate['font'])
     print(platform, version, 'verified', actual_hash, flush=True)

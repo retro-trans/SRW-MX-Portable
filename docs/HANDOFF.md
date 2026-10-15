@@ -1,3 +1,28 @@
+# Local shared v0.4.36 — God Shadow banner
+
+Completed 2026-10-15. Translated the separate native God Shadow animation
+caption on PSP and PS2, following Akurasu's MX Mech Abilities term. The HUD
+rectangle is `(240,48)-(348,72)`, with 18px white/blue outlined lettering.
+The right boundary preserves the adjacent red EN label. A first wider crop
+was discarded before delivery; its incomplete images/reports are retained
+under `work/build/god_shadow_0.4.36_crop_attempt/`.
+
+PSP: `work/output/SRWMX_EN_0.4.36.iso`, SHA256
+`30491e650639d576397202cf8ef459dbdb9625d3dd5d5eb7c2c507979c5be7a1`.
+PS2: `work/output/SRWMX_PS2_EN_0.4.36.iso`, SHA256
+`3637bebd8c378035d83b618986fdde1d58dc48504b4d1eacecf26554978f5ca8`.
+Verified exact v0.4.35 baseline hashes, complete output hashes, unchanged file
+extents/sizes, native caption pixels, actual v0.4.36 footers and PS2 ISO9660/UDF
+readback. Existing Assist/Simultaneous Attack pixels and Parts fixes remain
+exact. Three regression tests cover both platforms' EN boundary, unknown
+artwork rejection and historical caption subsets; 42 PS2 title-state cases pass.
+Evidence: `work/output/{psp,ps2}_battle_banners_0.4.36_verification.json`,
+`work/output/god_shadow_0.4.36_regression_tests.log`, and
+`work/ui/{psp,ps2}/battle_banners_0.4.36/iso_readback/`.
+Fresh in-game display remains pending. No v0.4.36 release was requested.
+The source commit is local: GitHub denied the push with HTTP 403 for the
+currently authenticated account. Local ISOs and verification records are ready.
+
 # Local shared v0.4.35 — Parts window alignment
 
 Completed 2026-10-15. PSP equipped-name origin moves from panel.x+110 to

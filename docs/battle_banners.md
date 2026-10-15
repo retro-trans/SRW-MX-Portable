@@ -32,3 +32,20 @@ Translation: `work/translation/en/ui/battle_banners.en.json`.
 Evidence: `work/output/{psp,ps2}_battle_banners_0.4.34_verification.json`.
 Actual ISO previews: `work/ui/{psp,ps2}/battle_banners_0.4.34/iso_readback/`.
 Fresh in-game visual validation remains pending; no GitHub release was requested.
+
+## God Shadow — 2026-10-15, local v0.4.36
+
+The additional screenshot identifies God Shadow, matching Akurasu's MX Mech
+Abilities entry and the existing map-banner term. Both native battle HUD atlases
+store this label at `(240,48)-(348,72)`. The English uses an 18px cap height,
+retaining the original white, blue and black palette without horizontal scaling.
+The right boundary excludes the adjacent red EN label; a palette-content guard
+rejects a rectangle that includes red lettering. The first wider crop was
+discarded before delivery, and its incomplete images and records remain under
+`work/build/god_shadow_0.4.36_crop_attempt/`.
+
+Local candidates use verified v0.4.35 images, preserving the Parts alignment,
+earlier crash fix and existing Assist/Simultaneous Attack artwork. Actual ISO
+readback checks all three captions and exact v0.4.36 native title footers.
+Recorded historical caption subsets are reapplied by ID so older preservation
+fixtures do not acquire newer artwork during their normalization.

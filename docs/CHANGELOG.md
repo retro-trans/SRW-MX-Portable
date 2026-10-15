@@ -1,5 +1,16 @@
 # Changelog
 
+## PSP / PS2 v0.4.36 — 2026-10-15 (local God Shadow banner)
+
+- Translated the native battle-animation banner to God Shadow on both platforms,
+  following Akurasu and the existing project term. The earlier English map
+  banner was a separate asset.
+- Retained the white/blue outlined style with an 18px cap height. Preserved
+  the neighboring red EN label, existing translated captions, palettes and
+  every other atlas pixel; added a guard against including red lettering.
+- Preserved the v0.4.35 Parts layout and crash fix. Updated both native title
+  footers to v0.4.36. Local builds only; fresh in-game display remains pending.
+
 ## PSP / PS2 v0.4.35 — 2026-10-15 (local Parts layout correction)
 
 - Moved PSP equipped-part names left by 30px and fitted longer names within

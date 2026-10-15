@@ -1,0 +1,547 @@
+{
+  "version": "0.4.36",
+  "base_version": "0.4.35",
+  "local_build_only": true,
+  "github_release": false,
+  "platforms": {
+    "PSP": {
+      "output": "work/output/SRWMX_EN_0.4.36.iso",
+      "output_sha256": "30491e650639d576397202cf8ef459dbdb9625d3dd5d5eb7c2c507979c5be7a1",
+      "bytes": 1327790080,
+      "source_sha256": "c65aadbbba1f85256e5d6b1fb9dc5a8d59e7cee10f4629616f5a02b95bc7ffd9",
+      "complete_output_hash_verified": true,
+      "all_other_disc_bytes_preserved": true,
+      "udf_readback": {},
+      "footer": {
+        "platform": "PSP",
+        "version": "0.4.36",
+        "credit": "github.com/retro-trans",
+        "asset": "/PSP_GAME/USRDIR/OPWND.BIN",
+        "palette_offset": "0x2d3b40",
+        "atlas_size": [
+          512,
+          256
+        ],
+        "visible_width": 480,
+        "box": [
+          243,
+          133,
+          417,
+          173
+        ],
+        "font": "Genei LateGo v2 Medium",
+        "font_size": 14,
+        "panel": false,
+        "lines": [
+          {
+            "text": "v0.4.36",
+            "bounds": [
+              366.25,
+              140.0,
+              417,
+              153
+            ]
+          },
+          {
+            "text": "github.com/retro-trans",
+            "bounds": [
+              262.25,
+              155.5,
+              417,
+              173
+            ]
+          }
+        ],
+        "pixel_ranges": [
+          [
+            2965312,
+            2965486
+          ],
+          [
+            2965824,
+            2965998
+          ],
+          [
+            2966336,
+            2966510
+          ],
+          [
+            2966848,
+            2967022
+          ],
+          [
+            2967360,
+            2967534
+          ],
+          [
+            2967872,
+            2968046
+          ],
+          [
+            2968384,
+            2968558
+          ],
+          [
+            2968896,
+            2969070
+          ],
+          [
+            2969408,
+            2969582
+          ],
+          [
+            2969920,
+            2970094
+          ],
+          [
+            2970432,
+            2970606
+          ],
+          [
+            2970944,
+            2971118
+          ],
+          [
+            2971456,
+            2971630
+          ],
+          [
+            2971968,
+            2972142
+          ],
+          [
+            2972480,
+            2972654
+          ],
+          [
+            2972992,
+            2973166
+          ],
+          [
+            2973504,
+            2973678
+          ],
+          [
+            2974016,
+            2974190
+          ],
+          [
+            2974528,
+            2974702
+          ],
+          [
+            2975040,
+            2975214
+          ],
+          [
+            2975552,
+            2975726
+          ],
+          [
+            2976064,
+            2976238
+          ],
+          [
+            2976576,
+            2976750
+          ],
+          [
+            2977088,
+            2977262
+          ],
+          [
+            2977600,
+            2977774
+          ],
+          [
+            2978112,
+            2978286
+          ],
+          [
+            2978624,
+            2978798
+          ],
+          [
+            2979136,
+            2979310
+          ],
+          [
+            2979648,
+            2979822
+          ],
+          [
+            2980160,
+            2980334
+          ],
+          [
+            2980672,
+            2980846
+          ],
+          [
+            2981184,
+            2981358
+          ],
+          [
+            2981696,
+            2981870
+          ],
+          [
+            2982208,
+            2982382
+          ],
+          [
+            2982720,
+            2982894
+          ],
+          [
+            2983232,
+            2983406
+          ],
+          [
+            2983744,
+            2983918
+          ],
+          [
+            2984256,
+            2984430
+          ],
+          [
+            2984768,
+            2984942
+          ],
+          [
+            2985280,
+            2985454
+          ],
+          [
+            3033651,
+            3033825
+          ],
+          [
+            3034163,
+            3034337
+          ],
+          [
+            3034675,
+            3034849
+          ],
+          [
+            3035187,
+            3035361
+          ],
+          [
+            3035699,
+            3035873
+          ],
+          [
+            3036211,
+            3036385
+          ],
+          [
+            3036723,
+            3036897
+          ],
+          [
+            3037235,
+            3037409
+          ],
+          [
+            3037747,
+            3037921
+          ],
+          [
+            3038259,
+            3038433
+          ],
+          [
+            3038771,
+            3038945
+          ],
+          [
+            3039283,
+            3039457
+          ],
+          [
+            3039795,
+            3039969
+          ],
+          [
+            3040307,
+            3040481
+          ],
+          [
+            3040819,
+            3040993
+          ],
+          [
+            3041331,
+            3041505
+          ],
+          [
+            3041843,
+            3042017
+          ],
+          [
+            3042355,
+            3042529
+          ],
+          [
+            3042867,
+            3043041
+          ],
+          [
+            3043379,
+            3043553
+          ],
+          [
+            3043891,
+            3044065
+          ],
+          [
+            3044403,
+            3044577
+          ],
+          [
+            3044915,
+            3045089
+          ],
+          [
+            3045427,
+            3045601
+          ],
+          [
+            3045939,
+            3046113
+          ],
+          [
+            3046451,
+            3046625
+          ],
+          [
+            3046963,
+            3047137
+          ],
+          [
+            3047475,
+            3047649
+          ],
+          [
+            3047987,
+            3048161
+          ],
+          [
+            3048499,
+            3048673
+          ],
+          [
+            3049011,
+            3049185
+          ],
+          [
+            3049523,
+            3049697
+          ],
+          [
+            3050035,
+            3050209
+          ],
+          [
+            3050547,
+            3050721
+          ],
+          [
+            3051059,
+            3051233
+          ],
+          [
+            3051571,
+            3051745
+          ],
+          [
+            3052083,
+            3052257
+          ],
+          [
+            3052595,
+            3052769
+          ],
+          [
+            3053107,
+            3053281
+          ],
+          [
+            3053619,
+            3053793
+          ]
+        ],
+        "source_region_sha256": "7412e2239fa5e9dd8952ae94da90daf73f89e276a1efdde6a236d2745547b563",
+        "target_region_sha256": "8782083a1ffcd28c9681ec9d5431d05bd08ad9e0b87470a65e3bff64e8ee8159",
+        "palette_sha256": "33c0e1086cfb18254f6d24ba3116dc66bb0680129e2e6b35fde5d4bf2eff22a5",
+        "source_resource_sha256": "b02e23e664e18cb7ab4094ceac12d19cc9f1fdf7f221233ac6008924f4360ae3",
+        "target_resource_sha256": "1adb1624ad25c944455d47b28a13b3040b5ea60d844d70c1cede606d9f3f2592",
+        "palette_preserved": true,
+        "old_upper_left_panel_removed": true,
+        "all_other_pixels_and_data_preserved": true,
+        "disc_extent": 822740992,
+        "readback": {
+          "version": "0.4.36",
+          "credit": "github.com/retro-trans",
+          "actual_iso_pixels_verified": true,
+          "resource_sha256": "1adb1624ad25c944455d47b28a13b3040b5ea60d844d70c1cede606d9f3f2592"
+        }
+      },
+      "caption_readback": {
+        "platform": "PSP",
+        "native_iso_caption_artwork_verified": true,
+        "resource_sha256": "c71490a628943377ddca376eb7e7e04564b9431eea2a0286c3618cee2ac66e03",
+        "captions": [
+          "Assist Attack",
+          "Simul. Attack",
+          "God Shadow"
+        ]
+      },
+      "god_shadow_layout": {
+        "id": "god_shadow",
+        "english": "God Shadow",
+        "text": "God Shadow",
+        "box": [
+          240,
+          48,
+          348,
+          72
+        ],
+        "cap": 18,
+        "style": "caption",
+        "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+        "cap_height": 18,
+        "ink_bounds": [
+          245,
+          51,
+          343,
+          69
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "74e3b8229691c9cb153e828a47414f4db7524c4c7766a5b2cee74389222a16f0",
+        "target_pixel_sha256": "e1b251f29d4b2cfd5551f98be08fd109d2b5980f9aee8738b8e8dcb56af44cc9",
+        "already_translated": false
+      }
+    },
+    "PS2": {
+      "output": "work/output/SRWMX_PS2_EN_0.4.36.iso",
+      "output_sha256": "3637bebd8c378035d83b618986fdde1d58dc48504b4d1eacecf26554978f5ca8",
+      "bytes": 4659449856,
+      "source_sha256": "8001af3ec9cd9140ef36bfca57efae5ef086234c4d13b6162358e41d9d4c968c",
+      "complete_output_hash_verified": true,
+      "all_other_disc_bytes_preserved": true,
+      "udf_readback": {
+        "/DATA/STATIC.BIN;1": true,
+        "/SLPS_253.45;1": true
+      },
+      "footer": {
+        "version": "0.4.36",
+        "credit": "github.com/retro-trans",
+        "asset": "/SLPS_253.45;1",
+        "mechanism": "Native title draw callback",
+        "block_offset": 4793728,
+        "block_va": "0x7d9580",
+        "block_bytes": 1536,
+        "hook_va": "0x2c1e28",
+        "renderer_va": "0x7d9680",
+        "private_context_va": "0x7d9620",
+        "private_context_bytes": 96,
+        "font_size": 16,
+        "right_edge": 626,
+        "line_y": [
+          250,
+          268
+        ],
+        "byte_ranges": [
+          [
+            1846824,
+            1846828
+          ],
+          [
+            4793728,
+            4795264
+          ]
+        ],
+        "footer_strings": [
+          "v0.4.36",
+          "github.com/retro-trans"
+        ],
+        "pixel_ranges": [
+          [
+            1846824,
+            1846828
+          ],
+          [
+            4793728,
+            4795264
+          ]
+        ],
+        "source_resource_sha256": "2f22e39234e2352b19f441cc2713ce9a8a0cc77de0da378ebc382d5eb71c72e1",
+        "target_resource_sha256": "2f51f538b4f647456693a47c5474be1e6a5a8a21aa6883c1b7d5c12a1fef4300",
+        "disc_extent": 4654622720,
+        "readback": {
+          "version": "0.4.36",
+          "credit": "github.com/retro-trans",
+          "actual_iso_footer_verified": true,
+          "resource_sha256": "2f51f538b4f647456693a47c5474be1e6a5a8a21aa6883c1b7d5c12a1fef4300",
+          "renderer_va": "0x7d9680",
+          "block_va": "0x7d9580",
+          "block_offset": 4793728,
+          "native_title_hook_verified": true,
+          "footer_strings": [
+            "v0.4.36",
+            "github.com/retro-trans"
+          ]
+        }
+      },
+      "caption_readback": {
+        "platform": "PS2",
+        "native_iso_caption_artwork_verified": true,
+        "resource_sha256": "4bdf58315ed4b06f270bf4c2c0aac577450f47e8602a969f72d8703df4d40a64",
+        "captions": [
+          "Assist Attack",
+          "Simul. Attack",
+          "God Shadow"
+        ]
+      },
+      "god_shadow_layout": {
+        "id": "god_shadow",
+        "english": "God Shadow",
+        "text": "God Shadow",
+        "box": [
+          240,
+          48,
+          348,
+          72
+        ],
+        "cap": 18,
+        "style": "caption",
+        "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+        "cap_height": 18,
+        "ink_bounds": [
+          245,
+          51,
+          343,
+          69
+        ],
+        "horizontal_rescaling": false,
+        "source_pixel_sha256": "10f2c1eb8000f8e3b4c94dac7c23857bbaaa5ef31c76789eda3f31d3cca1cda9",
+        "target_pixel_sha256": "5fe9d4756dfefeb97fe27641703dcdc2075ae8783b7c79e293693146e68b28dd",
+        "already_translated": false
+      }
+    }
+  },
+  "ps2_title_state_cases_passed": 42,
+  "caption_regression_tests": {
+    "passed": true,
+    "tests": 3,
+    "platforms": [
+      "PSP",
+      "PS2"
+    ]
+  },
+  "fresh_in_game_visual_validation": "pending; actual ISO artwork previews verified"
+}

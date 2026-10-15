@@ -13,7 +13,7 @@ def baseline_bytes(base,name):
         native=(ROOT/'work/source/ps2/STATIC.BIN').read_bytes()
         restored=bytearray(raw)
         for a,z in report['pixel_ranges']:restored[a:z]=native[a:z]
-        assert patch(restored,'PS2')[0]==raw
+        assert patch(restored,'PS2',region_ids=[row['id'] for row in report['regions']])[0]==raw
         raw=bytes(restored)
     hud_report=base/'battle_hud.json'
     if name=='STATIC.BIN' and hud_report.exists():

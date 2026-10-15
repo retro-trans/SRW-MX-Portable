@@ -18,6 +18,15 @@
       "cap": 18,
       "style": "caption",
       "notes": "Existing project translation. Compact display keeps a 13px cap height in the native 84px field; full wording would reduce it to 8px."
+    },
+    {
+      "id": "god_shadow",
+      "english": "God Shadow",
+      "text": "God Shadow",
+      "box": [240, 48, 348, 72],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
     }
   ]
 }
