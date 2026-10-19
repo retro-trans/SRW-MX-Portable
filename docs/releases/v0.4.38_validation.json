@@ -1,0 +1,222 @@
+{
+  "version": "0.4.38",
+  "source_commit": "9196a8512b0ebec43f8dd529ae403559423fd81b",
+  "outputs": {
+    "PSP": {
+      "file": "SRWMX_EN_0.4.38.iso",
+      "bytes": 1340352512,
+      "sha256": "9adb8ad55560d6bd2380247d0f0394fd52a03d28982e8e081d40201e2ce04798"
+    },
+    "PS2": {
+      "file": "SRWMX_PS2_EN_0.4.38.iso",
+      "bytes": 4659449856,
+      "sha256": "0e1e3719525b833e5e710c485060db8ba679fbfdd45005b8d382654f4f1260a6"
+    }
+  },
+  "all_artifact_checks_passed": true,
+  "psp_story_uses_verified": 51366,
+  "ps2_translated_story_slots_verified": 51146,
+  "ps2_scene_blocks_verified": 203,
+  "battle_references_verified": 103600,
+  "battle_readback_mismatches": 0,
+  "battle_japanese_fallbacks": 0,
+  "patch_roundtrips_verified": 4,
+  "stage28_regression_tests_passed": 3,
+  "retro_trans_release_catalog_tests_passed": 36,
+  "native_iso_footer_readback": {
+    "PSP": {
+      "version": "0.4.38",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "9bce898e050b1517fad77832c5bc85d037a720feb174ddf8532483cb21e2d4fb"
+    },
+    "PS2": {
+      "version": "0.4.38",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "7c54c1673352300566d7237ada5cedafcccf7e65a074d6986114fb47a568be6b",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.38",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "publication": {
+    "version": "0.4.38",
+    "release_id": 416829486,
+    "assets": [
+      {
+        "asset": "BUILD-MANIFEST.json",
+        "bytes": 2945,
+        "sha256": "f4e653fb1573beb160f109e78366e62b0a71b9857a68a4a966bb1d49b90ae439",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "BUILD-TESTS-v0.4.38.json",
+        "bytes": 813546,
+        "sha256": "a1dd5d64b22a4223c2a58b90f4d9d9eefdabd62dc582bbf2793a50ea27fb157e",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "CHANGELOG-v0.4.38.md",
+        "bytes": 158703,
+        "sha256": "337ad60ea2974285a5d3c071d12d71e18fa6e9c543407f16cf898f637134a95c",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "FONT-LICENSE.txt",
+        "bytes": 4930,
+        "sha256": "7a6787ca1bad7a1afc8aa66643f9ec0aba6a4ab33c467c319ff11027a30118a5",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "README-v0.4.38.txt",
+        "bytes": 4172,
+        "sha256": "e54300f9b3154e67a7b6d512d3838a847937ab087996e66898fb32dd829c62b4",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SHA256SUMS-v0.4.38.txt",
+        "bytes": 1016,
+        "sha256": "8d95d75dfc85c4694393971298949a141703b187d154f2786e4e71f6a8815d6d",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SHA256SUMS.txt",
+        "bytes": 584,
+        "sha256": "2c03786a3ce0a0de1cd9a965e4c6db5cecd8d7e3f15fbaf06ecd99b7535da024",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-English-v0.4.33-to-v0.4.38.xdelta",
+        "bytes": 13432,
+        "sha256": "f6975fda02e0b994a182efacf1a6523d629003a9aa4c3a9b3751333598c0d4a5",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-English-v0.4.38.xdelta",
+        "bytes": 2650636,
+        "sha256": "71d54f0a5c0dd27ec3335a758d2a340b7b2ad0330d0a924fa276ade700b2cc8e",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-PS2-English-v0.4.33-to-v0.4.38.xdelta",
+        "bytes": 41895,
+        "sha256": "49fa32e1d2dab64935bb0a83c6efa4fa4126f8626609777b9f3391ed0e7d2625",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "SRWMX-PS2-English-v0.4.38.xdelta",
+        "bytes": 126023383,
+        "sha256": "0c49608d3f3cfe1e3da4352a1b6aff2985b4a6fd6b06beaaadf385f6f0b841ba",
+        "github_digest_verified": true
+      },
+      {
+        "asset": "VALIDATION.json",
+        "bytes": 926,
+        "sha256": "0c2f248661136d2c9e2a3f098a07d79e3bebde88ddf485e74186847476abd534",
+        "github_digest_verified": true
+      }
+    ],
+    "all_assets_verified": true,
+    "url": "https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.38",
+    "published_at": "2026-10-19T01:51:44Z"
+  },
+  "catalog": {
+    "version": "0.4.38",
+    "workflow": 39187280150,
+    "workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39187280150",
+    "workflow_conclusion": "success",
+    "catalog_blob_sha": "883a9405714a51179f2e072b6d5c63d7400a9cd5",
+    "manifest_matches_published_release": true,
+    "historical_catalog_identities_preserved": true,
+    "routes": [
+      {
+        "platform": "PSP",
+        "source": "original",
+        "target": "0.4.38",
+        "steps": 1
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.1",
+        "target": "0.4.38",
+        "steps": 6
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.12",
+        "target": "0.4.38",
+        "steps": 4
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.9",
+        "target": "0.4.38",
+        "steps": 5
+      },
+      {
+        "platform": "PS2",
+        "source": "original",
+        "target": "0.4.38",
+        "steps": 1
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.12",
+        "target": "0.4.38",
+        "steps": 4
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.29",
+        "target": "0.4.38",
+        "steps": 3
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.29",
+        "target": "0.4.38",
+        "steps": 3
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.32",
+        "target": "0.4.38",
+        "steps": 2
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.32",
+        "target": "0.4.38",
+        "steps": 2
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.33",
+        "target": "0.4.38",
+        "steps": 1
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.33",
+        "target": "0.4.38",
+        "steps": 1
+      }
+    ],
+    "historical_unreachable_sources_unchanged": [
+      {
+        "platform": "PSP",
+        "source": "0.4.2"
+      }
+    ]
+  },
+  "fresh_emulator_visual_validation": "pending",
+  "full_stage28_battle_clear": "pending",
+  "complete_playthrough_tested": false,
+  "physical_console_tested": false
+}

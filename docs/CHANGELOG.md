@@ -2,6 +2,10 @@
 
 ## PSP / PS2 v0.4.38 — 2026-10-19 (shared release)
 
+- Published [v0.4.38](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.38).
+  All four patches pass complete decode/hash round trips. All 12 uploaded
+  assets match local hashes; the live Retro Trans Tools catalog matches the
+  shared manifest and supplies direct original/v0.4.33 routes on both platforms.
 - Combined the local v0.4.34–v0.4.38 fixes into a shared PSP/PS2 release:
   native battle banners, Parts layout, PSP rename fields, PS2 stage 28 port
   and the two approved Ritsu revisions.

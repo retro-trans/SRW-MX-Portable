@@ -1,3 +1,33 @@
+# Published shared v0.4.38 — 2026-10-19
+
+Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.38.
+Source/tag snapshot: `9196a8512b0ebec43f8dd529ae403559423fd81b`.
+Includes the PSP rename-field fix, PS2 PSP-stage-28 port, both approved Ritsu
+revisions, Parts layout corrections and native Assist/Simultaneous Attack and
+God Shadow banners. Both actual native title footers read v0.4.38 and
+github.com/retro-trans; PSP retains bottom-right outlined text without a panel.
+
+Four bare full/original and exact-public-v0.4.33 upgrade patches passed complete
+decode/hash round trips with Retro Trans Tools. All 12 published asset sizes and
+GitHub SHA-256 digests match the local package. Current ISO audits check all PSP
+story uses, all 203 PS2 scene blocks, 103,600 battle-caption references with zero
+mismatches/fallbacks, every chapter-card copy and the native menu/campaign/font
+regressions. The PS2 full builder reproduces the current story and executable
+exactly. Stage-28 regression tests (3) and Tools release/catalog tests (36) pass.
+
+Catalog workflow 39187280150 succeeded. The live manifest matches the release;
+both original images and v0.4.33 have direct routes, and existing older upgrade
+chains reach v0.4.38. The historical PSP v0.4.2 source remains unreachable as it
+already was before this release. Evidence: `docs/releases/v0.4.38_validation.json`
+and `work/output/release_0.4.38_build_tests.json`.
+
+PSP ISO SHA256: `9adb8ad55560d6bd2380247d0f0394fd52a03d28982e8e081d40201e2ce04798`.
+PS2 ISO SHA256: `0e1e3719525b833e5e710c485060db8ba679fbfdd45005b8d382654f4f1260a6`.
+Fresh in-game visual acceptance, a complete stage-28 battle clear, full
+playthrough and physical-console tests remain pending. The stopped GUI was not
+resumed. PS2's editor is unchanged; the reported rename corruption was PSP-only.
+The following sections preserve the historical local-build records.
+
 # Local PSP v0.4.38 — unit rename fields
 
 Completed 2026-10-19 for the user's latest-public PSP screenshot. Native
