@@ -1233,3 +1233,19 @@ in dialogue: it must display the player's chosen or saved name. Do not replace
 Ruri's line with a hardcoded default. Existing save contents are preserved;
 the naming screen's Reset action selects the new default. See
 `squad_name_default` in `work/glossary/decisions.json`.
+
+## Editable Cerberus upgrade default — 2026-10-19
+
+Use **Cerberus Ignite** for the editable hero-unit default. Akurasu's
+[MX Pilot Database](https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database)
+and [Banpresto unit list](https://akurasu.net/wiki/Units_List/Banpresto_Originals)
+use this spelling. The separate MX Mech List uses **Cerberus Ignited (G/S)**;
+those database terms remain unchanged. A fresh Mech List cache is retained
+under the ignored `work/source/rename_terms_0.4.38/` directory.
+
+The editable name has a 32-byte save slot. The old 16-character English
+default needs 33 bytes including its terminator; **Cerberus Ignite** is 15
+characters and fits in 31 bytes. This source-backed editable-default variant
+avoids both truncation and a save-format change. The native editor is separately
+fixed to support 15 full-name characters and eight reading characters without
+overlapping its fields or adjacent control words.

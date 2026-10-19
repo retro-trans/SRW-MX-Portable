@@ -1,3 +1,72 @@
+# Local PSP v0.4.38 — unit rename fields
+
+Completed 2026-10-19 for the user's latest-public PSP screenshot. Native
+initialization reproduces the garbled upgraded Cerberus name in public
+v0.4.33: Name and Reading were packed at a 23-byte stride, while the translated
+default was 16 full-width characters. The editor now uses 31 bytes for Name
+and the remaining 17 for Reading within its existing 48-byte area. All cursor,
+reset, edit and export paths use the new bounds. Controls at +0x644 and the
+32-byte save fields retain their original layout. Both PRX jump relocations
+for the new post-load terminator guard are checked.
+
+The editable default becomes **Cerberus Ignite**, using Akurasu's Pilot
+Database spelling to fit 15 glyphs plus NUL within 32 bytes. The separate
+Mech List database terms are unchanged; the UI-only exception is documented.
+The old overlong saved default loads safely into the corrected editor.
+
+PSP: `work/output/SRWMX_EN_0.4.38.iso`, SHA256
+`9adb8ad55560d6bd2380247d0f0394fd52a03d28982e8e081d40201e2ce04798`.
+Contains both approved Ritsu corrections. Only their two existing dialogue
+slots, the corrected BOOT/EBOOT, native v0.4.38 footer and required ISO metadata
+change over v0.4.36. Expected streaming image hash and actual complete ISO
+hash agree; both executable aliases and actual story/footer read back exactly.
+Native tests cover all defaults and saved names, maximum-size custom names,
+legacy names, editing both ends/middle, control guards, underline bounds and
+relocations. A first validator compared the map block with a reused footer
+variable; it was corrected and the same candidate passed full read-only
+verification. No image bytes were altered for that validator repair.
+
+Tools: `tools/fix_psp_rename.py`, `tools/verify_psp_rename.py`,
+`tools/build_psp_rename.py`; the regular PSP builder includes the correction.
+Details: `docs/psp_rename_fix.md`. Evidence:
+`work/output/psp_rename_0.4.38_verification.json`.
+Fresh in-game visual acceptance remains pending. No GUI resumed and no
+release published. Latest PS2 remains local v0.4.37; its editor is unchanged.
+
+# Local PS2 v0.4.37 — complete PSP stage 28 port
+
+Ported PSP Chapter 28, **Tragedy Beneath the Moon**, to PS2: opening `i055b`,
+battle `s0550`, and aftermath `i055a`. All 1,894 PSP commands and their operands
+are retained exactly. All 1,007 translated string slots read back in English,
+including the two approved Ritsu revisions. No portrait-cache adaptation is
+needed. The exact 34-unit PSP deployment replaces one changed flag at offset
+260 of native deployment 148 (chapter 7, group 8). PS2 map 460, terrain/heights,
+unit stats, balance options, the other 200 scenes and prior fixes are preserved.
+
+PS2 test image: `work/output/SRWMX_PS2_EN_0.4.37.iso`, SHA256
+`4d0a6a8446812b5fa99dae5853316d9199b962969e4e4401aca5e9fe830439c1`.
+Both filesystems read identical changed assets. Complete disc comparison permits
+only the map/executable and registered map-length metadata changes. Native tests
+load all nine stage-28/29/30 scenes, verify the three deployments, retain campaign
+progression and stage-28 numbering, and pass all 42 v0.4.37 title-footer cases.
+Three regression tests pass. A regular full-story rebuild reproduces the image's
+203 scene blocks and executable exactly (51,146 translated slots, zero changes).
+
+`tools/ps2_stage28.py` is called by the normal PS2 story builder; its three
+scenes use PSP translations and source ordering on future builds. The PS2
+source loader falls back to the exact 59 reviewed inputs if the old transient
+`campaign_0.4.9_inputs.json` report was cleaned. The incremental builder is
+`tools/build_ps2_stage28.py`; details are in `docs/ps2_stage28_port.md`.
+Evidence: `work/output/ps2_stage28_0.4.37_verification.json` and
+`work/output/ps2_stage28_0.4.37_full_builder_check.json`.
+
+The first prepared readback attempt was archived before any ISO was created:
+its validator compared decoded game punctuation with unencoded ASCII. The
+corrected validator encodes expected text first; no translation was altered.
+Full in-game stage-28 clear/transition remains pending. No GUI resumed and no
+release requested or published. PSP's latest local ISO remains v0.4.36; its two
+approved Ritsu corrections are in shared sources awaiting a PSP rebuild.
+
 # Local shared v0.4.36 — God Shadow banner
 
 Completed 2026-10-15. Translated the separate native God Shadow animation

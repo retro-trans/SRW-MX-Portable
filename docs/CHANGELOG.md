@@ -1,5 +1,46 @@
 # Changelog
 
+## PSP / PS2 v0.4.38 — 2026-10-19 (shared release)
+
+- Combined the local v0.4.34–v0.4.38 fixes into a shared PSP/PS2 release:
+  native battle banners, Parts layout, PSP rename fields, PS2 stage 28 port
+  and the two approved Ritsu revisions.
+- Regenerated both native title footers as v0.4.38. PSP keeps bottom-right
+  outlined credits without a dark panel.
+- Full and exact-public-v0.4.33 upgrade patches are bare `.xdelta` files for
+  Retro Trans Tools. Release checks cover current ISO readback and native
+  routines; fresh in-game visual acceptance and full playthrough remain pending.
+- Release notes: `docs/releases/v0.4.38.md`.
+
+## PSP v0.4.38 — 2026-10-19 (local unit-rename correction)
+
+- Fixed Name/Reading field overlap that garbled Cerberus's upgraded name.
+  Repacked the editor's existing space for 15 name and eight reading characters;
+  updated editing and export together without changing save layout.
+- Changed the editable upgrade default to the source-backed Cerberus Ignite
+  spelling, which fits the native save slot. Safely bounded legacy loaded names.
+- Included both approved Ritsu dialogue revisions and regenerated the native
+  v0.4.38 footer. Native editing, bounds, relocation and complete disc checks pass.
+- Local PSP test image only; fresh in-game visual acceptance remains pending.
+
+## PS2 v0.4.37 — 2026-10-18 (local PSP stage 28 port)
+
+- Replaced Chapter 28's opening, battle events and aftermath with the reviewed
+  PSP versions, completing this section before the existing PSP stages 29–30.
+- Carried over the single changed PSP deployment flag. Retained native PS2
+  terrain, unit balance, all other scenes and the earlier fixes.
+- Included both approved Ritsu dialogue revisions. Added stage 28 to regular
+  PS2 story rebuilds and regenerated the native title footer as v0.4.37.
+- Local test build only; full stage-28 battle-clear validation remains pending.
+
+## Unbuilt translation corrections — 2026-10-18
+
+- Applied the two approved Chapter 28 Ritsu revisions: "You can't see this
+  face of mine" and "Enough talk. Die... and take Masaki's blood with you...!"
+- Preserved both lines' meaning and added guarded overrides so reassembly
+  retains the corrections. Chapter validation and PSP/PS2 font wrapping pass.
+- Shared translation sources only; existing ISO images are unchanged.
+
 ## PSP / PS2 v0.4.36 — 2026-10-15 (local God Shadow banner)
 
 - Translated the native battle-animation banner to God Shadow on both platforms,

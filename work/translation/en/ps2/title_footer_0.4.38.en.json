@@ -1,0 +1,260 @@
+{
+  "version": "0.4.38",
+  "base_version": "0.4.37",
+  "platform": "PS2",
+  "footer": {
+    "version": "0.4.38",
+    "credit": "github.com/retro-trans",
+    "asset": "/SLPS_253.45;1",
+    "mechanism": "Native title draw callback",
+    "block_offset": 4793728,
+    "block_va": "0x7d9580",
+    "block_bytes": 1536,
+    "hook_va": "0x2c1e28",
+    "renderer_va": "0x7d9680",
+    "private_context_va": "0x7d9620",
+    "private_context_bytes": 96,
+    "font_size": 16,
+    "right_edge": 626,
+    "line_y": [
+      250,
+      268
+    ],
+    "byte_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "footer_strings": [
+      "v0.4.38",
+      "github.com/retro-trans"
+    ],
+    "pixel_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "source_resource_sha256": "96ebe0321daab02d0a38317ca11c5925b3a16747964b69dd9faabb8ad0d22870",
+    "target_resource_sha256": "7c54c1673352300566d7237ada5cedafcccf7e65a074d6986114fb47a568be6b",
+    "readback": {
+      "version": "0.4.38",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "7c54c1673352300566d7237ada5cedafcccf7e65a074d6986114fb47a568be6b",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.38",
+        "github.com/retro-trans"
+      ]
+    },
+    "disc_extent": 4654622720
+  },
+  "files": [
+    {
+      "path": "/SYSTEM.CNF;1",
+      "sha256": "6387f2580c50cca3a96094d80b405cf9f4a19a09678e73a63f27735ab920af6b",
+      "changed": false
+    },
+    {
+      "path": "/SLPS_253.45;1",
+      "sha256": "7c54c1673352300566d7237ada5cedafcccf7e65a074d6986114fb47a568be6b",
+      "changed": true
+    },
+    {
+      "path": "/DUMMY.;1",
+      "sha256": "83ee47245398adee79bd9c0a8bc57b821e92aba10f5f9ade8a5d1fae4d8c4302",
+      "changed": false
+    },
+    {
+      "path": "/DATA/WNDH.BIN;1",
+      "sha256": "f6b2407387dc7f133c8211a3be6255c5422bb69231c16c3cd678b8b0d7df97d6",
+      "changed": false
+    },
+    {
+      "path": "/DATA/WND.BIN;1",
+      "sha256": "d259cd76fa38d87be57902030d7a16c87dffcaf1e3d3a78778d3d430a90eafae",
+      "changed": false
+    },
+    {
+      "path": "/DATA/STRM.BIN;1",
+      "sha256": "23fe6c169fc25c8548375ce886a2e0f231d61b2bdfaa50956b3985d96280e460",
+      "changed": false
+    },
+    {
+      "path": "/DATA/STATIC.BIN;1",
+      "sha256": "4bdf58315ed4b06f270bf4c2c0aac577450f47e8602a969f72d8703df4d40a64",
+      "changed": false
+    },
+    {
+      "path": "/DATA/STAGE.BIN;1",
+      "sha256": "c1d11ec3cbb17a8b6ef7da7fcb8e47bd1f55b340045ccf98eb919561b7e0dca9",
+      "changed": false
+    },
+    {
+      "path": "/DATA/SNDH.BIN;1",
+      "sha256": "e1fbe43cafb9b3b453f130abeb7ea600df902571f5e4745f126e5f637a72cf9f",
+      "changed": false
+    },
+    {
+      "path": "/DATA/SND.BIN;1",
+      "sha256": "2eba55a4f3b765393416b8448641560957a356c2754f57000c7e1f3b0c94047d",
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUIH.BIN;1",
+      "sha256": "07114eaced1be6c14c2ae1e5dd9b397dbf855351007208f44dd6ccc2ad364b0b",
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUI.BIN;1",
+      "sha256": "60550cb8407cf670261116de98bb1462ea0e7aad634efafe57662b591b1440b4",
+      "changed": false
+    },
+    {
+      "path": "/DATA/PACKMAPC.BIN;1",
+      "sha256": "007b56ca06400182fc27daeb73363724371548726d0b6e01e5a4d20ff1e6a422",
+      "changed": false
+    },
+    {
+      "path": "/DATA/MAP.BIN;1",
+      "sha256": "9410ff9b202aa9a8e5475db2fc0b13bb4dd102af34d6347ea10f065723a0b38a",
+      "changed": false
+    },
+    {
+      "path": "/DATA/IM.BIN;1",
+      "sha256": "62c6c98af674c0f8842313bf230d6793ac87f62b4c72212bafcd5aa8cdcd6f3f",
+      "changed": false
+    },
+    {
+      "path": "/DATA/FIX00.DAT;1",
+      "sha256": "9bbcf49bfcfc3380b5465275117fed7f320c92c6b6e70508112f3caec72b7a70",
+      "changed": false
+    },
+    {
+      "path": "/DATA/FACEPACK.BIN;1",
+      "sha256": "348173d40ae8075919e11d459ac1476e679e4caf569b24a34ec7c6d1e910e4c3",
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAPH.BIN;1",
+      "sha256": "7e8eb5fed427c0dd4d7eb143060c92393f143df1a691bb5c010ef552bc9d0c29",
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAP.BIN;1",
+      "sha256": "01564f6f577868aca7b9953f75bb2b021784269428f249108cd0c0f56b1cdf70",
+      "changed": false
+    },
+    {
+      "path": "/DATA/BATTLE.BIN;1",
+      "sha256": "5b64ec13a2ffeeb9dd280bbf380bc8231ed389fef928f8e71d5e6e8245c364ad",
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX1.ICO;1",
+      "sha256": "f53d11f2f2b539a62d3536b97b7b0088197159da9def387ab4590a3e70a4a2cf",
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX0.ICO;1",
+      "sha256": "ce7038068badd7732da2eb8d1771e43f96c81831bffb3c4484bdc852ddeb124d",
+      "changed": false
+    },
+    {
+      "path": "/IRX/SIO2MAN.IRX;1",
+      "sha256": "0facd5a832d3114c3477ded714f8766d443705a1440deeb84c59927cf0b6968e",
+      "changed": false
+    },
+    {
+      "path": "/IRX/SDRDRV.IRX;1",
+      "sha256": "37b615869fed71ec90760543d83170dc7b7608142a4117d665a0cfbe78c3cc52",
+      "changed": false
+    },
+    {
+      "path": "/IRX/PADMAN.IRX;1",
+      "sha256": "35fc8d9c8f6d2217410474eb3e71b123b7af76f7d9578f68ed8785154e336503",
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYSND.IRX;1",
+      "sha256": "ee29370e123d1c71b34ed9690d095830c6b5b21048e0491fdcbea7bd075d121c",
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYHSYN.IRX;1",
+      "sha256": "efbba1fb32e8d82a38402b1a4abb114feb1441b12b6593c1954fc18318436e5f",
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYCDVD.IRX;1",
+      "sha256": "f8575c7e9659b7a9240e5002773eea58c87acac3ca9faee61276ed4d52351eb8",
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODMIDI.IRX;1",
+      "sha256": "c9d4378cc1c067382b416faf560dbfa51583879649479535846c7e10a50969a1",
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODHSYN.IRX;1",
+      "sha256": "2f93a4794d46df11a18d39563fb28e9fb523a9804964edb6f4241aa5c52bbe24",
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODDELAY.IRX;1",
+      "sha256": "f0dbe4dd1f073e891f2dd34cda501b7633d167752fb4bb5c4b0cf7978f3f1f0e",
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCSERV.IRX;1",
+      "sha256": "c6955e2954318504c3688447e7941e7cc09f103defcc0d4bc08ae14c1cb04b7e",
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCMAN.IRX;1",
+      "sha256": "5b3bf4bd5529ee7e433ada99298e60c35bab500186d895d4c1d29d6e32d58406",
+      "changed": false
+    },
+    {
+      "path": "/IRX/LIBSD.IRX;1",
+      "sha256": "767f44ab4fc4d58d7a49ec10a53015324ddd6ce898c108fbe1654b51553f0e58",
+      "changed": false
+    },
+    {
+      "path": "/IRX/IOPRP270.IMG;1",
+      "sha256": "05c0b8c068903033dd85a383021f8d9a9630e685965b1497b2194c4c53110f63",
+      "changed": false
+    },
+    {
+      "path": "/IRX/HELLO.IRX;1",
+      "sha256": "97965c72d5e6742d158421fd52b3a96e457a9fdab9c534e337d333f8294f79d0",
+      "changed": false
+    },
+    {
+      "path": "/IRX/CDVDSTM.IRX;1",
+      "sha256": "62e6aba18dd48ee45d220d136a38ba4b4b58291e703b56192263f3913708a4df",
+      "changed": false
+    }
+  ],
+  "output": "work/output/SRWMX_PS2_EN_0.4.38.iso",
+  "output_sha256": "0e1e3719525b833e5e710c485060db8ba679fbfdd45005b8d382654f4f1260a6",
+  "bytes": 4659449856,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "in_game_visual_validation": "pending",
+  "local_build_only": true,
+  "github_release": false
+}

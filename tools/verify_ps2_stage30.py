@@ -70,12 +70,18 @@ def native_checks(elf, maps, stage, info, static, pack):
         assert reads[-1]['sha256']==scene['target_sha256'];assert u.mem_read(dest,4)==b'SRWL'
         script_checks.append(dict(scene=name,**reads[-1]))
     deployments=[]
-    for group,name,count in [(12,'s0570',132),(10,'s0560',46)]:
+    deployment_cases = [(12,'s0570',132),(10,'s0560',46)]
+    if info.get('stage28_port'):
+        deployment_cases.append((8,'s0550',34))
+    for group,name,count in deployment_cases:
         u.reg_write(reg.UC_MIPS_REG_A0,obj);u.reg_write(reg.UC_MIPS_REG_A1,7);u.reg_write(reg.UC_MIPS_REG_A2,group)
         run(u,0x3392c8);length=u.reg_read(reg.UC_MIPS_REG_V0);assert length==(44+192*count+2047)//2048*2048
         u.reg_write(reg.UC_MIPS_REG_A0,obj);u.reg_write(reg.UC_MIPS_REG_A1,dest)
         u.reg_write(reg.UC_MIPS_REG_A2,7);u.reg_write(reg.UC_MIPS_REG_A3,group);run(u,0x3393b0)
-        raw=bytes(u.mem_read(dest,length));assert struct.unpack_from('<2I',raw,4)==(910,90)
+        raw=bytes(u.mem_read(dest,length));assert struct.unpack_from('<2I',raw,4)==(910,460 if name=='s0550' else 90)
+        if name=='s0550':
+            from ps2_stage28 import DEPLOYMENT_SHA
+            assert sha(raw)==DEPLOYMENT_SHA
         assert raw[24:32].split(b'\0')[0]==name.encode();assert struct.unpack_from('<I',raw,40)[0]==count
         deployments.append(dict(scene=name,units=count,**reads[-1]))
     u.hook_del(handle)

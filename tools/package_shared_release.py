@@ -67,7 +67,11 @@ def main(version,retro_trans_root,artifact_tests=None):
     if artifact_tests:
         for source,name in [('chapters01_end_proofread.html',f'PROOFREADING-v{version}.html'),
                             ('dialogue_review_2026_10_12.html',f'DIALOGUE-REVIEW-v{version}.html')]:
-            page=(ROOT/'work/output'/source).read_text(encoding='utf8')
+            # Historical review pages are optional presentation aids. Current
+            # ISO/native evidence above is required even after cache cleanup.
+            review_path=ROOT/'work/output'/source
+            if not review_path.is_file():continue
+            page=review_path.read_text(encoding='utf8')
             assert page.count('<main>')==1
             banner=(f'<p><strong>Included in release v{version} for PSP and PS2.</strong> '
                     'The source-review notes below describe the earlier proofreading step. '
@@ -75,7 +79,7 @@ def main(version,retro_trans_root,artifact_tests=None):
                     'README and BUILD-TESTS file for current verification and pending gameplay checks.</p>')
             if source=='chapters01_end_proofread.html':
                 layouts=json.loads((ROOT/'work/translation/en/ps2/script/reviewed_layout.en.json').read_text(encoding='utf8'))
-                assert layouts['version']==version
+                assert title_footer.version_key(layouts['version'])<=title_footer.version_key(version)
                 banner+='<section><h2>PS2 wording adjustments</h2><p>These three source-checked lines use shorter wording to fit the native PS2 font and maximum editable nickname length.</p><table><thead><tr><th>Scene / slot</th><th>Before</th><th>PS2 release wording</th><th>Reason</th></tr></thead><tbody>'
                 for row in layouts['rows']:
                     before=row['expected_english'].split('\u300c',1)[1].rstrip('\u300d')

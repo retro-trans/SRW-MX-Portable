@@ -8180,12 +8180,12 @@
    "kind": "dialogue",
    "speaker_jp": "葎",
    "speaker_en": "Ritsu",
-   "en": "...Masato Akitsu... You cannot see it. This face of mine...!",
+   "en": "...Masato Akitsu... You can't see this face of mine...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 333
    },
-   "notes": "Face remains unseen by Masato; no visible-face claim.",
+   "notes": "Face remains unseen by Masato; no visible-face claim. Approved screenshot revision: combines the fragmented face clause into natural English. Masato cannot see Ritsu's face; the following dialogue explains his resentment.",
    "uncertain": []
   },
   {
@@ -8552,12 +8552,12 @@
    "kind": "dialogue",
    "speaker_jp": "葎",
    "speaker_en": "Ritsu",
-   "en": "I'm done talking. Die... and take the blood of Masaki within you with you...!",
+   "en": "Enough talk. Die... and take Masaki's blood with you...!",
    "translation_owner": {
     "source": "work/translation/en/script/stage28_campaign.json",
     "id": 354
    },
-   "notes": "Death threat includes Masaki's blood within Masato.",
+   "notes": "Death threat includes Masaki's blood within Masato. Approved screenshot revision: removes the repeated within you with you. The threat still includes the blood of Masaki that Masato carries.",
    "uncertain": []
   },
   {
@@ -13187,7 +13187,7 @@
  "context_review_pending": false,
  "context_review": {
   "stage": 28,
-  "fingerprint": "f5c532865c3111dad98607937b312a0e0a4b1b1f61a38c58b1bbb32a9620b35b",
+  "fingerprint": "385838f37f82bc73141fa68c3177a1c435bb76b46c2bfb94cf6fa7f18f4ce23b",
   "reviewed_reused_ids": [
    18,
    27,
@@ -13369,7 +13369,7 @@
   "reviewed_reused_rows": 176,
   "source_uncertainties_retained": true,
   "reviewer": "coordinator",
-  "note": "Root reviewed all626 fresh English rows, initial/final changes and eight packet reports; all176 reused rows original source and every actual-use final English neighbor verified, including143 previously compared identical generic battle rows. All8 fresh flags reviewed in Japanese context. Only measured plain316 compressed. Exact stage28-only copies502 and689 corrected after independent translator review; owner outputs unchanged. Activation471 meaning corrected to separate listed commands from singular limiter release;209 explicit rank uses glossary Ensign consistently. Source ambiguities and English provenance retained; names/nicknames preview clear. 2026-10-09: All Chapter 28 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only."
+  "note": "Root reviewed all626 fresh English rows, initial/final changes and eight packet reports; all176 reused rows original source and every actual-use final English neighbor verified, including143 previously compared identical generic battle rows. All8 fresh flags reviewed in Japanese context. Only measured plain316 compressed. Exact stage28-only copies502 and689 corrected after independent translator review; owner outputs unchanged. Activation471 meaning corrected to separate listed commands from singular limiter release;209 explicit rank uses glossary Ensign consistently. Source ambiguities and English provenance retained; names/nicknames preview clear. 2026-10-09: All Chapter 28 rows proofread against the original source in scene context, including all applicable routes and reused rows. 6 row occurrences corrected; every correction explained in chapters15_30_proofread.en.json and chapters15_30_proofread.html. Source uncertainty annotations retained. No ISO build or in-game verification in this review. 2026-10-11: Hau Dragon screenshot terminology follow-up applied to current sources; aliases retained only where explicitly contrasted. Source-only. 2026-10-18: Approved natural-English revisions to Ritsu entries 497 and 520; source-only."
  },
  "full_checks": {
   "rows": 802,

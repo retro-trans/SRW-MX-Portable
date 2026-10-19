@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-18",
+ "edits": [
+  {
+   "speaker": "Ritsu",
+   "kind": "dialogue",
+   "before": "...Masato Akitsu... You cannot see it. This face of mine...!",
+   "after": "...Masato Akitsu... You can't see this face of mine...!",
+   "reason": "Approved screenshot revision: combines the fragmented face clause into natural English. Masato cannot see Ritsu's face; the following dialogue explains his resentment.",
+   "appearances": [
+    [
+     28,
+     497
+    ]
+   ],
+   "review_tag": "ritsu_screenshots_2026_10_18",
+   "source_sha256": "8299ba04dcb6e0ee15af7d0715fa960cdcf7db0a7f32097f5bdf92bf1b5d8963",
+   "psp_widths": [
+    324,
+    77
+   ],
+   "ps2_widths": [
+    499,
+    113
+   ]
+  },
+  {
+   "speaker": "Ritsu",
+   "kind": "dialogue",
+   "before": "I'm done talking. Die... and take the blood of Masaki within you with you...!",
+   "after": "Enough talk. Die... and take Masaki's blood with you...!",
+   "reason": "Approved screenshot revision: removes the repeated within you with you. The threat still includes the blood of Masaki that Masato carries.",
+   "appearances": [
+    [
+     28,
+     520
+    ]
+   ],
+   "review_tag": "ritsu_screenshots_2026_10_18",
+   "source_sha256": "51e414878872180f49b0a35a2496a57d24dce02c3b939c1d20c8b3b744b1fd34",
+   "psp_widths": [
+    346,
+    71
+   ],
+   "ps2_widths": [
+    481,
+    153
+   ]
+  }
+ ],
+ "validation": {
+  "date": "2026-10-18",
+  "review_tag": "ritsu_screenshots_2026_10_18",
+  "chapter": 28,
+  "rows": 802,
+  "problems": [],
+  "guarded_reassembly_verified": true,
+  "all_non_editorial_metadata_preserved": true,
+  "iso_rebuilt": false
+ },
+ "platforms": [
+  "PSP",
+  "PS2"
+ ],
+ "iso_rebuilt": false
+}

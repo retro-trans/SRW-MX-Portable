@@ -25,6 +25,7 @@ from static2_extract import sections, index
 from port_ps2_translations import campaign_sources, story_mappings
 from port_ps2_prologue import SCENES as PROLOGUE_SCENES
 from port_ps2_stage30 import SCENES as EXTRA_SCENES
+from ps2_stage28 import SCENES as STAGE28_SCENES, port as port_stage28
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -61,6 +62,8 @@ def rebuild_slots(raw, replacements):
 
 
 def refresh_story(elf, maps, meta, info):
+    elf, maps, stage28 = port_stage28(elf, maps, meta, info)
+    elf = bytearray(elf)
     mappings, _, _, sources = story_mappings()
     layout_path=ROOT/'work/translation/en/ps2/script/reviewed_layout.en.json'
     layout_rows=read(layout_path)['rows']
@@ -70,7 +73,7 @@ def refresh_story(elf, maps, meta, info):
     originals = {r['name']: r['strings'] for r in read(ROOT/'work/source/ps2/script_comparison.json')['ps2_blocks']}
     original_psp = (ROOT/'work/build/MAP_ADD.orig').read_bytes()
     for row in read(ROOT/'work/source/stage_map.json'):
-        if row['name'] in set(PROLOGUE_SCENES) | set(EXTRA_SCENES):
+        if row['name'] in set(PROLOGUE_SCENES) | set(EXTRA_SCENES) | set(STAGE28_SCENES):
             originals[row['name']] = play_order.load(original_psp, row['offset'])[1]
     segment, va = int(meta['segment_offset'], 16), int(meta['segment_va'], 16)
     offset = lambda address: segment + int(address, 16) - va
@@ -134,7 +137,7 @@ def refresh_story(elf, maps, meta, info):
         commands, before_strings = play_order.load(raw, 0)
         original_strings = originals[name]
         assert len(original_strings) == len(before_strings), name
-        trans = psp_trans.get(name, {}) if name in set(PROLOGUE_SCENES)|set(EXTRA_SCENES) else mappings[name]
+        trans = psp_trans.get(name, {}) if name in set(PROLOGUE_SCENES)|set(EXTRA_SCENES)|set(STAGE28_SCENES) else mappings[name]
         replacements = {}
         for slot, jp in enumerate(original_strings):
             if export_rows.classify(jp) is None:
@@ -185,6 +188,7 @@ def refresh_story(elf, maps, meta, info):
         scene.update(bytes=block['new_bytes'], target_sha256=block['new_sha256'],
                      translated_strings=block['translated_strings'])
     return bytes(elf), bytes(output), dict(blocks=blocks, texts=records, changed_string_slots=changed,
+        stage28_port=stage28,
         total_scenes=203, translated_scenes=sum(bool(b['translated_strings']) for b in blocks),
         translated_strings=len(records), missing_readable_strings=0, commands_preserved_from_verified_port=True,
         non_script_map_bytes_preserved=True, native_linebreak_reflows=reflows,

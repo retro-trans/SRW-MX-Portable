@@ -125,5 +125,13 @@
   "reason": "Explicit user request: Magnet X is the default squad name. Eight characters including the space fit the native name limit.",
   "dialogue_policy": "Keep #部隊名 substitution so user-selected names appear naturally in dialogue.",
   "existing_saves": "Preserve saved names; Reset selects the new default."
+ },
+ "editable_unit_name_default": {
+  "date": "2026-10-19",
+  "jp": "サーベラス・イグナイト",
+  "en": "Cerberus Ignite",
+  "previous": "Cerberus Ignited",
+  "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database",
+  "reason": "The editable hero unit name has a native 32-byte save field, so 16 full-width English glyphs plus NUL cannot fit. Akurasu Pilot Database and Units List use Cerberus Ignite (15 glyphs). Keep the Mech List spellings of the separate database G/S names; this override applies only to the editable default."
  }
 }

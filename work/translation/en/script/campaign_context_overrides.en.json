@@ -9877,6 +9877,28 @@
    "expected_en": "Is this the Zeorymer created by that man I hate with every fiber of my being...!?",
    "en": "Is this the Zeorymer created by the man I hate with every fiber of my being...!?",
    "reason": "Accepted the user's suggestion: the definite article sounds more natural here. The demonstrative identifies the creator without naming him; the emphasis on enduring hatred remains."
+  },
+  {
+   "stage": 28,
+   "full_id": 497,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage28_campaign.json",
+    "id": 333
+   },
+   "expected_en": "...Masato Akitsu... You cannot see it. This face of mine...!",
+   "en": "...Masato Akitsu... You can't see this face of mine...!",
+   "reason": "Approved screenshot revision: combines the fragmented face clause into natural English. Masato cannot see Ritsu's face; the following dialogue explains his resentment."
+  },
+  {
+   "stage": 28,
+   "full_id": 520,
+   "expected_owner": {
+    "source": "work/translation/en/script/stage28_campaign.json",
+    "id": 354
+   },
+   "expected_en": "I'm done talking. Die... and take the blood of Masaki within you with you...!",
+   "en": "Enough talk. Die... and take Masaki's blood with you...!",
+   "reason": "Approved screenshot revision: removes the repeated within you with you. The threat still includes the blood of Masaki that Masato carries."
   }
  ]
 }

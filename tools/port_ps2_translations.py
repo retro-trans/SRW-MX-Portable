@@ -31,8 +31,15 @@ def normalize(text):
 
 
 def campaign_sources():
-    manifest=read_json(ROOT/'work/output/campaign_0.4.9_inputs.json')
-    paths=[ROOT/p for p in manifest['source_files']]
+    manifest_path=ROOT/'work/output/campaign_0.4.9_inputs.json'
+    if manifest_path.exists():
+        paths=[ROOT/p for p in read_json(manifest_path)['source_files']]
+    else:
+        # Output reports may be cleaned independently of reviewed sources.
+        # The complete source set is Prologue plus the 58 named stage groups.
+        paths=[ROOT/'work/translation/en/script/prologue_merged.json']
+        paths += [ROOT/f'work/translation/en/script/stage{n:02d}_campaign_full_merged.json'
+                  for n in range(1,59)]
     assert len(paths)==59
     for path in paths:
         data=read_json(path)

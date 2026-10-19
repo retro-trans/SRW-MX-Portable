@@ -179,6 +179,8 @@ def main(iso_path, version, *rest):
         boot_new = fix_psp_levelup.patch_boot(boot_new)
         import fix_psp_parts
         boot_new = fix_psp_parts.patch_boot(boot_new)
+        import fix_psp_rename
+        boot_new = fix_psp_rename.patch_boot(boot_new)
         import parts_layout
         boot_new = parts_layout.patch_boot(boot_new)
         import fix_psp_menu_alignment
