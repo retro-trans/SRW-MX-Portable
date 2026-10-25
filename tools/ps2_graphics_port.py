@@ -146,7 +146,11 @@ def window_graphics(original):
     last=0
     for a,z in sorted(ranges):assert output[last:a]==original[last:a];last=z
     assert output[last:]==original[last:] and len(output)==len(original)
-    return bytes(output),dict(native_pixel_edits=results,palettes_and_headers_preserved=True,target_sha256=sha(output))
+    from sortie_header import patch as patch_sortie_header
+    output, sortie = patch_sortie_header(bytes(output), 'PS2')
+    results.append(dict(asset='IM_W10',english='Sortie Prep',kind='header'))
+    return output,dict(native_pixel_edits=results,sortie_header=sortie,
+                       palettes_and_headers_preserved=True,target_sha256=sha(output))
 
 
 if __name__=='__main__':

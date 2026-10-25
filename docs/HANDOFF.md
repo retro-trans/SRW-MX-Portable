@@ -1,3 +1,339 @@
+# Shared v0.4.47 release work — 2026-10-26
+
+User confirmed local PS2 .46 works great and requested publication, then
+added untranslated title logos, copyright and opening-production screenshots.
+Those additions are included in shared .47; release authorization remains
+active. Public is still .38 until publication completes. Do not operate the
+user's emulator. The repeated-dialogue investigation remains open.
+
+Both .47 ISOs are built and byte-verified. PSP SHA256:
+`cf025614c141f2705989a38d8ef0fe3b3e5f4cacea38353c8e9602aed18713c7`.
+PS2 SHA256:
+`f306e9801486127b3cffe386976b47d7faf293518e7a3ca1c8ed9c19c89f2a4f`.
+See `docs/mx_branding.md` for artwork, movie locations and encoding invariants.
+Four native movie streams pass full decode with exact frame counts/timing;
+all non-video/audio/header bytes remain identical. Live playback is pending.
+The PS2 copy finished successfully; verification resumed read-only to resolve
+the UDF's lowercase resource names. No image was overwritten during recovery.
+
+Current .47 PSP campaign/text/native checks and full cross-platform candidate
+audit are used for packaging. Additional actual-ISO regressions are in
+`work/output/release_0.4.47_native_regressions.json` (passed). Original/full
+and public .38 upgrade patches are planned for each platform, followed by
+Retro Trans Tools manifest/catalog validation. No release has been published
+at the time of this entry; record final publication evidence below when done.
+
+# Local PS2 v0.4.46 — Objectives footer typography (2026-10-26)
+
+User confirms the preceding chapter-transition correction works; their new
+PS2 screenshot shows Chapter 31, Shine of the Red Dragon. Acceptance and the
+unaltered screenshot are saved under `work/ui/ps2/chapter30_lockout_2026_10_26/`.
+This does not confirm a full playthrough or a live Space-route transition.
+
+The new request concerns the smaller, higher chapter number in Objectives.
+`tools/fix_ps2_objective_footer.py` changes only the guarded native float
+load at 0x153e98: number width 16 -> 20, matching the title's 20x24 cell.
+The proportional Latin sprite hook uses the smaller cell dimension, so this
+also gives both elements a 20-pixel glyph height and the same baseline.
+Existing y264 offset and x44/x128 positions are retained. Actual values,
+title lookup and the late-game no-number branch remain unchanged.
+
+`tools/verify_ps2_objective_footer.py` executes the real footer across 30
+chapter/origin cases, reproduces the mismatch, and runs both text renderers
+through the actual sprite geometry hook. Both regular PS2 builders apply the
+fix. `tools/build_ps2_objective_footer.py` builds local v0.4.46 over .45.
+ISO: `work/output/SRWMX_PS2_EN_0.4.46.iso`; verification:
+`work/output/ps2_objective_footer_0.4.46_verification.json`.
+The exact native title footer is regenerated and read back. User confirmation
+of the new typography remains pending. Public .38, local PSP .42. No release
+requested. Do not operate the user's emulator. Repeated dialogue remains open.
+
+Complete ISO SHA256:
+`8e9c7b8947a9104603226c6560c1d732a2c563b3dab33bbd686290e2bdb19225`.
+Size 4,678,762,496 bytes. All 36 other resources and their locations are
+preserved; both ISO9660/UDF executable readbacks and 42 title-state cases pass.
+
+# Local PS2 v0.4.45 — chapter-30 lockout and recovery (2026-10-26)
+
+Reporter confirms public .38, Earth. The seven-Clear-row Stage Select lockout
+is reproduced with actual native ending/selector code. Chapter 29's closing
+calls opcode 112 before the seven-stage chapter is complete; chapter 30's
+closing ends 108/93/127 and never checks completion again. Earlier route
+fixtures manually called 112 after all clears and missed this invocation gap.
+
+`tools/fix_ps2_stage30_transition.py` adds a guarded native completion helper
+at opcode-108 entry and Stage Select row-population entry. The second recovers
+an already-stuck normal save. Guards: chapter7/scene5/group10/mask0x7f,
+route0-or-1, native location count7, initialized pointers. Normal native
+advance retains history, per-location clear counters and route. Reentry is
+inert, incomplete chapters remain playable, special script mode is preserved.
+Both normal PS2 builders apply it. MAP/dialogue commands remain unchanged.
+
+`tools/verify_ps2_stage30_transition.py` tests both endings/routes and saved
+state recovery through actual selector population, 127 incomplete masks,
+other-state guards, late clear commitment, repeat entry, next-stage selection
+and history append. Earth -> Shine of the Red Dragon, Space -> Break through
+the Falcon. Only intermission event delivery is serviced. The user has since
+confirmed working and shown the next Earth Chapter 31 mission; full mission
+clear and a live Space-route check remain unverified.
+
+Build: `work/output/SRWMX_PS2_EN_0.4.45.iso`; evidence:
+`work/output/ps2_stage30_transition_0.4.45_verification.json`; details:
+`docs/ps2_stage30_transition_fix.md`. Boot the ISO and load a normal game save,
+then open Stage Select; avoid an old emulator state restoring the old binary.
+Native v0.4.45 footer and all previous local fixes are retained. Public .38,
+local PSP .42; no release requested. Do not operate the user's emulator.
+ISO SHA256: `26d3b9e81bf92d4e96658a067316663aaf493176d96c132b8bb293db797810b8`.
+Complete image verification, both executable directory views and the exact
+native footer pass. An expanded check uses the actual public .38 executable
+for the failing case, rather than only the unchanged campaign code in .44.
+
+# Local PS2 v0.4.44 — map-menu numeric alignment (2026-10-26)
+
+Fixed the reported Turns / Funds values in PS2 `CWndTurnMoney`. Original
+`%4d`/`%8d` padding at different x origins only aligned with fixed-width
+ASCII. Both now share right edge x188 within the original 200-pixel panel,
+using actual native ASCII width before the original renderer. Labels,
+formats, values, y positions, font size and animation remain unchanged.
+
+Tools: `tools/fix_ps2_turn_funds.py`, `tools/verify_ps2_turn_funds.py`,
+`tools/build_ps2_turn_funds.py`; both regular PS2 build paths include it.
+Native panel checks pass 27 value/position/animation cases and the actual
+ASCII renderer's 18 glyph-advance rows end at the same edge. Details:
+`docs/ps2_turn_funds_alignment.md`. Test ISO:
+`work/output/SRWMX_PS2_EN_0.4.44.iso`; evidence:
+`work/output/ps2_turn_funds_0.4.44_verification.json`.
+ISO SHA256: `a108a7bb88819469bea2afa9b4072773ee302ba1f5f11d325ad30491f0d528f4`.
+Complete source/output hash verification and both executable filesystem views
+pass; all other 36 resources and their locations are retained.
+
+Built over PS2 v0.4.43, retaining its rename fix and all other resources,
+with regenerated native v0.4.44 footer. Fresh PCSX2 visual acceptance is
+pending; the user's running emulator was not operated. No release was
+requested. Public remains v0.4.38; latest local PSP remains v0.4.42.
+
+# Local PS2 v0.4.43 — unit rename fix (2026-10-26)
+
+Fixed the reported Garmraid Blaze corruption in the PS2 native unit rename
+editor. The PSP v0.4.38 fix had not changed this PS2 class. Name now uses
+31 bytes and Reading 17 within the original 48-byte area; limits are 15/eight
+characters, save slots/object size unchanged. Cerberus's editable default
+matches PSP's Cerberus Ignite. Both values move clear of their labels and a
+private helper gives the enlarged fields compact underline spacing without
+changing shared constants. All load/edit/export/draw arithmetic uses the same stride.
+
+Tools: `tools/fix_ps2_rename.py`, `tools/verify_ps2_rename.py`,
+`tools/build_ps2_rename.py`; regular PS2 builders include the correction.
+Details: `docs/ps2_rename_fix.md`. Native reset/saved defaults, 18 editing
+cases, max/legacy names, adjacent controls, window/underline draws and widths
+pass. The local ISO is `work/output/SRWMX_PS2_EN_0.4.43.iso`; report:
+`work/output/ps2_rename_0.4.43_verification.json`. Fresh PCSX2 visual acceptance
+is pending. Use Reset if an already-corrupt name had previously been saved;
+boot the ISO and load a normal game save rather than an older save state.
+ISO SHA256: `36e73a20b15af2b80f74f057f57bcfe03cc2e5e17a4dddd49fb3050f4697865f`.
+All 37 resources and both filesystems pass readback; the other 36 resources
+and original disc bytes outside required filesystem metadata remain exact.
+
+Built over local PS2 v0.4.41 with exact regenerated native v0.4.43 footer.
+Public release remains v0.4.38; local PSP remains v0.4.42. No release was
+authorized for v0.4.43. Do not operate the user's running emulator implicitly.
+
+# PS2 story-flow report — 2026-10-25
+
+**Dialogue anchor identified, 2026-10-26:** new screenshot is Hugo asking
+whether the new model's DFC system has been adjusted. Actual public v0.4.38
+has this once in `s0570:336`, command 692, handler 631–1019; original PSP has
+the same line/command once. It begins the artificial-body/medication/upgrade
+conversation. Much of it comes from original PS2 chapter-28 aftermath
+`i055a` (61 shared longer string slots), relocated by PSP into chapter 29.
+The active v0.4.38 chapter-28 PSP aftermath instead has Aqua mourning missing
+Hugo; the pictured conversation is absent. All six stage-28/29 command arrays
+retain intended PSP provenance. v0.4.44's MAP hash is unchanged from .38.
+
+This does not close the runtime repetition report. The first occurrence and
+save origin are unknown; older chapter-28 content/cache is only a hypothesis.
+User replied **“exact I think”** to whether it is the same conversation. Treat
+the exact repeat as tentative. Checked actual older .33/.36 PS2 ISOs: both
+keep PS2 chapter-28 aftermath and PSP chapter-29 events, sharing 50 identical
+longer English strings. The historical duplicated conversation is established;
+public .38's chapter-28 port removes that earlier scene. Need to establish
+which build ran the reporter's chapter 28 and obtain the earlier checkpoint.
+No speculative script removal. Details/evidence:
+`docs/ps2_story_flow_report.md`,
+`work/output/ps2_repeated_dfc_dialogue_0.4.38_audit.json`.
+
+**Objectives-footer suspicion closed:** the user clarified the screenshot
+actually was chapter 28. Its 28 / Tragedy Beneath the Moon footer is correct;
+no objectives/campaign change is warranted. The separate repeated-dialogue
+report remains open. Investigation/evidence: `docs/ps2_story_flow_report.md`
+and `work/output/ps2_objective_footer_0.4.38_audit.json`.
+
+User has moved elsewhere in PCSX2 and said they will return later. **Leave
+their running emulator alone until then.** One read-only local capture was
+from a different checkpoint (PCSX2 2.8.2, hero count29/group12), not the reported
+screen and not a reproduction. No story fix; no live memory or UI changes.
+
+The user challenged the order using Akurasu MXPFlow Chart. Rechecked the original
+Japanese PSP ISO's STATIC2 resource: chapter 7 has seven locations ending in
+66 (What Gnaws at the Heart) then 34 (Zeorymer Sorties at Dawn), matching the
+PS2 port's added-ID remap and order. Japanese Portable scenario list agrees:
+stage 29 -> shared stage 30 -> branch at 31. The linked Akurasu section omits
+Portable's reworked 29 and retains PS2 numbering. No order change is warranted;
+source exception is recorded in `docs/glossary_decisions.md`. Evidence:
+`work/output/psp_original_stage29_30_order_2026_10_25_verification.json`.
+
+Latest screenshots show Earth choice -> Chapter 30, Zeorymer Sorties at Dawn.
+This sequence is expected: stage 30 is shared before the route split. Actual
+v0.4.38 native route-store/advance/title checks confirm both choices retain
+stage 30, then Earth selects Shine of the Red Dragon and Space selects Break
+through the Falcon. Evidence:
+`work/output/ps2_stage29_route_choice_0.4.38_verification.json`. This is explicit
+campaign-state execution, not a complete battle clear. Repetition remains open;
+the screenshots do not show it. Details: `docs/ps2_story_flow_report.md`.
+
+Optional stage-29 fast-test helper v0.1.0 is in
+`work/output/PCSX2_MX_0.4.38_fast_test.zip`; guide:
+`docs/ps2_stage29_fast_test.md`. Verified against actual v0.4.38 ELF, CRC
+3D263F53, with 50 native SP cases and both four-pilot Awaken-loop variants.
+No forced clear or event/campaign writes. In-game acceptance is pending;
+clean-save confirmation remains necessary for the underlying report.
+
+Forwarded report: PSP scenario content on PS2, route choice before mission end,
+and repeated dialogue; reporter suspects both editions' events run. Confirmed
+PCSX2 v2.6.3, English v0.4.38, stage 29. PSP content is intentional, but
+timing/repetition is not yet diagnosed. Exact repeat and save origin are still
+unknown. No code/build changes and no claimed fix.
+
+Actual public v0.4.38 ISO audit finds 203 unique active scene entries: 186
+original PS2 command arrays and 17 intended PSP port arrays (cache opcode
+adaptation only). All scene-call targets resolve. No combined PS2/PSP command
+arrays found. This does not rule out runtime event/state/command semantics
+problems; full mission-clear playthroughs were not covered by prior checks.
+Stage 29 `s0570` calls closing `i057a`, whose original PSP route choice is
+Send them into space / Keep them on Earth before the added stage 30. Closing
+guards retain original PS2 stage-29 operands. Need the actual checkpoint to
+distinguish expected imported story order from premature/repeated execution.
+
+Details: `docs/ps2_story_flow_report.md`; evidence:
+`work/output/ps2_story_flow_0.4.38_audit.json`. Await a concrete checkpoint for
+runtime reproduction. Public release remains v0.4.38; latest local PSP is
+v0.4.42 and PS2 v0.4.43.
+
+# Local PSP v0.4.42 — Dendoh form-choice popup width
+
+Widened the dedicated PSP `CWndDendohChoice` window from 128 to 176 pixels.
+Both Full Armor Dendoh and GEAR Fighter Dendoh fit at the unchanged font size.
+Native centering moves x from 176 to 152 and expands the highlight; height,
+two choices, row offsets, input logic, object size and save layout are retained.
+Only the width immediate at native `0x1b19a0` changes. Regular PSP builds now
+apply `tools/fix_psp_dendoh_popup.py`.
+
+Native execution reproduces the old overflow and checks both selections after
+the fix, including actual text widths, row draws, centering, highlight and object
+guard. Actual ISO BOOT/EBOOT readback matches the verified executable. Complete
+source/output hashes, unchanged ISO layout and exact native v0.4.42 footer pass.
+All v0.4.41 translation/artwork fixes are retained.
+
+- PSP: `work/output/SRWMX_EN_0.4.42.iso`, SHA256
+  `c4586ffd9454773096db7404e4cdcafa121932a8e99d67ee8b03f41d1f3725de`.
+- Evidence: `work/output/psp_dendoh_popup_0.4.42_verification.json`.
+- Details: `docs/dendoh_popup.md`; screenshot/native coordinate evidence:
+  `work/ui/sortie_popup_2026_10_24/`.
+
+PS2 remains at local v0.4.41. Fresh in-game visual acceptance is pending; GUI
+testing was not resumed. Public release and Retro Trans Tools remain v0.4.38.
+No release was requested for this build.
+
+# Local PSP / PS2 v0.4.41 — Sortie Prep header
+
+Translated the reported Sortie Prep graphic: PSP WND texture 39 and PS2
+`IM_W10`. The English term existed, but the PSP header had no text rectangle
+configured and the PS2 header was not in the prior artwork port. Full title-case
+text fits without horizontal squeezing at 16px (PSP) / 22px (PS2) mask heights.
+The native palette, slanted bar, blue line, transparency and all other pixels
+are preserved. Actual ISO artwork was visually inspected on both platforms.
+
+`tools/sortie_header.py` guards native/translated source pixels, applies the
+registered boxes and verifies the actual ISO header. PSP regular redraw and both
+PS2 build paths include the fix. Header outputs from the regular artwork paths
+match the incremental patch. Historical PS2 resource normalization strips only
+the verified header rectangle and reproduces the exact v0.4.40 WND resource.
+
+Local images retain every v0.4.40 fix. Complete source/output hashes, actual ISO
+header/footer readback, file layouts and PS2 dual filesystem agreement pass.
+Native title versions are v0.4.41 with github.com/retro-trans.
+
+- PSP: `work/output/SRWMX_EN_0.4.41.iso`, SHA256
+  `d58616402a8a99e9307262b4bd7f8ae7fa6d719733e41f9978d3316ba3756efc`.
+- PS2: `work/output/SRWMX_PS2_EN_0.4.41.iso`, SHA256
+  `51bd5d106178c97262a9bcc5f7d8b3dc49cf2e85273af6a7b7aaeaab2b746b61`.
+
+Details: `docs/sortie_header.md`. Evidence:
+`work/output/{psp,ps2}_sortie_header_0.4.41_verification.json`.
+Reported screenshot and coordinate metadata: `work/ui/sortie_header_2026_10_24/`.
+Actual ISO previews: `work/ui/{psp,ps2}/sortie_header_0.4.41/iso_readback/`.
+Fresh in-game display remains pending. GUI was not resumed; public release and
+Retro Trans Tools catalog remain v0.4.38. No release was requested for this build.
+
+# Local PSP / PS2 v0.4.40 — Distortion Field and TE Sphere
+
+Added the two reported native battle-animation captions, using freshly refreshed
+Akurasu MX Mech Abilities terms. Critical and Shield Defense from local v0.4.39
+are retained. These labels have different coordinates in the two atlases; the
+registry now resolves each platform's rectangles before patching and verifying.
+Both new full English labels fit at 18px cap height without horizontal scaling.
+
+Distortion Field uses PSP `(0,280)-(192,304)` / PS2 `(416,24)-(608,48)`;
+TE Sphere uses PSP `(8,376)-(104,400)` / PS2 `(424,120)-(520,144)`.
+The initial exploratory Distortion Field crop was narrowed before building.
+Four caption regressions pass, including raw indexed-byte preservation of the
+neighboring pilot-SP and electric-attack labels on both platforms, historical
+caption subsets, red-letter boundaries and unknown-source rejection.
+
+Both local images preserve the exact verified v0.4.39 source bytes except for
+the registered caption pixels and regenerated v0.4.40 title footers. Full source
+and output hashes, actual ISO captions/footers, retained layouts and PS2 dual
+filesystem readback pass. Actual ISO artwork previews were visually inspected.
+
+- PSP: `work/output/SRWMX_EN_0.4.40.iso`, SHA256
+  `049b10bcb43e67f525c17b58c4e643ca3a6e20b16713c904dd4276311c4bc908`.
+- PS2: `work/output/SRWMX_PS2_EN_0.4.40.iso`, SHA256
+  `e144ac9026bec394bdbeba39b1b151b0f82c8e9b7da7721c1e177d48bedfb55d`.
+
+Evidence: `work/output/{psp,ps2}_battle_banners_0.4.40_verification.json`.
+Reported screenshots, annotated regions and coordinate metadata are in
+`work/ui/battle_banner_2026_10_21/`; actual output previews are in
+`work/ui/{psp,ps2}/battle_banners_0.4.40/iso_readback/`.
+Fresh in-game display remains pending. GUI was not resumed. No release was
+requested; public release and Retro Trans Tools catalog remain v0.4.38.
+
+# Local PSP / PS2 v0.4.39 — Critical and Shield Defense
+
+The reported native battle-animation labels were not included in the earlier
+three-caption registry. Added Critical and Shield Defense for both platforms,
+using the existing Critical term and freshly refreshed Akurasu Shield Defense.
+Their rectangles are `(240,120)-(336,144)` and `(240,144)-(348,168)`; full labels
+fit at 18px and 16px cap heights with the original white/blue outlined style.
+Neighboring Support Defend and red lettering, palettes, gameplay, script and
+all other disc bytes remain exact. The verifier explicitly covers registered
+captions and does not claim complete translation of the atlas.
+
+Both candidates were streamed from the exact public v0.4.38 inputs and verified
+by full output hashes, actual ISO caption/footer readback, retained file layouts
+and PS2 ISO9660/UDF agreement. Native title screens read v0.4.39 with the credit.
+Actual ISO artwork previews were visually inspected on both platforms.
+
+- PSP: `work/output/SRWMX_EN_0.4.39.iso`, SHA256
+  `2abdc5312b46c51a41481d52db963dda2659c076226234d0df2cfb039463a627`.
+- PS2: `work/output/SRWMX_PS2_EN_0.4.39.iso`, SHA256
+  `ca716f456e0a63537a7150291440277a7061c0a2ce76c891f0a7380e584bc2b0`.
+
+Evidence: `work/output/{psp,ps2}_battle_banners_0.4.39_verification.json`.
+Screenshots: `work/ui/battle_banner_2026_10_19/`; output previews:
+`work/ui/{psp,ps2}/battle_banners_0.4.39/iso_readback/`.
+Fresh in-game display remains pending; GUI was not resumed. These are local
+test builds. Public release and Retro Trans Tools catalog remain v0.4.38.
+
 # Published shared v0.4.38 — 2026-10-19
 
 Published: https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.38.

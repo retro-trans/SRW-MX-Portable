@@ -1,4 +1,4 @@
-"""Create local banner-only candidates, preserving every other disc byte.
+"""Create local native-artwork candidates, preserving every other disc byte.
 
 Both native title footers are regenerated before the final output is hashed.
 No release is published. Complete ISO readback checks the streaming transform.
@@ -12,11 +12,15 @@ from pathlib import Path
 import pycdlib
 import title_footer
 from patch_at_field import ROOT, sha
-from patch_battle_banners import patch, verify_iso as verify_banners
+from patch_battle_banners import patch as patch_banners, verify_iso as verify_banners
 from build_title_footer import save
 
 
-def build(platform, base, version):
+def build(platform, base, version, artwork='battle_banners'):
+    assert artwork in ('battle_banners','sortie_header')
+    patch, verify_artwork = patch_banners, verify_banners
+    if artwork == 'sortie_header':
+        from sortie_header import patch, verify_iso as verify_artwork
     assert title_footer.version_key(version) > title_footer.version_key(base)
     prefix = 'SRWMX_EN_' if platform == 'PSP' else 'SRWMX_PS2_EN_'
     source = ROOT/f'work/output/{prefix}{base}.iso'
@@ -32,11 +36,18 @@ def build(platform, base, version):
         baseline = next(p for p in manifest['patches'] if p['platform'] == platform)
     else:
         report_path=ROOT/f'work/output/{platform.lower()}_parts_layout_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_battle_banners_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_sortie_header_{base}_verification.json'
         prior=json.loads(report_path.read_text(encoding='utf-8'))
         assert prior['version']==base and prior['platform']==platform
+        assert prior.get('complete_output_hash_verified', report_path.name.startswith(platform.lower()+'_parts_layout_'))
         baseline=dict(target_bytes=prior['bytes'],target_sha256=prior['output_sha256'])
     assert source_stat[0] == baseline['target_bytes']
     path = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
+    if artwork == 'sortie_header':
+        path = '/PSP_GAME/USRDIR/WND.BIN' if platform == 'PSP' else '/DATA/WND.BIN;1'
     footer_path = '/PSP_GAME/USRDIR/OPWND.BIN' if platform == 'PSP' else '/SLPS_253.45;1'
     iso = pycdlib.PyCdlib()
     iso.open(str(source))
@@ -44,7 +55,7 @@ def build(platform, base, version):
     layouts = {p: (iso.get_record(iso_path=p).extent_location(), iso.get_record(iso_path=p).data_length) for p in paths}
     with iso.open_file_from_iso(iso_path=path) as f:
         original = f.read()
-    ui = ROOT/f'work/ui/{platform.lower()}/battle_banners_{version}'
+    ui = ROOT/f'work/ui/{platform.lower()}/{artwork}_{version}'
     changed, evidence = patch(original, platform, ui)
     assert patch(changed, platform)[0] == changed
     assert any(not r['already_translated'] for r in evidence['regions']), 'No new caption artwork to translate'
@@ -122,28 +133,31 @@ def build(platform, base, version):
     assert patch(actual, platform, ui/'iso_readback')[0] == actual
     check.close()
     footer['readback'] = title_footer.verify_iso(target, platform, version)
-    banner_readback = verify_banners(target, platform)
+    artwork_readback = verify_artwork(target, platform)
     save(ROOT/f'work/output/{platform.lower()}_title_footer_{version}_verification.json',
          dict(version=version, platform=platform, footer=footer))
     license = source.with_name(source.stem+'_FONT_LICENSE.txt')
     if not license.exists():
         license = ROOT/'incoming/fonts/FONT_LICENSE.txt'
     shutil.copyfile(license, target.with_name(target.stem+'_FONT_LICENSE.txt'))
-    prepared = ROOT/f'work/build/{platform.lower()}/battle_banners_{version}'
+    prepared = ROOT/f'work/build/{platform.lower()}/{artwork}_{version}'
     prepared.mkdir(parents=True, exist_ok=True)
     (prepared/path.rsplit('/', 1)[-1].split(';')[0]).write_bytes(changed)
     (prepared/footer_path.rsplit('/', 1)[-1].split(';')[0]).write_bytes(new_footer)
-    save(prepared/'battle_banners.json', evidence)
+    save(prepared/(artwork+'.json'), evidence)
     report = dict(version=version, base_version=base, platform=platform,
                   source_sha256=source_hash.hexdigest(), output=target.relative_to(ROOT).as_posix(),
-                  output_sha256=actual_hash, bytes=position, banner_artwork=evidence,
-                  footer=footer, caption_readback=banner_readback, files=files, udf_readback=udf,
+                  output_sha256=actual_hash, bytes=position, artwork_kind=artwork,
+                  footer=footer, artwork_readback=artwork_readback, files=files, udf_readback=udf,
                   complete_output_hash_verified=True, all_other_disc_bytes_preserved=True,
-                  idempotence_verified=True, iso_caption_readback_verified=True,
+                  idempotence_verified=True, iso_artwork_readback_verified=True,
                   visual_validation='Actual ISO artwork previews pass; fresh in-game display pending',
                   local_build_only=True, github_release=False)
-    save(ROOT/f'work/output/{platform.lower()}_battle_banners_{version}_verification.json', report)
-    save(ROOT/f'work/translation/en/{platform.lower()}/battle_banners_{version}.en.json', report)
+    report['banner_artwork' if artwork=='battle_banners' else 'header_artwork']=evidence
+    report['iso_caption_readback_verified' if artwork=='battle_banners' else 'iso_header_readback_verified']=True
+    if artwork=='battle_banners':report['caption_readback']=artwork_readback
+    save(ROOT/f'work/output/{platform.lower()}_{artwork}_{version}_verification.json', report)
+    save(ROOT/f'work/translation/en/{platform.lower()}/{artwork}_{version}.en.json', report)
     if platform == 'PS2':
         font = ROOT/f'work/build/ps2/font_{version}'
         font.mkdir(parents=True, exist_ok=True)
@@ -162,10 +176,11 @@ def build(platform, base, version):
         aggregate.update(version=version, output=report['output'], target_sha256=actual_hash,
                          bytes=position, source_build_version=base,
                          source_build_sha256=baseline['target_sha256'], title_footer=footer,
-                         battle_banners=evidence, current_correction_report=f'work/output/ps2_battle_banners_{version}_verification.json',
+                         current_correction_report=f'work/output/ps2_{artwork}_{version}_verification.json',
                          changed_from_previous=sorted(resources), inherited_execution_checks_from_version=base,
-                         inherited_execution_checks_reason='Only registered HUD caption rectangles and native title footer version bytes change; all remaining disc bytes read back exactly.',
-                         pcsx2_fresh_boot_verified=False, pcsx2_visual_validation='Battle banners pending', github_release=False)
+                         inherited_execution_checks_reason='Only registered '+artwork+' rectangles and native title footer version bytes change; all remaining disc bytes read back exactly.',
+                         pcsx2_fresh_boot_verified=False, pcsx2_visual_validation=artwork+' pending', github_release=False)
+        aggregate[artwork]=evidence
         save(ROOT/f'work/output/ps2_font_{version}_verification.json', aggregate)
         save(font/'patch.json', aggregate['font'])
     print(platform, version, 'verified', actual_hash, flush=True)
@@ -177,6 +192,7 @@ if __name__ == '__main__':
     parser.add_argument('--base', default='0.4.33')
     parser.add_argument('--version', default='0.4.34')
     parser.add_argument('--platform', choices=['PSP', 'PS2'])
+    parser.add_argument('--artwork', choices=['battle_banners','sortie_header'], default='battle_banners')
     args = parser.parse_args()
     for platform in ([args.platform] if args.platform else ['PSP', 'PS2']):
-        build(platform, args.base, args.version)
+        build(platform, args.base, args.version, args.artwork)

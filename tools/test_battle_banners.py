@@ -22,8 +22,23 @@ class BannerRegression(unittest.TestCase):
         next(r for r in bad['regions'] if r['id']=='god_shadow')['box'][2]=352
         for platform,data in self.data.items():
             with self.subTest(platform=platform),mock_patch.object(banners.json,'loads',return_value=bad):
-                with self.assertRaisesRegex(AssertionError,'adjacent red EN label'):
+                with self.assertRaisesRegex(AssertionError,'adjacent red'):
                     banners.patch(data,platform)
+
+    def test_field_captions_preserve_neighboring_labels(self):
+        neighbors={
+            'PSP': [(192,280,352,304),(104,376,152,400)],
+            'PS2': [(608,24,768,48),(520,120,568,144)]}
+        for platform,data in self.data.items():
+            with self.subTest(platform=platform):
+                updated,_=banners.patch(data,platform,region_ids=['distortion_field','te_sphere'])
+                spec=SPECS[platform];width=spec['size'][0]
+                for x0,y0,x1,y1 in neighbors[platform]:
+                    for y in range(y0,y1):
+                        a=spec['pixels']+y*width+x0;z=a+x1-x0
+                        self.assertEqual(data[a:z],updated[a:z])
+                self.assertNotEqual(updated,data)
+                self.assertEqual(banners.patch(updated,platform,region_ids=['distortion_field','te_sphere'])[0],updated)
 
     def test_historical_subset_does_not_add_later_caption(self):
         for platform,data in self.data.items():

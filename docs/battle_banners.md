@@ -49,3 +49,59 @@ earlier crash fix and existing Assist/Simultaneous Attack artwork. Actual ISO
 readback checks all three captions and exact v0.4.36 native title footers.
 Recorded historical caption subsets are reapplied by ID so older preservation
 fixtures do not acquire newer artwork during their normalization.
+
+## Critical and Shield Defense — 2026-10-19, local v0.4.39
+
+The reported stacked battle labels are **Critical** and **Shield Defense**.
+The second term matches a fresh Akurasu MX Pilot Abilities refresh, cached
+under `work/source/battle_banner_terms_0.4.39/`; Critical matches the existing
+menu/map terminology. Both editions retain these untranslated native captions
+in the shared atlas even though their other UI text uses English.
+
+Critical occupies `(240,120)-(336,144)` and Shield Defense occupies
+`(240,144)-(348,168)`. The full English labels fit at 18px and 16px cap heights
+without horizontal scaling. Region guards reject overlap and red lettering
+inside the Shield Defense rectangle. Support Defend to the right of Critical
+and the red Insufficient Will label to the right of Shield Defense remain exact.
+
+The regular builders already call `patch_battle_banners.py`, so extending its
+registered terms covers subsequent full builds as well as the local incremental
+v0.4.39 candidates. Those candidates use the exact public v0.4.38 sources and
+change only the registered caption pixels and regenerated native title version.
+All previous caption translations are retained. Fresh in-game display remains
+pending; the screenshot does not authorize another GitHub release.
+
+Screenshot and annotated native regions:
+`work/ui/battle_banner_2026_10_19/`. Prepared and actual ISO previews:
+`work/ui/{psp,ps2}/battle_banners_0.4.39/`.
+
+## Distortion Field and TE Sphere — 2026-10-21, local v0.4.40
+
+The reported labels match Akurasu's MX Mech Abilities names **Distortion Field**
+and **TE Sphere**, refreshed into `work/source/battle_banner_terms_0.4.40/`.
+Both terms were already translated in the menus/map banners; their native
+battle-animation artwork was separate. Critical was corrected in local
+v0.4.39 and remains included in this build.
+
+Unlike the earlier registered captions, these use different atlas coordinates:
+
+| Label | PSP rectangle | PS2 rectangle |
+|---|---|---|
+| Distortion Field | `(0,280)-(192,304)` | `(416,24)-(608,48)` |
+| TE Sphere | `(8,376)-(104,400)` | `(424,120)-(520,144)` |
+
+The registry now resolves platform-specific rectangles before rendering,
+overlap checks, preservation checks and native ISO readback. Both full English
+labels use an 18px cap height with the existing outlined white/blue style.
+The first exploratory Distortion Field crop was too wide and was corrected
+before any ISO was built. A regression check verifies that the neighboring
+pilot-SP and electric-attack captions remain byte-for-byte identical on both
+editions. All four caption regressions pass, including historical subsets,
+red-letter boundaries and rejection of unrecognized source artwork.
+
+Local v0.4.40 candidates inherit the exact verified v0.4.39 images and regenerate
+the native title version and credit. No release is authorized for this build;
+the current public release remains v0.4.38. Fresh in-game display is pending.
+Reported and annotated screenshots are in `work/ui/battle_banner_2026_10_21/`;
+prepared and actual ISO previews are in
+`work/ui/{psp,ps2}/battle_banners_0.4.40/`.

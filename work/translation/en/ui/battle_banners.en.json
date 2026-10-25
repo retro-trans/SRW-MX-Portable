@@ -2,6 +2,48 @@
   "scope": "PSP and PS2 native blue/white battle-animation HUD captions",
   "regions": [
     {
+      "id": "distortion_field",
+      "english": "Distortion Field",
+      "text": "Distortion Field",
+      "boxes": {
+        "PSP": [0, 280, 192, 304],
+        "PS2": [416, 24, 608, 48]
+      },
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+    },
+    {
+      "id": "te_sphere",
+      "english": "TE Sphere",
+      "text": "TE Sphere",
+      "boxes": {
+        "PSP": [8, 376, 104, 400],
+        "PS2": [424, 120, 520, 144]
+      },
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+    },
+    {
+      "id": "critical",
+      "english": "Critical",
+      "text": "Critical",
+      "box": [240, 120, 336, 144],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Same term as the existing menu and map banners; separate native battle-animation artwork."
+    },
+    {
+      "id": "shield_defense",
+      "english": "Shield Defense",
+      "text": "Shield Defense",
+      "box": [240, 144, 348, 168],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities"
+    },
+    {
       "id": "assist_attack",
       "english": "Assist Attack",
       "text": "Assist Attack",

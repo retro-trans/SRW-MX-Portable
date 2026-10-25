@@ -1,5 +1,17 @@
 # Glossary decisions
 
+Portable stage order (2026-10-25): the section around stages 28–31 in
+[Akurasu's MXPFlow Chart](https://akurasu.net/wiki/MXPFlow_Chart) retains PS2
+ordering/numbering and omits Portable's What Gnaws at the "Heart". For campaign
+order, follow the original Japanese PSP disc's scenario records: stage 29
+What Gnaws at the "Heart", stage 30 Zeorymer Sorties at Dawn, then the split
+at stage 31. The [Japanese Portable scenario list](https://srw.wiki.cre.jp/wiki/全話一覧/MX_PORTABLE)
+corroborates it. Reason for this source exception: the actual original PSP
+resource has seven chapter-7 locations, ending with IDs 66 then 34, whereas
+the chart shows the original PS2 six-stage sequence. This does not change
+existing unit/pilot/ability terms or rename the original PS2-only scenario.
+See `docs/ps2_story_flow_report.md` and the original-disc verification report.
+
 Battle-animation captions (2026-10-14): Assist Attack follows Akurasu's MX
 Pilot Abilities entry and matches the existing menus. Simultaneous Attack is
 the existing full project translation; the 84px native banner uses the display

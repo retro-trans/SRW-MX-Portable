@@ -12,6 +12,12 @@ from patch_battle_hud import picture, render
 TERMS = ROOT/'work/translation/en/ui/battle_banners.en.json'
 
 
+def regions(platform):
+    rows = json.loads(TERMS.read_text(encoding='utf-8'))['regions']
+    return [dict(row, box=row['boxes'][platform]) if 'boxes' in row else row
+            for row in rows]
+
+
 def patch(data, platform, preview=None, region_ids=None):
     spec = SPECS[platform]
     width, height = spec['size']
@@ -21,11 +27,17 @@ def patch(data, platform, preview=None, region_ids=None):
     native = native_path.read_bytes()
     assert data[spec['palette']:spec['palette']+1024] == native[spec['palette']:spec['palette']+1024]
     pal = palette(data, platform)
-    rows = json.loads(TERMS.read_text(encoding='utf-8'))['regions']
+    rows = regions(platform)
     if region_ids is not None:
         requested=set(region_ids)
         assert requested and requested<={row['id'] for row in rows},'Unknown recorded caption IDs'
         rows=[row for row in rows if row['id'] in requested]
+    # Shared caption boundaries must stay disjoint, including future additions.
+    for i, left in enumerate(rows):
+        a,b,c,d=left['box']
+        for right in rows[i+1:]:
+            x,y,z,w=right['box']
+            assert c<=x or z<=a or d<=y or w<=b, 'Overlapping caption rectangles'
     output = bytearray(data)
     ranges, records = [], []
     for row in rows:
@@ -35,9 +47,9 @@ def patch(data, platform, preview=None, region_ids=None):
             return b''.join(resource[pixels+y*width+x0:pixels+y*width+x1]
                             for y in range(y0, y1))
         before, original = crop(data), crop(native)
-        if row['id']=='god_shadow':
+        if row['id'] in ('god_shadow', 'shield_defense'):
             assert not any(pal[v][0]>2*max(pal[v][1],pal[v][2]) for v in original), \
-                'God Shadow rectangle includes the adjacent red EN label'
+                'Caption rectangle includes adjacent red lettering: '+row['id']
         translated, layout = render(original, pal, row)
         assert before in (original, translated), 'Unknown caption artwork: '+row['id']
         stride = x1-x0
@@ -76,7 +88,7 @@ def patch(data, platform, preview=None, region_ids=None):
 
 
 def verify_iso(path, platform):
-    """Reject a release that still contains the Japanese animation artwork."""
+    """Verify registered captions; this is not an audit of the entire atlas."""
     import pycdlib
     asset = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
     iso = pycdlib.PyCdlib()

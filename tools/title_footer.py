@@ -63,6 +63,14 @@ def region(data, platform,version=None):
 def restore_legacy_ps2_background(data):
     """Remove only a registered old footer from the unused static background."""
     native=(ROOT/SPECS['PS2']['source']).read_bytes()
+    # The reviewed English title background replaces the whole old story
+    # texture, including pixels that happened to contain a historical footer.
+    english=ROOT/'work/ui/title_credits_0.4.47/PS2_title_native.png'
+    if english.is_file():
+        raw=Image.open(english).tobytes();a=SPECS['PS2']['offset']+1024
+        if data[a:a+len(raw)]==raw:
+            assert data[a-1024:a]==native[a-1024:a]
+            return data
     current=region(data,'PS2')
     if current==region(native,'PS2'):return data
     accepted=False
@@ -110,18 +118,21 @@ def render(native, platform, version):
 def patch_psp_clear_footer(data, version):
     """Replace only a recognized complete title texture and restore old slots."""
     platform='PSP'; s=layout_spec(platform,version)
-    native=(ROOT/s['source']).read_bytes(); w,h=s['size']; o=s['offset']
+    original=(ROOT/s['source']).read_bytes(); w,h=s['size']; o=s['offset']
+    from mx_branding import psp_title_base
+    native=psp_title_base(original,version)
     pixels,layout=render(native,platform,version)
     spans=ranges(platform,version)
     def texture_for(v):
-        expected=bytearray(native[o:o+1024+w*h])
-        ink,_=render(native,platform,v)
+        base=psp_title_base(original,v)
+        expected=bytearray(base[o:o+1024+w*h])
+        ink,_=render(base,platform,v)
         for row,(a,z) in enumerate(ranges(platform,v)):
             pitch=z-a
             expected[a-o:z-o]=ink[row*pitch:(row+1)*pitch]
         return bytes(expected)
     actual=data[o:o+1024+w*h]
-    accepted=actual in (native[o:o+1024+w*h],texture_for(version))
+    accepted=actual in (original[o:o+1024+w*h],native[o:o+1024+w*h],texture_for(version))
     if not accepted:
         for p in (ROOT/'work/output').glob('psp_title_footer_*_verification.json'):
             old=json.loads(p.read_text(encoding='utf8'))
@@ -137,6 +148,11 @@ def patch_psp_clear_footer(data, version):
         if allowed and a<=allowed[-1][1]:allowed[-1]=(allowed[-1][0],max(z,allowed[-1][1]))
         else:allowed.append((a,z))
     result=bytearray(data)
+    # The first English-logo build replaces the native indexed pixel plane.
+    # Future footer stamps reconstruct the same registered English artwork.
+    if actual!=texture_for(version) and version_key(version)>=(0,4,47):
+        result[o+1024:o+1024+w*h]=native[o+1024:o+1024+w*h]
+        allowed=[(o+1024,o+1024+w*h)]
     for a,z in allowed:result[a:z]=native[a:z]
     pitch=s['box'][2]-s['box'][0]
     for row,(a,z) in enumerate(spans):result[a:z]=pixels[row*pitch:(row+1)*pitch]
@@ -149,7 +165,8 @@ def patch_psp_clear_footer(data, version):
         source_region_sha256=sha(region(data,platform,version)),target_region_sha256=sha(pixels),
         palette_sha256=sha(data[o:o+1024]),source_resource_sha256=sha(data),
         target_resource_sha256=sha(out),palette_preserved=True,
-        old_upper_left_panel_removed=True,all_other_pixels_and_data_preserved=True)
+        old_upper_left_panel_removed=True,english_logo=version_key(version)>=(0,4,47),
+        all_other_pixels_and_data_preserved=True)
 
 
 def patch(data, platform, version):
@@ -221,6 +238,9 @@ def verify_iso(path, platform, version):
             return dict(version=version,credit=URL,actual_iso_footer_verified=True,
                         resource_sha256=sha(data),**result)
         native=(ROOT/s['source']).read_bytes()
+        if platform=='PSP':
+            from mx_branding import psp_title_base
+            native=psp_title_base(native,version)
         assert region(data,platform,version)==render(native,platform,version)[0], 'Title footer/build version mismatch'
         assert patch(data,platform,version)[0]==data
         if platform=='PS2':

@@ -12,8 +12,12 @@
   },
   "39": {
    "jp": "出撃準備",
-   "en": "SORTIE PREP",
-   "kind": "screen header"
+   "en": "Sortie Prep",
+   "kind": "screen header",
+   "native_text_box": [10, 4, 150, 25],
+   "native_text_origin": [14, 6],
+   "native_cap_height": 16,
+   "native_background_index": 1
   },
   "50": {
    "jp": "攻",

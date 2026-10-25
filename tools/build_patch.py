@@ -168,6 +168,13 @@ def main(iso_path, version, *rest):
     import fix_startup_warning
     warning_path = fix_startup_warning.SPECS['PSP']['asset']
     warning_data, _ = fix_startup_warning.patch(iso_read(iso, warning_path), 'PSP')
+    if title_footer.version_key(version)>=(0,4,47):
+        import mx_branding
+        import localize_mx_movies
+        warning_data,_=mx_branding.copyright(warning_data,'PSP')
+        warning_data,_=mx_branding.background(warning_data,'PSP')
+        movie_path='/PSP_GAME/USRDIR/MOVIE.BIN'
+        repl[movie_path]=localize_mx_movies.patch_archive(iso_read(iso,movie_path),'PSP')
     repl[warning_path] = warning_data
     if '--text' in rest:                            # non-dialogue text (tools/insert_text.py)
         import insert_text
@@ -179,6 +186,8 @@ def main(iso_path, version, *rest):
         boot_new = fix_psp_levelup.patch_boot(boot_new)
         import fix_psp_parts
         boot_new = fix_psp_parts.patch_boot(boot_new)
+        import fix_psp_dendoh_popup
+        boot_new = fix_psp_dendoh_popup.patch_boot(boot_new)
         import fix_psp_rename
         boot_new = fix_psp_rename.patch_boot(boot_new)
         import parts_layout

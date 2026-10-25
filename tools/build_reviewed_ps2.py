@@ -313,11 +313,34 @@ def build(version, source_version, resume_prepared=False):
         from patch_battle_banners import patch as patch_banners
         static,banner_review=patch_banners(static,'PS2')
         save(base/'battle_banners.json',banner_review)
+        from sortie_header import patch as patch_sortie_header
+        wnd,header_review=patch_sortie_header(asset('WND.BIN'),'PS2')
+        (base/'WND.BIN').write_bytes(wnd)
+        save(base/'sortie_header.json',header_review)
         from refresh_ps2_battle import refresh as refresh_battle
         battle_review=refresh_battle(battle_path,static,elf)
         save(base/'battle_review.json',battle_review)
         count=battle_review['stored_allocations_updated'];external_count=0
         before_uses=battle_review['changed_references']
+        from fix_ps2_rename import patch as patch_rename
+        elf,meta,rename_review=patch_rename(elf,meta)
+        save(base/'unit_rename.json',rename_review)
+        from fix_ps2_turn_funds import patch as patch_turn_funds
+        elf,meta,turn_funds_review=patch_turn_funds(elf,meta)
+        save(base/'turn_funds.json',turn_funds_review)
+        from fix_ps2_stage30_transition import patch as patch_stage30_transition
+        elf,meta,stage30_transition_review=patch_stage30_transition(elf,meta)
+        save(base/'stage30_transition.json',stage30_transition_review)
+        from fix_ps2_objective_footer import patch as patch_objective_footer
+        elf,meta,objective_footer_review=patch_objective_footer(elf,meta)
+        save(base/'objective_footer.json',objective_footer_review)
+        if title_footer.version_key(version)>=(0,4,47):
+            import mx_branding
+            import localize_mx_movies
+            image,_=mx_branding.copyright(asset('IM.BIN'),'PS2')
+            image,_=mx_branding.background(image,'PS2')
+            (base/'IM.BIN').write_bytes(image)
+            (base/'STRM.BIN').write_bytes(localize_mx_movies.patch_archive(asset('STRM.BIN'),'PS2'))
         from ps2_title_footer import patch as patch_title
         elf,footer,meta=patch_title(elf,version,meta)
         meta['target_sha256']=sha(elf)
@@ -340,8 +363,10 @@ def build(version, source_version, resume_prepared=False):
     checkpoint=read(base/'prepared.json');checkpoint['files']['prologue.json']=digest_file(base/'prologue.json');save(base/'prepared.json',checkpoint)
     # Repack from the original disc, reusing every other verified English asset.
     replacements={row['path']:None for row in previous['files'] if row['original_sha256']!=row['target_sha256']}
-    for name in ('SLPS_253.45','MAP.BIN','FIX00.DAT','BATTLE.BIN','STATIC.BIN'):
+    for name in ('SLPS_253.45','MAP.BIN','FIX00.DAT','BATTLE.BIN','STATIC.BIN','WND.BIN'):
         replacements['/SLPS_253.45;1' if name=='SLPS_253.45' else '/DATA/'+name+';1']=base/name
+    if title_footer.version_key(version)>=(0,4,47):
+        for name in ('IM.BIN','STRM.BIN'):replacements['/DATA/'+name+';1']=base/name
     records={row['path']:row for row in previous['files']}
     sizes={p:local.stat().st_size if local else records[p]['bytes'] for p,local in replacements.items()}
     hashes={p:digest_file(local) if local else records[p]['target_sha256'] for p,local in replacements.items()}
@@ -422,6 +447,8 @@ def build(version, source_version, resume_prepared=False):
     report['title_footer']=footer
     if (base/'battle_banners.json').exists():
         report['battle_banners']=read(base/'battle_banners.json')
+    if (base/'sortie_header.json').exists():
+        report['sortie_header']=read(base/'sortie_header.json')
     report['title_footer']['readback']=title_footer.verify_iso(output,'PS2',version)
     save(ROOT/f'work/output/ps2_font_{version}_verification.json',report)
     save(ROOT/f'work/output/ps2_title_footer_{version}_verification.json',dict(version=version,footer=report['title_footer']))

@@ -134,6 +134,9 @@ def verify(original, version):
     assert iso_bytes(new,patch_chapter_cards.ASSET) == expected_cards
     if report.get('configured_wnd_headers_translated'):
         expected_wnd = redraw_wnd.patch_wnd(iso_bytes(old, '/PSP_GAME/USRDIR/WND.BIN'))
+        if tuple(map(int,version.split('.')))>=(0,4,41):
+            import sortie_header
+            expected_wnd,_=sortie_header.patch(expected_wnd,'PSP')
         assert iso_bytes(new, '/PSP_GAME/USRDIR/WND.BIN') == expected_wnd
     changed_files, unchanged_files = [], []
     for folder, _, names in old.walk(iso_path='/'):
@@ -147,11 +150,26 @@ def verify(original, version):
     import fix_startup_warning
     warning_path = fix_startup_warning.SPECS['PSP']['asset']
     expected_warning, _ = fix_startup_warning.patch(iso_bytes(old, warning_path), 'PSP')
+    branding=tuple(map(int,version.split('.')))>=(0,4,47)
+    if branding:
+        import mx_branding
+        expected_warning,_=mx_branding.copyright(expected_warning,'PSP')
+        expected_warning,_=mx_branding.background(expected_warning,'PSP')
     assert iso_bytes(new, warning_path) == expected_warning, 'Startup warning pixels differ'
     title_footer.verify_iso(path, 'PSP', version)
     allowed = {title_footer.SPECS['PSP']['asset'], warning_path, '/PSP_GAME/SYSDIR/BOOT.BIN','/PSP_GAME/SYSDIR/EBOOT.BIN','/PSP_GAME/USRDIR/STATIC2_ADD.BIN',
                '/PSP_GAME/USRDIR/MAP_ADD.BIN','/PSP_GAME/USRDIR/BATTLE2.BIN','/PSP_GAME/USRDIR/WND.BIN',
                '/PSP_GAME/PARAM.SFO',patch_chapter_cards.ASSET}
+    if branding:
+        movie_path='/PSP_GAME/USRDIR/MOVIE.BIN';allowed.add(movie_path)
+        expected=bytearray(iso_bytes(old,movie_path))
+        for offset,stem in [(0x2c7d800,'PSP_movie29'),(0x460d800,'PSP_movie31')]:
+            source=ROOT/f'work/build/title_credits_0.4.47/{stem}.pmf'
+            target=ROOT/f'work/build/title_credits_0.4.47/{stem}_english.pmf'
+            a,b=source.read_bytes(),target.read_bytes()
+            assert len(a)==len(b) and expected[offset:offset+len(a)]==a
+            expected[offset:offset+len(a)]=b
+        assert iso_bytes(new,movie_path)==expected
     assert set(changed_files) <= allowed, ('Unexpected ISO changes', changed_files)
     old.close()
     new.close()

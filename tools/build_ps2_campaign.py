@@ -58,6 +58,18 @@ def build(source):
     data=bytearray(data)
     struct.pack_into('<193I',data,TABLE,*story['relative_sectors'])
     struct.pack_into('<18I',data,SECTIONS,*story['section_sectors'])
+    from fix_ps2_rename import patch as patch_rename
+    data,font,rename_report=patch_rename(data,font)
+    save(WORK/'unit_rename.json',rename_report)
+    from fix_ps2_turn_funds import patch as patch_turn_funds
+    data,font,turn_funds_report=patch_turn_funds(data,font)
+    save(WORK/'turn_funds.json',turn_funds_report)
+    from fix_ps2_stage30_transition import patch as patch_stage30_transition
+    data,font,stage30_transition_report=patch_stage30_transition(data,font)
+    save(WORK/'stage30_transition.json',stage30_transition_report)
+    from fix_ps2_objective_footer import patch as patch_objective_footer
+    data,font,objective_footer_report=patch_objective_footer(data,font)
+    save(WORK/'objective_footer.json',objective_footer_report)
     import title_footer
     native_title=title_footer.version_key(VERSION)>=(0,4,26)
     if native_title:
@@ -82,6 +94,17 @@ def build(source):
         with (WORK/'quotes.bin').open('rb') as f:copy_bytes(f,dst,(WORK/'quotes.bin').stat().st_size)
         dst.seek(20);dst.write(struct.pack('<I',quote_offset))
     names=['SLPS_253.45','MAP.BIN','FIX00.DAT','STAGE.BIN','STATIC.BIN','BATTLE.BIN','PACKMAPC.BIN','WND.BIN']
+    if title_footer.version_key(VERSION)>=(0,4,47):
+        import mx_branding
+        import localize_mx_movies
+        with iso.open_file_from_iso(iso_path='/DATA/IM.BIN;1') as f:image=f.read()
+        from fix_startup_warning import patch as patch_warning
+        image,_=patch_warning(image,'PS2')
+        image,_=mx_branding.copyright(image,'PS2')
+        image,_=mx_branding.background(image,'PS2');(WORK/'IM.BIN').write_bytes(image)
+        with iso.open_file_from_iso(iso_path='/DATA/STRM.BIN;1') as f:movie=f.read()
+        (WORK/'STRM.BIN').write_bytes(localize_mx_movies.patch_archive(movie,'PS2'))
+        names+=['IM.BIN','STRM.BIN']
     if not native_title:
         with iso.open_file_from_iso(iso_path=title_footer.SPECS['PS2']['asset']) as f:
             title, footer_report = title_footer.patch(f.read(), 'PS2', VERSION)
@@ -98,6 +121,10 @@ def build(source):
     save(TR/'battle_hud.en.json', hud_report)
     save(WORK/'battle_hud.json', hud_report)
     (WORK/'STATIC.BIN').write_bytes(static)
+    from sortie_header import patch as patch_sortie_header
+    wnd, header_report = patch_sortie_header((WORK/'WND.BIN').read_bytes(), 'PS2')
+    (WORK/'WND.BIN').write_bytes(wnd)
+    save(WORK/'sortie_header.json', header_report)
     save(TR/'at_field.en.json', caption_report)
     save(WORK/'at_field.json', caption_report)
     replacements={('/'+name+';1' if name=='SLPS_253.45' else '/DATA/'+name+';1'):WORK/name for name in names}

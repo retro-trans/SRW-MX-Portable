@@ -1,5 +1,178 @@
 # Changelog
 
+## PSP / PS2 v0.4.47 — 2026-10-26 (release candidate)
+
+- Combined the local .39–.46 fixes: native battle captions, Sortie Prep,
+  PSP Dendoh popup, PS2 rename fields, Turns/Funds alignment, Chapter-30
+  lockout recovery and Objectives number typography. The user confirmed
+  Earth Chapter 31 progression and the .46 size/alignment correction.
+- Localized title/menu and story logos with metallic English lettering,
+  retaining MX and the Portable badge where appropriate. Also replaced the
+  separate native title-intro movie logos on both platforms.
+- Translated both copyright pages, retaining all rights holders and the
+  original platform years, plus the credited opening's final production card.
+  Bounded video edits preserve audio, PES headers, timestamps, picture counts,
+  GOP/display ordering and archive positions. All four streams fully decode.
+- Both exact native v0.4.47 footers are regenerated and read back. Full ISO
+  transformations protect unrelated resources. New branding/video playback
+  and physical-console validation remain pending. See release notes for limits.
+
+## Local PS2 v0.4.46 — 2026-10-26 (Objectives footer typography)
+
+- Matched the chapter number to the adjacent title's 20-pixel Latin glyph
+  size. Their shared top position now also produces a shared baseline;
+  previously the 16-pixel number's baseline was about three pixels higher.
+- Preserved the chapter values, titles, horizontal positions, and late-game
+  footer behavior. Both regular PS2 builders include the guarded correction.
+- Native checks exercise 30 chapter/origin cases and actual ASCII, SJIS and
+  sprite geometry hooks. Local ISO verification and the regenerated v0.4.46
+  title footer are recorded in the build report. The user subsequently
+  confirmed the typography correction works great and requested a release.
+- User confirms the preceding chapter-transition fix works and supplies
+  an Earth Chapter 31 screenshot. This confirms reaching the next mission;
+  the separate repeated-dialogue report remains open.
+
+## Local PS2 v0.4.45 — 2026-10-26 (chapter-30 transition)
+
+- Reproduced the v0.4.38 lockout: all seven stages Clear, no next chapter.
+  Chapter 30's imported closing scene never called the completion check that
+  had already run too early after chapter 29. Prior destination tests missed
+  this actual command-flow gap.
+- Added narrowly guarded native completion at the return to intermission and
+  Stage Select population. The latter recovers the already-completed state,
+  preserving route, clear counters and history. Both build paths include it.
+- Native tests cover Earth/Space, normal ending and stuck-state recovery,
+  late clear commitment, next-stage selection/history append, reentry,
+  127 incomplete masks and other-state guards. Regenerated native v0.4.45
+  footer; existing MAP/dialogue and prior local fixes are preserved.
+- User subsequently confirmed working and supplied an Earth Chapter 31
+  screenshot (2026-10-26). Local build only; no release requested. The
+  separate dialogue report remains open.
+
+## Reported DFC conversation audit — 2026-10-26 (no game build)
+
+- Identified the screenshot's DFC-system line in actual public PS2 v0.4.38:
+  chapter-29 `s0570:336`, command 692. The original PSP script contains the
+  same line once. Much of the surrounding artificial-body/upgrade dialogue
+  comes from original PS2 chapter-28 aftermath; PSP moved it into chapter 29.
+- Confirmed the active ported chapter-28 aftermath instead shows Aqua mourning
+  Hugo's disappearance. The reported first occurrence is still unknown, so
+  runtime repetition remains unconfirmed. Added a source/ISO audit and
+  preserved the screenshot. No script edit, local build or release.
+- Checked actual PS2 v0.4.33/v0.4.36 ISOs: original PS2 chapter-28 aftermath
+  and PSP chapter-29 events share 50 identical longer English strings.
+  Public v0.4.38's chapter-28 port removes that earlier conversation. The
+  reporter's chapter-28 build remains unknown; their exact-repeat reply is
+  tentative, so the current runtime report remains open.
+
+## Local PS2 v0.4.44 — 2026-10-26 (Turns / Funds alignment)
+
+- Right-aligned both map-menu numeric values to a shared edge using their
+  actual proportional font widths. Labels, values, formats, font size,
+  panel dimensions and slide animation are preserved.
+- Native checks reproduce the reported mismatch and cover 27 value/position
+  cases plus 18 actual ASCII glyph-advance rows, including large values.
+  Both regular PS2 build paths include the fix.
+- Local test ISO retains v0.4.43's rename fix and regenerates the native
+  footer as v0.4.44. PCSX2 visual confirmation is pending. No release requested.
+
+## Local PS2 v0.4.43 — 2026-10-26 (unit rename fields)
+
+- Fixed Garmraid Blaze's corrupted rename value by fitting Name/Reading into
+  the existing editor storage consistently: 15/eight characters, unchanged
+  save layout. Applied the existing PSP Cerberus Ignite editable default to
+  PS2. Updated both regular PS2 build paths.
+- Moved both values clear of their labels and gave the enlarged fields
+  compact underline spacing without changing other screens.
+- Native checks cover all defaults, saved/reset modes, maximum names,
+  legacy defaults, 18 editing cases, field/control guards, actual window
+  draws, widths and underlines. Local ISO includes the exact native v0.4.43
+  footer. Fresh PCSX2 visual acceptance is pending; no release requested.
+- Closed the earlier chapter-28 objectives-footer suspicion after the user
+  clarified the screenshot was actually chapter 28. No story change made.
+
+## Stage 29 fast-test helper v0.1.0 — 2026-10-25 (no game build)
+
+- Prepared an optional PCSX2 cheat package for PS2 English v0.4.38, CRC
+  3D263F53: refill SP after use and optionally retain an already-cast Awaken.
+  Native execution checks pass 50 SP cases and the four-pilot Awaken loop.
+- Included installation, Turbo/animation guidance and clean-save reproduction
+  steps. No forced victory, stage skip or campaign/event flag edits. PCSX2
+  in-game acceptance is pending; this is not a fix for the open story report.
+
+## PS2 story-flow report audit — 2026-10-25 (no build)
+
+- Recorded a separate objectives-footer mismatch: chapter-30 card followed by
+  Objectives footer 28 / Tragedy Beneath the Moon. Both native objectives paths
+  display correct 28/29/30 values with expected-state fixtures. Actual reported
+  state is pending; the user moved elsewhere and deferred live investigation.
+  No speculative patch or claimed fix.
+- Resolved the linked Akurasu chart discrepancy against the original Japanese
+  PSP ISO: its seven chapter-7 locations include What Gnaws at the Heart and
+  Zeorymer Sorties at Dawn before the branch. Japanese Portable scenario list
+  confirms stages 29/30 followed by the branch at 31. The chart omits Portable's
+  reworked 29 and retains PS2 numbering here. Recorded the source exception;
+  no campaign change or new build is needed for this discrepancy.
+- Follow-up Earth-choice / Chapter-30 screenshots match the intended shared
+  PSP stage before the split. Actual v0.4.38 native campaign-state checks
+  retain Zeorymer Sorties at Dawn for both choices, then resolve Earth to
+  Shine of the Red Dragon and Space to Break through the Falcon. This does
+  not establish a full battle clear or resolve the earlier repetition report.
+- Recorded the report of early route selection and repeated scenes. Actual
+  public v0.4.38 loader tables have 203 unique scenes; 186 command arrays match
+  original PS2 and 17 match the intentional PSP ports. Scene-call targets resolve.
+- No combined command arrays found; runtime repetition/timing remains open.
+  Reporter confirmed PCSX2 v2.6.3, English v0.4.38, stage 29. Its route choice
+  exists in the original PSP closing scene before the added stage 30; closing
+  guards retain original PS2 stage-29 operands. Await a reproduction checkpoint.
+  Prior loader and campaign
+  checks did not establish a complete mission-clear playthrough. No fix claimed.
+
+## PSP v0.4.42 — 2026-10-24 (local Dendoh popup width)
+
+- Widened the Dendoh form-choice popup in Choose Sortie Units from 128 to
+  176 native pixels. Both full English names fit at the original font size;
+  native centering and the selection highlight follow the wider window.
+- Changed only the width instruction, retaining option names, form selection,
+  input behavior and memory/save layouts. Added the fix to regular PSP builds.
+- Native execution checks cover both selections, reproduce the old overflow
+  and verify the new text/highlight geometry. The local ISO retains v0.4.41's
+  fixes and regenerates the title credit/version as v0.4.42. Fresh in-game
+  display remains pending; no public release was requested for this build.
+
+## PSP / PS2 v0.4.41 — 2026-10-24 (local Sortie Prep header)
+
+- Translated the remaining native Sortie Prep screen header. Its English term
+  existed in the UI table, but the PSP graphic lacked a configured text box
+  and the PS2 header had not been included in the native artwork pass.
+- Fitted the full label without horizontal squeezing, preserving the palette,
+  slanted bar, blue line, transparency and every pixel outside the text box.
+- Added the replacement to regular PSP/PS2 build paths and regenerated both
+  native title footers as v0.4.41. Local test builds only; in-game display
+  remains pending.
+
+## PSP / PS2 v0.4.40 — 2026-10-21 (local field captions)
+
+- Translated the native Distortion Field and TE Sphere battle-animation labels
+  on both platforms, using refreshed Akurasu terms. Retained v0.4.39's Critical
+  and Shield Defense corrections and the earlier banner work.
+- Registered separate PSP/PS2 coordinates for these differently packed labels.
+  Full wording fits at an 18px cap height; neighboring captions and all other
+  pixels are preserved. Four caption regression tests pass.
+- Added verified caption-build records as incremental build baselines and
+  regenerated both native title footers as v0.4.40. Local test builds only;
+  fresh in-game display remains pending.
+
+## PSP / PS2 v0.4.39 — 2026-10-19 (local battle captions)
+
+- Translated the native Critical and Shield Defense battle-animation labels
+  reported after v0.4.38. These are separate artwork from the translated menu
+  terms and map banners. Both editions use the same two atlas rectangles.
+- Retained full wording with 18px/16px cap heights, the white/blue outlined
+  style, original palette and all neighboring pixels, including the red label.
+- Regenerated both native title footers as v0.4.39. Local test builds only;
+  fresh in-game display remains pending.
+
 ## PSP / PS2 v0.4.38 — 2026-10-19 (shared release)
 
 - Published [v0.4.38](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.38).

@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "transparent_background": true,
+  "assets": [
+    {
+      "file": "PSP_logo_english_master.png",
+      "edit_target": "Original PSP native logo texture",
+      "reference": "User-supplied Super Robot Wars 30 English logo",
+      "prompt": "Use case: text-localization. Asset: English title-logo texture for Super Robot Wars MX Portable, to install into the original game. Image 1 is the EDIT TARGET: preserve its original MX chrome emblem, orange fire ring, black/gold outlines, and PORTABLE badge and their proportions. Image 2 is a TYPOGRAPHY REFERENCE ONLY: copy the polished tall condensed slanted gold metallic letter treatment of SUPER ROBOT WARS, but do not include its 30 emblem. Replace the Japanese main title in image 1 with the exact English text 'SUPER ROBOT WARS', on a single readable horizontal line in the same left-hand footprint, with chrome borders, black inset, gold gradient bevels matching image 2. Keep the MX emblem prominent on the right and the English PORTABLE badge underneath. Remove the tiny Japanese subtitle under PORTABLE. No other text, no 30, no watermark, no background scene. Genuine transparent background. Wide landscape logo composition with the same overall proportions as image 1 and modest transparent padding. This is a crisp production logo, readable when reduced to approximately 380 by 175 pixels."
+    },
+    {
+      "file": "PS2_logo_english_master.png",
+      "edit_target": "PSP_logo_english_master.png",
+      "prompt": "Use case: text-localization. Edit this existing English Super Robot Wars MX Portable logo into the PS2 Super Robot Wars MX logo. Remove the entire PORTABLE badge underneath the SUPER ROBOT WARS wordmark (including its double arrows and empty black/gold underline panel). Retain a clean finished bottom edge under the main English wordmark. Preserve the exact English text 'SUPER ROBOT WARS', its tall condensed slanted gold beveled typography, chrome MX emblem on the right, and orange flame ring. Do not change their colors, proportions or overall appearance. No other text and no Japanese. Genuine transparent background. Keep a wide landscape logo composition and enough transparent padding so nothing is cropped. This variant is for PS2, so PORTABLE must not appear."
+    }
+  ]
+}

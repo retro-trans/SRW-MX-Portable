@@ -6,6 +6,16 @@ from port_ps2_translations import sha
 def baseline_bytes(base,name):
     from ps2_library_preservation import baseline_bytes as before_library
     raw=before_library(base,name)
+    header_report=base/'sortie_header.json'
+    if name=='WND.BIN' and header_report.exists():
+        from sortie_header import ROOT,patch
+        report=json.loads(header_report.read_text())
+        assert sha(raw)==report['target_resource_sha256']
+        native=(ROOT/'work/source/ps2/WND.BIN').read_bytes()
+        restored=bytearray(raw)
+        for a,z in report['pixel_ranges']:restored[a:z]=native[a:z]
+        assert patch(restored,'PS2')[0]==raw
+        raw=bytes(restored)
     banner_report=base/'battle_banners.json'
     if name=='STATIC.BIN' and banner_report.exists():
         from patch_battle_banners import ROOT, patch

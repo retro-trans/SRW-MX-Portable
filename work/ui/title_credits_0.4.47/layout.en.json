@@ -1,0 +1,289 @@
+{
+  "PSP": {
+    "native_size": [
+      512,
+      256
+    ],
+    "logo_box": [
+      0,
+      0,
+      370,
+      171
+    ],
+    "palette_preserved": true,
+    "copyright": {
+      "offset": "0x150c800",
+      "pixel_ranges": [
+        [
+          22072320,
+          22211584
+        ]
+      ],
+      "palette_preserved": true,
+      "lines": [
+        {
+          "text": "© ASHI PRODUCTIONS",
+          "box": [
+            169.0,
+            25.0,
+            311.0,
+            34.75
+          ]
+        },
+        {
+          "text": "© GAINAX / Project Eva. / TV Tokyo",
+          "box": [
+            132.5,
+            42.0,
+            347.25,
+            55.25
+          ]
+        },
+        {
+          "text": "© 1997 GAINAX / EVA Production Committee",
+          "box": [
+            106.5,
+            59.0,
+            373.25,
+            70.25
+          ]
+        },
+        {
+          "text": "© SUNRISE / TV Tokyo",
+          "box": [
+            171.5,
+            76.0,
+            308.25,
+            88.75
+          ]
+        },
+        {
+          "text": "© XEBEC / Nadesico Production Committee",
+          "box": [
+            111.75,
+            93.0,
+            368.0,
+            104.25
+          ]
+        },
+        {
+          "text": "© XEBEC / 1998 NADESICO Production Committee",
+          "box": [
+            89.75,
+            110.0,
+            390.25,
+            121.25
+          ]
+        },
+        {
+          "text": "© Sotsu Agency / SUNRISE",
+          "box": [
+            160.5,
+            127.0,
+            319.5,
+            140.25
+          ]
+        },
+        {
+          "text": "© Dynamic Production",
+          "box": [
+            173.0,
+            144.0,
+            306.75,
+            155.75
+          ]
+        },
+        {
+          "text": "© Chimi Moriwo / AIC",
+          "box": [
+            173.25,
+            161.0,
+            306.5,
+            172.25
+          ]
+        },
+        {
+          "text": "© TOEI",
+          "box": [
+            218.0,
+            178.0,
+            262.0,
+            187.75
+          ]
+        },
+        {
+          "text": "© TOHOKUSHINSHA",
+          "box": [
+            176.0,
+            195.0,
+            303.75,
+            204.75
+          ]
+        },
+        {
+          "text": "© 2001 BONES / Yutaka Izubuchi / Rahxephon project",
+          "box": [
+            82.25,
+            212.0,
+            397.5,
+            225.25
+          ]
+        },
+        {
+          "text": "© BANPRESTO 2005",
+          "box": [
+            179.25,
+            229.0,
+            300.75,
+            238.75
+          ]
+        }
+      ],
+      "source_sha256": "cda9f2041e00c02ff88d6f30ad6e0ffed9c82f1f8bd3ab061b0e7346fdab923b",
+      "target_sha256": "51360b984282430f09bf9a1732a679659a50292cd645f0e3a80d512a9cf1b360"
+    }
+  },
+  "PS2": {
+    "native_size": [
+      640,
+      448
+    ],
+    "logo_box": [
+      46,
+      8,
+      594,
+      262
+    ],
+    "copyright": {
+      "offset": "0x282e800",
+      "pixel_ranges": [
+        [
+          42134528,
+          42421248
+        ]
+      ],
+      "palette_preserved": true,
+      "lines": [
+        {
+          "text": "© ASHI PRODUCTIONS",
+          "box": [
+            219.5,
+            48.0,
+            420.5,
+            61.75
+          ]
+        },
+        {
+          "text": "© GAINAX / Project Eva. / TV Tokyo",
+          "box": [
+            168.75,
+            75.0,
+            471.0,
+            94.0
+          ]
+        },
+        {
+          "text": "© 1997 GAINAX / EVA Production Committee",
+          "box": [
+            132.25,
+            102.0,
+            507.75,
+            118.5
+          ]
+        },
+        {
+          "text": "© SUNRISE / TV Tokyo",
+          "box": [
+            223.75,
+            129.0,
+            416.25,
+            147.75
+          ]
+        },
+        {
+          "text": "© XEBEC / Nadesico Production Committee",
+          "box": [
+            139.5,
+            156.0,
+            500.5,
+            172.5
+          ]
+        },
+        {
+          "text": "© XEBEC / 1998 NADESICO Production Committee",
+          "box": [
+            108.25,
+            183.0,
+            531.75,
+            199.5
+          ]
+        },
+        {
+          "text": "© Sotsu Agency / SUNRISE",
+          "box": [
+            208.0,
+            210.0,
+            432.0,
+            229.25
+          ]
+        },
+        {
+          "text": "© Dynamic Production",
+          "box": [
+            226.0,
+            237.0,
+            414.0,
+            254.25
+          ]
+        },
+        {
+          "text": "© Chimi Moriwo / AIC",
+          "box": [
+            225.5,
+            264.0,
+            414.25,
+            280.5
+          ]
+        },
+        {
+          "text": "© TOEI",
+          "box": [
+            288.75,
+            291.0,
+            351.0,
+            304.75
+          ]
+        },
+        {
+          "text": "© TOHOKUSHINSHA",
+          "box": [
+            229.75,
+            318.0,
+            410.25,
+            331.75
+          ]
+        },
+        {
+          "text": "© 2001 BONES / Yutaka Izubuchi / Rahxephon project",
+          "box": [
+            97.5,
+            345.0,
+            542.5,
+            364.0
+          ]
+        },
+        {
+          "text": "© BANPRESTO 2004",
+          "box": [
+            233.75,
+            372.0,
+            406.0,
+            385.75
+          ]
+        }
+      ],
+      "source_sha256": "81cc7e782ea45e060c47e73bc3d535953651958762f5ffbb20d100080bc3894d",
+      "target_sha256": "7e67edffdeaad167b4b18a2933d693d506e379fc657faa8138dc5ea074328713"
+    }
+  }
+}
