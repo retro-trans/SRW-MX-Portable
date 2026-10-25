@@ -1,9 +1,9 @@
-# Shared v0.4.47 release work — 2026-10-26
+# Shared v0.4.47 published — 2026-10-26
 
 User confirmed local PS2 .46 works great and requested publication, then
 added untranslated title logos, copyright and opening-production screenshots.
 Those additions are included in shared .47; release authorization remains
-active. Public is still .38 until publication completes. Do not operate the
+active. Public is now .47 on both platforms. Do not operate the
 user's emulator. The repeated-dialogue investigation remains open.
 
 Both .47 ISOs are built and byte-verified. PSP SHA256:
@@ -19,9 +19,24 @@ the UDF's lowercase resource names. No image was overwritten during recovery.
 Current .47 PSP campaign/text/native checks and full cross-platform candidate
 audit are used for packaging. Additional actual-ISO regressions are in
 `work/output/release_0.4.47_native_regressions.json` (passed). Original/full
-and public .38 upgrade patches are planned for each platform, followed by
-Retro Trans Tools manifest/catalog validation. No release has been published
-at the time of this entry; record final publication evidence below when done.
+and public .38 upgrade patches are published for each platform. All four
+complete Retro Trans Tools decode/hash round trips pass, and all 12 uploaded
+assets match server-side SHA-256 digests. Public latest release:
+https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.47
+Release id 423597732; game-source/tag target 4ec94d997aef8c70309023b9476c20e132a51a33.
+Evidence: `work/output/release_0.4.47_publication_verification.json` and
+`work/output/release_0.4.47_catalog_candidate_verification.json`. Candidate
+catalog preserves historical identities and provides fourteen upgrade routes,
+including direct original/.38 inputs on PSP and PS2. Live refresh dispatched:
+https://github.com/retro-trans/retro-trans-tools/actions/runs/40223819430
+The catalog workflow completed successfully. Both the GitHub catalog blob
+and the actual raw URL used by Retro Trans Tools include the exact published
+manifest. All fourteen MX upgrade routes pass, including direct original/.38
+paths on both platforms; historical identities are preserved. Evidence:
+`work/output/release_0.4.47_catalog_verification.json`. Root README download
+links now point to .47 and describe its included proofreading/fixes accurately.
+Native game implementation/tag commit remains 4ec94d9; the publication-record
+commit follows it. New branding/video live playback remains pending.
 
 # Local PS2 v0.4.46 — Objectives footer typography (2026-10-26)
 

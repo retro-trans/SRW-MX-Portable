@@ -1,7 +1,14 @@
 # Changelog
 
-## PSP / PS2 v0.4.47 — 2026-10-26 (release candidate)
+## PSP / PS2 v0.4.47 — 2026-10-26 (shared release)
 
+- Published [v0.4.47](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.47)
+  with four bare full/original and public-.38 upgrade patches. All four pass
+  complete Retro Trans Tools decode/hash round trips; all 12 uploaded assets
+  match GitHub server-side SHA-256 digests. Exact native .47 footers match
+  both final ISOs. The live Retro Trans Tools catalog matches the shared
+  manifest, preserves older identities and provides direct original/.38
+  routes on both platforms; all fourteen existing MX upgrade routes pass.
 - Combined the local .39–.46 fixes: native battle captions, Sortie Prep,
   PSP Dendoh popup, PS2 rename fields, Turns/Funds alignment, Chapter-30
   lockout recovery and Objectives number typography. The user confirmed
