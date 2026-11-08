@@ -186,6 +186,8 @@ def main(iso_path, version, *rest):
         boot_new = fix_psp_levelup.patch_boot(boot_new)
         import fix_psp_parts
         boot_new = fix_psp_parts.patch_boot(boot_new)
+        import fix_psp_upgrade_bonus
+        boot_new = fix_psp_upgrade_bonus.patch_boot(boot_new)
         import fix_psp_dendoh_popup
         boot_new = fix_psp_dendoh_popup.patch_boot(boot_new)
         import fix_psp_rename

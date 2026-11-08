@@ -1,3 +1,193 @@
+# Shared release v0.4.54 — requested 2026-11-08
+
+User explicitly requested publication of the latest build. Release preparation
+uses existing exact .54 ISOs, full original-source patches and exact public
+.47 upgrade inputs. .47 PS2 baseline restored from its published full patch
+and verified against the published manifest. Current PSP/PS2 artifact proof:
+`work/output/release_0.4.54_build_tests.json`; expected public-to-current
+transform hashes match actual .54 candidates, preserving every other disc
+byte including story and movie data. Current native regressions pass and
+all 57 PSP bonus cases pass using actual release data. Retro Trans Tools
+release/catalog tests: 48 passed. Exact native footers are .54. New live
+gameplay, reporter-save and hardware checks remain pending.
+Release source is prepared before patch packaging; publication/catalog
+verification will be recorded when complete.
+
+# Local PSP / PS2 v0.4.54 — HM Black Selena (2026-11-08)
+
+User reported the full high-maneuver unit name crossing into PP on the Pilot
+Training screen and requested HM Black Selena. Current glossary/name/alias
+inputs now use that spelling. HM expands to High-maneuver; standard Black
+Selena and Black Selena III remain unchanged. Override documented in
+`docs/glossary_decisions.md`, Akurasu refreshed under
+`work/source/akurasu_refresh_0.4.54/`. Native widths old/new: PSP 177/104,
+PS2 269/159 pixels. `tools/shorten_hm_black_selena.py` changes only the
+existing 53-byte terminated allocation: PSP STATIC2_ADD offset 0x1b6824,
+PS2 FIX00.DAT offset 0x37920. Both native Strg pointers for entry 204 are
+checked against those offsets; no relocation or instruction changes.
+`tools/build_battle_banners.py --base 0.4.53 --version 0.4.54 --artwork unit_name`
+builds both local candidates and regenerates/verifies exact native footers.
+Per-platform `unit_name_0.4.54_verification.json` records full-output hashes,
+actual ISO name/footer reads and PS2 UDF checks. Report screenshot and font
+widths: `work/ui/unit_name_0.4.54/layout.en.json`.
+No emulator operated; fresh in-game confirmation pending. No release requested.
+
+# Local PSP / PS2 v0.4.53 — AT Field caption (2026-11-08)
+
+Two new report screenshots: Sword Cut is already translated; AT Field
+Neutralized now has native battle artwork on both platforms. Wording matches
+the existing textures.json translation. Akurasu refresh is under
+`work/source/akurasu_refresh_0.4.53/`; no neutralization entry was found.
+New rectangles: PSP [16,425,176,448], PS2 [432,169,592,192]. Start one row
+below the nominal tile boundary to retain the preceding Cross Manager
+caption's black descenders. Full text fits at 17px, no horizontal rescaling.
+Four focused tests: `tools/test_battle_captions_053.py`. Actual .52 resources
+verify all twenty earlier captions, adjacent labels, palette and unknown-art
+rejection. Both .53 candidates build over .52 with exact regenerated native
+title footers. Full ISO hashes, caption/footer readbacks and PS2 UDF checks
+are in the per-platform battle_banners reports. Combined readback evidence:
+`work/output/battle_captions_0.4.53_verification.json`. PSP BOOT/EBOOT must
+remain byte-identical to native-tested .51 (57 cases); verifier checks this.
+Screenshot records and native coordinates:
+`work/ui/battle_captions_0.4.53/layout.en.json`.
+No emulator operated; fresh in-game validation pending. Local only.
+Public remains .47; no release authorized for .53.
+
+# Local PSP / PS2 v0.4.52 — four battle captions (2026-11-08)
+
+Six screenshots: two repeat already-translated Cannot Attack/Open Get, and
+four add Nattoru Bullet, Ship Support Attack, Field Pierced and God Hand Final.
+All four new native captions are registered for both platforms. Nattoru,
+Ship Support and Field Pierced retain existing menu/map translations; no
+matching Akurasu entry. God Hand Final matches refreshed Akurasu Mech Abilities.
+Local refresh evidence: `work/source/akurasu_refresh_0.4.52/`.
+Nattoru's rectangle is [332,168,432,192], after the adjacent Beam Coat glyph.
+An explicit separator guard rejects a too-wide crop; neighboring letters
+and all sixteen previously registered translations remain untouched.
+Full names fit at cap heights 15/17/18/18, with no horizontal rescaling.
+Six focused tests use actual latest PSP .51 and PS2 .50 resources:
+`work/output/battle_banners_0.4.52_tests.json`. Earlier fixture ISOs were
+cleaned externally; these tests verify actual current resources instead.
+Build PSP .52 over .51 (preserving the bonus-crash correction), PS2 .52 over
+.50, both with regenerated exact title footers. No emulator operated.
+Both full output hashes, actual ISO caption/footer readbacks and PS2 UDF
+checks pass. PSP BOOT/EBOOT are byte-identical to the .51 executable already
+covered by 57 native cases; the guarded correction is still present.
+Combined evidence: `work/output/battle_captions_0.4.52_verification.json`.
+PSP SHA256 `2d6daae594ed38a4514bb7b7427d4df8ff57e4c605e8551daede8aa458dbfe92`.
+PS2 SHA256 `4db979cd41255c653851a4e8a6a7d22c36bd105e249dcf125c95a5897a8778d9`.
+Reports and coordinates: `work/ui/battle_captions_0.4.52/layout.en.json`.
+Fresh in-game validation is pending. Public remains .47; no release authorized.
+
+# Local PSP v0.4.51 — upgrade-bonus crash (2026-11-07)
+
+Reporter: PSP latest public, verified as .47 through GitHub metadata.
+Full Armor Hyaku Shiki Kai (unit 83), weapons maxed and bonus unchosen,
+save/reload then finish bonus selection crashes. Specific bonus/save not
+supplied. No emulator operated. Matched a real native overflow: 53 encoded
+name bytes overwrite a 52-byte field at +0xb0c, clearing the low byte of
+the parent's return pointer at +0xb40. Both actual parent-return paths then
+read the wrong context. Unit-bonus version hits the next weapon vtable.
+The fix redirects twelve name references to dead label-table scratch at
+sp+0x20; existing capacities are 112/128 bytes. All 512 current names fit
+(maximum 65 bytes). Fifty-seven native corrected cases pass, including all
+bonus selection rows and six protagonist variants. Full names, stack/class
+layout, upgrade logic and save format remain unchanged.
+See `docs/psp_upgrade_bonus_crash.md` and
+`work/output/psp_upgrade_bonus_0.4.51_native_execution.json`.
+Build .51 from restored, hash-verified public PSP .47, applying pending
+.48-.50 captions and exact title footer. BOOT/EBOOT share a disc extent;
+identical code replacements are merged and both resource names read back.
+The build completed and the full output hash/readback checks pass. PSP SHA256:
+`e5ad237c72b0e819c7b4e7b37ca99a68c064402bf16b883d78866a7c4b78ad36`.
+Build evidence: `work/output/psp_upgrade_bonus_0.4.51_verification.json`.
+Local tester patch from exact public PSP .47:
+`work/output/SRWMX-English-v0.4.47-to-v0.4.51-test.xdelta` (13,082 bytes).
+Its complete decode/hash round trip passes; proof is in
+`work/output/psp_upgrade_bonus_0.4.51_test_patch.json`. No upload/release.
+Fresh reporter-save validation remains pending. Cold-boot the new ISO and
+load a normal in-game save; old emulator states may restore old code/pointers.
+PS2 remains at local .50; this report and correction are PSP-specific.
+Public remains .47; no release authorized for .51. Do not operate the emulator.
+
+# Local PSP / PS2 v0.4.50 — six battle captions (2026-10-29)
+
+Six new screenshots report Open Get, Cannot Attack, Sword Cut, Harmonic
+Field, After Image and Barrier. Both native atlas versions are corrected.
+Akurasu Pilot/Mech Abilities was refreshed through `tools/akurasu_terms.py`;
+five ability terms match the glossary, and Cannot Attack is a literal UI
+warning. The red warning uses a per-caption shadow color; the default blue
+renderer remains identical for earlier captions. Full terms fit all native
+slots, with cap heights 18/14/17/9/10/17 in screenshot order. No horizontal
+rescaling or executable/UV layout edits are needed.
+Preview inspection caught too-short Cannot Attack and Barrier crops;
+correct widths are 96 and 56 pixels. A source-edge regression protects
+against leaving colored Japanese strokes beyond these rectangles.
+Twelve tests pass (`work/output/battle_banners_0.4.50_tests.json`). They also
+cover color, preservation of the ten earlier captions and unknown artwork.
+User screenshots, both platform coordinates and text sizes are recorded in
+`work/ui/battle_captions_0.4.50/layout.en.json`. Terminology evidence stays
+local under `work/source/akurasu_refresh_0.4.50/`.
+Local .50 candidates build over .49 with regenerated exact title footers.
+Both full ISO transformations, actual caption/footer readbacks and PS2 UDF
+checks pass. Only these six captions and the version-footer bytes change;
+all other disc bytes match .49. Both actual-ISO caption previews were
+visually inspected. Combined evidence:
+`work/output/battle_captions_0.4.50_verification.json`.
+PSP SHA256 `374b3a61f8f8e3be48d88f4b7fff5bdd54bf1c4d97476901dd21f2c12f21e980`.
+PS2 SHA256 `7b295024fc9629f8ee32b2666db8716402b5995f120eb8e176d6372c8e7ee308`.
+Fresh game display remains pending; do not operate the user's emulator.
+No release was requested for this fix; public remains .47.
+
+# Local PSP / PS2 v0.4.49 — Double Attack caption (2026-10-27)
+
+New screenshot reports the untranslated native Double Attack image.
+Both editions use [0,232,120,256], immediately left of the red Cannot Act
+caption. The full English term fits at 18-pixel cap height, preserving the
+original palette and all pixels outside the caption. The source guard now
+also rejects Double Attack rectangles that cross into adjacent red text.
+Terminology matches existing menu/map labels. Refreshed Akurasu Pilot/Mech
+Abilities provide no separate matching entry; local refresh evidence is
+under `work/source/akurasu_refresh_0.4.49/`. User screenshot and coordinates
+are under `work/ui/battle_double_attack_0.4.49/`.
+Eight banner tests pass (`work/output/battle_banners_0.4.49_tests.json`),
+including .48 support-caption preservation and unknown-source rejection.
+Local .49 candidates build over .48 with exact native title version footers.
+Both complete output transforms, actual ISO captions/footers and PS2 UDF
+readbacks pass. The only new caption is Double Attack; all nine earlier
+registered captions and unrelated disc bytes match .48. Combined evidence:
+`work/output/battle_double_attack_0.4.49_verification.json`.
+PSP SHA256 `8310c944b0db39f151edb8eec7908b06b54d1285776bff9cf46f1077f9f250f7`.
+PS2 SHA256 `637515a9bcd2131937c7d195c4df6114ec227396199db1131798f6f29d4668af`.
+Fresh game display remains pending; do not operate the user's emulator.
+No release was requested for this fix; public remains .47.
+
+# Local PSP / PS2 v0.4.48 — support battle captions (2026-10-27)
+
+New screenshots report untranslated Support Attack and Support Defend battle
+captions. Platform/build were not explicitly supplied for these two images;
+both public .47 editions retain the original artwork, so both are corrected.
+The missing entries were independent native blue/white atlas rectangles,
+separate from menu/map labels and Assist Attack. Shared rectangles:
+Support Attack [84,152,168,176], Support Defend [336,120,420,144].
+The full terms render at 15-pixel cap height with no horizontal rescaling.
+Akurasu Pilot Abilities was refreshed through `tools/akurasu_terms.py`;
+source evidence is local under `work/source/akurasu_refresh_0.4.48/`.
+User reports and coordinates: `work/ui/battle_support_0.4.48/`.
+Six tests pass (`work/output/battle_banners_0.4.48_tests.json`), including
+adjacent-caption preservation and rejection of unknown source artwork.
+Local .48 candidates are based on public .47 and regenerate exact native
+version footers. Actual ISO readback is recorded per platform by
+`tools/build_battle_banners.py`. Both complete ISO transforms, native
+captions/footers and PS2 UDF readbacks pass; unrelated disc bytes match .47.
+Combined evidence: `work/output/battle_support_0.4.48_verification.json`.
+PSP SHA256 `972902cb47a3502400d0a2b079d0227ab88dda71046a952b3376400581a3e932`.
+PS2 SHA256 `1f7d67228438778c53494eac5e7f374e284add2892062facdf66443a47b5cc4e`.
+Actual-ISO support-caption previews were visually checked for both editions.
+Fresh game display remains pending.
+Do not operate the user's emulator. No release was requested for this fix;
+public remains .47. The separate repeated-dialogue investigation stays open.
+
 # Shared v0.4.47 published — 2026-10-26
 
 User confirmed local PS2 .46 works great and requested publication, then

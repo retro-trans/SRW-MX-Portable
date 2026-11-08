@@ -1,0 +1,75 @@
+{
+  "version": "0.4.54",
+  "outputs": {
+    "PSP": {
+      "file": "SRWMX_EN_0.4.54.iso",
+      "bytes": 1340352512,
+      "sha256": "b048a2169782b326990920a27492f1b5c1083e201099e9fe30893929ca0c05bc"
+    },
+    "PS2": {
+      "file": "SRWMX_PS2_EN_0.4.54.iso",
+      "bytes": 4678762496,
+      "sha256": "581113beaea9ec033b88618f97ba0e90520ad8b9fb3105119c7ca3e77cf9cabd"
+    }
+  },
+  "native_iso_footer_readback": {
+    "PSP": {
+      "version": "0.4.54",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "8814386b6dadc7de83078cfd92a1bf7002a36e13f458beec2146db973846671a"
+    },
+    "PS2": {
+      "version": "0.4.54",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "9d7c8ccd56c375b2054ece6def5dd8c0923e13bd21030ded4a3877a270d9c1b0",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.54",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "campaign_proofreading_included": true,
+  "fresh_emulator_visual_validation": "pending",
+  "physical_console_tested": false,
+  "complete_playthrough_tested": false,
+  "reporter_bonus_save_validation": "pending",
+  "all_artifact_checks_passed": true,
+  "public_baseline": "0.4.47",
+  "retro_trans_release_catalog_tests_passed": 48,
+  "native_bonus_cases_passed": 57,
+  "public_baseline_preservation": {
+    "PSP": {
+      "public_sha256": "cf025614c141f2705989a38d8ef0fe3b3e5f4cacea38353c8e9602aed18713c7",
+      "expected_target_sha256": "b048a2169782b326990920a27492f1b5c1083e201099e9fe30893929ca0c05bc",
+      "all_other_disc_bytes_preserved": true,
+      "all_file_layouts_preserved": true,
+      "changed_resources": [
+        "/PSP_GAME/SYSDIR/BOOT.BIN",
+        "/PSP_GAME/USRDIR/OPWND.BIN",
+        "/PSP_GAME/USRDIR/STATIC2_ADD.BIN"
+      ],
+      "campaign_commands_and_story_bytes_unchanged": true,
+      "branding_and_movies_unchanged": true
+    },
+    "PS2": {
+      "public_sha256": "f306e9801486127b3cffe386976b47d7faf293518e7a3ca1c8ed9c19c89f2a4f",
+      "expected_target_sha256": "581113beaea9ec033b88618f97ba0e90520ad8b9fb3105119c7ca3e77cf9cabd",
+      "all_other_disc_bytes_preserved": true,
+      "all_file_layouts_preserved": true,
+      "changed_resources": [
+        "/DATA/FIX00.DAT;1",
+        "/DATA/STATIC.BIN;1",
+        "/SLPS_253.45;1"
+      ],
+      "campaign_commands_and_story_bytes_unchanged": true,
+      "branding_and_movies_unchanged": true
+    }
+  },
+  "current_native_regressions_passed": true
+}

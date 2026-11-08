@@ -15,7 +15,7 @@
   "ジョルジュ・ド・サンド": "George De Sand",
   "アルベロ・エスト": "Albero Est",
   "ブラックサレナ": "Black Selena",
-  "高機動型ブラックサレナ": "High-maneuver Black Selena",
+  "高機動型ブラックサレナ": "HM Black Selena",
   "フォリア・エスト": "Folia Est",
   "火のブライスト": "Bryst of the Fires",
   "鉄甲龍": "Hau Dragon",
@@ -41,7 +41,8 @@
   "Briest": "Bryst",
   "MU": "Mu",
   "Folia Esto": "Folia Est",
-  "Esto": "Est"
+  "Esto": "Est",
+  "High-maneuver Black Selena": "HM Black Selena"
  },
  "chapter_card_titles_0_4_2": {
   "冥府の王、その名は『天』": {
@@ -133,5 +134,6 @@
   "previous": "Cerberus Ignited",
   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database",
   "reason": "The editable hero unit name has a native 32-byte save field, so 16 full-width English glyphs plus NUL cannot fit. Akurasu Pilot Database and Units List use Cerberus Ignite (15 glyphs). Keep the Mech List spellings of the separate database G/S names; this override applies only to the editable default."
- }
+ },
+ "hm_black_selena_reason": "User requested HM Black Selena on 2026-11-08 because the full name overlaps PP in Pilot Training. HM abbreviates High-maneuver. Supersedes the full form from the 2026-10-07 decision for display names; Black Selena spelling is retained. Overrides the Akurasu full-form label for UI fit."
 }

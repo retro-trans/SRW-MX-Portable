@@ -2,6 +2,155 @@
   "scope": "PSP and PS2 native blue/white battle-animation HUD captions",
   "regions": [
     {
+      "id": "at_field_neutralized",
+      "english": "AT Field Neutralized",
+      "text": "AT Field Neutralized",
+      "boxes": {
+        "PSP": [16, 425, 176, 448],
+        "PS2": [432, 169, 592, 192]
+      },
+      "cap": 18,
+      "style": "caption",
+      "notes": "Retains the existing textures.json menu/map translation. No matching neutralization entry in the refreshed Akurasu MX terms."
+    },
+    {
+      "id": "nattoru_bullet",
+      "english": "Nattoru Bullet",
+      "text": "Nattoru Bullet",
+      "box": [332, 168, 432, 192],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Retains the existing menu/map spelling in textures.json. No matching entry in Akurasu MX Mech Abilities. Separate native blue battle caption."
+    },
+    {
+      "id": "ship_support_attack",
+      "english": "Ship Support Attack",
+      "text": "Ship Support Attack",
+      "box": [0, 208, 124, 232],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Existing project menu/map term; native caption immediately left of Combination Attack."
+    },
+    {
+      "id": "field_pierced",
+      "english": "Field Pierced",
+      "text": "Field Pierced",
+      "boxes": {
+        "PSP": [352, 256, 472, 280],
+        "PS2": [768, 0, 888, 24]
+      },
+      "cap": 18,
+      "style": "caption",
+      "notes": "Existing project menu/map status wording."
+    },
+    {
+      "id": "god_hand_final",
+      "english": "God Hand Final",
+      "text": "God Hand Final",
+      "boxes": {
+        "PSP": [8, 256, 192, 280],
+        "PS2": [424, 0, 608, 24]
+      },
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+    },
+    {
+      "id": "open_get",
+      "english": "Open Get",
+      "text": "Open Get",
+      "box": [240, 96, 348, 120],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+    },
+    {
+      "id": "cannot_attack",
+      "english": "Cannot Attack",
+      "text": "Cannot Attack",
+      "boxes": {
+        "PSP": [352, 304, 448, 328],
+        "PS2": [768, 48, 864, 72]
+      },
+      "cap": 18,
+      "style": "caption",
+      "shadow_color": [255, 0, 0, 255],
+      "notes": "Red warning artwork; preserve the native red shadow instead of using the blue ability-caption shadow. Literal UI status translation."
+    },
+    {
+      "id": "sword_cut",
+      "english": "Sword Cut",
+      "text": "Sword Cut",
+      "box": [304, 0, 384, 24],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities"
+    },
+    {
+      "id": "harmonic_field",
+      "english": "Harmonic Field",
+      "text": "Harmonic Field",
+      "boxes": {
+        "PSP": [8, 328, 72, 352],
+        "PS2": [424, 72, 488, 96]
+      },
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+      "notes": "Full glossary term fits the original 64-pixel field at a 9-pixel cap height, without horizontal rescaling."
+    },
+    {
+      "id": "after_image",
+      "english": "After Image",
+      "text": "After Image",
+      "box": [240, 24, 284, 48],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities",
+      "notes": "Full glossary term fits the original 44-pixel field at a 10-pixel cap height, without horizontal rescaling."
+    },
+    {
+      "id": "barrier",
+      "english": "Barrier",
+      "text": "Barrier",
+      "boxes": {
+        "PSP": [72, 328, 128, 352],
+        "PS2": [488, 72, 544, 96]
+      },
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_Abilities"
+    },
+    {
+      "id": "double_attack",
+      "english": "Double Attack",
+      "text": "Double Attack",
+      "box": [0, 232, 120, 256],
+      "cap": 18,
+      "style": "caption",
+      "notes": "Existing project menu/map term. Separate native battle-animation artwork, immediately left of the red Cannot Act caption; same rectangle on PSP and PS2."
+    },
+    {
+      "id": "support_attack",
+      "english": "Support Attack",
+      "text": "Support Attack",
+      "box": [84, 152, 168, 176],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities",
+      "notes": "Separate native battle-animation artwork from the already translated menu/map term and Assist Attack. Same rectangle on PSP and PS2."
+    },
+    {
+      "id": "support_defend",
+      "english": "Support Defend",
+      "text": "Support Defend",
+      "box": [336, 120, 420, 144],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Abilities",
+      "notes": "Native battle-animation artwork immediately to the right of Critical. Same rectangle on PSP and PS2."
+    },
+    {
       "id": "distortion_field",
       "english": "Distortion Field",
       "text": "Distortion Field",

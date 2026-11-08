@@ -17,10 +17,12 @@ from build_title_footer import save
 
 
 def build(platform, base, version, artwork='battle_banners'):
-    assert artwork in ('battle_banners','sortie_header')
+    assert artwork in ('battle_banners','sortie_header','unit_name')
     patch, verify_artwork = patch_banners, verify_banners
     if artwork == 'sortie_header':
         from sortie_header import patch, verify_iso as verify_artwork
+    if artwork == 'unit_name':
+        from shorten_hm_black_selena import patch, verify_iso as verify_artwork
     assert title_footer.version_key(version) > title_footer.version_key(base)
     prefix = 'SRWMX_EN_' if platform == 'PSP' else 'SRWMX_PS2_EN_'
     source = ROOT/f'work/output/{prefix}{base}.iso'
@@ -40,6 +42,10 @@ def build(platform, base, version, artwork='battle_banners'):
             report_path=ROOT/f'work/output/{platform.lower()}_battle_banners_{base}_verification.json'
         if not report_path.exists():
             report_path=ROOT/f'work/output/{platform.lower()}_sortie_header_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_upgrade_bonus_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_unit_name_{base}_verification.json'
         prior=json.loads(report_path.read_text(encoding='utf-8'))
         assert prior['version']==base and prior['platform']==platform
         assert prior.get('complete_output_hash_verified', report_path.name.startswith(platform.lower()+'_parts_layout_'))
@@ -48,6 +54,8 @@ def build(platform, base, version, artwork='battle_banners'):
     path = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
     if artwork == 'sortie_header':
         path = '/PSP_GAME/USRDIR/WND.BIN' if platform == 'PSP' else '/DATA/WND.BIN;1'
+    if artwork == 'unit_name' and platform == 'PS2':
+        path = '/DATA/FIX00.DAT;1'
     footer_path = '/PSP_GAME/USRDIR/OPWND.BIN' if platform == 'PSP' else '/SLPS_253.45;1'
     iso = pycdlib.PyCdlib()
     iso.open(str(source))
@@ -73,7 +81,7 @@ def build(platform, base, version, artwork='battle_banners'):
     assert len(new_footer) == len(original_footer)
     assert title_footer.patch(new_footer, platform, version)[0] == new_footer
     footer['disc_extent'] = layouts[footer_path][0]*2048
-    resources = {path: (original, changed, evidence['pixel_ranges']),
+    resources = {path: (original, changed, evidence.get('pixel_ranges') or evidence['byte_ranges']),
                  footer_path: (original_footer, new_footer, footer['pixel_ranges'])}
     edits = []
     for asset, (old, new, spans) in resources.items():
@@ -153,8 +161,8 @@ def build(platform, base, version, artwork='battle_banners'):
                   idempotence_verified=True, iso_artwork_readback_verified=True,
                   visual_validation='Actual ISO artwork previews pass; fresh in-game display pending',
                   local_build_only=True, github_release=False)
-    report['banner_artwork' if artwork=='battle_banners' else 'header_artwork']=evidence
-    report['iso_caption_readback_verified' if artwork=='battle_banners' else 'iso_header_readback_verified']=True
+    report[{'battle_banners':'banner_artwork','sortie_header':'header_artwork','unit_name':'unit_name'}[artwork]]=evidence
+    report[{'battle_banners':'iso_caption_readback_verified','sortie_header':'iso_header_readback_verified','unit_name':'iso_unit_name_readback_verified'}[artwork]]=True
     if artwork=='battle_banners':report['caption_readback']=artwork_readback
     save(ROOT/f'work/output/{platform.lower()}_{artwork}_{version}_verification.json', report)
     save(ROOT/f'work/translation/en/{platform.lower()}/{artwork}_{version}.en.json', report)
@@ -192,7 +200,7 @@ if __name__ == '__main__':
     parser.add_argument('--base', default='0.4.33')
     parser.add_argument('--version', default='0.4.34')
     parser.add_argument('--platform', choices=['PSP', 'PS2'])
-    parser.add_argument('--artwork', choices=['battle_banners','sortie_header'], default='battle_banners')
+    parser.add_argument('--artwork', choices=['battle_banners','sortie_header','unit_name'], default='battle_banners')
     args = parser.parse_args()
     for platform in ([args.platform] if args.platform else ['PSP', 'PS2']):
         build(platform, args.base, args.version, args.artwork)

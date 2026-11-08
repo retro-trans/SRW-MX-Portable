@@ -39,7 +39,12 @@ def main(version='0.4.47'):
     iso=pycdlib.PyCdlib();iso.open(str(ROOT/f'work/output/SRWMX_EN_{version}.iso'))
     with iso.open_file_from_iso(iso_path='/PSP_GAME/SYSDIR/BOOT.BIN') as stream:boot=stream.read()
     iso.close()
-    checks['psp_dendoh']=dendoh((ROOT/'work/build/psp/sortie_popup_audit/BOOT.BIN').read_bytes(),boot)
+    baseline=(ROOT/'work/build/psp/sortie_popup_audit/BOOT.BIN').read_bytes()
+    from title_footer import version_key
+    if version_key(version)>=(0,4,51):
+        from fix_psp_upgrade_bonus import patch_boot
+        baseline=patch_boot(baseline)
+    checks['psp_dendoh']=dendoh(baseline,boot)
     assert checks['psp_dendoh']['passed']
     report=dict(version=version,passed=True,actual_current_iso_executables_used=True,checks=checks,
         user_confirmed_prior_ps2_fixes=dict(chapter30_transition='Earth Chapter31 reached; user confirmed working',

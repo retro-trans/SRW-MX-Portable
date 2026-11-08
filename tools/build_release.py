@@ -67,10 +67,14 @@ def main():
     is_ps2 = args.platform == 'PS2'
     prefix = 'SRWMX-PS2-English' if is_ps2 else 'SRWMX-English'
     edition = 'SLPS-25345' if is_ps2 else 'ULJS-00041'
+    from retro_trans.game_library import read as read_library, PATH as library_path
+    registered=next(g for g in read_library(library_path)['games']
+                    if g['repo']=='retro-trans/SRW-MX-Portable' and g['game_id']=='srw-mx-portable')
     config = {
-        'game_id': 'srw-mx' if is_ps2 else 'srw-mx-portable',
+        'game_id': registered['game_id'],
         'game_name': 'Super Robot Taisen MX' if is_ps2 else 'Super Robot Taisen MX Portable',
         'platform': args.platform, 'version': args.version, 'source_commit': commit,
+        'package_ids': registered['package_ids'],
         'patches': [{
             'patch': '%s-v%s.xdelta' % (prefix, args.version),
             'edition': edition, 'language': 'en', 'source_version': 'original',

@@ -47,7 +47,14 @@ def patch(data, platform, preview=None, region_ids=None):
             return b''.join(resource[pixels+y*width+x0:pixels+y*width+x1]
                             for y in range(y0, y1))
         before, original = crop(data), crop(native)
-        if row['id'] in ('god_shadow', 'shield_defense'):
+        if row['id']=='nattoru_bullet':
+            # A clear separator precedes the Nattoru glyph's black outline.
+            # A wider crop would include Beam Coat's final colored strokes.
+            assert not any(pal[v][3] and max(pal[v][:3])>64
+                           for v in (native[pixels+y*width+x0-2]
+                                     for y in range(y0,y1))), \
+                'Caption rectangle includes adjacent Beam Coat lettering'
+        if row['id'] in ('god_shadow', 'shield_defense', 'double_attack'):
             assert not any(pal[v][0]>2*max(pal[v][1],pal[v][2]) for v in original), \
                 'Caption rectangle includes adjacent red lettering: '+row['id']
         translated, layout = render(original, pal, row)

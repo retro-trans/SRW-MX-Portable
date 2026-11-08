@@ -1,0 +1,31 @@
+{
+  "version": "0.4.54",
+  "old_name": "High-maneuver Black Selena",
+  "name": "HM Black Selena",
+  "reason": "User-requested abbreviation to prevent overlap with Pilot Training PP column.",
+  "changed_current_inputs": [
+    "work/glossary/decisions.json",
+    "work/glossary/do_not_touch.json",
+    "work/glossary/glossary.json",
+    "work/glossary/glossary_B.json",
+    "work/glossary/name_fixes.json",
+    "work/translation/en/static2/names.json",
+    "work/translation/en/static2/names.en.json",
+    "work/translation/en/ps2/database_port.en.json",
+    "work/translation/en/library.json"
+  ],
+  "widths": {
+    "PSP": {
+      "old": 177,
+      "new": 104
+    },
+    "PS2": {
+      "old": 269,
+      "new": 159
+    }
+  },
+  "screenshot": "pilot_training_report.png",
+  "native_entry": 204,
+  "source_build": "0.4.53",
+  "live_menu_validation": "pending"
+}

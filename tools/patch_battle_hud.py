@@ -76,7 +76,7 @@ def render(old,pal,row):
         art=Image.new('RGBA',(w,h));outline=ink.filter(ImageFilter.MaxFilter(3))
         art.paste((0,0,0,255),(0,0,w,h),outline)
         shadow=Image.new('L',(w,h));shadow.paste(ink,(1,1))
-        art.paste((0,0,255,255),(0,0,w,h),shadow)
+        art.paste(tuple(row.get('shadow_color',(0,0,255,255))),(0,0,w,h),shadow)
         art.paste((255,255,255,255),(0,0,w,h),ink)
     else:
         ring=[old[y*w+x] for y in range(h) for x in range(w) if x in (0,w-1) or y in (0,h-1)]

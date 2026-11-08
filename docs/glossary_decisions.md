@@ -1178,6 +1178,19 @@ label uses **Black Selena III**. Historical drafts and evidence retain their
 original labels. Both native fonts render Selena narrower than either old
 variant, allowing all existing line breaks and allocation sizes to remain.
 
+## Short display name: HM Black Selena — 2026-11-08
+
+Use **HM Black Selena** for the high-maneuver unit. The user requested this
+abbreviation after the full name overlapped PP in Pilot Training. **HM**
+stands for **High-maneuver**. This supersedes the full display form in the
+2026-10-07 decision while retaining the requested **Selena** spelling.
+The standard **Black Selena** and soundtrack **Black Selena III** stay as
+before. The refreshed Akurasu MX Mech List supplies the full form with its
+Sarana spelling; this display override follows the user's spelling and
+layout preference. Current name tables, glossary and aliases use the short
+form on PSP and PS2. Native widths fall from 177 to 104 pixels on PSP and
+269 to 159 pixels on PS2. Existing string pointers and allocations are kept.
+
 ## Spoken doctor titles — 2026-10-09
 
 **Genzo Umon** remains the full character name. When the source uses only

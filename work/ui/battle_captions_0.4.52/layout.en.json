@@ -1,0 +1,255 @@
+{
+  "version": "0.4.52",
+  "reported_platform": "Not explicitly supplied with these screenshots",
+  "reported_build": "Not explicitly supplied with these screenshots",
+  "source_builds": {
+    "PSP": "0.4.51",
+    "PS2": "0.4.50"
+  },
+  "regions": [
+    {
+      "id": "cannot_attack",
+      "report": "cannot_attack_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            352,
+            304,
+            448,
+            328
+          ],
+          "cap_height": 14,
+          "ink_bounds": [
+            356,
+            309,
+            444,
+            323
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            768,
+            48,
+            864,
+            72
+          ],
+          "cap_height": 14,
+          "ink_bounds": [
+            772,
+            53,
+            860,
+            67
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Cannot Attack",
+      "already_in_base": true
+    },
+    {
+      "id": "open_get",
+      "report": "open_get_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            240,
+            96,
+            348,
+            120
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            266,
+            99,
+            322,
+            117
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            240,
+            96,
+            348,
+            120
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            266,
+            99,
+            322,
+            117
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Open Get",
+      "already_in_base": true
+    },
+    {
+      "id": "nattoru_bullet",
+      "report": "nattoru_bullet_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            332,
+            168,
+            432,
+            192
+          ],
+          "cap_height": 15,
+          "ink_bounds": [
+            334,
+            172,
+            429,
+            187
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            332,
+            168,
+            432,
+            192
+          ],
+          "cap_height": 15,
+          "ink_bounds": [
+            334,
+            172,
+            429,
+            187
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Nattoru Bullet",
+      "already_in_base": false
+    },
+    {
+      "id": "ship_support_attack",
+      "report": "ship_support_attack_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            0,
+            208,
+            124,
+            232
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            2,
+            211,
+            122,
+            228
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            0,
+            208,
+            124,
+            232
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            2,
+            211,
+            122,
+            228
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Ship Support Attack",
+      "already_in_base": false
+    },
+    {
+      "id": "field_pierced",
+      "report": "field_pierced_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            352,
+            256,
+            472,
+            280
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            359,
+            259,
+            464,
+            277
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            768,
+            0,
+            888,
+            24
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            775,
+            3,
+            880,
+            21
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Field Pierced",
+      "already_in_base": false
+    },
+    {
+      "id": "god_hand_final",
+      "report": "god_hand_final_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            8,
+            256,
+            192,
+            280
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            40,
+            259,
+            159,
+            277
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            424,
+            0,
+            608,
+            24
+          ],
+          "cap_height": 18,
+          "ink_bounds": [
+            456,
+            3,
+            575,
+            21
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "God Hand Final",
+      "already_in_base": false
+    }
+  ],
+  "term_refresh": "tools/akurasu_terms.py fetch/parse; work/source/akurasu_refresh_0.4.52/reported_terms.json",
+  "scope": "Native battle-animation captions",
+  "fresh_in_game_validation": "Pending; emulator not operated",
+  "github_release": false
+}

@@ -1,0 +1,91 @@
+{
+  "version": "0.4.53",
+  "reported_platform": "Not explicitly supplied",
+  "reported_build": "Not explicitly supplied",
+  "source_builds": {
+    "PSP": "0.4.52",
+    "PS2": "0.4.52"
+  },
+  "regions": [
+    {
+      "id": "sword_cut",
+      "report": "sword_cut_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            304,
+            0,
+            384,
+            24
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            305,
+            3,
+            382,
+            20
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            304,
+            0,
+            384,
+            24
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            305,
+            3,
+            382,
+            20
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "Sword Cut",
+      "already_in_base": true
+    },
+    {
+      "id": "at_field_neutralized",
+      "report": "at_field_neutralized_report.png",
+      "platforms": {
+        "PSP": {
+          "box": [
+            16,
+            425,
+            176,
+            448
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            19,
+            428,
+            173,
+            445
+          ],
+          "horizontal_rescaling": false
+        },
+        "PS2": {
+          "box": [
+            432,
+            169,
+            592,
+            192
+          ],
+          "cap_height": 17,
+          "ink_bounds": [
+            435,
+            172,
+            589,
+            189
+          ],
+          "horizontal_rescaling": false
+        }
+      },
+      "english": "AT Field Neutralized",
+      "already_in_base": false
+    }
+  ]
+}
