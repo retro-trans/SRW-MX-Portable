@@ -1,17 +1,34 @@
-# Shared release v0.4.54 — requested 2026-11-08
+# Public PSP / PS2 v0.4.54 — 2026-11-08
 
-User explicitly requested publication of the latest build. Release preparation
-uses existing exact .54 ISOs, full original-source patches and exact public
-.47 upgrade inputs. .47 PS2 baseline restored from its published full patch
-and verified against the published manifest. Current PSP/PS2 artifact proof:
-`work/output/release_0.4.54_build_tests.json`; expected public-to-current
-transform hashes match actual .54 candidates, preserving every other disc
-byte including story and movie data. Current native regressions pass and
-all 57 PSP bonus cases pass using actual release data. Retro Trans Tools
-release/catalog tests: 48 passed. Exact native footers are .54. New live
-gameplay, reporter-save and hardware checks remain pending.
-Release source is prepared before patch packaging; publication/catalog
-verification will be recorded when complete.
+Published at the user's explicit request:
+https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.54
+Release ID 438118202; source/tag commit
+`32c14a388e8269bb211366b4bb2dda27abdb5dbf`.
+Four bare patches: original Japanese sources and exact public .47 upgrades,
+for PSP and PS2. All four full decode/hash round trips passed. All 12 public
+assets match their local sizes and server-side SHA-256 digests; latest-release,
+source-tag and canonical download URLs are verified. Neither platform is zipped.
+The .47 PS2 upgrade input was reconstructed from its published patch and exact
+manifest hash. Retro Trans Tools registration is checked against the current
+remote library, including both platforms' package IDs. Catalog candidate checks
+preserve old identities and pass all 16 automatic routes, four direct from
+original/.47 inputs. Catalog refresh run:
+https://github.com/retro-trans/retro-trans-tools/actions/runs/42462468049
+The catalog workflow succeeded. GitHub API and the raw catalog pinned to
+commit 823ee1a contain the exact published manifest; all 16 routes pass.
+The actual default raw URL used by the app now also includes the exact
+published manifest. All 16 automatic routes and historical identities are
+verified against that live feed. Publication evidence is committed in
+`docs/releases/v0.4.54_publication.json`.
+
+Evidence: `work/output/release_0.4.54_build_tests.json`,
+`release_0.4.54_publication_verification.json`, and
+`release_0.4.54_catalog_candidate_verification.json`. The public-to-current
+transformation changes only declared fixes and exact version footers; story,
+movie and other bytes are preserved. Current native regressions and all 57
+PSP bonus cases pass using actual release data. Retro Trans release/catalog
+unit tests: 48 passed. Fresh gameplay, reporter-save and hardware checks remain
+pending. Existing .47 in-game save guidance is included in the release notes.
 
 # Local PSP / PS2 v0.4.54 — HM Black Selena (2026-11-08)
 

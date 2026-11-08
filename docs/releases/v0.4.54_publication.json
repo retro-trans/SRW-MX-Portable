@@ -1,0 +1,212 @@
+{
+  "version": "0.4.54",
+  "release_id": 438118202,
+  "draft": false,
+  "passed": true,
+  "source_commit": "32c14a388e8269bb211366b4bb2dda27abdb5dbf",
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "id": 723350273,
+      "bytes": 3166,
+      "sha256": "9a3213329d162602bbc101a3a6b6f2a0763d13f3bd114e0666c9915e791ddca6",
+      "server_digest_verified": true
+    },
+    {
+      "name": "BUILD-TESTS-v0.4.54.json",
+      "id": 723350276,
+      "bytes": 135929,
+      "sha256": "fe07b40b31a5487de0a7abf165d822ac00b5776a25ec5fad374da9c912f1c1bc",
+      "server_digest_verified": true
+    },
+    {
+      "name": "CHANGELOG-v0.4.54.md",
+      "id": 723350271,
+      "bytes": 178280,
+      "sha256": "090bfac5949950e8c333885227214b87d9cda25e2b1b96af6eab2f290f0c3896",
+      "server_digest_verified": true
+    },
+    {
+      "name": "FONT-LICENSE.txt",
+      "id": 723350277,
+      "bytes": 4930,
+      "sha256": "7a6787ca1bad7a1afc8aa66643f9ec0aba6a4ab33c467c319ff11027a30118a5",
+      "server_digest_verified": true
+    },
+    {
+      "name": "README-v0.4.54.txt",
+      "id": 723350274,
+      "bytes": 4711,
+      "sha256": "4f821409e0dabd35adbd907df199ad899ec4361ae1e9acc9b576a5a2b1306e8f",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SHA256SUMS-v0.4.54.txt",
+      "id": 723350308,
+      "bytes": 1016,
+      "sha256": "087cc4dba4d8004662b5ddcd2e6f1cfc7a9184f302e038a469a2f8187775aef8",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "id": 723350310,
+      "bytes": 584,
+      "sha256": "cafab469e1b37498741a53f62b2aa09b2db2350d7c9055e35da8efc71e5b15f8",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SRWMX-English-v0.4.47-to-v0.4.54.xdelta",
+      "id": 723345631,
+      "bytes": 19322,
+      "sha256": "b34fda380391a905aff0d753a9fc4b2cc54ad55af0c8e9e2dc0165b5676f35da",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SRWMX-English-v0.4.54.xdelta",
+      "id": 723345629,
+      "bytes": 2988739,
+      "sha256": "eba00da684829b3030b6015f9445d9ccbf645eb2c40dd88899ee8935b4be7acf",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SRWMX-PS2-English-v0.4.47-to-v0.4.54.xdelta",
+      "id": 723345626,
+      "bytes": 30529,
+      "sha256": "161c46b6900d0f81d5d9aef60e051e72f9480c59d58bd3af2173039b519b42c8",
+      "server_digest_verified": true
+    },
+    {
+      "name": "SRWMX-PS2-English-v0.4.54.xdelta",
+      "id": 723345630,
+      "bytes": 130380978,
+      "sha256": "9d8eb5b1be5f39d90d9adbf16f0181744e23f370d106a6c653e8eb051910110d",
+      "server_digest_verified": true
+    },
+    {
+      "name": "VALIDATION.json",
+      "id": 723350312,
+      "bytes": 926,
+      "sha256": "7bad8272c115610ce06bd78c88dc50dd62376efecc28c7502a3524eb619f2a58",
+      "server_digest_verified": true
+    }
+  ],
+  "url": "https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.54",
+  "published_at": "2026-11-08T08:19:50Z",
+  "latest_release_verified": true,
+  "tag_source_commit_verified": true,
+  "catalog_workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/42462468049",
+  "catalog": {
+    "version": "0.4.54",
+    "passed": true,
+    "manifest_matches_published": true,
+    "historical_identities_preserved": true,
+    "git_blob_sha": "4ba8ed0e3a91f3ff2f628cb7c7be7e3242c2ca23",
+    "routes": [
+      {
+        "platform": "PSP",
+        "source": "original",
+        "steps": 1,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.1",
+        "steps": 8,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.12",
+        "steps": 6,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.9",
+        "steps": 7,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "original",
+        "steps": 1,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.12",
+        "steps": 6,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.29",
+        "steps": 5,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.29",
+        "steps": 5,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.32",
+        "steps": 4,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.32",
+        "steps": 4,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.33",
+        "steps": 3,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.33",
+        "steps": 3,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.38",
+        "steps": 2,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.38",
+        "steps": 2,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PSP",
+        "source": "0.4.47",
+        "steps": 1,
+        "target": "0.4.54"
+      },
+      {
+        "platform": "PS2",
+        "source": "0.4.47",
+        "steps": 1,
+        "target": "0.4.54"
+      }
+    ],
+    "workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/42462468049",
+    "workflow_conclusion": "success",
+    "raw_url_cache_convergence_pending": false,
+    "pinned_raw_commit": "823ee1a4a6588c458d5116c9e3f0479560469b80",
+    "pinned_raw_blob_verified": true,
+    "pinned_raw_manifest_matches_published": true,
+    "actual_app_raw_url_verified": true,
+    "raw_catalog_url": "https://raw.githubusercontent.com/retro-trans/retro-trans-tools/main/retro_trans/resources/catalog.json",
+    "actual_retro_trans_refresh_verified": true
+  }
+}
