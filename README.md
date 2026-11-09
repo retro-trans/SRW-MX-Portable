@@ -16,35 +16,35 @@ Include the build version, route, stage and an in-game screenshot.
 
 ## Play it
 
-The latest release is **[v0.4.54](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.54)**
+The latest release is **[v0.4.58](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.58)**
 for both PSP and PS2. Use your matching Japanese ISO or the exact published
-English v0.4.47 image for your platform.
+English v0.4.54 image for your platform.
 
 Both builds include the English campaign and interface with a native
 proportional 4× Latin font and campaign proofreading. This release fixes the
-PSP upgrade-bonus name overflow, translates additional battle captions on
-both platforms, and shortens the long unit name to HM Black Selena. Earlier
-PS2 Chapter-30 recovery, interface fixes and English branding remain included.
+PSP Chapter 55 Outer Space load failure and adds the Team Attack caption and
+name corrections on both platforms. Earlier PSP upgrade-bonus and PS2
+Chapter-30 fixes remain included.
 PS2 retains two balance modes, three favorite series and the intentional PSP
 scenario ports.
-These remain experimental builds; see the [release notes](docs/releases/v0.4.54.md)
-for changes, exact source/output hashes and remaining playtesting checks.
+See the [release notes](docs/releases/v0.4.58.md) for changes and playtesting
+checks. The GitHub release includes exact source and output hashes.
 
 ### Apply
 
 Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools):
 
 - Refresh the catalog, choose **Automatic**, select your matching Japanese
-  ISO or published English v0.4.47 ISO, and patch.
+  ISO or published English v0.4.54 ISO, and patch.
 - Alternatively, use **Apply xdelta** with the corresponding bare patch below.
   No extraction is needed. The shared manifest covers both platforms.
 
 | Your source | Download |
 |---|---|
-| Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.54/SRWMX-English-v0.4.54.xdelta) |
-| Published English PSP v0.4.47 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.54/SRWMX-English-v0.4.47-to-v0.4.54.xdelta) |
-| Japanese PS2, SLPS-25345 | [Full PS2 patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.54/SRWMX-PS2-English-v0.4.54.xdelta) |
-| Published English PS2 v0.4.47 | [PS2 upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.54/SRWMX-PS2-English-v0.4.47-to-v0.4.54.xdelta) |
+| Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.58/SRWMX-English-v0.4.58.xdelta) |
+| Published English PSP v0.4.54 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.58/SRWMX-English-v0.4.54-to-v0.4.58.xdelta) |
+| Japanese PS2, SLPS-25345 | [Full PS2 patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.58/SRWMX-PS2-English-v0.4.58.xdelta) |
+| Published English PS2 v0.4.54 | [PS2 upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.4.58/SRWMX-PS2-English-v0.4.54-to-v0.4.58.xdelta) |
 
 Keep checksum verification enabled. Patches require the exact supported image;
 local test builds are not upgrade inputs. Earlier public

@@ -1,3 +1,21 @@
+# Public PSP / PS2 v0.4.58 — 2026-11-09
+
+Published [v0.4.58](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.58)
+at the user's request. The PSP build carries the Chapter 55 allocator fix
+from v0.4.57. Both platforms include the v0.4.55 name corrections and the
+new Team Attack battle caption. The PSP executable and stage data match the
+v0.4.57 save replay, and all nine allocator checks passed on the release ISO.
+Both title footers and all 22 registered captions were checked in the ISOs.
+Fresh in-battle display of Team Attack is pending.
+
+All four bare xdelta patches reproduced the verified target hashes using
+Retro Trans Tools. Inputs are the original Japanese ISOs and the exact public
+v0.4.54 outputs. GitHub's SHA-256 digests match all 12 local assets, and the
+release tag points to `3bcfd6417ffceb4a9fcd98762b8a583878daa55c`.
+The [catalog refresh](https://github.com/retro-trans/retro-trans-tools/actions/runs/42659771271)
+completed, and all 18 upgrade routes passed against the API and the app's
+default catalog feed. See `docs/releases/v0.4.58_publication.json`.
+
 # Local PSP v0.4.57 — Chapter 55 stage load (2026-11-09)
 
 User reported next-stage crash on latest public .54 and supplied
