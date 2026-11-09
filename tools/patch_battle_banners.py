@@ -12,13 +12,17 @@ from patch_battle_hud import picture, render
 TERMS = ROOT/'work/translation/en/ui/battle_banners.en.json'
 
 
-def regions(platform):
+def regions(platform, version=None):
     rows = json.loads(TERMS.read_text(encoding='utf-8'))['regions']
+    if version is not None:
+        from title_footer import version_key
+        cutoff = version_key(version)
+        rows = [row for row in rows if version_key(row.get('introduced', '0.0.0')) <= cutoff]
     return [dict(row, box=row['boxes'][platform]) if 'boxes' in row else row
             for row in rows]
 
 
-def patch(data, platform, preview=None, region_ids=None):
+def patch(data, platform, preview=None, region_ids=None, *, version=None):
     spec = SPECS[platform]
     width, height = spec['size']
     pixels = spec['pixels']
@@ -27,7 +31,7 @@ def patch(data, platform, preview=None, region_ids=None):
     native = native_path.read_bytes()
     assert data[spec['palette']:spec['palette']+1024] == native[spec['palette']:spec['palette']+1024]
     pal = palette(data, platform)
-    rows = regions(platform)
+    rows = regions(platform, version)
     if region_ids is not None:
         requested=set(region_ids)
         assert requested and requested<={row['id'] for row in rows},'Unknown recorded caption IDs'
@@ -94,7 +98,7 @@ def patch(data, platform, preview=None, region_ids=None):
     return bytes(output), evidence
 
 
-def verify_iso(path, platform):
+def verify_iso(path, platform, *, version=None):
     """Verify registered captions; this is not an audit of the entire atlas."""
     import pycdlib
     asset = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
@@ -103,7 +107,7 @@ def verify_iso(path, platform):
     try:
         with iso.open_file_from_iso(iso_path=asset) as stream:
             raw = stream.read()
-        expected, report = patch(raw, platform)
+        expected, report = patch(raw, platform, version=version)
         assert raw == expected, 'Untranslated native battle-animation captions: '+platform
         assert all(row['already_translated'] for row in report['regions'])
         return dict(platform=platform, native_iso_caption_artwork_verified=True,

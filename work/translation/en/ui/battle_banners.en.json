@@ -2,7 +2,19 @@
   "scope": "PSP and PS2 native blue/white battle-animation HUD captions",
   "regions": [
     {
+      "id": "team_attack",
+      "introduced": "0.4.58",
+      "english": "Team Attack",
+      "text": "Team Attack",
+      "box": [124, 206, 212, 230],
+      "cap": 18,
+      "style": "caption",
+      "term_source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Team_Attacks",
+      "notes": "Retains the existing textures.json menu/map term for Combination Attack. The same native caption rectangle is used on both platforms."
+    },
+    {
       "id": "at_field_neutralized",
+      "introduced": "0.4.53",
       "english": "AT Field Neutralized",
       "text": "AT Field Neutralized",
       "boxes": {

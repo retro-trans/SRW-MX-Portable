@@ -196,6 +196,11 @@ def main(iso_path, version, *rest):
         boot_new = parts_layout.patch_boot(boot_new)
         import fix_psp_menu_alignment
         boot_new = fix_psp_menu_alignment.patch_boot(boot_new)
+        if title_footer.version_key(version) >= (0,4,57):
+            import fix_psp_s1050
+            a, b = struct.unpack_from('<II', boot_new, BLOCK_TABLE + 4 * fix_psp_s1050.SCRIPT_INDEX)
+            assert 0 < (b-a)*0x800 <= fix_psp_s1050.CAPACITY, 's1050 exceeds its reserved script buffer'
+            boot_new = fix_psp_s1050.patch_boot(boot_new)
         repl['/PSP_GAME/PARAM.SFO'] = insert_text.patch_sfo(iso_read(iso, '/PSP_GAME/PARAM.SFO'))
         import redraw_banners                       # battle / status-effect banners, both copies
         static2_new = redraw_banners.patch(static2_new, 'STATIC2_ADD.BIN', os.path.join(build, 'banners.png'))

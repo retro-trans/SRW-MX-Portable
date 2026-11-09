@@ -40,7 +40,7 @@ def main(version='0.4.54'):
         footer='/PSP_GAME/USRDIR/OPWND.BIN' if p=='PSP' else '/SLPS_253.45;1'
         before={path:asset(old,path) for path in {static,unit,footer}}
         after=dict(before)
-        after[static]=banners.patch(after[static],p)[0]
+        after[static]=banners.patch(after[static],p,version=version)[0]
         after[unit]=names.patch(after[unit],p)[0]
         after[footer]=title_footer.patch(after[footer],p,version)[0]
         if p=='PSP':
@@ -77,7 +77,7 @@ def main(version='0.4.54'):
             expected_target_sha256=expected.hexdigest(),all_other_disc_bytes_preserved=True,
             all_file_layouts_preserved=True,changed_resources=sorted(after),
             campaign_commands_and_story_bytes_unchanged=True,branding_and_movies_unchanged=True)
-        result['checks'][p+'_captions']=banners.verify_iso(target,p)
+        result['checks'][p+'_captions']=banners.verify_iso(target,p,version=version)
         result['checks'][p+'_unit_name']=names.verify_iso(target,p)
         result['native_iso_footer_readback'][p]=title_footer.verify_iso(target,p,version)
         print(p,'public baseline preservation and current native readbacks pass',flush=True)

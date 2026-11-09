@@ -1178,6 +1178,22 @@ label uses **Black Selena III**. Historical drafts and evidence retain their
 original labels. Both native fonts render Selena narrower than either old
 variant, allowing all existing line breaks and allocation sizes to remain.
 
+## Gulfer speaker consistency and MP Great Mazinger — 2026-11-08
+
+Use **Gulfer Emperor** for both the full name and speaker label, matching
+the refreshed [Akurasu MX Mech List](https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List).
+The existing Gulfer faction decision remains in force. The Galfa Emperor
+speaker label came from an outdated short-name field; it is corrected along
+with current speaker inputs. Galfa spellings remain valid lookup aliases and
+historical reference notes, rather than alternate display names.
+
+Use **MP Great Mazinger** as the compact unit display name after the user
+reported the full name overlapping HP in Unit Stats. **MP** means
+**mass-produced**. This overrides the full Akurasu display label for UI fit;
+preserve numbered forms **(1)** through **(8)**. The full source term remains
+Mass-produced Great Mazinger. Base-name widths decrease from 193 to 120
+pixels on PSP and 300 to 187 on PS2.
+
 ## Short display name: HM Black Selena — 2026-11-08
 
 Use **HM Black Selena** for the high-maneuver unit. The user requested this

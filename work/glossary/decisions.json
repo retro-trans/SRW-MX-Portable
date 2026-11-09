@@ -20,7 +20,17 @@
   "火のブライスト": "Bryst of the Fires",
   "鉄甲龍": "Hau Dragon",
   "ハウドラゴン": "Hau Dragon",
-  "マグネイト・テン": "Magnet X"
+  "マグネイト・テン": "Magnet X",
+  "ガルファ皇帝": "Gulfer Emperor",
+  "量産型グレート": "MP Great Mazinger",
+  "量産型グレート（１）": "MP Great Mazinger (1)",
+  "量産型グレート（２）": "MP Great Mazinger (2)",
+  "量産型グレート（３）": "MP Great Mazinger (3)",
+  "量産型グレート（４）": "MP Great Mazinger (4)",
+  "量産型グレート（５）": "MP Great Mazinger (5)",
+  "量産型グレート（６）": "MP Great Mazinger (6)",
+  "量産型グレート（７）": "MP Great Mazinger (7)",
+  "量産型グレート（８）": "MP Great Mazinger (8)"
  },
  "no_text_fix": [
   "少林寺拳法"
@@ -42,7 +52,18 @@
   "MU": "Mu",
   "Folia Esto": "Folia Est",
   "Esto": "Est",
-  "High-maneuver Black Selena": "HM Black Selena"
+  "High-maneuver Black Selena": "HM Black Selena",
+  "Galfa Emperor": "Gulfer Emperor",
+  "Emperor Galfa": "Gulfer Emperor",
+  "Mass-produced Great Mazinger": "MP Great Mazinger",
+  "Mass-produced Great Mazinger (1)": "MP Great Mazinger (1)",
+  "Mass-produced Great Mazinger (2)": "MP Great Mazinger (2)",
+  "Mass-produced Great Mazinger (3)": "MP Great Mazinger (3)",
+  "Mass-produced Great Mazinger (4)": "MP Great Mazinger (4)",
+  "Mass-produced Great Mazinger (5)": "MP Great Mazinger (5)",
+  "Mass-produced Great Mazinger (6)": "MP Great Mazinger (6)",
+  "Mass-produced Great Mazinger (7)": "MP Great Mazinger (7)",
+  "Mass-produced Great Mazinger (8)": "MP Great Mazinger (8)"
  },
  "chapter_card_titles_0_4_2": {
   "冥府の王、その名は『天』": {
@@ -135,5 +156,7 @@
   "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Pilot_Database",
   "reason": "The editable hero unit name has a native 32-byte save field, so 16 full-width English glyphs plus NUL cannot fit. Akurasu Pilot Database and Units List use Cerberus Ignite (15 glyphs). Keep the Mech List spellings of the separate database G/S names; this override applies only to the editable default."
  },
- "hm_black_selena_reason": "User requested HM Black Selena on 2026-11-08 because the full name overlaps PP in Pilot Training. HM abbreviates High-maneuver. Supersedes the full form from the 2026-10-07 decision for display names; Black Selena spelling is retained. Overrides the Akurasu full-form label for UI fit."
+ "hm_black_selena_reason": "User requested HM Black Selena on 2026-11-08 because the full name overlaps PP in Pilot Training. HM abbreviates High-maneuver. Supersedes the full form from the 2026-10-07 decision for display names; Black Selena spelling is retained. Overrides the Akurasu full-form label for UI fit.",
+ "gulfer_speaker_reason": "Akurasu MX Mech List and the existing faction decision use Gulfer Emperor. Correct the stale Galfa Emperor short speaker alias as well as the full name; retain Galfa spellings only as lookup aliases or historical reference notes.",
+ "mp_great_mazinger_reason": "User reported the full unit name overlapping HP on 2026-11-08. Use MP Great Mazinger in display names and retain numbered variants (1)-(8). MP means mass-produced; this compact display overrides the full Akurasu label for UI fit."
 }

@@ -60,7 +60,7 @@ def main(version):
     for platform,prefix in [('PSP','SRWMX_EN_'),('PS2','SRWMX_PS2_EN_')]:
         battle_checks[platform]=verify_battle(ROOT/f'work/output/{prefix}{version}.iso',platform)
         save(ROOT/f'work/output/{platform.lower()}_battle_{version}_verification.json',battle_checks[platform])
-        banner_checks[platform]=verify_banners(ROOT/f'work/output/{prefix}{version}.iso',platform)
+        banner_checks[platform]=verify_banners(ROOT/f'work/output/{prefix}{version}.iso',platform,version=version)
     psp=read(ROOT/f'work/output/campaign_{version}_verification.json')
     ps2=read(ROOT/f'work/output/ps2_font_{version}_verification.json')
     native=read(ROOT/f'work/output/psp_native_{version}_execution.json')

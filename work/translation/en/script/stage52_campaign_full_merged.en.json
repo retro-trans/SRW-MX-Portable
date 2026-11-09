@@ -3182,13 +3182,13 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "...D...A...M...N... Y...O...U...",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
     "id": 42
    },
-   "notes": "Emperor damaged speech; insult fragmented phonemically, immutable Galfa Emperor prefill.",
+   "notes": "Emperor damaged speech; insult fragmented phonemically, canonical Gulfer Emperor speaker label.",
    "uncertain": []
   },
   {
@@ -3198,7 +3198,7 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "...D...A...M...N... Y...O...U...! H...U...M...A...N...S...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
@@ -3214,7 +3214,7 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "...D...A...M...N... Y...O...U... H...U...M...A...N...S...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
@@ -9136,7 +9136,7 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "I am king! King of this planet! King of the universe!",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
@@ -9184,7 +9184,7 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "Oooooooh...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",
@@ -9252,7 +9252,7 @@
    ],
    "kind": "dialogue",
    "speaker_jp": "ガルファ皇帝",
-   "speaker_en": "Galfa Emperor",
+   "speaker_en": "Gulfer Emperor",
    "en": "Wooooooh...!!",
    "translation_owner": {
     "source": "work/translation/en/script/stage52_campaign.json",

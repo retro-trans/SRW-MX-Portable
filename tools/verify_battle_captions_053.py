@@ -32,7 +32,7 @@ def main():
         target=read_iso(str(ROOT/f'work/output/{prefix}{VERSION}.iso'),[asset])[asset]
         expected,regions=patch(base,p,ROOT/f'work/ui/{p.lower()}/battle_banners_{VERSION}/reported_only',region_ids=screenshots)
         assert expected==target
-        assert all(r['already_translated'] for r in patch(target,p)[1]['regions'])
+        assert all(r['already_translated'] for r in patch(target,p,version=VERSION)[1]['regions'])
         for row in regions['regions']:
             entry=next(r for r in layout['regions'] if r['id']==row['id'])
             entry.update(english=row['english'],already_in_base=row['already_translated'])

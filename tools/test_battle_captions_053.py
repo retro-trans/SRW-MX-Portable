@@ -18,16 +18,16 @@ class Caption053Regression(unittest.TestCase):
     def test_only_new_caption_changes_and_twenty_earlier_captions_stay(self):
         for p,data in self.data.items():
             with self.subTest(platform=p):
-                updated,report=patch(data,p)
+                updated,report=patch(data,p,version='0.4.53')
                 self.assertEqual([r['id'] for r in report['regions'] if not r['already_translated']],[NEW])
                 self.assertEqual(sum(r['already_translated'] for r in report['regions']),20)
                 self.assertEqual(updated,patch(data,p,region_ids=[NEW])[0])
-                self.assertEqual(updated,patch(updated,p)[0])
+                self.assertEqual(updated,patch(updated,p,version='0.4.53')[0])
                 self.assertEqual(data,patch(data,p,region_ids=['sword_cut'])[0])
 
     def test_neighboring_cross_manager_outline_and_unit_labels_stay(self):
         for p,data in self.data.items():
-            updated,_=patch(data,p)
+            updated,_=patch(data,p,version='0.4.53')
             x,y,z,w=next(r['box'] for r in regions(p) if r['id']==NEW)
             width=SPECS[p]['size'][0];start=SPECS[p]['pixels']
             # The previous caption's black descenders extend onto y-1.

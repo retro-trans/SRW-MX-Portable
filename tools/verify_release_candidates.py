@@ -107,7 +107,7 @@ def main(version):
     for platform, path in paths.items():
         print('Auditing current native battle captions and all chapter cards:', platform, flush=True)
         result['checks'][platform+'_battle'] = verify_battle_release.verify(path, platform)
-        result['checks'][platform+'_banners'] = patch_battle_banners.verify_iso(path, platform)
+        result['checks'][platform+'_banners'] = patch_battle_banners.verify_iso(path, platform, version=version)
         raw = pack if platform == 'PS2' else assets(path, [patch_chapter_cards.ASSET])[patch_chapter_cards.ASSET]
         preview = audit/platform
         preview.mkdir(exist_ok=True)

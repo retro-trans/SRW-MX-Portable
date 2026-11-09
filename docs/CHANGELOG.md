@@ -1,5 +1,51 @@
 # Changelog
 
+## Public v0.4.58 — 2026-11-09
+
+- Shared PSP and PS2 release of the Team Attack caption and name corrections.
+  PSP also includes the Chapter 55 Outer Space load fix, replayed on the
+  supplied save in v0.4.57. See [release notes](releases/v0.4.58.md).
+
+## Local PSP / PS2 v0.4.58 — 2026-11-09 (Team Attack caption)
+
+- Translated the native Combination Attack battle caption as **Team Attack**
+  to match the menus. The full label fits the existing 88-pixel field on
+  both platforms. The native palette and adjacent captions are preserved.
+- PSP builds from v0.4.57 with the Chapter 55 fix. PS2 builds from v0.4.55.
+  Both use regenerated v0.4.58 title footers. The caption was checked in
+  the built ISOs. In-battle display remains to be tested.
+
+## Local PSP v0.4.57 — 2026-11-09 (Chapter 55 stage load)
+
+- Fixed the Outer Space stage load from the supplied Scene 10 save. Its
+  English script did not fit the remaining space in the native script pool.
+  The loader now has dedicated storage for this stage when its normal
+  allocation fails. Dialogue, map data and the save format are unchanged.
+- Nine native allocation and cleanup cases pass. The v0.4.57 title footer
+  is regenerated, and local v0.4.55 name corrections are retained.
+- Replayed the supplied save through the opening, scripted battle, deployment,
+  populated objectives and normal unit controls in isolated PPSSPP. The full
+  script matched the ISO through deployment, and the save was unchanged.
+- The v0.4.56 map-pool prototype was rejected: the opening played, but a
+  later battle resource read overwrote the script. Use v0.4.57 instead.
+
+## Local PSP / PS2 v0.4.55 — 2026-11-08 (name consistency and width)
+
+- Corrected the stale Galfa Emperor short-speaker alias to Gulfer Emperor,
+  matching the refreshed Akurasu MX Mech List and existing faction decision.
+  Thirteen labels in two native script blocks are corrected per platform;
+  two PSP / three PS2 lines rewrap to retain the native dialogue width limits.
+- Shortened Mass-produced Great Mazinger to MP Great Mazinger, including
+  all eight numbered forms. MP means mass-produced. The base label measures
+  120 pixels on PSP (previously 193) and 187 on PS2 (previously 300).
+- Updated current glossary, speaker sources and display-name inputs. All
+  script commands, unrelated strings, script-sector allocations and native
+  unit-name pointers are preserved. Four structural regression checks cover
+  all 203 command streams, word-preserving reflow and all nine short names.
+- Local .55 candidates build over public .54, retaining previous fixes and
+  regenerating exact native title footers. Fresh in-game confirmation remains
+  pending. No release requested for this build.
+
 ## Public v0.4.54 — 2026-11-08
 
 - Shared PSP/PS2 release of the local .48–.54 fixes: PSP upgrade-bonus

@@ -20,11 +20,11 @@ class Caption052Regression(unittest.TestCase):
     def test_preserves_all_sixteen_earlier_captions(self):
         for p,data in self.data.items():
             with self.subTest(platform=p):
-                updated,report=banners.patch(data,p)
+                updated,report=banners.patch(data,p,version='0.4.52')
                 self.assertEqual({r['id'] for r in report['regions'] if not r['already_translated']},NEW)
                 self.assertEqual(sum(r['already_translated'] for r in report['regions']),16)
                 self.assertEqual(updated,banners.patch(data,p,region_ids=NEW)[0])
-                self.assertEqual(updated,banners.patch(updated,p)[0])
+                self.assertEqual(updated,banners.patch(updated,p,version='0.4.52')[0])
                 self.assertTrue(report['palette_preserved'])
                 self.assertTrue(report['all_other_pixels_and_bytes_preserved'])
 
@@ -37,7 +37,7 @@ class Caption052Regression(unittest.TestCase):
 
     def test_preserves_beam_coat_combination_and_adjacent_status(self):
         for p,data in self.data.items():
-            updated,_=banners.patch(data,p)
+            updated,_=banners.patch(data,p,version='0.4.52')
             boxes=[(240,168,332,192),(124,208,224,232)]
             boxes+=([(0,256,8,280),(192,256,352,280),(472,256,488,280)] if p=='PSP'
                     else [(416,0,424,24),(608,0,768,24),(888,0,904,24)])

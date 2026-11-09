@@ -1,3 +1,58 @@
+# Local PSP v0.4.57 — Chapter 55 stage load (2026-11-09)
+
+User reported next-stage crash on latest public .54 and supplied
+`incoming/ULJS000410002`: PSP Scene 10, 55 clears. Next Map > Outer Space > Yes
+selects Chapter 55 Across Infinite Time (`s1050`, block 190). Actual public
+loader returned zero for 206,848 bytes with 199,360 contiguous bytes free.
+Local .55 shares that loader and exact stage script; its map had no script
+and blank objectives. The isolated .56 map-pool prototype restored the intro
+but a later 555,008-byte battle read overwrote the script and halted execution.
+The .56 image is superseded; its report is marked rejected for runtime use.
+
+PSP .57 builds over .55 and reserves a bounded stage buffer in the loaded
+executable. Only failed normal allocations for exact s1050 can use it;
+the cleanup hook skips that reserved address and frees normal pointers
+as before. All dialogue, map bytes, prior code outside the two call sites,
+and the save format stay unchanged. Nine native cases pass. Cold-booted the
+actual .57 ISO with exact native footer in isolated PPSSPP v1.20.4, PSP-1000
+profile, loaded a byte-identical save copy and replayed through the scripted
+battle, deployment, populated objectives and normal unit controls. Entire
+stage script matched the ISO after deployment; no execution fault. The
+incoming save and copy are unchanged. Owned test process is stopped.
+
+See `docs/psp_s1050_stage_load.md`,
+`work/output/psp_s1050_0.4.57_verification.json`,
+`work/output/psp_s1050_0.4.57_runtime.json`, and
+`work/ui/psp/s1050_0.4.57/`. Local .57 SHA256:
+`209b97840379be1b12afc28f0841382767aebb71cddbcac061c597012eaa85ef`.
+Public remains .54. No new release authorized.
+
+# Local PSP / PS2 v0.4.55 — names (2026-11-08)
+
+User asked Galfa/Gulfer and reported Mass-produced Great Mazinger overlapping
+HP in Unit Stats. Refreshed Akurasu MX Mech List confirms Gulfer Emperor.
+The full database name was already correct; glossary en_short still said
+Galfa Emperor and exported that stale speaker label. Both full/short glossary
+forms and the two current campaign source files now use Gulfer Emperor.
+Native script fixes: 13 labels in blocks 65/188 on each platform, with two
+PSP / three PS2 reflows that preserve wording and fit 352/528px dialogue
+limits. Existing sector spans suffice; every native command stays unchanged.
+`tools/name_consistency_055.py` also shortens nine Strg names: index 349 and
+528,530,...,542 -> MP Great Mazinger, preserving numbered suffixes. PSP name
+widths old/new/numbered: 193/120/143; PS2: 300/187/223. Existing pointers and
+terminated name allocations stay fixed. Current sources are updated via
+`update_inputs()`; affected script/library exports use strip_jp.clean.
+Four checks: `tools/test_name_consistency_055.py`. Build via
+`tools/build_battle_banners.py --base 0.4.54 --version 0.4.55 --artwork name_consistency`.
+Four structural checks pass; both full ISO hashes and actual native
+readbacks pass. Combined evidence:
+`work/output/name_consistency_0.4.55_verification.json`. Prior 21 captions,
+HM Black Selena and the PSP bonus correction are retained.
+Both native footers regenerate to exact .55. Per-platform name_consistency
+reports contain ISO hashes and native readbacks; UI report/layout is under
+`work/ui/name_consistency_0.4.55/`. No emulator operated; fresh in-game
+validation remains pending. Public remains .54; no .55 release authorized.
+
 # Public PSP / PS2 v0.4.54 — 2026-11-08
 
 Published at the user's explicit request:
