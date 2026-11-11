@@ -1,5 +1,9 @@
 # Changelog
 
+## Project credits — 2026-11-11
+
+- Credited **pow** as project lead and **Melfice** as playtester in the README.
+
 ## Public v0.9.0 — 2026-11-11
 
 - Shared PSP/PS2 release of the local .59–.61 changes: PSP New Game balance

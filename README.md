@@ -133,8 +133,9 @@ accompany the patch. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 | Role | Contributor |
 |---|---|
-| Project lead | Binh |
-| Translation, tooling and reverse engineering assistance | OpenAI Codex models, directed by Binh |
+| Project lead | pow |
+| Playtester | Melfice |
+| Translation, tooling and reverse engineering assistance | OpenAI Codex models, directed by pow |
 | Terminology reference | [Akurasu's MX wiki](https://akurasu.net/wiki/Super_Robot_Wars/MX) |
 | Patch packaging and verification | [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools) |
 | README and release layout | [SRW-Z](https://github.com/retro-trans/SRW-Z) |
