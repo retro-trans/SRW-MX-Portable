@@ -1,3 +1,27 @@
+# Public PSP / PS2 v0.9.0 — 2026-11-11
+
+Published [v0.9.0](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.9.0)
+at the user's request. PSP includes the New Game PS2 / PSP balance selector;
+both platforms include MP EVA and Funds/PP status spacing. All four bare
+xdelta patches reproduce the exact v0.9.0 target ISOs. Supported inputs are
+the Japanese originals and exact public v0.4.58 outputs; earlier public
+versions retain their catalog upgrade chains.
+
+Both native title footers were regenerated and read back from the ISOs.
+Native reward drawing and PSP balance/menu/serialization checks passed on
+the release binaries. PSP's executable is identical to the isolated PPSSPP
+v0.4.61 opening/controls test. Live gameplay save/reload of its balance
+setting, fresh in-game status-label display and physical hardware remain
+pending. The complete campaign has not been playtested.
+
+GitHub verified all 12 uploaded asset digests. The release tag points to
+`30c656d469a2fb9718285e9eea475d4dd2643d23`. The targeted
+[Retro Trans Tools catalog refresh](https://github.com/retro-trans/retro-trans-tools/actions/runs/42966688367)
+succeeded, and all 20 routes passed against both the API and default raw
+catalog feed. See `docs/releases/v0.9.0_publication.json` for asset hashes,
+target hashes and catalog evidence, and the release BUILD-TESTS file for
+current native checks and inherited validation.
+
 # Local PSP v0.4.61 — New Game balance selector (2026-11-11)
 
 User requested difficulty selection at the start of PSP. Implemented the
