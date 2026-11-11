@@ -1,5 +1,50 @@
 # Changelog
 
+## Public v0.9.0 — 2026-11-11
+
+- Shared PSP/PS2 release of the local .59–.61 changes: PSP New Game balance
+  selection, MP EVA display name and Funds/PP status spacing.
+- Regenerated both native title footers with v0.9.0 and the project credit.
+- Full Japanese-source patches and exact public v0.4.58 upgrades are bare
+  xdelta files with a shared Retro Trans Tools manifest and decoded checks.
+- See [release notes](releases/v0.9.0.md) for balance behavior and pending
+  gameplay save/reload and status-screen playtesting.
+
+## Romhacking screenshots — 2026-11-11
+
+- Resized all 11 images in `romhacking/` to 480 × 272 pixels.
+
+## Local PSP v0.4.61 — 2026-11-11
+
+- Added a balance selector after Finish Settings in New Game. Choose
+  **PS2 - Original** for the original shared-unit HP and funds rewards or
+  **PSP - Harder** for PSP values. PSP is selected by default.
+- Added save-tail persistence and restoration before unit loading. Older
+  saves without the extension select PSP balance.
+- Verified all 512 HP/reward records in both modes, native menu controls and
+  save serialization. Both choices reached the opening in isolated PPSSPP.
+  Live gameplay save/reload remains pending. See `docs/psp_difficulty.md`.
+
+## Project artwork — 2026-11-11
+
+- Created an SRW MX social preview matching the supplied navy-and-cream
+  reference, with PlayStation 2 / PSP labeling and the retro-trans credit.
+  The upload JPEG is 1774 by 887 pixels and 333,083 bytes.
+
+## Local PSP / PS2 v0.4.60 — 2026-11-10
+
+- Shortened the enemy status reward labels to **Funds** and **PP** to leave
+  room for the existing five-digit and three-digit value fields. Both builds
+  include the MP EVA name fix and regenerate their native title footers.
+
+## Local PSP / PS2 v0.4.59 — 2026-11-10
+
+- Shortened the shared Mass-produced EVA display name to **MP EVA** so it
+  fits before Lv on the status screen. The native glyph width drops from
+  127 to 54 pixels on PSP and from 193 to 80 on PS2.
+- Both candidates build from public v0.4.58 and regenerate their native
+  title footers. Story dialogue and the canonical full name are retained.
+
 ## Public v0.4.58 — 2026-11-09
 
 - Shared PSP and PS2 release of the Team Attack caption and name corrections.

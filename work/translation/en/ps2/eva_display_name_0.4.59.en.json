@@ -1,0 +1,335 @@
+{
+  "version": "0.4.59",
+  "base_version": "0.4.58",
+  "platform": "PS2",
+  "source_sha256": "7978a43b76ed2561d3f5a1f0ba85bb6c24a4d4b2adc36f618476b74f4cf29c31",
+  "output": "work/output/SRWMX_PS2_EN_0.4.59.iso",
+  "output_sha256": "b7040f289b1df3d28e19a4ba4dd0dcc3a844603766caa05ce2f14ca2772dfcfa",
+  "bytes": 4678762496,
+  "artwork_kind": "eva_display_name",
+  "footer": {
+    "version": "0.4.59",
+    "credit": "github.com/retro-trans",
+    "asset": "/SLPS_253.45;1",
+    "mechanism": "Native title draw callback",
+    "block_offset": 4793728,
+    "block_va": "0x7d9580",
+    "block_bytes": 1536,
+    "hook_va": "0x2c1e28",
+    "renderer_va": "0x7d9680",
+    "private_context_va": "0x7d9620",
+    "private_context_bytes": 96,
+    "font_size": 16,
+    "right_edge": 626,
+    "line_y": [
+      250,
+      268
+    ],
+    "byte_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "footer_strings": [
+      "v0.4.59",
+      "github.com/retro-trans"
+    ],
+    "pixel_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "source_resource_sha256": "0a967087a0f11f20ae059c127048d6e570005bc93147c1158c1df09948ab43d6",
+    "target_resource_sha256": "a6b53c32b49ec8348663f33b8b68bfa58753d9e0e12cb90bdfac775cd9bb51b0",
+    "disc_extent": 4673933312,
+    "readback": {
+      "version": "0.4.59",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "a6b53c32b49ec8348663f33b8b68bfa58753d9e0e12cb90bdfac775cd9bb51b0",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.59",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "artwork_readback": {
+    "platform": "PS2",
+    "entry": 435,
+    "pilot_ids": [
+      49,
+      430
+    ],
+    "unit_ids": [
+      214,
+      337
+    ],
+    "regions": [
+      {
+        "id": "mp_eva",
+        "english": "MP EVA",
+        "text": "MP EVA",
+        "old_name": "Mass-produced EVA",
+        "already_translated": true,
+        "offset": "0x38b83",
+        "old_width": 193,
+        "new_width": 80
+      }
+    ],
+    "byte_ranges": [
+      [
+        232323,
+        232358
+      ]
+    ],
+    "native_pointers_preserved": true,
+    "source_resource_sha256": "4bc007b8604404ae09631363fe8b3f7703b22f54040149ff8ee61cecaaad8d6d",
+    "target_resource_sha256": "4bc007b8604404ae09631363fe8b3f7703b22f54040149ff8ee61cecaaad8d6d"
+  },
+  "files": [
+    {
+      "path": "/DATA/BATTLE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAPH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FACEPACK.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FIX00.DAT;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/DATA/ICO/MX0.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX1.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/IM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PACKMAPC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUI.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUIH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STAGE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STATIC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STRM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DUMMY.;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/CDVDSTM.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/HELLO.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/IOPRP270.IMG;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/LIBSD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCSERV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODDELAY.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODMIDI.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYCDVD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYSND.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/PADMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SDRDRV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SIO2MAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/SLPS_253.45;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/SYSTEM.CNF;1",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {
+    "/DATA/FIX00.DAT;1": true,
+    "/SLPS_253.45;1": true
+  },
+  "complete_output_hash_verified": true,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "iso_artwork_readback_verified": true,
+  "visual_validation": "Actual ISO artwork previews pass; fresh in-game display pending",
+  "local_build_only": true,
+  "github_release": false,
+  "eva_display_name": {
+    "platform": "PS2",
+    "entry": 435,
+    "pilot_ids": [
+      49,
+      430
+    ],
+    "unit_ids": [
+      214,
+      337
+    ],
+    "regions": [
+      {
+        "id": "mp_eva",
+        "english": "MP EVA",
+        "text": "MP EVA",
+        "old_name": "Mass-produced EVA",
+        "already_translated": false,
+        "offset": "0x38b83",
+        "old_width": 193,
+        "new_width": 80
+      }
+    ],
+    "byte_ranges": [
+      [
+        232323,
+        232358
+      ]
+    ],
+    "native_pointers_preserved": true,
+    "source_resource_sha256": "a56c4713c3f7b35772f089af77ea796c8f89ffad97123c8e47126dc479f08be4",
+    "target_resource_sha256": "4bc007b8604404ae09631363fe8b3f7703b22f54040149ff8ee61cecaaad8d6d"
+  },
+  "iso_eva_display_name_verified": true
+}

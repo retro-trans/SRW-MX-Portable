@@ -1,0 +1,334 @@
+{
+  "version": "0.4.60",
+  "base_version": "0.4.59",
+  "platform": "PS2",
+  "source_sha256": "b7040f289b1df3d28e19a4ba4dd0dcc3a844603766caa05ce2f14ca2772dfcfa",
+  "output": "work/output/SRWMX_PS2_EN_0.4.60.iso",
+  "output_sha256": "91aa9624f86ab7cef84a4cd56744b45ebf521e151734048e1369be642a776b16",
+  "bytes": 4678762496,
+  "artwork_kind": "status_rewards",
+  "footer": {
+    "version": "0.4.60",
+    "credit": "github.com/retro-trans",
+    "asset": "/SLPS_253.45;1",
+    "mechanism": "Native title draw callback",
+    "block_offset": 4793728,
+    "block_va": "0x7d9580",
+    "block_bytes": 1536,
+    "hook_va": "0x2c1e28",
+    "renderer_va": "0x7d9680",
+    "private_context_va": "0x7d9620",
+    "private_context_bytes": 96,
+    "font_size": 16,
+    "right_edge": 626,
+    "line_y": [
+      250,
+      268
+    ],
+    "byte_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "footer_strings": [
+      "v0.4.60",
+      "github.com/retro-trans"
+    ],
+    "pixel_ranges": [
+      [
+        1846824,
+        1846828
+      ],
+      [
+        4793728,
+        4795264
+      ]
+    ],
+    "source_resource_sha256": "63283f892bb43c9f8e2b10020ee0f33e920c09048ba1233c122ac14dfd0e7f45",
+    "target_resource_sha256": "fc27863b6293179a189b291fd417fa05f9bdedf73a183bc7d6b286cfa14c3bbd",
+    "disc_extent": 4673933312,
+    "readback": {
+      "version": "0.4.60",
+      "credit": "github.com/retro-trans",
+      "actual_iso_footer_verified": true,
+      "resource_sha256": "fc27863b6293179a189b291fd417fa05f9bdedf73a183bc7d6b286cfa14c3bbd",
+      "renderer_va": "0x7d9680",
+      "block_va": "0x7d9580",
+      "block_offset": 4793728,
+      "native_title_hook_verified": true,
+      "footer_strings": [
+        "v0.4.60",
+        "github.com/retro-trans"
+      ]
+    }
+  },
+  "artwork_readback": {
+    "platform": "PS2",
+    "regions": [
+      {
+        "english": "Funds",
+        "old_label": "Funds Gained",
+        "x": 302,
+        "y": 362,
+        "offset": "0x432a43",
+        "already_translated": true
+      },
+      {
+        "english": "PP",
+        "old_label": "PP Gained",
+        "x": 464,
+        "y": 362,
+        "offset": "0x432a5c",
+        "already_translated": true
+      }
+    ],
+    "byte_ranges": [
+      [
+        4401731,
+        4401756
+      ],
+      [
+        4401756,
+        4401775
+      ]
+    ],
+    "source_resource_sha256": "fc27863b6293179a189b291fd417fa05f9bdedf73a183bc7d6b286cfa14c3bbd",
+    "target_resource_sha256": "fc27863b6293179a189b291fd417fa05f9bdedf73a183bc7d6b286cfa14c3bbd"
+  },
+  "files": [
+    {
+      "path": "/DATA/BATTLE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/D2MAPH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FACEPACK.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/FIX00.DAT;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX0.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/ICO/MX1.ICO;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/IM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/MAP.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PACKMAPC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUI.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/PKUIH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/SNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STAGE.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STATIC.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/STRM.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WND.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DATA/WNDH.BIN;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/DUMMY.;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/CDVDSTM.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/HELLO.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/IOPRP270.IMG;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/LIBSD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MCSERV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODDELAY.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/MODMIDI.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYCDVD.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYHSYN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/NGYSND.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/PADMAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SDRDRV.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/IRX/SIO2MAN.IRX;1",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/SLPS_253.45;1",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/SYSTEM.CNF;1",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {
+    "/SLPS_253.45;1": true
+  },
+  "complete_output_hash_verified": true,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "iso_artwork_readback_verified": true,
+  "visual_validation": "Actual ISO artwork previews pass; fresh in-game display pending",
+  "local_build_only": true,
+  "github_release": false,
+  "status_rewards": {
+    "platform": "PS2",
+    "regions": [
+      {
+        "english": "Funds",
+        "old_label": "Funds Gained",
+        "x": 302,
+        "y": 362,
+        "offset": "0x432a43",
+        "already_translated": false
+      },
+      {
+        "english": "PP",
+        "old_label": "PP Gained",
+        "x": 464,
+        "y": 362,
+        "offset": "0x432a5c",
+        "already_translated": false
+      }
+    ],
+    "byte_ranges": [
+      [
+        4401731,
+        4401756
+      ],
+      [
+        4401756,
+        4401775
+      ]
+    ],
+    "source_resource_sha256": "a6b53c32b49ec8348663f33b8b68bfa58753d9e0e12cb90bdfac775cd9bb51b0",
+    "target_resource_sha256": "63283f892bb43c9f8e2b10020ee0f33e920c09048ba1233c122ac14dfd0e7f45"
+  },
+  "iso_status_rewards_verified": true
+}

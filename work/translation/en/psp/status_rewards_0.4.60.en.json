@@ -1,0 +1,310 @@
+{
+  "version": "0.4.60",
+  "base_version": "0.4.59",
+  "platform": "PSP",
+  "source_sha256": "4f25877e291ae9a8053c1c5cc0d117580b8fbd07515db0daade0212112bcae47",
+  "output": "work/output/SRWMX_EN_0.4.60.iso",
+  "output_sha256": "03e6baf4c62f1a332db96b2228d3cf5b4bea5947f429fdb25e90ecef4f5d8811",
+  "bytes": 1353797632,
+  "artwork_kind": "status_rewards",
+  "footer": {
+    "platform": "PSP",
+    "version": "0.4.60",
+    "credit": "github.com/retro-trans",
+    "asset": "/PSP_GAME/USRDIR/OPWND.BIN",
+    "palette_offset": "0x2d3b40",
+    "atlas_size": [
+      512,
+      256
+    ],
+    "visible_width": 480,
+    "box": [
+      243,
+      133,
+      417,
+      173
+    ],
+    "font": "Genei LateGo v2 Medium",
+    "font_size": 14,
+    "panel": false,
+    "lines": [
+      {
+        "text": "v0.4.60",
+        "bounds": [
+          366.0,
+          140.0,
+          417,
+          153
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "bounds": [
+          262.25,
+          155.5,
+          417,
+          173
+        ]
+      }
+    ],
+    "pixel_ranges": [
+      [
+        2965312,
+        3096384
+      ]
+    ],
+    "source_region_sha256": "8b72ea610011f85681f783c310cc50fb64bd530533ec92636c3562185eb5d6e1",
+    "target_region_sha256": "a9022848c3f03850e260d901c94c21570ce6fbb5e403e34bd854d2dc859d13cc",
+    "palette_sha256": "33c0e1086cfb18254f6d24ba3116dc66bb0680129e2e6b35fde5d4bf2eff22a5",
+    "source_resource_sha256": "fe4aa8332a0cab14a4271cf79f1a892f8b34bb78af9f0baf6d552a5d6212aea7",
+    "target_resource_sha256": "0d788315e99db37f5130df0f445990b52d9a42adf33fa2b621217981d0b1c2b2",
+    "palette_preserved": true,
+    "old_upper_left_panel_removed": true,
+    "english_logo": true,
+    "all_other_pixels_and_data_preserved": true,
+    "disc_extent": 822740992,
+    "readback": {
+      "version": "0.4.60",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "0d788315e99db37f5130df0f445990b52d9a42adf33fa2b621217981d0b1c2b2"
+    }
+  },
+  "artwork_readback": {
+    "platform": "PSP",
+    "regions": [
+      {
+        "english": "Funds",
+        "old_label": "Funds Gained",
+        "x": 12,
+        "y": 54,
+        "offset": "0x63ac20",
+        "already_translated": true
+      },
+      {
+        "english": "PP",
+        "old_label": "PP Gained",
+        "x": 143,
+        "y": 54,
+        "offset": "0x63ac3c",
+        "already_translated": true
+      }
+    ],
+    "byte_ranges": [
+      [
+        6532128,
+        6532153
+      ],
+      [
+        6532156,
+        6532175
+      ]
+    ],
+    "source_resource_sha256": "ccdf90a683d0c150acc98cb9768a274b66ddf3e46b7eec0ad6c866c8e76baed3",
+    "target_resource_sha256": "ccdf90a683d0c150acc98cb9768a274b66ddf3e46b7eec0ad6c866c8e76baed3"
+  },
+  "files": [
+    {
+      "path": "/PSP_GAME/ICON0.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PIC1.PNG",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SND0.AT3",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/BOOT.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/EBOOT.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/PARAM.SFO",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BATTLE2.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/D2MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/FACEPACK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/IM_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MAP_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/AUDIOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/LIBATRAC3PLUS.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEG.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEGBASE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/SC_SASCORE.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/VIDEOCODEC.PRX",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MOVIE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/OPWND.BIN",
+      "layout_preserved": true,
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/PACKMAPC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SAVE.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SFACEPAK_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSQ.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSTRM.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/STATIC2_ADD.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WND.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WNDH.BIN",
+      "layout_preserved": true,
+      "changed": false
+    },
+    {
+      "path": "/UMD_DATA.BIN",
+      "layout_preserved": true,
+      "changed": false
+    }
+  ],
+  "udf_readback": {},
+  "complete_output_hash_verified": true,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "iso_artwork_readback_verified": true,
+  "visual_validation": "Actual ISO artwork previews pass; fresh in-game display pending",
+  "local_build_only": true,
+  "github_release": false,
+  "status_rewards": {
+    "platform": "PSP",
+    "regions": [
+      {
+        "english": "Funds",
+        "old_label": "Funds Gained",
+        "x": 12,
+        "y": 54,
+        "offset": "0x63ac20",
+        "already_translated": false
+      },
+      {
+        "english": "PP",
+        "old_label": "PP Gained",
+        "x": 143,
+        "y": 54,
+        "offset": "0x63ac3c",
+        "already_translated": false
+      }
+    ],
+    "byte_ranges": [
+      [
+        6532128,
+        6532153
+      ],
+      [
+        6532156,
+        6532175
+      ]
+    ],
+    "source_resource_sha256": "ff1da2e9155f0e088dc94d90885d922370a3840adc0bf13b16aec8683d13a110",
+    "target_resource_sha256": "ccdf90a683d0c150acc98cb9768a274b66ddf3e46b7eec0ad6c866c8e76baed3"
+  },
+  "iso_status_rewards_verified": true
+}

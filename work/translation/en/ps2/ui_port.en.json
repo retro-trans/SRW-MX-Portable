@@ -1521,13 +1521,13 @@
     {
       "source": "0x49a2b0",
       "source_sha256": "4aea79e891e9681226e4ca36caff5df5b9858be52217eff804f840732770dfda",
-      "english": "Funds Gained",
+      "english": "Funds",
       "target": "0x779a43"
     },
     {
       "source": "0x49a2c0",
       "source_sha256": "4907c6852bf001af4d324b09a149bcbb9d9705d2039a579e8827ec77686b8c4f",
-      "english": "PP Gained",
+      "english": "PP",
       "target": "0x779a5c"
     },
     {

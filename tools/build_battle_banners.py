@@ -16,9 +16,11 @@ from patch_at_field import ROOT, sha
 from patch_battle_banners import patch as patch_banners, verify_iso as verify_banners
 from build_title_footer import save
 
+KINDS = ('battle_banners','sortie_header','unit_name','name_consistency','eva_display_name','status_rewards')
+
 
 def build(platform, base, version, artwork='battle_banners'):
-    assert artwork in ('battle_banners','sortie_header','unit_name','name_consistency')
+    assert artwork in KINDS
     patch = partial(patch_banners, version=version)
     verify_artwork = partial(verify_banners, version=version)
     if artwork == 'sortie_header':
@@ -27,6 +29,10 @@ def build(platform, base, version, artwork='battle_banners'):
         from shorten_hm_black_selena import patch, verify_iso as verify_artwork
     if artwork == 'name_consistency':
         from name_consistency_055 import patch, verify_iso as verify_artwork
+    if artwork == 'eva_display_name':
+        from patch_eva_display_name import patch, verify_iso as verify_artwork
+    if artwork == 'status_rewards':
+        from patch_status_rewards import ASSETS as reward_assets, PSP_EBOOT, patch, verify_iso as verify_artwork
     assert title_footer.version_key(version) > title_footer.version_key(base)
     prefix = 'SRWMX_EN_' if platform == 'PSP' else 'SRWMX_PS2_EN_'
     source = ROOT/f'work/output/{prefix}{base}.iso'
@@ -54,6 +60,10 @@ def build(platform, base, version, artwork='battle_banners'):
             report_path=ROOT/f'work/output/{platform.lower()}_name_consistency_{base}_verification.json'
         if not report_path.exists() and platform=='PSP':
             report_path=ROOT/f'work/output/psp_s1050_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_eva_display_name_{base}_verification.json'
+        if not report_path.exists():
+            report_path=ROOT/f'work/output/{platform.lower()}_status_rewards_{base}_verification.json'
         prior=json.loads(report_path.read_text(encoding='utf-8'))
         assert prior['version']==base and prior['platform']==platform
         assert not prior.get('rejected_for_runtime'), 'Baseline was rejected in live testing'
@@ -63,8 +73,10 @@ def build(platform, base, version, artwork='battle_banners'):
     path = '/PSP_GAME/USRDIR/STATIC2_ADD.BIN' if platform == 'PSP' else '/DATA/STATIC.BIN;1'
     if artwork == 'sortie_header':
         path = '/PSP_GAME/USRDIR/WND.BIN' if platform == 'PSP' else '/DATA/WND.BIN;1'
-    if artwork in ('unit_name','name_consistency') and platform == 'PS2':
+    if artwork in ('unit_name','name_consistency','eva_display_name') and platform == 'PS2':
         path = '/DATA/FIX00.DAT;1'
+    if artwork == 'status_rewards':
+        path = reward_assets[platform]
     footer_path = '/PSP_GAME/USRDIR/OPWND.BIN' if platform == 'PSP' else '/SLPS_253.45;1'
     iso = pycdlib.PyCdlib()
     iso.open(str(source))
@@ -75,7 +87,7 @@ def build(platform, base, version, artwork='battle_banners'):
     ui = ROOT/f'work/ui/{platform.lower()}/{artwork}_{version}'
     changed, evidence = patch(original, platform, ui)
     assert patch(changed, platform)[0] == changed
-    assert any(not r['already_translated'] for r in evidence['regions']), 'No new caption artwork to translate'
+    assert any(not r['already_translated'] for r in evidence['regions']), 'No new changes to apply'
     with iso.open_file_from_iso(iso_path=footer_path) as f:
         original_footer = f.read()
     # Output reports can be cleaned independently of immutable ISOs. Restore
@@ -86,12 +98,20 @@ def build(platform, base, version, artwork='battle_banners'):
         save(footer_registration, dict(version=base, platform=platform,
              restored_from_verified_iso=True, footer=dict(readback=baseline_footer,
              target_region_sha256=sha(title_footer.region(original_footer, platform, base)))))
-    new_footer, footer = title_footer.patch(original_footer, platform, version)
+    new_footer, footer = title_footer.patch(changed if path == footer_path else original_footer, platform, version)
     assert len(new_footer) == len(original_footer)
     assert title_footer.patch(new_footer, platform, version)[0] == new_footer
     footer['disc_extent'] = layouts[footer_path][0]*2048
-    resources = {path: (original, changed, evidence.get('pixel_ranges') or evidence['byte_ranges']),
-                 footer_path: (original_footer, new_footer, footer['pixel_ranges'])}
+    spans = evidence.get('pixel_ranges') or evidence['byte_ranges']
+    resources = {path: (original, changed, spans)}
+    if path == footer_path:
+        resources[path] = (original, new_footer, spans + footer['pixel_ranges'])
+    else:
+        resources[footer_path] = (original_footer, new_footer, footer['pixel_ranges'])
+    if artwork == 'status_rewards' and platform == 'PSP':
+        with iso.open_file_from_iso(iso_path=PSP_EBOOT) as f:
+            assert f.read() == original
+        resources[PSP_EBOOT] = resources[path]
     if artwork == 'name_consistency':
         from name_consistency_055 import patch_story, ASSETS
         _,elf_path,map_path=ASSETS[platform]
@@ -107,12 +127,12 @@ def build(platform, base, version, artwork='battle_banners'):
         extent = layouts[asset][0]*2048
         for start, end in spans:
             edits.append((extent+start, old[start:end], new[start:end]))
-    edits.sort()
+    edits = sorted(set(edits))  # BOOT and EBOOT can share one physical extent.
     assert all(a[0]+len(a[1]) <= b[0] for a, b in zip(edits, edits[1:]))
     iso.close()
     source_hash, expected_hash = hashlib.sha256(), hashlib.sha256()
     position = 0
-    print(platform, 'copying verified baseline with registered caption rectangles and new footer', flush=True)
+    print(platform, 'copying verified baseline with registered changes and new footer', flush=True)
     with source.open('rb') as src, target.open('xb') as dst:
         while raw := src.read(8*1024*1024):
             source_hash.update(raw)
@@ -180,8 +200,8 @@ def build(platform, base, version, artwork='battle_banners'):
                   idempotence_verified=True, iso_artwork_readback_verified=True,
                   visual_validation='Actual ISO artwork previews pass; fresh in-game display pending',
                   local_build_only=True, github_release=False)
-    report[{'battle_banners':'banner_artwork','sortie_header':'header_artwork','unit_name':'unit_name','name_consistency':'name_consistency'}[artwork]]=evidence
-    report[{'battle_banners':'iso_caption_readback_verified','sortie_header':'iso_header_readback_verified','unit_name':'iso_unit_name_readback_verified','name_consistency':'iso_name_consistency_verified'}[artwork]]=True
+    report[{'battle_banners':'banner_artwork','sortie_header':'header_artwork'}.get(artwork,artwork)]=evidence
+    report[{'battle_banners':'iso_caption_readback_verified','sortie_header':'iso_header_readback_verified','unit_name':'iso_unit_name_readback_verified'}.get(artwork,f'iso_{artwork}_verified')]=True
     if artwork=='battle_banners':report['caption_readback']=artwork_readback
     save(ROOT/f'work/output/{platform.lower()}_{artwork}_{version}_verification.json', report)
     save(ROOT/f'work/translation/en/{platform.lower()}/{artwork}_{version}.en.json', report)
@@ -219,7 +239,7 @@ if __name__ == '__main__':
     parser.add_argument('--base', default='0.4.33')
     parser.add_argument('--version', default='0.4.34')
     parser.add_argument('--platform', choices=['PSP', 'PS2'])
-    parser.add_argument('--artwork', choices=['battle_banners','sortie_header','unit_name','name_consistency'], default='battle_banners')
+    parser.add_argument('--artwork', choices=KINDS, default='battle_banners')
     args = parser.parse_args()
     for platform in ([args.platform] if args.platform else ['PSP', 'PS2']):
         build(platform, args.base, args.version, args.artwork)

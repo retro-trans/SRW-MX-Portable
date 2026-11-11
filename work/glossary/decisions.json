@@ -158,5 +158,12 @@
  },
  "hm_black_selena_reason": "User requested HM Black Selena on 2026-11-08 because the full name overlaps PP in Pilot Training. HM abbreviates High-maneuver. Supersedes the full form from the 2026-10-07 decision for display names; Black Selena spelling is retained. Overrides the Akurasu full-form label for UI fit.",
  "gulfer_speaker_reason": "Akurasu MX Mech List and the existing faction decision use Gulfer Emperor. Correct the stale Galfa Emperor short speaker alias as well as the full name; retain Galfa spellings only as lookup aliases or historical reference notes.",
- "mp_great_mazinger_reason": "User reported the full unit name overlapping HP on 2026-11-08. Use MP Great Mazinger in display names and retain numbered variants (1)-(8). MP means mass-produced; this compact display overrides the full Akurasu label for UI fit."
+ "mp_great_mazinger_reason": "User reported the full unit name overlapping HP on 2026-11-08. Use MP Great Mazinger in display names and retain numbered variants (1)-(8). MP means mass-produced; this compact display overrides the full Akurasu label for UI fit.",
+ "mp_eva_display": {
+  "date": "2026-11-10",
+  "jp": "ＥＶＡ量産機",
+  "en": "MP EVA",
+  "source": "https://akurasu.net/wiki/Super_Robot_Wars/MX/Mech_List",
+  "reason": "Use MP EVA in the shared pilot and unit display-name entry to leave room for Lv on the status screen. MP means mass-produced. Retain Mass-produced EVA for the canonical term and dialogue."
+ }
 }

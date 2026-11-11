@@ -1,0 +1,238 @@
+{
+  "version": "0.9.0",
+  "base_version": "0.4.61",
+  "platform": "PSP",
+  "footer": {
+    "platform": "PSP",
+    "version": "0.9.0",
+    "credit": "github.com/retro-trans",
+    "asset": "/PSP_GAME/USRDIR/OPWND.BIN",
+    "palette_offset": "0x2d3b40",
+    "atlas_size": [
+      512,
+      256
+    ],
+    "visible_width": 480,
+    "box": [
+      243,
+      133,
+      417,
+      173
+    ],
+    "font": "Genei LateGo v2 Medium",
+    "font_size": 14,
+    "panel": false,
+    "lines": [
+      {
+        "text": "v0.9.0",
+        "bounds": [
+          374.5,
+          140.0,
+          417,
+          153
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "bounds": [
+          262.25,
+          155.5,
+          417,
+          173
+        ]
+      }
+    ],
+    "pixel_ranges": [
+      [
+        2965312,
+        3096384
+      ]
+    ],
+    "source_region_sha256": "05b3e5f8badc232dd3318d72292bae37997f476953ab1a9a4c68b1b9b054f53d",
+    "target_region_sha256": "65297182cb8e1357feea25c8fc5a100f5f9b4ad47ca2acab04bb6dd23c2d9e14",
+    "palette_sha256": "33c0e1086cfb18254f6d24ba3116dc66bb0680129e2e6b35fde5d4bf2eff22a5",
+    "source_resource_sha256": "4e973ee53660032c7fada62c4107536569125411d2fb1e76b2d9f28fafc68581",
+    "target_resource_sha256": "be9b829386f3f7d2ab6dcb03a965b2808a2f472ddd81374e845986af19677b65",
+    "palette_preserved": true,
+    "old_upper_left_panel_removed": true,
+    "english_logo": true,
+    "all_other_pixels_and_data_preserved": true,
+    "readback": {
+      "version": "0.9.0",
+      "credit": "github.com/retro-trans",
+      "actual_iso_pixels_verified": true,
+      "resource_sha256": "be9b829386f3f7d2ab6dcb03a965b2808a2f472ddd81374e845986af19677b65"
+    },
+    "disc_extent": 822740992
+  },
+  "files": [
+    {
+      "path": "/UMD_DATA.BIN",
+      "sha256": "c5521e214f8b3fd140550700f62501fa13bb737662230213f225ce62a3995db1",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SND0.AT3",
+      "sha256": "5afaf0d5845b320d0e7b0ffe15512deb7c181b0419d8a5909a093e526d4a669a",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PIC1.PNG",
+      "sha256": "97ff1ae5f5331b80f94aa3f33421eed7442471461536e9618dcb3927926c98e9",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/PARAM.SFO",
+      "sha256": "53df58ee6043ef2b2d91e2f0c6291d37344533bd86e5e1c0c7b2cf4135d6f33f",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/ICON0.PNG",
+      "sha256": "c5338d39d3ede0a754397ab43960e19ba9ca7bd94cb45259bfd3cd79c12fc61c",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/EBOOT.BIN",
+      "sha256": "f813841bfa61806d6d56e983ddf466f223d0f27f770dc928be4b0bd2e93ec213",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/BOOT.BIN",
+      "sha256": "f813841bfa61806d6d56e983ddf466f223d0f27f770dc928be4b0bd2e93ec213",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/PARAM.SFO",
+      "sha256": "cdfa61702255b65fca7536bda960345560e99a79104f7e872867fd046dd24b68",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/EBOOT.BIN",
+      "sha256": "7ab24eef899c192a68599c8074e5bbba71db9452a7b043ac4e6b2eb4e42673a2",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/SYSDIR/UPDATE/DATA.BIN",
+      "sha256": "005c57d90feb5c615eb92c079dc552f52b54c45c5b2e54e6c01f89e25b3785d4",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WNDH.BIN",
+      "sha256": "a9f71ed7998a4341bf56e306518dafa10c91b04a9ae1c2e39e914b02233fb4dc",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/WND.BIN",
+      "sha256": "a4a4abee35e0c45f7a516e6e1d4669f779f166e0ceed1a6fcd2e638a171fccf4",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/STATIC2_ADD.BIN",
+      "sha256": "8ff250d0dda0b3a2d83051183c2f1e47b3e8260e3c689fc45ab7c2ff92a7e966",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSTRM.BIN",
+      "sha256": "80bea335590674f1f03d45ca0eef4a480980f0b8c20bf468f2506957e70abfa1",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SNDSQ.BIN",
+      "sha256": "4fe127e3ccc1ef8e32426b7d0416872862cdb3b5b7356a20b24d89d916884ad0",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SFACEPAK_ADD.BIN",
+      "sha256": "b275dc6d2f87e613fed9306a72a0155d90ff4c88cb326b083cb69858bfb36ed8",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/SAVE.BIN",
+      "sha256": "cfbcea03d1025ce6fffae449f1c08bb188ff5600f9fd86dc5d6cadd84baa13e7",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/PACKMAPC2_ADD.BIN",
+      "sha256": "9cd95eaa42a898b4fd0f0065bd2015b83a97faa26100c1ca433a39935182d1ea",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/OPWND.BIN",
+      "sha256": "be9b829386f3f7d2ab6dcb03a965b2808a2f472ddd81374e845986af19677b65",
+      "changed": true
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MOVIE.BIN",
+      "sha256": "e697249b6c22e6590732b9fbb5bc6f7ebb9425501ec913deefeb48eccadf386b",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MAP_ADD.BIN",
+      "sha256": "1590aff44f46ea0a80b51d4c7f74ac4f781576b9d971f2b90ceb4bdfa6256711",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/IM_ADD.BIN",
+      "sha256": "cef210974a7d9cfc94d30fe888ec2214476c294394ecc9f5960d22c7ae0351d9",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/FACEPACK_ADD.BIN",
+      "sha256": "313b53ac1ecd371d6dbfefc79c15d7f85c411ec55e62fe3205740c9b185fcc16",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/D2MAP_ADD.BIN",
+      "sha256": "3227f6ba57218de73bcd5b0ffe4d8d6df87a0df1306008bdf4466e851dd01116",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BFACEPAK_ADD.BIN",
+      "sha256": "1acf8164e2ea0cba75815d862a8d1f27024874a64aecb03c72edc10ee8bf1094",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/BATTLE2.BIN",
+      "sha256": "617b68096515fe918bd18bb723762549889496724e292df1d6a68a101897baca",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/VIDEOCODEC.PRX",
+      "sha256": "ff5c874acfcdc050622c82d8e65e14df28c575c2b41f06ac9b2565d76c498cc4",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/SC_SASCORE.PRX",
+      "sha256": "8b0d7b4080f723ca39ca96eab1093b543fad425bce88a5e06ffb3f3ef31f3fce",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEGBASE.PRX",
+      "sha256": "63215718461bff73f27a1cc48bd29e287f51b93a29d0efe9381374206fa19e3d",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/MPEG.PRX",
+      "sha256": "363dc3c0e309195d24b38aa43bc6299108290747a7989cb7c8cdd0624025c514",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/LIBATRAC3PLUS.PRX",
+      "sha256": "f5102cb6c52429ef9791647bf639833360ace5c89e67f526de0b065953afdc89",
+      "changed": false
+    },
+    {
+      "path": "/PSP_GAME/USRDIR/MODULE/AUDIOCODEC.PRX",
+      "sha256": "01b1fb6c46a69cdb6e849284c601357420b137942fa4ce44896464fd28d3b920",
+      "changed": false
+    }
+  ],
+  "output": "work/output/SRWMX_EN_0.9.0.iso",
+  "output_sha256": "532557326d91155e4bf15fa48b65be47b9d68f4b0f110bbec2cf6ab62a817da7",
+  "bytes": 1367922688,
+  "all_other_disc_bytes_preserved": true,
+  "idempotence_verified": true,
+  "in_game_visual_validation": "pending",
+  "local_build_only": true,
+  "github_release": false
+}

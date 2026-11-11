@@ -1,3 +1,27 @@
+# Local PSP v0.4.61 — New Game balance selector (2026-11-11)
+
+User requested difficulty selection at the start of PSP. Implemented the
+two existing PS2 balance choices after Finish Settings, defaulting to PSP.
+Mode 0 uses exact original PS2 HP/reward values for matching units, with
+139 HP and 294 reward differences. Mode 1 and invalid getter modes use
+native PSP values. The PSP-only Dragoon retains its PSP records.
+
+Save extension is MXBD / version 1 / mode 0 or 1 at common tail +0x3e0.
+Absent/invalid extensions default PSP. Scenario loading restores the mode
+before unit decoding. Native tests cover 4096 getter cases, two invalid-ID
+fallbacks, native opening and controls, complete serialization, both save
+tail types and early restoration. Isolated PPSSPP verified selector layout,
+default PSP, Cancel, both robot setup routes, and both mode starts through
+three favorite picks into the opening. All new loaded bytes and relocations
+match the actual ISO. Live gameplay save/reload and physical PSP are pending.
+
+Build from local .60 via `tools/build_psp_s1050.py --base 0.4.60 --version
+0.4.61 --feature difficulty`. The full PSP builder also includes the feature
+from .61 onward. Output SHA-256 is
+`c7d8bba67e15fd570e629afcd900ec752042672496c0b318af0f03208d6e0786`.
+See `docs/psp_difficulty.md` and the per-build native/runtime evidence in
+`work/output/`. Public remains .58. No release requested for .61.
+
 # Public PSP / PS2 v0.4.58 — 2026-11-09
 
 Published [v0.4.58](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.4.58)
