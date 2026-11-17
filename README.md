@@ -9,7 +9,7 @@ All story dialogue and chapter titles are translated, but we have not tested
 every route or completed human proofreading. Bug reports, proofreading and
 playtesting are welcome. Join the Retro Trans community:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 You can also [report an issue](https://github.com/retro-trans/SRW-MX-Portable/issues).
 Include the build version, route, stage and an in-game screenshot.
