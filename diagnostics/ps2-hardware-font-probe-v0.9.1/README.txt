@@ -22,4 +22,4 @@ If combat works here, that implicates the replacement font path; it does not
 identify the precise fault. If it still freezes, the cause remains unresolved.
 Do not use this diagnostic build for a long playthrough or a release update.
 
-No ISO is included in this folder. Nothing was published to GitHub.
+No ISO is included in this folder. This diagnostic is hosted for issue #1 testing. No GitHub release was created.
