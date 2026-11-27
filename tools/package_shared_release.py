@@ -40,7 +40,6 @@ def main(version,retro_trans_root,artifact_tests=None):
     if artifact_tests:
         test_data=json.loads(Path(artifact_tests).read_text(encoding='utf8'))
         assert test_data['version']==version and test_data['all_artifact_checks_passed']
-        assert test_data['campaign_proofreading_included']
         import title_footer
         for platform,prefix,manifest_data in zip(('PSP','PS2'),('SRWMX_EN_','SRWMX_PS2_EN_'),manifests):
             target=ROOT/f'work/output/{prefix}{version}.iso'
@@ -64,7 +63,7 @@ def main(version,retro_trans_root,artifact_tests=None):
     license_files=[ROOT/f'work/output/{prefix}{version}_FONT_LICENSE.txt' for prefix in ('SRWMX_EN_','SRWMX_PS2_EN_')]
     assert license_files[0].read_bytes()==license_files[1].read_bytes()
     shutil.copyfile(license_files[0],dest/'FONT-LICENSE.txt')
-    if artifact_tests:
+    if artifact_tests and test_data.get('campaign_proofreading_included'):
         for source,name in [('chapters01_end_proofread.html',f'PROOFREADING-v{version}.html'),
                             ('dialogue_review_2026_10_12.html',f'DIALOGUE-REVIEW-v{version}.html')]:
             # Historical review pages are optional presentation aids. Current

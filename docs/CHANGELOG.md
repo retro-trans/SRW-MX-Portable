@@ -1,5 +1,15 @@
 # Changelog
 
+## Public v0.9.5 — PS2 player-turn freeze fix
+
+- Released the hardware-confirmed PS2 forecast fix with the same ISO as the
+  v0.9.5 test. It fixes five forecast label copies, including Attack and
+  No Counter in the player action row.
+- Stamped the PSP title screen v0.9.5 to match the PS2 release. PSP game
+  content comes from public v0.9.0.
+- Full patches from the Japanese ISOs and upgrades from public v0.9.0 are
+  available for both platforms. [Release notes](releases/v0.9.5.md)
+
 ## Project credits — 2026-11-11
 
 - Credited **pow** as project lead and **Melfice** as playtester in the README.

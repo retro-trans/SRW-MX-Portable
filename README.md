@@ -16,39 +16,27 @@ Include the build version, route, stage and an in-game screenshot.
 
 ## Play it
 
-The latest release is **[v0.9.0](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.9.0)**
-for both PSP and PS2. Use your matching Japanese ISO or the exact published
-English v0.4.58 image for your platform.
-
-Both builds include the English campaign and interface with a native
-proportional 4× Latin font and campaign proofreading. This release adds a PSP
-New Game balance selector and fixes MP EVA and Funds/PP status spacing on both
-platforms. Earlier PSP Chapter 55 and upgrade-bonus fixes and the PS2
-Chapter-30 fix remain included. Both platforms offer two balance modes and
-three favorite series; PS2 retains the intentional PSP scenario ports.
-See the [release notes](docs/releases/v0.9.0.md) for changes and playtesting
-checks. The GitHub release includes exact source and output hashes.
+The latest release is **[v0.9.5](https://github.com/retro-trans/SRW-MX-Portable/releases/tag/v0.9.5)**
+for PSP and PS2. It fixes the PS2 player-turn freeze when opening the battle
+forecast. The PSP build carries the matching title screen version and the
+v0.9.0 game content. [Release notes](docs/releases/v0.9.5.md)
 
 ### Apply
 
-Use [Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools):
-
-- Refresh the catalog, choose **Automatic**, select your matching Japanese
-  ISO or published English v0.4.58 ISO, and patch.
-- Alternatively, use **Apply xdelta** with the corresponding bare patch below.
-  No extraction is needed. The shared manifest covers both platforms.
+With Retro Trans Tools, refresh the catalog and choose **Automatic** with your
+Japanese or published English ISO. To use a bare patch directly, choose
+**Apply xdelta** and select the file that matches your input.
+[Retro Trans Tools](https://github.com/retro-trans/retro-trans-tools)
 
 | Your source | Download |
 |---|---|
-| Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.0/SRWMX-English-v0.9.0.xdelta) |
-| Published English PSP v0.4.58 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.0/SRWMX-English-v0.4.58-to-v0.9.0.xdelta) |
-| Japanese PS2, SLPS-25345 | [Full PS2 patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.0/SRWMX-PS2-English-v0.9.0.xdelta) |
-| Published English PS2 v0.4.58 | [PS2 upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.0/SRWMX-PS2-English-v0.4.58-to-v0.9.0.xdelta) |
+| Japanese PSP, ULJS-00041 | [Full PSP patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.5/SRWMX-English-v0.9.5.xdelta) |
+| Published English PSP v0.9.0 | [PSP upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.5/SRWMX-English-v0.9.0-to-v0.9.5.xdelta) |
+| Japanese PS2, SLPS-25345 | [Full PS2 patch](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.5/SRWMX-PS2-English-v0.9.5.xdelta) |
+| Published English PS2 v0.9.0 | [PS2 upgrade](https://github.com/retro-trans/SRW-MX-Portable/releases/download/v0.9.5/SRWMX-PS2-English-v0.9.0-to-v0.9.5.xdelta) |
 
-Keep checksum verification enabled. Patches require the exact supported image;
-local test builds are not upgrade inputs. Earlier public
-releases can use the existing catalog upgrade routes. Other patchers supporting
-xdelta3 work with the same patch files.
+Keep checksum verification enabled. Older public releases can use the
+catalog upgrade routes. The patches also work with xdelta3.
 
 Use an **in-game save** and restart when changing builds. Emulator save states
 retain old code and resources. PS2 and PSP patches are separate platform builds.
